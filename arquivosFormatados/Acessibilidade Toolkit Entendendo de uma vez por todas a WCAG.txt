@@ -1,0 +1,133 @@
+**RESUMO**
+
+Um dos grandes desafios para a correta aplicaçao das boas praticas
+de acessibilidade em projetos digitais (sites e aplicativos) continua
+sendo o nao entendimento e adequaçao da WCAG (Web Content
+Accessibility Guidelines) publicadas e mantidas pelo W3C (World
+Wide Web). Este artigo aborda uma ferramenta capaz de tornar
+mais simples o aprendizado da WCAG, atraves de uma aplicaçao
+pratica individual ou em grupo possibilitando a discussao,
+esclarecimento e fixaçao do aprendizado. A ferramenta em questao
+resume cada um dos 78 criterios de sucesso atualmente existentes
+na WCAG, em formato de cartoes manipulaveis. Denominado de
+"Acessibilidade Toolkit" , e tambem a primeira abordagem no
+mundo criada neste formato para representaçao simplificada do
+tema.
+
+Palavras-Chaves
+Acessibilidade, Toolkit, WCAG, Card Sorting, Metodologia,
+Ferramenta
+
+**DESCRICAO DO PROBLEMA**
+
+Me envolvo atualmente com todos os aspectos relacionados a
+aplicaçao de acessibilidade em meios digitais e um dos maiores
+problemas que percebo nessas discussoes e a nao compreensao
+adequada dos criterios de sucesso da WCAG. Como atende-los
+corretamente sem que haja interpretaçoes incorretas?
+
+Todos que iniciam os estudos a respeito das diretrizes de
+acessibilidade percebe o quanto o conteudo e denso e complexo, o
+que invariavelmente provoca o nao entendimento completo das
+diretrizes e que consequentemente promove a sua adoçao parcial.
+
+**SOLUCAO/ABORDAGEM ADOTADA**
+
+A ideia de se criar um toolkit começou a nascer a partir do momento
+que eu utilizei um modelo primario deste material em alguns
+workshops que realizei para disseminaçao do conhecimento da
+Acessibilidade.
+
+Em um exercicio simples de card sorting (onde era solicitado
+aos participantes que escolhessem os criterios da WCAG
+relevantes ao desafio proposto), percebi a dificuldade clara dos
+profissionais em entender alguns dos criterios de sucesso. E ficou
+mais claro ainda que o grande problema era justamente a forma
+como alguns deles eram descritos.
+
+Levando em consideraçao que existem toolkits em modelos de
+cartas para as mais diversas atividades, mas ate hoje nenhum
+modelo ainda voltado para acessibilidade e o melhor
+entendimento da WCAG, foi simples imaginar um "toolkit" como
+ferramenta facilitadora neste processo.
+
+Recentemente em um artigo para o site "Movimento Web Para
+Todos", da Talita Pagani , citou-se que desafios foram propostos
+para a area de IHC e a pouca exploraçao pela comunidade
+academica de IHC e UX sobre o tema acessibilidade e inclusao
+digital. Em um dos desafios propostos ha o seguinte
+questionamento: "Existe, de fato, uma dificuldade no
+entendimento das recomendaçoes de Acessibilidade, mesmo com
+a adaptaçao ao contexto brasileiro?". De acordo com os estudos
+efetuados por mim, no processo explicado anteriormente, nao e
+dificil chegar a conclusao de que a resposta a essa pergunta e, sim,
+ha uma dificuldade neste entendimento.
+
+**PROCESSO DE CRIAÇAO E DESENVOLVIMENTO**
+
+A aplicaçao inicial foi pensada para a utilizaçao em exercicios
+de "card sorting”, onde as pessoas envolvidas em projetos digitais
+poderiam facilmente identificar problemas e situaçoes que
+precisariam contemplar durante o desenvolvimento dos projetos.
+
+O melhor feedback que pude receber ate agora foi ter feito as
+pessoas que manusearam o toolkit perceberem que os criterios de
+sucesso e diretrizes nao estavam relacionados diretamente a algo
+especifico para deficientes, mas sim a heuristicas basicas de
+desenvolvimento de qualquer projeto digital.
+
+Houve o desenvolvimento de um MVP (Minimum Viable
+Product) e a partir dele a elaboracao de rascunhos e resumos para
+todos os criterios de sucesso da WCAG, alguns destes resumos
+chegaram a ter 7 versoes diferentes antes da producao final:
+
+Fotografia 1: 3 imagens demonstrando o processo de criacao citado
+neste artigo.
+
+Após o processo de revisao houve a criacao de um “boneco”
+para testes de impressao e legibilidade:
+
+Fotografia 2: 4 imagens representando a criacao do “boneco” para
+testes de impressao
+
+Houve tambem a preocupacao com o design inclusivo,
+escolhendo o formato dos elementos e tambem detalhes como a
+tipografia utilizada visando a sua completa legibilidade:
+
+Figura 1: Comparativo entre a tipografia final utilizada (Tiresias
+Infofont) com uma tipografia padrão (Arial) e suas respectivas
+diferencas visuais.
+
+Por fim vale deixar claro que essa ferramenta esta longe de
+substituir a leitura e entendimento completo de todas as diretrizes
+WCAG de forma aprofundada.
+
+No entanto, a tecnica mostrou-se eficaz na aplicaçao pratica
+em workshops realizados tanto na empresa em que trabalho
+atualmente (Itau), quanto no mercado em diferentes empresas,
+assim como tambem em eventos (o workshop foi realizado em
+duas ediçoes do evento "UX CONF", respectivamente em 2018 e
+2019) com bons "feedbacks” por parte dos participantes.
+
+Houve tambem um workshop no evento "Web BR 2018",
+produzido pelo W3C Brasil (World Wide Web Consortium) em
+que eles foram responsaveis pela produçao da impressao e
+distribuiçao deste material entre os participantes do evento, em
+uma versao customizada com a identidade visual do mesmo.
+
+Fotografia 3: composicao final do material produzido pelo W3C
+
+Todo o material esta disponivel de forma gratuita para
+qualquer pessoa atraves da plataforma GitHub, para que todos
+contribuam, compartilhem, reutilizem e disseminem o
+aprendizado adquirido. Ha tambem um video explicativo do
+processo de criacao e de utilizacao deste material disponibilizado
+na plataforma Youtube.
+
+Fotografia 4: composicao final do material contendo a embalagem
+montada, cartoes instrucionais e todos os 78 cartoes com os
+criterios de sucesso.
+
+**CONSIDERACOES FINAIS**
+
+A criaçao do Acessibilidade Toolkit se mostrou uma ferramenta valiosa para facilitar o entendimento e a aplicaçao da WCAG. Sua abordagem pratica e ludica, atraves de cartoes manipulaveis, permite que os profissionais de projetos digitais internalizem os criterios de sucesso e os incorporem em seus processos de desenvolvimento. Ao tornar a acessibilidade mais acessivel, o toolkit contribui para a criaçao de produtos digitais mais inclusivos e que beneficiam a todos os usuarios, independentemente de suas habilidades ou limitaçoes.

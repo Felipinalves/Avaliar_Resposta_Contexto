@@ -1,0 +1,90 @@
+**PROBLEMA**
+
+A dislexia e um transtorno especifico de aprendizagem de origem neurobiologica que
+atinge mais de 8 milhoes de brasileiros (ABCD, 2023). Ela e caracterizada pela
+dificuldade no reconhecimento preciso e/ou fluente das palavras, na habilidade de
+decodificaçao e em soletraçao (ABD, 2016). Segundo De Luca (2018), as caracteristicas
+mais comuns entre as pessoas com dislexia sao a substituiçao e omissao de letras,
+silabas e palavras. Na aprendizagem de uma lingua estrangeira, esses obstaculos se
+sobrepoem, por exemplo ao considerarmos nativos da lingua portuguesa no aprendizado
+da lingua inglesa, em palavras com baixa relaçao entre a letra e o som, como na palavra
+island (/ailand/), onde a pronuncia da letra “s” e omitida. Logo, pessoas com dislexia
+acabam perdendo o interesse por livros impressos e dicionarios, possuem mais chance
+de abandono de cursos de idiomas e falta de interesse em aprender uma lingua
+estrangeira. Experiencias internacionais ja mostraram soluçoes voltadas a esse publico
+para apoio a escrita (Wu et al., 2019), inclusive com inteligencia artificial com
+resultados positivos (Goodman et al., 2022), contudo ha pouca pesquisa sobre esse
+topico no cenario brasileiro envolvendo metodos da area de IHC. Portanto, este artigo
+tem como objetivo investigar e aprofundar as dificuldades e necessidades de pessoas
+com dislexia e apresentar um prototipo de aplicativo que possa atender as metas de
+design de facilitar o aprendizado, o uso e a eficiencia.
+
+**METODOLOGIA**
+
+A pesquisa segue a metodologia do Design centrado no Humano, baseado nos passos do
+metodo proposto pela organizaçao Ideo (Org, 2015). Entretanto, algumas etapas foram
+orientadas pelo livro de Barbosa et al. (2021). De uma forma geral, a pesquisa
+compreende 4 macro-etapas: imersao, ideaçao, prototipaçao e avaliaçao. Na primeira,
+tivemos a definiçao do problema e metas de design, seguido por uma Desk Research,
+organizada em uma matriz de Certezas, Suposiçoes e Duvidas (CSD). Uma Analise
+Comparativa auxiliou com insights positivos e negativos, funcionalidades gerais e
+recursos de acessibilidade de aplicaçoes para esse publico. Visando conhecer as
+demandas dos usuarios, um formulario online foi compartilhado em parceria com a
+Associaçao Brasileira de Dislexia (ABD) nas redes sociais alem de 3 entrevistas (duas
+assincronas e uma sincrona por videoconferencia) com perfis diferentes de dislexia:
+duas com enfase na disortografia (maior dificuldade na escrita) e outra com dificuldades
+gerais. Esses dados foram obtidos seguindo protocolos eticos, com consentimento dos
+usuarios. Apos analises dos dados, delimitamos personas, cenarios-problema e tarefas
+de usuarios. Na fase de ideaçao, foram criados wireframes de baixa fidelidade e
+posteriormente um prototipo final denominado Lili (Learning and Improvement for
+Language with Immersion) que posteriormente foi avaliado em 4 tecnicas distintas:
+duas de inspeçao (sem participaçao dos usuarios) sendo uma a avaliaçao heuristica e a
+outra, o percurso cognitivo e duas de observaçao (com os usuarios) sendo uma o First
+Click e a outra, o Teste de Usabilidade a partir de tarefas realizadas remotamente pelos
+participantes.
+
+**APLICATIVO LILI LEARNING AND IMPROVEMENT FOR LANGUAGE WITH IMMERSION**
+
+Todo o percurso para o desenvolvimento da ideia do aplicativo Lili esta documentado na
+pagina web, aprenda com a Lili com todos os passos metodologicos ate o prototipo
+simulado atraves do programa Figma, conforme demonstrado na Figura 1.
+
+O aplicativo contem as funcoes “Escrever”, “Falar” e “Tirar Foto” para traduzir palavras
+e frases do ingles para o portugues e “Praticar” para reforçar o aprendizado atraves da
+gamificacao. A principal limitacao esta na quantidade de pessoas diagnosticadas com
+dislexia que participaram da etapa de imersao (11 respostas), expondo a necessidade de
+uma avaliacao qualitativa mais aprofundada, alem da possibilidade de o prototipo passar
+por uma avaliacao de um especialista em dislexia para de pontos de melhoria em
+trabalhos futuros.
+
+
+**LICOES APRENDIDAS E CONTRIBUIÇOES**
+
+Varias liçoes foram aprendidas durante as etapas de design, por exemplo, muitas
+informaçoes na tela do aplicativo acarretaram confusao e desistencia por parte das
+pessoas com dislexia, nos orientando a deixar o app Lili o mais objetivo possivel.
+Alguns entrevistados relataram um modo de visualizaçao diferente das palavras durante
+a leitura (similar ao tridimensional) como uma caracteristica nao muito comum da
+dislexia e outros, embaralhamento das letras, nos orientando a acrescentar videos curtos
+com simulaçoes de como pronunciar cada fonema de determinada palavra e de como
+posicionar a lingua durante esse mesmo processo a fim de auxiliar na pronuncia correta
+de determinados fonemas da lingua inglesa, porem com o desafio em aberto de
+encontrar boas representaçoes para cada palavra. Na Avaliaçao Heuristica realizada com
+2 avaliadores independentes, foram detectados 7 problemas (principalmente sobre o
+controle da liberdade do usuario na tarefa Praticar). O Percurso Cognitivo foi realizado
+por apenas um avaliador que detectou o mesmo problema (icones desabilitados) nas 4
+tarefas, porem esse nao era o foco da simulaçao no prototipo. Na avaliaçao do First
+Click com 6 usuarios, realizada com o apoio da plataforma Chalkmark, houve 100% de
+sucesso nas tarefas Escrever e Praticar (exercicio de Pronuncia dos Animais) e 17% de
+sucesso em outra tarefa de Praticar e Tirar foto. No Teste de Usabilidade em geral, com
+uso da plataforma Maze, 5 usuarios realizaram tarefas definidas a partir da interaçao
+com prototipo do Figma, tendo 80% de sucesso direto nas tarefas Escrever e Tirar foto.
+Houve 60% de sucesso direto na tarefa Praticar. Ja na tarefa Falar, nao houve sucesso
+direto, entretanto, todos conseguiram chegar a tela final com a traduçao correta da
+palavra. Resumindo, 60% dos usuarios consideram o aplicativo facil de usar e 80%,
+como um facilitador do aprendizado de idiomas, o que nos impulsiona a consertar os
+problemas em etapas futuras para que a Lili contribua, na pratica, com o aprendizado de
+idiomas das pessoas dislexicas.
+
+**CONSIDERACOES FINAIS**
+Os resultados iniciais obtidos com o prototipo do aplicativo Lili demonstram o potencial da abordagem centrada no humano para o desenvolvimento de tecnologias que atendam as necessidades de pessoas com dislexia. As liçoes aprendidas durante o processo de design, como a importancia de interfaces claras e objetivas, podem ser valiosas para o desenvolvimento de outras ferramentas de apoio ao aprendizado de idiomas para esse publico. A continuidade da pesquisa, com avaliaçoes qualitativas mais aprofundadas e a participaçao de especialistas em dislexia, podera aprimorar ainda mais o aplicativo e contribuir para a melhoria do aprendizado de idiomas de pessoas com dislexia.

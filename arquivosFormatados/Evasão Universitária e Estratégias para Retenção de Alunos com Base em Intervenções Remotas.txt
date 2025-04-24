@@ -1,0 +1,94 @@
+**INTRODUCAO**
+
+O fenomeno da evasao e considerado complexo e comum as instituiçoes universitarias
+publicas e privadas no mundo contemporaneo, interferindo diretamente na forma como
+os recursos sao geridos e nos resultados da qualidade de ensino . No
+Brasil, as primeiras pesquisas começaram a partir de 1995, epoca em que foi cons-
+tituida a Comissao Especial de Estudos sobre Evasao (portaria SESu/MEC), com a fi-
+nalidade de avaliar o desempenho das Instituiçoes Federais de Ensino Superior - IFES,
+explicada pelo crescimento consideravel no numero de vagas oferecidas pelas IFES
+. Nas universidades federais brasileiras, dados do Censo
+divulgados pelo INEP apontam que em 2017 a evasao nas universidades federais brasi-
+leiras atingiu a taxa de 19,9%, com um aumento de 3,4% em relaçao ao ano de 2016.
+
+As pesquisas identificadas na literatura apontam que entender a atual situaçao das
+universidades e um fator positivo para criar programas de combate a evasao, com plane-
+jamento de açoes e maior acompanhamento da situaçao. Criar um plano para conhecer
+as causas, problemas e planejar uma intervencao social e academica, especialmente no
+primeiro ano, traz benefıcios satisfatorios [Pal 2012]. 
+Este trabalho traz como contribuicao uma sugestao de sistema redesenhado para
+a realizacao de intervencoes (ou acoes praticas) visando diminuir as taxas da evasao e minimizar as consequencias e prejuızos causados por ela para o estudante e instituicao.
+
+
+**USO DO SISTEMA ESPIM PARA INTERVENCOES REMOTAS**
+
+As intervençoes para retençao sao aplicadas de diferentes formas nas instituiçoes de en-
+sino superior. No contexto deste trabalho o termo intervençao e entendido como açoes
+que podem ser conduzidas, seja com gestores e professores, seja com estudantes, bus-
+cando minimizar a evasao universitaria. Esta seçao descreve modelos de intervençao
+planejados por psicologos no sistema ESPIM e que estao sendo usados com estudantes da
+universidade foco desta pesquisa, que buscam ajuda, pois enfrentam dificuldades diversas
+nos seus cursos de graduaçao ou pos-graduaçao.
+
+O ESPIM e um metodo que combina procedimentos selecionados de tecnolo-
+gias de ensino programadas, capaz de apoiar a coleta de dados e o planejamento de
+intervençoes remotas . O modelo e apoiado por um sistema computa-
+cional de mesmo nome, em que a coleta de dados ocorre por meio da realizaçao de tarefas
+e de lembretes programados pelos especialistas de dominio. O sistema prove um padrao
+para autoria e a geraçao dos programas de intervençao com conteudo personalizado, por
+uma interface Web de autoria projetada para ser acessivel e utilizada por diferentes perfis
+de especialistas sem a necessidade de um profissional da Computaçao. Esses programas
+sao documentos multimedia interativos, exibidos em dispositivos moveis por um player
+mobile, um aplicativo movel tambem chamado ESPIM. Os programas planejados na inter-
+face Web pelos especialistas de dominio sao disparados para os usuarios alvo em horarios
+especificos, definidos por esse profissional no momento da autoria .
+
+Em parceria com um programa de estudo da propria universidade, liderado pelo
+departamento de Psicologia, o ESPIM foi redesenhado para fornecer apoio aos atendimen-
+tos com os estudantes por meio da aplicaçao de intervençoes remotas e com elementos
+de gamificaçao. Em geral, os atendimentos no programa de estudo sao realizados apos
+iniciativa dos estudantes em buscar o apoio do programa, que faz o levantamento das
+informaçoes do estudante, quais sao as principais dificuldades e especificidades da vida
+academica e rotina diaria, buscando as direçoes que podem ser seguidas para eliminar ou
+diminuir as queixas. Em seguida, sao elaborados planos de atendimento para aplicar as
+tecnicas comportamentais e realizar o acompanhamento semanal. Contudo, o principal
+problema no acompanhamento da evoluçao comportamental, explicitada pelos profissio-
+nais do programa, e a dependencia do retorno de informaçoes por parte do estudante, que
+muitas das vezes nao se expressa ou nao realiza o retorno semanal.
+
+Segundo o programa de estudo, as principais queixas dos estudantes que buscaram
+apoio em 2021 foram: a) dificuldades com organizaçao e planejamento; b) problemas de
+saude mental; c) dificuldade no rendimento academico; d) local de estudo inapropriado;
+e) interferencia nos estudos; f) procrastinaçao; g) dificuldades de aproveitamento em aula
+e, h) material de estudo nao satisfatorio.
+
+Neste trabalho, os programas de intervençao criados pelos profissionais da Psico-
+logia estao sendo feitos por meio do sistema ESPIM. Os programas buscam, por exemplo, fornecer apoio na organizacao de agendas, organizacao de tarefas academicas, de modo a diminuir as queixas apresentadas pelos estudantes, que em sua maioria consiste em problemas associados a falta de organizacao e planejamento; baixo rendimento e procrastinacao.
+A equipe do programa comecou entao o planejamento dos programas de intervencoes com base nos acompanhamentos ja realizados tradicionalmente por eles, iniciando gradualmente o uso do sistema para atividades que mais se ajustam ao mesmo. Os programas replicados por eles no sistema ESPIM inicialmente foram: a) Manejamento de Energia: atividades para identificar periodos de maior ou menor energia ao longo do dia, e estrategias para manejar essa energia e obter maiores rendimentos; b) Recompensas e autocuidado: identificar reforcadores e estimulos positivos as acoes e identificacao das rotinas de autocuidado do estudante, como qualidade do sono, habitos alimentares, contato social e atividades fisicas. Uma rotina ideal contribui para a evolucao das atividades academicas; c) Registro de tentativas: o estudante fica responsavel por informar quantas tentativas de estudo foram realizadas durante o dia, a cada tentativa ele registra em uma aplicacao e no final do dia informa no ESPIM. O objetivo e identificar os dias da semana em que sao realizadas mais tentativas, alem de obter um historico da quantidade de tentativas de estudo ao longo das semanas. Esse historico consegue evidenciar uma possivel evolucao nos estudos; d) Procrastinacao: essa atividade pode ser feita a qualquer momento, e serve para medir como anda a procrastinacao em relacao a diferentes tarefas academicas. Ao longo do tempo, o estudante podera visualizar o progresso em relacao as diferentes atividades e verificar sua evolucao quanto a procrastinacao das tarefas; e) Planejamento semanal: atividades para realizar o planejamento semanal da rotina do estudante e identificar horarios e periodos disponiveis ou que podem ser replanejados para otimizar e diminuir a procrastinacao e as dificuldades nos estudos.
+A Figura 1 ilustra o planejamento e a execucao das intervencoes feitas pelos psicologos do programa, relacionadas a coleta das informacoes de autocuidado. Durante o acompanhamento os profissionais buscam interagir com os estudantes por meio de texto e imagens, coletando informacoes relacionadas ao sono como: duracao; satisfacao e preparacao para dormir. Em seguida sao realizadas intervencoes para coletar informacoes da alimentacao, contato social e atividades fisicas.
+Durante o desenvolvimento deste trabalho, a equipe do programa de estudo aplicou 2 conjuntos de intervencoes - Recompensas e autocuidado e Registro de tentativas - para trabalhar os aspectos de autoconhecimento e automonitoramento do desempenho do proprio estudante, essenciais para o sucesso academico. As atividades contaram com a participacao de 2 estudantes que demonstraram interesse em participar e concordaram com o termo de consentimento previsto no projeto aprovado pelo comite de etica.
+Dentre as atividades, os estudantes foram incentivados a registrar informacoes relacionadas as preferencias de estudo; monitoramento diario de procrastinacao e tentativas de se engajar nos estudos. Buscou-se exercitar de forma mais continua as habilidades dos participantes durante toda a semana, reforcando os assuntos discutidos nas sessoes de atendimento.
+
+**CONSIDERACOES FINAIS**
+
+Dentre os resultados, observou-se que o monitoramento diario estimula os estudantes a
+desenvolverem o habito de auto-observaçao com maior efetividade, se comparado com
+apenas uma retrospectiva no atendimento semanal. Alem disso, os estudantes demonstra-
+ram compreender os beneficios da coleta dos dados rotineiramente, reportando afinidade
+com o funcionamento em geral, facilidade de uso e disposiçao em responder os ques-
+tionarios. Contudo, os profissionais relataram dificuldades em garantir a utilizaçao do
+aplicativo regularmente, observando que algumas vezes os lembretes eram enviados em
+um momento nao oportuno a utilizaçao da aplicaçao ainda que os horarios tenham sido
+acordados com os estudantes.
+
+A utilizaçao do ESPIM revelou algumas opçoes de aprimoramento para beneficiar
+os estudantes. Os profissionais sugeriram a modelagem da utilizaçao do aplicativo em
+forma de sessao, envolvendo-o diretamente no trabalho realizado por eles. Apesar disso,
+dado a flexibilidade das funcionalidades, os profissionais afirmam que irao adequa-lo a
+outras demandas do projeto. Os autores deste trabalho acreditam que o ESPIM tem po-
+tencial para apoiar os profissionais do programa nas intervençoes de apoio a retençao dos
+estudantes e que os elementos de gamificaçao podem corroborar no maior engajamento.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o sistema ESPIM se mostra uma ferramenta promissora para o combate a evasao universitaria, permitindo o acompanhamento remoto e personalizado dos estudantes. A gamificaçao e o monitoramento diario podem aumentar o engajamento e a adesao ao programa. No entanto, e importante considerar as dificuldades relatadas pelos profissionais em garantir a utilizaçao regular do aplicativo, buscando soluçoes para otimizar a experiencia do usuario e garantir o sucesso das intervençoes. O ESPIM tem o potencial de transformar a forma como as universidades abordam a retençao de alunos, oferecendo um suporte mais eficaz e adaptado as necessidades individuais de cada estudante.

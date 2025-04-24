@@ -1,0 +1,135 @@
+**RESUMO**
+
+O uso de personas permite obter uma visao das principais
+caracteristicas de um publico alvo e e amplamente utilizado
+na proposta de novos produtos e serviços. Esta pesquisa
+propoe o uso de personas para direcionar a realizaçao de
+açoes de incentivo a permanencia e engajamento de alunas
+nos cursos de TI da Universidade Federal do Ceara no
+campus de Russas. Foi realizada uma pesquisa baseada em
+questionario com as alunas do campus para identificar o seu
+perfil. Com base nos resultados foram criadas tres personas.
+As personas descrevem o perfil das alunas, as problematicas
+enfrentadas e fatores de risco que podem acarretar em sua
+desistencia. A partir dos resultados, sera possivel definir
+açoes a serem realizadas para o fortalecimento e
+empoderamento das alunas, criando assim uma maior
+participaçao feminina nos cursos de TI.
+
+
+**INTRODUCAO E CARACTERIZAÇAO DO PROBLEMA**
+
+Personas sao arquetipos de usuarios que servem como
+exemplo para representar o publico alvo, ou seja, a quem o
+sistema se designa . Trata-se da criaçao de personagens
+ficticios, que representam por meio de suas caracteristicas o
+publico-alvo do tema que se quer abordar.
+
+Açoes de incentivo para a inserçao e permanencia das
+mulheres na Computaçao vem sendo adotadas por diversas
+universidades, empresas e instituiçoes de fomento .
+Entretanto, diferentes açoes podem ser adotadas de acordo
+com os problemas e as necessidades identificadas em um
+determinado contexto, como oficinas, palestras, foruns e
+competiçoes. Nem toda açao pode ser adequada/necessaria a
+todos os contextos, sendo necessario um direcionamento na
+seleçao das açoes adequadas. Esta pesquisa propoe a criaçao
+de personas para delinear o perfil de alunas da Universidade
+Federal do Ceara (UFC) no campus de Russas, onde um
+projeto visa fortalecer a participaçao e engajamento feminino
+nos cursos de TI. A motivaçao surgiu a partir da percepçao
+de que as alunas possuem diferentes necessidades e desafios
+na vida academica e que as açoes devem alcançar os
+diferentes perfis de alunas existentes em um contexto.
+
+TRABALHOS RELACIONADOS
+
+Leme et al. [2] utilizaram a tecnica de personas para delinear
+os diferentes perfis de idosos que utilizam o Facebook, suas
+motivacoes e dificuldades de interacao. Rodrigues et al. [5]
+definem personas para caracterizar o publico alvo de
+aplicacoes terapeuticas para a saude mental e com isso
+orientar o design das aplicacoes. Observa-se que a criacao de
+personas pode orientar o design de produtos e servicos a
+determinado publico alvo. Pesquisas por meio de
+questionarios vem sendo conduzidas para identificar os
+desafios de alunas de graduacao, porem nao foi
+observado o uso da tecnica de personas como meio de utilizar
+os resultados das pesquisas para orientar acoes futuras
+direcionadas as alunas respondentes.
+
+**METODOLOGIA DE PESQUISA**
+
+Esta pesquisa faz parte do projeto de pesquisa e extensao
+"Meninas Digitais do Vale" que busca fortalecer a
+participaçao feminina em cursos de Ciencia da Computaçao
+e Engenharia de Software do campus da UFC em Russas.
+Uma pesquisa por meio de questionario foi conduzida para
+traçar os perfis das alunas do campus. Os questionarios
+foram criados pelas alunas que participam do projeto e pela
+professora coordenadora do projeto. O questionario buscava
+identificar o perfil demografico das alunas (nome, idade,
+estado civil e renda familiar), os fatores que influenciaram a
+escolha do curso, as suas experiencias universitarias, a area
+em que pretendem atuar, se ja sofreram ou presenciaram
+algum tipo de preconceito e se o fato de serem mulheres ja
+influenciou a sua vida academica. Tambem foram
+investigados fatores que podem influenciar na desistencia do
+curso e sua percepçao sobre os seus talentos e pontos que
+gostariam de melhorar. Os questionarios foram aplicados
+presencialmente em todas as salas dos cursos de TI do
+campus pelas mesmas alunas que o elaboraram, 89 das 106
+alunas do campus que fazem cursos de TI responderam. Com
+os resultados foram criadas tres personas com base em
+caracteristicas comuns entre as alunas. Os questionarios
+foram divididos em tres grupos, para traçar o perfil das
+alunas ingressantes (1o e 2o semestres), alunas veteranas (3o,
+4o e 5o semestres) e alunas finalistas (6o, 7o e 8o semestres).
+Com base nas tendencias identificadas nas respostas em cada
+um dos tres grupos, foram criadas as personas.
+
+PERSONAS IDENTIFICADAS
+
+Para a criacao das personas foram considerados o perfil
+demografico a situacao academica expectativas sobre a
+area seus talentos e necessidades As informacoes a serem
+apresentadas nas personas foram definidas por serem
+relevantes para direcionar as acoes do projeto A Figura 1
+ilustra as personas identificadas A primeira persona
+apresenta caracteristicas de uma aluna de 1 semestre
+chamada Maria Helena com 18 anos de idade e renda
+familiar de um salario minimo Maria Helena ja sofreu
+preconceito e nunca se sentiu favorecida por ser mulher
+Indica como seus talentos o rapido aprendizado a
+organizacao e a comunicacao Como pontos a melhorar ela
+indica a timidez o nervosismo e o foco Ela escolheu a
+Engenharia de Software devido a possibilidade de trabalhar
+com novas tecnologias e a oportunidade de criar aplicativos
+A segunda persona e Ana Rita aluna do 4 semestre possui
+20 anos de idade e renda familiar de tres salarios minimos
+Ela tambem ja sofreu preconceito e nunca se sentiu
+favorecida por ser mulher Possui talentos como a
+persistencia a lideranca e o rapido aprendizado Deseja
+melhorar a ansiedade a paciencia e a organizacao Ela possui
+experiencias academicas com iniciacao academica
+participacao de eventos cientificos e monitoria A terceira
+persona e Maria Luiza aluna de 7 semestre com 22 anos de
+idade e renda familiar de um salario minimo Ela ja sofreu
+preconceito e nunca se sentiu favorecida por ser mulher
+Como seus talentos indica a determinacao a criatividade e
+o rapido aprendizado Deseja melhorar a programacao a
+ansiedade e a organizacao Pretende atuar nas areas de
+Engenharia de Software e IHC
+
+**CONSIDERAÇOES FINAIS E TRABALHOS FUTUROS**
+
+As personas permitiram definir um conjunto inicial de açoes
+no campus, como foruns, palestras, oficinas e experiencias
+com jogos proporcionando um melhor ambiente para o
+fortalecimento e empoderamento das mulheres. As personas
+foram determinantes na analise das necessidades das alunas
+e no planejamento estrategico de açoes que iniciaram em
+agosto de 2018. Como trabalhos futuros, pretende-se validar
+as personas com o publico alvo e explorar outros criterios
+para a criaçao de personas em um mesmo grupo,
+enriquecendo a analise dos dados.

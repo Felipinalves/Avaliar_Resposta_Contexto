@@ -1,0 +1,41 @@
+**RESUMO**
+
+As cores tornam alguns aspectos dos modelos de processos de negocios mais faceis de entender. Embora os artigos confirmem essa afirmaçao, eles nao tratam de pessoas daltônicas. Algumas notaçoes ate proibem o uso de cores. Estudos de acessibilidade demonstraram cores seguras, permitindo ampla compreensao. Este trabalho propoe o uso de cores seguras para processos graficos representados em Linguagens Cidadas, melhorando sua transparencia obrigatoria.
+
+**INTRODUCAO**
+
+As cores, em um diagrama, sao usadas para informar, referenciar ou decorar ; resultando no efeito de associaçao, agregaçao, ordem e quantidade . A compreensao de modelos de processos de negocios, como diagramas, pode ser melhorada com o uso de cores , ja que sao detectadas com maior precisao e velocidade e ajudam na eficacia da comunicaçao . As cores, no entanto, sao sensiveis ao contexto e ao publico.
+
+Em relaçao aos processos de negocios, (i) contexto: as cores sao sensiveis a cultura , podem intrinsecamente carregar informaçoes, alterando a compreensao a priori; (ii) publico: a absorçao da cor e diferente entre a populaçao. Estima-se que, em todo o mundo, 8,5% dos homens e 0,5% das mulheres sao hereditariamente daltônicos , no Brasil, dois milhoes de cidadaos nascem ou descobrem, por ano, essa patologia; pode prejudicar o desenvolvimento humano, atuando nos aspectos intelectual e emocional .
+
+O uso de cores em diagramas de processos pode ser determinado pela conformidade das notaçoes de modelagem de processos de negocios ou pelas escolhas do modelador. No primeiro caso, a Unified Modeling Language (UML) permite apenas o uso de preto e branco ; enquanto a Business Process Model and Notation (BPMN) permite o uso de cores . Cada um dos extremos apresenta alguns problemas, mas em ambos, as cores sao usadas para facilitar a compreensao.
+
+No Brasil, a Lei 12.527, Lei de Acesso a Informaçao (LAI) (Brasil, 2011) torna obrigatoria a transparencia dos dados publicos por parte dos organismos publicos. O governo determina o alinhamento da transparencia com os principios da Linguagem Cidada, dizendo: "E clara, concisa, objetiva, nao burocratizada. Mais do que isso, e aquela que olha para o contexto sociocultural da pessoa a quem se dirige, adaptando-se as suas necessidades" (Brasil, 2015). Considerando que o uso correto das cores facilita a compreensao dos modelos de processos de negocios e que a LAI e o governo estipulam atençao ao contexto sociocultural do publico, parece ser relevante o uso de cores em diagramas.
+
+Carvalho (2016) propoe o uso de cores para traduzir modelos construidos em BPMN para a Linguagem Cidada. Este trabalho associa funçoes e atividades por meio do uso de cores (Figura 1); Cunha (2017) tambem traduziu modelos declarativos ConDec para a Linguagem Cidada, usando os mesmos principios. Os problemas sao: (i) Carvalho (2016) estimula o uso de cores, sem determinar quais; (ii) em ambos , o uso da cor e livre e sem fundamento, sem considerar que o publico-alvo pode ser daltônico. Negligenciar o publico afeta negativamente a compreensao e esta em desacordo com o principio da Linguagem Cidada descrito em lei .
+
+O objetivo deste trabalho e investigar o uso de cores em modelos de processos de negocios e acessibilidade, de acordo com a qualidade grafica derivada dos conceitos de Linguagem Cidada.
+
+Daltonismo e a dificuldade em distinguir cores ou algumas delas. E uma deficiencia congenita dividida em tres categorias principais: Monocromacia; Tricromacia Anomala; Dicromacia. Dado o limite de espaço, elas sao detalhadas em Color Blind Awareness (2018).
+
+Acessibilidade refere-se ao design de produtos, dispositivos, serviços ou ambientes para pessoas que possuem deficiencias. Mesmo que as notacoes de processos, em sua sintaxe concreta, nao estipulem o uso obrigatorio de cores (ou proibicao), elas podem ao menos apresentar um guia de cores seguro.
+
+**PROPOSTA**
+
+Krogstie (2016), em um trabalho relacionado, discute o uso da cor na modelagem de processos, mas nao aborda cores de segurança, recomendando que o uso da cor esteja ligado a notaçao e nao seja livre no ato da modelagem (como uma decisao do modelador).
+
+O objetivo deste trabalho e alcançado usando os artefatos expostos em duas pesquisas sobre cores seguras (Coady, 2013), sugerindo essas cores para a construçao de modelos. O produto de um deles e mostrado na Figura 2.
+
+As cores, nos modelos de processos de negocios, sao referenciais e nao informativas . Elas operacionalizam os efeitos da comunicaçao, auxiliando no ato informativo . Pessoas daltônicas com tritanopia nao conseguem absorver a cor com a eficacia desejada, como visto na Figura 2, mas desempenham efetivamente sua funçao referencial, cumprindo seu proposito.
+
+A Figura 2 apresenta cores adequadas para a construçao de uma comunicaçao transparente e eficaz com a Linguagem Cidada, respeitando os direitos das pessoas daltônicas a informaçao qualificada.
+
+Se poucas cores forem necessarias, recomenda-se escolher a escala de cinza ; no entanto, se o diagrama for impresso, ele pode se tornar ilegivel nesta opçao.
+
+**CONCLUSAO**
+
+As notaçoes de processos de negocios podem ter sua compreensao favorecida a partir do uso de cores com consciencia e qualidade, respeitando o direito a informaçao. Este trabalho une acessibilidade e construçao de artefatos informativos para auxiliar no avanço da democracia informacional, garantindo a qualidade da informaçao para um publico mais amplo.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho propoe uma abordagem inovadora ao considerar a acessibilidade na modelagem de processos de negocios, especificamente para pessoas daltônicas. A utilizaçao de cores seguras em Linguagens Cidadas garante que a informaçao seja compreendida por um publico mais amplo, promovendo a inclusao e a transparencia. A proposta de revisao dos padroes de cores para as Linguagens Cidadas de processos abre caminho para pesquisas futuras que visem aprimorar ainda mais a comunicaçao e o entendimento de informaçoes complexas por diferentes tipos de usuarios.

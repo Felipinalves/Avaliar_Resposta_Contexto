@@ -1,0 +1,135 @@
+**RESUMO**
+
+Durante muito tempo acreditou-se que o uso de
+calculadoras em sala de aula tornaria o aprendizado de
+matematica menos eficiente, com o argumento de que a
+calculadora pensaria pelo aluno. Essa concepçao vem
+mudando, e essa mudança pode ser observada com o
+surgimento de sistemas computacionais e aplicativos
+moveis que tem o intuito de apoiar estudantes no
+aprendizado de conteudos da area de exatas .
+Tradicionalmente aplicativos voltados as ciencias exatas
+possuem, cada um, ferramentas exclusivas que
+contemplam uma parcela dessa area, nao sendo
+encontrados, ate o momento, todos os recursos
+necessarios reunidos em uma so aplicaçao. Com base
+nessa problematica, e na visao de especialistas da area de
+tecnologias aplicada a educaçao sobre o potencial dos
+recursos e ferramentas digitais como auxilio no
+aprendizado de estudantes da matematica e afins ,
+foi desenvolvido um prototipo de aplicativo, denominado
+CalcTouch, que simula uma calculadora inteligente. O
+CalcTouch reune em um unico sistema algumas
+ferramentas encontradas em outros aplicativos e conta
+com alguns acessorios nao encontrados, ate o momento,
+em outras aplicaçoes. Para avaliar a usabilidade do
+prototipo do aplicativo foi realizada uma inspeçao, com
+base no checklist de heuristicas definidas para avaliaçao
+da usabilidade de aplicativos para celulares touchscreen
+MATCH checklist .
+
+Os resultados apontam que o CalcTouch possui um grau
+elevado de usabilidade no que diz respeito a
+correspondencia com o mundo real; consistencia e
+padroes; flexibilidade e eficiencia de uso; estetica e
+design minimalista; interacao fisica e ergonomia e; de
+legibilidade e layout. Entretanto, ainda necessita de
+ajustes nos elementos relacionados a visibilidade do
+status do sistema e de liberdade e controle do usuario.
+
+
+**1 A calculadora inteligente CalcTouch**
+
+O aplicativo CalcTouch conta com recursos de uma
+calculadora cientifica. Foi planejado e desenvolvido para
+atender usuarios que necessitam realizar calculos simples
+mas, principalmente, para apoiar a realizaçao de calculos
+mais complexos, que envolvem a resoluçao de formulas,
+por exemplo. Portanto, o CalcTouch contempla em sua
+aplicaçao formulas pre-definidas para realizaçao de
+calculos, como o EQSolve , com o diferencial de que
+no CalcTouch ha a possibilidade do usuario carregar
+novas formulas e funçoes. Alem disso, o aplicativo
+oferece uma calculadora de equaçoes de primeiro e
+segundo grau, com a possibilidade de visualizaçao da
+resoluçao passo a passo.
+
+A Figura 1 ilustra o prototipo do
+CalcTouch, exibindo os botoes para opcoes de
+Calculadora Cientifica, Calculadora de Formulas,
+Calculadora de Equacoes, Resolucao Manual
+(implementacao em desenvolvimento no momento da
+elaboracao deste artigo). Em destaque, a exibicao na tela
+de um exemplo da opcao selecionada: Calculadora de
+Equacoes. Por ser um aplicativo que reune um numero
+maior de recursos que as calculadoras convencionais,
+houve uma preocupacao com os aspectos relacionados a
+interface e a interacao dos usuarios com os recursos
+disponiveis.
+
+**2 Protocolo do teste de usabilidade**
+
+Para analisar a usabilidade do CalcTouch, foi realizada
+uma avaliaçao da interface do prototipo elaborado, com
+base nas heuristicas propostas no checklist para avaliaçao
+de aplicativos para celulares touchscreen  com tres
+voluntarios. Os voluntarios convidados, sendo dois do
+curso de Bacharelado em Ciencia e Tecnologia, e um da
+Licenciatura em Matematica, da Universidade Federal do
+ABC (UFABC) navegaram pelo aplicativo conduzidos
+por um protocolo de testes elaborado previamente. O
+protocolo contou com instruçoes detalhadas, que
+descreveu passo a passo as tarefas que os participantes
+deveriam realizar para testar o aplicativo. Um exemplo
+dos passos do protocolo para o teste do recurso
+Calculadora de resoluçao de equaçoes:
+
+1. Digite uma equaçao do primeiro grau, clique
+em Resolver, e clique em Ver resoluçao passo a
+passo;
+2. Digite uma equaçao do segundo grau, clique
+em Resolver, e clique em Ver resoluçao passo a
+passo;
+3. Repita os dois passos anteriores algumas vezes.
+4. Em caso de duvidas, assista ao video:
+https://is.gd/SKyVtg
+5. Verifique alguns exemplos em:
+https://tinyurl.com/y274lzvm
+
+Ao final da avaliaçao, os voluntarios responderam a um
+questionario, adaptado do checklist para avaliaçao da
+usabilidade de aplicativos MATCH.
+O checklist original possui 48 itens distribuidos em 10
+heuristicas , sendo estas uma adaptaçao das heurísticas propostas por Nielsen. Para avaliacao do CalcTouch as 10 heuristicas foram mantidas, mas os itens que nao se aplicavam foram eliminados, e o formulario foi reduzido
+para 33 itens disponiveis em: (https://is.gd/LrQ7HW/).
+
+**3 Resultados da avaliaçao da usabilidade**
+
+Os resultados mostraram que o CalcTouch contem alta
+correspondencia entre o sistema e o mundo real, alta
+consistencia e padronizaçao, alta flexibilidade e
+eficiencia de uso, possui estetica e design minimalista,
+navegaçao intuitiva, ergonomia e alta legibilidade.
+Porem, os resultados mostram tambem que o aplicativo
+tem pouca visibilidade de status do sistema, o usuario
+possui controle e liberdade medianos, e os tres
+voluntarios que testaram o aplicativo alegaram que o fato
+do sistema nao lidar com expressoes com parenteses
+diminui muito a versatilidade do aplicativo.
+
+**4 Consideraçoes finais**
+
+O objetivo deste trabalho foi apresentar os resultados
+derivados do protocolo de teste de usabilidade do
+prototipo de calculadora inteligente CalcTouch, um
+aplicativo para dispositivos moveis que contempla
+diversos recursos para apoiar a aprendizagem de
+matematica. Os resultados alcançados com a avaliaçao da
+usabilidade permitiram compreender as potencialidades e
+os limites de se agregar um numero maior de recursos em
+uma mesma aplicaçao, e apontaram as necessidades de
+ajustes para uma versao final mais adequada.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, o CalcTouch demonstrou ser uma ferramenta promissora para o aprendizado de matematica, com alta usabilidade em diversos aspectos. No entanto, a visibilidade do status do sistema e a liberdade de controle do usuario precisam ser aprimoradas. A implementaçao da capacidade de lidar com expressoes com parenteses e fundamental para aumentar a versatilidade do aplicativo.

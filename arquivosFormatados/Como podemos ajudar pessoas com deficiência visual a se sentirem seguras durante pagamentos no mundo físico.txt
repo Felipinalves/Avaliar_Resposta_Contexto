@@ -1,0 +1,154 @@
+**RESUMO**
+
+Pessoas com deficiencias visuais enfrentam desafios especificos ao re-
+alizar transaçoes financeiras. Este estudo examina a acessibilidade de maqui-
+ninhas de pagamento para esse grupo, utilizando uma abordagem centrada no
+usuario. O objetivo e realizar uma imersao profunda atraves de tecnicas de
+empatia para assim identificar as principais dificuldades enfrentadas por essas
+pessoas ao usar o dispositivo e explorar maneiras de resolve-las.
+
+
+**INTRODUCAO**
+
+Pessoas com deficiencia visual enfrentam varias barreiras para realizar açoes basicas do
+dia a dia devido a falta de acessibilidade em atividades corriqueiras. Uma dessas dificul-
+dades e a realizaçao de compras em lojas, em razao da falta de acessibilidade e preparo
+dos estabelecimentos . No Brasil, de acordo com o IBGE, cerca de 6 milhoes de pes-
+soas possuem deficiencia visual, sendo 506 mil com perda total de visao . Isso repre-
+senta aproximadamente 18,6% da populaçao brasileira que e afetada por esse problema
+de acessibilidade.
+
+O objetivo deste estudo e analisar os principais desafios de acessibilidade enfren-
+tados pelos deficientes visuais ao realizarem pagamentos no mundo fisico. Problemas
+comuns incluem a falta de feedback tatil e sonoro ao interagir com as maquininhas, difi-
+cultando transaçoes seguras e independentes .
+
+Este projeto segue uma abordagem de design centrada no usuario (Human-
+Centered Design) com o uso de tecnicas de imersao. A metodologia de design aplicada
+inclui tres fases principais: imersao e empatia, ideaçao e avaliaçao. Neste trabalho des-
+crevemos os insights obtidos durante a fase de imersao e empatia para melhor entender os
+desafios tanto do ponto de vista dos lojistas quanto dos usuarios deficientes visuais.
+
+**METODOLOGIA**
+
+A pesquisa de imersao consistiu na aplicaçao das seguintes tecnicas:
+
+Desk Research: Coleta de dados e insights por meio de pesquisas em fontes se-
+cundarias para compreender o estado atual das maquininhas de pagamento e suas
+limitaçoes de acessibilidade.
+Analise Competitiva: Avaliaçao das soluçoes existentes no mercado, identificando
+os pontos fortes e fracos das maquininhas atualmente em uso.
+Coleta de dados dos lojistas: Elaboraçao e distribuiçao de questionarios anonimos
+para 27 lojistas, com o objetivo de captar suas experiencias e seu nivel de preparo
+ao atender clientes com deficiencia visual.
+Coleta de dados dos deficientes visuais: Conduçao de entrevistas detalhadas com
+6 pessoas com deficiencia visual de diferentes faixas etarias e graus de deficiencia,
+visando compreender suas dificuldades e necessidades especificas.
+
+Para os lojistas, incluimos um termo de consentimento no proprio questionario
+anonimo, explicando os objetivos da pesquisa, procedimentos envolvidos, deixando elu-
+cidado que seus dados seriam completamente anonimizados. Para as entrevistas com de-
+ficientes visuais, obtivemos consentimento verbal antes de iniciar as gravaçoes, pedindo
+permissao para gravar o audio e garantindo que os participantes soubessem os objetivos da
+pesquisa e que poderiam interromper a entrevista ou retirar seu consentimento a qualquer
+momento. Essas medidas asseguraram que os dados coletados respeitassem a privacidade
+e os direitos dos participantes, seguindo os principios eticos de pesquisa.
+
+**ACHADOS DA IMERSAO**
+
+A seguir sao descritos os principais resultados obtidos com as tecnicas de coleta de dados
+mencionadas.
+
+**Desk Research**
+
+Utilizamos a Matriz CSD (Certezas, Suposiçoes e Duvidas) para estruturar nosso enten-
+dimento inicial sobre as necessidades dos deficientes visuais no uso de maquininhas de
+pagamento, com base na pesquisa documental . A matriz foi importante para
+guiar as linhas de investigaçao a serem abordadas pelas tecnicas subsequentes. Os princi-
+pais achados foram:
+
+Certezas: Ditar a senha para o lojista faz com que o usuario se sinta inseguro. Nao
+saber o valor da transaçao aumenta essa insegurança. A segurança no pagamento
+e uma das principais preocupaçoes para deficientes visuais.
+Suposiçoes: Ate um determinado valor, o usuario nao se preocupa tanto com a
+privacidade. As mantas de acessibilidade ja cumprem seu papel ao permitir a
+digitaçao da senha em terminais Android sem teclado fisico.
+Duvidas: Informar o valor da compra em voz alta pode constranger o usuario? O
+portador estaria disposto a usar um dispositivo adicional, como um celular, alem
+da maquininha? Os lojistas estao preparados para lidar com as particularidades na
+jornada de pagamento de um comprador com deficiencia visual?
+
+**Analise Competitiva**
+
+Na analise competitiva das soluçoes existentes, destacamos os principais pontos fortes que
+podem ser aproveitados para melhorar a acessibilidade das maquininhas de pagamento
+para deficientes visuais. A soluçao Payvoice se destaca por oferecer a segurança de saber
+o valor exato da compra antes de inserir a senha do cartao, o que aumenta a confiança na
+transaçao. A pelicula de acessibilidade proporciona independencia ao usuario ao digitar
+a senha, garantindo segurança e privacidade durante o processo de pagamento. Por fim, o
+modo de acessibilidade do PAX A920 se destaca pelo anuncio em voz alta das instruçoes
+basicas durante a transaçao.
+
+**Questionario**
+
+Aplicamos questionarios anonimos a 27 lojistas para entender seu nivel de preparo e as
+dificuldades enfrentadas ao atender clientes deficientes visuais. Os questionarios foram
+estruturados para coletar dados demograficos e de experiencia. Alguns dados importantes
+coletados foram:
+
+Um terço dos respondentes disseram ja ter atendido um cliente com deficiencia
+visual. Nesses casos, o portador teve auxilio de um familiar ou o lojista teve que redobrar
+a atençao e a clareza nas palavras durante o atendimento.
+
+Quanto ao preparo, muitos lojistas se sentem inseguros, pois acreditam que nao
+vao conseguir passar confiança suficiente para o cliente com deficiencia visual.
+
+Dos 27 lojistas, apenas 7 conheciam ou haviam feito uso da manta de acessibi-
+lidade. Estes lojistas relataram que o uso da manta era simples e rapido, mas cada um
+utilizou a manta apenas uma vez. Houve relatos de vendedores que atenderam deficien-
+tes visuais e que os mesmos ficaram surpresos com a existencia da manta, pois tambem
+desconheciam essa ferramenta de acessibilidade.
+
+Esses dados destacam a necessidade de iniciativas para aumentar a preparaçao dos
+lojistas e melhorar a acessibilidade das maquininhas de pagamento, beneficiando tanto os
+comerciantes quanto os clientes deficientes visuais.
+
+**Entrevistas**
+
+Conduzimos entrevistas detalhadas com 6 deficientes visuais para obter insights profun-
+dos sobre suas experiencias e dificuldades no uso de maquininhas de pagamento. Foram 4
+entrevistas com cegos e 2 com pessoas de baixa visao, abrangendo perfis distintos desde
+aqueles mais aficionados por tecnologias ate pessoas que utilizam apenas quando real-
+mente precisam. As entrevistas foram realizadas tanto de forma remota quanto presencial.
+Os principais insights obtidos sao descritos a seguir:
+
+
+**CONCLUSOES E TRABALHOS FUTUROS**
+
+Durante a fase de imersao, obtivemos informaçoes suficientes para convergirmos a uma
+soluçao que aborde soluçoes frente aos desafios enfrentados pelos deficientes visuais em
+seu cotidiano.
+
+Os resultados preliminares da pesquisa confirmaram os pontos levantados na Ma-
+triz CSD, destacando que os principais desafios enfrentados por deficientes visuais in-
+cluem a falta de feedback tatil e sonoro nas maquininhas de pagamento. A insegurança
+em relaçao ao valor das transaçoes, tambem foi identificada como uma preocupaçao sig-
+nificativa. Recomenda-se a implementaçao de peliculas de acessibilidade e sistemas de
+vocalizaçao de valores como soluçoes potenciais.
+
+Os proximos passos incluem a construçao de personas e cenarios de uso para o
+publico-alvo: deficientes visuais e lojistas. Em seguida, planejamos mapear as principais
+tarefas que devem ser suportadas pela soluçao, prototipar a soluçao e realizar a avaliaçao
+da interaçao proposta. Estamos considerando explorar novas tecnologias, como feedback
+vibratorio, para aprimorar a segurança e usabilidade atrelado a padronizaçoes de compor-
+tamentos.
+
+Alem disso, para dar continuidade ao trabalho e assegurar que todos os procedi-
+mentos estejam de acordo com as normas eticas vigentes, a pesquisa sera submetida a
+aprovaçao do Comite de Etica em Pesquisa com Seres Humanos. Esse passo e funda-
+mental para garantir a proteçao dos direitos dos participantes e reforçar a credibilidade do
+estudo.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo demonstra a importancia de se considerar as necessidades especificas de pessoas com deficiencia visual no design de interfaces de maquininhas de pagamento. Atraves da imersao e empatia, identificamos desafios como a falta de feedback tatil e sonoro, a insegurança em relaçao ao valor das transaçoes e a dificuldade em utilizar soluçoes externas. Os insights obtidos serao utilizados para o desenvolvimento de soluçoes que promovam a independencia, segurança e privacidade desses usuarios durante o processo de pagamento.

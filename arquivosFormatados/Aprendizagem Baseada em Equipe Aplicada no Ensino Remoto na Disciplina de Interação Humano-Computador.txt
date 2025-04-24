@@ -1,0 +1,107 @@
+**INTRODUCAO**
+
+A adocao de metodologias ativas se apresenta como uma alternativa util em tempos de
+pandemia, pois permite que o aluno seja protagonista do processo de aprendizagem.
+Essa caracteristica permite contornar as dificuldades inerentes ao ensino remoto, como
+distanciamento fisico e possivel diminuiçao da interaçao entre professor e alunos. Nas
+metodologias ativas, o professor assume o papel de sistematizador do ensino, sendo o
+discente um sujeito ativo nesse processo .
+
+No relato deste artigo, destaca-se a adocao da metodologia ativa Aprendizagem
+Baseada em Equipes (ABE) na disciplina de IHC,
+selecionada por incentivar a buscar pelo entendimento individual (durante as aulas
+remotas) e permitir a discussao em grupo dessa aprendizagem fim de resolver os
+problemas apresentados pelo professor. No contexto da pandemia do novo coronavirus,
+o professor propos como principal problema a necessidade da busca e seleçao de
+aplicativos para exercicios fisicos para auxiliar o usuario a manter-se ativo fisicamente
+, principalmente quando as academias, praças e parques estao
+fechados temporariamente nos periodos de maior indice de casos da COVID-19.
+
+Alem dessa seçao introdutoria, na Seçao 2 sao abordados os conceitos e as
+praticas da Aprendizagem Baseada em Equipes. Ja na Seçao 3 sao apresentadas as
+praticas de ABE adotadas e as atividades avaliativas da disciplina de IHC. A Seçao 4
+relata os resultados obtidos, a partir das entregas realizadas pelos alunos nas atividades
+avaliativas. Por fim, a Seçao 5 apresenta as conclusoes e os trabalhos futuros.
+
+**FUNDAMENTAÇAO**
+
+Segundo , a ABE e uma estrategia educacional composta por um
+conjunto de praticas sequenciadas de ensino-aprendizagem. Ela possibilita o ensino
+colaborativo aplicado em grupos destinados a resoluçao de tarefas, objetivando que cada
+aluno busque entender individualmente os temas trabalhados em sala de aula e disponha
+esses conhecimentos para os demais colegas da equipe. Nesse sentido, a ABE pode ser
+dividida em tres etapas principais , conforme a Tabela 1.
+
+Nessa abordagem, a resoluçao de problemas constitui uma parte importante, na
+qual estimula-se o trabalho em equipe e a interaçao com os colegas . Assim, recomenda-se que o professor forme os grupos, atentando para a coesao e
+equilibrio, pois alguns fatores sao importantes para a realizaçao das tarefas, como por
+exemplo, vinculos afetivos, expertise diferenciadas, etc.
+
+**METODOLOGIA DE ENSINO**
+
+A disciplina iniciou com aulas teoricas, sincronas via Google Meet, que abordaram:
+Interfaces; Ergonomia; Engenharia Cognitiva; Fatores Humanos e Aspectos Mentais;
+Estilos de Interaçao; Teoria das Cores; Usabilidade; e Experiencia de Usuario (UX). As
+demandas relacionadas a avaliaçao da disciplina sao descritas na Tabela 2.
+
+O professor fundamentou-se no estudo de , que descreve um
+conjunto de processos que devem ser seguidos para uma boa utilizaçao da metodologia
+ABE. Assim, o uso dessa metodologia e apresentado na Tabela 3.
+
+**RESULTADOS**
+
+Os alunos/autores desse artigo realizaram a busca pelos aplicativos na Play Store,
+usando palavras-chaves como: “treino”, “fitness” e “exercicios” (ABE1), ranqueando-os
+conforme a Tabela 4. Entao, decidiram selecionar o  BARRIGA TANQUINHO EM
+30 DIAS¹, da empresa Leap Fitness Group, atendendo ao solicitado na AA1.
+
+Em seguida, elaboraram um Projeto de Interface (AA2), no qual analisaram a
+logo da Figura 1 e os icones da Tabela 5. Na logo, destacaram que o background possui
+tom gradiente utilizando predominante vermelho, uma cor quente que estimula açao e agitacao (de acordo com a aula teorica sobre Teoria das Cores). O desenho do abdômen definido é uma forma de persuadir o usuario a utilizar o app e obter esse resultado.
+
+Os resultados da avaliaçao de usabilidade foram apresentados via Google Meet
+na aula de apresentaçao da AA3, na qual foram discutidos (ABE2), a fim de elucidar os
+criterios que compoem a norma ISO/IEC 25010, gerando questionamentos e
+alinhamento de soluçoes entre as equipes (ABE3). A Tabela 6 apresenta um formulario
+de avaliaçao com exemplos dos criterios de usabilidade da ISO/IEC 25010 preenchidos.
+
+Na AA4, foi realizada a avaliaçao de UX por um usuario, caracterizado pela
+persona com idade de 26 anos, praticante de atividade fisica, que busca melhorar sua
+musculatura abdominal. Esse usuario nao dispoe de muito tempo livre, seja pelo
+trabalho ou rotina na pandemia, optou por treinar em casa usando um app. Em sua
+avaliaçao, o mesmo considerou o aplicativo atrativo, de acordo com os criterios de
+experiencia do usuario  descritos na Tabela 7.
+
+Apos a analise do objetivo do aplicativo, constatou-se que essa ideia na
+aplicaçao deixou a desejar, sem passar uma atmosfera de motivaçao, conforme Figura
+2a. Entao, foi realizado o redesign da interface (AA5), na qual os alunos criaram novas
+telas, estimulando o usuario a se desafiar semanalmente, conforme Figura 2b, e
+adicionando trofeus para parabenizar pela meta alcançada, conforme Figura 2c.
+
+**CONSIDERAÇOES FINAIS**
+
+A adocao da metodologia ativa ABE na disciplina de IHC possibilitou um grande
+engajamento dos alunos na realizaçao das atividades avaliativas, nas quais buscaram
+atender as demandas de forma colaborativa. Essa colaboraçao se destacou na AA5, na
+qual os alunos discutiram entre si como aplicar as teorias acerca da usabilidade no
+redesign dos aplicativos para exercicios fisicos. Essa interaçao entre os alunos de uma
+mesma equipe permitiu o compartilhamento da aprendizagem individual dos conteudos
+e a consolidaçao do esforço colaborativo das atividades anteriores da disciplina.
+
+A principal dificuldade relatada pelos discentes foi o entendimento da norma
+ISO/IEC 25010. Os mesmos justificaram que apenas a disciplina de IHC abordou a
+avaliaçao de produtos de software, ou seja, os alunos nao tinham nenhum conhecimento
+previo em testes de usabilidade e UX. No entanto, o constante feedback auxiliou os
+alunos a contornar essa dificuldade. Enfatizou-se tambem como limitaçao o curto
+periodo que os alunos utilizaram o app, visto que muitos aplicativos de exercicios
+fisicos emitem alertas para os diferentes dias de treino.
+
+Como etapas futuras, sera desenvolvido um documento instrucional para auxiliar
+os professores no uso da ABE, alem de propor um framework de ensino que incorpore
+as praticas metodologicas. Adicionalmente, esse framework podera ser validado atraves
+de um experimento controlado, no qual o grupo de controle seguira uma abordagem
+tradicional de ensino e o grupo de tratamento seguira metodologias ativas.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo demonstra a efetividade da Aprendizagem Baseada em Equipes (ABE) no ensino remoto da disciplina de Interaçao Humano-Computador (IHC). A metodologia ativa proporcionou um maior engajamento dos alunos, promoveu a colaboraçao e facilitou a aplicaçao pratica dos conceitos de usabilidade no redesign de aplicativos de exercicios fisicos. A ABE se mostrou uma ferramenta promissora para o ensino de IHC, especialmente em tempos de pandemia, e sugere-se a criaçao de um documento instrucional para auxiliar os professores no uso da ABE e o desenvolvimento de um framework de ensino que incorpore as praticas metodologicas.

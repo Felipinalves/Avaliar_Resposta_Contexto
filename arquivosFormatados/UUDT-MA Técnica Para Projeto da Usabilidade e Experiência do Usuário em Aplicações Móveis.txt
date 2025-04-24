@@ -1,0 +1,211 @@
+**RESUMO**
+
+O desenvolvimento de aplicaçoes moveis tornou-se uma atividade
+que exige cuidados, devido as caracteristicas e limitaçoes dos dispo-
+sitivos moveis, o que acaba influenciando na Experiencia do Usuario
+(User eXperience - UX) e na Usabilidade. Estes aspectos de qualidade
+estao relacionados com a satisfaçao do usuario, bem como seus
+sentimentos e emoçoes ao utilizar estas aplicaçoes. Contudo, por
+meio de um Mapeamento Sistematico da Literatura realizado nesta
+pesquisa, notou-se que poucos estudos abordam sobre a utilizaçao
+em conjunto da UX e Usabilidade no projeto de aplicaçoes moveis.
+Portanto, esta pesquisa apresenta uma proposta inicial de uma tec-
+nica chamada Usability and User eXperience Design Technique for
+Mobile Application (UUDT-MA), que contem recomendaçoes refe-
+rentes ao projeto de aplicaçoes moveis, integrando principios de
+UX e Usabilidade, com o intuito de apoiar os projetistas nas fases
+iniciais de desenvolvimento de aplicaçoes moveis.
+
+**INTRODUCAO**
+
+A utilidade dos dispositivos moveis aumentou consideravelmente
+nos ultimos anos, permitindo que os usuarios realizassem mais
+tarefas em um contexto movel . Com o desenvolvimento acele-
+rado de dispositivos moveis houve um crescimento na criaçao de
+aplicaçoes moveis, o que acaba proporcionando a melhoria da mobi-
+lidade, praticidade e a capacidade dos usuarios de utilizar serviços
+e aplicativos desses dispositivos .
+
+No entanto, devido sua crescente inovaçao, as aplicaçoes moveis
+nem sempre atendem todas as necessidades dos usuarios, muitas ve-
+zes nao correspondendo por completo suas expectativas . Neste
+contexto, para garantir que as aplicaçoes moveis atendam a maior
+parte das necessidades dos usuarios de forma clara e objetiva, sua
+Usabilidade deve ser levada em consideraçao, assim como a Experi-
+encia do Usuario (User eXperience - UX).
+
+Usabilidade e um dos principais atributos que representam a qualidade do software. De acordo com a ISO 25010, a Usabilidade e a capacidade do produto de software ser entendido, aprendido, operado, atraente para o usuario e compativel com normas orientacoes, quando utilizadas em condicoes especificas. Alem disso, a norma destaca a importancia de considerarmos o grau de satisfacao dos usuarios com a experiencia de usar o sistema interativo no contexto de uso para o qual foi projetado.
+
+Apesar da crescente atencao que a Usabilidade alcancou na comunidade de Interacao Humano-Computador (IHC) e Engenharia de Software (ES), um novo termo, User eXperience (UX), surgiu como uma nova forma de compreender e estudar a qualidade em uso de produtos interativos. UX, segundo a ISO 9241-210, e definida como as percepcoes e respostas da pessoa que resultam do uso e ou uso antecipado de um produto, sistema ou servico.
+
+Embora tenha ocorrido um grande interesse na UX, percebe-se ainda a carencia de pesquisas em tecnologias (tecnicas, abordagens, metodos, processos, entre outras) de UX. Trabalhos relacionados as tecnologias de UX ainda sao, em grande parte, baseados em objetivos basicos de Usabilidade, por exemplo, sucesso ao realizar tarefas, satisfacao do usuario, erros que tenham ocorrido durante o uso, entre outros.
+
+Dois dos atributos da UX sao o pragmatico que relaciona-se ao uso e a realizacao de tarefas, estando na base do processo interativo. E o hedonico que, por sua vez, nao precisa ter uma relacao obvia com a realizacao de tarefas, podendo englobar elementos como originalidade, inovacao e beleza. Assim, enfatiza o bem-estar psicologico do individuo e se relaciona a busca por desenvolvimento pessoal, expressao individual e evocacao de memorias importantes.
+
+Diante disso, este artigo apresenta um trabalho em andamento de uma tecnica que possui um conjunto de recomendacoes para apoiar a construcao projeto de artefatos das fases iniciais do processo de desenvolvimento de aplicacoes moveis, focando na Usabilidade e UX denominada Usability and User eXperience Design Technique for Mobile Application (UUDT-MA).
+
+O artigo aqui relatado esta organizado da seguinte forma: A Secao 2 apresenta os conceitos e trabalhos relacionados com o tema desta pesquisa. Na Secao 3 sera apresentado o problema e motivacao. A Secao 4 apresenta a proposta inicial da tecnica. A Secao 5 mostra a metodologia usada para a definicao do conjunto de recomendacoes da tecnica proposta. Por fim, na Secao 6 sera apresentada a contribuicao esperada desta pesquisa.
+
+**BACKGROUND E TRABALHOS RELACIONADOS**
+
+A Usabilidade e a UX estao inter-relacionadas. Para alguns pesquisa-
+dores, a Usabilidade e considerada como parte da UX . Nielsen
+e Norman  advertem que deve-se diferenciar UX e Usabilidade.
+Os autores afirmam que a Usabilidade e um atributo de qualidade
+da UI, que abrange aspectos como eficiencia de uso, comodidade,
+entre outros.
+
+Para Lowdermilk , a UX e um termo frequentemente usado
+para expor a experiencia que o usuario tem no uso de um produto
+de software; ela envolve nao apenas as funcionalidades do software,
+mas tambem o quanto seu uso e atraente e agradavel. Hassenzahl
+e Tractinsky , destacam o aspecto emocional da UX. Para os
+autores, embora pesquisas sobre a UX abordem o reconhecimento
+de afetos e emoçoes da computaçao afetiva, elas estao relacionadas
+com as consequencias afetivas humana.
+
+Assim, a pesquisa sobre UX busca novas abordagens para o design
+de produtos interativos, que acomodam experiencias de qualidades
+de uso da tecnologia, em vez de qualidades do produto . Por-
+tanto, como a UX e subjetiva, as medidas objetivas de Usabilidade
+nao sao suficientes para caracterizar a experiencia do usuario. E ne-
+cessario tambem analisar como o usuario se sente sobre o aplicativo
+ao executar tarefas nele.
+
+Por outro lado, Nielsen  afirma que a Usabilidade e um dos
+componentes da aceitabilidade de um sistema e afirma que basica-
+mente se refere a questao em saber se o sistema e bom o suficiente
+para satisfazer todas as necessidades e exigencias dos usuarios. Ni-
+elsen  divide a Usabilidade em cinco componentes: Facilidade
+de Aprendizagem, Facilidade de Memoriizaçao, Eficiencia no Uso,
+Poucos Erros e a Satisfaçao Subjetiva.
+
+Os aspectos pragmaticos podem ser observados por meio da
+Usabilidade tradicional, por exemplo, tempo de execuçao da tarefa,
+numero de cliques ou erros . De acordo com a situaçao em que
+o usuario esta inserido, os atributos pragmaticos e hedonicos levam
+conjuntamente a consequencias emocionais e comportamentais do
+usuario, bem como ao julgamento do apelo do produto .
+
+Das tecnologias identificadas na literatura algumas delas sao
+utilizadas na fase de projeto, ou seja, utilizam requisitos produzidos
+durante as fases iniciais, antes da aplicaçao movel ser codificada, e
+focam em apenas um desses dois conceitos. Por exemplo, Shukri
+et al , apresentam diretrizes de usabilidade que foram projeta-
+das em um prototipo para auxiliar projetistas e desenvolvedores
+durante o desenvolvimento do projeto de turismo de Realidade
+Aumentada Movel (MAR). Este projeto combina quatro variaveis:
+cobrir o conteudo da informaçao de MAR, reduzir o problema cog-
+nitivo, fornecer capacidade de aprendizado e interaçao, e interaçao
+3D do aplicativo de MAR. A UX nao foi considerada neste trabalho.
+
+Alem disso, vale destacar que, quanto mais avançado o projeto da
+aplicaçao movel esta, maiores sao os impactos para se realizar cor-
+reçoes ou alteraçoes em seu projeto. Alterar a programaçao de uma
+determinada funcionalidade em um sistema demanda mais tempo
+do que refazer seu rascunho varias vezes. O tempo gasto, portanto,
+na prototipaçao e inversamente proporcional ao tempo necessario
+para a programaçao. Em outras palavras, quanto mais se dedicar
+na fase de prototipaçao, menor sera o gasto de sua implementaçao
+
+Ja Verhulsdonck  apresenta em seu trabalho um modelo de
+design movel que e aplicado a um mapeamento de experiencia para
+contextos de usuarios locais, e atitudes culturais em relaçao ao
+uso da tecnologia. Com este modelo, os designers podem pensar
+em questoes em um contexto que e movel, mas vivenciado con-
+cretamente pelos usuarios por meio de suas historias. Porem, este
+modelo nao considera a Usabilidade para construir a infraestrutura
+do design movel proposto.
+
+**PROBLEMA E MOTIVAÇAO**
+
+Ainda que o tema Usabilidade tenha se intensificado com a preo-
+cupaçao em criar aplicaçoes moveis melhores , nota-se que a
+literatura cientifica nao conta com muitos estudos que vinculam as
+principais contribuiçoes sobre a relaçao da Usabilidade com a UX
+para o projeto da computaçao movel.
+
+Como apresentado por Valentim  em um relatorio tecnico, a
+autora aponta que ha poucas tecnologias para apoiar a construçao
+de artefatos de projetos considerando a Usabilidade nas fases iniciais
+de um processo de desenvolvimento de software. Existem menos
+ainda tecnologias para antecipaçao de Usabilidade voltadas para o
+projeto de aplicaçoes moveis.
+
+Ja a UX tem ganhado enorme visibilidade e rapido crescimento
+no desenvolvimento de software. Esse aumento tem possibilitado
+o surgimento de novas ideias e conceitos. Como aponta Ander-
+son et al , sua rapida expansao acaba reproduzindo processos e
+conceitos que nao sao propriamente estabelecidos, metodizados e
+universalizados e resultam em uma selva desordenada. Portanto,
+e importante propor tecnicas de projeto que cobrem estas lacunas.
+
+Nesse contexto, a questao de pesquisa desse trabalho e "Como
+apoiar projetistas a criar aplicaçoes moveis considerando UX e
+Usabilidade em conjunto nas fases iniciais de desenvolvimento?".
+
+O foco em aplicaçoes moveis foi selecionado porque pesquisas
+tem mostrado que, como o numero de dispositivos tem aumentado
+, e necessario projetar aplicaçoes adequadas para atender as
+expectativas dos usuarios .
+
+Alem disso, segundo Juristo et al , alguns dos beneficios de
+incluir Usabilidade no processo de desenvolvimento sao: (a) melho-
+rar a facilidade de uso das interfaces, (b) aumentar a produtividade,
+e (c) reduzir o tempo e os custos no desenvolvimento, treinamento
+do usuario, documentaçao e manutençao de software. Portanto, esta
+pesquisa e motivada pela necessidade de tecnicas que possam ser
+empregadas por projetistas de dispositivos moveis que estejam dis-
+postos a melhorar a qualidade de suas aplicaçoes moveis em relaçao
+a Usabilidade e a UX.
+
+
+PROPOSTA
+O objetivo geral deste trabalho e propor uma tecnica que apoie a
+criacao/projeto de artefatos das fases iniciais do processo de desenvolvimento de aplicacoes moveis, focando na Usabilidade e na UX.
+Diante disso, o objetivo e de que a tecnica forneca recomendacoes
+de projeto e apoie a construcao de uma aplicacao mobile com boa
+usabilidade e UX.
+
+Tecnica UUDT-MA
+Usability and User eXperience Design Technique for Mobile Application (UUDT-MA) e uma tecnica que consiste em um conjunto de 12 recomendacoes de apoio para projetistas de aplicacoes moveis, a construir prototipos baseados em Usabilidade e UX de maneira eficiente, para que reflita diretamente em tempo e qualidade de desenvolvimento de um projeto. As recomendacoes da UUDT-MA devem ser utilizadas tendo como artefato base um documento de especificacao de requisitos da aplicacao movel. Esta especificacao de requisitos deve fornecer informacoes sobre a aplicacao movel que sera projetada.
+As recomendacoes da tecnica possuem doze categorias, que sao: Reducao da sobrecarga cognitiva conteudo; Reducao da sobrecarga cognitiva reconhecimento ao em vez de relembrar; Prevencao e analise de erros; Controle e autonomia do usuario; Feedback informativo; Personalizacao; Navegacao minimalista; Notificacao; Interface padrao e consistencia; Concordancia entre sistema e o mundo real; Funcionalidades de uso; Ajuda e Documentacao.
+Para a elaboracao das recomendacoes foi realizada uma analise das tecnologias identificadas no MSL para verificar quais tecnologias poderiam contribuir com a proposta. Como exemplo, categoria Controle e autonomia do usuario teve como referencia o trabalho de Nishida que apresenta uma tecnologia que tem como objetivo alcancar a UX no projeto de uma aplicacao movel, a partir dos metodos de uso e experiencias previstos na Fase de design. A limitacao deste estudo esta em nao aplicar estudo empirico para comprovar a sua viabilidade de uso alem de nao trabalhar em conjunto os conceitos de Usabilidade e UX. A analise de viabilidade das recomendacoes da tecnica encontra-se disponivel em um relatorio tecnico.
+As recomendacoes possuem exemplos para que os projetistas e analistas possam visualizar de forma objetiva onde a recomendacao pode ser melhor utilizada, conforme os requisitos da aplicacao movel que passara pela fase de prototipacao. Desse modo, A versao completa da tecnica e suas bases teoricas podem ser encontradas em Lopes e Valentim.
+A seguir sera apresentada a definicao da categoria de Funcionalidade de uso inclusa nas recomendacoes da tecnica.
+Funcionalidade de uso: O projetista deve-se restringir a quantidade de funcionalidades na aplicacao, mantendo as que sao necessarias ao ambiente mobile, diminuindo a chance de os usuarios se confundirem diante de todas as possibilidades e opcoes oferecidas. E necessario usar da boa simplicidade impossibilitando a poluicao visual das telas ou confundir o usuario durante a busca do icone funcional pretendido. O projetista deve-se restringir a quantidade de funcionalidades na aplicacao, mantendo as que sao necessarias ao ambiente mobile, diminuindo a chance de os usuarios se confundirem diante de todas as possibilidades e opcoes oferecidas. E necessario usar da boa simplicidade impossibilitando a poluicao visual das telas ou confundir o usuario durante a busca do icone funcional pretendido. Esta categoria tem o objetivo de fomentar reflexoes sobre a facilidade de uso das funcionalidades da aplicacao movel.
+
+Modo de uso da tecnica UUDT-MA
+Um conjunto de tres passos foram definidos para apoiar o uso da tecnica. Os passos da UUDT-MA, conforme mostra a Figura 1, sao: (i) os analistas e projetistas devem compreender o dominio do problema ao qual se deseja solucionar, fazendo a leitura da especificacao de requisitos da aplicacao movel, (ii) em seguida, eles devem ler e compreender as recomendacoes da UUDT-MA com foco na Usabilidade e UX, (iii) por fim, eles devem utilizar a UUDT-MA para a fase de prototipacao da aplicacao movel, (iv) por fim, eles precisam validar a aplicacao movel buscando fornecer a qualidade da mesma.
+Neste caso, sera necessario a leitura dos requisitos da aplicacao, a fim de verificar se atenderam completamente os requisitos da aplicacao durante a fase de prototipacao.
+
+METODOLOGIA
+Para atingir os objetivos propostos desta pesquisa sera utilizada uma metodologia baseada em evidencias, utilizando estudos secundarios e primarios. Enquanto os estudos primarios (estudos experimentais) permitem testar hipoteses, os estudos secundarios permitem coletar dados relevantes sobre um determinado tema de pesquisa na literatura cientifica.
+O estudo secundario executado neste trabalho foi realizado por meio de um Mapeamento Sistematico da Literatura (MSL) para identificar solucoes existentes para o problema de pesquisa e desafios relacionados. Este conhecimento obtido por meio de estudos secundarios, tem por finalidade criar um corpo de conhecimento e evidencias como alicerce para a definicao da proposta desta pesquisa. Segundo Kitchenham e Charters o MSL pode ser definido como uma forma de identificar, avaliar e interpretar todas as pesquisas disponiveis que sao relevantes para uma particular questao de pesquisa, ou area, ou fenomeno de interesse.
+A proposta, entao, pode ser avaliada por meio de diversos estudos primarios (estudos experimentais). Estudos primarios permitem que os pesquisadores respondam perguntas, examinem ou identifiquem problemas em novas propostas.
+Portanto, o percurso metodologico deste trabalho segue a metodologia de Mafra e Travassos considerando estudos secundarios para coletar informacoes sobre as tecnologias que apoiam projetistas durante as fases iniciais do projeto de dispositivos moveis visando a Usabilidade e UX. Alem disso, utiliza estudos primarios para avaliar a proposta da tecnica e obter feedback para evolucao do estudo. A principio, o estudo primario sera conduzido a fim de testar as hipoteses para investigar se ha diferenca ou nao entre a eficacia e a eficiencia em relacao a tecnica UUDT-MA e as abordagens tradicionais de prototipacao.
+A Figura 2 apresenta a descricao de cada etapa da metodologia desta pesquisa.
+
+
+**CONSIDERACOES FINAIS**
+
+Espera-se que a tecnica UUDT-MA: (a) facilite o processo de de-
+senvolvimento, fornecendo suporte a outras fases do processo de
+desenvolvimento; (b) reduza o tempo gasto durante o projeto, uma
+vez que eles poderao saber quais dados coletar logo nas fases ini-
+ciais do processo de desenvolvimento; (c) aumente a qualidade da
+aplicaçao diminuindo o impacto negativo da experiencia do usuario;
+(d) facilite reflexoes de projetista e analistas sobre como construir
+aplicaçoes moveis mais faceis de usar e uteis para os usuarios.
+
+Deste modo, o trabalho busca preencher uma necessidade ime-
+diata de quem trabalha projetando aplicaçoes moveis, contribuindo
+de maneira construtiva para a area de IHC e facilitando casos reais
+de entendimento de problemas e levantamento de requisitos de
+projetos, assim como a qualidade das aplicaçoes moveis projetadas.
+
+**CONCLUSAO**
+
+Em resumo, esta pesquisa apresenta uma tecnica promissora para apoiar o projeto de aplicativos moveis com foco na Usabilidade e UX. A tecnica UUDT-MA visa facilitar o processo de desenvolvimento, reduzir o tempo gasto no projeto e aumentar a qualidade das aplicaçoes. Espera-se que esta pesquisa contribua para a area de IHC, auxiliando projetistas e analistas a construir aplicaçoes moveis mais faceis de usar e uteis para os usuarios.
+
+```

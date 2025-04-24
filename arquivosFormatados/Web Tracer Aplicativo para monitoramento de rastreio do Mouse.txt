@@ -1,0 +1,115 @@
+**RESUMO**
+
+Os modelos de plataformas de negocios geralmente exigem
+adaptaçao e agilidade continuas para criar e oferecer novas
+experiencias aos clientes. Para entender o comportamento do
+usuario em sistemas online, as pesquisas tem se aproveitado
+da combinaçao das tecnicas tradicionais de analise com as
+mais recentes. Estudos anteriores mostraram que os dados de
+monitoramento do comportamento do usuario, como obtidos
+pelo rastreamento do mouse, podem ser usados para melhorar
+a experiencia do usuario. Embora existam muitas soluçoes
+de rastreamento de mouse, a grande maioria e proprietaria e
+os pacotes de codigo aberto nao fornecem os recursos e da-
+dos necessarios para dar suporte a esse trabalho. Este artigo
+apresenta um aplicativo para monitoramento e avaliaçao da ex-
+periencia do usuario a partir das trajetorias e cliques do mouse.
+O aplicativo desenvolvido, intitulado Web Tracer, coleta da-
+dos e gera representaçoes graficas para avaliar a interaçao do
+usuario.
+
+
+**INTRODUÇAO**
+
+A transformaçao de modelos de negocios frequentemente faz
+da experiencia de usuario (UX) a diferença entr o sucesso e o
+fracasso de um projeto. Em face disso, e preciso analisar toda
+a jornada do cliente nas plataformas digitais. Para isso, sao
+necessarias ferramentas capazes de coletar dados relevantes
+sobre as interaçoes entre usuarios e aplicativos, especialmente
+com o mais comum dos periferico de entrada, o mouse.
+
+Apesar de existirem diversos sistemas de rastreamento de
+mouse com uma grande variedade de recursos, tais como o
+MouseFlow, HotJar e CrazyEgg, estes sistemas sao propri-
+etarios. Alem de imporem pagamentos recorrentes, tais fer-
+ramentas possuem metodo de implementaçao interna, isto e,
+exigem adaptaçoes trabalhosas para integraçao de dados que
+nao necessariamente permitiriam acesso a funcionalidades es-
+pecificas dessas soluçoes, o que representaria severa limitaçao
+ao escopo da analise realizada no presente trabalho.
+
+Entre as soluçoes nao-proprietarias, destaca-se Mouse-
+Track , tambem contando com recursos de captura e vi-
+sualizaçao de dados semelhantes aos das soluçoes citadas
+anteriormente. Todavia, os desenvolvedores alertam para pos-
+siveis incompatibilidades com sites sem certificaçao W3C ou
+que usam massivamente scripts visuais, reduzindo significati-
+vamente, portanto, o universo de aplicaçoes testaveis.
+
+Tambem cita-se Advanced web analytics tool  que apre-
+senta apresenta algoritmo de filtragem e compressao de dados
+de interaçao, para diminuir a o volume de dados gerados. Tal
+ferramenta tambem nao foi interessante ao presente traba-
+lho por utilizar o mesmo metodo de implementaçao usado
+nas ferramentas comerciais, e por possuir como formas de
+representaçao de informaçao apenas a reprise das interaçoes
+registradas.
+
+Posto isso, o presente trabalho propoe uma ferramenta de cap-
+tura de dados de interaçao de usuario gratuita e de codigo
+aberto, que permite a captura de dados sem gerar interferencia
+nos sistemas avaliados, mesmo sem acesso ao codigo fonte
+(atraves de injeçao de codigo via extensao de navegador) bem
+como visualizaçao de informaçao atraves de dois modos: ses-
+sion replay e heatmap.
+
+**METODOLOGIA**
+
+A arquitetura da ferramenta e apresentada na Figura 1. Nessa,
+os dados gerados pela interaçao do usuario sao capturados
+pelo modulo browser, que e dividido em tres estagios, onde
+o motor de renderizaçao do navegador (estagio 2) recebe os
+dados da pagina web acessada, renderiza e exibe o front-end
+(estagio 1) ao usuario. Ainda no estagio 2, as funçoes necessa-
+rias para capturar a interaçao do usuario com a interface sao
+inseridas no codigo JavaScript do front-end. Por fim, os dados
+coletados no estagio 1 sao enviados para o estagio 3, no qual e
+realizado o agrupamento dos dados e a estruturaçao em JSON.
+Posteriormente, os dados estruturados sao enviados atraves de
+requisiçoes HTTP ao servidor de armazenamento (PHP), para
+conversao para XML e utilizaçao subsequente na aplicaçao de
+analise.
+
+Por sua vez, a aplicacao de analise decodifica os dados contidos no servidor de armazenamento, para utilizacao em dois modulos: Single-View e Compilation. O primeiro realiza a tecnica session replay, isto e, exibe quadro a quadro a sequencia de passos de um usuario em sua jornada pela interface. O segundo modulo, por sua vez, constroi o heatmap a partir da superposicao dos pontos coordenados nas telas capturadas do sistema em avaliacao.
+
+RESULTADOS
+
+Como resultado principal deste trabalho, apresenta-se a ferramenta desenvolvida, que visa fornecer visoes detalhadas sobre as interacoes do usuario no sistema aferido, permitindo entender como usuarios interagem com sistemas Web.
+
+A Figura 2 apresenta a tela do modulo Single-View, onde observa-se o rastreamento das interacoes de um usuario durante a utilizacao do sistema. Os tracos azuis conectam interacoes rastreadas: rolagem (pontos verdes), cliques (pontos vermelhos), esperas (pontos azuis) e cliques mesclados a esperas (pontos rosas).
+
+Sobre cada linha de interligacao, ha uma seta indicando a direcao da interacao seguinte e sobre cada interacao ha uma legenda numerica, para facilitar a identificacao da ordem cronologica dos eventos citados. Na barra localizada na borda inferior da referida Figura encontram-se as legendas, informando sobre a composicao das representacoes e os dados da amostra: quantidade de cliques, tempo de ocorrencia da interacao atual, tempo de movimentacao e inatividade do mouse.
+
+A Figura 3 mostra o agrupamento de interacoes de diversos usuarios atraves de um heatmap sobre a captura de tela do site analisado. Na borda inferior da tela mostram-se as legendas correspondentes a composicao da tela, junto as informacoes do conjunto de amostras: quantidade total de cliques, soma dos tempos das amostras, tempo total de mouse em movimento e inativo. No lado esquerdo, juntamente com a legenda das esperas (pontos rosas) e exibida uma barra que associa a escala de cores (variando de azul a vermelho) a minima e maxima quantidade de cliques em um mesmo local na tela.
+
+Atraves do resultado apresentado, e possivel identificar, por exemplo, desvios de atencao, areas de leitura, pontos de concentracao de atencao e areas invisiveis, podendo, portanto, ser utilizado como ferramenta de verificacao de efetividade de tecnicas de melhoria de usabilidade, e consequentemente, de avaliacao de experiencia de usuario.
+
+**CONCLUSAO**
+
+Este trabalho apresentou ferramenta de captura de dados de
+interaçao de usuario, gratuita e de codigo aberto, com menor
+risco de incompatibilidade e sem alteraçoes no codigo, para
+entender como usuarios interagem com sistemas Web. O
+sistema desenvolvido esta disponivel no repositorio de codigo
+em .
+
+Como trabalhos futuros, pretende-se, associado a modelos
+de inteligencia computacional, relacionar rolagens, esperas,
+cliques, trajetorias e tempo utilizado, alem de identificaçao
+de padroes de interaçao, para inferir em termos linguisticos a
+experiencia de usuario.
+
+**CONSIDERAÇOES FINAIS**
+
+Em suma, este trabalho propoe uma soluçao promissora para o monitoramento e a avaliaçao da experiencia do usuario em sistemas web. A ferramenta Web Tracer, com sua arquitetura flexivel e capacidade de capturar dados sem gerar interferencia nos sistemas avaliados, oferece uma alternativa valiosa aos sistemas proprietarios existentes. Ao disponibilizar a ferramenta como codigo aberto, os autores fomentam a colaboraçao e o desenvolvimento de novas funcionalidades, impulsionando a area de pesquisa e desenvolvimento em UX.

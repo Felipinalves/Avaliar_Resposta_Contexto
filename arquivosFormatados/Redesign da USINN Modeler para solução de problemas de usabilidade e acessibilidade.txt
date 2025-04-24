@@ -1,0 +1,115 @@
+**INTRODUCAO**
+
+Desenvolver sistemas interativos eficazes e intuitivos representa um desafio continuo do
+Design de Interaçao. Uma forma de apoiar o processo criativo de projetar soluçoes intera-
+tivas que atendam aos objetivos de interaçao dos usuarios e adotar a modelagem de inte-
+raçao [Marques 2017, Monteiro and Gonçalves 2021]. Neste contexto, a notaçao USINN
+(USability-oriented Interaction and Navigation) surge como uma abordagem que apoia
+a modelagem de interaçao permitindo a representaçao de aspectos de usabilidade que
+impactam na interaçao do usuario, como mecanismos de cancelar, desfazer e obter feed-
+back [Marques et al. 2016]. Visando o uso pratico da notaçao USINN, foi desenvolvida a
+USINN Modeler [Costa and Marques 2019], uma ferramenta de modelagem de interaçao
+que permite a criaçao e gerenciamento de diagramas USINN.
+
+De forma similar a outros trabalhos que avaliam ferramentas na area
+de IHC [Segato et al. 2023, Rehder et al. 2023], avaliaçoes foram conduzidas
+[Marques et al. 2024] sobre a usabilidade e acessibilidade da USINN Modeler.
+Com base nos problemas de usabilidade e acessibilidade identificados, este trabalho propoe aprimoramentos na interface, estetica, ajuda e suporte da USINN Modeler. Sua
+contribuicao foca em relatar como e quais solucoes foram projetadas para resolver os
+problemas identificados nas avaliacoes.
+
+
+**DE PROBLEMAS A SOLUÇOES PARA USABILIDADE**
+
+Em uma avaliaçao de usabilidade anterior [Marques et al. 2024], realizada em laboratorio
+com estudantes de graduaçao durante um minicurso sobre a notaçao USINN, os partici-
+pantes foram convidados a criar e refinar um diagrama de interaçao e navegaçao de uma
+rede social utilizando a ferramenta USINN Modeler. Apos a atividade, foi aplicado um
+questionario elaborado no Google Formularios. O estudo foi voluntario e os participan-
+tes foram previamente informados sobre os objetivos e a natureza da pesquisa por meio
+do Termo de Consentimento Livre e Esclarecido. Aqueles que optaram por participar
+responderam a um questionario ao final do minicurso.
+
+O questionario incluia a pergunta: "Quais modificaçoes, segundo a sua opiniao,
+poderiam melhorar a ferramenta?". Com base nas 15 respostas obtidas, foram identifica-
+dos problemas relacionados a interface, estetica e ao suporte oferecido pela ferramenta.
+Como resultado, foram definidas as seguintes soluçoes especificas para melhorar a usabi-
+lidade da USINN Modeler:
+
+Inclusao de pop-ups com dicas sobre os elementos da notaçao por categoria: inte-
+raçao, navegaçao e usabilidade. Essa abordagem visa facilitar a compreensao das funci-
+onalidades especificas de cada componente, ajudando designers iniciantes a usar a ferra-
+menta com mais eficiencia, como exemplificado na Figura 1.
+
+Criaçao da seçao de ajuda no sistema USINN Modeler, incluindo introduçao a
+notaçao e explicaçao detalhada da mesma. Essa documentaçao permite que os desig-
+ners consultem informaçoes sempre que necessario, reduzindo a curva de aprendizado e
+promovendo uma utilizaçao mais eficaz da ferramenta, como ilustrado na Figura 2.
+
+Implementaçao de um tutorial de primeiro acesso em formato de video para ori-
+entar novos usuarios nos primeiros passos com o USINN Modeler. Este tutorial interativo
+conduz os designers por meio das principais funcionalidades e ferramentas da plataforma,
+proporcionando uma introduçao pratica e imediata a notaçao USINN e suas aplicaçoes.
+
+**DE PROBLEMAS A SOLUÇOES PARA ACESSIBILIDADE**
+
+As recomendaçoes da WCAG [World Wide Web Consortium (W3C) 2023b] desenvolvi-
+das pelo World Wide Web Consortium (W3C), especificamente pelo grupo Web Acces-
+sibility Initiative (WAI) foram direcionadoras para resolver os problemas de acessibili-
+dade da USINN Modeler com o apoio de algumas ferramentas da web [Microsoft 2024,
+WebAIM 2024, Google 2024, Contrast 2024].
+
+Durante a adaptaçao da acessibilidade, foi utilizado a analise automatica des-
+sas ferramentas, que auxiliaram na implementaçao dos textos alternativos, contras-
+tes, conformidade com as regras do Accessible Rich Internet Applications (ARIA)
+[World Wide Web Consortium (W3C) 2023a], uso coerente dos atributos, ordem da na-
+vegaçao, sequencia de titulos e textos alternativos redundantes.
+
+Houve uma mudança na cor da interface, que possuia uma opacidade baixa e uma
+intensidade muito alta, causando desconforto visual aos usuarios. Para ajustar a cor, foi
+utilizado um plugin do Figma chamado Contrast [Contrast 2024], que fornece a taxa de
+contraste junto com os niveis de aprovaçao e reprovaçao das Diretrizes de Acessibilidade
+de Conteudo da Web (WCAG), apontando melhorias tambem para contraste minimo, con-
+traste melhorado e contraste nao textual (Figura 3).
+
+A Tabela 1 apresenta o resultado da avaliaçao de acessibilidade, realizada com
+o auxilio de ferramentas automaticas e de analises manuais, conforme as diretrizes da
+WCAG para validar os criterios de sucesso. A primeira coluna lista as paginas do sis-
+tema, enquanto as demais colunas correspondem aos principios da WCAG. Para avaliar
+o impacto da implementaçao da WCAG no sistema, foi realizado um comparativo entre a
+conformidade com os criterios de sucesso antes (AI) e depois da implementaçao (DI) das diretrizes.
+Os resultados demonstram uma melhoria significativa, uma vez que cada criterio
+de sucesso atendido corretamente contribui para a melhoria da usabilidade do sistema por
+diferentes grupos de usuarios. Os criterios de sucesso aprimorados incluem ajustes de
+contraste, melhorias na navegacao por teclado e adaptacao para tecnologias assistivas.
+
+
+**CONCLUSAO**
+
+Este artigo apresenta o progresso da ferramenta USINN Modeler, destacando melhorias
+significativas na usabilidade e acessibilidade. As inovaçoes implementadas incluem a
+aplicaçao abrangente de 54 criterios de sucesso, conforme as recomendaçoes da WCAG
+[World Wide Web Consortium (W3C) 2023b], o que resultou em um avanço notavel na
+acessibilidade do sistema.
+
+Alem disso, essas melhorias foram fundamentadas por uma prototipaçao ba-
+seada em sugestoes obtidas a partir de uma avaliaçao com usuarios anteriores
+[Marques et al. 2024], garantindo que as mudanças estejam alinhadas as necessidades
+reais dos usuarios. A abordagem adotada demonstra um compromisso com a melhoria
+continua, integrando feedback empirico para otimizar a experiencia do usuario.
+
+Para validar essas melhorias, sera realizada uma nova avaliaçao envolvendo usuá-
+rios com diferentes niveis de experiencia na ferramenta, abrangendo tanto iniciantes
+quanto usuarios avançados. Esta avaliaçao nao apenas buscara confirmar os beneficios
+introduzidos, mas tambem fornecerá dados sobre o impacto das melhorias na eficiencia
+do design de interaçao e na satisfaçao geral dos usuarios.
+
+Estudos futuros deverao focar na analise desses impactos e na exploraçao de novas
+oportunidades para aprimoramentos continuos da ferramenta. Essa investigaçao incluirá
+uma analise aprofundada de como as mudanças implementadas afetam o desempenho dos
+usuarios, assegurando que a USINN Modeler continue evoluindo e atendendo as necessi-
+dades de seus usuarios.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, este trabalho detalhou as melhorias implementadas na USINN Modeler para otimizar a usabilidade e acessibilidade, com base em avaliaçoes e diretrizes estabelecidas. Os resultados preliminares indicam um avanço significativo no atendimento aos criterios de sucesso da WCAG, o que promete uma experiencia mais inclusiva e eficiente para diversos grupos de usuarios. A realizaçao de novas avaliaçoes e a exploraçao de oportunidades de aprimoramento continuo sao passos importantes para consolidar a USINN Modeler como uma ferramenta de modelagem de interaçao cada vez mais relevante e alinhada as necessidades de seus usuarios.

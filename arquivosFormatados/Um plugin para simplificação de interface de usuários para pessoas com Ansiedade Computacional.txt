@@ -1,0 +1,171 @@
+**RESUMO**
+
+Ansiedade Computacional (AC, do ingles Computer Anxiety) pode ser
+definida como medo e preocupaçoes que alguem pode ter ao usar
+computadores. Pessoas com AC podem nao conseguir realizar certas
+tarefas, ficar frustradas e desistir quando encontram interfaces de
+usuario complicadas ou que exigem conhecimento sobre padroes e
+simbolos usados em sistemas computacionais. Assim, o presente trabalho
+descreve um plugin para navegador web que utiliza dados de interaçao (e.g.,
+eventos de mouse mouse, teclado e de sistema) para inferir niveis
+elevados de AC durante a interaçao. Complementarmente, o plugin
+desenvolvido visa simplificar a interface de usuario considerando um
+conjunto de regras pre-definidas baseado em estudos de campo
+anteriores envolvendo 74 pessoas idosas como forma de apoiar pessoas
+com AC e reduzir eventuais impactos causados por ela.
+
+**INTRODUCAO**
+
+Ansiedade Computacional (AC, do ingles Computer Anxiety) pode ser
+definida em fatores afetivos como intimidaçao, medo, apreensao e
+preocupaçoes que alguem pode ter de ficar envergonhado, parecer
+estupido ou acreditar que pode danificar o computador [Heinssen et al.
+1987]. Estudos anteriores mostram que a AC esta relacionada com
+sentimentos negativos (e.g., medo, raiva e ansiedade), com a falta de
+experiencia ou de conhecimento sobre computadores [Glass and Knight
+1988], tempo maior para completar tarefas e baixas taxas de conclusao
+[dos Santos and de Santana 2021, Glass and Knight 1988]. Alem
+disso, pessoas com altos niveis de AC percebem sistemas como tendo
+uma menor usabilidade quando comparadas com pessoas com baixa AC
+[dos Santos and de Santana 2021]. A AC tambem e mais presente e
+mais intensa em pessoas idosas, por nao terem tido contato com
+computadores desde a infancia [Santos and Santana 2018, Chou and
+Tsai 2009, Fernandez-Ardevol and Ivan 2015]. Assim, pessoas com
+AC sao impedidas de usar tecnologia efetivamente, principalmente
+pessoas idosas e com pouca experiencia.
+
+Alem disso, resultados de pesquisas anteriores mostram que elementos
+simples de interface de usuario (IU) podem afetar a interaçao de
+pessoas com AC e que a AC esta relacionada com o design da IU e com
+a satisfaçao em relaçao a IU [Nomura and Okuyama 2007, Day and
+Makirinne-Crofts 1997], indicando que um design de IU ruim pode
+contribuir para o aumento do impacto causado pela AC.
+
+Assim, este trabalho apresenta um prototipo de plugin para navegador web
+que identifica sessoes de pessoas com AC em tempo de execuçao com base
+em dados de interaçao. E buscando diminuir os efeitos negativos da AC
+na interaçao, o plugin simplifica as paginas, removendo ou modificando
+elementos de IU. As simplificaçoes sao baseadas em pesquisas anteriores
+sobre elementos de IU que impactam negativamente no desempenho de
+pessoas com AC, chamados distratores [dos Santos and de Santana 2022],
+e em recomendaçoes da literatura sobre boas praticas na criaçao de IU
+para pessoas idosas, pensando em acessibilidade e usabilidade [Sa-nga
+ngam and Kiattisin 2020]. Esta pesquisa se baseia na seguinte questao
+de pesquisa: "E possivel reduzir os impactos negativos da AC no
+desempenho de tarefas a partir de simplificaçao da IU?". Espera-se que
+uma IU com usabilidade e acessibilidade pensadas tambem para pessoas
+com AC resulte em uma interaçao positiva, principalmente nas primeiras
+interaçoes com o computador. Assim, reduzindo eventuais barreiras
+causadas pela AC.
+
+**TRABALHOS RELACIONADOS**
+
+As diretrizes do W3C Web Content Accessibility Guidelines (WCAG) 2.0
+apresentam formas de como tornar conteudos da web mais acessiveis
+[Consortium et al. 2008]. Alem disso, alguns trabalhos apresentam
+recomendaçoes e personalizaçoes focadas em pessoas idosas [Hanson and
+Crayne 2005, Hanson et al. 2007, Sa-nga ngam and Kiattisin 2020]. Em
+relaçao a AC, alguns elementos de IU sao identificados como distratores,
+ou seja, elementos que impactam negativamente o desempenho de pessoas
+com AC [dos Santos and de Santana 2021, dos Santos and de Santana 2022].
+Esses elementos foram identificados comparando dados de rastreamento
+ocular e rastreamento de mouse entre pessoas de diferentes niveis de AC
+(sem AC, AC moderada e AC elevada).
+
+**DESENVOLVIMENTO**
+
+A base do plugin de simplificaçao e o User Test Logger . Um plugin
+de codigo aberto desenvolvido para o navegador Mozila Firefox em
+JavaScript que captura eventos como movimentos do mouse, cliques, teclas
+pressionadas, etc., e gera um arquivo de log no qual cada linha
+representa um evento disparado, suas informaçoes e o que esta
+relacionado com ele, alem de gerar relatorios e visualizaçoes [Santana and
+Silva 2018].
+
+**CLASSIFICACAO DE ANSIEDADE COMPUTACIONAL**
+
+Em estudo anterior, foi obtida uma arvore de classificaçao que infere o
+nivel de CA com 83,33% de precisao usando dados de interaçao [dos
+Santos and Santana 2019]. Assim, o plugin foi alterado para utilizar a
+arvore como segue: (1) No inicio da sessao, le a arvore de classificaçao a
+partir de um arquivo no formato JSON; assim, a arvore pode ser
+substituida caso necessario; (2) Com base na arvore, sao definidas as
+metricas que serao calculadas usando os dados de interaçao capturados;
+(3) A cada dez segundos o valor das metricas e enviado para a arvore,
+que classifica a sessao em relaçao ao nivel de AC.
+
+**REGRAS DE SIMPLIFICACAO**
+
+Regras baseadas na literatura e estudos anteriores sobre elementos
+distratores, que impactam o uso de pessoas com AC [dos Santos and de
+Santana 2022]. Por exemplo, foram adicionados rotulos com texto
+indicativos aos icones (lupa, perfil) e ao logo no menu, pois pessoas
+com pouca experiencia podem nao conhecer padroes ou significado dos
+simbolos. Nos testes, participantes relataram querer buscar no site e
+nao saber onde. Alem disso, eles nao sabiam que deviam clicar para
+abrir o menu suspenso, entao um listener foi adicionado para que ele
+abra com o evento mouseover. Links foram destacados com sublinhado,
+negrito e aumento da fonte para diferencia-los de textos, ja que alguns
+participantes clicaram em elementos nao clicaveis e tiveram mais
+fixaçoes de olhar do que de mouse nos menus, ou seja, leram o menu e
+nao clicaram por nao saber onde. O carrossel foi removido ja que agiu
+como distrator para os participantes com AC. Eventos foram adicionados
+para destacar os botoes de busca ou que carregam mais conteudo quando o
+usuario rola a pagina para cima e para baixo, indicando que nao
+encontrou o que procurava.
+
+**SIMPLIFICACAO**
+
+A simplificaçao foi implementada em tres partes: (1) Script principal: o
+plugin carrega as regras definidas em arquivos JavaScript e em CSS. (2)
+Script com regras: Regras escritas em JavaScript com valores tais como
+URLs nas quais as regras serao aplicadas e as funçoes que aplicarao as
+regras. Tais regras precisam ser escritas por um especialista, pois e
+preciso saber JavaScript e CSS. Dentre as funçoes estao as que geram
+Event Listeners para disparar certos eventos (e.g., destacar um botao
+quando rolar a pagina ate o topo) e as que carregam os arquivos CSS com
+os estilos a serem aplicados. (3) Arquivos CSS: As folhas de estilo
+contem as alteraçoes a serem feitas pela simplificaçao, considerando os
+seletores CSS e IDs dos elementos. Podem ser definidos arquivos
+diferentes para cada pagina, pois eles sao carregados de acordo com o
+script com regras indicando o nome do CSS e a URL na qual aplica-los.
+Assim, durante a execuçao, o plugin verifica quais regras aplicar,
+carrega os arquivos CSS e cria os listeners correspondentes. A
+simplificaçao e aplicada nos elementos presentes na pagina e aos que
+serao carregados dinamicamente.
+
+**RESULTADOS PRELIMINARES**
+
+As regras de simplificaçao foram definidas com base em estudos de campo
+parte do projeto envolvendo 74 participantes idosos e tambem
+considerando resultados da literatura. O objeto de estudo utilizado no
+trabalho foi o site do SESC. O Serviço Social do Comercio (Sesc) e uma
+entidade privada que tem como objetivo proporcionar o bem-estar e a
+qualidade de vida aos trabalhadores do comercio de bens, turismo e
+serviços e suas familias . Foram criadas regras de simplificaçao para
+paginas especificas e gerais do site. Os exemplos a seguir mostram a
+simplificaçao na pagina inicial e na pagina unidades.
+
+Pagina Inicial
+Na Pagina inicial, o carrossel e ocultado, dado que atua como distrator, i.e., nao esta relacionado a tarefa e possui movimento (Figura 1a). Alem disso, o conteudo em duas colunas foi colocado em uma coluna para facilitar a leitura. Rotulos indicando para que servem os icones e o logo no menu foram adicionados para dar dicas aos usuarios. Os links e textos foram modificados para facilitar a leitura e diferenciar links de texto.
+
+Pagina Unidades
+Na pagina das unidades, alem de remover o carrossel e colocar o conteudo em uma coluna, o plugin destaca informacoes do endereco e como chegar na unidade, baseado nos estudos em que os participantes tiveram dificuldade em encontrar essas informacoes (Figura 2).
+
+**CONSIDERACOES FINAIS**
+
+O plugin proposto mostra a possibilidade de simplificar a IU com base em
+regras da literatura, em tempo de execuçao. Espera-se que ele possa
+contribuir como alternativa automatizada em comparaçao as tecnicas de
+rastreio que exigem aplicar escalas individualmente. Essa proposta faz
+parte de uma pesquisa maior que propoe um pipeline de simplificaçao,
+que classifica sessoes de acordo com o nivel de AC, detecta distratores
+e realiza simplificaçoes. A proposta apresentada aborda a ultima parte.
+Como proximo passo, o prototipo esta sendo testado com participantes
+para responder a questao de pesquisa, sobre a possibilidade de reduzir os
+impactos da AC usando simplificaçao. A limitaçao e a necessidade de
+um especialista que escreva as regras de acordo com cada site.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho apresenta um plugin promissor para aprimorar a acessibilidade web para pessoas com ansiedade computacional. Ao simplificar as interfaces e reduzir os distratores, o plugin tem o potencial de diminuir a carga cognitiva e facilitar a interaçao com sistemas computacionais. Os resultados preliminares, baseados na literatura e em estudos de campo, sao encorajadores, mas a validaçao formal com testes de usabilidade e essencial para avaliar o impacto real do plugin no desempenho e na experiencia do usuario.

@@ -1,0 +1,76 @@
+**RESUMO**
+
+Para prover uma boa experiencia de usuario, muitas vezes se faz ne-
+cessario explorar novas arquiteturas e padroes de desenvolvimento de software.
+Neste sentido, betterwrite.io e um processador de texto baseado em aplicaçao
+web, abordando uma nova metodologia de processamento de texto, onde cada
+titulo, paragrafo e qualquer outro recurso inserido no editor e tratado em
+nivel individual, permitindo o surgimento de novas funcionalidades, como dese-
+nhar e modificar, consultar estatisticas de cunho geral e especifico, atalhos por
+cada bloco, integraçao com ferramentas nao necessariamente voltadas para a
+manipulaçao de textos, fluxo de ediçao e finalizaçao, portabilidade do projeto
+em extensao unica e ferramental interativo, o que possivelmente poderia agre-
+gar uma nova usabilidade perante a criatividade.
+
+**1. Introduçao**
+
+Devido a evoluçao abrupta da adesao aos computadores, celulares e outros dispositivos
+subsequentes a pragmatica da tecnologia, novos meios de realizar tarefas do cotidiano
+ganharam o seu evidente destaque. Consequentemente, este fenomeno nao seria diferente
+para a area da escrita, transformada em diversas fases da historia humana, começando nas
+pinturas rupestres, passando para escrita cuneiforme, hieroglifos, ostraco, papiro, perga-
+minho e, mais recentemente, pelas maquinas de escrever, inaugurando a digitaçao. Bus-
+cando extrair o maximo das vantagens que a computaçao pode proporcionar, os proces-
+sadores de texto se tornaram uma alternativa imprescindivel para a escrita, percorrendo
+caminhos ainda a serem destrinchados. Por isso, oferecer possibilidades que vao alem
+da digitaçao tradicional, como inserir texto a partir da voz, e manusear os dados com to-
+tal liberdade como desenhar diretamente no editor, poderia elevar a linguistica para uma
+nova perspectiva da linguagem visual e da propria interaçao do usuario com estes re-
+cursos. Neste sentido, cabe observar que o desenvolvimento de processadores de textos
+que trazem de fato uma boa experiencia de usuario pode representar um grande desafio,
+pois o desenvolvimento de uma boa interaçao do usuario com o sistema esta relacio-
+nado diretamente com uma arquitetura de software adequadamente concebida e aplicada
+
+**2. Desenvolvimento**
+
+A grande maioria dos processadores de texto sao baseados no modelo canvas, atributo
+HTML que consiste em uma tela unica onde o usuario interage constantemente. Sua
+alternativa direta, o atributo HTML denominado contenteditable, permite a modificaçao
+e a extraçao de texto individualmente, alem de ser bastante popular. Porem, a arvore de
+elementos que resulta desses editores de texto e frequentemente inconsistente, ambigua e
+dificilmente personalizavel em termos de estrutura
+
+Para trazer uma soluçao direta e eficaz, o betterwrite.io e um aplicativo de cunho
+autoral, pratico e de codigo aberto que utiliza em sua arquitetura o contenteditable para
+conseguir trabalhar cada item individualmente, oferecendo uma serie de recursos auxili-
+ares para a manipulaçao satisfatoria deste atributo, como considerar paragrafos, titulos,
+imagens e demais recursos como entidades que nao dependem uma das outras, trazendo
+consigo novas possibilidades ao permitir o usuario maior flexibilidade diante de cada pro-
+jeto trabalhado. Portanto, e possivel observar que este modelo de arquitetura facilita a
+customizaçao de diferentes elementos de interface com usuario do editor. Isto permitiria
+que os usuarios se tornem designers ativos do sistema, podendo representar um aspecto
+positivo na Interaçao Humano-Computador A Figura 1 ilustra a arquite-
+tura do sistema proposto e a Figura 2 demonstra a sua tela de ediçao.
+
+**3. Portabilidade**
+
+Em 2014, o numero global de usuarios acessando a web por meio de dispositivos
+moveis ultrapassou os acessos por desktop, demonstrando a necessidade de transformar
+as aplicaçoes web mobile friendy mais importante que nunca Por isso, a aplicaçao foi construida nos principios do PWA (Progressive Web App) com
+o intuito de disponibilizar o acesso de forma padronizada em diversas plataformas, como
+website, desktop e mobile. O PWA possibilita a autonomia da aplicaçao em relaçao ao
+browser ou do dispositivo, funcionalidades de acordo com o Offline First, atualizaçoes
+automatizadas, alem de oferecer uma experiencia parecida com a de aplicativos nativos
+
+**4. Resultados Parciais**
+
+O betterwrite.io foi comparado, em termos de funcionalidade para o usuario, com outras
+ferramentas populares de processamento de texto. Neste sentido, e possivel observar que
+o software aplicado traz consigo diversas novas caracteristicas para o melhor aproveita-
+mento de quem o utiliza. Entre as funcionalidades:
+
+**CONSIDERACOES FINAIS**
+
+O objetivo deste trabalho foi apresentar o betterwrite.io, um processador de texto inovador que busca oferecer uma nova experiencia de usuario, com foco na criatividade e na portabilidade. Os resultados parciais demonstram que o software possui caracteristicas unicas e vantajosas em relaçao a outras ferramentas populares de processamento de texto. Acreditamos que o betterwrite.io tem o potencial de transformar a maneira como as pessoas escrevem e interagem com seus textos, e esperamos que este trabalho possa inspirar outros desenvolvedores a criar ferramentas ainda mais inovadoras e acessiveis.
+
+betterwrite.io - Processador de Texto voltado para a Criatividade.txt

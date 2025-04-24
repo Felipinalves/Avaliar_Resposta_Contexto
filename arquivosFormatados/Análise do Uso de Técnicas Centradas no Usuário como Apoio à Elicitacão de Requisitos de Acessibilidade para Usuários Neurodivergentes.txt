@@ -1,0 +1,125 @@
+**RESUMO**
+
+Compreender os aspectos de pessoas com deficiencias ou envolve-las
+no processo de elicitacao de requisitos, sao desafios constantemente enfrentados
+no desenvolvimento de sistemas acessiveis. A utilizacao de tecnicas de Design
+Centrado no Usuario (DCU) pode contribuir na elicitacao de requisitos de aces-
+sibilidade web e vem sendo amplamente investigada na literatura. Para nor-
+tear esta proposta, conduziu-se uma pesquisa exploratoria (survey online) com
+profissionais de TI, em sua maioria UXUI designers e desenvolvedores front-
+end, na qual evidenciou-se que as tecnicas de Personas, Mapa da Jornada do
+Usuario e Prototipos sao, na perspectivas destes, as mais apropriadas para dar
+suporte a elicitacao de requisitos de acessibilidade. Alem disso, identificou-se
+que as deficiencias relacionadas ao neurodesenvolvimento estao entre as menos
+assistidas em relacao aos recursos de acessibilidade na Web. Neste contexto,
+insere-se esta pesquisa que visa a construcao e validacao de um processo que
+apoie a elicitacao de requisitos, envolvendo as tecnicas mencionadas anterior-
+mente, que contemplem simultaneamente os aspectos de usuarios com Dislexia,
+TDAH e TEA (nivel 1). A pesquisa inclui um estudo de caso, com dois gru-
+pos de estudantesprofissionais de TI neurotipicos e neurodivergentes, a fim de
+analisar o processo e produzir artefatos para validacao, visando a obtencao de
+insigths e sugestao do processo mais apropriado aos casos estudados.
+
+**INTRODUCAO**
+
+Proporcionar as mesmas condicoes de acesso a qualquer pessoa na Web independente de
+sua condicao fisica ou cognitiva, tem sido um grande desafio nas ultimas decadas e, mais
+especificamente, nos ultimos anos. Buscando reduzir as barreiras existentes para a aces-
+sibilidade na Web, foram estabelecidos os requisitos de acessibilidade para plataforma
+online pelo World Wide Web Consortium (W3C), que estabeleceu as Diretrizes de Aces-
+sibilidade para Conteudo Web (WCAG) com o proposito de orientar para o design web
+mais universal [W3C 2018]. Apesar desta necessidade em tornar a Acessibilidade Web
+tangivel a todo tipo de usuario e dos esforcos empreendidos na padronizacao de requi-
+sitos de acessibilidade, tem-se progredido lentamente nesse aspecto. Dados do relatorio
+divulgado pela [WebAIM 2023], provenientes de um teste automatizado aplicado em um
+milhao de paginas iniciais do mundo todo, relatam que em 96,3 das paginas testadas
+foram detectadas falhas WCAG. Em comparacao com os dados registrados em 2019, o
+problema com acessibilidade web diminuiu em apenas 1,5.
+
+Ao destacar os aspectos de usabilidade e acessibilidade, a ISO 9241-171
+[ISO 2008] estabelece que estes devem ser incorporados em todas as fases de desenvol-
+vimento de um produto ou sistema, nao sendo recomendada a adaptacao de sistemas
+ou produtos finais apenas para que seu uso possa ser feito por pessoas com deficiencia.
+Nesse contexto, o Design Centrado no Usuario (DCU) pode contribuir muito para a aces-
+sibilidade na Web, pois tem como foco o usuario, suas necessidades, dores e desafios
+[Lowdermilk 2013]. Com o exposto e dado que, os sistemas disponiveis na Web devem
+ser projetados e desenvolvidos com o atendimento a acessibilidade em todas as suas fases
+de desenvolvimento, despertou-nos o seguinte questionamento "Quais tecnicas, centra-
+das no usuario, sao mais apropriadas para apoiar a elicitacao de requisitos de acessibi-
+lidade em projetos de software" Para sanar a duvida e definir o escopo desta pesquisa,
+conduziu-se um survey online com participacao dos profissionais de TI de todas as regioes
+do Brasil, em sua maioria UXUI designers e desenvolvedores front-end. A pesquisa ob-
+teve 52 respostas validas e os resultados indicaram, na percepcao de 22 dos respondentes
+que afirmaram ter experiencia com projetos acessiveis, que as tecnicas de Personas, Mapa
+da Jornada do Usuario e Prototipos sao as mais apropriadas para dar suporte a elicitacao
+de requisitos de acessibilidade.
+
+Ainda durante a analise dos resultados do survey, identificou-se que as pessoas
+com deficiencias intelectuais estao entre as menos assistidas em relacao aos recursos de
+acessibilidade na Web, o que corrobora com dados de pesquisas do [WebAIM 2020] e de
+[Pichiliani and Pizzolato 2021] que evidenciam uma falta de priorizacao das deficiencias
+cognitivas em projetos acessiveis. Assim, surgiram alguns novos questionamentos tais
+como As tecnicas de Personas, Mapa da Jornada do Usuario e Prototipos, quando uti-
+lizadas durante a elicitacao de requisitos, atendem aos aspectos de pessoas neurodiver-
+gentes Tanto nos papeis de usuarios, quanto no de designersdesenvolvedores". Neste
+sentido, estabeleceu-se o objetivo geral deste trabalho, que visa construir e validar um pro-
+cesso [Shehabuddeen et al. 2000] que combine as tecnicas mencionadas anteriormente,
+no que tange a elicitacao de requisitos de acessibilidade web, buscando contemplar os
+aspectos de usuarios com Dislexia, TDAH e TEA (nivel 1). Para tal, sera conduzido um
+estudo de caso [Mafra and Travassos 2006], com dois grupos de estudantesprofissionais
+de TI neurotipicos e neurodivergentes, para confeccao dos artefatos propostos. Apos a
+conclusao do estudo de caso, sera feita a validacao com especialistas em acessibilidade,
+sobre os artefatos obtidos, assim como a coleta de opinioes dos grupos envolvidos atraves
+de survey.
+
+Fundamentacao e Trabalhos Relacionados
+No contexto da Engenharia de Software, a elicitação de requisitos e uma das primeiras e principais etapas, visto que o entendimento dos requisitos do usuario e um fator critico para o sucesso de sistemas interativos [Sommerville 2019]. Para [Sutcliffe 2002], o principal objetivo da analise de requisitos e identificar os requisitos funcionais e criterios de design nao funcionais do sistema em desenvolvimento usando tecnicas centradas no usuario. Portanto, torna-se importante inserir ainda nesta fase a Acessibilidade Web, uma vez que esta implica na percepcao, compreensao, navegacao e contribuicoes para que o acesso a Web seja facilitado para as pessoas com deficiencia ou para aqueles cujas habilidades podem mudar, devido ao processo do envelhecimento fisico [Kulkarni 2019].
+
+Diversos pesquisadores vem observando, ao longo dos anos, a relacao entre a acessibilidade digital e as tecnicas e/ou profissionais envolvidos na experiencia do usuario. Os autores [Yesilada et al. 2015], [Vollenwyder et al. 2020] e [Pichiliani and Pizzolato 2021] possuem importantes trabalhos, que buscam principalmente a conscientizacao dos profissionais de TI, destacando a pratica e a importancia da acessibilidade em sistemas web. A obra de [Antona et al. 2009] discute a elicitação de requisitos do usuario sob uma perspectiva de acesso universal, investiga tecnicas para diferentes tipos de deficiencias e busca alertar para a complexidade das questoes envolvidas neste tema.
+
+Os autores [Melo et al. 2020] buscaram contribuir nos aspectos tecnologicos relacionados ao autismo disponibilizando uma tecnica, denominada PersonAut, visando a criacao de Personas para obtencao de informacoes mais proximas da realidade do usuario autista. [Pinheiro and Marques 2021] relataram uma experiencia em projetar uma aplicacao movel para criancas com TEA, onde foram elaboradas UserX Stories, adaptadas para incluir aspecto de UX e usabilidade, Proto-personas, criadas com a visao dos stakeholders sobre o dominio do sistema e dos usuarios, alem de Prototipos. Os trabalhos de [Pinheiro and Marques 2021] e [Melo et al. 2020], sao os que mais se relacionam com esta pesquisa, por envolverem desenvolvimento de solucoes para individuos neurodivergentes, embora so com Transtorno do Espectro Autista (TEA), e combinarem o uso de tecnicas centradas no usuario. Todavia, estes trabalhos nao estabelecem processos que possam ser aplicados ou testados para outros individuos neurodivergentes, tambem nao verificam se a aplicacao das tecnicas, consideradas boas solucoes para elicitar os requisitos de acessibilidade, seriam suficientes para que profissionais neurodivergentes obtivessem os requisitos necessarios para construirem seus softwares.
+
+**METODOLOGIA DA PESQUISA**
+
+Com foco na definicao do escopo e alcance do objetivo proposto, esta pesquisa esta
+alicercada em seis etapas principais, descritas a seguir
+Revisao Bibliografica revisao preliminar da literatura, a fim de identificar
+possiveis lacunas relacionadas ao tema Acessibilidade Web
+Pesquisa Exploratoria survey online sobre o uso de tecnicas de DCU na elicitacao
+de requisitos de acessibilidade web (as participacoes foram voluntarias, mediante
+aceite do termo de consentimento, e os participantes nao foram identificados)
+Revisao ad-hoc da Literatura investigacao da literatura por meio do Google Scho-
+lar, a fim de encontrar solucoes existentes para o problema em questao (envol-
+vendo os resultados obtidos na etapa anterior)
+Estudo de Caso planejamento e execucao de experimentos no processo cons-
+truido (com base em tecnicas e diretrizes identificadas na fase anterior), com es-
+tudantesprofissionais de TI neurotipicos e neurodivergentes ao elicitar requisitos
+de acessibilidade em um cenario simulado. A proposta sera submetida a revisao
+do CEP-UFAC
+Validacao dos Artefatos e Coleta de Dados validacao dos artefatos elaborados no
+estudo de caso, por especialistas de acessibilidade, e coleta de opinioes dos grupos
+envolvidos atraves de survey
+Analise dos Resultados e Solucao Proposta: analise dos resultados da etapa anterior e sugestao de um ou mais processos que possam atender as especificidades de uso das tecnicas avaliadas em apoio a elicitacao de requisitos de acessibilidade, na perspectiva de inclusao de usuarios com Dislexia, TDAH e TEA (nıvel 1).
+
+**SOLUCAO PRETENDIDA E RESULTADOS ESPERADOS**
+
+Nesta pesquisa, vislumbra-se a possibilidade de obter insights sobre o uso das tecnicas
+centradas no usuario como apoio a elicitacao de requisitos para usuarios com Dislexia,
+TDAH e TEA (nivel 1). Posto isto, sera conduzido um estudo de caso que visa a realizacao
+de experimentos com estudantesprofissionais de TI neurotipicos e neurodivergentes (me-
+diante aceite de termo e afirmacao dos participantes que possuem diagnostico), a fim de
+mensurar a influencia da utilizacao do processo construido durante a pesquisa, no que
+tange a elicitacao de requisitos de acessibilidade para usuarios neurodivergentes, em um
+cenario simulado. Com o resultado do estudo de caso, pretende-se (i) indicar quais
+tecnicas e diretrizes foram melhor avaliadas, por cada grupo (ii) identificar se as tecnicas
+presentes no processo sao passiveis de adequacoes e (iii) estabelecer, se possivel, um
+unico processo que atenda as especificidades elencadas nesta pesquisa. Espera-se com os
+resultados da pesquisa, que fique evidenciada a influencia das tecnicas abordadas dentro
+do contexto levantado, a fim de contribuir com os profissionais que atuam em projetos de
+software, principalmente aqueles que impactam diretamente na experiencia do usuario,
+sobretudo neurodivergentes. Alem de contribuir, com a pesquisa em Acessibilidade Web
+como parte integrante do processo de elicitacao de requisitos de software.
+
+**CONSIDERACOES FINAIS**
+
+Este artigo apresenta um estudo em andamento que visa aprimorar o processo de elicitacao de requisitos de acessibilidade, com foco em usuarios neurodivergentes. Ao investigar tecnicas centradas no usuario e adaptar o processo de desenvolvimento, espera-se contribuir para a criacao de sistemas web mais inclusivos e acessiveis. Os resultados desta pesquisa poderao auxiliar profissionais de TI a criar solucoes que atendam as necessidades especificas de usuarios com dislexia, TDAH e TEA, promovendo uma experiencia online mais equitativa e acessivel para todos.

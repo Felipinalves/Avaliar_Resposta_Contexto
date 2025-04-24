@@ -1,0 +1,103 @@
+**INTRODUCAO**
+
+O sucesso dos produtos interativos depende da disposicao dos usuarios, ligada ao seu
+prazer percebido . Em meio a concorrencia acirrada, as empresas
+de desenvolvimento de software vem priorizando a experiencia do usuario (UX) para de-
+senvolver produtos e serviços de sucesso . Nesse
+contexto, as avaliaçoes de UX sao essenciais para avaliar a qualidade das aplicaçoes.
+No entanto, a maneira como os usuarios formulam tais avaliaçoes permanece incerto
+
+
+Pesquisas recentes sugerem que os usuarios podem avaliar positivamente a ex-
+periencia apesar dos problemas de usabilidade  e das emoçoes ne-
+gativas vivenciadas , indicando uma possivel limitaçao dos metodos
+existentes na captura de fatores que podem estar pesando mais na avaliaçao de UX. Dado
+que decisoes de design dependem de tais resultados, compreender os fatores que podem
+influenciar nas avaliaçoes dos usuarios torna-se fundamental.
+
+Este artigo apresenta um estudo para investigar o efeito de tres fatores (numero
+de problemas, sequenciamento da interaçao e experiencia anterior) nas duas principais
+dimensoes de UX (pragmatica e hedonica) e na satisfaçao geral 1. Para isso, foram em-
+pregados tres metodos de avaliaçao de UX. Os resultados indicam diferenças significativas
+nas avaliaçoes de UX, influenciadas por alguns dos fatores estudados.
+
+**ESTUDO EXPERIMENTAL**
+
+O estudo consistiu na avaliaçao de um aplicativo de compras online baseado em chatbot
+e envolveu 33 participantes, incluindo inspetores e usuarios finais. O grupo de inspeçao
+contou com 11 participantes, majoritariamente estudantes de graduaçao em Ciencia da
+Computaçao da Universidade Federal do Amazonas (UFAM), e o grupo de usuarios finais
+com 22 participantes de diferentes cursos.
+
+Foram empregados dois tipos de metodos: inspeçao e teste. Para a inspeçao,
+foi utilizado o metodo UX-Tips  que, diferentemente dos metodos
+de inspeçao tradicionais, considera fatores de UX como estetica e emoçao. Para o
+teste, foi selecionado o metodo Think-Aloud, um dos metodos mais utilizados em
+testes com usuarios . Para complementar os resulta-
+dos, foi utilizado a versao reduzida do metodo UEQ (User Experience Questionnaire)
+, composta por 8 itens avaliando as dimensoes Pragmatica (PQ) e
+Hedonica (HQ), juntamente com a escala de valencia do metodo Self-Assessment Manikin
+(SAM)  para avaliar, respectivamente, a percepçao dos partici-
+pantes sobre a UX e a satisfaçao geral.
+
+Para avaliar o efeito do sequenciamento da interaçao , fo-
+ram elaborados dois scripts: um com inicio negativo seguido de final positivo (condiçao
++fim) e outro com inicio positivo seguido de final negativo (condiçao -fim). Ambas as
+condiçoes possuiam exatamente as mesmas tarefas, porem, em diferentes ordens. Na
+condiçao +fim, a ultima tarefa seria menos demorada e menos complexa, enquanto na
+condiçao -fim, a ultima tarefa seria mais demorada e mais complexa.
+
+Apos a realizaçao das etapas anteriores, dois pesquisadores revisaram e consoli-
+daram os problemas. Ao termino do processo foi gerado um relatorio apresentando os
+principais problemas identificados (aqueles com maiores indices de ocorrencia) aos sta-
+keholders, os quais reformularam a aplicaçao.
+
+**RESULTADOS**
+
+Foram identificados 173 problemas unicos, sendo 128 (74%) detectados na inspeçao, 78
+(45,1%) no teste e 33 (19,1%) em ambos. Embora a inspeçao nao tenha coberto parte
+dos problemas identificados no teste, a tecnica UX-Tips possibilitou a captura de aspectos emocionais dos inspetores. Utilizando as 27 categorias de experiencias emocionais do trabalho de Cowen e Keltner (2017) como base, foi verificado se os problemas continham aspectos emocionais nos relatos ou nao. No geral, a inspecao resultou em um maior numero de problemas relatados utilizando termos emocionais. Foram identificados 28 problemas relatados por 10 de 11 inspetores (91%) que descreveram como o problema afetou a experiencia. Em relacao ao teste, foram identificadas 16 descricoes de problemas de 12 dentre 22 usuarios (55%) que apresentavam termos emocionais. Embora os participantes do teste tenham sido encorajados a expressarem seus pensamentos e suas emocoes durante o teste, muitos nao o fizeram.
+
+Avaliacao de UX da Aplicacao
+
+Para avaliar a UX, calculou-se a media de cada dimensao avaliada pela UEQ, bem como a media da escala de Valencia do SAM para avaliar a satisfacao geral. As proximas secoes apresentam os resultados de acordo com os fatores investigados.
+
+Metodo de Avaliacao vs. Avaliacao de UX
+
+Os resultados foram contrastantes entre inspetores e usuarios. Enquanto os inspetores tenderam a uma avaliacao mais negativa, os usuarios foram mais positivos sobre a sua experiencia com a aplicacao, resultando em diferencas na satisfacao e na dimensao PQ, sendo esta ultima significativa. Por sua vez, a diferenca na dimensao HQ nao foi significativa, com ambos os grupos reconhecendo o aspecto inovador da aplicacao. Considerando que a inspecao foca na identificacao de problemas de interface e interacao, os problemas identificados pelos inspetores durante a avaliacao da aplicacao pode ter influenciado a percepcao deles sobre sua qualidade pragmatica.
+
+Para avaliar o efeito do metodo na avaliacao de UX dos inspetores, foi conduzido uma regressao linear para investigar a relacao entre as dimensoes de UX, satisfacao geral e numero de problemas. A regressao geral para a satisfacao foi estatisticamente significante, explicando 69,4% da variancia. A PQ previu significativamente a satisfacao geral, mas nao a HQ. Estes resultados indicam que a satisfacao dos inspetores foi influenciada pela percepcao deles sobre a PQ. Em relacao ao numero de problemas, a regressao geral nao foi estatisticamente significante. Assim, nao ha uma relacao direta entre a quantidade de problemas e a avaliacao de UX, ou seja, uma maior quantidade de problemas identificados pelo inspetor nao necessariamente levara a uma avaliacao de UX mais negativa.
+
+Analise por Sequenciamento da Interacao
+
+Para essa analise, os dados foram analisados de acordo com o grupo (inspecao e teste) e a condicao (+fim e -fim). Em relacao ao teste, os resultados foram bem similares, com pequenas diferencas entre as duas condicoes. Participantes na condicao -fim deram notas um pouco mais baixas, principalmente na dimensao HQ. Contudo, a diferenca nao foi significativa nem para as dimensoes PQ e HQ, nem para a satisfacao geral.
+
+Em relacao ao grupo de inspecao, as diferencas foram maiores, embora nao significativas. Inspetores na condicao -fim tenderam a fornecer avaliacoes mais negativas. A tarefa mais longa ao final com muitas etapas a serem realizadas e inspecionadas pode ter afetado a percepcao dos inspetores sobre a aplicacao, levando a avaliacoes mais negativas devido ao efeito de recencia, que ocorre quando a ultima experiencia e mais influente no julgamento da pessoa [Hands and Avons 2001].
+
+Analise por Experiencia Anterior
+
+Os resultados nao apontaram diferenca significativa entre os grupos na percepcao sobre os aspectos inovadores da aplicacao (HQ). Contudo, a experiencia anterior afetou a percepcao sobre a qualidade pragmatica (PQ) e satisfacao geral. Ao contrario do esperado, usuarios experientes deram notas mais baixas para a dimensao PQ e satisfacao, enquanto aqueles sem experiencia anterior deram notas mais altas nessas dimensoes. O numero de problemas enfrentados durante a interacao foi semelhante para ambos os grupos, sugerindo que a experiencia com aplicacoes similares nao resultou em uma maior capacidade de utilizar a aplicacao, cuja forma de interacao difere das aplicacoes de compras convencionais. Os resultados da avaliacao da aplicacao similar revelaram que, em geral, as lembrancas dos participantes sobre a interacao anterior foi positiva, principalmente na dimensao PQ. Por outro lado, e interessante mencionar que os participantes consideraram o aplicativo avaliado como mais inventivo do que os utilizados anteriormente.
+
+Estes resultados podem ser explicados pela Teoria da Confirmacao de Expectativas [Hossain and Quaddus 2012, Zeithaml et al. 1990], em que os usuarios formam expectativas iniciais com base na experiencia anterior e sua satisfacao e influenciada pelo fato do produto atende-las ou excede-las. Usuarios experientes tinham grandes expectativas com base em sua experiencia anterior, tornando mais dificil para a nova aplicacao atender a essas expectativas e resultando em menor satisfacao. Usuarios inexperientes tiveram percepcoes variadas e nenhuma base para comparacao, levando a uma relacao menos consistente entre a satisfacao e as dimensoes de UX. Assim, mudancas drasticas na forma como o usuario costuma interagir devem ser evitadas, pois podem levar a percepcoes negativas principalmente quando acompanhadas de dificuldades no seu uso.
+
+**CONCLUSAO**
+
+Este artigo apresentou um estudo para investigar o impacto da experiencia anterior, se-
+quenciamento da interaçao e numero de problemas nas percepçoes do usuario sobre a
+UX. Para isso, foram adotados metodos de inspeçao, teste e um questionario de UX.
+
+Os resultados apontaram que as percepçoes sobre a UX podem ser afetadas por
+diferentes fatores, particularmente o metodo de avaliaçao e a experiencia anterior. Assim,
+e importante que pesquisadores e profissionais estejam cientes de seus impactos durante
+o processo de desenvolvimento e avaliaçao do software.
+
+A diferença entre as avaliaçoes de UX de usuarios com e sem experiencia anterior
+abre oportunidades para a realizaçao de mais estudos para investigar melhor o efeito desse
+fator. Pesquisas futuras podem investigar o seu efeito sob uma pespectiva longitudinal,
+de forma a investigar se e como as percepçoes iniciais mudam ao longo do tempo entre
+os dois grupos apos se familiarizarem com a nova forma de interaçao. Com relaçao ao
+sequenciamento da interaçao, pode-se investiga-lo em outros tipos de aplicativos para
+compreender melhor o seu impacto na UX.
+
+**CONSIDERACOES FINAIS**
+Este estudo demonstra que a avaliaçao da experiencia do usuario (UX) em aplicaçoes moveis e um campo complexo e multifacetado, influenciado por diversos fatores. Os resultados revelam que tanto a experiencia pregressa dos usuarios quanto o metodo de avaliaçao empregado podem impactar significativamente a percepçao da UX. E crucial que os profissionais de desenvolvimento de software considerem esses fatores ao planejar e conduzir avaliaçoes de UX, a fim de obter resultados mais precisos e acionaveis. Ao reconhecer e mitigar os vieses associados a esses fatores, e possivel criar aplicaçoes moveis mais alinhadas com as necessidades e expectativas dos usuarios, impulsionando o sucesso do produto.

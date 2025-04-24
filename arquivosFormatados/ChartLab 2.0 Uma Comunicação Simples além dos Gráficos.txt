@@ -1,0 +1,39 @@
+**RESUMO**
+
+Neste trabalho, apresentamos a ferramenta Chart Lab para apoiar a criaçao de graficos mais faceis de serem entendidos principalmente por pessoas com baixo letramento. O sistema se baseia em regras da literatura da area de visualizaçoes de dados e de praticas da tecnica de Linguagem Simples. A partir de recomendaçoes de alteracoes de componentes do grafico sao promovidas mudanças para melhoria na compreensao do leitor.
+
+**INTRODUCAO**
+
+Hoje em dia varios programas e aplicativos possibilitam construir graficos a partir de poucos dados e interaçoes. Visualizaçoes de dados sao recorrentes em jornais, programas de televisao, redes sociais e outras plataformas como meio de interaçao e comunicaçao de dados para o publico. Em um mundo onde os numeros sao um tabu e as palavras nao se comunicam rapidamente, um grafico tem sido a saida mais comum para comunicaçao de dados (Huff, 1954). Entretanto, mesmo que ninguem queira fazer um grafico ruim, isso acontece repetidamente, seja de forma descuidada ou intencional, por todo tipo de pessoas, em todas as empresas e governos (Knaflic, 2019). Esse cenario e fertil para manipulaçao da opiniao publica, propagaçao de noticias falsas ou aumento de uma "infodemia", o excesso de informaçoes imprecisas.
+
+E fundamental buscar como apoiar os usuarios e leitores para usar, analisar e, principalmente, entender os dados transmitidos de forma grafica? Como transformar esse processo grafico criativo em algo menos oneroso? Principalmente ao considerarmos o publico brasileiro com historico de baixo letramento em sua populaçao.
+
+**PROPOSTA DE SOLUCAO**
+
+Desenvolvemos uma ferramenta computacional que permita nao apenas construir um grafico mas faze-lo recomendando boas praticas de forma automatica, facil e intuitiva, como um caminho para a melhoria. Denominamos de Chart Lab, diferentemente dos softwares atuais, esse sistema realiza uma validaçao dos componentes do grafico frente a um conjunto de diretrizes e boas praticas advindas diretamente da literatura da area e da expertise de especialistas de visualizaçao de dados (Oliveira et al., 2021). Com essas orientaçoes gerais, o usuario pode corrigir e atualizar o grafico em tempo real dentro destes parametros e assim melhorar a compreensibilidade para o leitor final. Para os requisitos e funçoes da ferramenta consideramos as seguintes etapas citadas abaixo e representadas na interface da aplicaçao na Figura 1:
+
+1. O usuario inicia o uso do sistema selecionando um arquivo de dados no primeiro bloco, a partir de um icone. Com os dados selecionados, um quadro editor e apresentado onde e possivel escolher o tipo de grafico e customiza-lo: modificar cores, adicionar titulos e legendas, entre outras preferencias. Ao confirmar as ediçoes, o grafico e desenhado no painel ao centro da tela.
+
+2. No bloco ao lado, de alteracoes, sao apresentadas as recomendaçoes do sistema com diretrizes que o grafico esta em desacordo. Ao clicar sobre elas, o usuario pode obter exemplos e informaçoes de como solucionar esse problema. Por exemplo, o grafico nao oferecer um titulo, nao ter eixos nomeados, estar colorido com cores nao adaptadas ao daltonismo, nao apresentar uma legenda, entre outros problemas que dificultariam os leitores a entender de forma rapida e clara o que o grafico esta comunicando.
+
+3. Ja no bloco de analise, o sistema mostra algumas notas que o grafico recebeu. Essas classificaçoes ajudam a representar de forma mais ludica a qualidade da visualizaçao. Uma nota geral em formato de porcentagem, uma classificaçao em icones de estrelas que variam de 0 a 5 e a nota dividida por categorias em graficos de barras por grupos.
+
+A aplicaçao foi integralmente feita para web e codificada em javascript com a utilizaçao de bibliotecas open source como a Papa Parse que converte os dados para formatos JSON, objetos Javascript ou strings e a Google Charts que modela e aplica os tipos de graficos mais comuns utilizados (pizzas, barras, linhas, mapas e dispersao). Um prototipo de teste com algumas funcionalidades implementadas esta disponivel no repositorio do github: https://github.com/RepoRod/ChartLab.
+
+**DIFERENCIAIS E CONTRIBUICOES**
+
+Esta soluçao e uma automaçao relacionada a expansao da Linguagem Simples. Esse movimento mundial e tambem uma tecnica de comunicaçao busca apresentar o texto, a estrutura e o design da informaçao de forma tao clara que o leitor final possa encontrar, entender e usar as informaçoes facilmente.
+
+No que tange a ferramentas que auxiliem a implementaçao desta Linguagem, ha diversos trabalhos que apoiam a traduçao ou analise textual, por exemplo, o trabalho de Scarton; Aluisio (2010) ou Alves et.al (2020). Porem, no ambito da representaçao grafica nao ha propostas de automaçao para a Linguagem, sendo essa a principal contribuiçao desta pesquisa. Ja na area da visualizaçao em si, ha trabalhos que apoiam partes do processo de construçao de uma visualizaçao fornecendo diretrizes para o desenvolvimento de sistemas (Victorelli; Reis, 2020). Contudo, esta pesquisa promove uma ferramenta que alem de fornecer funçoes para criaçao simples e intuitiva, realiza uma analise e recomendaçoes que permitam criar visualizaçoes mais compreensiveis.
+
+Ha ferramentas bem consolidadas no mercado para criaçao de graficos como Tableau ou Microsoft Power Bi, porem, com curvas de aprendizagem altas. Ja ferramentas mais simples como o Microsoft Excel, Google Planilhas ou Infogram, criam graficos sem seguir as diretrizes basicas da area e com padroes que desrespeitam essas boas praticas (Su, 2008).
+
+**RELEVANCIA E IMPACTO**
+
+No que diz respeito a relevancia do projeto, destacamos o novo e unico ponto de vista deste trabalho na expansao da Linguagem Simples aplicada a visualizaçao de dados. O impacto dessa proposta pode ser demonstrado pelas inumeras iniciativas, publicas e privadas, com intuito de fomentar e aplicar o uso desta linguagem no Brasil em busca da transparencia e compreensibilidade entre todos. No contexto publico o interesse advem das diversas leis brasileiras que exigem o uso dessa Linguagem como a Lei de Acesso a Informaçao e Lei do Governo Digital. Tais leis nacionais impoem ao poder publico a divulgaçao de dados de forma transparente, clara e compreensivel, tornando conveniente o uso de visualizaçoes neste contexto. Essa cultura de transparencia tambem atinge as organizaçoes privadas que demonstram um interesse na mesma direçao, se tornando tambem um publico potencial desta pesquisa.
+
+Os resultados do projeto sao contribuiçoes para o aumento da eficiencia das visualizaçoes para as mais diversas aplicaçoes. A visualizaçao de dados e uma area ja consolidada na Ciencia da Computaçao e de grande valia para diversos subtemas desta e de outras areas correlatas e multidisciplinares como: Ciencia de Dados, Business Inteligence, Interaçao Humano-Computador, Design, Comunicaçao Social, entre outros.
+
+**CONSIDERAÇOES FINAIS**
+
+O ChartLab 2.0 se apresenta como uma ferramenta valiosa para auxiliar na criaçao de graficos mais acessiveis e faceis de entender, especialmente para pessoas com baixo letramento. Ao incorporar principios da Linguagem Simples e diretrizes de visualizaçao de dados, o sistema busca facilitar a comunicaçao e compreensao da informaçao, contribuindo para uma maior transparencia e acessibilidade. A relevancia do projeto se destaca pela crescente necessidade de ferramentas que promovam a comunicaçao clara e eficiente de dados, especialmente em um contexto de infodemia. O impacto do ChartLab 2.0 pode ser significativo em diversas areas, desde a divulgaçao cientifica ate a comunicaçao governamental, potencializando a compreensao e o acesso a informaçao por um publico mais amplo.

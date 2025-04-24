@@ -1,0 +1,160 @@
+**RESUMO**
+
+Dentre os muitos desafios encontrados no desenvolvimento e
+utilizaçao dos ERPs, estao a forma com que os dados sao
+apresentados em tela e como sao analisados pelos usuarios.
+Considerando a necessidade de uma alta carga cognitiva para
+compreensao essas informaçoes complexas apresentadas em tela,
+busca-se outros meios para auxiliar o usuario na utilizaçao do
+sistema e consequentemente, a eliminaçao dessas barreiras. Este
+trabalho apresenta a implementaçao de processamento de
+linguagem natural (PLN), por meio de bot, em um ERP
+utilizado na construçao civil. O processo explora o design
+centrado no usuario, realizado em 2 fases (entrevistas qualitativas
+e validaçao de hipoteses quantitativamente), identificando pontos
+que auxiliam o usuario na tomada de decisao sobre a gestao
+financeira da sua construtora. Essa exploraçao resultou em um
+fluxo de conversaçao com duas abordagens, denominadas pelos
+autores de passiva e proativa, via chatbot, integrado com a
+interface grafica do ERP. O fluxo de conversaçao permite a
+visualizaçao de informaçoes em formato reduzido e estrategico,
+aplicando filtros que eliminam a necessidade de relatorios
+detalhados para a tomada de decisao.
+
+**INTRODUÇÃO**
+
+Um dos desafios encontrados no desenvolvimento de sistemas
+complexos, como os sistemas de gestao integrada (ERPs) e o
+engajamento do usuario e a demonstraçao de resultados
+decorrente do uso. Esses resultados sao obtidos por meio de
+consolidaçao de relatorios, aplicaçao de filtros e cadastros de
+dados em formularios estruturados. Nesse sentido, a geraçao de
+relatorios tem se mostrado um senso comum entre as equipes de
+desenvolvimento de sistemas, pois e um formato conhecido de
+obtençao de informaçoes em um sistema ERP.
+
+A interpretaçao de informaçoes geradas por sistemas de gestao
+necessita de uma carga de conhecimento previa, onde o usuario e
+o responsavel pela busca desses dados e, em muitos casos,
+modelagem deles para consolidaçao e entendimento da
+informaçao gerada.
+
+Analisando esse cenario de interaçao humano-sistema e dados,
+surge-se a necessidade de gerar mecanismos para diminuir a carga
+cognitiva desses usuarios, tornando facilitada a analise dos dados
+em um ERP. Pois assim, aproxima-se a informaçao do seu
+entendimento natural, possibilitando a tomada de decisao mais
+agil e deixando que o gestor tenha foco no processo e nao na
+ferramenta.
+
+Algumas alternativas para esse desafio relatado sao a utilizaçao de
+graficos e mensagens de notificaçao. Esta ultima alternativa pode
+ser explorada como forma de interaçao por meio da linguagem
+natural, entregando mais facilmente as informaçoes do sistema ao
+usuario.
+
+Este trabalho possui como objetivo apresentar a utilizaçao de
+processamento de linguagem natural (PLN), por meio de agentes
+virtuais (bots), como ferramenta de apoio ao uso de um software
+de gestao da industria da construçao civil. Para isso, pretende-se
+responder a seguinte pergunta: como uma interface
+conversacional pode auxiliar na interpretaçao de dados em um
+ERP?
+
+Com este proposito, e apresentado a seguir a pesquisa
+desenvolvida para identificaçao e elaboraçao das interaçoes com o
+sistema.
+
+**METODOLOGIA**
+
+O sistema utilizado como base para este estudo de caso se trata de
+um ERP, especializado em gestao de construçao civil, em que os
+autores estao alocados no time que o desenvolveu ate a publicaçao
+desse trabalho, possuindo assim acesso ao processo de
+desenvolvimento do projeto no qual sao responsaveis pelas
+definiçoes do design e interaçao .
+
+A partir de uma investigaçao de cenario e necessidades reais,
+utilizou-se as seguintes tecnicas de design centrado no usuario
+(DCU ): entrevista em profundidade, observaçao de cenario,
+prototipaçao e validaçao. Com o uso dessas tecnicas buscou-se
+facilitar a utilizaçao do sistema pelo usuario e diminuir a
+necessidade de interaçao com a interface, e ainda assim entregar a
+informaçao que o usuario necessita para o controle e tomada de
+decisao em sua gestao.
+
+Foram recrutados cerca de 180 donos de construtoras de micro e
+pequeno porte advindos de uma campanha de marketing, em
+diversas cidades do Brasil, por meio de convite eletronico, para
+participar de sessoes de entrevistas. As entrevistas possuiam como
+objetivo principal identificar as necessidades de informaçao para
+gestao das obras. Os participantes possuem conhecimento tecnico
+formal sobre gestao de obras, mas com conhecimento empirico
+em gestao financeira de suas empresas.
+
+Na fase atual do projeto o time concentrou esforços em atender as
+necessidades de informaçao no modulo financeiro do sistema
+estudado.
+
+O processo de pesquisa foi dividido em 2 (duas) etapas: 1)
+entrevistas qualitativas: identificaçao de hipoteses de frequencia
+ e 2) quantitativa: validaçao das hipoteses levantadas por meio
+de formulario eletronico estruturado. A primeira etapa foi
+realizada com 5 participantes  aleatoriamente selecionados,
+seguida da segunda fase com uma media de 604 respostas validas.
+Contou-se tambem com um mapeamento de jornada realizado por
+um antropologo que identificou situaçoes cotidianas e culturais de
+4 usuarios-participantes em suas respectivas empresas.
+
+As entrevistas qualitativas foram realizadas por meio de
+videoconferencias, com a participaçao dos autores, guiadas por
+um questionario semiestruturado onde haviam perguntas como
+"quais os momentos que se comunica com o escritorio" e "que
+tipo de pergunta e feita para um assistente via aplicativo de
+mensagens ou ligaçao". As respostas foram agrupadas de modo a
+associa-las aos modulos/funcionalidades existentes do ERP (em
+formato de mapa mental), e a jornada deste usuario, associando
+quais seriam os gatilhos proativos e reativos de interaçao.
+
+A partir dos passos acima, chegou-se em 4 (quatro) mensagem
+proativas e 10 (dez) reativas implementadas na interface
+conversacional. Essas mensagens sintetizam relatorios para
+minimizar o uso da interface e maximizar o valor de inserir os
+dados corretamente.
+
+A figura 1 exemplifica uma conversacao onde o bot interage com
+a interface, gerando filtros para entendimento da informacao pelo
+usuario.
+
+Apos a implementacao, o sistema foi liberado, em janeiro de
+2019, para uso por 14 usuarios, sendo 4 participantes da pesquisa
+inicial e 10 clientes da empresa desenvolvedora. Esses usuarios
+foram acompanhados por meio de reuniao semanal de
+implantacao, onde foi possível questionar aos usuarios sobre a
+interacao com o bot e suas percepcoes acerca da sua relevancia.
+
+**CONCLUSAO**
+
+Apos o ciclo de 4 semanas de acompanhamento, foi identificado
+um engajamento dos usuarios com a interface conversacional que
+substituiu, por vezes, os filtros existentes no sistema por perguntas
+como "vai faltar dinheiro esse mes?" e "quais as contas
+atrasadas?". As interaçoes do bot, durante o registro de
+informaçoes, se mostraram uteis pela contextualizaçao e
+aproveitamento da interaçao para informaçoes que ajudam na
+gestao da empresa do usuario.
+
+Para continuidade do trabalho e necessario realizar uma curadoria
+de conteudo, identificaçao de novos fluxos de conversa. O
+trabalho inicial foi realizado entre junho e dezembro de 2018.
+Porem, foi possivel acompanhar as interaçoes iniciais dos
+primeiros usuarios e suas impressoes.
+
+O uso de bots para responder questoes especificas em sistemas de
+gestao e muito embrionario, necessitando de melhores metodos de
+monitoramento e estrategia de curadoria que permita a
+escalabilidade e replicaçao em sistemas semelhantes.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, este estudo demonstrou o potencial da utilizaçao de uma interface conversacional, por meio de agentes virtuais (bots), para auxiliar na interpretaçao de dados em um ERP voltado para a industria da construçao civil. A implementaçao de processamento de linguagem natural (PLN) permitiu a criaçao de um fluxo de conversaçao com abordagens passivas e proativas, integradas a interface grafica do ERP, oferecendo aos usuarios a visualizaçao de informaçoes de forma mais reduzida e estrategica, eliminando a necessidade de relatorios detalhados. A avaliaçao inicial revelou um engajamento positivo dos usuarios com a interface conversacional, indicando a relevancia da abordagem para facilitar a analise de dados e a tomada de decisoes na gestao das empresas.

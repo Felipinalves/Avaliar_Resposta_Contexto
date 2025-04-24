@@ -1,0 +1,211 @@
+**RESUMO**
+
+O presente artigo relata uma experiencia sobre a conduçao
+de uma aula envolvendo a pratica de conceitos basicos da
+Semiotica e Engenharia Semiotica em uma disciplina de
+Interaçao Humano-Computador (IHC) de um curso de
+Bacharelado em Ciencia da Computaçao. Mais
+especificamente relatamos de forma sucinta a sequencia
+didatica da aula, integrando IHC, Desenho e Musica, e os
+principais resultados alcançados.
+
+
+**INTRODUCAO**
+
+Em linha com o grande tema do IHC2018, “Interaçao,
+Cultura e Criatividade”, o Workshop sobre Educaçao em
+Interaçao Humano-Computador (WEIHC) convidou os
+educadores de todo o pais a discutirem experiencias didaticas
+de sucesso no ensino de IHC.
+
+Atualmente o ensino de uma disciplina, seja ela no curso
+superior ou na educaçao basica requer que sejam feitas
+relaçoes com outros conteudos. A busca de vincular
+conhecimentos e fundamental na construçao do universo
+cognitivo do estudante. A area de IHC, notadamente de
+natureza interdisciplinar (envolvendo disciplinas como
+Psicologia Cognitiva, Design Grafico, Ergonomia e Ciencia
+da Computaçao), possui varios desafios de ensino e
+aprendizagem.
+
+Na UFOP, a disciplina basica de IHC e obrigatoria do 2°
+periodo do curso de Bacharelado em Ciencia da
+Computaçao. O programa da disciplina segue basicamente o
+conteudo do livro Interaçao Humano-Computador , com
+mais enfase nos metodos de design e avaliaçao propostos
+pela Engenharia Semiotica .
+
+Bim, em , ao relatar dificuldades existentes no processo
+de ensino/aprendizagem de metodos de avaliaçao propostos
+pela Engenharia Semiotica cita principalmente as
+dificuldades de ordem pratica relacionadas ao extenso
+programa das disciplinas de IHC, a falta de material didatico
+e de exemplos da aplicaçao dos metodos e as dificuldades no
+desenvolvimento de tres capacidades necessarias ao
+aprendizado dos metodos interpretaçao sistematica,
+abstraçao e visao global.
+
+Por se tratar de uma disciplina ofertada a um curso de
+graduaçao, e importante ter em mente que estao sendo
+formados produtores de software, e e possivel que alguns
+deles se encaminhem para a area de desenvolvimento de
+interfaces e de experiencia do usuario (UX). Os estudantes
+da Computaçao, em periodos iniciais do curso, muitas vezes
+tem dificuldades no entendimento de um grande numero de
+conceitos da Semiotica e Engenharia Semiotica e como eles
+sao aplicados no processo de desenvolvimento de software
+interativo.
+
+Dessa forma, o objetivo principal deste artigo e relatar uma
+experiencia de aula na graduaçao onde esses conceitos
+podem ser trabalhados de forma mais ludica, juntando
+Engenharia Semiotica, Desenho e Musica, ampliando as
+praticas pedagogicas em disciplinas na area de IHC.
+
+O restante deste artigo esta organizado da seguinte forma: na
+proxima seçao e apresentado um breve resumo da teoria de
+IHC, Engenharia Semiotica, tema da aula a ser relatada. Em
+seguida, discutimos a sequencia didatica utilizada na aula,
+com a descriçao de suas etapas, seguida dos resultados
+obtidos. Finalmente, tecemos algumas conclusoes e
+sugestoes de trabalhos futuros.
+
+**SEMIOTICA E ENGENHARIA SEMIOTICA**
+
+No curriculo das disciplinas basicas de IHC geralmente sao
+apresentadas diversas teorias que fundamentam os estudos
+na area . Essas teorias tem a sua base na Psicologia (p.
+ex.: Lei de Fitts e Engenharia Cognitiva), Etnometodologia
+(p. ex.: Teoria da Atividade e Cogniçao Distribuida) e
+Comunicaçao (p. ex.: Engenharia Semiotica) e possuem um
+conjunto de conceitos que precisam ser bem entendidos antes
+de serem estudados os metodos utilizados em cada uma
+delas.
+
+Nesse conjunto de teorias, a Engenharia Semiotica se
+destaca como uma teoria de IHC na qual a interaçao e vista
+como um processo de comunicaçao que acontece entre o
+usuario (ou usuarios) e o representante do designer (ou da
+equipe de design)  (Figura 1). Tem como base teorica a
+Semiotica, disciplina que estuda os processos de significaçao
+(atribuiçao de significado) e comunicaçao (troca de
+significados).
+
+Dentre os diversos conceitos que fazem parte da ontologia da
+Semiotica e Engenharia Semiotica, podemos citar: signo
+Peirceano; signos estaticos, dinamicos e metalinguisticos;
+icones, indices e simbolos; metacomunicaçao; preposto do
+designer; interpretante; semiose; artefato intelectual, dentre
+outros.
+
+Os estudantes da Computaçao, em periodos iniciais do curso,
+muitas vezes tem dificuldades no entendimento e aplicaçao
+desses conceitos no processo de desenvolvimento de
+software. Dessa forma, o objetivo deste artigo e relatar uma
+experiencia de aula na graduaçao onde esses conceitos
+podem ser trabalhados de forma mais ludica, juntando
+Engenharia Semiotica, Desenho e Musica.
+
+**METODOLOGIA**
+
+Nesta seçao apresentamos como foi conduzida uma aula na
+disciplina basica de IHC em 2018-1, em sua sequencia
+didatica cujo objetivo foi trabalhar na pratica alguns dos
+conceitos da Semiotica e Engenharia Semiotica apresentados
+em uma aula previa. Estavam presentes 25 estudantes (4
+mulheres e 21 homens), dos 27 matriculados, com media de
+idade de 20 anos. Tambem participou da aula o monitor da
+disciplina, com Licenciatura em Musica, coautor deste
+artigo, que auxiliou o professor na conduçao das dinamicas
+planejadas. O espaço fisico da sala de aula foi previamente
+organizado com as carteiras dispostas em circulo. A aula foi
+dividida em 5 momentos, resumidos na Figura 2 e detalhados
+a seguir:
+
+1 momento 10min Dinamica Inicial A recepcao dos estudantes principiou com uma dinamica utilizando um instrumento musical flauta Foi explicado a eles para fazerem uso dos movimentos do corpo no intuito de expressar a abstracao do som que seria tocado 5 Os estudantes foram convidados a andar livremente pela sala e interagir uns com os outros enquanto uma melodia em escala pentatonica era executada pelo monitor
+
+2 momento 20min Teste de Estilos de Pensamento Foi solicitado aos estudantes que fizessem um teste que classifica estilos de pensamento em relacao ao lado dominante do cerebro esquerdo ou direito 3 Pessoas dominadas pelo lado esquerdo geralmente sao descritas como analiticas logicas e sequenciais As dominadas pelo lado direito tendem a ser mais intuitivas voltadas para as artes e nao lineares Segundo Ned Herrmann as pessoas tem quatro estilos comportamentais basicos e que em geral existe a predominancia de um deles em cada pessoa apesar de todos terem um pouco de cada O estilo predominante influencia a forma de pensamento e o comportamento das pessoas no seu dia a dia Os estilos de pensamento sao assim denominados SC Sequencial Concreto SA Sequencial Abstrato AC Aleatorio Concreto e AA Aleatorio Abstrato Apos o teste o estudante recebia uma nota de 0 a 60 em cada um dos quadrantes
+
+Os SC sao aqueles que se fundamentam na realidade e processam a informacao de uma maneira disciplinada sequencial linear Para eles a realidade consiste naquilo que eles podem detectar atraves dos seus sentidos fisicos cheiro gosto som poder tocar poder ver Eles percebem e relembram detalhes com facilidade podendo tambem recordar sem esforco regras formulas datas e informacoes especificas Os SA sao aqueles que amam o mundo da teoria e o pensamento abstrato Eles gostam de pensar em conceitos e analisar a informacao A atividade favorita dos SA e a leitura e quando um projeto precisa ser pesquisado eles se comportam de forma extremamente cuidadosa e meticulosa pois os seus processos de pensamento sao logicos racionais e intelectuais Geralmente preferem trabalhar sozinhos a ser componentes de um grupo Os AC assim como os SC tambem se apoiam na realidade porem desejam tomar mais o enfoque da tentativa e erro Em vista disso eles frequentemente fazem os saltos quanticos intuitivos necessarios para o verdadeiro pensamento criativo Usam bastante o pensamento divergente acreditam que e bom ver as coisas de varios angulos e preferem trabalhar em equipe com pessoas que dao valor ao pensamento divergente Finalmente os AA organizam a informacao atraves da reflexao e desenvolvem se em ambientes nao estruturados voltados para as pessoas O mundo real para os aprendizes AA e aquele dos sentimentos e das emocoes Os pensadores AA absorvem ideias as informacoes e as impressoes e a seguir as organizam atraves da reflexao Eles se sentem pressionados e pouco a vontade quando sao confinados num ambiente muito estruturado
+
+3 momento 30min Sonho de uma Flauta Cada estudante foi convidado a expressar na forma de um desenho a musica Sonho de uma Flauta da banda Teatro Magico apresentada a seguir Essa musica foi escolhida pelo professor da disciplina por sua letra explorar de forma bastante rica o processo de interpretacao de significados um dos conceitos base trabalhados na disciplina no topico sobre Engenharia Semiotic
+
+Foi informado aos estudantes que eles poderiam desenhar a musica como um todo ou escolher uma parte dela que mais tivesse lhes tocado A cancao foi executada uma primeira vez para que somente prestassem atencao na letra e em seguida mais 2 vezes enquanto eles criavam as ilustracoes
+
+4 momento 30min Imagem Acao Ao estilo do classico jogo de desenho e adivinhacao Imagem Acao Pictionary os estudantes em grupos de 3 a 5 pessoas deveriam elaborar desenhos de conceitos que fazem parte da ontologia da Semiotica e Engenharia Semiotica p ex signo icone indice metacomunicacao preposto do designer etc Os conceitos eram sorteados em cartoes pelo professor e um estudante de cada grupo deveria elaborar o desenho associado e testar a sua representatividade entre os colegas
+
+Em seguida foi solicitado que os estudantes em cada grupo elaborassem juntos um desenho para o conceito de SEMIOSE que basicamente pode ser definido como o processo de associacao de ideias a partir da exposicao a um signo ou o processo de producao de significados A explicacao dos conceitos nao era passada aos estudantes pois tinha sido apresentada em aula previa pelo professor incentivando os a reverem os slides e anotacoes disponibilizadas Como forma de motivar os estudantes o professor informou que selecionaria a melhor ilustracao elaborada pelos grupos
+
+5 momento 10min Avaliacao da Aula Foi solicitado aos estudantes que respondessem a um curto questionario com uma pesquisa sobre o que tinham achado da aula com o objetivo de coletar o feedback sobre o tipo de atividade desenvolvida Para nao enviesar os resultados foi informado aos estudantes que nao era obrigatoria a entrega do questionario respondido ou se preferissem tambem poderiam entrega lo sem identificacao deixando o sobre uma mesa no fundo da sala E importante ressaltar que todos os participantes assinaram um termo de consentimento padrao e os devidos aspectos eticos foram observados na conducao da pesquisa divulgacao de imagens e dos resultados obtidos em futuras publicacoes
+
+RESULTADOS
+
+Os resultados do teste de estilos de pensamento feito no 2 momento da aula Figura 3 foi comentado com os estudantes em uma aula posterior onde tambem foram dadas sugestoes de atividades para desenvolver um ou outro lado do cerebro de acordo com o estilo de pensamento de cada um A media dos resultados do teste para a turma foi a seguinte numa escala de 0 a 60 SC Sequencial Concreto 29 SA Sequencial Abstrato 27 AC Aleatorio Concreto 24 e AA Aleatorio Abstrato 34.
+
+O professor apos aplicar esse teste em varias turmas de IHC ao longo dos anos tem observado que geralmente os estudantes que possuem dominancia do lado direito os AA e AC mais intuitivos voltados a artes e nao lineares acabam se destacando na disciplina de IHC
+
+Sobre o 3o momento a Figura 4 a seguir apresenta alguns dos desenhos criados por um estudante para a musica Sonho de uma Flauta
+
+Sobre o 4o momento a Figura 5 a seguir apresenta uma das ilustracoes criadas para a palavra semiose Na aula posterior o professor aproveitou para mostrar a turma os desenhos feitos pelos grupos e comentar por exemplo que o desenho na Figura 5 representava melhor o conceito de interpretante ao inves de semiose E importante relatar tambem que no 4o momento teve bastante alvoroco na sala de aula havendo inclusive interrupcao de um professor da sala vizinha por conta do barulho excessivo O jogo de Imagem e Acao e empolgante e as pessoas muitas vezes se exaltam tentando descobrir os significados dos desenhos
+
+Em relacao ao 5o momento da aula sobre o questionario de percepcao dos estudantes foram obtidas 17 respostas dos 25 estudantes presentes submetidas a uma rapida analise quantitativa e qualitativa
+
+Sobre a analise quantitativa a media geral do feedback sobre o tipo de atividade realizada em sala foi de 417 numa escala de 1 Nao Gostei a 5 Gostei Todos os 17 respondentes colocaram os seus nomes nas respostas ao questionario apesar de ter sido informado que essa identificacao era opcional
+
+A analise qualitativa foi feita a partir da leitura das justificativas que os estudantes deram para a nota atribuida por eles a aula O feedback dos estudantes em geral foi bastante positivo A seguir alguns trechos dessas respostas sao apresentados
+
+Foi um tipo de atividade que possibilitou a saida do pensamento estritamente logico Estudante 3
+Gostei da aula por causa da dinamica diferente para abordar assuntos do curso de forma mais ludica Estudante 5
+A aula desenvolvida nos mostra o quanto e preciso abstrair para podermos realizar o design de outros projetos Estudante 6
+Foi uma aula divertida e diferente do normal fazendo com que tivessemos uma visao diferente sobre como abstrair Estudante 7
+A atividade em grupo foi bem divertida porque a interacao foi bem visivel Quando uma pessoa apresenta uma ideia a nossa primeira reacao e interagir concordar discordar dar mais ideias etc Com isso desenvolver algo com um pedacinho de cada um e muito gratificante Estudante 12
+Achei interessante a abordagem diferenciada feita em sala onde foi possivel obter novas perspectivas de como e o trabalho na area de IHC e como existem variadas formas de se comunicar Estudante 13
+Achei legal foi uma aula bem descontraida com uma abordagem diferenciada das outras aulas Estudante 15
+Foi uma experiencia nova nao entendi muito bem mas achei legal Estudante 17
+De forma geral espero por aulas assim mais vezes Estudante 14
+
+E importante registrar tambem que 2 dos 17 estudantes relataram aspectos negativos da aula
+
+Achei que a dinamica de grupo invadiu a privacidade do estudante pois nao tinha escolha entre participar ou ficar de fora Estudante 15
+Foi meio estranho por nao esperar uma aula desse tipo acabou sendo meio constrangedor Estudante 17
+
+**CONSIDERAÇOES FINAIS**
+
+Neste artigo, relatamos a conduçao de uma aula de IHC do
+Bacharelado em Ciencia da Computaçao, que envolvia a
+pratica de conceitos de Semiotica e Engenharia Semiotica
+integrada com Desenho e Musica. O nosso objetivo foi
+exemplificar uma experiencia, permitindo que professores da
+area possam refletir e construir as suas proprias estrategias
+de ensino.
+
+Devido ao extenso programa da disciplina de IHC, nao existe
+tempo habil para trabalhar todo o conteudo de uma forma
+mais dinamica. Acreditamos que seja valido pensar outros
+topicos do programa que possam incluir atividades como as
+relatadas neste artigo. Em relaçao ao feedback dos estudantes
+e importante ressaltar que dois deles reportaram nao terem se
+sentido a vontade com o tipo de aula aqui descrito. Como
+sera que os professores devem lidar com essas situaçoes?
+Essa e uma questao importante que tambem pode ser melhor
+investigada em trabalhos futuros.
+
+Embora os alunos tenham em sua maioria gostado da aula,
+nao foi investigado ate que ponto eles efetivamente
+apreenderam os conceitos de Semiotica e Engenharia
+Semiotica explorados na dinamica. Em futuros
+desdobramentos deste trabalho, sugere-se aplicar testes de
+conhecimento com diferentes grupos de controle para poder
+se fazer comparaçoes dos resultados.
+
+Um outro trabalho futuro que pode ser interessante para as
+proximas turmas e organizar uma “Exposição de Arte” no
+saguao do departamento com os desenhos feitos pelos
+estudantes. Essa poderia ser uma forma de incentiva-los a
+trabalhar mais a capacidade de abstracao, divulgar melhor a
+disciplina de IHC e trazer mais Arte para os frios corredores
+da Computacao.
+
+**CONSIDERACOES FINAIS**
+
+A experiencia relatada neste artigo demonstra o potencial de abordagens ludicas e criativas, como o uso de musica e desenho, para facilitar o aprendizado de conceitos complexos de IHC, como os da Semiotica e Engenharia Semiotica. A integraçao dessas atividades na sequencia didatica da aula promoveu maior engajamento dos alunos, incentivando a interaçao, a reflexao e a aplicaçao pratica dos conceitos. Os resultados positivos observados sugerem que a exploraçao de diferentes metodos de ensino pode contribuir significativamente para o aprimoramento do processo de ensino-aprendizagem em IHC.

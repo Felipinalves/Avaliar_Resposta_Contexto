@@ -1,0 +1,168 @@
+**Resumo**
+
+Este artigo explora o desenvolvimento da PawKeepr, uma plataforma
+para atendimento veterinario domiciliar, baseada na usabilidade das
+heuristicas de Nielsen e no Design Thinking. Com o crescimento do mercado
+pet no Brasil e a demanda por serviços personalizados, a PawKeepr aborda
+problemas como a gestao fragmentada de informaçoes e a comunicaçao
+ineficaz, entre veterinarios e tutores. Utilizando um processo iterativo com
+testes piloto
+auditorias mensais, a plataforma foi aprimorada
+significativamente. Os resultados mostram melhorias na eficiencia
+operacional, no gerenciamento de informaçoes e na qualidade do cuidado
+animal, atendendo melhor as necessidades dos usuarios.
+
+**Descriçao do Problema**
+
+O setor pet no Brasil e um dos maiores do mundo, com cerca de 160 milhoes de animais
+de estimaçao em 2022, incluindo caes, aves, gatos, peixes ornamentais, pequenos repteis
+e mamiferos. Neste ano, o mercado pet brasileiro faturou R$68,7 bilhoes, um aumento
+de 14% em relaçao ao ano anterior (ABINPET, 2024). Com a crescente inclusao dos
+pets nas casas brasileiras, a maioria dos tutores de caes e gatos os considera membros da
+familia, levando-os regularmente ao veterinario para cuidados especializados
+(APAMVET, 2016).
+
+Essa expansao se reflete tambem no numero de profissionais e estabelecimentos
+veterinarios: entre 2017 e 2020, o numero de profissionais aumentou de 118,9 mil para
+154,9 mil, e os estabelecimentos passaram de 38,1 mil para 53,1 mil (CFMV, 2020).
+Com o aumento da posse de pets, a demanda por serviços veterinarios domiciliares
+tambem cresceu significativamente, com mais de 50% dos veterinarios oferecendo
+atendimento a domicilio (Reniers et al., 2024). Estudos, como o de Veleda (2022),
+mostram que metade dos veterinarios em Santa Maria/RS ja aderiram a essa modalidade
+de atendimento.
+
+Apesar desse crescimento, veterinarios que prestam serviços domiciliares enfrentam
+desafios significativos na gestao de suas operaçoes. A ausencia de uma plataforma
+integrada que centralize prontuarios medicos, agendamentos e facilite a comunicaçao
+continua entre veterinarios e tutores resulta em processos fragmentados e ineficientes.
+Esses problemas geram frustraçoes e perdas de tempo para ambos os lados,
+comprometendo a qualidade do atendimento (Tarlier, Browne e Johnson, 2003; Wu, Li e
+Fu, 2011; Smith, Jones e Brown, 2017).
+
+Para entender melhor essas dificuldades e necessidades, aplicamos metodologias de
+Design Thinking, começando pela fase de Empatia, na qual entrevistamos veterinarios e
+tutores. Descobrimos que os principais desafios incluem a gestao descentralizada de
+informaçoes dos pacientes, dificuldades na coordenaçao de agendamentos e
+comunicaçao ineficaz com tutores, especialmente no contexto de deslocamentos entre
+atendimentos domiciliares. A analise dessas entrevistas consolidou a percepçao de que a
+falta de soluçoes personalizadas para esses problemas impacta negativamente a
+experiencia do usuario.
+
+Problema Principal: A inexistencia de uma plataforma eficiente e integrada agrava as
+dificuldades operacionais dos veterinarios, afetando diretamente a qualidade do
+atendimento e a satisfaçao dos tutores.
+
+Como a PawKeepr Resolve o Problema: Durante a fase de Definiçao do Design
+Thinking, com base nos desafios identificados, a PawKeepr foi idealizada para oferecer
+uma soluçao completa para o atendimento veterinario domiciliar. A plataforma
+centraliza prontuarios medicos, historicos de tratamentos e dados dos tutores em um
+unico local, integra agendamentos e registros de consultas, e proporciona uma interface
+intuitiva que melhora significativamente a comunicaçao entre veterinarios e tutores.
+Com isso, a PawKeepr nao apenas resolve as ineficiencias operacionais, mas tambem
+eleva a qualidade do atendimento, alinhando-se ao novo paradigma de inclusao dos pets
+como membros da familia com direitos e necessidades proprias (Serpell, 2019; Shiota &
+Dorsa, 2022).
+
+**Etapas do Projeto**
+
+Nesta seçao, detalhamos as principais etapas do desenvolvimento da plataforma
+PawKeepr Smartcare, desde o planejamento inicial da arquitetura ate a implementaçao
+das heuristicas de usabilidade de Jakob Nielsen. Aqui, a metodologia de Ideaçao foi
+fundamental, guiada por sessoes colaborativas com usuarios para co-criar
+funcionalidades que realmente atendam as suas necessidades.
+
+**Planejamento da Arquitetura**
+
+A plataforma foi desenvolvida priorizando usabilidade, funcionalidade, eficiencia e
+segurança. Python foi escolhido para o backend e React para o frontend, seguindo uma
+abordagem agil em sprints. O frontend foi projetado para oferecer uma interface
+intuitiva e responsiva, adaptavel a computadores, notebooks, tablets e celulares.
+Tambem foi desenvolvido como um Progressive Web App (PWA), garantindo
+consistencia atraves de componentes reutilizaveis em diferentes dispositivos moveis.
+
+**Criaçao do Design Multiplataforma**
+
+O design da PawKeepr Smartcare foi criado atraves de um processo iterativo centrado
+no usuario, refletindo a fase de Prototipagem e Testes do Design Thinking. Inicialmente,
+conduzimos uma pesquisa extensiva e coletamos requisitos por meio de entrevistas e
+questionarios para entender as expectativas dos usuarios e identificar lacunas nas
+soluçoes existentes. Criamos personas que representavam os diferentes perfis de
+usuarios, orientando o design para abranger todas as suas necessidades especificas.
+
+Desenvolvemos wireframes de baixa fidelidade para explorar diversos layouts e fluxos
+de interaçao, que evoluiram para prototipos de alta fidelidade utilizando Figma,
+garantindo uma visualizaçao precisa da interface final. Durante todo o processo,
+realizamos testes de usabilidade rigorosos, incluindo avaliaçoes com heuristicas de
+Jakob Nielsen (1994) conduzidas com veterinarios e tutores, documentados na pagina
+de fluxos mapeados. Esses testes foram fundamentais para obter feedback direto dos
+usuarios e para o refinamento continuo da experiencia do usuario, conforme descrito no
+fluxo de auditoria de usabilidade da PawKeepr no item 2.3.
+
+**Fluxo de Auditoria de Usabilidade Baseado nas Heuristicas de Jakob Nielsen**
+
+O fluxo de auditoria de usabilidade da PawKeepr foi realizado com base nas heuristicas
+de Jakob Nielsen, utilizando uma abordagem centrada no Design Thinking para
+identificar e corrigir problemas na experiencia do usuario e encontra-se documentado na
+pagina de fluxos mapeados. O processo começou com a avaliaçao de como a
+plataforma comunicava informaçoes aos usuarios, verificando a familiaridade da
+linguagem, o controle do usuario, a consistencia da interface e a prevençao de erros,
+sempre com o objetivo de reduzir a carga cognitiva e melhorar a usabilidade.
+
+Cenarios de teste foram planejados e configurados para garantir a validade dos dados,
+envolvendo veterinarios domiciliares e tutores de pets como representantes dos usuarios
+finais. Durante os testes, foram observados comportamentos criticos dos participantes
+para identificar problemas reais de usabilidade, que foram documentados e enviados ao
+time de desenvolvimento para ajustes. As mudanças implementadas foram testadas
+iterativamente para garantir sua eficacia e alinhamento com as necessidades dos
+usuarios.
+
+A analise comparativa dos dados, antes e depois das melhorias, permitiu avaliar o
+impacto das mudanças, resultando em um relatorio final que documentou todas as
+descobertas, melhorias realizadas e recomendaçoes adicionais. As heuristicas de Jakob
+Nielsen, combinadas com os principios do Design Thinking, nao apenas identificaram
+problemas, mas tambem guiaram a implementacao de solucoes praticas, culminando em
+uma interface otimizada que atendeu às expectativas dos usuários finais, proporcionando
+uma experiência eficiente e satisfatória.
+
+
+**Plataforma PawKeep Smartcare**
+
+Apos a fase de design, a PawKeepr avançou para o desenvolvimento, integrando
+recursos como gerenciamento de prontuarios e agendamentos, sempre com foco nas
+necessidades identificadas nas fases iniciais do Design Thinking. O desenvolvimento
+incluiu rigorosos testes com um grupo piloto de sete veterinarios, cujo feedback
+permitiu ajustes continuos e melhorias na plataforma. Implementamos monitoramento e
+auditorias mensais de usabilidade baseadas nas heuristicas de Jakob Nielsen e no Design
+Thinking, garantindo que problemas de usabilidade fossem identificados e corrigidos em
+tempo real. O feedback continuo dos usuarios foi crucial para a evoluçao da plataforma,
+com melhorias feitas conforme as observaçoes e analises dos testes, refletindo a
+abordagem iterativa do Design Thinking. A Figura 1 apresenta algumas telas atualizadas
+da plataforma, destacando as melhorias realizadas com base no feedback recebido.
+
+**Conclusoes, desafios e liçoes aprendidas**
+
+Durante o desenvolvimento da PawKeepr, enfrentamos desafios notaveis relacionados
+ao gerenciamento de estado com Redux e React Query, alem da otimizaçao de
+componentes para assegurar uma experiencia de usuario fluida. A integraçao de
+server-side rendering (SSR) e o design responsivo para dispositivos moveis, como
+Progressive Web App (PWA), foram cruciais para manter a consistencia visual e uma
+navegaçao intuitiva. As pesquisas de mercado e as entrevistas com veterinarios,
+realizadas durante a fase de Empatia do Design Thinking, foram fundamentais para
+simplificar interaçoes e tornar o fluxo de navegaçao mais eficiente, especialmente nas
+tarefas criticas de cadastro e agendamento.
+
+Este projeto enfatiza a importancia do Design Thinking na criaçao de soluçoes
+tecnologicas adaptadas as necessidades dos usuarios. A simplicidade no cadastro e no
+processo de agendamento, que foram identificadas como pontos fortes, resultam
+diretamente das fases de Pesquisa e Ideaçao. O processo iterativo de feedback e
+refinamento garantiu que a plataforma evoluisse de acordo com as necessidades dos
+veterinarios e tutores, com melhorias continuas baseadas nas avaliaçoes dos usuarios, como a reformulacao do feed inicial. Este ciclo adaptativo e centrado no usuario e
+essencial para garantir que a PawKeepr nao apenas atende, mas tambem supere as
+expectativas de seus usuarios.
+
+
+**CONSIDERACOES FINAIS**
+
+Este estudo de caso da PawKeepr demonstra o poder do Design Thinking e da usabilidade para criar uma plataforma de atendimento veterinario domiciliar eficaz e centrada no usuario. Ao priorizar a compreensao das necessidades dos veterinarios e tutores, e possivel desenvolver soluçoes que atendam as suas expectativas e melhorem a qualidade do atendimento animal. O processo iterativo de feedback e refinamento e essencial para garantir que a plataforma evolua de acordo com as necessidades dos usuarios e proporcione uma experiencia otimizada e satisfatoria.
+
+**Melhorando a Experiencia do Usuario em Plataformas de Atendimento Veterinario Domiciliar O Caso da PawKeepr.txt**

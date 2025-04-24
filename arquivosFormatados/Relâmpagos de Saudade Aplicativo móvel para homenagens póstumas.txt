@@ -1,0 +1,94 @@
+**RESUMO**
+
+Esta pesquisa apresenta o projeto de um aplicativo movel, intitulado
+Relampagos de Saudade, com a finalidade de expressar rapidas homenagens
+postumas. Esta pesquisa e do tipo aplicada, com abordagem qualitativa,
+utilizando de metodos e tecnicas apropriados ao desenvolvimento do sistema.
+
+**INTRODUCAO**
+
+A expressao da saudade vem sendo, ao longo dos anos, associada a tematica de musicas,
+obras de artes, poesias e afins, demonstrando que a mesma e um sentimento que pode
+ser compreendido universalmente e em diferentes aspectos. Define-se saudade como
+um sentimento nostalgico e melancolico associado a recordaçao de pessoa ou coisa
+ausente . Diante disso, açoes que permitam a expressao de memorias
+e sentimentos de saudades podem trazer conforto e apoio emocional. Destacamos, entre
+outras possibilidades, as homenagens postumas como meio de se expressar o sentimento
+por pessoas ja falecidas. As homenagens postumas ocorrem a partir da interaçao de
+sistemas com dados de pessoas mortas, ou de usuarios com pessoas mortas via sistema,
+o que permite a chamada interaçao postuma .
+
+Avanços tecnologicos tem possibilitado a ampliaçao e modernizaçao de
+ambientes voltados a manifestaçoes de homenagens a entes queridos. Nos dias atuais
+encontramos ferramentas online que, por exemplo, oferecem serviços de memoriais
+digitais, imortalizaçao digital, para configuraçao de legado digital, entre outras. Em
+sistemas de memoriais digitais, os usuarios sao capazes de criar um memorial para um
+ente querido e prestar homenagem atraves de mensagens virtuais, flores, oraçoes, entre
+outros artefatos, como fotos e videos .
+
+Em pesquisa divulgada pelo IBGE, com relaçao ao ano de 2019, foi constatado
+que 82,7% dos domicilios brasileiros possuem acesso a internet, sendo que o celular foi
+o principal meio de acesso e o mesmo foi encontrado em 99,5% dos domicilios
+conectados . A construçao de um aplicativo movel, atualmente, pode ser
+um meio acessivel para a populaçao, da mesma forma, pode contribuir na ampliaçao do
+mercado e espaço de discussao das areas relacionadas a morte de pessoas. Alem disso, e
+preciso considerar que mesmo o smartphone sendo o principal meio de acesso a internet
+no Brasil, existe uma baixa demanda de aplicativos moveis no campo abordado,
+conforme discutido neste artigo.
+
+Dessa forma, a construçao de uma ferramenta focada na postagem de homenagens
+postumas, de simples utilizaçao, torna-se necessaria e relevante. Diante disso, tem-se
+como objetivo apresentar o projeto de um aplicativo movel, intitulado Relampagos de
+Saudade, com a finalidade de expressar rapidas homenagens postumas. Esta pesquisa e
+do tipo aplicada, com abordagem qualitativa . O conjunto de metodos e
+tecnicas empregadas sao citadas ao longo do artigo.
+
+**PESQUISA DE MERCADO E TRABALHOS RELACIONADOS**
+
+Inicialmente, foi realizada uma busca em lojas de aplicativos Play Store, para sistemas
+operacionais Android e App Store, para sistemas IOS. Nesta pesquisa, na qual foram
+procurados aplicativos para apoio ao luto e publicaçao de homenagens postumas,
+podemos evidenciar que a maioria dos aplicativos listados se enquadram num nicho de
+aplicaçao que apenas disponibiliza imagens e frases de lutos para serem compartilhadas
+em outras redes. Em relaçao a ferramentas que se assemelham as caracteristicas
+propostas no Relampagos de Saudade, nao foi encontrada nenhuma que apresentasse
+sua totalidade de funcionalidades e seu objetivo principal espaço interativo para
+postagens de homenagens postumas. Termos utilizados Homenagens postumas
+legado digital memorial digital Luto Apoio ao luto.
+
+Apos algumas etapas de modelagem da aplicaçao, foi realizada uma revisao
+sistematica  no Google Academico utilizando a seguinte string
+de busca memoriais digitais OU memorial digital E aplicativo sendo encontrados
+um total de 12 trabalhos. Entre os trabalhos, destacamos as seguintes tematicas
+encontradas Uso de dados digitais pos-morte [De Medeiros, 2021]; Analise de perfis e
+interaçoes com a ferramenta de memorial digital do Facebook (Faria, 2019); Projeçao e
+recomendaçoes para construçao de memoriais digitais . Impactos da interaçao em sistemas gerenciadores de legado digital .
+Impacto positivo do design no luto . e Termos de uso e
+politicas de privacidade em redes sociais .
+
+Os trabalhos encontrados demonstram que os memoriais digitais se constituem
+como uma area importante no ambito do legado digital fomentando a realizacao de
+pesquisas que refletem sobre o uso de dados no pos-morte dos usuarios, evidenciando o
+impacto das interacoes em sistemas gerenciadores, bem como, em interacoes em redes
+sociais e memoriais digitais. Tambem, se reflete sobre o impacto do design e da
+projeçao e recomendaçoes na prototipaçao de memoriais. Os trabalhos encontraram
+apoiaram a elicitacao de requisitos, descrita a seguir, todavia a aplicacao teve como premissa a simplicacao da expressao saudade. Sao relampagos de saudade!
+
+Projeto do aplicativo Relampagos de Saudade
+
+Como base para criacao dos requisitos, inicialmente foi feito um estudo bibliografico no campo da pesquisa Ueda and Maciel 2021, Nakagawa and Orita 2022, Maciel et al 2022, e em engenharia de software Barbosa et al 2022, Sommerville 2011, Pressman and Maxim 2021. Ainda, foram feitas pesquisas especificas em lojas de aplicativos, conforme supracitado. Em seguida, deu-se inicio a construcao do arcabouco do sistema, resultando em guias de estilos, wireframes e prototipos de alta fidelidade.
+
+Devido aos limites do texto, alguns detalhes da aplicacao foram inseridos links externos contendo documentos com requisitos, o guia de estilo, wireframes e prototipos. Na terminologia deste trabalho, Relampagos se referem as homenagens postumas rapidas criadas pelos usuarios, como aquele lampejo de saudade que a pessoa sente e gostaria de expressar tal sentimento intenso em algum espaco.
+
+No processo de elicitacao dos requisitos foram estabelecidos, primeiramente, requisitos funcionais e nao funcionais baseados na literatura. Em seguida, por meio de reunioes com especialistas na area de legado digital, os requisitos foram revisados para alteracao e adicao de novos. Os requisitos, que podem ser visualizados no documento do link externo, foram separados em duas tabelas: Tabela 1 para os requisitos funcionais e Tabela 2 para os requisitos nao funcionais. Em seguida, para construcao do guia de estilo e wireframes (Figura 1) e telas de alta fidelidade (Figura 2), foi utilizado a ferramenta Figma (2023).
+
+Para o guia de estilo, foram definidos os seguintes itens: Paleta de cores; Tipografia; e icones. Nas cores, alem de nomes e variacoes de intensidade, foram adicionados, em cada cor, valores e niveis de prioridades que atendem a Web Content Accessibility Guidelines - WCAG (2023). Tambem foram criados tokens que contem, alem de suas nomeacoes, o codigo hexadecimal e RGB (Red, Green, Blue) das cores. Na tipografia foram escolhidas duas fontes: Roboto, muito utilizada em aplicativos para sistemas Android e IOS; e Open Sans. Ainda, foram adicionadas as variacoes da espessura. Nos wireframes foram criados esbocos das telas, para: Tela de abertura; Tela de login; Tela de Cadastro; Tela de feed dos Relampagos; Tela de configuracoes; Tela de criacao de Relampago (Homenagem); e Tela de comentarios dos Relampagos.
+
+Desta forma, via guia de estilo e wireframes, foi possivel criar uma melhor documentacao, o que auxiliou na organizacao, definicao de padroes e componentes, alem de configuracoes que agilizaram o inicio do desenvolvimento do aplicativo. Com base na paleta de cores definida na guia, foi criado o logotipo do Relampagos de Saudade, idealizada com os seguintes elementos vetoriais: silhueta de nuvem; relampagos coloridos em amarelos; e um circulo azul, ao fundo. Todos os elementos foram pensados considerando lembrancas a morte, como as nuvens e o ceu.
+
+A Figura 2 apresenta as principais interfaces de alta fidelidade projetadas para o sistema, que visa ser simples e objetivo. Na sequencia, temos as telas iniciais de login e cadastro que, para praticidade do usuario, tambem contam com integracao de outros servicos. Ao fim, temos a tela principal do aplicativo, o feed dos Relampagos. Na parte superior esquerda temos um Menu para configuracoes da aplicacao e na parte superior direita os icones de notificacao e da foto de perfil do usuario, que leva as configuracoes da conta, e um espaco que leva a tela de criacao de Relampagos. Ao centro, serao exibidas as homenagens por ordem cronologica, da postagem mais recente a ultima. E na parte inferior direita temos um botao, que acompanha a rolagem do feed. Na secao mais inferior da tela do feed temos um menu com a tres principais telas: Relampagos, do feed descrito acima; Memoriais, onde sera possivel adicionar o link e um breve resumo de um memorial digital externo existente; e Ajuda sobre a utilizacao do aplicativo, baseado em perguntas frequentes.
+
+Consideracoes finais
+Relampagos de Saudade, uma ideia original e inovadora, se propoe a ser uma solucao que visa criar um espaco de apoio a populacao, ao ponto que a mesma busca gerar auxilio no luto por meio das expressoes de saudade e com o contato com outras pessoas que podem estar no mesmo momento.
+
+Em relacao a parte tecnica, a modelagem do prototipo buscou implementar componentes baseados em boas praticas de engenharia de software e interacao humano-computador, o que permitira uma maior escalabilidade e solidificacao da ferramenta ao longo das etapas de desenvolvimento e disponibilização que seguirao com pesquisas futuras. Aspectos esteticos e um projeto simples foram premissas para a aplicacao. Por fim, como proximos passos, a aplicacao segue para a etapa de testes de usabilidade a partir da versao Beta criada

@@ -1,0 +1,158 @@
+**RESUMO**
+
+Um dos principais desafios da sociedade e o envelhecimento
+da populaçao. Em uma cidade de medio porte no Brasil, Sao
+Gonçalo, o Servico de Atendimento Domiciliar e oferecido
+aos idosos com mobilidade reduzida. No entanto, devido ao
+alto indice de violencia em certas areas, constantemente os
+profissionais que atendem aos idosos sofrem impedimento
+as visitas. Neste sentido, com o proposito de minimizar parte
+destes desafios, como por exemplo o contato entre pacien-
+tes e profissionais, esta pesquisa propoe o uso de Agentes
+Inteligentes Conversacionais como um meio de execuçao
+do Tele-cuidado. Atraves de um estudo participativo, este
+trabalho buscou entender como as caracteristicas do con-
+texto foram refletidas no design do agente. Apos a analise
+dos resultados foi possivel identificar diversas caracteristicas
+sociais presentes nos dialogos. Alem disso, os participantes
+tambem buscaram elaborar soluçoes que estivessem dentro
+da realidade economica dos idosos.
+
+**1 INTRODUCAO**
+
+Um dos principais desafios da nossa sociedade e o envelhe-
+cimento da populaçao . No cenario desta pesquisa, em
+uma cidade de medio porte do Brasil, os idosos sofrem com
+altas taxas de analfabetismo, pobreza e tambem deficiencia
+motora. Com o objetivo de atender estes idosos que necessi-
+tam de uma maior frequencia de cuidado multiprofissional
+ou possuem mobilidade reduzida, atua o Sistema de Aten-
+çao Domiciliar (SAD). No entanto, os profissionais de saude
+que atendem estes pacientes, constantemente sofrem com
+impedimentos as visitas, em decorrencia de fatores como o
+continuo medo da violencia nessas regioes .
+
+Com o proposito de minimizar parte destes desafios, como
+o contato entre os pacientes e estes profissionais, esta pes-
+quisa propoe o uso de Agente Inteligente Conversacional
+(AIC) como um meio para a execuçao do Tele-cuidado. Vale
+ressaltar que o uso de agentes neste cenario nao propoe a
+substituiçao do contato humano, essencial para a superaçao
+da solidao e do declinio cognitivo e emocional dos idosos .
+Em uma recente pesquisa realizada na cidade, foi apontado
+uma necessidade de intervençao na prevençao de complica-
+çoes clinicas de idosos que sofrem com Doenças Cronicas
+Nao Transmissiveis (DCNT), podendo o agente atuar neste
+cenario . Na primeira etapa desta pesquisa, conduziu-se
+um estudo exploratorio qualitativo com a participaçao de
+profissionais de saude que atuam no atual servico de atençao
+domiciliar. Sabendo da necessidade do balanceamento das
+questoes tecnologicas e sociais , esta primeira etapa teve
+por objetivo responder: Quais reflexoes sociais, economicas e
+eticas do contexto que os profissionais de saude estao inseri-
+dos refletem no design participativo de agentes inteligentes?
+
+Para tanto, adotou-se conceitos de co-design e praticas de
+Design Thinking  para o levantamento de informaçoes re-
+ferente as relaçoes do cenario, uma vez que nao foram encon-
+tradas metodologias especificas para co-criaçao de dialogos
+de agentes inteligentes, sem vinculo a tecnologias especificas.
+Por fim, esta pesquisa se diferencia de trabalhos disponiveis
+na literatura em diversas formas, principalmente no aspecto
+de envolver parte dos membros do espaço de pesquisa desde
+o inicio do desenvolvimento do agente ate a fase de coleta
+e criaçao dos dialogos. Na proxima seçao, apresentamos o
+estudo e os resultados obtidos. E finalmente, na Seçao 3 as
+conclusoes.
+
+**2 ESTUDO**
+
+Este estudo tem como objetivo responder a questao de pes-
+quisa citada na Seçao 1. Para isso foi realizado um estudo
+exploratorio qualitativo com conceitos de co-design e prati-
+cas de Design Thinking .
+
+**Metodologia**
+
+Dois pesquisadores em Interaçao Humano-Computador par-
+ticiparam do estudo, um no papel de mentor da discussao e
+outro responsavel por dar suporte a dinamica. O estudo foi
+dividido em tres fases: Imersao, Ideaçao e Prototipaçao. Os
+participantes responderam o termo de consentimento livre
+e esclarecido desta pesquisa. Os dados empiricos coletados
+foram as falas e imagens dos participantes durante todo o
+processo do estudo. A analise dos dados seguiu o paradigma
+nao-preditivo e interpretativo com a abordagem de codifi-
+caçao dos dados empiricos coletados e transcritos. Foram
+selecionados dois profissionais de saude baseado em suas
+experiencias tecnicas/cientificas/praticas previas com idosos
+e conhecimento do cenario. Ambos os selecionados possuem
+suas pesquisas voltadas para o cenario do SAD da cidade
+citada na seçao de Introduçao. Alem disso, um dos partici-
+pantes possui experiencia trabalhando em cenarios criticos
+de home care como gerente de um setor de Tele-cuidado.
+
+**Resultados**
+
+Durante a fase de imersao e entendimento do contexto, foi
+identificado o quanto a esposa de um idoso com DCNT ca-
+rece de acompanhamento. Isso se deve principalmente a uma
+questao cultural no perfil dos idosos masculinos atendidos,
+no qual, nao ha uma cultura de autocuidado e atençao a pro-
+pria saude. Neste caso, deixando toda a responsabilidade para
+a esposa, contrariando as estatisticas do sistema do proprio
+SAD, que indicam o perfil de filho como o mais prevalente
+dentre o perfil dos cuidadores. Segundo os participantes,
+muitas vezes a esposa nao tem o conhecimento tecnico para
+realizar a funçao de cuidadora. Durante a construçao do
+dialogo, os participantes propuseram o uso de mensagens
+que transmitissem valorizaçao de um bom trabalho, pois, de
+acordo com um dos participantes, os cuidadores precisam
+ser reconhecidos quando executam um bom trabalho.
+
+Alem disso, mensagens com teor de alerta tambem pode-
+riam ser utilizadas na indicaçao de que algo deve ser mudado
+e quando ha a necessidade emergencial de verificaçao em um
+posto de saude, pois a situaçao ja se encontra critica. Outro
+ponto social identificado foi a negligencia, pois existe a possi-
+bilidade do idoso ou do proprio cuidador dizer que ira fazer e
+acabar se esquecendo ou apenas nao correspondendo com o
+combinado. Outra caracteristica identificada e a necessidade
+de uma postura incisiva quando necessario, uma vez que a
+pressao nao foi medida e nem a insulina ingerida, entao os
+participantes sao orientados pela mensagem "Meça agora!".
+Isto se deve principalmente pela necessidade de dialogos que
+representem clareza e nao duvida e/ou subjetividade. Com
+relaçao aos fatores eticos, os participantes reconhecem que
+a interaçao destas questoes deve ser entre o profissional de
+saude e o idoso, ja que sentem-se felizes ao participar de uma
+pesquisa que tem por objetivo sua propria qualidade de vida.
+
+**3 CONCLUSAO**
+
+Os principais resultados deste estudo inicial mostraram de-
+safios no cenario do SAD e no formato atual do Tele-cuidado.
+Cita-se, por exemplo a demanda por um entendimento pro-
+fundo do cenario, pois segundo um dos participantes, em um
+cenario, diferentes interlocutores podem ter opinioes diferen-
+tes acerca do idoso e da situaçao do tratamento, demandando
+um esforco tecnico e empatico do profissional de saude. Neste
+sentido, tarefas repetitivas poderiam ser suportadas por tais
+sistemas, disponiveis todos os dias da semana e em qualquer
+horario . A luz dos dados empiricos coletados, caracteris-
+ticas sociais e economicas no momento da elaboraçao dos
+dialogos e durante a proposta das soluçoes tambem foram
+identificados. Como por exemplo, o uso de mensagens que
+ajudem na identificaçao da (in)adequaçao do tratamento de
+forma que o profissional de saude possa orientar o caminho
+adequado. Por fim, com relaçao aos proximos passos, cita-se
+a avaliaçao formativa do prototipo com outros especialistas;
+a definiçao das metas de design; o desenvolvimento da so-
+luçao com base no conhecimento levantado; e a avaliaçao
+dos fenomenos de significaçao e comunicaçao no processo
+de melhora da alfabetizaçao de saude dos cuidadores atraves
+do AIC.
+
+**CONCLUSOES**
+
+O estudo de co-design apresentado neste trabalho demonstrou o potencial dos agentes inteligentes conversacionais para auxiliar no cuidado da saude de idosos, especialmente em contextos desafiadores como o de São Gonçalo. A abordagem participativa permitiu que as necessidades e os desafios do contexto fossem considerados no design do agente, resultando em dialogos mais eficazes e relevantes para os usuarios. Os resultados obtidos reforçam a importancia de considerar os aspectos sociais, culturais e economicos na concepçao de soluçoes tecnologicas para a saude, visando a criaçao de ferramentas que sejam realmente uteis e acessiveis a populaçao idosa.

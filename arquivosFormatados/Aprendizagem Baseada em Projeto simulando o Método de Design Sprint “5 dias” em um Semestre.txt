@@ -1,0 +1,257 @@
+**INTRODUCAO**
+
+Interface Homem-Maquina (IHM) e o nome da disciplina do
+curso de Sistemas de Informaçao (SI) em questao, cuja oferta
+foi iniciada em 2013, em sistema de credito semestral sem
+pre-requisitos. Apesar de sua ementa¹ se preocupar,
+preferencialmente, com tema voltado para interfaces, na
+pratica os conteudos sao abordados de forma mais
+abrangente, incluindo no conteudo programatico metodos e
+tecnicas sobre design de interaçao, experiencia do usuario,
+codesign, dentre outras, podendo variar a cada semestre.
+Devido a essa flexibilidade, todos os envolvidos se referem
+a disciplina como IHC (Interaçao Humano-Computador).
+
+Devido ao curso ser Sistemas de Informaçao e ter como foco
+de interesse, pela maioria dos estudantes, a industria como
+mercado de trabalho, no semestre 2017/2, a professora
+responsavel pela disciplina propos um tema de aplicaçao
+fio conductor para discutir a teoria ao longo do semestre.
+Esse tema foi a chamada da Competiçao de Design para
+Estudantes (Student Design Competition)  da
+Conferencia Internacional sobre Fatores Humanos em
+Sistemas Computacionais 2018 (ACM CHI Conference on
+Human Factors in Computing Systems), a qual teve como
+foco as Comunidades Engajadas (Engaging Communities).
+
+A chamada da Competiçao previa o uso de abordagens de
+Design Centrado no Usuario para desenvolver novas formas
+para dar suporte, empoderar ou mudar o comportamento de
+um grupo a respeito de uma area ou assunto de comum
+interesse. Com relaçao as Comunidades Engajadas,
+conforme as regras, se poderia trabalhar com comunidades
+existentes ou se poderia criar uma nova comunidade. No que
+se referiam as estrategias, recomendavam aquelas que
+permitissem engajamento, como design participativo,
+cocriaçao e codesign, design de serviços, design para
+inovaçao social, design inclusivo e inovaçao aberta. Com
+respeito a tecnologia, sugeriram a inclusao de impressao 3D,
+big data, redes sociais, IoT, gamificaçao, sensores e
+atuadores, realidade aumentada/virtual, ou outras.
+
+A partir das instruçoes da competiçao, definiu-se o uso do
+Design Sprint  como estrategia para organizar os projetos
+com ideias inovadoras e as avaliaçoes. Esse metodo foi
+escolhido devido a sua capacidade de favorecer a entrega de
+subprodutos apos cada aplicaçao de tecnica sugerida, o que
+torna pratica a aplicaçao da teoria e pode vir a motivar os
+estudantes em serem mais participativos nas aulas. Alem do
+metodo de Design Sprint e das normas da Competiçao de
+Design mencionados, outras referencias , foram
+utilizadas na disciplina, as quais conferem
+suporte teorico e explicam os mecanismos que devem ser
+usados para a aplicaçao das tecnicas selecionadas.
+
+Nesse contexto, o objetivo desse artigo e apresentar o relato
+da conduçao da disciplina de Interface Homem-Maquina, as tecnicas utilizadas e alguns resultados entregues pelos
+estudantes ao realizar atividades avaliativas dos conteudos.
+O artigo esta organizado nas seguintes secoes: a secao 2 traz
+definicoes basicas sobre o metodo de Design Sprint, a secao
+3 descreve sobre o planejamento da simulacao dos “5 dias”
+em um semestre, a seção 4 relata sobre as tecnicas utilizadas
+e alguns resultados obtidos pelos estudantes ao longo do
+semestre, e a secao 5 traz as consideracoes finais.
+
+**DESIGN SPRINT**
+
+O Design Sprint e uma metodologia agil que estabelece
+mecanismos para viabilizar a proposiçao de um projeto em
+um curto periodo de tempo. Esta metodologia, se bem
+conduzida e a equipe for bem composta, apresenta alto nivel
+de alcançabilidade dos objetivos e fornece as ferramentas
+para a construçao de um prototipo realista e interativo em
+apenas cinco dias. O Sprint se adequa a pequenos e grandes
+projetos que vao desde um trabalho universitario ate a
+criaçao de uma nova aplicaçao para uma grande corporaçao.
+Segundo os autores , este curto periodo de tempo dedicado
+a prototipaçao se deve ao fato da equipe trabalhar melhor sob
+pressao, aumentando o foco e evitando conversas e açoes
+desnecessarias para a concretizaçao do projeto. Antes de
+partir para a metodologia em si, ha uma pre-organizaçao para
+estruturar o local e a equipe que detenha conhecimentos
+diversos, existindo a possibilidade de adesao de especialistas
+ao projeto. Apos a pre-organizaçao e iniciado o trabalho na
+semana, de segunda a sexta-feira.
+
+Na Segunda-Feira, com a equipe estabelecida, sendo
+sugerido como numero ideal sete integrantes, o primeiro
+passo e elencar um objetivo a longo prazo em que todos
+estejam de acordo. Em seguida, a equipe elabora um
+diagrama para atingir o objetivo a longo prazo,
+continuamente selecionando o que mais se adequa ao
+objetivo final. Posteriormente, o diagrama e as ideias
+levantadas passam por uma revisao pelos membros da equipe
+e um especialista (ou mais) que podem readequar itens para
+o diagrama ficar enxuto. Por fim, e estabelecido um alvo em
+que o esforço coletivo devera se concentrar.
+
+Na Terça-Feira, sao listadas as ideias que possam inspirar
+uma significativa contribuiçao no projeto, seguindo como
+referencia elementos ou ferramentas ja existentes (correlatas
+e inspiradoras). Em seguida, usando as ideias filtradas, sao
+formulados esboços que serao apreciados na Quarta-feira.
+
+Na Quarta-Feira, os esboços de soluçoes para atingir o
+objetivo a longo prazo serao avaliados pela equipe, sendo
+escolhida(s) a(s) melhor(es) soluçao(oes), pelo(s)
+Definidor(es) do projeto (pessoas com expertise e visao).
+Caso haja mais de um esboço vencedor, a equipe deve
+discutir de forma rapida se irao prototipar os esboços
+vencedores ou se irao agrupar os esboços em um unico
+prototipo. Com o esboço definido, a equipe elaborara um
+storyboard que servira como enredo (cenario de uso) para
+posterior avaliaçao do prototipo.
+
+Na Quinta-Feira, o prototipo e fabricado por meio da divisao
+de tarefas entre a equipe, que o constroem por partes e o
+finalizam agrupando.
+
+Na Sexta-Feira, apos o prototipo concluido, e chegada a
+etapa de avaliaçao do prototipo, ao todo cinco potenciais
+clientes ou potenciais usuarios participam. Através das
+avaliaçoes sao coletadas informaçoes e padroes que gerem
+resultados consistentes sobre o projeto, mostrando seu
+potencial de sucesso (para produçao em escala, para
+ampliaçao da adesao, dentre outros).
+
+**PLANEJAMENTO DOS "5 DIAS" EM UM SEMESTRE**
+
+O planejamento dos conteudos do semestre foi organizado
+em tres etapas, as quais foram concluidas com a entrega de
+um relatorio cada. Para a entrega dos relatorios R1, R2 e R3
+um cronograma foi previsto no inicio do semestre, os alunos
+deveriam criar pastas individuais em armazenamento na
+nuvem e postar no Ambiente Virtual de Aprendizagem
+(AVA) institucional um arquivo texto contendo o link de sua
+pasta-relatorio. Alem disso, no ultimo dia de aula foram
+realizadas as apresentaçoes orais dos tres relatorios,
+adicionando suas conclusoes de aprendizado.
+
+Essas tres etapas consistiram na discussao dos conteudos
+relacionados aos 5 dias previstos do Design Sprint,
+organizados conforme a seguir. Na “Segunda-feira": mapeie,
+com reconhecimento do problema, do contexto, do publico-
+alvo, e definiçao do objetivo. “De Terça-feira a Quinta-
+feira": faça esboços, decida e construa o prototipo, com
+concepçao e construçao de versao interativa de prototipos.
+Na "Sexta-feira": teste, com avaliaçao do prototipo com
+potenciais usuarios. Sendo assim, cada relatorio deveria
+contemplar o caminho percorrido contendo as tecnicas
+aplicadas e os resultados obtidos.
+
+Apesar do Design Sprint recomendar que a experiencia ideal
+do uso do metodo em apenas 5 dias, vivenciamos isso em 16
+encontros de 4 horas cada. A "Segunda-feira” teve duraçao
+de 02/10 a 27/11/2017, com 06 encontros e entrega do R1 dia
+04/12/2017. O periodo “de Terça-feira a Quinta-feira"
+ocorreu de 04/12/2017 a 22/01/2018, com 04 encontros e
+entrega do R2 dia 12/02/2018. A “Sexta-feira” teve duraçao
+de 29/01 a 26/02/2018, com 05 encontros e entrega do R3,
+na mesma data (05/03/2018) das apresentaçoes finais.
+
+A ideia de realizar menos encontros na etapa de concepçao e
+prototipaçao foi que, como o semestre letivo seria
+interrompido por ferias devido a reestruturaçao do calendario
+academico causada pela ultima greve, os estudantes
+"teoricamente" teriam mais tempo para se dedicar a essa
+etapa. Isso porque a disciplina nao tem como foco ensinar o
+uso de ferramentas de prototipaçao ou de linguagens de
+programaçao. No entanto, foi necessario prever periodo de
+entrega do R2 com um prazo estendido de tres semanas apos
+o encerramento dos conteudos sobre o assunto.
+
+A forma como os estudantes trabalharam foi uma decisao
+tomada pela professora com base nas experiencias previas
+(de 2013/2 a 2017/1) ao semestre em questao. Tais experiencias evidenciaram que relatorios desenvolvidos e entregues em grupo dificultavam as avaliacoes individuais de aprendizagem, que varios estudantes demonstravam dificuldades de interacao em equipe e que muitas desistencias ocorriam no inicio e ao longo do semestre. Essa forma de trabalho contemplava aplicacoes de tecnicas individuais e em grupo (com a turma inteira), porem as entregas dos relatorios foram individuais.
+
+E importante mencionar que a teoria foi ministrada ao longo do semestre, sendo que em cada aula foi possivel intercalar com as atividades praticas dos projetos. A Aprendizagem Baseada em Projeto (PBL, Problem-based Learning) precisa ser apoiada na teoria para garantir que a pratica nao seja vazia e sem sentido; a teoria explica os conceitos, as motivacoes, os objetivos e a metodologia de conducao das tecnicas, bem como os objetivos de aprendizagem da disciplina. [3, 15]
+
+TECNICAS UTILIZADAS E ALGUNS RESULTADOS OBTIDOS PELOS ESTUDANTES
+
+Ao inicio de cada etapa uma checklist era apresentada, explicada e disponibilizada no AVA, relacionando os resultados das atividades que precisavam ser entregues e suas respectivas pontuacoes. As atividades foram realizadas em sala de aula ou no laboratorio de informatica, individualmente e/ou com a participacao da turma, mas as entregas dos relatorios e as avaliacoes foram feitas de maneira individual. Na sequencia, sao descritas as etapas.
+
+Etapa 1: Segunda-feira
+
+A checklist do R1 contou com as seguintes atividades: (i) Definir o tema; (ii) Definir o objetivo; (iii) Levantar os potenciais problemas (ideias pessimistas); (iv) Relacionar oportunidades; (v) Elaborar o Mapa; (vi) Identificar as partes interessadas no artefato de CoDesign; (vii) Listar relacao de inclusao e de exclusao para definir as partes interessadas; (viii) Elaborar questionario, aplicar online, efetuar tabulacao e discutir brevemente os resultados; Buscar e descrever dados dos (ix) sistemas correlatos ao foco de aplicacao; e, (x) sistemas inspiradores, independente do foco de aplicacao.
+
+A conducao das atividades em turma, porem com resultados entregaveis individuais, foi realizada, em sua maioria, seguindo o estilo apresentado na Figura 1. Essa e uma tecnica usada com frequencia no Design Sprint com o objetivo de que os participantes presentes nao sejam influenciados, inicialmente, pelas respostas dos colegas.
+
+Figura 1. Passos para conducao das atividades em turma.
+
+Dentre os 14 estudantes presentes nessa aula, cada um listou de 1 a 3 temas diferentes, nao havendo repeticoes. A votacao (em, no maximo, 3 temas) e a discussao ocorreram em paralelo uma vez que cada voto era seguido de uma justificativa passivel de debate. Ao final, o tema mais popular foi Algo que facilite o ingresso no mercado de trabalho por egressos do curso de SI, com 08 votos. Ainda seguindo os passos da Figura 1, o objetivo definido foi Auxiliar que os concluintes do curso estejam empregados ou possuam propostas de emprego ao final do curso. Como observado, a turma definiu que a solucao a ser proposta deveria ser restrita para estudantes e egressos do curso de Sistemas de Informacao da Universidade em questao.
+
+A mesma tecnica conducao apresentada na Figura 1 tambem foi usada para levantar os problemas e as oportunidades. Com respeito aos problemas, 09 itens foram listados, a citar alguns: desinteresse dos empregadores em usar a solucao; descobrir que ao inves de ajudar, [a aplicacao] repercute em alguma barreira. No que tange as oportunidades, foram definidas 04 categorias: identificar vagas existentes, receber divulgacao das vagas em primeira mao, evidenciar competencias que o aluno tem e conferir visibilidade ao curriculo. Dentro de cada uma dessas quatro categorias, foram relacionadas diversos itens.
+
+O mapa, um diagrama proposto no Design Sprint, foi feito individualmente, incentivados a os compartilhar no AVA e incluir ideias dos colegas (incluindo rotulos com seus nomes) em suas propostas de mapa. No entanto, os estudantes tiveram dificuldades em elaborar seus mapas, uma vez que foi evidente a integracao de conhecimentos de diagramas aprendidos em disciplinas de Engenharia de Software, tornando o mapeamento mais complexo.
+
+Para relacionar as partes interessadas, nessa ocasiao contavamos com 10 estudantes presents, que utilizaram o artefato de CoDesign, considerando as 04 escalas dentre potenciais usuarios diretos a indiretos. A partir desse resultado e dos criterios de inclusao e exclusao elaborados pelos estudantes, eles votaram nos seguintes publicos: Empresarios dispostos a contratar profissionais sem experiencia, Alunos ja empregados em empresas da area, e Alunos que pensam resolver problemas usando tecnologia.
+
+Para elaborar e aplicar o questionario online, com o intuito de conhecer o perfil, as opinioes e as vivencias dos representantes das partes interessadas definidas, a turma se organizou em 02 equipes (EQ1 e EQ2) com 04 estudantes e 01 equipe (EQ3) com 03 estudantes.
+
+A equipe EQ1 ficou responsavel pelas partes interessadas Alunos ja empregados em empresas da area, e elaborou um questionario online com 06 questoes de perfil e 09 sobre opinioes e vivencia. No total, obtiveram 03 respostas, sendo 01 respondente do sexo feminino e todos egressos do curso de SI. Em resumo, os respondentes mencionaram que existe demanda no mercado por profissionais da area, no entanto, as empresas buscam pessoas com conhecimentos especificos; e tambem se pode optar por empreender. Informaram que e importante para facilitar a conquista de uma vaga: identificar sua principal subarea de interesse dentro da graduacao antes de concluir o curso, manter o curriculo atualizado, estar aberto ao dialogo e saber se comunicar, ser proativo, e buscar outras formas de qualificacao/ se atualizar alem do curso de graduacao. Conforme os respondentes, as disciplinas-chave do curso para conquistar um emprego dependerao dos objetivos e afinidades do estudante com sua subarea de maior interesse. Para eles, ha que se conhecer o enfoque da graduacao escolhida, de preferencia antes de ingressar no curso.
+
+A equipe EQ2 ficou responsavel pelas partes interessadas Empresarios dispostos a contratar profissionais sem experiencia, e elaborou um questionario online com 05 questoes de perfil e 10 sobre opinioes e vivencia. No total, obtiveram 02 respostas, sendo 01 responsavel pelo setor de TI de uma empresa e 01 diretor de uma empresa, com, respectivamente, 30 e 10 anos de experiencia. Em resumo, os respondentes mencionaram que buscam pessoas que saibam trabalhar em equipe e que sejam comprometidas, e que o processo de recrutamento de novos profissionais consiste na analise curricular, na realizacao de entrevista ou pela indicacao por pessoas de sua confianca. As empresas nao oferecem plano de carreira, em uma delas a faixa etaria preferencial busca por profissionais com idade entre 25 e 35 anos, e foi informado que o tempo que um profissional permanece na empresa e acima de um ano e cinco anos.
+
+A equipe EQ3 ficou responsavel pelas partes interessadas Alunos que pensam em resolver problemas usando tecnologia, e elaborou um questionario online com 05 questoes de perfil e 09 sobre opinioes e vivencia. No total, obtiveram 10 respostas, sendo 07 respondentes do sexo masculino e todos estudantes matriculados no curso de SI. Em resumo, informaram como estrategias: manter contato com pessoas que trabalham na area, buscar vagas em websites e agencias de emprego, realizar outros cursos alem da graduacao; e, dentre as dificuldades mencionaram, em sua maioria, a falta de experiencia. Os respondentes se mantem atualizados sobre vagas em sua area de interesse por meio das redes sociais, sites e agencias de emprego, noticias, indicacao ou informacao de outras pessoas, amigos, observacao do mercado enquanto atua em outra area, e, ha estudantes que mencionaram nao procurar. As areas de interesse mais mencionadas foram desenvolvimento e analise de sistemas. Sobre buscar vagas na cidade, as opinioes sao diversas, desde dificil encontrar passando por nao sei informar ate nao e dificil encontrar. A maioria dos respondentes mencionaram nao se sentir preparados pelo curso de graduacao para ingressar no mercado de trabalho.
+
+Com respeito aos Sistemas correlatos e aos Sistemas inspiradores, cada estudante buscou 01 sistema concorrente da solucao a ser proposta e 01 sistema com interface atraente e/ou com forma de interacao diferenciada como inspiracao para o design da solucao a ser proposta. A partir da busca, cada estudante publicou em um forum aberto no AVA e documentou os resultados das buscas (link de acesso/download, captura de tela (imagem) para ilustracao da aplicacao, e lista com, pelo menos, tres pontos positivos da solucao). No total, foram documentados 06 sistemas correlatos e 08 sistemas inspiradores.
+
+Etapa 2: De Terca-feira a Quinta-feira
+
+A checklist do R2 contou com as seguintes atividades: (i) Preencher o Quadro de Avaliacao; (ii) Registrar tecnica de BrainDrawing; (iii) Elaborar cenario de uso (textual ou pictografico); (iv) Revisar e redesenhar mapa; (v) Elaborar wireframes de uma tarefa escolhida no mapa; (vi) Organizar fluxo da tarefa; e, (vii) Projetar prototipo navegavel.
+
+Com relacao ao preenchimento do Quadro de Avaliacao [1], a atividade foi conduzida conforme a Figura 1. Seis estudantes participaram dessa atividade, sendo que alguns dos problemas levantados foram os seguintes: Alunos do Curso de SI, nao sabem quando uma vaga de emprego na qual eles concorrem foi preenchida; Como anunciar as vagas e saber se estas estao sendo atendidas e informar se ainda [estao] disponiveis?; Se a plataforma e restrita para alunos do curso de SI, como sera feita a validacao?. A seguir constam algumas ideias e solucoes levantadas: Sistema notifica que uma vaga na qual um candidato concorre, foi encerrada; Usuarios de empresas em subsistema da aplicacao acompanham o preenchimento das vagas, removendo, alterando e adicionando as mesmas; Para alunos do curso, informar o numero de matricula e comprovante de matricula no semestre vigente. Para concluintes [egressos] enviar o certificado [diploma].
+
+A tecnica de BrainDrawing [1] foi aplicada em uma aula, na qual constavam 04 (quatro) estudantes presentes. Sentados em circulo, lado a lado, cada estudante com uma folha em branco deveria desenhar, em 2 minutos, uma interface referente a alguma das ideias/ solucoes que havia pensado anteriormente. Transcorrido esse tempo, a folha deveria ser passada ao colega ao lado em sentido horario. Durante 2 minutos, o colega deveria analisar a proposta e desenhar algum elemento de interface como forma de melhoria. A rotacao da folha ocorreu de 2 em 2 minutos ate que a folha retornasse ao seu proponente inicial. A partir dos resultados, cada estudante deveria informar quais sugestoes ele(a) acataria e quais nao acataria, com justificativa, para dar continuidade a concepcao de seu prototipo.
+
+A partir do mapa revisado e/ou redesenhado, foi solicitado que cada estudante escolhesse uma tarefa para elaborar propostas de interfaces usando wireframes, individualmente, porem a tarefa deveria envolver, pelo menos, um tipo de busca ou um formulario iniciando pela tela inicial o(s) caminho(s) para alcance do objetivo. Alguns estudantes decidiram desenhar seus wireframes em papel, outros utilizaram ferramenta digital. Tendo os wireframes feitos, pediu-se para organizar individualmente o fluxo da tarefa, mostrando o caminho passo a passo desde a tela inicial ate o alcance do objetivo. Esse fluxo poderia ser representado por mais de um caminho, caso desejassem.
+
+Ao final, na Etapa 2, 07 estudantes entregaram o Relatorio 2, incluindo os prototipos navegaveis, desenvolvidos com alguma ferramenta de prototipacao, de escolha deles. Durante a concepcao e a construcao do prototipo interativo, pode-se verificar que as ideias de conteudos para cadastros e filtros de busca foram semelhantes, uma vez que a turma vinha discutindo os potenciais pontos de interesse das partes interessadas. Contudo, os desenhos das interfaces foram diferentes uns dos outros, alem do fato de alguns optarem por disponibilizar a solucao em diferentes meios: 05 escolheram somente aplicativo para dispositivo movel, 01 escolheu solucao para web, e 01 escolheu disponibilizar a solucao em tela grande, sensivel ao toque, para acesso em local publico.
+
+Etapa 3: Sexta-feira
+
+A checklist do R3 contou com as seguintes atividades: (i) Responder perguntas iniciais como forma de preparacao para a avaliacao; (ii) Realizar avaliacao piloto; (iii) Realizar avaliacoes efetivas; e, (iv) Avaliar a disciplina.
+
+O porque e o que avaliar pensados pelos estudantes, como forma de preparacao para a avaliacao, foram semelhantes mesmo tendo sido elaborados conforme conducao da Figura 1 e visto que os conceitos da disciplina sobre usabilidade e experiencia positiva do usuario estavam mais consolidados nessa etapa do semestre. A partir disso, cada estudante elaborou sua documentacao, a partir dos modelos disponibilizados no AVA, para o planejamento e execucao da avaliacao piloto. A documentacao consistiu em: roteiro para o pesquisador, termo de consentimento livre e esclarecido, questionarios de perfil e de satisfacao, descricao da tarefa, ficha de observacao, bem como a indicacao para preparacao de equipamentos para registro fotografico e gravacao da tela. Vale notar que apesar de utilizarem os mesmos modelos, as tarefas e os questionamentos aos participantes nao foram padronizados. Um exemplo de tarefa definida por um dos estudantes foi: A partir da pagina inicial (Home), efetue a busca por uma vaga de programador, aplique filtros para melhorar a pesquisa, selecione a vaga de seu interesse, confirme a vaga e volte para a tela de Home.
+
+Os documentos deveriam ser entregues no Relatorio 3 preenchidos, escaneados e assinados, caso fossem em papel (como o termo e a ficha de observacao), ou somente preenchidos, caso fossem digitais (como os questionarios de perfil e de satisfacao). Essa atividade foi definida para ser realizada com os proprios alunos da turma como participantes, em sala de aula. Essa decisao foi tomada de modo que a professor pudesse observar os estudantes como moderadores e observadores, anotasse os comentarios e explicasse a todos ao final os pontos positivos e negativos, e como poderiam contornar determinadas situacoes dificeis.
+
+As mesmas regras definidas para a avaliacao piloto foram definidas para a avaliacao efetiva, incluindo os mesmos itens de comprovacao documental e imagetica da avaliacao piloto; porem, com tres diferencas. A primeira, que os participantes voluntarios deveriam ser colegas de curso fora da turma ou empresarios da cidade; a segunda, que cada estudante da turma deveria realizar 02 (duas) avaliacoes efetivas do prototipo; e, a terceira, que nao seria obrigatoria a realizacao das avaliacoes efetivas em sala de aula, somente para quem desejasse. Essa ultima regra foi definida porque existiam estudantes que moravam em outras cidades e para que pudessem realizar avaliacoes com empresarios durante o dia, visto que a graduacao ocorre no periodo noturno.
+
+Dentre os 07 estudantes da turma, somente um realizou uma avaliacao efetiva, os demais avaliaram seus prototipos com dois participantes. Sendo assim, 13 participantes foram entrevistados, 11 do sexo masculino e 02 do feminino, com a media de idade de 24 anos. Dentre eles, 09 ja utilizou alguma aplicacao para busca de empregos; porem, alguns informaram ter experiencias nao muito positivas, por falta de informacoes suficientes sobre o empregador ou sobre a vaga. Alem disso, uma das participantes mencionou a dificuldade de ter que concorrer com homens a determinadas vagas.
+
+As fichas de observacao de dois estudantes estavam incompletas, portanto para o calculo das medias referentes ao tempo de realizacao de tarefa, de solicitacao de ajuda ao moderador e classificacao de sucesso foi levado em consideracao a quantidade de dados existentes. A media de tempo total (desde a explicacao do termo de consentimento ate o agradecimento final pela participacao) de cada
+avaliacao efetiva foi, em torno de, 23 minutos (a duracao
+mais alta foi de 32min e a mais baixa 09min). A media de
+tempo de realizacao da tarefa usando o prototipo foi, em
+torno de, 05 minutos (a duracao mais alta foi de 11min e a
+mais baixa 01min). Dentre 11 respostas preenchidas, 06
+solicitaram ajuda ao moderador durante a realizacao da tarefa
+e a media de classificacao de sucesso atribuida pelo
+moderador foi 3.9 (2 com nota 5, 6 com 4, e 3 com 3).
+
+No que se refere aos questionários de satisfação, após realização da tarefa usando os protótipos, os participantes conferiram feedback para melhorias. A relação de melhorias considerando os 07 protótipos é a seguinte incluir mensagens ou tutorial para instruir o usuário revisar botão confirmar que precisa ser clicado duas vezes direcionar usuário para a tela página correta incluir legenda nos ícones garantir caminhos mais curtos incluir rótulos faltantes ou mais fáceis de se identificar conferir mais clareza na visualização dos resultados inserir feedback ao usuário após confirmação envio permitir anexar currículo ao invés de preencher formulário permitir que a empresa envie email mensagem para candidatos visualizar os dados do próprio cadastro para alterar se desejar e detalhar informações sobre a vaga como pré requisitos e critérios de seleção
+
+Com relação à avaliação da disciplina por seis estudantes respondentes mencionaram como pontos principais para auxiliar no desenvolvimento das propostas foram definir o objetivo identificar as partes interessadas e conhecê los elaborar o mapa e conhecer os sistemas correlatos e inspiradores Um dos estudantes relatou que considerou interessante a perspectiva da disciplina pois é a única que ele cursou que se preocupa com os potenciais usuários e proporciona contato com os mesmos durante o projeto de uma solução O mesmo estudante mencionou que somente ao final da disciplina percebeu que deveria ter dado mais importância às regras de usabilidade de Nielsen pois ao avaliar seu protótipo com os potenciais usuários várias falhas foram evidenciadas Outro estudante considerou difícil pensar em como os conteúdos das disciplinas no curso de SI poderiam estar relacionados de modo que ao final do curso os alunos pudessem finalizar uma aplicação completa pois cada disciplina é ministrada de forma isolada e restrita aos seus conteúdos específicos Nesse aspecto há que pensar em estratégias similares à apresentada por Marques e Melo
+
+Além disso dois estudantes que têm mais afinidade com programação mencionaram que a prototipação foi a parte mais interessante da disciplina e o restante dos conteúdos acharam desinteressante
+
+CONSIDERAÇÕES FINAIS
+
+Ao utilizar o método de Design Sprint algumas técnicas precisaram ser adaptadas por não termos especialistas de diferentes áreas de conhecimentos e habilidades na turma além disso foi eliminada a figura do Definidor e todos tinham direito de voto igualitário
+
+Outro ponto que não foi incluído nas soluções dos estudantes como sugestão da competição de design foram as tecnologias impressão 3D big data redes sociais IoT gamificação sensores e atuadores realidade aumentada virtual O que se percebeu é que os estudantes propuseram soluções já conhecidas por eles como aplicativos para dispositivos móveis ou website não trazendo inovações para debate Uma hipótese é o receio de ter que prototipar algo que não conseguiriam representar com o conhecimento atual mesmo após conhecerem a técnica Wizard of Oz
+
+Ao aplicar o questionário online na Etapa 1 apesar de poucos respondentes verificamos alguns desinteressados em buscar vagas e desinteressados em atuar na área do curso Essas respostas chamaram atenção e consideramos importante levar a discussão para o Núcleo Docente Estruturante NDE e propor a inclusão de algumas questões sobre motivação e vocação no questionário de avaliação do curso
+
+Na Etapa 3 em semestres anteriores as avaliações efetivas poderiam ser realizadas externamente em turno e dia da semana diferentes da disciplina porém os estudantes eram obrigados a filmar por completo cada avaliação Nesse semestre foram permitidas as avaliações externas porém a filmagem não foi cobrada devido à demora para efetuar o upload dos vídeos pelos estudantes e depois o download pela professora No entanto essa demora pareceu pequena diante das dúvidas que surgiram ao avaliar o Relatório 3

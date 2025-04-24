@@ -1,0 +1,105 @@
+**INTRODUCAO**
+
+A visualizaçao da informaçao e um processo que converte dados e conhecimento em
+uma forma visual que permite ao sistema visual humano captar as informaçoes contidas.
+Seu objetivo e possibilitar que o leitor veja, entenda e interprete a informaçao. Uma
+visualizaçao eficaz nao se trata de imagens bonitas, mas de um meio de comunicaçao que
+transmite significado e compreensao . O uso de visualizaçoes
+de dados visa comunicar informaçoes de maneira eficaz. No entanto, as visualizaçoes
+tradicionais frequentemente carecem de explicaçoes adicionais, o que pode dificultar a
+compreensao dos dados apresentados.
+
+A visualizaçao narrativa de dados, ou storytelling, surgiu como uma abordagem
+para ajudar nesse contexto, uma vez que historicamente os seres humanos utilizam nar-
+rativas para transmitir informaçoes. Com isso, muitos pesquisadores passaram a ex-
+plorar o uso de elementos narrativos como uma forma de melhorar o engajamento, a
+interaçao e a compreensao dos usuarios em relaçao a uma visualizaçao de dados. In-
+corporar esses elementos em visualizaçoes de dados pode proporcionar novas manei-
+ras de explicar assuntos que as formas tradicionais de narrativa nao conseguem alcançar
+
+No estudo seminal da area, os autores caracterizaram os componentes de uma
+visualizaçao narrativa em tres dimensoes: generos narrativos, taticas narrativas visuais e
+taticas de estrutura. Cada uma dessas dimensoes possui recursos que auxiliam os de-
+signers de visualizaçoes narrativas. Os autores tambem identificaram que, embora a visualizacao narrativa seja uma area de pesquisa muito recente, ela esta crescendo rapidamente e recebendo maior atencao da academia [Segel and Heer 2010]. 
+Com base em estudos anteriores [Borges 2022], desenvolveu-se uma estrutura de
+componentes e uma nova classificacao do conjunto original de generos definidos no estudo seminal, resultando em um guia de apoio a construcao de visualizacoes narrativas. 
+Apos analisar a estrutura de componentes proposta, identificou-se a necessidade
+de aprofundar os estudos sobre o topico, pois ainda ha necessidade de pesquisas sobre como diferentes combinacoes de componentes de visualizacao podem ser aplicadas em contextos variados. Alem disso, nao se sabe quais novas combinacoes e estruturas podem emergir dessa exploracao e como elas podem ampliar os generos narrativos existentes. Esta pesquisa visa preencher essa lacuna, investigando a flexibilidade da estrutura de
+componentes nas visualizacoes narrativas de dados, com o objetivo de apoiar os autores na criacao de visualizacoes mais eficazes e centradas no leitor.
+
+**OBJETIVO DA PESQUISA**
+
+O objetivo principal deste projeto e, por meio da exploraçao da estrutura dos componentes
+no desenvolvimento de visualizaçoes narrativas, apoiar os autores de visualizaçoes, para
+que possam planejar e desenvolve-las de forma mais eficaz e com o pensamento voltado
+ao leitor. Alem deste objetivo principal, destacam-se os seguintes objetivos secundarios:
+Aplicar a estrutura de componentes proposta em visualizaçoes ja existentes
+ para analisar sua aplicabilidade em diferentes contextos;
+Explorar combinaçoes das estruturas de componentes para identificar novas for-
+mas de visualizaçao narrativa e ampliar o conjunto de generos conhecidos;
+Analisar os generos criados, por meio de sua aplicaçao a exemplos de
+visualizaçoes narrativas e analises com usuarios;
+Identificar fatores que auxiliam o autor da narrativa na tomada de decisao;
+Aprimorar as recomendaçoes do guia proposto para apoio a construçao de
+visualizaçoes narrativas.
+
+**METODOLOGIA**
+
+Para atingir o principal objetivo desta pesquisa, foram definidas as seguintes etapas:
+Aprofundamento das Pesquisas Teoricas, com o objetivo de embasar teorica-
+mente a exploraçao e aplicaçao da estrutura de componentes em visualizaçoes
+narrativas.
+Exploraçao de Diferentes Combinaçoes de Componentes, gerando novas for-
+mas de modelar uma visualizaçao narrativa e ampliando o conjunto de generos
+conhecidos.
+Aprimorar o Guia de Apoio a Construçao de Visualizaçoes Narrativas, com
+base na triangulaçao dos resultados dos diferentes estudos.
+Realizaçao de Estudos com Usuarios, a fim de validar os resultados das diferen-
+tes combinaçoes de estruturas, novos generos e recomendaçoes.
+
+O curso de Doutorado foi iniciado em março de 2023, sendo que a atividades pla-
+nejadas para cada uma das etapas anteriormente elencadas estao listadas no cronograma
+apresentado na Figura 1.
+
+Aspectos Eticos
+
+As atividades deste projeto de Doutorado foram submetidas ao Comite de Etica em Pesquisa (CEP/PUCRS) - projeto numero 54348321.1.0000.5336 - tendo sido este devidamente revisado e aprovado. Antes de cada estudo, os participantes sao informados sobre os objetivos, contexto, riscos, beneficios e seu direito a participacao voluntaria. Aqueles que consentem em participar assinam o Termo de Consentimento Livre e Esclarecido, confirmando sua compreensao dos direitos e concedendo permissao para o uso de imagem e voz nas gravacoes dos estudos. Destaca-se que, a cada novo estudo com usuarios, e submetida uma Emenda ao referido projeto para apreciacao e aprovacao pelo CEP/PUCRS.
+
+Fundamentacao Teorica
+
+Visualizacoes estaticas sao utilizadas ha muito tempo para apoiar a narracao de historias, muitas vezes no formato de graficos e diagramas em conjunto a textos. Neste formato, o texto transmite a historia e a imagem normalmente fornece evidencias de apoio ou detalhes relacionados [Segel and Heer 2010]. A visualizacao narrativa e uma expressao que os autores cunharam para se referir as visualizacoes que incorporam a narrativa em seu design, ou seja, nas quais sao utilizados elementos que favorecem a compreensao do leitor. Neste contexto, eles desenvolveram uma estrutura que sugere estrategias de design para este tipo de visualizacao. Uma questao emergente neste topico e tentar combinar narrativas com graficos interativos, para que, assim, o usuario possa compreender e interagir com o que esta sendo apresentado a ele, pois elementos narrativos podem oferecer explicacoes de uma forma dificilmente alcancada pelos meios tradicionais [Hullman and Diakopoulos 2011][Kosara and Mackinlay 2013].
+O espaco de design narrativo e composto por tres categorias: generos, narrativas visuais e estruturas narrativas [Segel and Heer 2010]. O genero narrativo determina como a informacao e organizada e apresentada ao publico. Os autores identificaram sete tipos principais de generos: Magazine Style, Annotated Chart, Partitioned Poster, Flow Chart, Comic Strip, Slide Show e Film/Video/Animation.
+Referente as narrativas visuais, elas sao dispositivos que auxiliam a narrativa e estao divididas em tres subcategorias: estruturas visuais, destaques e transicoes [Segel and Heer 2010]. As estruturas visuais organizam o progresso da historia na interface, usando tecnicas como barra de progresso, linha do tempo e checklist. Os destaques enfatizam partes especificas da narrativa, utilizando recursos como zoom. Por fim, as transicoes facilitam o avanco e o retrocesso na historia por meio de transicoes animadas.
+A categoria de estruturas narrativas inclui elementos visuais e nao visuais na interface [Segel and Heer 2010], divididas em tres subcategorias: ordenacao, interatividade e taticas de mensagem. A ordenacao define os caminhos que o usuario pode seguir na historia (linear, aleatorio ou direcionado pelo leitor). A interatividade integra mecanismos para interagir com a interface, disponibilizando tecnicas de filtro, pesquisa e destaque, por exemplo. Quanto as taticas de mensagem, tratam-se de mecanismos de comunicacao e explicacao dentro da narrativa, utilizando recursos como legendas e anotacoes.
+Os autores tambem identificaram que a visualizacao narrativa pode possuir diferentes abordagens, que basicamente indicam como os usuarios exploram os dados, quais caminhos podem ser seguidos e como e a interacao com a interface [Segel and Heer 2010]. A abordagem orientada ao leitor apresenta uma ordem linear de acontecimentos, com mais mensagens e pouca interatividade. A abordagem orientada ao autor permite interatividade livre, sem uma ordem definida ou mensagens fixas. Ha tambem a abordagem hibrida, que combina as duas abordagens, exemplificada por modelos como Martini Glass Structure, Interactive Slideshow e Drill-Down Story.
+Embora exista a ilustracao de exemplos de visualizacoes que facam uso dos generos apresentados [Segel and Heer 2010], os autores do estudo seminal da area nao explicaram em detalhes como esses generos sao formados. Elaborou-se, entao, uma estrutura de componentes original dos generos, e a forma que os mesmos podem ser combinados, denominada NaVis Components [Borges 2022]. Alem disso, tambem foi realizada a classificacao dos generos, considerando a representacao visual, tecnicas de interacao, liberdade de exploracao, abordagem da narrativa e a estrutura (NaVis Components).
+Cada genero foi organizado como uma estrutura composta por componentes. Estes componentes podem conter elementos como texto, imagens, tecnicas de visualizacao e, mesmo, outros generos, sendo que um componente pode conter mais de um elemento. A partir desta analise de componentes, para representar os diferentes generos, definiu-se a denominacao Single-component - generos que possuem um componente unico (Annotated Chart, Flow Chart e Magazine Style) - e Multi-component - generos que possuem mais do que um componente no seu formato original (Partitioned Poster, Comic Strip e Slide Show).
+A partir da analise dos resultados obtidos com os estudos iniciais, e, tambem, da analise da estrutura dos componentes e da classificacao dos generos, elaborou-se um guia para auxiliar os autores na construcao de uma visualizacao narrativa. Este guia e separado em dois fluxos (Single-component e Multi-component), cada um possuindo tres etapas nas quais o autor pode tomar decisoes. A primeira etapa envolve a definicao da estrutura da narrativa, considerando se sera single ou multi-component, com base no conjunto de dados e no publico-alvo. Na segunda etapa, o autor escolhe a abordagem da narrativa, podendo ser orientada ao autor ou ao leitor. Na terceira e ultima etapa, o autor decide se a representacao visual sera interativa ou estatica. Como resultado dessas decisoes, sao sugeridos possiveis generos e tecnicas de visualizacao adequadas.
+
+**RESULTADOS PRELIMINARES**
+
+Esta sendo realizada uma revisao da literatura no grupo de pesquisa, com o objetivo de
+identificar visualizaçoes narrativas presentes nesses estudos. O foco do estudo e aplicar a
+teoria de componentes a essas visualizaçoes e, tambem, identificar os generos narrativos
+nelas utilizados. Alem disso, esta sendo planejado um estudo para realizar a mesma
+analise em visualizaçoes encontradas em sites jornalisticos conhecidos, visando comparar
+e validar as teorias aplicadas no contexto academico e pratico.
+
+Paralelamente, estao sendo realizados diferentes estudos para avaliar o guia de
+apoio a construçao de visualizaçoes narrativas proposto por Borges .
+Os resultados destes estudos sao fundamentais para dar inicio ao aprimoramento do con-
+junto de recomendaçoes e novos estudos com usuarios.
+
+**CONSIDERAÇOES FINAIS**
+
+Os resultados desta pesquisa ainda sao iniciais e os estudos estao em andamento. A
+revisao da literatura e a analise de visualizaçoes existentes permitirao identificar e aplicar
+a teoria de componentes, enquanto a futura analise de visualizaçoes jornalisticas promete
+validar essas teorias em contextos praticos. As proximas etapas da pesquisa, incluindo
+a exploraçao de novas combinaçoes de componentes, o possivel surgimento de novos
+generos e novas validaçoes com usuarios, sao essenciais para elaborar recomendaçoes
+mais robustas e que apoiem os autores de visualizaçoes na tomada de decisao.
+
+**CONSLIDERACOES FINAIS**
+
+Este estudo explora a utilizaçao de estruturas de componentes na criaçao de visualizaçoes narrativas de dados. A pesquisa esta em andamento, mas os resultados preliminares indicam que essa abordagem tem o potencial de apoiar os criadores na produçao de visualizaçoes mais eficazes e centradas no leitor. As proximas etapas da pesquisa, incluindo a analise de visualizaçoes jornalisticas e a validaçao com usuarios, serao cruciais para refinar as recomendaçoes e fortalecer o guia de apoio a construçao de visualizaçoes narrativas.

@@ -1,0 +1,129 @@
+**Resumo**
+
+Este artigo apresenta a experiencia com o uso de tecnicas de Design
+Centrado no Humano no contexto do ANA Inova, laboratorio de inovaçao da
+Agencia Nacional de Aguas e Saneamento Basico (ANA). O ANA Inova e um
+espaço institucional que busca promover a inovaçao nos desafios de gestao e
+regulaçao, com atividades ao longo de dois anos, em parceria com a
+Universidade Federal de Lavras.
+
+**Laboratorio de Inovaçao - ANA INOVA**
+
+A inovaçao no governo ganha relevancia em um contexto de rapidas evoluçoes
+tecnologicas e de processos, em que os cidadaos demandam cada vez mais a prestaçao
+de serviços de melhor qualidade, com maior clareza e de facil acesso.
+
+No Brasil, a Lei do Governo Digital (Lei n.º 14.129/2021) tem como um dos
+principios a promoçao do desenvolvimento tecnologico e da inovaçao no setor publico e
+incentiva a instituiçao de laboratorios de inovaçao nos entes publicos, a fim de promover
+a aplicaçao de conceitos, ferramentas e metodos inovadores na gestao publica. Essa Lei
+tambem indica quais devem ser as diretrizes dos laboratorios de inovaçao, que inclui o
+uso de praticas de desenvolvimento e prototipaçao de softwares e de metodos ageis para
+formulaçao e implementaçao de politicas publicas. Neste contexto, o uso de tecnicas de
+Design Centrado no Humano e fundamental para a inovaçao em orgaos publicos.
+
+A fim de fomentar a inovaçao na Agencia Nacional de Aguas e Saneamento
+Basico (ANA), em novembro de 2021 foi instituido por meio de Portaria o Laboratorio
+de Inovaçao da ANA, ANA Inova, que tem como objetivo promover a inovaçao na
+gestao, melhorar a qualidade dos serviços publicos prestados e contribuir para o
+desenvolvimento de soluçoes para resolver desafios de gestao e regulaçao. Dentre as
+diretrizes do laboratorio, estao a melhoria da qualidade dos serviços publicos prestados
+a sociedade com foco nas necessidades dos cidadaos e cidadaas, desenvolvendo soluçoes
+integradas e voltadas ao usuario final e fomento a transformaçao da cultura
+organizacional, promovendo a inovaçao na gestao e desenvolvendo soluçoes frente aos
+desafios do setor publico. A Universidade Federal de Lavras (UFLA) por meio do TED
+(Termo de Execuçao Descentralizada) ANA/UFLA e execuçao pela Zetta - Agencia
+UFLA de Inovaçao, Geotecnologia e Sistemas Inteligentes, apoia a ANA no
+desenvolvimento de projetos de inovaçao e pesquisas cientificas aplicadas a diversas
+tematicas, como planejamento de recursos hidricos, operaçao de reservatorios e eventos
+criticos, segurança de barragens, Governança e Ciencia de Dados.
+
+Neste contexto, no eixo de Governança e Ciencia de Dados, um dos desafios e o
+apoio na estruturaçao do Laboratorio de Inovaçao, a fim de fomentar a cultura inovadora
+nos processos e atividades da ANA.
+
+**Abordagem: Processo de Inovaçao Continuada**
+
+A UFLA atua a partir de um processo de inovaçao continua dentro das areas de
+negocio da ANA e com uma equipe multidisciplinar. Inovar abrange todo o processo de
+pensamento criativo, na compreensao dos desejos dos clientes, na busca da resoluçao de
+problemas complexos, desenvolvimento de novas ideias, implementaçao de soluçoes
+inteligentes, e a busca constante por melhorias.
+
+Na Zetta/UFLA, utilizamos o Ciclo de Inovaçao, que consiste em metodologias
+e ferramentas para execuçao do design do conhecimento em 6 etapas, alinhadas com
+processos de Design Centrado no Humano.
+
+Etapa 1: Empatia - Buscamos conhecer, observar e promover o dialogo com nossos
+clientes com foco na empatia, visando captar e entender suas dores e necessidades
+Etapa 2: Entendendo o problema - Investigamos outras informaçoes que podem ser
+relevantes para o projeto, buscando definir com clareza o problema que queremos
+resolver. Aqui a multidisciplinaridade da equipe Zetta e essencial para buscar
+informaçoes relevantes com as equipe de geo, de ciencia de dados e tecnologia, alem da
+pesquisa tecnico-cientifica
+Etapa 3: Ideaçao de soluçoes criativas - Idealizamos, de forma colaborativa, possiveis
+soluçoes para o problema identificado nas etapas anteriores, considerando todas as
+informaçoes previamente coletadas.
+Etapa 4: Colocando em pratica - Desenhamos um modelo de produto, fluxo ou serviço
+para ser aprimorado a partir de feedbacks dos clientes e possiveis usuarios.
+Etapa 5: Vamos testar? - Buscamos entender, a partir de testes, se o prototipo
+desenvolvido esta de acordo com as necessidades do principal stakeholder de toda a
+nossa jornada: o usuario final. Utilizamos dois metodos: avaliaçao heuristica e testes de
+usabilidade.
+Etapa 6: Inovaçao Continua - Retomamos nossos indicadores e expectativas e avaliamos
+se conseguimos alcançar nossos objetivos. Nesse momento, buscamos fornecer aos
+clientes indicadores de acompanhamento da soluçao gerada para aprimorar a gestao,
+alem de dados que possam orientar a tomada de decisoes futuras.
+
+Ao fim da etapa 6, podem ser entregues: um prototipo navegavel, podendo ser
+uma representaçao fiel do software, ja com resultados dos processos visando melhor a
+usabilidade aplicados, apos etapa de testes; diagramas e fluxos em caso de modelos
+inovadores; uma especificaçao tecnica; projeto de pesquisa.
+
+**Resultados da UFLA + ANA INOVA**
+
+Para consolidaçao do laboratorio, buscou-se definir, de acordo com a portaria da
+ANA de instituiçao do laboratorio, as caracteristicas e possiveis entregas do ANA Inova.
+Foram estabelecidos, a partir de um canva de modelo de negocios, diretrizes para o
+laboratorio, como valores, escopo de atuaçao, indicadores e forma de atuaçao do
+laboratorio. Tambem foram criadas ferramentas para o monitoramento e repositorio das
+atividades do ANA Inova. Desta forma, o ANA Inova se consolida como um um espaço
+institucional transversal que busca reunir pessoas de diferentes areas a depender do foco
+do projeto. Seguindo os valores de cocriaçao, foco no cidadao e agilidade para atuar em
+dois eixos: desenvolvimento de projetos de inovaçao e fomento da cultura da inovaçao.
+
+No primeiro eixo, a UFLA apoiou o ANA Inova no desenvolvimento de tres
+projetos de inovaçao, o Projeto Hidrologiques, que tem como objetivo a adequaçao da
+ANA aos principios da linguagem simples, e o Desafio Saneamento do Futuro - Rios
+sem plastico, projeto de inovaçao aberta para o setor de saneamento em parceria com a
+ABDI (Associaçao Brasileira de Desenvolvimento Industrial) para reconhecer e premiar
+soluçoes inovadoras que incorporem tecnologias digitais e contribuam para a resoluçao
+do desafio de diminuir a quantidade de plastico nos corpos hidricos brasileiros.
+
+Em destaque, o projeto de Inovaçao em Ciencia de Dados e Governança, em
+parceria com a UFLA, resultou em: 19 jornadas de inovaçao apoiadas pelo laboratorio,
+13 soluçoes tecnologicas e 9 produtos de analise e aplicaçao da ciencia de dados
+coordenados pela Superintendencia Tecnologia da Informaçao da ANA (STI/ANA), 13
+entrevistas com usuarios e 31 seçoes de testes de usabilidade, alem de 4 relatorios de
+acompanhamento e 2 ferramentas de monitoramento das atividades do ANA Inova. Ja
+no eixo de fomento da cultura de inovaçao, o laboratorio presta diversos serviços de
+disseminaçao de ferramentas, campanhas de divulgaçao, promoçao de eventos,
+benchmarking com outras instituiçoes, mentorias e curadoria de conteudos. Entre 2021
+e 2022, o ANA Inova obteve mais de 3400 visualizaçoes em eventos que participou ou
+promoveu, 13 participaçoes em eventos, 7 eventos realizados, 3 campanhas de
+divulgaçao interna realizadas e 2 participaçoes em publicaçoes de outras instituiçoes.
+
+**Conclusoes, desafios e liçoes aprendidas**
+
+O ANA Inova apresenta potencialidade em ser um catalisador de inovaçoes no
+setor de recursos hidricos, segurança de barragens e saneamento basico a partir do uso
+de abordagens de design thinking, metodologias ageis e linguagem simples, tendo como
+foco a sociedade. No contexto do TED ANA/UFLA, as entregas de soluçoes
+tecnologicas, alinhadas ao processo de inovaçao da Zetta/UFLA, envolvem colocar o
+usuario no centro do produto, desde a ideaçao, ate os testes dos prototipos e
+acolhimento de feedbacks, com a experiencia da integraçao de principios de Design
+Centrado no Humano nos processos de inovaçao no setor publico.
+
+**CONCLUSAO**
+
+Em conclusao, o laboratorio de inovaçao da Agencia Nacional de Aguas e Saneamento Basico (ANA Inova) tem se mostrado uma iniciativa promissora para impulsionar a inovaçao no setor de recursos hidricos no Brasil. Através da parceria com a Universidade Federal de Lavras (UFLA) e da utilizaçao de abordagens de design thinking e metodologias ageis, o ANA Inova tem conseguido promover a cocriaçao, o foco no cidadao e a agilidade no desenvolvimento de soluçoes para os desafios do setor.

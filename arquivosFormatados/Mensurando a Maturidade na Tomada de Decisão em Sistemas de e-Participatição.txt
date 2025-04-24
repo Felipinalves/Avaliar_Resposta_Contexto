@@ -1,0 +1,196 @@
+**RESUMO**
+
+A fim de viabilizar a integraçao de processos consultivos e
+deliberativos, e proposto o Modelo Interativo Governo-Cidadao,
+organizado em fases, sendo o debate estruturado por meio da
+Linguagem de Interaçao Democratica, a DemIL, e os cidadaos
+sociabilizados em uma comunidade virtual. Com vistas a
+diagnosticar a efetividade da participaçao dos cidadaos em
+processos com fins e-democraticos, apresenta-se o metodo
+Maturidade na Tomada de Decisao - MTD. O Modelo e o metodo
+sao testados em dois experimentos e os resultados sumarizados
+neste artigo.
+
+
+**Introduçao**
+
+A participaçao dos cidadaos nas questoes governamentais pode
+tornar real a democracia, uma vez que gera um fluxo continuo de
+informaçoes entre o cidadao e o governo, ambos auxiliando na
+tomada de decisoes. Todavia, para que de fato haja democracia, os
+cidadaos devem articular um discurso, elaborar propostas,
+confronta-las e indicar suas escolhas, por meios de difusao
+publica.
+
+A democracia eletronica permite viabilizar e consolidar tais
+processos consultivos e deliberativos. A problematica que surge
+nesse processo deve-se ao fato de que, quando os cidadaos sao
+convocados a participar de consultas publicas e de processos
+deliberativos, ocorre, individualmente, uma transformaçao das
+informaçoes oriundas de diferentes meios de comunicaçao
+(televisao, jornais, Internet, entre outros). Tal processo persiste ate
+o momento da votaçao. Assim sendo, nao se consegue verificar se
+ha maturidade quanto as questoes discutidas e deliberadas,
+garantindo que o individuo exerça de fato seu papel de cidadao.
+
+A fim de viabilizar a integraçao de processos consultivos e
+deliberativos, e proposto o Modelo Interativo Governo-Cidadao,
+organizado em fases, sendo o debate estruturado por meio da
+Linguagem de Interaçao Democratica, a DemIL, e os cidadaos
+sociabilizados em uma comunidade virtual. Com vistas a
+diagnosticar a efetividade da participaçao dos cidadaos em
+processos com fins e-democraticos, apresenta-se o metodo
+Maturidade na Tomada de Decisao - MTD.
+
+Os experimentos para checagem das hipoteses da pesquisa
+foram realizados por meio de questionarios online e de uma
+aplicaçao Web, a Comunidade Democratica Cidada CDC,
+possibilitando mensurar e classificar o grau de maturidade de cada
+cidadao responsavel pela tomada de decisao. Por fim, classifica-se
+a tomada de decisao dos cidadaos em imatura, pouco madura,
+madura ou socialmente madura.
+
+**Metodo Maturidade na Tomada de Decisao**
+
+A maturidade e tida como a habilidade demonstrada por meio de
+contribuiçoes ao processo (capacidades tecnicas) e o
+comportamento observado quando o individuo interage na
+execuçao das tarefas (comprometimento do individuo,
+responsabilidade para com as tarefas, liderança, colaboraçao,
+competencias organizacionais, entre outras). Sendo assim,
+maturidade de um grupo pode ser determinada pela
+predominancia de maturidades individuais. Nesse sentido,
+apresenta-se um metodo para mensurar tal maturidade.
+
+As etapas necessarias para a implantaçao do Metodo
+Maturidade na Tomada de Decisao (MTD) foram construidas com
+base no Modelo Interativo Governo-Cidadao. Como etapas
+identificadas como necessarias para o desenvolvimento do metodo
+proposto, ha: 1) existir proposito sociedade, um interesse publico,
+bem como do governo, em deliberar sobre topicos de interesse; 2)
+Instaurar processo deliberativo, por etapas, conforme proposto no
+Modelo de Interaçao Governo-Cidadao; 3) definir instrumentos
+estruturados em conformidade com o processo para coleta de
+dados junto aos cidadaos. Para este estudo propoe-se o uso de
+questionarios online ou de uma aplicaçao Web projetada para tal;
+4) coletar dados; e 5) mensurar a Maturidade da Tomada de
+Decisao (MTD), ao termino do processo, individual e do grupo,
+obtido da seguinte forma: Y = f (MTD).
+
+Para mensurar o grau de Maturidade na Tomada de Decisao
+tem-se como argumento um conjunto de indicadores do metodo .
+
+De forma geral, tais indicadores indicam a intensao do
+individuo em participar do processo, a efetividade da participaçao
+do individuo no debate, a participaçao no debate representada pelo
+voto e o individuo socializa-se durante o processo, medindo o uso
+do espaço de sociabilizaçao e o uso da biblioteca de informaçoes.
+O processo de contagem dos dados e uniforme, sendo que para
+cada tarefa executada no ambiente de experimentaçao atribui-se
+uma determinada pontuaçao. Alguns indicadores tem limites para
+pontuaçao. Cada indicador possui um peso associado. Os pesos e
+pontuaçoes atribuidas por indicador/variavel podem ser
+encontradas no artigo original. A pontuaçao das variaveis
+associadas aos indicadores, bem como dos pesos atribuidos,
+podem ser adaptadas conforme a complexidade do processo e-
+deliberativo.
+
+Os grupos de classes propostos para o grau de maturidade sao:
+Grupo 1- Imatura: interesse em participaçao e/ou moderaçao,
+todavia sem interesse posterior no processo deliberativo.
+Indiretamente mostra o desinteresse do publico pelos assuntos
+propostos para discussao. Grupo 2 Pouco Madura:
+participaçao no processo, no qual ha interesse pelo debate ou pelo
+voto, nao necessariamente por ambos. Grupo 3 Madura:
+participaçao no processo, no qual ha interesse tanto pelo debate
+quanto pelo voto. Grupo 4 Socialmente Madura: processo
+participativo, efetivo e deliberativo, quando o cidadao participa de
+outras atividades, com uma frequencia minima. De um modo
+geral, ha reciprocidade entre os membros, com fluxo de
+informaçoes, com respeito as regras de uso e confianca entre os
+membros.
+
+O grau de maturidade pode ser util tanto para os cidadaos
+quanto para o governo. Com o tempo, os cidadaos podem
+entender como o metodo funciona e, desta forma, podem melhorar
+seu indice de maturidade. Para tal, o grau de maturidade deve
+estar visivel ao usuario, podendo ser, para tal, utilizado um
+sistema de reputaçao. Para o governo, o metodo possibilita, alem
+da realizaçao de um processo deliberativo via Web, avaliar
+quantitativamente a tomada de decisao de questoes de interesse
+publico e observar qualitativamente as opinioes e interesses dos
+cidadaos com relaçao a dados assuntos.
+
+Experimentos e Analise de Resultados
+O Modelo Interativo Governo Cidadao e o metodo MTD foram
+implantados e testados com a aplicacao dos dois experimentos de
+modo a analisar os grupos de classes propostos no MTD e testar
+as hipoteses desta pesquisa Os experimentos foram via aplicacao
+de questionarios e por meio de uma rede social desenvolvida para
+tal a Comunidade Democratica Cidada CDC.
+
+O teste de hipoteses ofereceu uma abordagem confirmatoria
+para a analise de dados com base na estatistica Assim e como
+detalhado no artigo original 1 pode se concluir que as medias
+das medicoes do metodo MTD sao diferentes para uso de
+questionarios e por meio da comunidade virtual CDC Com base
+nesses resultados e nas analises qualitativas e quantitativas
+realizadas as medicoes do metodo MTD aparentam ser melhores
+para o uso com a comunidade virtual CDC Sendo assim e aceita
+a hipotese alternativa da pesquisa de que o metodo Y f MTD
+permite mensurar o grau de maturidade com relacao a tomada de
+decisao em processos e democraticos de forma agil e integrada
+por meio de uma comunidade virtual.
+
+Nesse sentido cabe enfatizar que como o processo de contagem
+da pontuacao do MTD e automatico por meio da CDC a afericao
+do grau de maturidade torna se agil Tambem ha ganhos com a
+integracao de recursos importantes no ambiente como a
+disponibilizacao de informacoes em uma biblioteca e a
+possibilidade das pessoas socializarem se permitindo que os
+individuos sintam se responsaveis pelas ideias compartilhadas e
+adquiram confianca com base no relacionamento mutuo
+estabelecido no ambiente Deve se considerar ainda a facilidade
+de insercao de novos recursos no ambiente integrado e
+consequentemente no metodo MTD possibilitando
+adaptabilidade a ambos.
+
+**Considaraçoes finais**
+
+A integraçao de ambientes consultivos e deliberativos para
+participaçao popular em questoes democraticas e a formaçao de
+comunidades virtuais possibilitam a modelagem de processos de
+tomada de decisao. Dessa forma, fez-se possivel a formulaçao do
+Modelo Interativo Governo-Cidadao e do metodo para mensurar a
+Maturidade na Tomada de Decisao nesse processo, conforme
+esforços desta pesquisa.
+
+Em especial, apresenta-se como contribuiçoes: a geraçao de um
+modelo participativo original, o Modelo Interativo Governo-
+Cidadao, que permite estruturar um processo consultivo e
+deliberativo na Web, apoiado pela formaçao de comunidades
+virtuais, que possibilita o exercicio da cidadania por parte dos
+cidadaos e transparencia por parte dos orgaos governamentais; a
+oferta do metodo MTD, que possibilita mensurar a participaçao
+dos individuos em grupos deliberativos; e a oferta de uma
+abordagem diferenciada para modelagem e avaliaçao de
+comunidades virtuais, apresentando ainda uma metrica para
+mensurar a efetividade da participaçao dos individuos em um
+processo que integra discussao e voto, de forma agil e integrada.
+
+Com base nos trabalhos relacionados apresentados no artigo,
+pode-se constatar o diferencial das contribuiçoes desta pesquisa
+no estabelecimento de um metodo para mensurar a maturidade de
+um processo deliberativo apoiado por uma comunidade virtual,
+classificando a participaçao dos usuarios como imatura, pouco
+madura, madura ou socialmente madura. Limitaçoes da pesquisa e
+trabalhos futuros sao discutidos no artigo original .
+
+Por fim, cabe ressaltar que se acredita que o metodo proposto
+pode ser aplicado em processos deliberativos distintos e em outros
+tipos de redes sociais e comunidades virtuais, desde que adaptados
+os indicadores de participaçao aos propositos da aplicaçao.
+
+**Considaraçoes Finais**
+
+Este trabalho propoe um metodo para mensurar a maturidade na tomada de decisao em sistemas de e-participacao, visando aprimorar a qualidade do debate publico e a representaçao dos interesses dos cidadaos. A integraçao de ambientes consultivos e deliberativos, com o suporte de comunidades virtuais, se mostra promissora para fortalecer a democracia e promover uma gestao mais transparente e participativa. Espera-se que este estudo contribua para o desenvolvimento de novas ferramentas e estrategias que incentivem a participaçao cidada na construçao de um futuro mais justo e igualitario.

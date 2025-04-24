@@ -1,0 +1,90 @@
+**Introducao**
+
+O uso de ventiladores mecanicos (VMs) tem o objetivo de proporcionar suporte a vida
+a pacientes em situaçao de insuficiencia respiratoria, decorrente de doenças que atin-
+gem os pulmoes [Chaves et al. 2021]. Os profissionais da saude que atuam nas Unidades
+de Tratamento Intensivo (UTI) dos hospitais, utilizam equipamentos como o ventilador
+mecanico e fazem o contato com ele por meio de uma interface de usuario, responsavel
+por fazer a comunicaçao entre o software e o usuario. No entanto, a forma de utilizaçao
+do equipamento medico em questao deve ser profissional e cuidadosa do contrario, ajustes
+mal dimensionados podem trazer riscos aos pacientes.
+
+Diante disso, existe a necessidade de corrigir possiveis problemas encontrados
+na interface do equipamento. Visto que estudos nesse campo indicam que a interface
+do usuario e a fonte de problemas para os profissionais da saude [Jiang et al. 2018],
+[Maia 2014], [Richard and Kacmarek 2009]. O presente trabalho visa avaliar a usabili-
+dade da interface de usuario do Ventilador Mecanico Tice.
+
+**Materiais e metodos**
+
+Rastreamento Ocular - A tecnica de rastreamento ocular tem como finalidade registrar
+como ocorrem os movimentos visuais de um usuario atraves de um equipamento denomi-
+nado de eye tracker que faz a captura desses movimentos em um campo visual especifico
+[Barros 2016].
+
+System Usability Scale (SUS) - E um metodo utilizado para mensurar os niveis de usabili-
+dade um de sistema. Geralmente empregado apos a realizaçao de tarefas pre estabelecidas
+dentro de uma avaliaçao especifica, sendo composto por uma escala de 1 a 5, onde 1 sig-
+nifica Discordo Completamente e 5 Concordo Completamente [Lewis and Sauro 2009].
+
+Justificativa
+
+A escolha dos metodos citados se da pelos aspectos que cada um apresenta dentro do con-
+texto de avaliaçao de usabilidade. Nos ultimos anos tem tido pesquisas em torno da usa-
+bilidade aliada ao rastreamento ocular. De acordo com os estudos de [Rodrigues 2019];
+[Rodas and Vidotti 2016]; [Souza 2015] o rastreamento ocular tem a capacidade de for-
+necer pistas visuais interessantes, como o mapa de calor, e metricas como os pontos de
+fixaçao e sacadas.
+
+Em conjunto com rastreamento ocular, o questionario SUS sera utilizado
+como fonte de complemento aos resultados do rastreamento ocular, e tornar mais
+confiavel as conclusoes acerca da interface do ventilador mecanico. Segundo
+[Padrini-Andrade et al. 2019] a SUS pode ser usada para avaliar sistemas, serviços, web-
+sites entre outros. Sua principal caracteristica e indicar quais tarefas apresentam maior ou
+menor dificuldade por parte dos participantes. Por ser bastante versatil e de facil utilizaçao
+comparado a outros metodos, a SUS tem como parametro de resultado uma media de
+referencia de 68 pontos, ou seja, se o produto em questao fez uma pontuaçao abaixo da
+media conclui-se que o produto possui problemas de usabilidade [Lewis and Sauro 2009].
+
+Teste piloto
+
+No estudo, ainda em fase inicial, foi conduzido um teste piloto de avaliaçao da interface
+do ventilador mecanico Tice, tendo como objetivo testar o processo de avaliaçao e expe-
+rimentar como se constroi a amostra de um participante. O avaliador que realizou o teste
+piloto faz parte da equipe de desenvolvimento do proprio Tice, e do sexo masculino e atua
+como medico intensivista. Os participantes que serao selecionados para avaliaçao do Tice
+serao os profissionais da saude (i.e., medicos, enfermeiros e fisioterapeutas).
+
+Para executar o teste, o avaliador foi orientado a realizar um conjunto de nove
+tarefas envolvendo a operaçao do equipamento. Apos o termino, um questionario foi
+preenchido com o intuito de avaliar de forma comparativa as tarefas; medir os niveis de
+concordancia por meio da escala Likert para 13 afirmaçoes; levantar os VMs ja utiliza-
+dos, assim como as vantagens e desvantagens de cada. Por fim, o avaliador registra suas
+obervaçoes sobre a interface e se houver, sugere melhorias. A Tabela 1 apresenta as tarefas que foram executadas, o tempo gasto e as observacoes. A Figura 1 ilustra a interface do usuario do VM Tice.
+
+**Resultados**
+
+A Tabela 1 apresentou as nove tarefas feitas por um avaliador, onde foi analisado o tempo
+gasto em cada uma, bem como o registro de observaçoes que sao as descriçoes que eviden-
+ciam certas dificuldades encontradas pelo avaliador na realizaçao de cada tarefa corres-
+pondente. Em relaçao ao tempo gasto para conclusao das tarefas, observa-se uma variaçao
+de 4 segundos a 1 minuto e meio (1min32s), sendo a tarefa 7 e 9 as que tiveram o menor
+tempo de conclusao registrado. Entretanto, a tarefa que teve o maior tempo gasto foi a 2.
+Outro ponto a se destacar e que somente as tarefas 1 e 2 ultrapassaram 1 minuto. Quanto
+as observaçoes, as tarefas 1, 2, 4, 7, 8 e 9 apresentaram pontos especificos de dificuldade,
+e que de certa forma influenciaram no tempo de conclusao das referidas tarefas. Os tem-
+pos obtidos para cada tarefa podem ser ainda mais adequados, visto que quase todas as
+tarefas receberam uma observaçao pelo voluntario.
+
+Em relaçao a problemas encontrados na interface do ventilador mecanico, o ava-
+liador comentou atraves do questionario que sentiu falta, no painel, do botao "ligar"com
+a funçao do botao fisico "confirmar", e do botao "desligar com a funçao do botao fisico
+"cancelar". Segundo ele, os botoes presentes na interface confundem o usuario, uma vez
+que necessite ligar ou desligar o equipamento. Outro ponto destacado como importante
+para o efetivo uso do VM foi o botao fisico giratorio abaixo dos botoes confirmar e can-
+celar, que e muito comum neste tipo de interface. Diante disso, os proximos passos visam
+começar de fato a avaliaçao de usabilidade com voluntarios.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo preliminar demonstra a importancia de avaliar a usabilidade de equipamentos medicos, como ventiladores mecanicos. Os resultados do teste piloto revelaram pontos de melhoria na interface do ventilador Tice, que podem contribuir para reduzir erros e aumentar a segurança do paciente. A avaliaçao de usabilidade com voluntarios e o rastreamento ocular serao importantes para confirmar e refinar as descobertas. Ao investir em interfaces claras e intuitivas, e possivel melhorar a experiencia do usuario e garantir um tratamento mais eficaz e seguro para pacientes com insuficiencia respiratoria.

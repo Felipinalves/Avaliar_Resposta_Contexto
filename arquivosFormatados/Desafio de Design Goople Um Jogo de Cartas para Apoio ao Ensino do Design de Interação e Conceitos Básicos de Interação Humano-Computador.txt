@@ -1,0 +1,167 @@
+Jogos tem sido ampla e efetivamente utilizados para o ensino de
+diversos conceitos da Computaçao, inclusive da Interaçao
+Humano-Computador (IHC). Nesse artigo, apresentamos a
+proposta do jogo de cartas “Desafio de Design Goople", o qual
+tem por objetivo introduzir e despertar o interesse dos alunos
+pelos conceitos basicos essenciais da area da IHC, alem de
+mostrar sua conexao com os conteudos de Design de Interfaces e
+Comunicaçao Visual de forma pluridisciplinar, ajudando os
+alunos a construir os fundamentos que serao aprofundados e
+sedimentados no decorrer da disciplina. O jogo visa ainda levar
+os alunos a observar criticamente como as necessidades e
+objetivos dos usuarios afetam as escolhas de design, requerendo
+decisoes de design conscientes.
+
+
+**INTRODUCAO**
+
+Nas mais diferentes culturas, o jogo existe como uma
+ferramenta para inserir previamente os individuos no contexto
+real, atraves da simulaçao de situacoes por meio de narrativas
+ludicas, que constitui o potencial educacional inerente ao jogo
+. Atualmente, jogos digitais e analogicos tem sido utilizados
+como artefatos capazes de engajar as pessoas nas mais diversas
+situacoes, inclusive de aprendizado. Como tambem e tipico em
+outras areas, a maioria dos jogos para o ensino de disciplinas da
+Computaçao sao jogos digitais.
+Especificamente na area de Interaçao Humano-Computador,
+no Brasil, diversas propostas de jogos tem surgido com o intuito
+de expandir ou reforçar o desenvolvimento de conceitos, ou
+ajudar os alunos (jogadores) a aprender uma habilidade, por
+exemplo, UsabilityGame e UsabiliCity. No entanto, a
+literatura tem mostrado tambem um numero consideravel de
+jogos nao-digitais utilizados no ensino de Computaçao. Esse e
+o caso dos jogos de cartas Simules-W para o ensino de
+Engenharia de Software, Baralho das Variaveis para o ensino de
+principios de programaçao, JEES para o ensino de
+Gerencia de Configuraçao e Computasseia, para o ensino de
+historia da computaçao. Esse tipo de jogo gera a oportunidade de
+compartilhar experiencias e trocar conhecimento por ser jogado
+em grupo compartilhando uma representaçao fisica, assim,
+trazendo como beneficios o aumento da interaçao social, a
+competiçao e, assim, o engajamento. Alem disso, esses jogos
+sao mais faceis de serem adaptados ou aprimorados para as
+necessidades especificas de uma unidade de instruçao, alterando
+as regras ou inserindo exercicios extras que expandem ou
+modificam a experiencia do jogo.
+
+Neste artigo, propomos o "Desafio de Design Goople", em que
+os alunos jogam como startups que competem para desenvolver
+(por meio das cartas) o melhor prototipo para atender a uma
+demanda da empresa ficticia Goople. O jogo os conduz a utilizar
+os passos do Design de Interaçao para pensar uma soluçao
+digital interativa que atenda a contextos de uso, personas e
+criterios de qualidade de uso especificos. O objetivo deste jogo e
+introduzir os conceitos basicos essenciais da area da IHC, alem
+de mostrar sua conexao com os conteudos de Design de
+Interfaces e Comunicaçao Visual de forma pluridisciplinar,
+ajudando os alunos a construir os fundamentos que serao
+aprofundados e sedimentados no decorrer da disciplina de IHC.
+O jogo visa ainda levar os alunos a observar de forma critica
+como as necessidades e objetivos dos usuarios afetam as escolhas
+de design, requerendo deles decisoes de design conscientes.
+
+A criaçao do "Desafio de Design Goople" foi motivada pelo
+contexto dos alunos do curso superior multidisciplinar Sistemas
+e Midias Digitais (Universidade Federal do Ceara), em que os
+alunos, a partir do quarto semestre, podem escolher disciplinas
+eletivas e depois seguir uma trilha especifica, dentre Design
+Digital Interativo, Jogos Digitais, Audiovisual e Animaçao,
+Sistemas Multimidia, podendo ainda optar por uma formaçao
+hibrida. Ate o terceiro semestre, entretanto, todos os alunos
+recebem uma base de formaçao comum, com disciplinas que
+proporcionam conhecimento abrangente sobre tecnologias
+digitais, metodos e linguagens de programaçao, alem de aspectos
+teoricos do design, incluindo a disciplina de Interaçao Humano-
+Computador 1. Para o perfil do egresso esperado, e de extrema
+importancia que os alunos, independentemente de area
+escolhida, absorvam um conhecimento solido acerca dessa area.
+Dessa forma, o jogo foi inspirado na necessidade de despertar o
+interesse dos alunos que seguirao diferentes areas e estimular o
+uso do Design de Interaçao ao propor desafios de design sob
+restriçoes (dadas por clientes e personas), os quais deverao ser
+resolvidos por meio dos conhecimentos de IHC introduzidos. As
+cartas do jogo trazem as dinamicas, regras e objetivos pautados
+pelos conhecimentos de IHC para apoiar o processo de criaçao.
+Nosso intuito e que o "Desafio de Design Goople", seja
+utilizado por alunos de quaisquer semestres do curso Sistemas e
+Midias Digitais, alem de outros cursos de areas correlatas da
+Ciencia da Computaçao e Design, para introduzir ou relembrar
+conceitos de IHC de forma divertida e engajadora.
+
+Bases Teoricas para Criacao do Jogo
+
+Os jogos ja foram utilizados para fins educacionais antes mesmo das primeiras formacoes sociais [1]. Antigas civilizacoes e pensadores compreendiam a funcao social dos jogos no ensino, principalmente dos mais jovens [10]. Para Chou [11], todos os individuos - jovens ou nao - sao motivados em suas acoes pelo o que ele denomina Unidades Centrais de Gamificacao.
+
+Essas unidades sao constituidas, em sua maioria, por elementos presentes em jogos e que podem ser utilizados nos mais variados contextos. Cada unidade possui suas proprias caracteristicas, conforme a Tabela 1. Visando aumentar a motivacao dos alunos jogadores quanto aos temas tratados, as Unidades Centrais de Gamificacao foram usadas como base para a selecao das mecanicas e dinamicas no Desafio de Design Goople.
+
+As unidades (1) Epic Meaning and calling e (2) Development & Accomplishment sao abordadas primeiro na contextualizacao do jogo, em que os jogadores sao startups competindo para vender um produto para a gigante tecnologica ficticia Goople; e depois, ao tentar cumprir os objetivos sorteados para cada partida, em que os jogadores devem propor solucoes de design que atendam a requisitos de personas e do cliente. As unidades (3) Empowerment of Creativity & Feedback, (4) Ownership & Possession e (6) Scarcity & Impatience sao estimuladas atraves da coleta e gerenciamento de recursos e elaboracao de estrategia para montagem do prototipo da solucao.
+
+A unidade (5) Social Influence & Relatedness e atendida atraves da dinamica das partidas e uso das cartas de acao, aumentando a interacao social, a competicao e, assim, o engajamento [2]. As unidades (7) Unpredictability & Curiosity, (8) Loss & Avoidance e (9) Sensation sao abordadas atraves da mecanica principal do jogo: combinacoes de simbolos nas cartas coletadas para revelar requisitos; alem das mecanicas secundarias que envolvem a manipulacao de recursos, execucao de acoes contra outros jogadores e a movimentacao de pecas ao avancar.
+
+Associado as unidades, o conceito de aprendizagem significativa [12] foi empregado para selecionar, organizar e apresentar o conteudo de forma que se tornasse estimulante e facil de ser assimilado. Para isso, durante o projeto do jogo, um professor com experiencia no ensino e pratica de abordagens de IHC atuou como organizador previo. Alem disso, elaborou dinamicas didaticas a fim de associar o conteudo selecionado com as Unidades Centrais de Gamificacao, para conferir relevancia ao conteudo a ser ensinado e, associando-os ainda as estruturas cognitivas esperadas dos aprendizes.
+
+Assim, a selecao do conteudo ocorreu de acordo com o objetivo de introduzir, de forma pluridisciplinar, alguns dos conceitos essenciais da disciplina de IHC, mostrando sua conexao com os conteudos previamente estudados pelos alunos do curso Sistemas e Midias Digitais nas disciplinas de Design de Interfaces e Comunicacao Visual. Dessa forma, os alunos sao estimulados a construir os fundamentos que serao aprofundados e sedimentados no decorrer da disciplina, alem de conecta-los com conhecimento e experiencias anteriores. A Tabela 2 resume os conteudos introduzidos no jogo e suas respectivas referencias, selecionadas de acordo com a bibliografia das disciplinas.
+
+Desafio de Design Goople
+
+Atualmente, o jogo de cartas Desafio de Design Goople esta em processo de producao visual e balanceamento, tendo ja sido executadas as etapas de desenvolvimento do conceito, definicao dos conteudos e de mecanicas principais e secundarias. No decorrer desse processo, foram realizados cinco playtests utilizando prototipos de media fidelidade e envolvendo cinco alunos e quatro professores, sendo dois professores da area de Game Design e dois professores de IHC para refinamento do conceito, das mecanicas e do aspecto visual do jogo. No entanto, apos finalizado o design visual das cartas e corrigidos os aspectos identificados no ultimo playtest, serao conduzidos testes mais abrangentes com professores de cada area envolvida, alem de alunos no contexto de uma disciplina de IHC, a fim de avaliar a efetividade e aceitacao do jogo.
+
+Conceito do Jogo
+
+Goople e uma renomada empresa internacional de tecnologia (ficticia), que tem o objetivo de projetar e comercializar produtos eletronicos de consumo, software e dispositivos computacionais pessoais inovadores e unicos. A Goople esta promovendo uma competicao entre startups para o desenvolvimento de uma nova aplicacao digital que supra as necessidades especificas de um conjunto de usuarios. Eles financiarao o desenvolvimento do melhor prototipo produzido pelas startups competidoras, i.e., aquele prototipo que cumprir mais requisitos dos usuarios, de acordo com o contexto de uso e tipo de aplicacao solicitada. Cada jogador assume o papel de uma startup com recursos muito limitados, mas que esta tentando impressionar a Goople com seus prototipos. Os jogadores utilizam cartas do baralho do jogador para coletar informacoes de contexto de uso, incrementar seus prototipos, ganhar bonus e atrapalhar outros jogadores. Ganha o jogo a startup que melhor atender aos requisitos da aplicacao sorteados na partida.
+
+Dinamica e Elementos do Jogo
+
+Dentre os elementos fisicos do jogo, existem dois tipos de baralhos: o baralho de personas (8 cartas) e o baralho do jogador (60 cartas). Alem disso, ha as fichas de contexto (25 fichas) e de tipos de aplicacoes (8 fichas). O jogo ainda possui quatro tabuleiros de prototipacao (um para cada jogador), o tabuleiro do jogo que ilustra o processo e pecas para representar cada startup nas etapas.
+
+Dinamica do jogo. Os elementos do jogo e a interacao entre estes sao esquematizados na Figura 1. Ao inicio da partida, serao sorteadas e colocadas no tabuleiro duas cartas de aplicacao (item B), duas cartas de persona e oito cartas de contexto de uso, quatro por persona (item D). Essas cartas serao o desafio da partida, estando compartilhadas com todos os jogadores. O jogo ocorre em quatro ciclos de cinco rodadas. Na primeira rodada do primeiro ciclo, todos os jogadores iniciam comprando cinco cartas do baralho do jogador (item A), escolhendo seu tabuleiro de prototipo (item F) e posicionando sua peca na etapa de coleta (item C). Apos o sorteio para definir quem inicia a partida, o jogo segue em sentido horario. Ao final do seu turno, se o jogador possuir mais de sete cartas, ele descarta cartas na pilha de descarte (item E) ate ficar com apenas sete. Durante o turno do jogador, ele possuira tres pontos de investimento: mover-se uma casa no tabuleiro consome um ponto; baixar uma coleta completa consome um ponto; baixar um prototipo consome dois pontos; puxar cartas do baralho do jogador consome um ponto por carta puxada e usar uma carta de acao consome dois pontos. Os pontos especificos so podem ser gastos nas suas respectivas casas no tabuleiro, ou seja, a coleta so pode ser baixada na casa Coleta, os prototipos so podem ser baixados na casa Prototipo e as cartas so podem ser puxadas na casa (Re)Design. As cartas de acao sao as unicas que podem ser baixadas em qualquer casa do tabuleiro.
+
+Requisitos. Todos os jogadores devem atender aos requisitos exigidos pela Goople, os quais sao determinados pela combinacao de duas fichas de tipo de aplicacao, duas personas e quatro fichas de contexto para cada persona. Nas fichas de contexto, os requisitos ficam ocultos ate serem revelados atraves do processo de coleta. Existem onze tipos de requisitos e cada um deles pode aparecer dentro de uma sessao de jogo, associado ao tipo de aplicacao, persona e contexto.
+
+Tipos de Aplicacao. No inicio de cada partida sao sorteadas duas fichas de tipos de aplicacao que se complementam. Um revelara em qual paradigma de interacao a aplicacao sera desenvolvida e o outro tipo dira respeito a natureza da aplicacao (ex.: jogo mobile, material educacional Web). O tipo de aplicacao influenciara diretamente nas cartas que podem ser utilizadas como prototipos, acrescentando requisitos a partida. Por exemplo, se as fichas de tipo de aplicacao a ser desenvolvida pelas startups sortearem infografico interativo e desktop os requisitos decorrentes do tipo de aplicacao serao facilidade de aprendizado e programacao.
+
+Baralho de personas. Apos o sorteio do tipo de aplicacao, duas personas sao sorteadas. Essas personas trarao requisitos particulares que deverao ser atendidos pelas startups, por meio de seus prototipos. Em suas cartas existem uma breve descricao delas, seus objetivos e requisitos contextualizados. Por exemplo, a Vovo Martinha, tem quase setenta anos e conta com a ajuda dos netos para aprender a utilizar aplicacoes. Ela precisa de uma aplicacao que garanta acessibilidade visual, facilidade de aprendizado e facilidade de recordacao. Abaixo das cartas das personas, existem quatro espacos que possuem legendas referentes aos quatro tipos de coleta de dados presentes no jogo. Nesses locais, sao inseridas as fichas de contexto, sorteadas aleatoriamente por persona. A Figura 2 apresenta o prototipo de outra carta de persona no jogo, Jacinto GamePlayz.
+
+Fichas de contexto. Apos o sorteio das personas, sao sorteadas quatro fichas de contexto para cada persona. Essas fichas permanecem ocultas ate que o jogador possa revela-las utilizando uma carta de coleta. A legenda de cada espaco correspondera ao simbolo de cada coleta (pessoas representam o grupo focal; microfone, a entrevista; prancheta o questionario; e lupa, a observacao indireta, como ilustrado na Figura 3).
+
+As fichas de contexto sao divididas em quatro partes, cada uma fornecendo informacao de contexto relacionada a cada tipo de coleta existente no jogo. Sera valida, para aquela partida, somente a area com simbolo correspondente ao espaco em que ela se encontra. Por exemplo, caso a ficha de contexto esteja no espaco com o simbolo olho com lupa, a informacao valida para aquela ficha sera apenas a de observacao (na Figura 3, Tem tendinite e nao pode operar coisas muito pesadas, nem muito pequenas.). As fichas de contexto podem ou nao adicionar novos requisitos, para que os jogadores tenham a nocao de que nem sempre as coletas sao frutiferas (na Figura 3, A estampa da sua camisa desviou a atencao do usuario. Ele nao sabe o que responder). Os jogadores terao acesso as informacoes presentes nas fichas de contexto atraves da acao de coleta presente nas cartas de jogador.
+
+Tabuleiro do Jogo. Para refletir melhor a forma como e conduzindo o processo de Design de Interacao, o jogo conta com um tabuleiro que representa as etapas e iteracoes possiveis entre estas, limitando as acoes dos jogadores. Os quatro estagios sao: coleta de dados, (re)design, prototipacao e avaliacao. Os estagios de coleta, (re)design e prototipacao sao ligados entre si, ao passo que o de avaliacao e mantido isolado. A movimentacao no tabuleiro e representada atraves de pecas e, em cada turno, o jogador pode escolher gastar pontos de investimento para mover-se de estagio, desde que seja possivel. Quando o jogador estiver em (re)design, podera movimentar-se para coleta ou prototipacao; quando estiver em coleta, podera movimentar-se apenas para (re)design; e, por fim, quando estiver em prototipacao, podera ir apenas para o (re)design.
+
+Na coleta de dados, os jogadores podem baixar cartas de coleta para obter informacoes sobre os contextos de uso de cada persona. Na fase de (re)design, os jogadores podem puxar cartas do baralho do jogador (uma por ponto de investimento gasto). Na fase de prototipacao, cada jogador pode baixar cartas para montar seu prototipo e atender aos requisitos da aplicacao. Finalmente, a avaliacao ocorre de forma isolada a cada cinco rodadas. Nela, e sorteado um dos quatro tipos de coleta e, entao, as fichas de contexto referentes ao tipo de coleta sorteado sao reveladas a todos os jogadores. Ao fim de cada avaliacao (quatro no total), o jogador com mais requisitos atendidos ate o momento marca um ponto. Ao fim do jogo, o jogador com mais pontos ganha a partida. Por exemplo, se, na quinta rodada, for sorteado questionario, as fichas de contexto referentes ao questionario nas duas personas serao reveladas a todos os jogadores.
+
+Baralho do Jogador. No comeco do jogo, cada jogador comprara cinco cartas do baralho do jogador e podera comprar mais, sempre que ele gastar pontos de investimento no estagio de (re)design. O limite de cartas na mao e sete. Caso ele possua mais do que o limite de cartas, ele devera descartar cartas de sua mao ao final de seu turno, ate ficar com apenas sete cartas. As cartas sao segmentadas em tres secoes (Figura 4). Ao decidir usar uma das tres secoes da carta, ele estara automaticamente abdicando de utilizar as outras duas (a nao ser que outro efeito dentro da carta indique o contrario). Por exemplo, e possivel que o jogador puxe uma carta que possua dois prototipos e uma coleta. Caso ele opte por usar um prototipo, ele esta abdicando de usar o outro prototipo e a coleta daquela carta (consumindo, assim, a carta).
+
+As secoes das cartas do jogador podem ser de tres categorias e cada uma delas contendo uma cor especifica para facilitar na identificacao rapida, sao elas: Coleta, Prototipo e Acoes. As coletas (item B da Figura 4) sao utilizadas para obter informacoes sobre requisitos secretos nas fichas de contexto; os prototipos (item D da Figura 4), por sua vez, possuem duas subcategorias (elemento visual e interface e interacao) e sao utilizados para montar o arsenal da solucao do jogador; ja as acoes (item F da Figura 4) servem para dar dinamica ao jogo, permitindo que o jogador atrapalhe os demais ou ganhe algum bonus.
+
+Baralho do Jogador: Coleta. Para ter direito a uma coleta, o jogador devera juntar as duas partes complementares do mesmo tipo de coleta (como mostrado na Figura 5), ou seja, para coletar informacoes das fichas de contexto, os jogadores deverao abdicar de duas cartas com simbolos complementares. Existem quatro tipos de coleta no jogo (item A da Figura 4): entrevista, grupo focal, questionario e observacao indireta. Ao juntar os dois lados do microfone, por exemplo, o jogador tem acesso a informacao referente a entrevista e deve baixar as duas cartas estando no estagio de coleta de dados do tabuleiro. Assim, ele podera verificar as fichas de contexto das duas personas referentes a coleta que ele realizou, obtendo informacoes sobre os requisitos secretos das personas para aquele tipo de coleta.
+
+Baralho do Jogador: Prototipo. Estando no estagio de prototipacao do tabuleiro, o jogador pode colocar em jogo uma carta de prototipo. Tratam-se de cartas variadas que servem para o jogador montar os prototipos da sua startup, dando-lhe pontuacoes em requisitos que variam entre as cartas (Figura 4E). Para retratar melhor a realidade, poucas cartas somente bonificam os jogadores, enquanto a maior parte delas traz tanto um onus quanto um bonus, o que pode dificultar a prototipacao, caso o jogador nao tenha uma estrategia em mente. Por exemplo, o jogador que utilizar prototipo do tipo interface tangivel acrescenta um bonus de facilidade de aprendizado ao mesmo tempo que diminui a eficiencia. As cartas de prototipo podem ainda ser do tipo Referencia Visual que vao trazer bonus especificos para certas personas. Esse e o caso da carta prototipo de referencia visual Retro, que traz bonus de satisfacao do usuario para a persona Vovo Martinha.
+
+Baralho do Jogador: Acoes. As acoes estao presentes para gerar dinamica no jogo (item F da Figura 4). Elas podem ser jogadas em quaisquer dos estagios do tabuleiro e ser utilizadas tanto para beneficio proprio, quanto para prejudicar os oponentes. Todas as cartas de acao receberam um flavor text para garantir que elas possuam forte elemento narrativo e que permanecam dentro dos contextos de criacao de uma aplicacao e de competicao entre startups. A titulo de exemplo, a Acao de bloqueio criativo permite destruir um prototipo da subcategoria elemento visual de outro jogador e seu flavor text diz: Bloqueio criativo: nao importa o quanto voce tente, a ideia nao quer sair. O efeito desta carta e destrua uma carta de elemento visual de um oponente, a sua escolha.
+
+**CONSIDERAÇOES FINAIS**
+
+O Desafio de Design Goople ter por objetivo apoiar o
+ensino significativo de conceitos teoricos na pratica de ensino de
+IHC, criando uma experiencia educacional divertida e rica em
+conceitos pluridisciplinares. Nosso objetivo e prover os
+professores da area e alunos com uma abordagem que pode ser
+utilizada tanto na sala de aula quanto fora dela.
+
+Visualizamos ainda, atraves deste projeto, a possibilidade
+de integraçao com outros professores de IHC e outras areas para
+enriquecimento do conteudo do jogo. Na atual fase de
+desenvolvimento, temos por objetivo nao apenas concluir o
+projeto (projetando o design visual, adicionando cartas,
+balanceando as mecanicas e incrementando conteudos), como
+tambem adicionar modos alternativos de jogo, como modo
+cooperativo e modo "todos conta um". Em seguida, faremos
+testes abrangentes com diversos grupos de alunos para validar e
+evoluir o jogo.
+
+Por fim, esperamos que a comunidade de ensino de IHC no
+Brasil possa colaborar para melhoria do conteudo e dinamica do
+Desafio de Design Goople, de forma que sua versao final seja
+resultado do conhecimento coletivo dessa comunidade.

@@ -1,0 +1,246 @@
+**RESUMO**
+
+A maioria das soluçoes (abordagens, metodos, tecnicas) de
+design de interaçao e concebida para ser utilizada em ambien-
+tes com participantes colocalizados. No entanto, e crescente
+o numero de projetos de software que sao desenvolvidos em
+ambientes com participantes distribuidos geograficamente. O
+avanço em desenvolvimento distribuido de software (DDS),
+aumento no numero de projetos e usuarios de free/libre open
+source software (FLOSS), problemas relacionados a interaçao
+humano-computador em DDS e desafios de design de intera-
+çao em DDS motivam a conduçao deste estudo. Este artigo
+apresenta nossos esforços atuais para conceber um modelo
+de processo de design de interaçao para DDS. Como resul-
+tados parciais, identificou-se desafios, problemas e soluçoes
+de design de interaçao em DDS por meio de um mapeamento
+sistematico. Utilizando informaçoes coletadas e analisadas
+por meio desse mapeamento, concebeu-se um modelo baseado
+em evidencias para melhoria de design de interaçao em DDS,
+a ser avaliado nas proximas etapas da pesquisa.
+
+**INTRODUCAO**
+
+O numero de projetos de software e estudos relacionados ao
+desenvolvimento distribuido de software (DDS) e free/libre
+open source software (FLOSS) tem aumentado nos ultimos
+anos. Projetos de desenvolvimento de software
+estao cada vez mais sendo conduzidos por participantes distri-
+buidos geograficamente. Empresas de ambientes de
+desenvolvimento colaborativo (SourceForge, GitHub) repor-
+tam a sua expansao. Atualmente, ha mais de 3,7 milhoes de
+usuarios e 430.000 projetos de software registrados no Sour-
+ceForge. Em 2017, a comunidade do GitHub atingiu 24
+milhoes de desenvolvedores trabalhando em 67 milhoes de
+repositorios. Somado a isso, a adoçao de FLOSS tem cres-
+cido na iniciativa privada, em orgao publicos e por usuarios
+finais.
+
+Apesar dos avanços em DDS, a literatura cientifica evi-
+dencia varios problemas relacionados a interaçao humano-
+computador em DDS. Ha problemas relacionados a usabili-
+dade, a acessibilidade  e a experiencia de usuario.
+Ha desafios em envolver usuarios finais no processo
+de desenvolvimento de software  e falta de especialistas
+em Interaçao Humano-Computador (IHC) e/ou dificuldades
+em envolve-los .
+
+Embora varios estudos tenham feito avanços significativos
+na identificaçao de desafios e propostas de novas soluçoes
+em/para DDS , do ponto de vista de Engenharia de
+Software, DDS nao tem sido amplamente abordado pela lite-
+ratura cientifica de IHC .
+
+O processo de design de interaçao no contexto distribuido
+apresenta algumas caracteristicas que o torna diferente do pro-
+cesso de design de interaçao em que os participantes estao
+colocalizados, por exemplo: partes interessadas distribuidas
+em varias dimensoes de tempo, espaço e/ou organizaçao ;
+necessidade de sistemas colaborativos para a realizaçao das ati-
+vidades; diferentes culturas e habitos organizacionais. Diante
+disso, soluçoes de design de interaçao, geralmente concebidas
+para o contexto em que os participantes estao colocalizados,
+podem nao ser adequadas para o contexto distribuido.
+
+Considerando esse contexto e baseado em resultados parciais
+desta pesquisa  e estudos anteriores , verificou-se
+gaps de pesquisas sobre a integraçao de design de interaçao
+com DDS, novas formas de envolvimento de usuarios em pro-
+jetos de DDS e, principalmente, soluçoes para problemas e
+desafios atuais de design de interacao em DDS. Essa situacao
+demanda novas solucoes (modelos, metodos, tecnicas, ferramentas) de design de interacao e/ou adaptacoes de solucoes
+existentes para configuracoes distribuidas.
+Diante do exposto, problematiza-se a seguinte questao norteadora de pesquisa:
+Qual seria um modelo de design de interacao adequado as
+necessidades das equipes de desenvolvimento distribuido
+de software?
+Este artigo descreve os esforcos atuais para conceber um modelo de processo de design de interacao para DDS. Como resultados parciais, identificou-se desafios, problemas e solucoes
+de design de interacao em DDS por meio de um mapeamento
+sistematico. Utilizando informacoes coletadas e analisadas
+por meio desse mapeamento, concebeu-se um modelo baseado
+em evidencias para melhoria de design de interacao em DDS.
+Nas proximas secoes serao apresentados alguns estudos que
+abordam design de interacao em DDS, o percurso metodologico da pesquisa, os resultados parciais, as contribuicoes
+esperadas e as consideracoes parciais.
+
+
+**DESIGN DE INTERAÇAO EM DDS**
+
+Esta seçao apresenta um breve background sobre estudos que
+tem sido conduzidos envolvendo design de interaçao e DDS.
+
+Design de interaçao tem se consolidado como uma pratica
+com potencial de apoiar projetos de sistemas interativos em
+direçao a melhoria da qualidade do produto em relaçao a varios
+aspectos da interaçao humano-computador, como envolver
+usuarios no processo de desenvolvimento de software; reduzir
+aspectos negativos da experiencia de usuario; desenvolver
+produtos interativos acessiveis, faceis e eficientes .
+
+Audy e Prikladnicki  afirmam que "O desenvolvi-
+mento distribuido de software caracteriza-se pela distancia
+fisica e/ou temporal entre alguns elementos (cliente, usuario
+e desenvolvedores, por exemplo) envolvidos no processo de
+desenvolvimento". Segundo Carmel , as principais caracte-
+risticas que diferenciam DDS do desenvolvimento de software
+tradicional (colocalizado) sao distancia, diferença de fuso ho-
+rario e diferenças culturais.
+
+Um dos contextos mais triviais de desenvolvimento distribuido
+de software e o de projetos de FLOSS. O desenvolvimento de
+FLOSS normalmente e realizado por equipes auto-organizadas
+e distribuidas geograficamente e baseia-se em contribuiçoes
+voluntarias atraves da Internet .
+
+Alguns estudos  e resultados preliminares desta pesquisa
+tem destacado o gap entre design de interaçao e DDS. Esses
+estudos destacam alguns problemas e desafios, por exemplo, a
+falta de integraçao de design de interaçao e DDS, desafios no
+envolvimento de usuarios e especialistas em IHC e a qualidade
+do software desenvolvido.
+
+Algumas iniciativas e propostas tem envolvido design de inte-
+raçao e DDS. Ha tambem estudos que relatam a conduçao de
+design de interaçao com equipes distribuidas geograficamente.
+Alguns desses estudos sao apresentados a seguir.
+
+Lichtner et al. reportam um estudo de caso sobre o
+uso de diario de usuario online para a avaliaçao remota do
+prototipo de um software. A avaliaçao foi realizada de forma
+colaborativa em quatro organizaçoes, em diferentes paises
+europeus. Os autores afirmam que o diario possibilitou a
+comunicaçao entre usuarios, pesquisadores e desenvolvedores
+do sistema, dando voz aos usuarios no processo de avaliaçao e
+redesign do software.
+
+Luz e Masoodian  descrevem o processo de design de um
+sistema interativo realizado em comunidades remotas na re-
+giao amazonica. Os autores afirmam ter aplicado uma aborda-
+gem de design participativo para envolver usuarios, designers
+e desenvolvedores distribuidos geograficamente.
+
+Walsh e Foss descrevem o processo de design de um
+ambiente online para suportar codesign distribuido e interge-
+racional. Os autores criaram um ambiente de design online
+baseado na Web, denominado Online Kidsteam.
+
+PERCURSO METODOLOGICO
+O percurso metodologico desta pesquisa constitui-se de tres
+fases: exploratoria; empirica; e desenvolvimento e avaliacao
+da solucao, as quais sao descritas a seguir.
+Fase I Exploratoria: constituiu-se de uma pesquisa bibliografica por meio de revisao de literatura ad hoc e dois mapeamentos sistematicos para entender o tema relacionado a
+pesquisa e identificar problemas, desafios e solucoes de design
+de interacao em DDS.
+Fase II Empirica: envolve um estudo empirico em projetos
+de DDS por meio de netnografia e a pesquisa survey. Essa
+fase visa nos auxiliar na compreensao do processo de design
+de interacao em ambientes de DDS e identificar solucoes de
+design de interacao em projetos de software com participantes distribuidos geograficamente. Essa fase sera dividida em
+duas etapas: (i) coleta de dados por meio de questionarios e
+netnografia e (ii) analise dos dados.
+Fase III Desenvolvimento e avaliacao da solucao: refere-se
+ao desenvolvimento e a avaliacao de artefatos para apoiar a
+solucao de problemas e desafios de design de interacao em
+DDS. Pretende-se conceber dois artefatos: (i) modelo baseado
+em evidencias para melhoria de design de interacao em DDS
+e (ii) modelo de processo de design de interacao para DDS.
+O primeiro modelo foi concebido a partir dos resultados da
+fase I e orientara as atividades para a concepcao e avaliacao do
+segundo modelo. Os resultados das fases I e II serao utilizados
+para conceber o modelo de processo de design de interacao
+para DDS. O modelo de processo de design de interacao para
+DDS sera avaliado por especialistas e aplicado a um ou mais
+projetos de DDS.
+A metodologia desta pesquisa foi elaborada com base no metodo proposto por Dresch, Lacerda e Antunes 9 para a conducao da design science research, nas diretrizes de pesquisa
+em design science propostas por Hevner et al 13, na metodeutica 24 e considerando os objetivos desta pesquisa. Para
+atingi-los, os passos metodologicos ilustrados na Figura 1
+estao sendo seguidos.
+RESULTADOS PARCIAIS E CONTRIBUICOES
+Um mapeamento sistematico foi conduzido para identificar estudos que relatam sobre metodos, tecnicas, ferramentas, abordagens e estrategias de design de interacao propostosutilizados parano desenvolvimento de FLOSS 2. Os
+resultados desse mapeamento mostraram que ha poucos estudos que envolvem design de interacao e desenvolvimento
+de FLOSS. Devido ao baixo numero de estudos encontrados
+nesse mapeamento, optou-se por ampliar o escopo desta pesquisa, que passou de design de interacao em desenvolvimento
+de FLOSS para design de interacao em DDS.
+Uma vez que o escopo da pesquisa foi ampliado, um novo
+mapeamento sistematico se fez necessario. Desta vez para
+identificar e sintetizar estudos que descrevem desafios, problemas e solucoes de design de interacao em DDS. Nesse novo
+mapeamento, foram identificados muitos problemas e desafios
+e poucas solucoes de design de interacao em DDS.
+Utilizando os resultados do mapeamento sistematico,
+concebeu-se um modelo para melhoria de design de interacao
+em DDS. O modelo visa orientar pesquisadores na conducao
+de pesquisas para melhoria de design de interacao em DDS.
+Na proxima etapa sera conduzido um estudo empirico, com o
+objetivo de verificar como tem sido conduzido o processo de
+design de interacao em DDS e identificar solucoes de design de
+interacao utilizadas em projetos de software com participantes
+distribuidos geograficamente. Com isso, espera-se propiciar
+fundamentacao e embasamento teorico para a concepcao do
+modelo de processo de design de interacao para DDS. Com o
+modelo concebido e a sua aplicacao em um ou mais projetos
+de software no contexto distribuido, acredita-se na geracao de
+conhecimento decorrente da concepcao e aplicacao do modelo.
+Os resultados parciais sugerem a necessidade de mais pesquisas envolvendo design de interacao e DDS, pois poucos
+estudos investigaram como solucionar problemas e desafios
+de design de interacao em DDS.
+Dado que o objetivo da pesquisa e conceber um modelo de
+processo de design de interacao para DDS, espera-se que esse
+modelo seja capaz de apoiar o projeto e desenvolvimento de
+software no contexto distribuido que atenda as expectativas e
+objetivos dos usuarios e contribua na participacao de usuarios
+finais e designers em seu desenvolvimento.
+Espera-se contribuir na consolidacao das acoes e pesquisas
+nas areas de Engenharia de Software e IHC, incentivando a
+adocao e a construcao participativa de software.
+Espera-se tambem que este estudo proporcione a comunidade cientifica um modelo baseado em evidencias que possa
+contribuir para a conducao de novas pesquisas e na concepcaoadaptacao de solucoes de design de interacao em DDS.
+Ao final, espera-se:
+oferecer a comunidade cientifica evidencias sobre problemas, desafios e solucoes de design de interacao em DDS;
+fornecer uma visao geral dos estudos que abordam design
+de interacao em DDS e tendencias de pesquisas;
+conceber e avaliar um modelo de processo de design de
+interacao para DDS;
+mostrar a importancia da integracao de processos e solucoes
+de design de interacao em DDS.
+
+**CONSIDERACOES FINAIS**
+
+Neste artigo, apresentou-se um projeto de pesquisa de douto-
+rado em desenvolvimento que visa conceber um modelo de
+processo de design de interaçao para DDS. Resultados par-
+ciais sugerem a necessidade de mais pesquisas envolvendo
+design de interaçao e DDS. Pesquisas cientificas em design
+de interaçao podem contribuir para a soluçao de problemas
+e desafios relacionados a interaçao humano-computador em
+DDS e, assim, melhorar a qualidade do produto desenvolvido.
+
+Enfatiza-se a relevancia do tema e destaca-se a importancia de
+design de interaçao em DDS. Acredita-se que os problemas e
+desafios de design de interaçao ocasionado pela distribuiçao
+geografica dos participantes diminui a medida que novas solu-
+çoes de design de interaçao sao desenvolvidas e problemas e
+desafios resolvidos.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, a integraçao do design de interaçao no desenvolvimento distribuido de software e crucial para garantir a usabilidade, acessibilidade e satisfaçao do usuario. A pesquisa em andamento busca um modelo que apoie esse processo, considerando as caracteristicas e desafios especificos de equipes distribuidas geograficamente. Os resultados esperados poderao contribuir para a melhoria da qualidade do software e a participaçao efetiva de usuarios e designers.

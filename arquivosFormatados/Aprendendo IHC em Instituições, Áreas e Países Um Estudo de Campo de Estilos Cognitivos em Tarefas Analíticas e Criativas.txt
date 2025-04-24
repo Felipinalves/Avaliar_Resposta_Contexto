@@ -1,0 +1,176 @@
+**INTRODUCAO**
+
+Interaçao Humano-Computador (IHC) e uma area do conhe-
+cimento diversa em termos de paises, instituiçoes, departa-
+mentos e cursos em que e oferecida e tambem em termos
+de pessoas que sao ou estao se tornando pesquisadores e pro-
+fissionais na area. A diversidade de contextos, conteudos, e
+estilos de aprendizado dos estudantes sao alguns dos fatores
+que trazem desafios para o ensino de IHC. Este estudo procura
+contribuir para o entendimento da interaçao entre o curriculo
+de IHC e estudantes em diferentes instituiçoes, areas do co-
+nhecimento e paises atraves da exploraçao da interaçao entre
+o curriculo de IHC e estudantes de contextos distintos.
+
+**TRABALHOS RELACIONADOS**
+
+Existem trabalhos sobre o Ensino de IHC em varios contextos.
+Enquanto em alguns IHC e considerada um topico essencial,
+em outros e considerada um conteudo superfluo. Fatores que
+influenciam nesta questao vao desde politicas nacionais ate a
+cultura institucional de onde IHC e ofertada.
+
+O desenvolvimento de comunidades de IHC tem um papel
+fundamental para o fortalecimento da area em uma regiao ou
+instituiçao. Dadas caracteristicas de cada contexto, pesquisas
+recentes mostram que comunidades de IHC precisam de um
+espaço para compartilhar recursos e experiencias relacionadas
+ao ensino de IHC, e que diferenças contextuais e regionais
+devem ser consideradas no curriculo de IHC. Sendo assim,
+o curriculo deve ser flexivel e diverso, oferecendo conteudo
+relevante para os estudantes .
+
+A relaçao entre cultura, aprendizado e estilos cognitivos e bem
+estabelecida. Posiçoes culturais, por exemplo, influenciam o
+raciocinio holistico e analitico . Raciocinio holistico indica
+uma orientaçao ao contexto como um todo. Raciocinio ana-
+litico indica uma tendencia a isolar o objeto do seu contexto
+na busca de relaçoes causais. Pesquisas na area levaram ao de-
+senvolvimento do Indice de Estilo Cognitivo (Cognitive Style
+Index - CSI)  - um questionario compacto projetado para
+testar a tendencia a uma abordagem intuitiva ou analitica. A
+pontuaçao no CSI abrange as seguintes faixas de estilos cogni-
+tivos: Intuitivo (0-28), Quasi-Intuitivo (29 - 38), Adaptativo
+(39-45), Quasi-Analitico (46 - 52) e Analitico (53 - 76).
+
+Tarefas predominantemente analiticas ou criativas podem exi-
+gir diferentes habilidades e estilos de pensamento de profis-
+sionais de IHC. Para tarefas analiticas, como avaliaçao de
+usabilidade, sabe-se que o estilo cognitivo tem um impacto e
+pode variar em diferentes culturas . Para tarefas criativas,
+como a criaçao de personas, existem indicios de pesquisas
+com outros profissionais de que pessoas na funçao de design
+apresentam tendencias de introversao e intuiçao .
+
+**METODOLOGIA**
+
+Este trabalho incluiu visitas a grupos de estudantes em institui-
+çoes e paises diferentes (Reino Unido, India, Namibia, Mexico
+e China). Em cada grupo, entre 18 e 22 estudantes foram con-
+vidados a completar o questionario de CSI e participar de um
+workshop. O workshop foi estruturado incluindo uma breve
+explicaçao sobre avaliaçao heuristica e personas; seguido da
+apresentaçao do portal a ser avaliado, cenarios para a inspeçao
+e criaçao de personas; e debriefing.
+
+A performance dos estudantes no workshop foi analisada e cor-
+relacionada com os resultados dos perfis cognitivos segundo o
+CSI. Para isso, as respostas foram quantificadas com relaçao
+a sua riqueza. Para a avaliaçao heuristica cada resposta foi
+pontuada de zero a tres, sendo zero atribuido a respostas sem
+justificativas e tres para justificativas com referencias claras a
+aspectos de design do portal avaliado. Para a criaçao de perso-
+nas, foi quantificado o numero de caracteristicas descritas.
+
+A pontuaçao media entre os cem estudantes que completa-
+ram o questionario foi de 42.51, caindo claramente na faixa
+Adaptativa. Isso reforça a expectativa de que profissionais de
+IHC precisam ser capazes de equilibrar habilidades intuitivas
+e analiticas para resolver problemas e criar boas soluçoes.
+
+A variancia entre os grupos pode ser comparada e nenhuma
+diferença significativa entre perfis para cada grupo foi en-
+contrada. No entanto, enquanto China, Mexico, Namibia e
+Reino Unido tiveram entre 70-79% dos estudantes nas faixas
+Quasi-Intuitiva, Adaptativa e Quasi-Analitica, na India 95%
+dos estudantes encontram-se nestas faixas. Esta concentraçao
+pode estar relacionada a seleçao dos estudantes. Para ingressar
+no curso de Design, os estudantes participaram de um pro-
+cesso seletivo baseado em matematica e algoritmos. Este filtro
+pode admitir estudantes analiticos com aptitude para design, o
+que em termos do CSI significa estudantes Adaptativos.
+
+Dos cem alunos que responderam o questionario, 61 com-
+pletaram a tarefa da avaliaçao heuristica. Considerando-se a
+performance de todos os grupos, existe uma correlaçao posi-
+tiva entre a pontuaçao no CSI e a performance na avaliaçao
+heuristica, que e fundamentalmente uma tarefa analitica. Ou
+seja, quanto mais analitico o perfil cognitivo do estudante,
+maior a probabilidade de ele produzir uma analise mais rica.
+Isso indica que tarefas analiticas de IHC podem ser sensiveis
+a estudantes com estilos cognitivos congruentes.
+
+Dos 61 estudantes que completaram a tarefa de avaliaçao
+heuristica, 53 completaram a tarefa de criaçao de personas.
+Nao foi encontrada correlaçao entre a pontuaçao no CSI e a
+performance nesta tarefa ao contrario do esperado de que
+estudantes com estilo mais intuitivo produziriam personas
+mais ricas. Em retrospectiva, nas instituiçoes em que a relaçao
+entre estudantes e tutores era hierarquica, nossa avialiaçao
+pode nao ter medido o nivel de empatia dos estudantes, mas
+sim a sua capacidade de seguir as instruçoes dos instrutores
+sobre a aplicaçao sistematica e analitica do metodo.
+
+Foram encontradas diferenças significativas na performance
+de grupos diferentes. Na tarefa da avaliaçao heuristica, existe
+uma diferença significativa entre o grupo da India e os grupos
+do Reino Unido e Namibia. Na tarefa da criaçao de personas,
+existe uma diferença significativa entre a China e Namibia, que
+sao os grupos com melhor e pior performance respectivamente.
+O grupo da Namibia tem a menor media de CSI, estando no
+limite superior da faixa Quasi-Intuitiva e produziu o menor
+numero de caracteristicas nas personas criadas. Isto pode ser
+relacionado a traços culturais coletivistas da regiao .
+
+De maneira geral, o valor dado a IHC dentro da instituiçao e
+sujeito a cultura dos cursos nos quais estavam inseridos (por
+exemplo cursos de design, administraçao ou computaçao) e a
+existencia de pessoas em posiçoes de decisao interessadas em
+garantir que IHC fosse oferecida no nivel de graduaçao.
+
+Os resultados sugerem que o ensino de IHC enfrenta dois
+grandes desafios: (1) apoiar estilos cognitivos necessarios para
+aprender e fazer IHC; e (2) apoiar a crescente diversidade
+no ensino, localizaçao e valorizaçao do curriculo de IHC,
+incluindo IHC em diferentes areas do conhecimento.
+
+Quanto ao primeiro, nossos resultados sugerem que devemos
+promover a tolerancia com relaçao a estilos analiticos e intui-
+tivos em sala de aula. Devemos pensar nos estudantes como
+designers criativos que devem ser encorajados a desenvolver
+ambos os tipos de pensamento. Nao e claro, no entanto, como
+apoiar o estilo intuitivo, ou como tornar os estudantes mais
+adaptativos ao inves de puramente analiticos. Uma maneira
+que observamos que isto poderia ser feito e atraves do recruta-
+mento e seleçao, como no caso da India discutido acima.
+
+Quanto ao segundo, encontramos diversas diferenças no en-
+sino de IHC entre as instituiçoes, areas do conhecimento e
+paises neste estudo. Estes resultados implicam que devemos
+apoiar a diversidade no ensino, localizaçao e valorizaçao do
+curriculo de IHC. Isto ja foi levantado pela literatura (ex. .
+E importante ressaltar que a promoçao de comunidades de
+IHC e de extrema importancia para o crescimento da area.
+
+**CONSIDERACOES FINAIS**
+
+O objetivo deste estudo foi explorar interaçoes entre o curri-
+culo de IHC e estudantes de diferentes instituiçoes e areas do
+conhecimento internacionalmente. Com isto, contribuimos
+para a compreensao da diversidade no ensino de IHC. Este
+trabalho focou na relaçao entre estilos cognitivos como um
+constructo cultural e de aprendizado e como estudantes de
+graduaçao interagem com tarefas analiticas e criativas.
+
+Foi confirmado empiricamente que estudantes de IHC tendem
+a mostrar estilos cognitivos Adaptativos. Alem disso, existe
+uma correlaçao entre estilos cognitivos e performance na tarefa
+de avaliaçao heuristica. Foram encontradas diferencas entre
+a performance de grupos em ambas as tarefas. Finalmente,
+foram feitas observaçoes interessantes sobre a influencia de
+fatores culturais a niveis nacionais, institucionais, e de areas
+do conhecimento.
+
+**CONSIDERACOES FINAIS**
+
+Em sintese, este estudo destaca a complexidade do ensino de IHC em um contexto global e a importancia de considerar a diversidade cultural e cognitiva dos estudantes. Ao promover a tolerancia e valorizaçao de diferentes estilos de aprendizado, e possivel criar um ambiente de ensino mais inclusivo e eficaz. Alem disso, o estudo reforça a necessidade de apoiar o desenvolvimento de comunidades de IHC, que desempenham um papel fundamental no crescimento e na disseminaçao do conhecimento na area.

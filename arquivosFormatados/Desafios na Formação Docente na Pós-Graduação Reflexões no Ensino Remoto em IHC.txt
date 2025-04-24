@@ -1,0 +1,123 @@
+**RESUMO**
+
+A pos-graduaçao no Brasil, alem de formar pesquisadores e profis-
+sionais qualificados para o mercado de trabalho, tambem e responsavel por
+formar docentes para o ensino superior. Entretanto, muitas vezes em diversos
+programas de pos-graduaçao, a unica oportunidade de contato com este tipo de
+formaçao e o estagio em docencia. Neste artigo apresentamos reflexoes sobre
+a pratica em docencia vivenciada por 4 estudantes de pos-graduaçao em uma
+disciplina de IHC oferecida no formato remoto.
+
+
+**INTRODUCAO**
+
+Os "Referenciais de Formaçao para os Cursos de Pos-Graduaçao Stricto Sensu em Com-
+putaçao 2019" apontam a formaçao docente como um dos eixos de
+formaçao esperados de programas de pos-graduaçao em computaçao. Mas, de acordo
+com , os programas de pos-graduaçao (PPGs) em ciencia da computa-
+çao “estao mais alinhados a formaçao e desenvolvimento de pesquisadores e/ou pesqui-
+sas na area de Ciencia da Computaçao” e “apresentam restritas orientaçoes de formaçao
+a docencia”. Por exemplo, num levantamento que fizemos das grades curriculares de 10
+PPGs do estado do Parana, identificamos que nenhum deles oferece disciplinas voltadas
+a formaçao docente dos alunos. Analisando os objetivos desses 10 programas, identifi-
+camos que em apenas metade deles a preocupaçao em formar docentes e traduzida em
+objetivos explicitos. Alguns PPGs deixam explicita a pouca ou nenhuma preocupaçao
+com a formaçao docente, e isso se traduz numa aparente falta de foco na formaçao peda-
+gogica de seus egressos. Portanto, questionamos se essa abordagem dos PPGs e suficiente
+para suprir a necessidade de formaçao pedagogica desses docentes.
+
+O que vemos e que nao ha, na grade dos programas, disciplinas dedicadas a for-
+maçao para a docencia. Disciplinas voltadas para a formaçao docente sao capazes de
+apresentar teorias, metodos e oportunidades de reflexao sobre a pratica para os estudan-
+tes da pos. Essas oportunidades podem informar e enriquecer a pratica no estagio em docencia. Dentro deste contexto, neste artigo iremos relatar as experiencias de quatro
+estudantes de pos-graduacao, tres estudantes de mestrado e um de doutorado, atuando em
+um estagio de docencia em uma disciplina de Interacao Humano-Computador (IHC). O
+estagio pratico trouxe muitos momentos de aprendizado, toda a experiencia de atuar como
+docentes na pratica foi muito positiva, mas tambem trouxe desafios, como a dificuldade
+em avaliar atividades ou nao saber como dar feedback aos estudantes.
+Este artigo esta organizado da seguinte forma: na secao 2 apresentamos o Contexto da disciplina; na secao 3 apresentamos as Impressoes sobre o estagio em docencia
+na disciplina de IHC; na seção 4 apresentamos os Desafios do estagio em docencia; na
+seção 5 apresentamos as Reflexoes sobre a formacao docente; na secao 6 apresentamos as
+Reflexoes sobre o ensino remoto; e na secao 7 apresentamos nossas conclusoes e trabalhos futuros.
+
+Contexto da disciplina
+
+A disciplina aqui relatada e a disciplina de Interacao Humano-Computador, que ocorreu no segundo semestre do periodo remoto emergencial de 2021 e tem como objetivo introduzir os conceitos e metodos basicos de IHC e suas principais teorias. A disciplina tem carga horaria de 60 horas, sendo 18 horas sincronas, em reunioes por video chamada, e 42 horas assincronas. A ementa e: Introducao a IHC; Conceitos basicos em IHC; Qualidade em IHC; Teorias de IHC; Etica no projeto da IHC; Design Socialmente Consciente; Design Participativo e Design Universal; Especificacao, Modelagem e Prototipacao em IHC; Tecnicas e Ferramentas de Prototipacao; Avaliacao em IHC; Topicos em IHC.
+
+A disciplina foi oferecida para 3 cursos: bacharelado em Ciencia da Computacao, como disciplina obrigatoria; bacharelado em Informatica Biomedica, como disciplina optativa; e pos-graduacao em Informatica, tambem optativa. No total, estavam matriculados 67 estudantes, 23 mulheres e 44 homens. Quanto a nos 4, somos pos-graduandos na area de IHC, sendo 3 mestrandos, sem experiencia previa em docencia, e 1 doutoranda, com experiencia previa em docencia.
+
+A disciplina foi baseada na Sala de Aula Invertida [Mok 2014], e as atividades da disciplina foram disponibilizadas e entregues assincronamente por meio do ambiente computacional Moodle. Dentre as principais atividades avaliativas da disciplina, temos:
+
+Leituras: Durante as primeiras semanas da disciplina foram propostas 3 atividades de leitura que buscavam introduzir os estudantes a discussoes relevantes a area de IHC. Ao final de cada leitura os alunos deveriam escrever no forum da disciplina uma apreciacao critica sobre o texto lido e relaciona-lo ao contexto de suas pesquisas, empresas ou experiencias previas.
+
+Wikihc: Nesta atividade os alunos deveriam formar grupos de ate 7 pessoas para escrever, numa wiki dentro do Moodle, uma materia sobre um metodo de avaliacao em IHC. A materia teria como publico-alvo pessoas que queiram utilizar o metodo/recomendacoes pela primeira vez para avaliar um sistema computacional interativo. Alguns metodos sugeridos foram: 8 Regras de Ouro de Shneiderman [Shneiderman et al. 2016]; 10 Heuristicas de Usabilidade de Nielsen [Nielsen 1993]; Avaliacao Heuristica para Jogos [Pinelle et al. 2008]; e Game Accessibility Guidelines [Ellis et al. 2012].
+
+Trabalho Pratico - avaliacao de um jogo: No trabalho pratico da disciplina os alunos, em grupos de ate 5 pessoas, deveriam avaliar um jogo por meio de um dos metodos da Wikihc. Junto com o professor responsavel pela disciplina, escolhemos como objeto de avaliacao um jogo ja que 2 de nos pesquisam na area de jogos e tambem seria um desafio para os estudantes. O trabalho foi dividido em duas entregas. Em um primeiro momento cada aluno desenvolveu uma avaliacao e um relatorio individual do jogo escolhido. Na segunda parte do trabalho, os alunos de cada grupo deveriam se reunir para desenvolver um relatorio de avaliacao consolidado dos problemas encontrados. O jogo sugerido para avaliacao foi a versao demonstrativa de Retro Machina, gratuita e de um estudio de jogos brasileiro. Porem, devido as limitacoes impostas pelos requisitos basicos do jogo (ele funciona apenas em sistemas Windows), foi aberta a possibilidade para os grupos escolherem algum outro jogo para ser avaliado (outros jogos que os estudantes avaliaram incluem: Mimpi-Dreams, Doodle God, e SuperTuxKart). A partir do relatorio consolidado, os estudantes participaram de um jogo de cartas com os problemas encontrados nos jogos que eles avaliaram. Neste jogo cada equipe deveria escolher cinco problemas e competir em cinco categorias que eram: 1- Problema grave; 2- Problema raro; 3- Problema que afeta a acessibilidade; 4- Problema que afeta a experiencia do jogador; e 5- Problema sem nocao. No final de cada rodada havia uma enquete na qual os estudantes votavam na equipe que se saiu melhor na competicao.
+
+As atividades do estagio em docencia comecaram antes do inicio das aulas, quando participamos do planejamento das atividades que seriam realizadas na disciplina juntamente com o professor responsavel pela disciplina e por orientar o nosso estagio em docencia. Entre as atividades planejadas por nos, temos: aula sobre Design Universal e Design Participativo; discussao sobre Dark Patterns e Valores nos Jogos; avaliacao do jogo Gartic junto com os estudantes utilizando a tecnica ThinkingAloud; Avaliacao de um jogo por equipes de estudantes. Durante a disciplina, separamos os estudantes em 4 equipes, baseadas em 4 Pokemon (Pikachu, Bulbassauro, Squirtle e Charmander), nas quais cada um de nos seria responsavel por corrigir as atividades, fomentar discussoes e tirar as duvidas. Os estudantes escolheram em quais equipes entrar por preferencia de Pokemon ou de lider da equipe, oferecemos tambem para os indecisos um teste online gratuito que promete encontrar seu Pokemon inicial baseado em respostas do usuario em um quiz.
+
+Como estrategia de gamificacao, utilizamos um conjunto de emblemas baseados em personalidades da IHC, como Donald Norman e Clarisse de Souza. Estes emblemas eram concedidos a estudantes que realizavam certas acoes ou se destacavam em determinadas atividades. Nosso objetivo era ensinar de forma gamificada sobre a historia da IHC e incentivar os alunos a se esforcarem mais nas atividades para garantir seus emblemas.
+
+Impressoes sobre o estagio em docencia na disciplina de IHC
+
+Um ponto bastante positivo dessa experiencia foi o contato e as discussoes entre nos quatro. Nossas reflexoes conjuntas nos ajudaram a enfrentar dificuldades, tirar duvidas e compartilhar a experiencia de docencia e aprendizado. Ampliamos as possibilidades de comunicacao com os estudantes, alem das formas tradicionais e oficiais, por meio da ferramenta Discord. Isso nos permitiu um contato mais direto, aberto e informal com os estudantes. O Discord tambem propiciou um ambiente no qual os estudantes se sentiam mais a vontade para tirar suas duvidas, comentar sobre assuntos da aula e mandar indicacoes relacionadas a disciplina (filmes, artigos, livros, noticias, etc.).
+
+Outro ponto positivo foi a divisao dos estudantes em 4 equipes, lideradas por nos, pos-graduandos do estagio docencia. Alguns estudantes se identificavam com lideres mais extrovertidos, e outros com lideres mais introvertidos. Sentimos que essa separacao por equipes deixou os estudantes mais a vontade, tanto durante as aulas quanto para tirar duvidas, motivando-os a participarem das conversas e dinamicas. A avaliacao das atividades tambem foi uma experiencia positiva para nos. Por meio dessa tarefa, foi possivel acompanhar o progresso dos estudantes durante a disciplina, alem de oferecer um feedback mais personalizado para os mesmos. Nos conseguimos treinar nossas capacidades de avaliacao e comunicacao.
+
+Alem disso, notamos que durante os encontros sincronos a maioria dos estudantes participava principalmente pelo chat disponivel no ambiente de aulas online. Alguns poucos alunos deixavam suas cameras ligadas durante o encontro. As aulas em que tivemos uma maior interacao por voz/camera geralmente envolviam uma discussao sobre os textos redigidos pelos proprios estudantes ou sobre questoes eticas em IHC. Acreditamos que isso se deu por serem momentos especificos de discussao que envolviam diretamente os estudantes, e tambem por vezes o assunto discutido ser mais polemico.
+
+A atividade em que tivemos a maior participacao durante a disciplina foi jogo de cartas com os problemas do relatorio consolidado. Atribuimos essa maior participacao, em partes, ao fato de termos explicitamente solicitado que cada equipe escolhesse um representante para apresentar os problemas, preferencialmente, que pudesse ligar a camera e falar no microfone. Tambem por ser a ultima atividade da disciplina, realizada apos todo o processo de entendimento das tecnicas de avaliacao e apos a avaliacao individual e consolidada, os estudantes provavelmente se sentiram aptos a participar e compartilhar o que encontraram. Talvez o fato desta ter sido uma atividade ludica e gamificada tenha tambem estimulado uma participacao mais ativa dos alunos, por ser uma experiencia que julgamos como mais divertida.
+
+Desafios do estagio em docencia
+
+Embora a experiencia pratica seja parte essencial da formacao docente, a falta de discussoes sobre a docencia e de disciplinas preparatorias resulta em uma falta de preparo que pode tornar o estagio em docencia o unico contato que alunos de pos-graduacao tem com a pratica do ensino em suas formacoes. A falta de experiencia decorrente deste despreparo gerou desafios que marcaram nossa experiencia com a conducao da disciplina de IHC.
+
+Como alunos de mestrado e doutorado com pouca ou nenhuma experiencia com o preparo e conducao de aulas, nossa posicao como professores, e nao mais apenas como colegas de classe, gerou certo estranhamento. A passagem do papel de aluno para o de professor levanta questoes sobre nossa autoridade dentro da disciplina. Como manter a conducao das aulas sem que, para isso, nos comportemos de forma autoritaria? Embora estivessemos sob supervisao de nosso orientador e responsavel pela disciplina, a tarefa de conduzir aulas e orientar alunos tambem desencadeou um sentimento de inseguranca, nos fazendo questionar a legitimidade de nossas acoes e decisoes dentro da disciplina. Como temos pouca ou nenhuma experiencia planejando aulas, avaliando atividades ou tirando duvidas, e o nosso professor nos dava muita liberdade criativa, as vezes sem muito direcionamento, nao ficava claro se estavamos indo pelo caminho correto.
+
+Outro grande desafio, esta ligado a avaliacao das atividades feitas pelos alunos. Embora tenha sido uma experiencia positiva, durante o processo de avaliacao das atividades tambem tivemos desafios. Como quantificar a avaliacao em nota de forma justa? Como oferecer um feedback construtivo? Essas questoes foram discutidas varias vezes entre nos e com o orientador. Alem disso, nao foram poucos os casos em que atribuimos uma nota a uma avaliacao para mais tarde modifica-la por acreditarmos que nao estavamos sendo justos. Nosso trabalho em equipe, com nossas discussoes e relatos de experiencia, nos estimularam a buscar solucoes conjuntas a esses questionamentos.
+
+O numero elevado de estudantes nos levou a considerar questoes relacionadas as necessidades especificas de cada uma das 67 pessoas matriculadas na disciplina. Em uma turma contendo tamanha variedade de estudantes, como garantir que as aulas, atividades e avaliacoes se adequem as necessidades e capacidades especificas de cada um? A divisao dos estudantes em grupos, assim como o uso do Discord, serviu como uma estrategia viavel que nos permitiu um acompanhamento mais proximo de cada estudante. Em muitos casos, era necessario instigar os alunos a procurarem por ajuda, e de tempos em tempos mandar mensagens no Discord sobre o andamento das atividades. A partir desse passo, os estudantes se sentiam mais a vontade para tirar duvidas em relacao a disciplina.
+
+As atividades de maior peso para a nota final na disciplina foram as avaliacoes individual e consolidada de um jogo. Propor um jogo como tecnologia a ser avaliada trouxe uma serie de dificuldades, pois avaliar um jogo e diferente de avaliar um site. Jogos exigem mais poder de processamento do computador e necessitam de requisitos minimos para serem instalados e devidamente jogados. Um problema apontado pelos estudantes e que o jogo escolhido para ser avaliado estava disponivel apenas para o sistema operacional Windows, o que impossibilitou que pessoas usuarias de outros sistemas operacionais pudessem avalia-lo. Entao foram sugeridos jogos disponiveis em outros sistemas para que os estudantes pudessem escolher qual avaliar. Outra dificuldade com a avaliacao de jogos, e que a falta de familiaridade com jogos pode ter intimidado alguns alunos durante a avaliacao. Uma estudante chegou a relatar preocupacao com o proprio desempenho por ter sofrido enjoos enquanto jogava. Essa atividade tambem foi desafiadora para nos, ja que nem todos possuimos experiencia com jogos, com a avaliacao de estudantes ou com todos os metodos de avaliacao disponibilizados.
+
+Reflexoes sobre a formacao docente
+
+Historicamente o papel do professor na sala de aula e o de autoridade, aquele que e superior aos estudantes e deve passar o conhecimento, numa pratica Top-Down e tecnicista, e que os estudantes sao passivos no processo de aprendizagem [Altoe 2005]. Porem, hoje, sabemos que esse formato de aula e ultrapassado. Compartilhamos da visao de Paulo Freire: Ensinar nao e transferir conhecimento, mas criar as possibilidades para a sua propria producao ou a sua construcao. [Freire 1997, p. 13]. Nesse sentido, entendemos que o papel do professor nao e o de apenas transferir o conhecimento, mas tambem de oferecer aos estudantes a chance de aprenderem por si proprios. Tambem entendemos que o papel docente e um papel dinamico em constante aprendizado e a formacao docente precisa ser capaz de refletir essa visao.
+
+Para nos, o processo de formacao docente mais do que ser capaz de ensinar como apresentar um conteudo ou dar uma aula, deve promover reflexoes sobre praticas pedagogicas, permitindo que nos, futuros docentes, estejamos mais preparados para lidar com os diferentes contextos de vida dos estudantes. Nossa experiencia com o estagio em docencia foi sem duvida rica em aprendizado. Mas por mais que a experiencia pratica seja uma parte essencial de nossa formacao, as licoes que alcancamos ainda sao limitadas.
+
+O ambiente controlado do estagio em docencia supervisionado por um professor responsavel nos ofereceu um cenario seguro em que nossas dificuldades puderam nos levar a questionamentos e reflexoes indispensaveis para a formacao docente. Mas as caracteristicas especificas de cada professor orientador, de cada pos-graduando e de cada turma de uma disciplina, significam que as licoes aprendidas do estagio em docencia podem variar significativamente.
+
+Por isso, uma disciplina preparatoria, grupos de estudos, ou uma serie de seminarios que apresentassem conceitos e teorias basicas de pedagogia e didactica poderiam proporcionar uma base formal solida a ser enriquecida pelo estagio em docencia. Evitando, assim, que a formacao de professores seja limitada pelas especificidades imprevisiveis de uma disciplina.
+
+Dessa forma, nos, como alunos de pos-graduacao, poderiamos chegar ao estagio em docencia menos inseguros e melhor preparados com reflexoes mais maduras sobre a pratica docente. Outra sugestao que tambem auxiliaria neste processo de formacao de docencia, seria um repositorio de materiais para aulas de IHC. Este repositorio seria uma fonte de busca sobre atividades que poderiam ser realizadas, planos de aula, formas de avaliacao, relatos de experiencia, praticas gamificadas, dentre outros. A necessidade de um repositorio online de materiais compartilhados entre educadores da IHC e inclusive apontada por [Churchill et al. 2016]. Acreditamos que este repositorio nao substituiria outras atividades, como uma disciplina especifica de formacao em docencia, mas facilitaria aos possiveis interessados a aprender mais sobre o contexto de uma disciplina de IHC. Este repositorio poderia ser construido em conjunto com diversos educadores da IHC e disponibilizado para os estudantes que fossem fazer o estagio em docencia na area.
+
+Reflexoes sobre o ensino remoto
+
+Ha pontos positivos e negativos se tratando do periodo remoto. Dentre os pontos positivos, o professor focou principalmente em atividades que gerariam discussoes nas aulas sincronas. Como por exemplo, as leituras que eram contextualizadas nas pesquisas e temas de interesses dos estudantes. Para nos, no papel de professores, dar a aula remotamente foi mais comodo e menos estressante. Observando a participacao dos estudantes pelo recurso de chat, notamos uma possivel vantagem da interacao por texto ao permitir uma maior participacao de alunos durante as aulas sincronas por parte de alunos que teriam vergonha ou medo de interromper o professor.
+
+Manter o dinamismo nas aulas, por exemplo, e desfiador, principalmente no ensino remoto, em que o tempo de aula sincrono e reduzido e o numero de atividades e limitado devido ao tempo de aula online. Em anos anteriores, por exemplo, tivemos atividades especificas sobre design thinking e um foco maior em conceitos basicos da IHC como usabilidade, acessibilidade e comunicabilidade. Entretanto, devido ao curto tempo da disciplina e a diminuicao do numero de aulas sincronas, muitas atividades tiveram que ser deixadas de lado ou foram apresentadas de forma superficial. Outro ponto negativo que podemos citar e que nos sentimos pouco preparados para enfrentar uma docencia presencial com essa experiencia remota. As aulas remotas, apesar de menos estressantes, impossibilitaram um contato face a face entre nos e os estudantes criando uma separacao que pode ter um impacto negativo na nossa formacao como docentes.
+
+**CONSIDERAÇOES FINAIS**
+
+A pouca formaçao docente e um problema que impacta diretamente tanto os futuros do-
+centes, que nao possuem o preparo adequado para trabalhar em sala de aula, quanto os
+futuros alunos destes professores. Deveriam ser ofertadas mais oportunidades de reflexao
+sobre a pratica em docencia para pessoas interessadas em seguir a carreira docente, como
+oficinas, minicursos e outras disciplinas alem de estagios em docencia.
+
+De modo geral, consideramos a experiencia da disciplina de pratica em docencia rica e proveitosa. Apesar dos desafios e limitacoes da disciplina, como o excesso
+de estudantes, nossa falta de preparacao para avaliar atividades e o desafio de propor uma
+atividade de avaliacao de jogos, conseguimos concluir o estagio em docencia de forma satisfatoria. Tanto que recebemos diversos recados de estudantes satisfeitos que elogiaram
+nosso trabalho. Muitos deles gostaram de como oferecemos uma atencao mais personalizada para cada um, alem das atividades que realizamos. Esse feedback dos estudantes
+serviu como incentivo para que continuemos, mesmo que fora do estagio em docencia,
+a nos preparar para sermos melhores docentes em IHC. Esperamos que nosso relato de
+experiencia conscientize os estudantes de IHC a procurar mais oportunidades de aprendizado, e que os professores repensem sobre a necessidade de oferecer mais possibilidades
+para exercitar a docencia, seja em disciplinas, ou em grupos de pesquisa.
+Como trabalhos futuros pretendemos elaborar um repositorio que possa servir
+como guia para futuros docentes de IHC, construido de forma coletiva, sendo disponibilizado para que qualquer educador da area de IHC possa colaborar com suas experiencias.
+Dessa forma, futuros docentes da area de IHC poderiam ter acesso a diversas experiencias e materiais de forma centralizada. Alem disso, gostariamos de analisar de forma
+qualitativa e quantitativa a participacao dos estudantes durante a disciplina, a partir dos
+dados analiticos do Moodle. A partir desta analise, poderiamos ter a comprovacao que
+nossa combinacao de atividades trouxe resultados satisfatorios, alem de permitir que nos
+investiguemos mais possibilidades de formacao docente.

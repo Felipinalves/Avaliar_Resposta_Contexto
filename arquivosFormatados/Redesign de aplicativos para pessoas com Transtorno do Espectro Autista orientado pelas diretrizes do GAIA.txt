@@ -1,0 +1,100 @@
+**RESUMO**
+
+Pessoas com o Transtorno do Espectro Autista (TEA)
+apresentam dificuldades na interaçao social, comunicaçao e
+um repertorio restrito de interesses e atividades. Devido as
+dificuldades para entender expressoes, as pessoas com TEA
+podem nao compreender ou perceber determinados
+conteudos, termos e imagens presentes na interface de
+aplicaçoes. Pesquisas recentes propoem diretrizes para a
+construçao de interfaces adequadas a esses usuarios, como o
+GAIA (Guia de Acessibilidade de Interfaces Web com foco
+em aspectos do Autismo). Porem, ainda nao existem relatos
+sobre o uso dessas diretrizes no redesign de interface de
+aplicaçoes. Esse artigo apresenta a adoçao das diretrizes do
+GAIA para o redesign de interface de dois aplicativos moveis
+para pessoas com TEA.
+
+**INTRODUCAO**
+
+O Transtorno do Espectro Autista (TEA) e caracterizado por
+prejudicar as habilidades de interaçao social, comunicaçao
+dos individuos, alem da presença de comportamentos
+repetitivos e estereotipados . Devido as dificuldades para
+entender expressoes, usuarios com TEA podem nao
+compreender ou perceber determinados conteudos, termos e
+figuras presentes na interface de aplicaçoes. Por isso,
+pesquisas recentes propoem diretrizes para a construçao de
+interfaces acessiveis a autistas, como o projeto GAIA (Guia
+de Acessibilidade de Interfaces Web com foco em aspectos
+do Autismo) .
+
+O GAIA possui 28 diretrizes organizadas em dez grupos (1)
+vocabulario visual e textual, (2) customizaçao, (3)
+engajamento, (4) representaçoes redundantes, (5)
+multimidia, (6) respostas as açoes, (7) affordance, (8)
+navegabilidade, (9) visibilidade do estado do sistema e (10)
+interaçao com telas sensiveis ao toque . Devido a proposta
+das diretrizes ser recente, ainda nao existe um relato do seu
+uso no redesign de interface. Embora o GAIA nao seja
+especifico para aplicativos moveis, o numero de tecnologias
+para dispositivos moveis e direcionadas a pessoas com TEA
+motivou a conduçao desta pesquisa.
+
+Essa pesquisa faz parte de um projeto de extensao que visa
+desenvolver tecnologias acessiveis para o municipio de
+Russas (CE). Por meio de pesquisas conduzidas no
+municipio, identificou-se que havia em media 50 alunos
+autistas matriculados nas escolas. A equipe do projeto
+decidiu oferecer um curso de extensao de desenvolvimento
+de aplicativos acessiveis com a ferramenta AppInventor a
+alunos do ensino medio. Os alunos desenvolveram tres
+aplicativos direcionados a pessoas autistas. Dois aplicativos
+foram avaliados com o uso das diretrizes do GAIA. As
+necessidades de melhorias identificadas possibilitaram o
+redesign de sua interface.
+
+METODOLOGIA DE PESQUISA
+A metodologia adotada possui 5 etapas: (1) pesquisa sobre diretrizes de acessibilidade direcionadas a pessoas com TEA; (2) avaliacao dos aplicativos com o uso das diretrizes; (3) validacao dos resultados da avaliacao com especialistas em IHC; (4) redesign da interface dos aplicativos com base nos problemas identificados; (5) validacao do redesign da interface com especialistas em IHC. O GAIA [2] foi selecionado por ser baseado em revisao sistematica sobre diretrizes existentes. Em seguida, dois alunos avaliaram os dois aplicativos moveis orientados pelo GAIA, analisando quais diretrizes eram atendidas ou nao. O resultado da avaliacao foi apresentado a equipe do projeto, coordenado por dois especialistas em IHC. Entao, os dois alunos reprojetaram a interface dos aplicativos de acordo com os problemas encontrados na avaliacao. O redesign de interface tambem foi validado junto a equipe do projeto.
+
+RESULTADOS PRELIMINARES
+O redesign de interface dos aplicativos sera resumidamente apresentado, indicando as diretrizes do GAIA adotadas.
+
+A Figura 1 exemplifica as melhorias realizadas nos
+aplicativos por areas, de (1) a (4). Os novos prototipos foram
+criados na plataforma Marvel. O AutPlus objetiva auxiliar a
+comunicaçao, para que os usuarios possam expressar seus
+sentimentos, dores fisicas e necessidades. O AutQuiz busca
+auxiliar na memorizaçao de conteudos escolares por meio de
+um quiz. Na area (1) de ambos os aplicativos, as seguintes
+diretrizes foram adotadas  as cores, contrastes e objetos
+de primeiro plano devem ser adequados (2.1) e  a opçao
+de customizaçao ajuda usuario  e  e importante sempre
+usar espaçamentos em branco entre elementos  icones
+e botoes devem ter uma area de clique toque adequada .
+forneça informaçoes em diferentes representaçoes como
+texto, audio e imagens para melhor compreensao do
+conteudo. Na area (2) do Autplus, alem das diretrizes
+adotadas na area (1), foram aplicadas  nao devem ser
+usados somente textos para a apresentaçao de um conteudo,
+ simbolos, pictogramas e icones devem apresentar um
+equivalente textual para facilitar a sua compreensao  imagens possam ser ampliadas para melhor visualizaçao. Na
+area (3) do AutPlus, foram aplicadas as diretrizes  a
+utilizaçao de uma linguagem visual e textual simples ajuda
+no uso e  e importante fornecer instruçoes sobre as
+funçoes ao usuario. Na area (4) do AutPlus tambem foi
+adotada a diretriz . No AutQuiz, foi adotada a diretriz
+ na area (2) e as diretrizes  na area (3).
+
+**CONSIDERACOES FINAIS**
+
+Esse trabalho relatou o redesign de aplicativos para usuarios
+com TEA com o uso de diretrizes do GAIA. Espera-se
+motivar profissionais e pesquisadores de IHC a adotar
+diretrizes como o GAIA em seus projetos. Como trabalhos
+futuros, pretende-se avaliar os aplicativos reprojetados por
+meio de testes com usuarios e investigar o uso das diretrizes
+para avaliar outras aplicaçoes.
+
+**CONSIDERAÇOES FINAIS**
+Em conclusao, este estudo demonstra o potencial das diretrizes do GAIA para guiar o redesign de aplicativos para pessoas com TEA. As melhorias implementadas nos aplicativos AutPlus e AutQuiz visam facilitar a comunicaçao e o aprendizado dos usuarios, tornando as interfaces mais acessiveis e adaptadas as suas necessidades. Espera-se que este trabalho possa inspirar futuras pesquisas e projetos na area de tecnologia assistiva, contribuindo para uma maior inclusao e qualidade de vida das pessoas com TEA.

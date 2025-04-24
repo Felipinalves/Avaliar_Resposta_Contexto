@@ -1,0 +1,122 @@
+RESUMO
+
+Atualmente, diversas diretrizes apoiam o desenvolvimento de aplicativos
+moveis que pretendem considerar aspectos de acessibilidade. Estas diretrizes
+descrevem um conjunto de requisitos que devem ser considerados durante, por
+exemplo, a especificacao de interfaces de usuario e estrategias de interacao.
+No entanto, estas diretrizes nao consideram a influencia do tempo de resposta
+dos sistemas interativos no que diz respeito a sua acessibilidade. O objetivo
+do presente trabalho e identificar casos concretos que mostrem esta influencia,
+gerando conhecimento que possa apoiar a extensao das diretrizes. Dois casos
+iniciais sao discutidos juntamente com possiveis estrategias que poderiam
+evitar problemas de interacao para usuarios com deficiencia visual.
+
+INTRODUCAO
+
+O tempo de resposta e uma propriedade importante dos sistemas de interacao
+humano-computador e esta relacionado com a qualidade de tais sistemas para
+reagir positivamente aos pedidos do usuario. Em ordem, o tempo de resposta
+normalmente determina o engajamento do usuario de uma aplicacao e, portanto,
+seu sucesso. No entanto, sua percepcao depende de tres aspectos: e relativo
+ao tipo de interacao; e subjetivo, uma vez que diferentes usuarios podem ter
+diferentes niveis de tolerancia; e nao exclusivo, uma vez que pode ser
+influenciado por indicacoes indiretas na Interface Grafica do Usuario (GUI).
+
+A questao de pesquisa deste presente artigo e: "O tempo de resposta e
+importante para a promocao da acessibilidade em relacao aos usuarios com
+deficiencia visual?". A resposta para tal questao e importante porque pode
+levar a especificacao de casos de teste relacionados a este aspecto e sua
+inclusao no processo de avaliacao de aplicacoes moveis interativas. Para
+responder a esta questao, uma analise foi conduzida sobre as diretrizes
+atuais para acessibilidade, que sao:
+
+Funka Mobile Accessibility;
+W3C Mobile Accessibility;
+Google Android Developers Accessibility Guide;
+Accessibility Programming Guide for iOS from Apple;
+Design Guidelines for Windows Mobile from Microsoft;
+BBC Mobile Accessibility Guidelines;
+Guide to the Development of Accessible Mobile Applications (GuAMA)
+
+Os resultados desta analise mostraram que o aspecto do tempo de resposta
+nao e considerado juntamente com os requisitos de acessibilidade. No
+entanto, observacoes de experimentos de usabilidade mostram que o tempo
+de resposta pode afetar a qualidade da interacao, principalmente quando os
+usuarios apresentam deficiencias visuais, como demonstrado em algumas
+observacoes iniciais de testes de usabilidade com este grupo de individuos.
+
+CASOS DE OBSERVACAO
+
+Todos os elementos da interface tem um tempo de resposta e suas medicoes
+podem ser conduzidas por meio de ferramentas como o Network Analysis
+Reference do Google Chrome. A Figura 1 mostra um exemplo desta ferramenta,
+onde e possivel ver o tempo de resposta de varios elementos da interface da
+pagina web IHC 2019, tais como scripts (ex. mail-script.js e main.js) e
+imagens (ex. sigchi_logo.gif e sigweb_logo.gif). Ferramentas como essa sao
+importantes para destacar oportunidades para melhorar partes do codigo que
+sao ineficientes em termos de resposta de interacao.
+
+Considere o seguinte caso, que se relaciona com o comportamento tipico de
+usuarios com deficiencia visual quando eles enviam uma requisicao e o tempo
+de resposta de um componente da interface (ex. uma imagem) nao e
+adequado. Os numeros nesta descricao estao relacionados com a Figura 1, que
+ilustra as acoes que estao sendo realizadas:
+
+"Usuarios com deficiencia visual submetem um pedido e apos dois ou tres
+segundos comecam a escanear a tela a procura da resposta. A acao e sempre
+da esquerda para a direita, de cima para baixo. Se eles passarem pela area
+de resposta e a resposta so estiver la depois disso, eles vao terminar a
+varredura e tentar a acao de submissao novamente. No entanto, o botao nao
+estara la. Entao eles se perdem na interacao".
+
+De acordo com a diretriz GuAMA, por exemplo, seu requisito R31 (O leitor
+de tela deve informar ao usuario todos os eventos visiveis) sugere que o
+objeto da interface forneca algum tipo de feedback quando ele aparece.
+No entanto, os usuarios nao tem esta informacao e, apos 2 ou 3 segundos,
+foi observado que eles comecam o processo de digitalizacao novamente. Casos
+de teste relativos ao tempo de resposta dos elementos da interface poderiam
+detectar esta situacao e acoes poderiam ser tomadas para reduzir este tempo
+(ex. se o objeto for uma imagem, sua qualidade poderia ser diminuida). Se
+tal reducao nao for possivel, a interface deve avisar os usuarios sobre este
+atraso.
+
+O proximo caso e baseado no seguinte requisito GuAMA: "R12 - Todas as
+imagens da interface fornecidas pelo aplicativo devem ter uma descricao
+em audio". Isto significa que, em vez de fornecer apenas um rotulo que
+identifica a imagem, documentos acessiveis tambem devem fornecer uma
+descricao em audio que suporte usuarios com deficiencia visual para
+"imaginar" tal imagem. No entanto, considere a seguinte situacao:
+
+"Todas as imagens devem ter um arquivo de audio associado. No entanto, as
+vezes a imagem esta la primeiro. Entao, o voluntario toca na imagem mas o
+audio ainda nao esta la... entao eles tocam de novo e de novo...".
+
+O problema de tempo de resposta neste caso esta relacionado com o elemento
+de audio. Quando os usuarios tocam na imagem, eles tem certeza de que tal
+imagem esta la. No entanto, eles nao sabem que tal imagem tem um arquivo
+de audio relacionado. Assim, apos algumas tentativas, eles deixam a imagem.
+Este exemplo e importante para salientar que o requisito R12 pode nao ser
+suficiente para garantir a qualidade da interacao.
+
+DISCUSSAO
+
+Enquanto os requisitos de acessibilidade para aplicacoes moveis nao discutem
+aspectos relacionados com o tempo de resposta da interacao do usuario;
+observacoes praticas de testes de usabilidade demonstram que ha casos onde
+tais aspectos sao importantes para garantir a qualidade da interacao. Em
+ordem, a avaliacao do tempo de resposta nao e tao usual no contexto movel
+porque ha uma falta de recursos para apoiar tal avaliacao de uma forma
+eficiente. Um destes recursos e a instrumentacao de codigo Android para
+monitoramento de interacao. Este recurso e, de fato, uma API para que os
+desenvolvedores devem incluir codigo adicional em seus aplicativos para obter
+as informacoes de tempo de resposta. Outras abordagens recentes tentam
+automatizar este processo usando ferramentas tradicionais como o Selenium.
+Este presente artigo mostra apenas situacoes iniciais onde o tempo de resposta
+poderia afetar a interacao. Trabalhos futuros pretendem criar um protocolo
+de avaliacao para o teste de usabilidade que identifica outras situacoes e
+apoia as extensoes das diretrizes relativas aos aspectos de tempo de resposta
+para acessibilidade.
+
+CONSIDERACOES FINAIS
+
+Embora as diretrizes de acessibilidade para aplicativos moveis geralmente se concentrem em aspectos como contraste de cores, navegacao por teclado e alternativas de texto, este trabalho destaca a importancia de considerar o tempo de resposta como um fator crucial para a experiencia do usuario, especialmente para pessoas com deficiencia visual. A analise de casos especificos revelou como tempos de resposta inadequados podem levar a confusao, frustracao e abandono da tarefa por parte dos usuarios. E fundamental que desenvolvedores e avaliadores de acessibilidade incorporem testes de tempo de resposta em seus processos, buscando otimizar a velocidade de carregamento e a reacao dos elementos da interface. Ao fazer isso, sera possivel criar aplicativos moveis mais inclusivos e eficientes, garantindo que todos os usuarios possam desfrutar de uma experiencia de interacao satisfatoria.

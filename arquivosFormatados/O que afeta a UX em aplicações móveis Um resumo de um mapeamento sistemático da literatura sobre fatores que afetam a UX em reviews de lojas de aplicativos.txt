@@ -1,0 +1,171 @@
+**RESUMO**
+
+A baixa tolerancia dos usuarios com apps de baixa qualidade vem
+pressionando desenvolvedores a priorizarem uma Experiencia do Usuario (UX)
+positiva para se destacarem. Nesse contexto, as reviews de lojas de aplicativos
+emergem como uma fonte valiosa para detectar os fatores que moldam a UX.
+Diversos estudos tem investigado variados fatores e seu impacto na UX. Con-
+tudo, a dispersao dos resultados dificulta a obtençao de conclusoes uteis para
+orientar o desenvolvimento e a pesquisa na area. Este artigo apresenta um ma-
+peamento sistematico sobre fatores que afetam a UX em reviews de lojas de
+aplicativos. A partir de 25 publicaçoes, foram identificados 31 fatores, alem de
+oportunidades de pesquisa com implicaçoes para profissionais e pesquisadores.
+
+**INTRODUCAO**
+
+A base global de usuarios de Internet movel cresceu significativamente, de 738,27 milhoes
+em 2010 para mais de 4,3 bilhoes em 2020. Com uma grande variedade de apps
+para escolher, os usuarios estao cada vez menos tolerantes a apps de baixa qualidade, levando ao reconhecimento da importancia de se fornecer uma boa
+Experiencia do Usuario (UX) pelos desenvolvedores. Nesse contexto, reviews de lojas
+de aplicativos fornecem informaçoes valiosas que podem ser utilizadas para identificar os
+fatores que levam a uma UX positiva refletida nas avaliaçoes por estrelas.
+
+Pesquisadores vem estudando reviews de usuarios para entender seu impacto nas
+avaliaçoes e na UX, utilizando metodos que vao da analise manual [Ha and Wagner 2013,
+Khalid et al. 2015, Nicolai et al. 2019] ao aprendizado de maquina [Fu et al. 2013,
+Guzman and Maalej 2014, Luiz et al. 2018]. No entanto, descobertas dispersas impe-
+dem que profissionais e pesquisadores identifiquem os principais fatores que afetam a
+UX. Assim, um mapeamento sistematico da literatura pode contribuir para oferecer uma
+visao abrangente, integrando diversas analises para descobrir fatores cruciais considera-
+dos por diferentes pesquisadores em varios conjuntos de dados e contextos, fornecendo
+conclusoes mais perspicazes do que estudos isolados de reviews de aplicativos.
+
+Este artigo apresenta um mapeamento sistematico da literatura (MSL) para abor-
+dar publicaçoes que analisaram reviews de usuarios de lojas de aplicativos. O objetivo
+e identificar os fatores que podem afetar a UX transmitida por aplicativos moveis, os
+metodos empregados para analisar tais reviews, o escopo dessas analises e as implicaçoes
+desses resultados para profissionais e pesquisadores.
+
+**PROTOCOLO DE REVISAO**
+
+O protocolo de revisao foi elaborado com base nas diretrizes propostas por Kitchenham
+et al. (2015). O objetivo deste MSL foi responder a seguinte questao de pesquisa: "Quais
+sao os fatores relacionados a UX que influenciam nas avaliaçoes de usuarios em lojas de
+aplicativos e como eles afeta a UX?”. Para responder a essa questao foram definidas sete
+subquestoes de pesquisa relacionadas a: (i) origem do dataset, (ii) informaçao extraida,
+(iii) metodos de analise, (iv) categorizaçao dos dados, (v) escopo da analise, (vi) fatores
+identificados e suas polaridades associadas, (vii) analise da influencia dos fatores.
+
+Foram buscadas publicaçoes escritas em ingles nas bases IEEE Xplore, ACM
+e Scopus utilizando os seguintes termos: (review OR opinion OR comment OR ra-
+ting) AND (mining OR analysis OR processing OR examining) AND (experience OR
+UX OR usability OR sentiment) AND ("mobile app”OR "mobile apps”OR "mobile ap-
+plication*"OR "app store*”OR appstore* OR "app marketplace*"OR "app market”OR
+"app markets"OR "application market*"). Adicionalmente, foi realizado o processo de
+backward snowballing, para identificar publicaçoes relevantes [Wohlin et al. 2012].
+
+**CRITERIOS DE INCLUSAO E EXCLUSAO**
+
+Para selecionar as publicaçoes, primeiramente adotou-se a definiçao de UX proposta
+por Hassenzahl e Tractinsky (2006) para estabelecer os fatores que seriam considera-
+dos. Assim, o estudo considerou fatores relacionados ao estado interno do usuario
+(predisposiçoes, expectativas, etc.), caracteristicas do sistema (complexidade, usabili-
+dade, etc.) e contexto da interaçao (organizacional, social, etc.).
+
+O processo de seleçao envolveu dois filtros: no primeiro foi feito a leitura do
+titulo e do abstract, enquanto no segundo foi feito a leitura integral do texto. Somente publicaçoes avaliando reviews de lojas de aplicativos, que consideravam a UX de forma
+explicita ou por termos relacionados (emoçoes, usabilidade, satisfaçao, etc.) e apresenta-
+vam o efeito dos fatores na UX foram incluidos.
+
+**EXTRAÇAO DE DADOS**
+
+Para extrair os dados, adotou-se a abordagem proposta por Fernandez et al. (2011), na
+qual e definido um conjunto de possiveis respostas para cada subquestao de pesquisa.
+
+**RESULTADOS**
+
+A busca retornou 562 publicaçoes, com 430 unicas apos a eliminaçao de duplicatas. No
+primeiro filtro foram excluidas 341 publicaçoes, restando 89 para posterior avaliaçao.
+No segundo filtro, mais 71 foram excluidos, resultando em 18 publicaçoes aceitas. No
+processo de backward snowballing, 365 publicaçoes unicas foram avaliadas, resultando
+em sete seleçoes finais que passaram por ambos os filtros. Assim, foram extraidos os
+dados de um total de 25 publicaçoes selecionadas.
+
+**SQ1 ORIGEM DO DATASET**
+
+As reviews foram coletadas principalmente da Google Play Store seguido da Apple AppS-
+tore. Poucos estudos exploraram multiplas fontes de dados e nenhum cobriu a Windows
+Phone Store, provavelmente devido a baixa popularidade e suporte descontinuado.
+
+**SQ2 INFORMAÇAO EXTRAIDA**
+
+A maioria dos estudos extraiu reviews dos usuarios. Um estudo usou descriçoes de apli-
+cativos para correlacionar recursos com variaveis como preço e numero de downloads.
+Alguns estudos nao analisaram as avaliaçoes por estrelas, possivelmente devido a seus
+insights limitados. Nos estudos que consideraram as reviews e avaliaçoes por estrelas,
+as analises buscaram identificar avaliaçoes inconsistentes, variaçoes entre as estrelas e a
+analise de sentimentos, alem de correlaçoes com genero, modelo de dispositivo, entre ou-
+tros. Sete estudos reuniram detalhes do aplicativo (atualizaçoes, preço) e tres extrairam
+dados diversos, como arquivos APK, changelogs e modelos de dispositivos.
+
+**SQ3 METODOS DE ANALISE**
+
+No geral, varios estudos utilizaram mais de uma tecnica para uma analise abrangente. Es-
+tatisticas descritivas foram as mais usadas, seguidas pela analise de sentimentos. Analise
+de correlaçao, regressao e testes estatisticos como Mann-Whitney, Wilcoxon, Qui-
+quadrado e Kruskal-Wallis foram empregados para explorar relaçoes e diferenças entre
+grupos (ex: apps com avaliaçoes baixas vs altas). Alguns estudos utilizaram codificaçao
+manual e analise de topicos para realizar classificaçoes e extraçao de informaçoes. Outros
+metodos, como K-means para agrupamento de palavras-chave e indice de similaridade de
+Jaccard para identificar topicos similares foram menos frequentes.
+
+**SQ4 CATEGORIZAÇAO DOS DADOS**
+
+Metade dos estudos categorizou os dados, mas nao foi identificado uma padronizaçao.
+Somente dois estudos categorizaram os dados com base em trabalhos anteriores. A mai-
+oria das categorias eram relacionadas a funcionalidades, bugs e percepçoes dos usuarios
+sobre o app. Alguns autores adotaram categorias relacionadas a UX, como usabilidade
+e atratividade. Porem, nenhum deles analisou as reviews pelas lentes da teoria de UX
+considerando aspectos pragmaticos relacionados a realizaçao eficiente e eficaz de tarefas
+do usuario e aspectos hedonicos relacionados as emoçoes e sentimentos do usuario.
+
+**SQ5 ESCOPO DA ANALISE**
+
+A analise se concentrou em avaliaçoes de aplicativos individuais, de categoria ou gerais,
+com tamanhos variados de conjunto de dados. Varias publicaçoes tiraram conclusoes ge-
+rais de diversas categorias de aplicativos. Por exemplo, um estudo examinou avaliaçoes
+de 25 aplicativos em 22 categorias. Oito trabalhos compararam grupos como aplicati-
+vos de saude versus aplicativos nao relacionados a saude ou categorias especificas, como
+educaçao. Seis estudos concentraram-se em aplicativos individuais. Os tamanhos dos
+conjuntos de dados diferiram muito, desde amostras pequenas com 556 avaliaçoes ate
+amostras com mais de 13 milhoes de avaliaçoes.
+
+**SQ6 FATORES IDENTIFICADOS E SUAS POLARIDADES ASSOCIADAS**
+
+Foram identificados 31 fatores que podem influenciar as avaliaçoes do usuario. Fatores
+negativos se concentram na funcionalidade (ex: desempenho, compatibilidade), enquanto
+os positivos se relacionam com as percepçoes do usuario (ex: facilidade de uso, suporte
+ao cliente). O impacto do fator tambem varia de acordo com a sua polaridade. Mençoes
+negativas sobre o custo do app e interface, por exemplo, levam a avaliaçoes mais negati-
+vas, ao contrario das mençoes positivas, que nao necessariamente resultam em avaliaçoes
+mais positivas. A importancia dos fatores tambem pode variar de acordo com o tipo de
+aplicativo. Em jogos, por exemplo, Atratividade, Estabilidade e Custo foram os mais
+frequentes nas avaliaçoes. Alguns fatores, como Etica e Privacidade levam a avaliaçoes
+mais baixas. Por outro lado, efeitos como os do fator Atualizaçao podem variar: pequenas
+melhorias ajudam, mas o redesenho completo da interface pode causar insatisfaçao.
+
+**SQ7 ANALISE DA INFLUENCIA DOS FATORES**
+
+Dezesseis publicaçoes analisaram o impacto dos fatores nos sentimentos ou avaliaçoes.
+Os metodos utilizados para analisar o impacto variou desde o uso de testes estatisticos
+para verificar o nivel de significancia na diferença dos resultados entre grupos ate analises
+de frequencia (classificaçoes de fator x estrelas) e analises de correlaçao (data/hora, versao
+do aplicativo, emoçoes, classificaçoes e preço).
+
+**CONCLUSAO**
+
+Este artigo apresentou os resultados de um mapeamento sistematico para examinar
+publicaçoes que analisaram avaliaçoes dos usuarios de loja de aplicativos, com o objetivo
+de identificar os fatores que influenciam a experiencia do usuario (UX) e as avaliaçoes.
+Das 25 publicaçoes selecionadas, 31 fatores e suas polaridades foram identificadas, as
+quais podem servir de base para desenvolver tecnicas de avaliaçao de UX e direcionar o
+desenvolvimento e aprimoramento de aplicaçoes de software.
+
+Pesquisas futuras podem incluir a analise do impacto de cada fator nas avaliaçoes
+e sentimentos dos usuarios; realizaçao de pesquisas com foco em extrair aspectos de
+UX de reviews de usuarios; comparaçoes entre diferentes lojas de aplicativos e tipos de
+aplicativos; e o desenvolvimento de metodos voltados especificamente para a analise de
+reviews de usuarios de lojas de aplicativos considerando suas especificidades.
+
+**CONSIDERACOES FINAIS**
+Este estudo fornece uma base solida para desenvolvedores e pesquisadores interessados em melhorar a UX em aplicativos moveis. Ao identificar e categorizar os fatores que influenciam as avaliaçoes dos usuarios, este trabalho contribui para a criaçao de aplicativos mais eficientes, usaveis e agradaveis.

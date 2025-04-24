@@ -1,0 +1,119 @@
+**INTRODUCAO**
+
+Este trabalho e um desdobramento de uma pesquisa de mestrado acerca do uso casual de
+jogos digitais para lidar com a depressao durante a pandemia de COVID-19. A partir de
+um recorte no Reddit, um dos foruns mais populares entre o publico gamer, foi aplicado
+o metodo da netnografia  no topico mais extenso relativo ao contexto da
+pandemia - "For those using games to help with depression during these times, share
+what you are playing" (2020). Levantou-se uma amostragem de 10% dos mais de 400
+depoimentos postados por jogadores depressivos naquele periodo. A coleta foi realizada
+manualmente, pois a netnografia e voltada a qualidade dos dados, e nao a quantidade, de
+modo que o vies do fenomeno estudado e mais ilustrativo e reflexivo do que abrangente
+e descritivo.
+
+A questao norteadora deste estudo foi o que buscam, nos ambientes virtuais dos
+games, pessoas que os usam para lidar com a depressao? Foram explorados os discursos
+de todos os depoimentos coletados, destacando-se as frases e dissecando-as em unidades
+lexicais menores (sintagmas) para observar tais parametros linguisticos como os verbos,
+onde se concentra a carga simbolica da experiencia de jogar. Verbos descrevem as açoes
+que jogadores executam, o que atribui significancia as suas experiencias subjetivas com
+os jogos. Exemplos de frases e sintagmas verbais encontrados nos discursos:
+
+1) “Seeing your daily tasks lead to gradual improvements in my farm was like
+therapy."
+2)“For me, highly immersive and/or engaging games that can get me away from
+reality are the best during depressive episodes.”
+3) "I find what helps me most are single player games that have cool companions,
+make me feel not so alone."
+
+Foi feita uma adaptaçao do metodo de word tagging  para tratamento dos dados coletados (Tabela 1), que consistiu nas etapas: (1) analise dos
+principais sintagmas verbais de cada depoimento (2) extraçao de significados relativos
+ao que cada jogador buscava nos jogos para lidar com sua depressao (3) seleçao de tres
+verbos para representar cada significado, nomeados de “açoes significativas”.
+
+Os sintagmas verbais proveram os campos semanticos, e no que se aprofundou a
+interpretaçao desses campos chegou-se em um entendimento do campo semiotico, onde
+se criam as relaçoes de significancia, e de possiveis “açoes significativas”. Olhar para as
+relaçoes de significancia e enxergar a dimensao existencial do fenomeno em si. Todos
+os jogadores partiram da mesma sintaxe, jogar videogame para lidar com a depressao,
+mas os resultados foram buscas subjetivas muito distintas. Para cada jogador fez sentido
+uma qualidade de açao diferente em sua relaçao com o jogo.
+
+Nos exemplos supracitados o primeiro mostrou a necessidade de constancia, sua
+busca, ou o alivio encontrado na experiencia, estava em acompanhar melhorias graduais
+ao longo do tempo o segundo tinha necessidade de engajamento, sua busca, ou o alivio
+encontrado na experiencia, estava em imergir em uma realidade ficticia para se desligar
+da propria realidade concreta o terceiro tinha necessidade de companhia, sua busca, ou
+o alivio encontrado na experiencia, estava em sentir-se menos solitario.
+
+As analises indicaram que, embora os jogadores com depressao possam recorrer
+aos games pelo mesmo motivo, como uma ferramenta para lidar com o transtorno, ha
+diversas necessidades existenciais que articulam processos depressivos e se manifestam
+no jogar. Contudo, um denominador comum parece unir essas necessidades a busca por
+algum tipo de alivio seja para o estresse, para a apatia, para a solidão etc. Ainda que
+incidentalmente, jogadores depressivos transformam os mundos dos jogos digitais em
+mundos terapeuticos buscando suprir carencias reais.
+
+Tendo em vista que açoes in-game criam a relaçao do jogador, foi percebido que
+as dinamicas de jogo transcendem sua funcionalidade para uma dimensao existencial. A
+forma como jogadores diferentes descrevem as suas experiencias possibilitadas pelas
+mesmas regras e mecanicas disponiveis a todos que acessam o mundo de um jogo traz
+a tona narrativas ao mesmo tempo universais e particulares. Pode-se dizer que jogadores
+produzem semioses (relaçoes de significancia) arbitrariamente, pois, ainda que atuando
+dentro do “sistema significante” pre-estabelecido do jogo, um sistema em que adentram
+possuindo conhecimento da logica interna, eles extrapolam a decodificaçao pressuposta
+dos "signos orientadores” do sistema (as regras e mecanicas). A experiencia do jogador,
+de um ponto de vista existencial, transcende a experiencia oferecida pelo jogo.
+
+Assim, sao estabelecidas “relaçoes de significancia” para alem do que possa ser
+antecipado pelos proprios criadores do mundo de um jogo. Tais relaçoes, baseadas nas
+potencialidades interpretativas do jogador, emergem de afetos, automotivaçao, volição,
+processos cognitivos e existenciais, que podem ser entendidos como formas de auto-
+orientaçao simbolica, o que Noth (1995) chama de semioses criativas.
+
+Desenvolvimento
+Cada coluna da Tabela 1 (exemplos do estudo relatado acima) representa uma camada experiencial de jogadores que usam jogos digitais para lidar com a depressao e todas as camadas possuem o mesmo grau de importancia As acoes no jogo (sintagmas verbais) estao atreladas as buscas por algum tipo de alivio (significados) e o que se sugere e que se fossem oferecidas acoes mais significativas (verbos) como dinamicas de jogo estas poderiam fazer com que as buscas por alivio sejam mais bem supridas
+Alguns resultados do estudo foram organizados em uma teia na qual se pudesse visualizar a complexidade do campo semiotico de um jogo digital utilizado casualmente com fim terapeutico uma teia semiotica apresentada na Figura 1 A auto orientacao simbolica do jogador extrapola a linguagem pressuposta do jogo expandindo o lexico do game design para outras possibilidades de verbos acoes mais significativas do que funcionais tornando a dimensao experiencial do jogo em uma dimensao existencial para o jogador
+
+**CONCLUSAO**
+
+Jogos digitais sao sistemas significantes cujos significados nao emergem apenas de seus
+signos orientadores, mas tambem das relaçoes arbitrarias que os jogadores constroem
+com o mundo virtual, atribuindo significados imprevistos. Assim, experiencias de jogo
+dependem da auto-orientaçao simbolica de seus jogadores para resultarem em um “jogar
+significativo" . A ideia de se pensar verbos enquanto açoes
+significativas e projetar dinamicas que nao somente permitam ao jogador fazer coisas,
+mas que facilitem ao jogador existir e se expressar no mundo do jogo, ou seja, se auto-
+orientar. Acredita-se que essa abordagem seria especialmente benefica para jogos com
+fins terapeuticos, pois alcança uma dimensao existencial pouco explorada da depressao.
+Terapias com jogos costumam focar nas dimensoes fisica e cognitiva do transtorno, mas
+carecem de uma visao mais holistica do jogador e suas necessidades subjetivas .
+
+A proposta de continuidade deste estudo e desenvolver, a partir da metodologia
+hibrida (netnografica e semiotica) apresentada, um instrumento de analise (cientifico) e
+construçao (projetual) para jogos digitais terapeuticos, isto e, aplicavel tanto para avaliar
+experiencias de jogos pre-existentes, ja utilizados em intervençoes para depressao, como
+para construir experiencias de novos jogos terapeuticos. Diferentemente dos frameworks
+disponiveis para game design como o MDA ou o DDE , o objetivo da
+teia semiotica e que se possa obter uma visao mais global (menos compartimentalizada)
+da experiencia do mundo do jogo a partir dos verbos ou seja, definindo-se significados
+e verbos norteadores da experiencia desejada, com vies existencial.
+
+Por exemplo ao montar uma teia semiotica de um mundo de “companhia", onde
+se tem “cool companions” e onde o jogador possa “distribuir, participar, partilhar”, seria
+possivel conceber toda a experiencia a partir desta visao, e, olhando-se para qualquer
+elemento isolado (Figura 2), enxergar a teia como um todo, o campo semiotico do jogo.
+Regras e mecanicas projetadas a partir de tal visao permitiriam experienciar companhia,
+tendo companheiros legais, por meio de açoes que envolvessem participar, partilhar,
+distribuir os elementos esteticos transmitiriam a sensaçao de companhia, participaçao
+a trilha sonora soaria como estar acompanhado, partilhando com companheiros legais
+e assim por diante.
+
+No atual contexto de avanço generalizado da depressao, e crucial que se amplie
+o conhecimento sobre potencialidades que nao estao sendo vistas para enfrentamento ao
+transtorno, como as relaçoes que os jogadores depressivos constroem com os ambientes
+virtuais dos games transformando-os em mundos terapeuticos.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho ressalta a importancia de considerar a experiencia subjetiva dos jogadores com depressao ao projetar jogos terapeuticos. A teia semiótica proposta como ferramenta de analise e construcao busca ampliar as possibilidades de auto-orientaçao simbolica dos jogadores, permitindo que encontrem um significado pessoal e um sentido de alivio em suas interaçoes com o mundo virtual.

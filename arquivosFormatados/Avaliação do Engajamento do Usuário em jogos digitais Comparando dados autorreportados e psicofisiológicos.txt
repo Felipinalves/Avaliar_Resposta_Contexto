@@ -1,0 +1,163 @@
+**INTRODUCAO**
+
+O crescimento fenomenal de usuarios utilizando jogos digitais nos ultimos anos deixou
+muitos desenvolvedores e pesquisadores de jogos se perguntando como projetar esses jo-
+gos, visando maximizar a experiencia do jogador (em ingles, Player Experience (PX))
+atraves do engajamento. Entender o que e o engajamento em jogos digitais e compreen-
+der as maneiras pelas quais o envolvimento dos jogos digitais influencia o bem-estar do
+jogador e fundamental para aqueles que desejam projetar experiencias interativas envol-
+ventes.
+
+Um referencial teorico que parece pertinente a pesquisa sobre engajamento e
+bem-estar em jogos e a Teoria da Autodeterminaçao (TAD) .
+A TAD busca examinar como as condiçoes biologicas, sociais e culturais aumentam
+ou prejudicam as capacidades humanas inerentes ao crescimento psicologico, engaja-
+mento e bem-estar . Essa abordagem teorica gerou uma quanti-
+dade consideravel de pesquisas e tem sido aplicada a varios dominios, como educaçao
+, saude , e no ambito da pesquisa de
+usuarios de jogos . Em suma, a TAD identifica tres necessidades
+basicas, cuja satisfaçao e conhecida por aumentar tres resultados primarios desejados da
+experiencia do usuario: motivaçao, engajamento e bem-estar. Portanto, por meio de de-
+sign e testes conscientes, os designers podem se concentrar em atender a essas necessi-
+dades basicas por meio das funçoes, recursos e conteudos de suas tecnologias, a fim de
+melhorar a experiencia e o bem-estar do usuario .
+
+Medir o engajamento e um passo fundamental para entender a experiencia de jogo
+como um todo. Portanto, o uso de metodos formais e validados para investigar esse cons-
+truto e necessario, pois e a partir dele que pode-se assegurar uma experiencia de jogo
+positiva. No entanto, os jogadores tambem podem se envolver com uma experiencia que
+desperta emoçoes como raiva e tristeza devido a narrativa ou o gameplay e isso pode
+ser exatamente o que os designers desejam. Medir o engajamento em jogos pode servir
+como base para investigar o contexto, as motivaçoes e o comportamento dos jogadores
+em relaçao a diferentes elementos e generos do jogo, alem de poder identificar carac-
+teristicas-chave da personalidade dos jogadores. Alem disso, a mediçao do engajamento
+pode auxiliar significativamente na concepçao de jogos e sistemas gamificados mais atra-
+tivos, considerando a segmentaçao e a customizaçao da experiencia do jogador.
+
+As pessoas geralmente tomam decisoes com base em emoçoes recordadas de ex-
+periencias anteriores, como prazer, felicidade, desinteresse, desprezo, entre outros, e, con-
+sequentemente, nao capazes de recordar todos os detalhes de suas experiencias anteriores,
+lembrando-se principalmente de eventos positivos, negativos ou os momentos finais da
+experiencia. Isso e chamado de efeito pico-fim . Esse mesmo efeito
+pode se aplicar para jogadores ao responder um metodo autorreportado, como um ques-
+tionario de avaliaçao de engajamento. Portanto utilizar apenas um metodo autorreportado
+pode nao ser o suficiente para descobrir em quais niveis de engajamento o jogador se
+encontra durante a experiencia.
+
+Nos ultimos anos, varios pesquisadores pretenderam medir o engajamento
+usando uma variedade de tecnicas de coleta de dados, sendo as mais conheci-
+das as medidas de autorrelato e as medicoes psicofisiologicas
+. Indicadores psicofisiologicos tem
+a vantagem de serem mais exatos e poderem ser observados na biologia dos usuarios,
+por exemplo, frequencia cardiaca, analise da atividade eletrica cerebral, e no compor-
+tamento, por exemplo, movimento do olho, cliques do mouse, e coletados ao longo de
+uma interaçao com um sistema. No entanto, embora essas metricas respondam a questao
+do que esta acontecendo durante a interaçao de um usuario com um sistema, elas nao
+abordam o estado cognitivo ou emocional dos usuarios, ambos sao fundamentais para o
+engajamento.
+
+Os metodos autorreportados nao sao tao objetivos quanto as medidas psicofi-
+siologicas, mas oferecem um meio conveniente e eficiente de avaliar a perspectiva dos
+usuarios sobre uma experiencia. Sao amplamente utilizados pela comunidade devido a sua
+facil aplicabilidade em uma grande amostra de participantes e com baixo custo. Um dos
+mais utilizados e o UES [O'Brien and Toms 2010] (do ingles, User Engagement Scale),
+uma escala multidimensional que avalia o engajamento sob os aspectos de atençao focada,
+usabilidade percebida, estetica, novidade, envolvimento sentido e persistencia (em ingles,
+endurability), que e a a probabilidade de o jogador lembrar de coisas que gostou no jogo
+e tem vontade de fazer de novo. Uma variaçao dessa escala e o UES-Br, que representa a
+versao traduzida para portugues do UES original . Alem do UES e
+suas variaçoes, existem outros trabalhos de avaliaçao de engajamento relevantes na area
+de PX
+. Embora esses trabalhos proponham avaliar e mensurar o en-
+gajamento por diferentes meios, nenhum deles apresentam soluçoes que combinam os
+metodos de avaliaçao autorreportados com as medicoes psicofisiologicas no contexto de
+jogos digitais.
+
+Com isso, o proposito desta pesquisa e investigar como os metodos autorreporta-
+dos e as medicoes psicofisiologicas usados em conjunto podem ser usados para criar um
+meio de avaliaçao de engajamento em jogos digitais mais preciso e eficiente. Usaremos
+as descobertas desta pesquisa para explorar como o monitoramento em tempo real do
+engajamento do usuario, atraves de sensores, usados em conjunto com os metodos autor-
+reportados, podem contribuir para um criaçao de um metodo mais robusto de avaliaçao de
+engajamento no contexto de jogos digitais. Uma das principais contribuiçoes esperadas
+para este trabalho e a atualizaçao do UES-Br.
+
+Este resumo esta organizado da seguinte forma: Na Seçao 2 estao definidos os
+principais conceitos para entendimento dessa pesquisa; Na Seçao 3 e feito um compara-
+tivo entre os trabalhos existentes na literatura e este trabalho; Na Seçao 4 e apresentada
+a metodologia de pesquisa explicando como este trabalho sera desenvolvido e avaliado;
+Na Seçao 5 e explanado os aspectos eticos que envolvem esta pesquisa; Na Seçao 6 e
+descrita que soluçao este trabalho propoe para resolver o problema de pesquisa; Por fim,
+na Seçao 7 e apresentada as principais contribuiçoes desta pesquisa.
+
+Base Teorica
+Esta secao esta subdividida nas seguintes subsecoes: Na subsecao 2.1 sao definidos os conceitos inerentes a Teoria da Autodeterminacao e bem-estar. Na subsecao 2.2 e definido o conceito de engajamento.
+
+Teoria da Autodeterminacao e bem-estar
+A Teoria da Autodeterminacao (TAD) e uma perspectiva organismica, que aborda o crescimento psicologico, a integridade e o bem-estar como uma ciencia de vida. A teoria examina como as condicoes biologicas, sociais e culturais aumentam ou prejudicam as capacidades humanas inerentes ao crescimento psicologico do engajamento e bem-estar. O desenvolvimento humano individual e caracterizado pelo engajamento proativo, assimilando informacoes e regulacoes comportamentais e encontrando integracao dentro dos grupos sociais [Ryan and Deci 2017].
+
+O desejo de idealizar a felicidade e um crescimento humano mais profundo ganhou impulso no campo da Interacao Humano-Computador (IHC) nos ultimos anos, e pesquisadores e profissionais tem lutado para transformar esse entusiasmo em uma pratica bem estabelecida [Peters et al. 2018].
+
+Nesse sentido, o trabalho de Peters et al. (2018) propoe auxiliar os desenvolvedores a projetar para o bem-estar, tomando como suporte a TAD [Ryan and Deci 2000], que fornece uma abordagem madura e empiricamente validada para examinar fatores que promovem motivacao e bem-estar. Embora seja uma teoria matizada, em seus tracos mais amplos a TAD identifica um pequeno conjunto de necessidades psicologicas basicas consideradas essenciais para a automotivacao (motivacao intrinseca) e o bem-estar psicologico das pessoas, e cuja negligencia ou frustracao estao associadas ao mal-estar e a angustia. Essas necessidades basicas sao [Peters et al. 2018]:
+
+Autonomia: sentir agente, agir de acordo com seus objetivos, principios e valores;
+
+Competencia: sentir-se capaz e eficaz, apto a lidar com os fatores ambientais;
+
+Relacionamento: sentir-se conectado aos outros, um sentimento de pertencimento inerente ao comportamento social de todo individuo.
+
+Alem das necessidades basicas, a TAD postula as seguintes mini-teorias: A motivacao intrinseca denota a atividade que possui qualidades inerentemente agradaveis. A motivacao extrinseca refere-se a atividade que e motivada por um fator externo, podendo variar na medida em que os resultados se tornam valorizados internamente.
+
+A regulacao externa, por exemplo, e a forma menos autodeterminada de motivacao extrinseca e normalmente ocorre em situacoes em que as pessoas agem para obter uma recompensa ou evitar uma punicao.
+
+A regulacao introjetada descreve uma regulacao que foi parcialmente internalizada, mas nao verdadeiramente aceita como propria. Tais comportamentos sao perseguidos para evitar culpa ou vergonha ou para alcancar sentimentos de auto-estima ou aprovacao. Em contraste, a regulacao identificada decorre da valorizacao consciente de uma atividade como pessoalmente importante.
+
+Por fim, a regulacao integrada e a forma mais autodeterminada de motivacao extrinseca e resulta quando uma atividade e congruente com valores, objetivos e necessidades pessoalmente endossados que ja fazem parte do individuo. A desmotivacao denota a ausencia de motivacao intencional, onde uma pessoa pode nao estar mais ciente do motivo pelo qual exerce uma atividade.
+
+Segundo a TAD, a motivacao intrinseca e uma precursora importante para entender engajamento. Se por um lado a motivacao funciona como forca motriz para as acoes de um individuo, por outro o engajamento consiste em cristalizar essas acoes. Em outras palavras, a motivacao gera o interesse pela acao e o engajamento consolida essa acao.
+
+Engajamento
+Existem uma serie de definicoes de engajamento na literatura, mas especificamente em IHC, o engajamento do usuario (em ingles, User Engagement) e uma qualidade da experiencia do usuario caracterizada pela profundidade do envolvimento de um usuario ao interagir com um sistema digital, sendo vital para todo sistema de sucesso [O'Brien and Toms 2010]. Assim como o fluxo, o jogo, a estetica e a interacao de informacoes, o engajamento se baseia na base de um sistema utilizavel que e eficaz, eficiente e satisfatorio. A estrutura teorica que informa o engajamento integra os atributos do sistema (ou seja, feedback, desafio, apelo sensorial) com as propensoes afetivas do usuario. Assim, o engajamento e conceitualmente uma estrutura holistica para entender a integracao das variaveis do usuario e do sistema, e como elas se combinam para empurrar os limites da experiencia do usuario de meramente superficial para agradavel e memoravel [O'Brien and Toms 2008].
+
+A nocao de engajamento aparece em muitos estudos de PX, aparecendo como um elemento central sempre que os jogadores falam sobre suas experiencias. Isso nao quer dizer que o engajamento durante o jogo seja um conceito totalmente compreendido. Mesmo com um unico jogador engajado em uma unica plataforma, a unidade de analise para engajamento precisa ser cuidadosamente considerada. Por exemplo, o engajamento em um jogo digital pode ser parte de uma unica sessao de jogo ou de uma sessao de jogo inteira ou prolongado por um grande numero de sessoes de jogo. Dependendo de qual unidade de analise e pretendida, o processo de engajamento difere. O engajamento durante o jogo ainda e muito analisado como o resultado de uma determinada sessao de jogo. Embora ja amplamente estudado, o envolvimento durante o jogo esta longe de ser totalmente compreendido [O'Brien and Cairns 2016].
+
+Comparacao da Pesquisa Proposta com Trabalhos Relacionados
+No trabalho de Doherty e Doherty (2018) foi feita uma revisao sistematica que busca reunir os principais conceitos, teorias e metodos de medicao de engajamento na literatura. O objetivo dele e fornecer uma base para pesquisadores e designers que mapeia o estado atual do campo de pesquisa de engajamento. No trabalho sao reunidos diferentes metodos de avaliacao de engajamento ([Brockmyer et al. 2009][Schoenau-Fog 2011][Glasnapp and Brdiczka 2009]), entretanto, alguns deles ([Sun 2014][Song et al. 2013]) nao foram verificados sua eficacia em jogos digitais.
+
+O UES e uma escala de atitude autorreportada amplamente utilizada em pesquisas de usuarios para medir seu engajamento com sistemas interativos, como jogos e aplicativos digitais. O UES-Br [Miranda et al. 2021] trabalho apresenta uma traducao do UES para a lingua portuguesa e sua adaptacao cultural para o contexto brasileiro. O UES-Br pode fornecer dados de engajamento essenciais para pesquisas em jogos, aplicativos gamificados e outros sistemas interativos em paises de lingua portuguesa. O UES-Br atende a necessidade de uma ferramenta de medicao confiavel que pesquisadores e designers possam utilizar com falantes nativos de portugues residentes em qualquer pais. Para atingir um padrao de compreensao adequado, foi usada uma abordagem mista para desenvolver e avaliar UES-Br, que foi considerada bem-sucedida, pois tanto os escores de compreensao quanto os resultados estatisticos foram aceitaveis.
+
+O trabalho de Abbasi et al. (2019) propoe e valida um modelo conceitual para prever o engajamento do consumidor em jogos digitais, compreendendo engajamento cognitivo, afetivo e comportamental originado da experiencia de consumo ludico imaginal, emocional e sensorial. Contudo este trabalho avalia o modelo conceitual apenas atraves de um metodo autorreportado, o questionario.
+
+No trabalho de Bruhlmann e Schmid (2015) foi descrita a analise de dois questionarios amplamente utilizados para medir a experiencia do jogador em jogos digitais, o PENS (do ingles, Player Experience of Need Satisfaction) e o GEQ (do ingles, Game Experience Questionnaire). A fim de contribuir para uma maior validacao e aplicacao significativa do PENS e do GEQ, examinamos a estrutura fatorial subjacente de ambos os questionarios. Apesar desse trabalho comparar dois metodos de avaliacao distintos, eles nao sao especificos para avaliacao do engajamento.
+
+Ja no trabalho de Maia e Furtado (2019) foram utilizadas tres medidas psicofisiologicas nao invasivas combinadas (eletroencefalograma, eletromiografia e resposta galvanica da pele/atividade eletrodermica) para verificar qual delas representa dimensoes da emocao, atraves de experiencias hedonicas. Inclusive, nesse trabalho tambem foi aplicado o UES (atraves de um questionario), a fim de saber a opiniao do usuario sobre o engajamento em cada experiencia e a dificuldade do uso dos sensores. Contudo esse trabalho nao foi aplicado no contexto de jogos digitais, alem de ter utilizado uma versao do UES que nao foi traduzida formalmente para nativos da lingua portuguesa.
+
+Todos os trabalhos citados acima, embora investiguem o engajamento sob diferentes metodos de avaliacao, nenhum deles propoem comparar e/ou combinar os resultados obtidos dos metodos autorreportados e das medicoes psicofisiologicas no contexto de jogos digitais.
+
+Metodologia de Pesquisa
+Inicialmente, foi definido o tema e a problematica desta pesquisa, sendo identificado que nenhum trabalho do estado-da-arte propoe comparar os resultados de metodos autorreportados com os dados obtidos a partir das medicoes psicofisiologicas aplicadas no jogador. Para embasar o problema de pesquisa, foi feita uma revisao da literatura, tendo como apoio de um estudo terciario, a fim de identificar os trabalhos do estado-da-arte e qual era o gap deles.
+
+Atualmente esta sendo feito o planejamento dos experimentos, definindo quais sensores serao utilizados para realizar as medicoes psicofisiologicas, qual grupo de individuos queremos focar como nosso objeto de estudo, quais jogos digitais serao avaliados e qual o passo-a-passo definido para conduzir os experimentos. O metodo autorreportado escolhido e o UES-Br, que sera aplicado na forma de questionario para os participantes. Os sensores escolhidos sao a eletromiografia, a eletrocardiografia, o sensor de respiracao indutiva e o monitoramento da atividade eletrodermica. Esses sensores serao montados utilizando a plataforma de hardware do BITalino. O jogo escolhido para a experimentacao e o Water Sort Puzzle, um jogo mobile que e desafiador e envolvente, ao apresentar varios diferentes quebra-cabecas ao usuario.
+
+Com os experimentos planejados, iremos submeter o projeto para o Comite de Etica em Pesquisa da Universidade Federal do Ceara (CEP-UFC), onde, apos sua aprovacao, poderemos aplicar os experimentos e analisar os resultados obtidos. Os dados resultantes desses experimentos serao analisados estatisticamente e interpretados, a fim de identificar quais aspectos do engajamento cada metodo envolveu, e, a partir disso, poderemos compor um novo metodo de avaliacao de engajamento.
+
+Procedimentos utilizados para garantir os aspectos eticos
+Todo projeto de pesquisa envolvendo seres humanos deve atender a Resolucao nº 466/2012 do Conselho Nacional de Saude [Resolucao ], sendo o Comite de Etica o orgao responsavel por todo projeto de pesquisa envolvendo seres humanos, atraves da avaliacao de protocolos de pesquisas e acompanhamento dos aspectos eticos. Por conta disso, para garantir que os experimentos conduzidos neste trabalho sejam validos e garantam protecao e privacidade aos participantes, sera feita a elaboracao dos documentos necessarios para submissao ao CEP-UFC.
+
+Solucao Pretendida
+Para solucionar o problema identificado estao sendo desempenhadas as seguintes atividades:
+
+No estudo terciario iremos compilar e analisar dos trabalhos do estado-da-arte que propoem novos metodos de avaliacao de engajamento no ambito de PX.
+
+No planejamento do experimento sera feita a definicao de qual amostra da populacao buscamos estudar, quais jogos mobile serao analisados e quais sensores sao mais indicados para esse tipo de estudo.
+
+Com a aplicacao dos experimentos, seremos capaz de capturar diferentes niveis de engajamento e como o uso desses sensores podem impactar positivamente e negativamente durante a experiencia do jogador.
+
+Analise estatistica: Por fim, sera feita a analise estatistica dos dados capturados pelos sensores e pelo questionario final.
+
+Contribuicao Esperada
+A contribuicao principal deste trabalho sera a criacao de um novo metodo de avaliacao de engajamento, atraves da atualizacao do UES-Br. Com a identificacao de como uma experiencia engajadora pode ser analisada por diferentes perspectivas sera possivel tracar novos meios sob os quais jogadores podem vivenciar interacoes mais engajadoras.
+
+**CONSIDERACOES FINAIS**
+
+A presente pesquisa busca contribuir para aprofundar o conhecimento sobre a avaliaçao do engajamento em jogos digitais, combinando metodos autorreportados e medicoes psicofisiologicas. A expectativa e que os resultados obtidos possam auxiliar no desenvolvimento de ferramentas mais precisas e eficientes para mensurar o engajamento, possibilitando a criaçao de experiencias de jogo mais imersivas e satisfatorias para os jogadores.

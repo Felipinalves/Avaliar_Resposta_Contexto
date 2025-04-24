@@ -1,0 +1,116 @@
+**RESUMO**
+
+Este documento apresenta uma sintese do artigo "Preventing acces-
+sibility barriers Guidelines for using user interface design patterns in
+mobile applications", publicado no The Journal of Systems & Software.
+O objetivo do artigo foi propor um conjunto de recomendaçoes para
+auxiliar desenvolvedores/designers a utilizarem padroes de design
+de interface na construçao de aplicaçoes para dispositivos moveis
+evitando a inserçao de barreiras de acessibilidade na interface.
+
+**INTRODUCAO**
+
+Atualmente, os dispositivos moveis representam aproximadamente
+52% do mercado quando comparados aos desktops. No entanto, as
+barreiras de acessibilidade que os usuarios com ou sem deficiencia
+enfrentam em plataformas desktop tambem podem ser um prob-
+lema para usuarios de dispositivos moveis . Em muitos casos,
+problemas com a interface do usuario podem levar a barreiras de
+acessibilidade que sao condiçoes que tornam a interaçao mais dificil.
+Yesilada et al.  examinou uma serie de barreiras que as pessoas
+com deficiencia enfrentam ao interagir com o conteudo da web,
+que foram classificadas em quatro principios perceptivel, operavel,
+compreensivel e robusto (o conteudo deve ser robusto o suficiente
+para ser interpretado de forma confiavel por uma ampla variedade
+de agentes de usuario, incluindo Tecnologias Assistiva). Os autores
+indicam que a barreira e imposta a partir do nao atendimento de
+tais principios. Existem diversas formas que podem ser usadas para
+buscar se evitar a introduçao de barreiras de acessibilidade durante
+o desenvolvimento de software, sendo que uma delas e o uso de
+Padroes de Projeto. Projetar aplicativos moveis e um desafio devido
+a suas caracteristicas especiais e, por isso, padroes de projeto tem
+sido examinados na literatura para descrever experiencias e auxiliar
+no projeto de novos aplicativos . Em especial, diretrizes (guide-
+lines) representam o conhecimento prescritivo de forma abstrata e
+sao vistas como boas praticas que os desenvolvedores e designers
+devem seguir. Considerando o desenvolvimento de aplicaçoes para
+dispositivos moveis, os padroes de design design patterns de inter-
+face tem sido amplamente adotados . Existem varios padroes de
+design de interface para dispositivos moveis, no entanto, eles nem
+sempre consideram questoes de acessibilidade em suas descriçoes.
+
+Neste sentido, o artigo "Preventing accessibility barriers Guide-
+lines for using user interface design patterns in mobile applications"
+ propoes um conjunto de guidelines que auxiliem o desenvolve-
+dor/designer de software a prevenir, ou pelo menos mitigar, os
+problemas mais frequentemente encontrados na forma de barreiras
+de acessibilidade em interfaces dos usuarios de aplicativos moveis.
+
+**ACCESSGUIDE**
+
+A construçao das guidelines foi realizada a partir de uma revisao
+da literatura cinza (GL - Gray Literature). A GL e composta por
+conteudos que sao produzidos por profissionais que relatam suas
+praticas na adoçao de algum metodo ou tecnica e ficam disponiveis
+em fontes como blogs, sites e noticias artigos . E considerada uma
+fonte de evidencia em pesquisa academica e se constitui em uma
+rica fonte de conhecimento pratico que pode apoiar na identificaçao
+e criaçao de guidelines . Considerou-se as palavras-chave acces-
+sibility, mobile e user interface design patterns que foram aplicadas
+em fontes conhecidas por profissionais por trazerem conhecimento
+sobre o uso de padroes de interface do usuario. Para que houvesse
+maior foco no estudo, direcionou-se a pesquisa para padroes uti-
+lizados em intefaces para Android.
+
+Como resultados obteve-se 127 documentos de fontes online e foi
+realizada uma analise qualitativa baseada na tecnica de codificaçao.
+A partir da analise qualitativa, foi possivel mapear as diferentes
+barreiras de acessibilidade que foram relacionadas a uma lista de
+padroes de interface. Como havia um conjunto extenso, optou-
+se por concentrar na descriçao daqueles que possuiam maiores
+ocorrencias de descriçoes de barreiras de acessibilidade encontradas
+na GL. Desta maneira, focou-se nos seguintes padroes Hamburger
+Menu, Tab Nav, List and Pagination, Carousel, Sliders, Select and
+Dropdown, Input, Data Tables, e Icons.
+
+Apos mapear as barreiras de acessibilidade, o catalogo ("Access-
+Guide")  (acronimo para Accessibility Guidelines) foi desenvolvido.
+Para cada padrao, foi realizada uma nova analise e guidelines foram
+elaboradas, visando estimular o uso dos padroes e evitando a ocorrencia de barreiras de acessibilidade. Como o publico-alvo e composto por profissionais (desenvolvedores e designers de aplicativos
+moveis de interface do usuario), foi adotada linguagem simples
+e pratica na redacao do catalogo. No total, foram definidas 61
+guidelines. A titulo de ilustracao, tem-se a seguir, as guidelines relacionadas ao padrao Hamburger Menu.
+
+Definicao - o Hamburger Menu e um padrao de interface usado principalmente para aplicativos moveis que envolvem a exibicao de opcoes de navegacao que estao inicialmente ocultas e que podem ser acionadas com o clique de um botao.
+Barreiras de acessibilidade - no Hamburger Menu, a navegacao fica oculta para os usuarios; os que nao tem conhecimento previo deste padrao, nao percebem que o menu pode ser acessado clicando em um botao. O icone desse menu oferece pouco indicio informativo e, mesmo com um rotulo Menu, os usuarios ainda podem nao conseguir navegar, pois nao sabem quais opcoes estao disponiveis e podem ate nao clicar no botao.
+Guidelines - ao lidar com padroes que afetam diretamente a descoberta de conteudo, a solucao nem sempre e simples. No entanto, diretrizes eficazes podem ser:
+usar termos apropriados e explicativos para os itens do menu;
+evitar criar muitos itens de menu. Isso pode levar a uma extensa lista de opcoes que sao facilmente ignoradas e, as vezes, nao sao bem exibidas em dispositivos moveis;
+embora o menu possa ser exibido, vale a pena informar aos usuarios as principais opcoes de navegacao que estao disponiveis, na pagina inicial.
+
+**AVALIAÇAO DO ACCESSGUIDE E CONTRIBUIÇOES**
+
+Para avaliaçao das guidelines foi adotado um estudo no formato
+de experimento nao-controlado . Foram realizadas buscas por
+propostas semelhantes ao "AccessGuide", mas a maioria delas esta-
+belecia diretrizes para ajudar a visualizar o conteudo e nao eram
+diretrizes de acessibilidade relacionadas a padroes de interface para
+dispositivos moveis. A avaliaçao buscou observar a forma como as
+guidelines eram usadas por desenvolvedores/designers de software
+e a aceitaçao dessas guidelines. Seguiu-se as orientaçoes de Lazar
+et al.  para organizar o estudo. O estudo contou com 60 partici-
+pantes com experiencia no nivel de desenvolvedores iniciantes. Eles
+usaram as guidelines para construir 60 soluçoes (ou seja, 288 pro-
+totipos de interface do usuario de fidelidade baixa). Para explorar o
+uso das guidelines, foi conduzida uma analise qualitativa em todos
+os prototipos comparando as soluçoes dada pelos participantes com
+uma soluçao baseline. Foi verificado se as guidelines haviam sido
+aplicadas e se haviam sido aplicadas corretamente. A aceitaçao das
+guidelines por parte dos participantes foi coletada a partir de um
+questionario de feedback e de discussoes conduzidas em grupos de
+foco.
+
+No artigo completo e possivel encontrar uma extensa apresentacao dos resultados em diferentes perspectivas. De forma sucinta, pode-se afirmar que os resultados revelaram que os participantes nao tiveram dificuldades na aplicacao das guidelines em seus prototipos. Contudo, parte dos participantes reportou a necessidade de estender os exemplos de aplicacao das guidelines. Os resultados tambem revelaram que os participantes consideraram as guidelines uteis e faceis de serem utilizadas. Alem disso, os participantes relataram que o AccessGuide pode ajuda-los a melhorar suas habilidades quanto a aplicacao dos padroes de interface. Nosso artigo apresenta contribuicoes academicas e praticas. Do ponto de vista academico, foi apresentada uma metodologia para construcao de guidelines a partir da GL, de forma sistematizada, que culminou na elaboracao do catalogo com os padroes. Do ponto de vista pratico, o catalogo se constitui um apoio importante que pode ser utilizado por desenvolvedores/designers que atuam na industria.
+
+**CONCLUSAO**
+Este trabalho apresenta um valioso conjunto de diretrizes para o desenvolvimento de interfaces de aplicativos moveis mais acessiveis, destacando a importancia de considerar as necessidades de todos os usuarios, incluindo aqueles com deficiencia. Ao seguir as recomendaçoes propostas, desenvolvedores e designers podem criar aplicativos mais inclusivos e proporcionar uma melhor experiencia do usuario para todos.

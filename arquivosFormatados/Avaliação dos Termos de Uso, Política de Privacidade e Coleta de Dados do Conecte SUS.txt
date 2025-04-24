@@ -1,0 +1,121 @@
+**RESUMO**
+
+Com o surgimento da pandemia do Coronavirus e apos a producao de
+vacinas para proteger a populaçao, o aplicativo Conecte SUS se tornou ampla-
+mente utilizado ja que preve a integraçao das informaçoes de saude do cidadao,
+como, por exemplo, o controle e emissao do Certificado Nacional de Vacinaçao
+COVID-19. Assim, sendo possivel ter o controle vacinal da populaçao, alem
+de permitir maior segurança para eventos em lugares fechados. Com a sançao
+da Lei Geral de Proteçao de Dados (LGPD) em 2020, a coleta e manipulaçao
+dos dados dos usuarios tornou-se ainda mais discutida por empresas e pesqui-
+sadores. Seguindo este contexto, o objetivo deste trabalho e avaliar os Termos
+de Uso, Politica de Privacidade e coleta de dados do Conecte SUS, nesta pes-
+quisa, foram realizadas as aplicaçoes dos metodos de avaliaçao por inspeçao
+(Percurso Cognitivo) e de extraçao de opiniao (Questionario).
+
+**INTRODUCAO**
+
+A relaçao usuario-tecnologia tem sido apoiada por interfaces cada vez mais estruturadas
+e intuitivas, contribuindo para que a coleta de dados, muitas vezes, ocorra de forma im-
+perceptivel ao usuario, tornando-o insciente sobre a coleta realizada pelos detentores de
+dados . Com a promulgaçao da Lei Geral de Proteçao de Dados (LGPD),
+a privacidade, coleta e administraçao desses dados se tornam ainda mais discutidas por
+empresas e pesquisadores.
+
+Devido a pandemia causada pelo (COVID-19) no mundo todo, houve-se a neces-
+sidade de armazenar as informaçoes referentes a vacinaçao da populaçao para controlar a
+transmissao do virus apos a liberaçao da circulaçao de pessoas em ambientes compartilha-
+dos. No Brasil, a utilizaçao do aplicativo Conecte SUS se popularizou devido a facilidade
+de acesso a essa informaçao para a apresentaçao do comprovante de vacinaçao na entrada
+de bares, restaurantes, cinemas e shows, alem de possuir informaçoes relevantes como
+resultados de exames, medicamentos, informaçoes sobre atendimentos e internaçoes, etc.
+
+Visando avaliar os Termos de Uso, Politica de Privacidade e coleta de da-
+dos do Conecte SUS, nesta pesquisa, foram realizadas as aplicaçoes dos metodos
+de avaliaçao por inspeçao (Percurso Cognitivo) e de extraçao de opiniao (Ques-
+tionario) , sendo o primeiro para analisar o percurso do usuario no
+aplicativo para se chegar nas informaçoes sobre a manipulaçao de seus dados e o segundo
+para obter informaçoes sobre o conhecimento dos usuarios em relaçao aos Termos de Uso,
+Politica de Privacidade e coleta de dados.
+
+**RESULTADO PERCURSO COGNITIVO**
+
+No metodo de Percurso Cognitivo, foram definidas as seguintes tarefas:
+
+A Tarefa I visa realizar o percurso no aplicativo para encontrar os Termos de Uso.
+A Tarefa II visa realizar o percurso para encontrar a Politica de Privacidade no
+aplicativo.
+O objetivo da Tarefa III e realizar o percurso no aplicativo para acessar as duvidas
+frequentes e entao obter informaçoes sobre a manipulaçao dos dados do usuario.
+A partir das tarefas definidas, os avaliadores chegaram nas seguintes respostas
+para as questoes descritas abaixo:
+
+P1 O usuario vai tentar atingir o objetivo correto?
+
+Na Tarefa I, os avaliadores concluiram que os usuarios do aplicativo vao conseguir
+atingir o objetivo correto. Uma possivel dificuldade na conclusao desta tarefa estaria no
+primeiro passo, apresentado no item (a) da Figura 1, onde o usuario deve associar que
+os Termos de Uso estarão contidos no menu Mais Servicose para isso, acessar o menu
+"Mais"para chegar nas informaçoes do Termo de Uso.
+
+Na Tarefa II, foi identificado que poderia surgir a mesma dificuldade da Tarefa I,
+alem de ter duas possibilidades distintas para acessar as Politicas de Privacidade, possi-
+velmente deixando o usuario confuso se ambas informaçoes sao iguais, mas ainda assim
+possibilitando o mesmo de chegar no seu objetivo.
+
+Concluiu-se, na Tarefa III, que os usuarios conseguirao atingir o objetivo de aces-
+sar as Duvidas Frequentes, porem nao conseguirao encontrar nenhuma informaçao refe-
+rente aos Termos de Uso, Politica de Privacidade e coleta de dados do aplicativo.
+
+P2 O usuario vai notar que a açao correta esta disponivel?
+
+Da mesma forma que comentado anteriormente, os avaliadores acreditam que a
+maior dificuldade do usuario sera em associar a correta distribuiçao das informaçoes na
+aba "Mais". Somente apos essa açao do usuario, as tres opçoes buscadas ficarao mais
+visiveis. Isso acontece nas tarefas I, II e III.
+
+P3 O usuario vai associar a açao correta com o objetivo que esta tentando atin-
+gir?
+
+Na tela inicial do aplicativo o usuario nao ira encontrar seu objetivo, e ao realizar a
+açao correta ira encontrar mais opçoes que façam sentido com seu objetivo, essa afirmaçao
+vale para as tarefas I, II e III ja que ambas possuem os mesmos passos iniciais.
+
+P4 Se a açao for executada corretamente, o usuario vai perceber que esta pro-
+gredindo na direçao de concluir a tarefa?
+
+Nas tarefas I e II o usuario consegue perceber que esta progredindo na direçao
+de concluir a tarefa, porem na Tarefa III o usuario nao conseguira encontrar informaçoes
+referentes a manipulaçao de seus dados seguindo esses passos.
+
+**RESULTADO QUESTIONARIO**
+
+O questionario aplicado contou com a colaboraçao de 50 participantes. A seguir discor-
+reremos sobre as questoes apresentadas para os participantes e as respostas recebidas.
+
+Todos os participantes concordaram em participar da pesquisa por livre e espontanea vontade apos a leitura do TCLE [Souza et al. 2013]. Seguindo para o primeiro topico, os participantes foram questionados sobre seus conhecimentos sobre os dados coletas pelo aplicativo, 40 deles informaram que nao tinham conhecimento sobre os dados e dos 10 que tinham, dentre as respostas mais frequentes, estavam: "dados pessoais", "email", "endereco", "CPF", "RG", "telefone" e "situacao vacinal"; respostas coerentes no contexto inserido.
+
+No topico de manipulacao de dados, 44 dos 50 participantes responderam que nao sabiam como seus dados estavam sendo utilizados pelo aplicativo e 6 deles sabiam. Dentre os que sabiam, alguns efetuados feitos foram os seguintes: "usados para evidencias cientificas e para estabelecer politicas publicas", "servem como sistema de informacao", "sao utilizados por empresas de marketing que de baseando pelos dados dos algoritmos criam conteudos capazes de captar minha atencao"; respostas em diferentes aplicacoes, mas que podem ser consideradas validas considerando as discussoes sobre manipulacao dos dados que ocorrem diariamente na sociedade.
+
+Na etapa de seguranca, 21 participantes nao souberam opinar sobre a seguranca de seus dados no aplicativo, 15 sentem que seus dados estao seguros e 14 acreditam que nao estao seguros. A maioria dos participantes nao soube opinar se seus dados estao ou nao seguros na plataforma, o que leva ao questionamento se o participante nao se importa com as questoes de seguranca ou nao teve evidencias o suficiente para formar uma opiniao.
+
+Por fim, no topico de leitura dos Termos de Uso e Politica de Privacidade, 22 dos 50 participantes informaram nunca ler os Termos de Uso e/ou a Politica de Privacidade de aplicativos, ou sites, 18 raramente leem, 4 leem as vezes, 4 ocasionalmente, 1 le apenas se mostra poucas informacoes ou resumidamente as mais importantes e 1 participante sempre realiza a leitura. Dados representados na Figura 1. Da leitura dos Termos de Uso e Politica de Privacidade do aplicativo Conecte SUS, 41 participantes nao realizaram a leitura e dos 9 que realizaram, para 7 deles as informacoes estavam claras e 2 nao acharam as informacoes claras o suficiente. Dentre os 41 participantes que nao leram, 37 deles argumentaram o porque de nao terem lido e 4 preferiram nao responder. Dentre as respostas recebidas, destacam-se comentarios como: "muito extenso", "costume de somente aceitar", "pressa em utilizar o servico", "normalmente gigantescos e nao objetivos". Considerando as respostas recebidas neste topico, e evidente a necessidade de uma nova abordagem de apresentacao dessas informacoes para engajar usuarios do aplicativo a realizarem a leitura.
+
+**CONCLUSAO**
+
+Com base nos resultados obtidos podemos concluir que (i) mesmo que o aplicativo se
+mostre efetivamente simples (com poucos passos) para obtençao de dados sobre Politica
+de Privacidade, Termos de Uso e coleta de dados, os usuarios nao tem o costume de ler os
+termos citados anteriormente; (ii) os usuarios nao leem os Termos de Uso por considerá-
+los muito extensos e maçantes e (iii) a maioria dos usuarios nao tem conhecimento sobre
+quais dados sao coletados e para que sao utilizados.
+
+Acreditamos que para aumentar o engajamento da leitura dos termos de utilizaçao,
+os profissionais da area de IHC poderiam desenvolver um termo resumido com uma lin-
+guagem clara e acessivel, ou a criaçao de algum outro material informativo como vídeos,por exemplo, ou ainda como proposto por [Kobayashi and dos Reis 2020] a utilizacao de alguma ferramenta de inteligencia artificial que rotule as informacoes contidas no texto para auxiliar os usuarios a pelo menos encontrar as informacoes mais crıticas sobre sua privacidade e coleta de dados.
+Por fim, os metodos utilizados nos pareceram adequados, pois, por meio deles, foi possıvel um aprofundamento nos resultados obtidos. Consideramos que esse trabalho
+sera benefico para profissionais que busquem entender o comportamento dos usuarios em relacao a baixa adesao da Leitura dos Termos de Uso e Polıticas de Privacidade e tambem, para profissionais que estejam elaborando os mesmos.
+
+**CONCLUSAO**
+
+Em sintese, este estudo evidenciou que, apesar da relativa facilidade de acesso as informaçoes de privacidade no aplicativo Conecte SUS, os usuarios geralmente nao se dedicam a leitura dos Termos de Uso e da Politica de Privacidade. Essa falta de conhecimento sobre quais dados sao coletados e como sao utilizados levanta questoes importantes sobre a autonomia e a consciencia dos usuarios em relaçao a sua informaçao pessoal. E fundamental que profissionais de IHC desenvolvam estrategias inovadoras para tornar esses documentos mais acessiveis e atraentes, promovendo assim uma maior transparencia e controle dos usuarios sobre seus dados.

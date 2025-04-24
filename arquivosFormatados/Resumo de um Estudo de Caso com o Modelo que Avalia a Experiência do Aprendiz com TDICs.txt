@@ -1,0 +1,166 @@
+**INTRODUCAO**
+
+O termo Experiencia do Aprendiz (Learner eXperience - LX) e um conceito derivado de
+Experiencia do Usuario (User eXperience - UX) [Kawano et al. 2019]. A LX e definida
+como percepçoes, respostas e desempenhos dos aprendizes por meio da interaçao com
+tecnologias educacionais [Huang et al. 2019]. Nesse sentido, Soloway et al. (1994) in-
+troduzem o termo Aprendiz, utilizando para se referir aos alunos que estao em constante
+aprendizado ou aos profissionais que se colocam em posiçao de aprender, submetendo-se
+a todos os desafios enfrentados ao utilizar as Tecnologias Digitais de Informaçao e Co-
+municaçao (TDICs). Assim, se sentiu a necessidade de criar experiencias que facilitem a
+aprendizagem e o dominio do conhecimento [Correa et al. 2021] e suporte para as expe-
+riencias de aprendizagem em atividades que estao fora do alcance do aprendiz, buscando
+o protagonismo dele no processo de aprendizagem [Soloway et al. 1994].
+
+Huang et al. (2019) recomendam que a LX seja avaliada de forma abrangente, le-
+vando em consideraçao a diversidade dos aprendizes e suas preferencias de aprendizagem,
+para que todos os aspectos das experiencias sejam avaliados. Com base nessa necessidade,
+foi proposto o Learner Experience Evaluation Model (LEEM), que visa avaliar a LX com
+o uso de TDICs. O LEEM possui tres etapas de avaliaçao, sendo: uma pre-avaliaçao, uma
+avaliaçao-durante e uma pos-avaliaçao. O LEEM consiste em tres checklists e um con-
+junto de perguntas. O LEEM permite o monitoramento e o registro continuo do progresso
+de LX. Alem disso, em cada etapa e possivel utilizar diferentes formas de avaliar a LX,
+gerando assim a possibilidade de avaliar varios elementos da LX.
+
+Portando, este artigo apresenta um estudo de caso realizado para avaliar a LX
+e suas possiveis melhorias por meio do uso do LEEM em um contexto real. A questao de pesquisa deste estudo e: “O LEEM apoia a avaliacao e melhoria da LX durante
+uma atividade educacional real usando TDICs?”. As respostas dos participantes foram
+obtidas por meio dos checklists e do conjunto de perguntas abertas do LEEM, as quais
+foram analisadas de forma quantitativa e qualitativa. Os resultados mostraram que, para
+alguns aprendizes, a atividade educacional gerou desafios, como gerenciar um projeto e
+exigiu uma maior dedicacao para encontrar materiais de apoio. Para outros, a atividade
+educacional os deixou em sua zona de conforto, ou seja, nao gerou novos desafios.
+
+
+**ESTUDO DE CASO**
+
+O estudo consistiu na avaliaçao das experiencias dos aprendizes usando o modelo LEEM.
+Nesse sentido, participaram 23 aprendizes e uma professora da disciplina de Engenharia
+de Software (ES) dos cursos de Ciencia da Computaçao e Informatica Biomedica (CCM
+& IBM) da Universidade Federal do Parana (UFPR) no Brasil. Este estudo foi aprovado
+pelo Comite de Etica em Pesquisa (CEP) da instituiçao dos pesquisadores.
+
+A atividade educacional pratica em que o LEEM foi utilizado para avaliar o LX
+foi a ultima atividade pratica da disciplina de ES. O objetivo desta atividade pratica foi
+realizar um plano de desenvolvimento de software, considerando uma das metodologias
+de desenvolvimento de software ja predefinidas em uma atividade anterior da mesma dis-
+ciplina. Esta atividade foi organizada em duas etapas, elaboraçao de um relatorio e sua
+apresentaçao. Em relaçao a formaçao dos grupos, a professora orientou que cada grupo
+deveria ter no maximo tres membros, e preferencialmente deveria ser mantido o mesmo
+grupo da atividade anterior. E tambem, a professora permitiu os aprendizes escolherem
+as TDICs para fazer esta atividade educacional.
+
+Os aprendizes que concordaram em participar do estudo realizaram as seguintes
+etapas: (1) assinaram o Termo de Consentimento Livre e Esclarecido (TCLE); (2) pre-
+encheram o questionario de caracterizacao; (3) responderam o checklist da pre-avaliaçao
+do LEEM; (4) concluiram 50% da atividade educacional; (5) responderam o checklist de
+avaliaçao-durante do LEEM; (6) concluiram os outros 50% da atividade educacional; e
+(7) responderam o conjunto de questoes da pos-avaliaçao do LEEM.
+
+A professora realizou as seguintes etapas do estudo: (1) a professora, que con-
+cordou em participar do estudo, assinou o TCLE; (2) preencheu o questionario de carac-
+terizaçao; (3) propos uma atividade educacional na forma de atividade pratica para sua
+classe; (4) apos os aprendizes terem realizado 50% da atividade educacional, a professora
+respondeu o checklist de avaliaçao-durante do LEEM (professora); e (5) apos os aprendi-
+zes terem terminado a atividade educacional, a professora assistiu a apresentaçao de cada
+grupo e os avaliou.
+
+A partir dos resultados obtidos neste estudo, os dados quantitativos foram ana-
+lisados por meio de estatistica descritiva, observando as respostas dos participantes so-
+bre os pares de palavras, as escalas SAM e Likert utilizadas nas etapas de pre-avaliaçao
+e avaliaçao-durante do LEEM. Para a analise qualitativa, os dados foram limpos, co-
+dificados e, entao, organizados, seguindo as etapas do metodo Grounded Theory (GT)
+[Service 2009]. Para o GT, os dados foram codificados conforme a resposta dada por
+cada participante na etapa de pos-avaliaçao do LEEM. Posteriormente, os codigos fo-
+ram agrupados de acordo com suas propriedades e relacionados entre si, formando assim
+categorias que representam suas caracteristicas.
+
+**RESULTADOS**
+
+Os resultados do checklist de pre-avaliaçao mostram que para o par de palavras agir
+versus reagir", 48% (N = 11) dos aprendizes responderam de 41 a 60 (respostas neu-
+tras), enquanto para o par de palavras participativo versus timido", 52% (N = 12) dos
+aprendizes responderam de 61 a 80 (respostas mais timidas). Isso mostra que mais da
+metade dos aprendizes se consideravam timidos. Alem disso, esses aprendizes se con-
+sideravam neutros quando se tratava de agir e/ou reagir. Acredita-se que, ao identificar
+essas caracteristicas dos aprendizes, se o professor desejasse usar essas informaçoes para
+formar grupos, ele poderia equilibrar melhor esses grupos para que nao houvesse apenas
+aprendizes timidos no mesmo grupo, por exemplo. Os dados obtidos no checklist de pre-
+avaliaçao podem contribuir para a atribuiçao dos aprendizes a cada grupo. No entanto,
+vale ressaltar que cabe ao professor decidir se usara os dados deste checklist para formar
+grupos ou nao.
+
+Para o checklist de avaliaçao-durante (aprendiz), os resultados mostram que
+17,39% (N = 4) dos aprendizes responderam tristemente quando perguntados sobre como
+se sentiram emocionalmente no dia em que responderam o checklist (Q1). Acredita-se
+que esses poucos participantes se declararam tristes, pois a atividade educacional da qual
+participaram ja era a ultima da disciplina, e nao gerou entusiasmo ou qualquer sentimento
+de felicidade. Por outro lado, 34,79% (N = 8) dos aprendizes responderam felizes, ou
+seja, estavam se sentindo felizes no dia que responderam o checklist.
+
+Ja para o checklist de avaliaçao-durante (professor), os resultados mostram que
+a professora nao discordou de nenhuma sentenca. Acredita-se que a percepçao da profes-
+sora ao observar os aprendizes realizando a atividade educacional e consistente com as
+autoavaliaçoes dos aprendizes. Por exemplo, a maioria dos aprendizes no checklist gos-
+taram de trabalhar coletivamente (Q6), mas alguns relataram que nao tiveram uma boa
+experiencia. Isso tambem foi percebido pela professora, por meio de sua resposta a Q3,
+onde ela concordou parcialmente que os aprendizes gostaram de trabalhar coletivamente.
+
+Na pos-avaliaçao, ha um conjunto de 11 questoes abertas, analisadas qualitativa-
+mente. Esta analise teve como objetivo avaliar a LX dos aprendizes apos a conclusao da
+atividade educacional. Para esta analise, foi utilizada a ferramenta Atlas.ti versao 7. Por
+exemplo, para o tema comentarios gerais sobre a experiencia da atividade, o aprendiz
+P10 relatou: no inicio (da atividade educacional) eu nao estava tao interessado, mas,
+conforme fui aprendendo com os materiais disponiveis, meu interesse aumentou". Por
+ser uma atividade colaborativa, P9 disse que foi bastante dificil encontrar tempo em que
+todos pudessem trabalhar juntos e tirar duvidas sobre conflitos. No final, alguns membros
+participaram mais". P11 relatou que sua contribuiçao para a atividade foi necessaria para
+que ela fosse concluida. Acredita-se que, por se tratar de uma atividade educacional que
+estava sendo realizada no final do curso, isso teve um impacto na dedicaçao e experiencia
+dos aprendizes, o que e confirmado pelo relato de P18 de que o aprendiz estava ocupado
+com muitas outras coisas", e por isso nao conseguiu se dedicar totalmente a essa atividade
+educacional. Por outro lado, o aprendiz P10 ressalta que nao havia feito uma atividade
+educacional como essa antes e que teve um impacto positivo" em sua experiencia.
+
+**DISCUSSOES**
+
+Gostariamos de enfatizar que um dos resultados da pre-avaliaçao do LEEM foi que P10
+acreditava que as TDICs poderiam ajuda-lo a se concentrar ao realizar uma atividade
+educacional. Por sua vez, no checklist de avaliaçao-durante, este mesmo aprendiz relatou
+que preferiu usar TDICs para realizar a atividade educacional (Q8). Por fim, na pos-
+avaliaçao, ele tambem relatou que a atividade educacional com TDICs e interessante. Ele
+tambem destacou que, embora nao estivesse interessado no inicio da atividade, a medida
+que aprendia com os materiais fornecidos e usando os TDICs disponiveis, seu interesse
+foi aumentando.
+
+Em suma, as principais experiencias identificadas no LEEM, por meio deste es-
+tudo, sao o monitoramento dos dados obtidos por meio das etapas do LEEM (pre, durante
+e pos), descrito na Seçao 3. Isso mostra que houve aprendizes que nao estavam interessa-
+dos no inicio da atividade educacional, mas, a medida que a experiencia progredia, seus
+interesses mudavam. Alem disso, por ser uma atividade colaborativa, foi possivel perce-
+ber a importancia da comunicaçao e da responsabilidade, onde a experiencia foi diferente
+para a maioria dos aprendizes, por exemplo, alguns nao gostaram de trabalhar colabo-
+rativamente, alguns trabalharam bem e um aprendiz decidiu fazer a atividade sozinho.
+Portanto, respondendo a questao de pesquisa deste estudo, pode-se dizer que o objetivo
+do LEEM foi alcançado, pois por meio dele foi realizada a avaliaçao da LX ao longo da
+atividade educacional. Alem disso, observou-se que o LEEM se mostrou util no suporte a
+melhoria das experiencias dos aprendizes no uso das TDICs em atividades educacionais.
+
+**CONCLUSAO**
+
+Este artigo tem como objetivo apresentar um estudo de caso para avaliar a LX em contexto
+real com uma turma de aprendizes e sua respectiva professora. Por meio dos resultados
+obtidos com o LEEM, a professora e os aprendizes puderam avaliar a LX e identificar
+pontos de melhoria na atividade educacional realizada. Os dados obtidos por meio do
+LEEM tambem podem ser utilizados para que a professora repense suas estrategias de
+ensino ao perceber as experiencias negativas relatadas pelos aprendizes.
+
+Em trabalhos futuros, pretendemos avaliar a aceitaçao dos aprendizes e da profes-
+sora sobre o uso do LEEM. Pretende-se realizar mais estudos considerando uma amostra
+mais variada e cobrindo uma gama mais ampla de formaçoes academicas. Alem disso,
+desejamos aprofundar a coleta de feedback da professora com questionarios ou entrevistas
+para reunir suas perspectivas sobre a eficacia do LEEM e sua aplicabilidade pratica.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este estudo de caso demonstra o potencial do modelo LEEM para avaliar e melhorar a experiencia do aprendiz (LX) em atividades educacionais com tecnologias digitais. Ao fornecer um framework estruturado e abrangente, o LEEM permite identificar pontos fortes e fracos da experiencia do aprendiz, auxiliando professores e alunos a otimizar o processo de ensino-aprendizagem. Os resultados obtidos neste estudo ressaltam a importancia de considerar a diversidade dos aprendizes e suas preferencias individuais ao planejar e implementar atividades educacionais com tecnologias digitais.

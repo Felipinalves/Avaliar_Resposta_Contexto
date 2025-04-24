@@ -1,0 +1,240 @@
+**INTRODUCAO**
+
+As cores tem um forte impacto sobre as pessoas. Elas
+podem tornar a interacao humano-computador mais
+produtiva e prazerosa, mas se nao forem utilizadas
+apropriadamente e de acordo com a nossas habilidades e
+limitacoes visuais, as cores podem confundir e atrapalhar
+ou mesmo fazer o usuario cometer erros criticos . Com
+base neste argumento e na observaçao feita na disciplina de
+Projeto de Sistemas do curso de Engenharia de Software
+da Universidade Estadual de Ponta Grossa (UEPG) de
+que os alunos tendem a subestimar a importancia do uso
+apropriado das cores no projeto da interface, decidiu-se
+utilizar a abordagem CTS (Ciencia, Tecnologia e
+Sociedade) nas aulas sobre o tema "Cores no design de
+interface de software".
+
+A abordagem CTS tem sido utilizada nesta disciplina desde
+o ano de 2014 e tem se mostrado produtiva nas discussoes
+com os alunos sobre cores. Entretanto, neste ano de 2018,
+este conteudo foi sistematizado em uma sequencia didatica
+(SD) de seis aulas a fim de obter ao final da sequencia a
+percepçao dos alunos sobre o uso desta abordagem em
+relaçao ao conteudo. Dentro deste contexto, este artigo tem
+por objetivos relatar e discutir a experiencia do uso da
+abordagem CTS em uma sequencia didatica (SD) sobre as
+cores na disciplina de IHC, bem como observar os impactos
+desta SD na disciplina de Projeto de Sistemas de
+Informaçao deste curso.
+
+**ABORDAGEM CTS VISAO GERAL E DESAFIOS**
+
+O movimento CTS e definido por  como uma linha de
+pesquisa academica, que visa questionar a natureza social
+do conhecimento cientifico e tecnologico, bem como seu
+impacto sobre a situaçao economica, social, aspectos
+ambientais e culturais das sociedades ocidentais. A
+emergencia desse movimento ocorreu entre as decadas de
+1960 e 1970, como resultado da construçao de um olhar
+mais critico para a Ciencia e Tecnologia. As consequencias
+do uso do aparato cientifico e tecnologico na destruiçao
+ambiental e conquista do poder (a exemplo de armas
+quimicas e biologicas) possibilitaram o surgimento de uma
+nova forma de ver as interaçoes entre Ciencia, Tecnologia e
+Sociedade .
+
+Em outras palavras, estudos em CTS tem como foco a
+problematizaçao de como as descobertas cientificas e suas
+consequentes aplicaçoes tecnologicas conectam-se com
+outros desenvolvimentos sociais, nas leis, na politica, no
+modo de viver da sociedade, na cultura, na etica e no meio
+ambiente. A partir dessa mudança de pensamento, origina-
+se o movimento Ciencia-Tecnologia-Sociedade (CTS),
+caracterizado por pensar as relaçoes entre estas tres
+instancias .
+
+Estudos CTS tem buscado permear os processos educativos,
+tanto no ensino superior como no secundario e
+crescentemente nas esferas de divulgaçao cientifica. A
+diversidade de estrategias, tanto como as experiencias
+didaticas ensaiadas faz do tema um campo promissor para a
+sua promoçao nos sistemas educativos aproximando a
+ciencia e tecnologia da sociedade. Entretanto, o
+entendimento da aplicaçao desta abordagem em relaçao ao
+contexto e ao conteudo traz alguns desafios ao professor a
+serem considerados:
+A definiçao de metodologias de ensino que sejam efetivas
+em realizar mudanças na forma de pensar dos alunos.
+Constataçao do professor de que ele/ela e um ser social e
+tem suas proprias visoes de mundo e alfabetizaçao
+cientifica-tecnologica. Como em outros grupos sociais, as
+visoes de mundo do professor sao construçoes simbolicas
+formadas no tempo, no espaço e nas relaçoes sociais.
+Promoçao entre os alunos do uso e do desenvolvimento
+consciente, etico e responsavel de artefatos tecnologicos.
+E possivel dizer que esses desafios podem ser vistos
+tambem como oportunidades de desenvolvimento de
+pesquisas e novos metodos para o ensino.  descreve que
+estudar a Interaçao Humano-Computador e fundamental
+para os alunos dos cursos na area de Informatica, uma vez
+que profissionalmente produzirao sistemas voltados a
+diferentes perfis de usuarios finais.
+
+Em geral, a disciplina de IHC busca habilitar o aluno a
+aplicaçao pratica de metodos de avaliaçao e projeto de
+interfaces e, alem disso, proporcionar aos alunos a
+observaçao de aspectos, tendencias e problematicas de IHC
+que demandam pesquisa. Entretanto,  constatam que a
+area de IHC apresenta diversos desafios de ensino para os
+professores, dentre eles, a natureza interdisciplinar da area
+que envolve disciplinas distintas (tais como Psicologia
+Cognitiva, Design Grafico, Ergonomia e Ciencia da
+Computaçao) e o acompanhamento de novas tecnologias
+(tais como a telefonia movel e a TV interativa) que
+introduzem novos contextos de uso e novos requisitos para
+a construçao de interfaces.
+
+Assim, por seu aspecto interdisciplinar, a disciplina de IHC
+requer um planejamento didatico-pedagogico que integre
+metodologias que auxiliem os alunos a desenvolver
+competencias e habilidades de relacionar os diversos temas
+a fim de construir um produto usavel.
+
+**PROJETO DE SISTEMAS DE INFORMAÇAO E IHC**
+
+A disciplina de Projeto de Sistemas de Informaçao tem
+carga horaria de 68 horas e e lecionada no quarto ano do
+curso de Engenharia de Software. Como disciplina
+integradora, os alunos aplicam os conhecimentos vistos nos
+anos anteriores e neste incluindo o conteudo visto na
+disciplina de IHC na execuçao do projeto.
+
+Um dos requisitos da disciplina e que o cliente para o qual o
+projeto de software sera desenvolvido deve ser real, ou seja,
+os clientes sao empresas da cidade de Ponta Grossa e regiao
+podendo ser tambem departamentos e setores da
+universidade. A avaliaçao e feita bimestralmente (quatro
+por ano) de acordo com os criterios estabelecidos para cada
+bimestre.
+
+Alem disso, a disciplina conta com uma equipe de quatro
+professores que orientam as diversas equipes de alunos em
+areas especificas da Engenharia de Software como, por
+exemplo, modelagem conceitual de software, banco de
+dados, programaçao, IHC, planejamento de testes, entre
+outras.
+
+A disciplina de IHC tem carga horaria de 68 horas (2 aulas
+por semana) e e lecionada tambem no quarto ano mesmo
+ano que a disciplina de Projeto de Sistemas de Informaçao.
+Assim, no curso de Engenharia de Software, a disciplina de
+IHC compreende conteudos em analise, projeto e avaliaçao
+de interface de sistemas de informaçao (basicamente
+comerciais para web ou unico usuario). Conteudos
+avançados como paradigmas de interaçao sao vistos no final
+da disciplina geralmente em forma de seminarios. A
+avaliaçao e feita bimestralmente atraves de trabalhos e
+provas.
+
+Como professora de IHC do referido curso e ao mesmo
+tempo integrante da equipe da disciplina de Projeto de
+Sistemas de Informaçao, esta autora observou durante as
+aulas de Projeto de Sistemas de Informaçao que os alunos
+nao compreendem como utilizar as cores ou tendem a
+subestimar o uso das cores ou de um codigo de cores para o
+projeto da interface de software. Erros de entendimento
+eram comuns, como por exemplo, realçar a cor vermelha
+em campos de somatorios de valores mesmo quando
+positivos, entre outros. Entao, no ano de 2010, o tema sobre
+cores foi incorporado ao conteudo da disciplina de IHC.
+Varias mudanças ocorreram na disciplina de Projeto de
+Sistema de Informaçao, como por exemplo, a curiosidade
+dos alunos em saber mais sobre como utilizar as cores de
+maneira apropriada no projeto da interface.
+
+Entretanto, observou-se que as dificuldades persistiam.
+Assim, no ano de 2014, foi implementada a abordagem
+CTS na disciplina sem que os alunos se dessem contam
+disto. Em consequencia, uma mudança positiva ocorreu na
+disciplina de Projeto de Sistemas de Informaçao. Pois, os
+alunos passaram a prestar ainda mais atençao para o codigo
+de cores que deveria ser utilizado no projeto da interface de
+software e questionar os professores orientadores sobre
+quais abordagens utilizar em relaçao as cores.
+
+Observando entao esta problematica advinda de outra
+disciplina (Projeto de Sistemas de Informaçao), esta autora
+decidiu utilizar a abordagem CTS de forma sistematica e
+transparente para os alunos (informando sobre a aplicaçao
+da abordagem) nas aulas de IHC a fim de observar quais
+eram suas percepçoes a respeito do uso desta abordagem
+para o tema.
+
+Assim, neste ano de 2018, o conceito de IHC+CTS foi
+sistematizado em uma sequencia didatica de seis aulas a fim
+de observar as percepçoes dos alunos sobre o uso desta
+abordagem durante a explanaçao do conteudo.
+
+CTS NA AULA SOBRE CORES: METODOLOGIA E
+PROCEDIMENTOS
+
+A fim de criar um contexto para as discussoes e atividades,
+as aulas foram organizadas em uma SD buscando incentivar
+a participacao ativa dos alunos. Definem SD como sendo
+um “conjunto de atividades escolares organizadas, de
+maneira sistematica, em torno de um genero textual oral ou
+escrito”. 
+
+Assim, considerando a abordagem CTS a SD foi construida incluindo os temas sobre Optica (Fisica: espectro eletromagnetico) e Fisiologia do olho humano (a percepcao do olho humano sobre luz e movimento – tipos de celulas receptoras). Apos, foram incluidas discussoes sobre acessibilidade e a experiencia do usuario sobre os diversos fatores que influenciam a percepcao de cores. O Quadro 1 apresenta a configuracao da SD, seus temas, estrategias de ensino, objetivos e conteudos.
+
+Ao final de uma SD e usual solicitar aos participantes (alunos) uma producao a fim de verificar a aprendizagem sobre o que foi conduzido. Isto foi feito atraves de duas perguntas sobre o uso da abordagem CTS nas aulas de IHC sobre o tema Cores a fim de obter a percepcao dos alunos sobre o uso de tal abordagem (Como voce considera o uso desta abordagem (CTS) nas aulas de IHC sobre cores? e Como voce considera o uso desta abordagem em outras disciplinas do curso?). Uma vez que esta autora tambem faz parte da equipe de orientadores da disciplina de Projeto de Sistemas de Informacao, foi possivel observar os impactos desta SD nas aulas desta disciplina.
+
+RESULTADOS E DISCUSSAO
+A turma do quarto ano de Engenharia de Software de 2018 e composta por 12 alunos. Entretanto, no dia da finalizacao da SD sete alunos compareceram na aula e responderam. O questionario foi composto por duas perguntas e os demais dados foram obtidos atraves de uma discussao feita no final da ultima aula da SD, bem como da observacao na disciplina de Projeto de Sistemas de Informacao.
+
+A primeira pergunta e a mais relevante para os objetivos deste artigo Como voce considera o uso da abordagem CTS nas aulas de IHC sobre cores? mostrou que os alunos entenderam a utilizacao da abordagem CTS para relacionar ciencia, tecnologia e sociedade com o conteudo da aula. Alem disso, os alunos utilizaram as palavras importante, interessante e necessaria justificando apos de varias maneiras, como por exemplo:
+Considero importante pois e uma maneira de facilitar o entendimento do uso correto das cores em interfaces. (Aluno2).
+Considero uma abordagem necessaria para a disciplina de IHC, pois aproxima mais os alunos, demonstrando as utilizacoes na ciencia, e em como isso pode influenciar na utilizacao e no desenvolvimento de softwares. (Aluno3).
+
+A pergunta 2 foi Como voce considera o uso desta abordagem em outras disciplinas do curso? Todos os respondentes disseram ser a favor do uso da abordagem em outras disciplinas e comentaram sobre a importancia de retornar aos conhecimentos cientificos e suas influencias na tecnologia e sociedade. Segundo o Aluno6, E uma abordagem interessante pois leva em conta nao apenas o conhecimento tecnico ou cientifico, mas tambem como esse conhecimento cientifico pode ser aplicado na tecnologia e na sociedade.
+
+A discussao no final da SD teve como tema central a proposta de uso da abordagem CTS em outro tema o qual poderia ser de outra disciplina, ou seja, eles deveriam propor um exemplo de aplicacao em um tema diferente de IHC. Observouse que os alunos entenderam que a professora usou a abordagem, mas eles nao entenderam como isso foi feito e nao conseguiram expor a proposta. As principais consideracoes dos alunos foram em relacao ao tempo para analisar o exercicio e que deveriam ser feitas muitas pesquisas.
+
+Alem disso, tambem se observou nas aulas de IHC um engajamento maior dos alunos com o conteudo e tambem maior interacao entre eles e entre eles e a professora durante o desenvolvimento das aulas (atraves de perguntas sobre por exemplos, questoes de acessibilidade e sobre o daltonismo nao somente como um problema individual mas, como uma questao social no desenvolvimento de diferentes tipos de interface).
+
+Outro aspecto importante foi que na disciplina de Projeto de Sistemas de Informacao os alunos demonstraram maior interesse na definicao do codigo de cores da interface ainda na fase de prototipacao, questionando nao somente a professora da equipe, mas tambem outros professores. Dentro deste contexto podemos considerar algumas reflexoes sobre as percepcoes tanto dos alunos quanto da professora.
+
+Quanto aos alunos
+
+Conscientizacao dos alunos sobre a preparacao de uma aula com a abordagem CTS em IHC;
+
+A percepcao dos alunos sobre a motivacao nas aulas e o engajamento com o conteudo durante as aulas (conforme Aluno3);
+Para os alunos, a importancia de o professor utilizar recursos (metodologias, tecnicas, abordagens ou conceitos) que proporcionem o relacionamento sobre diversos temas e disciplinas e interessante e engajadora;
+
+Na disciplina de Projeto de Sistemas de Informacao os alunos sentiram a necessidade de conversar ou buscar designs alternativos para a escolha de cores no projeto de interface, inclusive na fase de prototipacao – o que nao acontecia anteriormente.
+
+Quanto a professora
+
+Ha a necessidade de os professores compreenderem os novos contextos de aprendizagem, o perfil diferenciado dos alunos das areas de computacao e engenharias, alem da necessidade de utilizar metodologias engajadoras e motivadoras para ambos – o professor e o aluno;
+
+O uso da abordagem CTS requer tempo e pesquisas, principalmente no caso da disciplina de IHC. Por seu aspecto interdisciplinar (tanto quanto a abordagem CTS) as combinacoes de relacionamentos entre os temas abrem um grande leque de possibilidades de SDs.
+
+As abordagens de ensino em IHC especificamente no caso deste curso de ES, onde IHC e Projeto de Sistemas de Informacao sao ministrados no mesmo ano do curso, podem impactar nas aulas de Projeto de Sistemas de Informacao;
+
+Em contraste com o item anterior, as problematicas observadas na disciplina de Projeto de Sistemas de Informacao podem ser contextos importantes de ensino e aprendizagem os quais poderiam abordar varias metodologias (incluindo metodologias ativas) a serem utilizadas em IHC.
+
+CONCLUSÃO
+
+Utilizar metodologias de ensino nao somente inovadoras, mas que tenham por objetivo motivar e engajar os alunos no processo de ensino e aprendizagem e no processo de compreensao do relacionamento entre diversos temas e areas e de extrema importancia em IHC.
+
+A caracteristica interdisciplinar desta disciplina em um primeiro momento pode parecer um contexto facil para o professor trabalhar. Entretanto, este contexto interdisciplinar abre muitas possibilidades metodologicas as quais devem ser consideradas em termos das dificuldades dos alunos advindas de outras disciplinas ou mesmo do contexto de IHC.
+
+Por se mostrar engajadora, motivadora e que promove a interacao entre alunos e professor, considerase o uso da abordagem CTS na disciplina de IHC uma experiencia de ensino positiva por impactar na disciplina de Projeto de Sistemas de Informacao e conscientizar os alunos de Engenharia de Software sobre o uso apropriado das cores no projeto da interface (incluindo a fase de prototipacao).
+
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, a integraçao da abordagem CTS no ensino de IHC, com foco no uso de cores em interfaces de software, demonstrou ser uma estrategia valiosa para promover a conscientizaçao e o engajamento dos alunos. Ao conectar o design de interfaces com questoes sociais, tecnologicas e ambientais, essa abordagem estimula a reflexao critica e o desenvolvimento de soluçoes mais responsaveis e inclusivas.
+
+Alem disso, a aplicaçao sistematica da abordagem CTS, por meio de uma sequencia didatica bem estruturada, permitiu aos alunos compreenderem a importancia do uso adequado das cores em projetos de software, tanto do ponto de vista tecnico quanto social. Ao relacionarem conceitos de otica e fisiologia com diretrizes de acessibilidade e experiencia do usuario, os alunos demonstraram um maior interesse e preocupaçao com a escolha de um codigo de cores apropriado para cada contexto.

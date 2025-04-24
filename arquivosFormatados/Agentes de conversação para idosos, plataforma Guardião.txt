@@ -1,0 +1,121 @@
+**RESUMO**
+
+Com o aumento da expectativa de vida, soluçoes inovadoras que
+garantam o bem-estar dos idosos tornam-se mais necessarias. Neste
+contexto, a fim de negar as principais dificuldades relatadas pelo
+publico idoso com o uso de dispositivos moveis, propomos uma
+tecnologia inteiramente baseada em interaçoes de voz e chamamos
+este projeto de Guardian. A essencia do projeto e fornecer, por
+meio de um aplicativo movel, uma plataforma com um conjunto de
+agentes inteligentes focados no bem-estar dos idosos. Neste
+trabalho, os principais objetivos sao analisar e avaliar a
+usabilidade do Guardian e os impactos culturais da tecnologia.
+Para a coleta de dados, foram utilizadas gravaçoes de video, um
+questionario que identifica o perfil socio-tecnologico dos
+participantes da pesquisa e a escala de usabilidade do sistema
+(SUS).
+
+**INTRODUCAO**
+
+Com o aumento da expectativa de vida, a longevidade passou a ser
+vista nao apenas como um ganho, mas tambem como uma preocupaçao.
+Neste contexto, os assistentes de conversaçao podem ser uma
+soluçao promissora para aliviar o problema de uma maior demanda
+por serviços de cuidado para os idosos e contribuir para a
+recuperaçao de sua independencia. Este texto relata um estudo
+inicial de aceitaçao sobre o uso de assistentes de conversaçao
+entre uma determinada populaçao.
+
+Nossa tecnologia consiste em um conjunto de assistentes de
+conversa focados em ajudar o envelhecimento saudavel disponivel em
+um unico aplicativo incorporado em um dispositivo movel. No
+entanto, existem diversas questoes a serem exploradas: 1) Os
+assistentes pessoais como Alexa da Amazon ou o assistente do
+Google oferecem alguma ajuda para idosos de paises de terceiro
+mundo? 2) Como essa populaçao recebe e interage com tal
+tecnologia? 3) Quais questoes relacionadas a cultura podem surgir
+a partir da introduçao da tecnologia em suas vidas diarias? 4)
+Quais possiveis impactos positivos podem ser previstos com o uso
+de assistentes de conversaçao? 5) Quais diretrizes de design
+podem ser extraidas deste estudo exploratorio? O proposito do
+estudo relatado neste artigo e responder a essas questoes
+conduzindo uma avaliaçao do usuario.
+
+No artigo os autores avaliam os principais problemas relacionados
+as relaçoes sociais entre a populaçao idosa, bem como a aceitaçao
+e a introduçao de assistentes inteligentes para estimular tal
+interaçao. Foi notado que a comunicaçao por voz com dispositivos
+eletronicos mostrou utilidade consideravel para aumentar a
+confiança e, posteriormente, fortalecer os laços sociais dos
+idosos. No artigo os autores visam auxiliar o autogerenciamento
+para pacientes idosos com diabetes, propondo um aplicativo que
+usa a interface de voz do Google Home, por meio de um bot de
+conversa. Apos um teste conduzido com dez idosos, a aceitaçao
+geral foi notada. Conforme discutido nas obras o uso de interfaces
+de voz tem se mostrado bem aceito por usuarios idosos.
+
+Com nossa proposta disponibilizamos o acesso a um conjunto de
+agentes implementados no Dialogflow. A ferramenta DialogFlow e
+uma atualizaçao api.ai desenvolvida pelo Google. Esta ferramenta
+permite a construçao de interfaces de conversa para bots,
+aplicativos e dispositivos. Dois agentes de conversa foram testados,
+ambos desenvolvidos com base na cultura brasileira. A Lady
+Laura, nome de uma cançao popular e representa uma mae
+cuidadosa e Ana Maria, uma apresentadora de TV popular de um
+show culinario.
+
+Para usar o aplicativo basta dizer: "Oi Lady Laura". O
+aplicativo, instalado em um smartphone, e iniciado e a Lady Laura inicia o dialogo guiando o usuario atraves do fluxo de conversa apresentado no documento online 1. O fluxo conversacional foi elaborado para analisar o comportamento do usuario diante do agente em diferentes contextos: um contexto envolvendo troca de informacoes pessoais, um contexto de interrupcao e um contexto em que o idoso espera por uma receita.
+
+METODOLOGIA
+Este trabalho e um estudo exploratorio que visa entender como os idosos percebem os agentes conversacionais quando introduzidos em suas casas. Deixamos que eles interagissem com a tecnologia em seu tempo livre. Para este estudo inicial, tivemos os seguintes criterios de recrutamento: 1) Ter mais de 60 anos; 2) Nao ter cuidadores; e 3) Receber a equipe em sua casa. Uma vez em suas residencias, a equipe de pesquisa leu o protocolo do estudo para os participantes e coletou suas assinaturas no termo de consentimento informado. Oito individuos com idades entre 61 e 70 anos participaram do estudo. A maioria dos participantes nao possuia um smartphone. Apos a conclusao do questionario de perfil sociotecnologico, configuramos nosso equipamento: um smartphone Android com conexao 4G (a conexao com a internet e necessaria, pois o Guardian usa a tecnologia do Google, Dialogflow, para processar a conversa) e uma caixa de som Bluetooth foi usada para reduzir mal-entendidos.
+
+Essa configuracao de equipamento tambem foi projetada para simular ferramentas como Amazon Alexa e Google Home, oferecendo um conjunto similar de affordances.
+
+Todos os dados coletados foram filmados com a camera voltada para o rosto do participante. Com isso, a equipe de pesquisa tem tudo o que e necessario para realizar uma analise situada, conforme proposto por Suchman. Todos os estimulos ambientais, artefatos e reacoes dos sujeitos a eles sao avaliados em conjunto para ajudar a equipe de pesquisa a compreender o que realmente esta acontecendo de forma mais profunda e completa.
+
+DISCUSSAO E RESULTADOS
+Apos o uso, os participantes responderam ao questionario de escala de usabilidade do sistema, que resultou em uma pontuacao media final de 83,125. Os cenarios podem ser divididos em tres partes principais: troca de informacoes, espera por uma receita culinaria e interrupcao do sistema.
+
+A troca de informacoes pessoais, para que o agente conhecesse melhor seu usuario, foi bem aceita pelos oito entrevistados. Na interrupcao, um dos usuarios ficou irritado por ter seu dialogo com o pesquisador interrompido pelo agente. Os outros participantes nao se ofenderam com a interrupcao, alguns ate acharam engraçado.
+
+Em relacao a espera por uma receita culinaria, dois dos oito usuarios ficaram entediados enquanto esperavam pela troca de agentes e pela receita fornecida apos isso. Nos outros usuarios, as principais reacoes observadas foram de felicidade, eles adoraram a ideia de um agente chamar outro. Um ponto importante a mencionar e que todos os usuarios relataram que nunca haviam usado um aplicativo totalmente baseado em voz como o nosso.
+
+Outro ponto e que seis dos oito idosos entrevistados nao tinham um smartphone, mas ainda assim conseguiram usar o Guardian. Um destaque foi o pedido de amizade feito por Lady Laura ao final de seu fluxo de conversa. Todos os oito usuarios responderam sim. Esse fato reforça a aceitacao da tecnologia pelos usuarios.
+
+**CONSIDERACOES FINAIS**
+
+A seçao Introduçao levantamos diversas questoes. A
+primeira foi: Os assistentes pessoais como Alexa da Amazon ou o
+assistente do Google oferecem alguma ajuda para idosos de
+paises de terceiro mundo? A resposta parece ser Sim. Apesar
+das limitaçoes deste estudo, pode-se apreciar os sinais iniciais de
+aceitaçao da tecnologia entre esta populaçao. A segunda e
+terceira questoes foram: Como essa populaçao recebe e interage
+com tal tecnologia e Quais questoes relacionadas a cultura
+podem surgir a partir da introduçao da tecnologia em suas
+vidas diarias? Os sujeitos ficaram surpresos e irritados.
+Surpresos porque a maioria deles nunca havia conversado com um
+computador. Irritados, alguns deles, porque sentiram que este
+novo amigo interrompe a conversa de outra pessoa. Questao quatro:
+Quais possiveis impactos positivos podem ser previstos com o uso
+de assistentes de conversaçao? Na verdade, pensamos que com mais
+estudos essas tecnologias serao capazes de se misturar a vida das
+pessoas. Uma escolha cuidadosa de palavras e cenarios de interaçao
+pode ser a maneira de persuade-los a fazer o que e relevante para
+um envelhecimento saudavel. A quinta e ultima questao foi: Quais
+diretrizes de design podem ser extraidas deste estudo
+exploratorio? Argumentamos que a abordagem smalltalk parece ser
+uma maneira de ganhar a confiança das pessoas. O agente horoscopo
+e o guru da receita, ambos os agentes, foram bem recebidos, pois
+criam uma ilusao de diversas pessoas diferentes fazendo coisas por
+eles.
+
+Em nossa proxima fase nos concentraremos no envolvimento a longo
+prazo, o que ainda e uma questao em aberto. A tecnologia Guardian
+sera capaz de fornecer estrategias relevantes de construçao/
+transformaçao de habitos? Isso requer uso a longo prazo.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo exploratorio demonstra que assistentes de voz personalizados e culturalmente relevantes podem ser uma ferramenta promissora para melhorar a qualidade de vida de idosos. Os resultados indicam que a tecnologia tem o potencial de ser bem aceita e utilizada por essa populaçao, mas e fundamental considerar questoes como a familiaridade com a tecnologia, a privacidade e a adequaçao da linguagem e dos contextos de interaçao.

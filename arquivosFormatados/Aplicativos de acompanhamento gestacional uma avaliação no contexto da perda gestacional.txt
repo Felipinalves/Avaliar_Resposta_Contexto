@@ -1,0 +1,154 @@
+**RESUMO**
+
+Ha diversos aplicativos para acompanhamento gestacional
+disponiveis no mercado. O objetivo da pesquisa relatada neste
+artigo e analisar como as usuarias destes aplicativos avaliam a
+funcionalidade de registro de uma perda gestacional. Desta forma,
+foram analisadas as avaliaçoes disponiveis na Google Play de
+quatro aplicativos gratuitos. Os resultados indicam que o registro
+da perda gestacional e implementado de diferentes formas,
+sugerindo diferentes compreensões sobre noçao de pessoa e legado
+digital por parte das equipes de desenvolvimento destes aplicativos.
+Por outro lado, as avaliaçoes das usuarias indicam um silencio
+sobre o assunto da perda gestacional.
+
+**Introduçao**
+
+Com o avanço de uso e capacidade dos dispositivos moveis,
+aplicativos sao criados nas mais diversas areas. Na area gestacional
+nao poderia ser diferente. Uma busca rapida nas principais lojas
+virtuais de aplicativos moveis revelara um quantitativo
+significativo de aplicativos para acompanhamento de uma
+gestaçao, com distintas funcionalidades. Dentre estas
+funcionalidades esta o registro da perda gestacional. A necessidade
+desta funcionalidade se justifica por diferentes fatores.
+
+Um destes fatores e que a perda gestacional e uma realidade. O
+numero de obitos fetais com menos de 22 semanas de gestaçao
+diminuiu no Brasil entre 2013 e 2016, voltando a crescer em 2017
+conforme dados do Datasus: 3054 em 2013, 2991 em 2014, 2021
+em 2015, 1869 em 2016 e 1981 em 2017 . Entretanto, no
+contexto brasileiro, tanto aborto desejado quanto aborto espontaneo
+sao tratados tabus ou como violaçoes da regra social e por isso sao
+evitados. Desta forma, os numeros podem nao refletir totalmente a
+realidade.
+
+Outro fator e que, segundo Maciel e Pereira  as aplicaçoes
+necessitam considerar a vida humana em todo seu ciclo, que vai
+desde o nascimento ate a morte. Ou seja, se uma instancia de um
+individuo e criada em um software, a perspectiva de encerramento
+desta com a morte ou repasse dos seus bens digitais enquanto
+herança, devem ser considerados. Essas instancias ou registro
+configuram aquilo que na sociologia e nomeado como
+representaçao do individuo ou noçao de pessoa. Tal premissa
+deveria ser valida tambem para aplicativos gestacionais, todavia
+questiona-se nesta pesquisa se os principais aplicativos disponiveis
+no mercado consideram a possibilidade da perda gestacional e, caso
+sim, como tratam essa delicada questao?
+
+**Metodologia**
+
+Para responder a questao de pesquisa foram selecionados 4
+aplicativos de acompanhamento gestacional. A seleçao dos
+aplicativos avaliados se deu a partir da busca na Google Play¹ com
+o termo gravidez e os criterios: Apps Android, Gratuitos e
+Quatro estrelas ou mais. A partir da analise dos cinco primeiros
+aplicativos apresentados e das sugestões de aplicativos
+semelhantes, considerou-se as notas acima de 4,5 com mais de
+100.000 avaliaçoes, com versões para Android e iOS. Com estes
+criterios foram selecionados: Pregnancy Week by Week², Ovia
+Pregnancy Tracker: Baby Due Date Countdown³, Minha
+gravidez e meu bebe hoje, Gravidez+5.
+
+A partir da seleçao dos aplicativos analisou-se as avaliaçoes feitas
+por usuarios(as) na Google Play sobre o tema de perda gestacional.
+As avaliaçoes das(os) usuarias(os) na Google Play foram coletadas
+atraves de um algoritmo em Javascript. Para cada conjunto de
+avaliaçoes, fez-se uma busca pelas seguintes palavras: data, loss,
+miscarriage, abortion e stillbirth. O objetivo foi verificar se as(os)
+usuarios(as) compartilhavam experiencias sobre as perdas
+gestacionais e o modo como cada aplicativo trata deste tema.
+
+**Resultados**
+
+Para todos os aplicativos foram analisadas as avaliaçoes em ingles.
+Por meio do algoritmo elaborado foram coletadas 8822 avaliaçoes
+sobre o aplicativo (P) Pregnancy Week by Week (05/2016 a
+06/2019); 4382 avaliaçoes sobre o aplicativo (O) Ovia Pregnancy
+Tracker (06/2014 a 04/2019); 5458 avaliaçoes sobre o aplicativo
+(M) Minha gravidez e meu bebe hoje (03/2011 a 06/2019); 8180
+avaliaçoes do aplicativo (G) Gravidez+ (03/2013 a 06/2019).
+
+A palavra data foi encontrada em 120 avaliaçoes (somando os
+quatro aplicativos). Entretanto, apenas 1 avaliaçao tinha relaçao
+com a perda gestacional. Das 27 ocorrencias da palavra loss apenas
+3 tinham relaçao com perda gestacional. A palavra miscarriage
+teve 23 ocorrencias enquanto as palavras abortion e stillbirth
+tiveram 1 e 2 ocorrencias respectivamente.
+
+Embora o numero de avaliaçoes seja expressivo, raras sao aquelas
+que explicitamente abordam o tema da perda gestacional. No caso
+do aplicativo Pregnancy Week by Week nao foi possivel
+identificar avaliaçoes que abordassem o tema de perda gestacional.
+As avaliaçoes do Ovia Pregnancy Tracker indicam dificuldade
+para encontrar a opçao de registrar uma perda, reclamam com o
+continuo recebimento de mensagens de uma gestaçao que ja foi
+registrada como perda gestacional e, tambem, indicam o desejo de
+manter os dados de uma gestaçao interrompida espontaneamente.
+As avaliaçoes sobre o Minha gravidez e meu bebe hoje elogiam o
+aplicativo pelo apoio que ele oferece em casos de aborto e perda
+gestacional. Por fim, as avaliaçoes do Gravidez+ que contem a
+palavra data nao tratam da questao do armazenamento de dados
+apos registrar uma perda gestacional. Por outro lado, as avaliaçoes
+que mencionam os termos loss e miscarriage fazem elogios sobre
+a forma como o aplicativo oferece apoio para estas situaçoes.
+
+**Consideraçoes finais**
+
+E fato que uma perda gestacional traz consigo uma serie de
+sentimentos, em especial para os pais que aguardam o bebe. Entre
+esses sentimentos ha o luto, que cada vez mais tem sido estudado
+em sistemas computacionais , e que tem forçado projetistas a
+pensarem as soluções e todos seus meandros de uma forma
+diferenciada.
+
+Por outro lado, a perda gestacional pode ser frustrante quando se
+trata de um filho desejado, talvez por isso esse tema seja tao pouco
+notificado nas avaliaçoes de usuarias. Segundo  ha para uma
+hipocrisia moral envolvendo o aborto. Isso significa que mesmo
+nao notificado ou sub-representado o aborto, desejado ou
+espontaneo, faz parte da vida intima, daquilo que nao falamos
+publicamente.
+
+O debate sobre acompanhamento gestacional em aplicativos e o
+registro da perda gestacional reatualiza a discussao sobre se o feto
+e considerado pessoa ou nao. Essa pergunta opõe posições baseadas
+em valores sobre a vida e morte; pessoa ato e pessoa em potencia.
+
+O fato de os aplicativos nao informarem de forma suficiente sobre
+o armazenamento de dados de uma possivel perda gestacional
+impacta na questao do legado digital e da noçao de pessoa. O feto
+e visto como pessoa? Entao seu legado digital deve ser respeitado
+assim como de qualquer outra pessoa. As estrategias sutis para
+registro de uma perda gestacional representam uma noçao de
+pessoa ou identidade que esta sendo construida ou negada pelos
+desenvolvedores dos aplicativos.
+
+As avaliaçoes das usuarias indicam um silencio sobre o assunto da
+perda gestacional. Entretanto, relatos significativos indicam que ha
+outras mulheres que se sentem acolhidas pelos aplicativos e suas
+comunidades que tratam do tema de maneira solidaria. Dentre a
+amostra analisada apenas uma mulher expressa que gostaria de
+manter os dados da gestaçao interrompida, revelando uma lacuna
+nos aplicativos.
+
+No que ser refere ao tratamento de dados oriundos dos aplicativos,
+e perceptivel como a analise quantitativa pode fornecer achados
+para questoes importantes na pesquisa, orientando a analise
+qualitativa. Como trabalhos futuros pretende-se fazer uma
+avaliaçao por inspeçao nos aplicativos e questionarios e entrevistas
+com usuarias dos aplicativos.
+
+**CONSIDERAÇOES FINAIS**
+
+Em conclusao, este estudo explorou a presença e o tratamento da perda gestacional em aplicativos de acompanhamento de gravidez. A analise das avaliaçoes de usuarias revelou um silencio em torno desse tema, enquanto algumas funcionalidades dos aplicativos sugerem abordagens sutis em relaçao a noçao de pessoa e legado digital. Esses achados apontam para a necessidade de mais pesquisas e reflexoes sobre como a tecnologia pode apoiar e atender as necessidades emocionais e informacionais de pais que vivenciam a perda gestacional.

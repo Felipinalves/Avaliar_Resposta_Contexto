@@ -1,0 +1,146 @@
+**RESUMO**
+
+Barragem vigilante e um sistema para compartilhamento de
+informaçoes, alerta e consulta de cidadaos a eventos relacionados a
+rompimento de barragens de rejeitos de mineraçao, areas potencialmente
+afetadas e instruçoes emergenciais. A metodologia envolve o desenvolvimento
+de personas, modelagem de tarefas com CTT, interaçao com Molic e criaçao
+de um prototipo no Figma. Em um contexto de intensificaçao da crise
+climatica e das tragedias de Mariana e Brumadinho, a soluçao visa salvar
+vidas e minimizar o impacto de desastres.
+
+**INTRODUCAO**
+
+O agravamento da crise climatica global tem aumentado o risco de rompimento de
+barragens de rejeitos, resultando em desastres ambientais e humanos, como os ocorridos
+em Mariana e Brumadinho [Ramos et al., 2021]. Recentemente, as chuvas intensas no
+Rio Grande do Sul resultaram em uma enorme tragedia humanitaria e ambiental. Esse
+desastre fez com que a Comissao de Meio Ambiente e Tecnologia da Assembleia
+Legislativa de Minas Gerais iniciasse uma discussao sobre a vulnerabilidade das
+barragens de Minas Gerais a eventos climaticos extremos similares ao do Rio Grande do
+Sul [Estado de Minas, 2024]. Minas Gerais possui 350 barragens, sendo o estado com o
+maior numero no Brasil, e enfrenta desafios significativos de segurança, especialmente
+com barragens construidas pelo metodo a montante.
+
+Diante deste cenario, Barragem Vigilante e um prototipo de sistema para
+compartilhamento de informaçoes, alerta e consulta de cidadaos sobre eventos
+relacionados a rompimento de barragens, areas afetadas e instruçoes emergenciais que
+visa melhorar a comunicaçao e a prevençao de desastres envolvendo barragens de
+rejeitos. Utilizando tecnologias como realidade aumentada e geolocalizaçao, o sistema
+oferece monitoramento continuo, alertas antecipados e comunicaçao para comunidades
+vulneraveis, promovendo uma resposta mais eficiente a emergencias e segurança.
+
+**METODOLOGIA/PROCESSO**
+
+A metodologia adotada envolveu inicialmente a elaboraçao de uma metamensagem,
+definindo que se destina a moradores de regioes com barragens de rejeitos, gestores e
+trabalhadores de barragens, que os usuarios podem ou querem receber ou divulgar
+informaçoes sobre o risco das barragens, que a soluçao proposta seria um sistema
+interativo com dados geoespaciais, que conta com realidade aumentada e com uma
+comunidade online, e para atingir seus objetivos os usuarios interagem consultando ou
+inserindo informaçoes sobre a barragem. Em seguida, foram desenvolvidas personas
+representativas dos usuarios finais, que sao perfis ficticios baseados em usuarios reais,
+ajudando a trazer os usuarios finais a vida, proporcionando uma compreensao mais rica
+de suas necessidades, comportamentos e objetivos [Barbosa et al. 2022]. Foram tambem
+criados cenarios de uso, que sao historias detalhadas sobre como as personas podem
+usar o sistema em situaçoes do mundo real.
+
+O processo seguiu com a modelagem de tarefas, que serve para definir o plano de açoes
+para a interaçao com o sistema, utilizando a tecnica CTT (Concur Task Trees) [Barbosa
+et al. 2022; Paterno, 2004], que foi usada para decompor as tarefas que os usuarios
+precisam realizar ao usar o sistema, como buscar informaçoes e criaçao de posts. Em
+seguida, foi realizada a modelagem da interaçao, com o MoLIC (Modeling Language
+for Interaction as Conversation) [Barbosa et al. 2022; da Silva e Barbosa, 2007], que e
+uma linguagem para a modelagem da interaçao humano-computador como uma
+conversa, incluindo busca e editar informaçoes de barragens, acessar chat, fazer posts,
+utilizar a funcionalidade de realidade aumentada e acionar o recurso de evacuaçao
+emergencial.
+
+Finalmente, foi criado um prototipo simplificado no Figma, uma plataforma de design
+de interface do usuario. Este prototipo permitiu visualizar a interface do sistema e fazer
+uma avaliaçao inicial. O prototipo foi avaliado utilizando o metodo de inspeçao
+conhecido como Percurso Cognitivo (PC) [Barbosa et al. 2022; Wharton et al., 1994].
+No entanto, os nossos revisores (outros colegas de turma de IHC) eram tambem
+potenciais usuarios. Isso proporcionou feedback valioso sobre a usabilidade do sistema
+e ajudou a identificar areas para melhoria, como indicar melhor o modo de Realidade
+Aumentada e evidenciar a associaçao entre o mapa e a busca por informaçoes.
+
+**JUSTIFICATIVA**
+
+Apesar da existencia de dados sobre a situaçao das barragens, como os fornecidos pela
+Agencia Nacional de Mineraçao [Agencia Nacional de Mineraçao n.d.] e o Mapa da
+Lama [Reporter Brasil n.d.], essas informaçoes muitas vezes nao sao amplamente
+divulgadas nem apresentadas de forma intuitiva e acessivel para a populaçao. Esta
+lacuna na comunicaçao pode deixar as comunidades vulneraveis em situaçoes de
+emergencia, onde o acesso rapido e facil a informaçoes precisas pode ser crucial. A
+soluçao proposta visa preencher essa lacuna, tornando essas informaçoes facilmente
+acessiveis ao publico de maneira amigavel e interativa. Ao permitir que as pessoas
+tomem medidas preventivas em caso de aumento do risco de rompimento de uma
+barragem, a soluçao pode contribuir para salvar vidas e minimizar os impactos de tais
+desastres. Alem disso, a soluçao tambem tem o potencial de aumentar a conscientizaçao
+publica sobre os riscos associados as barragens de rejeito, promovendo uma maior
+compreensao e envolvimento da comunidade nestas questoes criticas.
+
+**SOLUCAO PROPOSTA E CENARIO DE USO**
+
+A soluçao proposta e um sistema de informaçao geografico, acessivel atraves de um
+aplicativo movel, que fornece informaçoes detalhadas sobre a segurança das barragens e
+potenciais riscos associados. O sistema permite aos usuarios visualizarem a localizaçao
+das barragens em um mapa interativo, alem de fornecer informaçoes atualizadas sobre o
+status de cada barragem, visualizaçao com realidade aumentada e alertas em tempo real.
+
+No cenario de uso, temos a persona Joao da Silva, estudante universitario em
+Congonhas. Joao sempre foi um jovem muito preocupado com a segurança de sua
+familia desde que se mudaram para Congonhas em 2015. Ele sabia da existencia da
+barragem na cidade e desde o rompimento da barragem em Mariana ficou muito
+preocupado com sua segurança e de sua familia. Assim, por sempre ser precavido
+instalou em seu celular um aplicativo que prometia intera-lo sobre o assunto e alertar
+situaçoes de urgencia. Joao sabia que sua casa, que moravam ele, a avo, a mae, o pai e o
+irmao, se encontrava em lugar de risco. Entao, seu foco era estar sempre alerta para caso
+algum acidente estivesse iminente ele pudesse estar pronto para tirar a familia da casa.
+Um dia, quando Joao ja estava acostumado com o uso do aplicativo, ele chegou na aula
+de Introduçao Metodologica e recebeu uma notificaçao sonora e uma vibraçao
+caracteristica no smartphone. Ao verificar o celular, descobre que e um alerta emitido
+pela interface notificando uma urgencia: a barragem estava em alto risco de rompimento
+por conta da chuva que ocorreu na regiao. Ao receber esse alerta de emergencia sobre
+um possivel colapso iminente, ele ligou para sua casa, alertando a todos e como ja tinha
+um plano de fuga feito com ajuda da interface, ele pediu que todos seguissem a rota de
+fuga que consistia em ir para o carro da familia e subir o morro que ficava em um bairro
+proximo, evitando que os rejeitos atingissem sua familia. Alem disso, Joao alertou todos
+seus colegas que estavam na aula sobre o risco que tinha sido notificado a ele. Assim,
+todos ficaram seguros e preparados e Joao percebeu que sua atitude foi muito
+importante ao acelerar a reaçao do acidente iminente e potencialmente salvando vidas.
+
+Viabilidade
+
+A implementacao do sistema proposto e viavel, mas apresenta desafios especificos.
+Embora existam dados disponiveis sobre a situacao das barragens, atualmente nao
+temos acesso a dados em tempo real. Isso significa que seria necessario estabelecer
+parcerias com agencias governamentais e empresas privadas responsaveis pelas
+barragens para obter esses dados. Essas parcerias poderiam envolver acordos de
+compartilhamento de dados ou colaboracoes para melhorar a coleta e analise de dados.
+Entretanto, tal alternativa geraria dependencia de sistemas das instituicoes fornecendo
+dados, e ainda deve-se considerar que pode haver inconsistencia entre os dados, que
+precisariam ser tratados. Alem disso, a manutencao continua do sistema e a atualizacao
+regular dos dados sao aspectos importantes a serem considerados na avaliacao da
+viabilidade do projeto. Uma alternativa para mitigar estas questoes seria atraves da
+colaboracao descentralizada, i.e. permitir que os proprios cidadaos tambem possam
+compartilhar e monitorar as informacoes no sistema.
+
+Reflexao Etica
+
+O sistema tem o potencial de ser uma ferramenta vital na mitigacao dos riscos
+associados ao rompimento de barragens, um cenario que, como evidenciado pelas
+tragedias de Mariana e Brumadinho, pode ter consequencias devastadoras. Uma questao
+etica central e que e crucial a precisao e confiabilidade das informacoes fornecidas pelo
+sistema. Dada a gravidade potencial de um rompimento de barragem, um alarme falso
+ou um erro no sistema nao so poderia causar panico desnecessario, mas tambem corroer
+a confianca no sistema, tornando menos provavel que os alertas futuros sejam levados a
+serio. Alem disso, o sistema deve ser acessivel a todos que possam ser afetados por um
+rompimento de barragem, ou seja, ele deve ser acessivel a todos, e projetado de forma a
+ser facilmente utilizavel por pessoas com variados niveis de habilidade tecnologica e
+disponibilidade de recursos.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho propoe o Barragem Vigilante, um prototipo de sistema que visa minimizar os impactos dos desastres relacionados a barragens de rejeitos, atraves do compartilhamento de informaçoes, alertas e consulta de cidadaos. Em um cenario de crise climatica intensificada, este sistema tem o potencial de salvar vidas e promover a conscientizaçao publica sobre os riscos associados a esta atividade. As avaliaçoes iniciais demonstram a usabilidade do sistema e seu potencial impacto na sociedade. Contudo, considera-se importante realizar testes com a comunidade a fim de validar as funcionalidades do prototipo.

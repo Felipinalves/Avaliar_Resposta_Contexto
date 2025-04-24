@@ -1,0 +1,138 @@
+**RESUMO**
+
+A desinformaçao e a propagaçao de fake news sao problemas
+presentes em todo o mundo. Este artigo surge como contribuiçao para o
+controle da disseminaçao de noticias falsas, e tem como objetivo apresentar o
+MAIA, um jogo para smartphone que, a partir de perguntas sobre a
+veracidade ou nao de noticias, projetadas em RA sobre totens espalhados em
+praças publicas, estimula o desenvolvimento do senso critico de seus usuarios
+de modo atrativo e prazeroso. O projeto nasceu de uma pesquisa atraves de
+tres metodos de coleta de dados, formulario online, entrevista e netnografia,
+que permitiram levantar as maiores dores do publico relativas a
+desinformaçao. Com base nos dados obtidos, foi elaborada uma soluçao
+gamificada, que visa estimular o senso critico de seus usuarios atraves da
+analise de noticias. A partir da reflexao de Marilena Chaui, o usuario,
+desafiado pelo jogo, tem seu estado de ignorancia confrontado, sendo tomado
+pela incerteza e insegurança, fazendo-o perceber sua ignorancia e resultando
+no estimulo pela busca da verdade.
+
+**INTRODUCAO**
+
+O uso de tecnologias digitais, e o acesso a informaçao por intermedio delas, so cresce.
+Entre 2014 e 2018, a taxa de utilizaçao de smartphones para consumo de noticias entre
+brasileiros subiu, indo de 35% para 65%. Esse aumento e um dos
+dados que indicam o surgimento, no ambito das tecnologias digitais, de um espaço
+propicio para a ampliaçao dos casos de desinformaçao e propagaçao de fake news, com
+real capacidade de influenciar o entendimento da populaçao diante de informaçoes e
+interferir, consequentemente, em decisoes coletivas, em areas vitais da politica,
+educaçao, saude e segurança.
+
+A partir dessa constataçao, o desenvolvimento de um trabalho com potencial de
+contribuir para o controle da disseminaçao de noticias falsas, atraves da melhoria da
+percepçao perante as informaçoes, traria beneficios evidentes a sociedade. Com esse
+objetivo, nasceu este projeto, a partir da implementaçao do processo de design Ciclo de Vida em Estrela e a realizacao de tres pesquisas de campo, que resultaram no MAIA,
+um jogo prazeroso e atrativo que promove a formacao do senso critico do usuario
+atraves da analise de noticias apresentadas em um sistema de Realidade Aumentada
+(RA), conectando espaço fisico e digital.
+
+
+**METODOLOGIA**
+
+O Ciclo de Vida em Estrela e um processo de design que nao estabelece uma sequencia
+de execuçao de suas etapas, tornando a definiçao uma escolha do time . A ordem de execuçao das atividades neste projeto
+foi: Analise de tarefas, usuarios e funçoes, Especificaçao de requisitos,
+Projeto conceitual e a especificaçao do design, Prototipaçao e Implementaçao.
+Ao fim de cada uma dessas etapas, foi realizada uma Avaliaçao, quando se debateram as
+produçoes e foram propostos pontos para melhoria e/ou aprovaçao.
+
+Na etapa 1, foram pesquisados os impactos e possiveis origens do problema,
+levando ao planejamento e a execuçao de tres pesquisas de campo: Formulario
+online; Entrevista e Netnografia. Na etapa 2, foi realizada a analise das coletas
+de dados, resultando na criaçao das personas e das necessidades do sistema. Na etapa 3,
+foi realizada a MoLIC , que
+permitiu estabelecer a interaçao do usuario com o sistema. Na etapa 4, foi construido o
+prototipo da soluçao. Ja a etapa 5, Implementaçao, e uma atividade futura do projeto,
+mas ja planejada a partir do cenario de uso e analise de viabilidade.
+
+**JUSTIFICATIVA**
+
+Para a coleta de dados, foram realizadas tres pesquisas utilizando metodos diferentes:
+Formulario online, em que se buscou entender quais canais de comunicaçao sao mais
+usados para consumir informaçoes e quais os temas sao mais relevantes (saude, politica,
+educaçao, etc; Entrevista visando entender a relaçao das pessoas com as
+informaçoes que recebem; Netnografia em grupos de compartilhamento de noticias
+politicas, com o objetivo de entender como os receptores reagem aquilo que recebem.
+
+O formulario online teve 63 participantes, com media de idade de 25 anos. Para
+esse publico, as fontes de informaçoes mais confiaveis sao os jornais, seguidos dos
+programas televisivos e aplicativos/sites de noticias. Ja redes sociais como Twitter,
+Instagram e WhatsApp sao consideradas fontes menos confiaveis. Quanto aos assuntos,
+noticias relacionadas a saude, politica, cultura e entretenimento sao as mais consumidas.
+
+As entrevistas contaram com 26 respondentes, com uma idade media de 27 anos
+e uso diario de aparelhos eletronicos de 6 horas. 61,54% deles se classificaram como
+bem informados, por acompanharem as noticias na internet, e disseram que, quando
+suspeitam da veracidade de alguma informaçao, procuram a validaçao atraves de
+pesquisas online. Ja os demais entrevistados afirmaram que nao se consideram bem
+informados e nao conseguem se informar devido a falta de tempo dentro de suas rotinas.
+Como relatou um dos participantes: “O tempo e muito corrido, como a profissao requer
+muito tempo, nao sobra para ficar acompanhando as atualidades”. Outro dado relevante
+e que 53,85% dos respondentes que buscam a veracidade dos fatos afirmaram nao
+conseguirem distinguir noticias falsas e verdadeiras.
+
+A netnografia foi realizada durante sete dias em dois grupos de
+compartilhamento de noticias politicas no Telegram. Na analise, ficou evidente que os
+membros possuiam um forte vies de confirmaçao. Um caso que exemplifica isso ocorreu
+no quinto dia, por meio de um comentario sobre uma pesquisa de intençao de voto para
+presidente. Um membro afirmou que, como o “Candidato A” estava liderando, aquela
+informaçao seria falsa.
+
+A partir da analise dos dados, foi determinado que a soluçao teria que, para o
+usuario: fazer parte da sua rotina; promover uma interaçao atrativa e prazerosa;
+ser capaz de desenvolver e estimular seu senso critico.
+
+**SOLUCAO PROPOSTA**
+
+MAIA e um jogo para smartphone que, a partir de perguntas sobre a veracidade ou nao
+de noticias, projetadas em RA sobre totens espalhados em praças publicas, estimula o
+desenvolvimento do senso critico de seus usuarios de modo atrativo e prazeroso.
+
+Para tornar a experiencia do usuario prazerosa, o sistema funciona como um jogo
+em que o jogador e estimulado a se
+questionar sobre noticias antigas, que podem ou nao estar alteradas. Ao utilizar noticias
+desatualizadas, sao evitadas possiveis polemicas que poderiam influenciar na
+popularidade e no uso do aplicativo.
+
+A partir da sua geolocalizaçao, o usuario recebera uma notificaçao sobre a
+existencia de uma noticia a ser analisada em um Totem MAIA das proximidades. Apos
+isso, o jogador ira: escanear o totem com a camera do smartphone, projetando os
+blocos de informaçao em RA; indicar o nivel de veracidade da noticia em uma
+escala Likert¹. Nesse momento, quando desafiado pelo jogo, ele tera seu estado de
+ignorancia confrontado ; na ultima etapa , ele recebe o feedback do
+MAIA, que indicara o grau de veracidade da noticia analisada. Aqui, o jogador e
+tomado pela incerteza e insegurança, fazendo-o perceber sua ignorancia, o que resulta
+na vontade pela busca da verdade e no estimulo ao fortalecimento do seu
+senso critico.
+
+Apos a analise caso essa esteja correta e o jogador mantenha uma frequencia
+de analises semanais, para garantir que esteja exercitando seu senso critico ocorre uma
+premiaçao em pontos que podem ser trocados por descontos em eventos culturais, como
+cinemas, teatros e museus.
+
+Os totens MAIA serao instalados em praças publicas, lugares de passagem e,
+tradicionalmente, de troca de informaçao. Essa localizaçao permite que a interaçao seja
+um pequeno desvio na rotina do publico e aumenta a visibilidade do projeto. Ao lado do
+totem, havera um banner com QR Code que direciona a loja de aplicativos, para a
+instalaçao do jogo.
+
+Os totens sao os marcadores da RA uma combinacao entre elementos reais e digitais que permitem uma interacao tridimensional em tempo real Eliseu 2016 A escolha da tecnologia se deve pela facilidade de implementacao pois mais de 3 bilhoes de pessoas possuem smartphones e o acesso ao dispositivo permite o uso do recurso de Global Positioning System GPS Junior 2015 que compartilhara a localizacao do usuario com a aplicacao MAIA notificando-o da existencia de uma noticia para analise e indicando o caminho ate o totem.
+
+Cenario de Uso
+Fabio Alves esta a caminho do trabalho quando passa por um Totem MAIA que desperta sua curiosidade Por estar com pressa ele tira a foto do banner ao lado do totem com um QR Code e ao chegar no seu destino decide baixar o aplicativo fazer o cadastro e so entao iniciar sua rotina de trabalho Voltando para casa Fabio recebe uma notificacao no celular avisando que uma noticia esta disponivel para analise Apos a interacao ele recebe uma premiacao em pontos que podem se tornar descontos em diferentes locais que possuem parceria com o MAIA.
+
+Viabilidade
+Para a concretizacao da solucao e necessario I Realizar testes de usabilidade com possiveis usuarios para aprimorar o aplicativo II Desenvolver o MAIA e a solucao em RA com o uso de JavaScript e outras APIs III Produzir e instalar os totens MAIA IV Realizar parcerias com governos e instituicoes culturais.
+
+**CONCLUSAO**
+
+A criaçao do MAIA representa uma abordagem inovadora para estimular o senso critico em relaçao as noticias, aproveitando a tecnologia da Realidade Aumentada de forma ludica e envolvente. Ao conectar o mundo digital ao espaço fisico, o jogo promove uma experiencia imersiva que desafia os usuarios a questionarem a veracidade das informaçoes que recebem. Ao confrontar a ignorancia e estimular a busca pela verdade, o MAIA se apresenta como uma ferramenta valiosa no combate a desinformaçao e na promoçao de uma sociedade mais informada e consciente.

@@ -1,0 +1,111 @@
+**RESUMO**
+
+O entendimento dos substantivos no ensino fundamental I e crucial
+para a escrita na lingua portuguesa, mas seu ensino tradicional enfrenta
+diversos desafios. Diante disso, a gamificaçao surge como uma
+abordagem promissora para supera-los, tornando a aprendizagem mais
+divertida e eficaz. Este trabalho apresenta o “Substantivando”, um
+aplicativo gamificado que utiliza quizzes, sistemas de pontuação e
+ranking, feedback imediato e tutoriais com o objetivo de tornar o estudo
+dos substantivos mais envolvente e estimulante, alem de melhorar o
+aprendizado dos alunos.
+
+**INTRODUCAO**
+
+Os substantivos constituem uma classe gramatical na lingua portuguesa
+responsavel por nomear pessoas, objetos, lugares, sentimentos e ideias,
+sendo uma das primeiras classes ensinadas durante o ensino fundamental
+I, conforme a Base Nacional Comum Curricular (BNCC). Devido a sua
+relaçao com outras classes gramaticais, a compreensao dos substantivos
+e crucial, pois sao fundamentais na construçao, concordancia e coesao
+das frases.
+
+Contudo, seu estudo centrado em abordagens tradicionais de ensino
+pode desmotivar os estudantes, devido a falta de participaçao ativa, a
+enfase excessiva na memorizaçao e ao controle rigido sobre o processo
+educativo , o que destaca a necessidade de abordagens de ensino mais
+dinamicas e interativas.
+
+
+Uma soluçao promissora e a gamificaçao, que aplica elementos de
+design de jogos em contextos nao relacionados a jogos , sendo muito
+explorada na educaçao . Esta abordagem tem mostrado aumentar o
+engajamento dos alunos, criando um ambiente de aprendizado mais
+colaborativo e estimulando a participaçao ativa no processo
+educacional . No contexto digital, o estudo de Widagdo et al. (2024)
+revelou que o uso de aplicativos gamificados tem um impacto mais
+positivo na experiencia do usuario (UX) em comparaçao com aplicativos
+nao gamificados, aumentando o interesse, motivaçao, satisfaçao,
+empolgaçao, alem de ser mais intuitivo e eficaz na retençao dos
+usuarios.
+
+Neste contexto, este trabalho apresenta o Substantivando, um aplicativo
+educativo que utiliza gamificaçao para aprimorar a experiencia dos
+alunos do ensino fundamental I no estudo da classe gramatical do
+substantivo, tornando o aprendizado mais interessante, motivador e
+envolvente. O Substantivando inclui funcionalidades, como explicaçoes
+simplificadas, quizzes, sistema de pontuação, feedback imediato,
+sistema de ranking, e tutorial, a fim de melhorar a retençao do conteudo
+e potencializar o aprendizado dos alunos por meio de uma experiencia
+de estudo ludica. Dessa forma, o Substantivando visa contribuir para a
+area de Interaçao Humano-Computador (IHC) ao servir como uma
+ferramenta alternativa de apoio, com o objetivo de melhorar a UX no
+processo educacional.
+
+Alem do Substantivando, outros trabalhos utilizam a gamificaçao para o
+ensino dos substantivos, como os jogos educativos “Portal”  e o “Caça
+aos Coletivos” . O Portal, alem do ensino dos substantivos, tambem
+aborda outras classes gramaticais, oferecendo quizzes, explicaçoes e
+feedbacks. No entanto, suas explicaçoes sobre os substantivos sao
+bastante simplificadas e nao utilizam de exemplos graficos para
+ilustraçao, ao contrario do Substantivando, que fornece explicaçoes mais
+detalhadas e ricas com exemplos graficos, visando facilitar o
+entendimento dos alunos. Por outo lado, o “Caça aos Coletivos” e um
+jogo de exploraçao composto por niveis, onde o personagem procura
+coletivos pela cena. Este jogo foca apenas em um tipo de substantivo
+(coletivos), enquanto o Substantivando oferece uma visao mais ampla da
+estrutura dos substantivos, permitindo um estudo mais completo sobre o
+tema.
+
+Substantivando
+
+Nesta seção, sao discutidos o processo de desenvolvimento do Substantivando (subseção 2.1), bem como o funcionamento do aplicativo, apresentando suas principais telas, funcionalidades operantes e os elementos de gamificacao adotados (subseção 2.2).
+
+Metodologia de Desenvolvimento
+Para o desenvolvimento do jogo, primeiramente foi realizado um estudo bibliografico no campo das revisoes da literatura (Laine and Lindberg 2020, da Silva Neto et al. 2023, Larrosa et al. 2023, Lampropoulos et al. 2024) para compreender os elementos da gamificacao mais utilizados e seus efeitos gerados nos usuarios. Este estudo inicial foi fundamental para decidir quais desses elementos seriam incorporados no Substantivando, visando gerar interesse nos alunos no estudo dos substantivos.
+
+Apos o levantamento bibliografico, com a ajuda de uma pedagoga do ensino fundamental foi desenvolvido os esbocos visuais da aplicacao utilizando o editor grafico Canva, escolhido por ser gratuito e oferecer diversos templates. O objetivo dos esbocos era facilitar a expressao das ideias e representar visualmente as intencoes de design e estrutura do Substantivando, incluindo os elementos de gamificacao, funcionalidades e o conteudo relacionado aos substantivos. Apos a analise, iniciou-se o desenvolvimento da versao mobile, implementando todos os aspectos definidos nos esbocos. Para isso, foi utilizada a ferramenta Unity, uma plataforma de desenvolvimento de jogos e aplicativos, escolhida principalmente pela familiaridade da equipe com a ferramenta.
+
+Mecanica do Jogo
+Ao iniciar o Substantivando, a primeira tela exibe a logo do jogo (Figura 1(a)), conhecida como splash screen, que serve como uma introducao visual do jogo. Em seguida, os jogadores sao apresentados a tela principal do jogo (Figura1(b)), onde sao exibidos tres botoes de acesso: Jogar, Ranking e Tutorial. Atraves do botao Tutorial (Figura 1(c)), sao fornecidas explicacoes simplificadas sobre o funcionamento do jogo. O tutorial utiliza uma mascara escura, clareando o elemento em foco enquanto obscurece o restante da tela, visando direcionar a atencao do usuario para o que esta sendo explicado.
+
+A tela seguinte ao botao Jogar (Figura 1(d)), exibe temas enumerados de 1 a 9, relacionados as classificacoes e flexoes dos substantivos. Estes temas estao organizados da seguinte forma: 1 - Conceito do Substantivo, 2 - Substantivos Coletivos, 3 - Comuns e Proprios, 4 - Concretos e Abstratos, 5 - Primitivos e Derivados, 6 - Simples e Composto, 7 - Genero (feminino e masculino), 8 - Grau (aumentativo e diminutivo); e 9 - Numero (singular e plural). Esta categorizacao e baseada em materias didaticos sobre a gramatica do portugues (Cunha and Cintra 2016, Bechara 2018), buscando permitir que os usuarios aprendam e internalizem cada aspectos dos substantivos em etapas.
+
+Ao selecionar qualquer tema, as informacoes sobre o titulo do conteudo e a quantidades de questoes respondidas e acertadas sao exibidas acima do botao play (Figura 1(d)), com o objetivo de permitir que o usuario acompanhe seu progresso em cada tema. Ao clicar no botao play, o estudo do tema e iniciado, sendo exibido o nome do tema na parte superior da tela. Alem disso, sao apresentadas explicacoes simplificadas (Figura 2(a)) e exemplos com elementos graficos do conteudo (Figura 2(b)), visando tornar o material didatico mais envolvente e atrativo. Apos as explicacoes, os alunos sao apresentados a perguntas de multipla escolha sobre o tema escolhido (Figura 2(c) e 2(d)), conhecidas como quizzes na gamificacao (Lampropoulos et al. 2024).
+
+Nas perguntas, o usuario e solicitado a escolher a palavra que pertence ao tema estudado, permitindo testar a assimilacao do conhecimento adquirido nas telas anteriores. Depois de escolher, e fornecido um feedback imediato ao aluno sobre sua resposta, indicando se esta correta (Figura 2(c)) ou errada (Figura 2(d)). No caso do feedback incorreto, ocorre a especificacao do motivo do erro ao usuario, visando permitir uma evolucao continua no aprendizado ao corrigir rapidamente os erros e reforcar o conteudo (Fu and Li 2022, Laine and Lindberg 2020).
+
+Por outro lado, ao selecionar a resposta correta, o jogador e parabenizado e recompensado com a adicao de 1 ponto no sistema de pontuacao adotado pelo Substantivando. Este sistema opera globalmente na aplicacao, registrando o maximo de acertos de todos os temas, podendo ser visualizado no canto inferior direito da Figura 1(d). Seu objetivo e aumentar a motivacao intrinseca do aluno no aprendizado ao oferecer recompensas, como os pontos, pelo desempenho (Razali et al. 2020, Christopoulos and Mystakidis 2023).
+
+Este sistema de pontuacao e essencial para o sistema de ranking da ferramenta (Figura 2(e)), que classifica os 10 jogadores com mais pontos no jogo. O sistema opera online e em tempo real, permitindo que os usuarios, ao submeterem seu username, acompanhem sua posicao em relacao aos demais participantes, visando promover engajamento e motivacao atraves da competicao (Sawarkar et al. 2024).
+
+**CONCLUSAO**
+
+Este estudo apresentou o Substantivando, um aplicativo educacional
+gamificado projetado para melhorar a experiencia de aprendizado dos
+alunos do ensino fundamental I sobre os substantivos, suas
+classificaçoes e flexoes. O aplicativo pode ser utilizado como um
+recurso complementar, tanto em sala de aula quanto para estudo em
+casa. Para futuras etapas, planeja-se realizar avaliaçoes heuristicas do
+Substantivando por especialistas em UX, para melhorar a usabilidade e
+otimizar a UX do aplicativo, visando aumentar o interesse dos alunos
+pelo conteudo do jogo. Alem disso, serao feitos testes com o publico-
+alvo para avaliar o impacto do uso do aplicativo na experiencia e no
+aprendizado dos alunos, comparando resultados antes e apos a sua
+implementaçao. Tambem se espera adaptar o jogo para diferentes niveis
+de ensino, ajustando suas funcionalidades e conteudos as necessidades
+e estilos de aprendizagem dos alunos em novos contextos educacionais.
+
+**CONSIDERACOES FINAIS**
+
+O desenvolvimento do aplicativo Substantivando demonstra o potencial da gamificaçao para tornar o aprendizado de substantivos mais envolvente e eficaz para alunos do ensino fundamental I. A abordagem ludica, combinada com elementos como quizzes, feedback imediato e ranking, contribui para a motivaçao e o engajamento dos estudantes, incentivando a participaçao ativa e a busca pelo conhecimento. O uso de recursos visuais e explicaçoes claras tambem facilita a compreensao do conteudo, tornando o aprendizado mais acessivel e significativo.

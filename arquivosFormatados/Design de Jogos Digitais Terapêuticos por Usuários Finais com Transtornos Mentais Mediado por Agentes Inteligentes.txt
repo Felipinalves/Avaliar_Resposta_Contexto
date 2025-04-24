@@ -1,0 +1,164 @@
+**RESUMO**
+
+O Laboratorio de Interaçao Flexivel e Sustentavel esta construindo
+uma ferramenta que visa permitir o desenvolvimento de jogos por
+usuarios finais. A ferramenta nao foi desenvolvida com finalidade
+terapeutica, porem foi aplicada com pacientes do Centro de Atençao
+Psicossocial Alcool e Drogas de Sao Carlos - SP. Essa aplicaçao foi
+tutorada por agentes humanos (profissionais da computaçao e tera-
+peutas do CAPS-AD), que observaram potencial pesquisa no sentido
+de analisar o seu reflexo terapeutico nos pacientes. Dentro desse
+contexto, o objetivo deste trabalho consiste em investigar o design
+de jogos digitais terapeuticos por usuarios finais com transtornos
+mentais. Apos os resultados dessa investigaçao, buscar-se-a propor
+uma soluçao para apoiar os usuarios finais com transtornos mentais
+a fazerem design e programarem jogos digitais terapeuticos, sem
+a necessidade da presença fisica de profissionais da computaçao.
+O trabalho tambem busca investigar se o ato de construir jogos
+pode de fato auxiliar no tratamento dos pacientes. Tendo como foco
+os objetivos propostos, buscas na literatura estao sendo realizadas
+para identificar o estado da arte relativo ao tema. Paralelamente,
+uma pesquisa utilizando o metodo de pesquisa-açao sera aplicada,
+visando identificar as dificuldades dos usuarios finais (pacientes)
+em construir o design e implementar jogos digitais terapeuticos.
+Apos analise qualitativa dos dados levantados, uma soluçao sera
+proposta e a mesma sera avaliada por meio de um estudo de caso.
+
+**INTRODUCAO**
+
+A aplicaçao dos saberes em computaçao visando apoiar outras areas
+de conhecimento e uma realidade no cenario mundial . Sistemas
+sao desenvolvidos buscando melhorar a vida das pessoas, individual
+e coletivamente.
+
+A criaçao de sistemas computacionais para auxiliar a area da
+saude esta em crescente expansao . Tem-se desenvolvido desde
+programas aplicativos que apoiam os profissionais da saude em
+seus consultorios (e.g. planilhas eletronicas, softwares para con-
+trole financeiro e de pacientes, etc.), ate jogos digitais criados para
+auxiliar diretamente no tratamento de pacientes.
+
+No contexto de jogos digitais, o Laboratorio de Interaçao Flexivel
+e Sustentavel (LIFeS) do Departamento de Computaçao (DC) da
+Universidade Federal de Sao Carlos (UFSCar), vem desenvolvendo
+uma ferramenta que visa apoiar a criaçao de jogos por e para to-
+dos. A ferramenta, nomeada Lepi, esta pautada em duas frentes
+principais: a criaçao de jogos digitais e o uso desses jogos criados
+.
+
+A Lepi foi aplicada com pacientes do Centro de Atençao Psicosso-
+cial Alcool e Drogas (CAPS-AD) de Sao Carlos - SP. Nas atividades
+no CAPS-AD os pesquisadores observaram que a atividade de criar
+jogos propiciou certo efeito terapeutico nos pacientes .
+
+As atividades porem foram restritas a uma hora a cada quinze
+dias. Essa restriçao se deu pela inviabilidade dos pesquisadores
+da computaçao estarem presentes no CAPS-AD por mais tempo.
+E, apesar da Lepi apoiar a construçao de jogos por e para todos,
+os pacientes (usuarios finais) tiveram a necessidade de apoio dos
+profissionais da computaçao para que conseguissem criar os jogos.
+
+Nesse contexto, os pesquisadores se sentiram motivados a prover
+um meio para apoiar o desenvolvimento de jogos digitais por usuá-
+rios finais sem a presença fisica de profissionais da computaçao. E
+pesquisar sobre como o desenvolvimento de jogos digitais terapêu-
+ticos por usuarios finais pode auxiliar na terapia dos mesmos.
+
+O LIFeS ja vem pesquisando sobre design de jogos digitais te-
+rapeuticos, sendo que uma abordagem foi formalizada para esta
+categoria de jogos. A SemTh e uma abordagem participa-
+tiva que apoia profissionais multidisciplinares no design de jogos
+digitais terapeuticos.
+
+Um mapeamento sistematico inicial foi realizado com o intuito
+de levantar o estado da arte em relaçao a sistemas de tutoria inteli-
+gente para o ensino de programaçao de jogos digitais terapeuticos.
+O mapeamento apontou uma carencia de trabalhos relacionados
+na literatura e, a partir dessa carencia, definiu-se a problematica
+sobre como tutorar o design e programaçao de jogos digitais tera-
+peuticos por usuarios finais, sem a presença fisica de profissionais
+da computaçao.
+
+Considerando o que foi exposto, o objetivo deste trabalho con-
+siste em investigar o design de jogos digitais terapeuticos por usuá-
+rios finais com transtornos mentais. Analisando os potenciais efei-
+tos terapeuticos e buscando um meio para apoiar (tutorar) esses
+usuarios de forma nao presencial, visando uma soluçao escalavel.
+
+Como objetivos específicos destacam-se:
+
+Levantar o estado da arte sobre design de jogos digitais terapeuticos e end-user development;
+Investigar os desafios encontrados por usuarios finais com transtornos mentais em fazer design e programar jogos digitais terapeuticos;
+Criar uma solucao que apoie usuarios finais com transtornos mentais a fazerem design e programar jogos digitais terapeuticos, sem a presenca fisica de profissionais da computacao.
+
+FUNDAMENTACAO TEORICA
+
+Nesta secao apresenta-se a base teorica que fundamenta o projeto de pesquisa.
+
+Design de Jogos Digitais Terapeuticos
+
+Os jogos digitais podem ser definidos como ambientes atraentes e interativos que capturam a atencao do jogador ao oferecer desafios que exigem niveis crescentes de destreza e habilidades. Eles tambem oferecem formas de interacao dinamicas impossiveis de se observar em ambientes nao digitais e maior rigidez das regras, ja que nos jogos nao digitais sempre existe um espaco para negociacao entre os jogadores.
+
+Com a expansao do uso de tecnologias, os jogos digitais evoluiram para alem do entretenimento, surgindo o conceito de Serius Games (SG). Os SG sao aplicacoes computacionais interativas que proporcionam metas desafiadoras de uma forma divertida. Os serius games podem atuar na area da educacao, formacao profissional, saude, entre outras. Os jogos digitais terapeuticos se enquadram na categoria de SG voltados para a saude.
+
+O termo terapia consiste em qualquer tratamento pretendido e esperado para aliviar doencas ou desordens. Qualquer tecnica de recuperacao que possa ser medica, psiquiatrica ou psicologica e considerada uma tecnica terapeutica. Com base nessa definicao de terapia, pode-se considerar os jogos digitais terapeuticos como jogos que produzem efeito terapeutico direto, esperado e pretendido sobre os pacientes que o jogam. Esse efeito terapeutico pode aliviar, melhorar ou curar a condicao especifica dos pacientes.
+
+O design do jogo e o processo pelo qual um designer de jogos cria um jogo. Para um jogo terapeutico, o designer do jogo precisa definir uma jogabilidade a partir da qual emergem sessoes de jogo significativas e motivadoras. Com base nos estudos sobre jogos digitais, acredita-se que o design de jogos digitais terapeuticos se difere dos demais pela necessidade de participacao de especialistas no dominio da terapia a ser atendida.
+
+SemTh
+
+A SemTh e uma abordagem para o design de jogos digitais terapeuticos que apoia a participacao de diferentes profissionais durante todo o processo de design. Ela possui etapas iterativas, que apoiam a participacao e colaboracao de profissionais da computacao, profissionais da saude e pacientes no processo de construcao de jogos orientados ao contexto da patologia a ser atendida. A abordagem e composta por quatro etapas, sendo elas: 1) Clarificacao do Problema de Design, 2) Modelagem da Interacao, 3) Materializacao do Design e 4) Avaliacao.
+
+A Clarificacao do Problema de Design visa entender o dominio no qual o jogo sera aplicado e, como resultado desta etapa, propor um estilo para esse jogo. Como resultado da etapa de Clarificacao do Problema de Design deve-se especificar a mecanica, a estetica, a narrativa e a tecnologia que serao aplicadas ao jogo a ser desenvolvido.
+
+A Modelagem da Interacao consiste em modelar as interacoes para o jogo. Pelo fato dos jogos terapeuticos estarem em um contexto multidisciplinar, a SemTh sugere o uso da linguagem de modelagem de dominio especifico para aplicacoes terapeuticas. A linguagem foi criada com a intencao de facilitar a comunicacao no contexto multidisciplinar. Como resultado desta etapa de modelagem tem-se a especificacao das cenas (interacoes) do jogo.
+
+A Materializacao do Design e a terceira etapa da SemTh e consiste em criar prototipos e realizar a implementacao do jogo. Os prototipos podem ser desde prototipos em papel ate versoes iniciais codificadas do jogo. Como resultado desta etapa, tem-se uma versao executavel do jogo proposto.
+
+A etapa de Avaliacao consiste em avaliar o jogo desenvolvido ou os prototipos do jogo. Essa avaliacao deve ser realizada pela equipe executora do projeto e pelos usuarios (pacientes). Caso necessario, deve-se voltar a etapas anteriores para correcoes eou adicao de novos requisitos, fechando o fluxo proposto pela abordagem.
+
+End-User Development
+
+End-User Development (EUD) e um campo de pesquisa que estuda tecnicas e metodos para capacitar os usuarios finais a modificarem e criarem artefatos digitais. Visando permitir que usuarios finais criem novas funcionalidades ou modifiquem as existentes em sistemas computacionais. Seu objetivo principal e empoderar os usuarios, ao permitir que eles mesmos desenvolvam ou adaptem sistemas para satisfazer as suas necessidades.
+
+EUD e um conjunto de praticas, metodos, tecnicas e ferramentas que propiciam aos usuarios finais a oportunidade de criarem, modificarem ou estenderem um software. Alguns principais conceitos e praticas para abordagens de EUD sao: i) configurability, que caracteriza-se pela capacidade de configuracao e modificacao dos sistemas; ii) tailorability, que aponta que a modificacao de um sistema deve considerar seu contexto de uso; iii) gentle slope, aborda que e importante oferecer ao usuario uma curva de aprendizagem sutil; iv) direct manipulation, procura proporcionar que as alteracoes em um artefato sejam realizadas no proprio artefato (manipulacao direta); v) visual programming, esta relacionado a necessidade de promover a manipulacao de componentes da linguagem de programacao de maneira visual; e vi) natural programming, tem por objetivo oferecer um sistema de programacao que funcione de forma natural, ou seja, da forma que as pessoas esperam e compreendam.
+
+Design Participativo
+
+O Design Participativo (DP) surgiu na Escandinavia, dentro de um contexto voltado para a participacao de funcionarios no processo de desenvolvimento de sistemas. O DP agrega um conjunto de estudos, teorias e praticas relacionadas com usuarios e profissionais de desenvolvimento de software, hardware ou qualquer atividade relacionada ao computador. O DP apresenta uma abordagem valiosa a ambientes inclusivos de design, pois oferece tecnicas que apoiam a participacao direta de usuarios em diferentes fases de design.
+
+Dentre os beneficios do DP destacam-se a melhoria na aprendizagem, da compreensao do sistema e maior participacao das partes interessadas. Para a coleta, analise e projeto podem ser utilizados cenarios para descrever situacoes cotidianas dos envolvidos. Pode-se ainda elaborar prototipos em papel ou informatizados.
+
+No dominio de aplicacoes terapeuticas ha a necessidade de participacao de diferentes profissionais no processo de criacao e desenvolvimento. O DP foi adotado como referencial por trazer principios que proporcionam melhores condicoes de comunicacao entre as diferentes partes interessadas.
+
+PROPOSTA
+
+A programacao por usuarios finais e um conceito ja fundamentado na literatura. A participacao desses usuarios finais, bem como de diferentes partes interessadas, tambem ja e fortemente apoiada pela literatura, principalmente pelas tecnicas de design participativo. Porem, os jogos digitais terapeuticos possuem particularidades e demandam atencao especial na sua construcao.
+
+A proposta deste trabalho consiste em investigar o design de jogos digitais terapeuticos por usuarios finais com transtornos mentais. Nessa investigacao buscar-se-a identificar quais as dificuldades desses usuarios em criar esses jogos e qual o potencial efeito terapeutico exercido sobre os usuarios. Os dados dessa investigacao serao analisados de forma qualitativa e com base neles sera proposta uma solucao para apoiar esses usuarios.
+
+A intencao dos pesquisadores e tornar essa solucao escalavel, ou seja, que possa ser utilizada por varios usuarios finais e apoiar no tratamento de transtornos mentais. Sendo assim, pretende-se criar uma solucao inteligente, que possa auxiliar os usuarios finais no processo de design sem a presenca fisica de profissionais da computacao.
+
+Para isso, acredita-se que utilizando tecnicas de inteligencia artificial, por meio de agentes inteligentes e Sistemas Tutores Inteligentes (STI), sera possivel mediar esse design. Os agentes inteligentes sao representacoes de humanos em um ambiente virtual. Assim, acredita-se ser possivel criar um designer virtual inteligente para apoiar esses usuarios finais com transtornos mentais a fazerem design de jogos digitais terapeuticos.
+
+METODOLOGIA
+
+Para o desenvolvimento deste projeto serao realizadas pesquisas bibliograficas, na busca de se conhecer a literatura dentro do contexto. Os metodos de Mapeamento Sistematico e Revisao Sistematica serao utilizados para delimitar o estado da arte em relacao ao EUD, design de jogos digitais terapeuticos por usuarios finais com transtornos mentais e STI.
+
+Um mapeamento sistematico preliminar foi realizado na intencao de obter uma visao geral sobre o estado da arte relacionado ao uso de STI para o ensino de programacao de jogos digitais terapeuticos. As buscas foram realizadas na ACM Digiital Library, IEEE Xplore e Google Scholar. As questoes de pesquisa buscavam identificar o que o tutor inteligente ensina, como ele funciona e qual o publico alvo.
+
+As buscas revelaram uma carencia na literatura de trabalhos relacionados ao tema. Foram encontrados trabalhos apenas sobre STI para ensino de programacao em geral, mas nao especificos sobre jogos digitais terapeuticos. Nos proximos passos da pesquisa sera realizada uma revisao sistematica mais detalhada sobre o tema, envolvendo tambem EUD e conceitos como end-user design e open design.
+
+Em paralelo as pesquisas na literatura, o metodo de pesquisa-acao sera utilizado. Na busca de investigar o design de jogos digitais terapeuticos por usuarios finais com transtornos mentais, a abordagem SemTh e a ferramenta Lepi serao aplicadas com um grupo de usuarios finais com transtornos mentais e os profissionais da saude que os acompanham. O objetivo e coletar dados sobre quais as dificuldades que os usuarios finais terao em fazer esse design e em que eles precisarao ser apoiados por profissionais da computacao. Os dados serao coletados dados por meio de observacao, imagens, audios, videos, questionarios e entrevistas e, posteriormente, serao analisados por meio de analise qualitativa.
+
+Apos a analise desses dados sera proposta uma solucao inteligente que possa apoia-los nas dificuldades que tiveram, sem que haja a necessidade de presenca fisica de profissionais da computacao. Tecnicas de Inteligencia Artificial, como agentes inteligentes, tendem a serem utilizadas para proposta da solucao.
+
+A solucao sera avaliada por meio de um estudo de caso. Disponibilizando a solucao para usuarios finais com transtornos mentais buscar-se-a verificar se os mesmos conseguiram fazer design e desenvolver jogos digitais terapeuticos com mediacao de um designer nao humano. No estudo de caso os dados tambem serao coletados por meio de observacao, imagens, audios, videos, questionarios e entrevistas e serao analisados por meio de analise qualitativa.
+
+CONTRIBUICOES ESPERADAS
+
+Com a realizacao deste projeto de pesquisa espera-se preencher uma lacuna na literatura sobre o design de jogos digitais terapeuticos por usuarios finais com transtornos mentais. Espera-se que este trabalho traga contribuicoes para a area de Interacao Humano Computador (IHC), formalizando um meio para que usuarios finais utilizem dos conhecimentos de design para a construcao de jogos digitais terapeuticos. E espera-se tambem que este trabalho traga contribuicoes para a area da saude, oferecendo uma solucao que possa apoiar os profissionais em atividades terapeuticas com pacientes com transtornos mentais.
+
+**CONSIDERAÇOES FINAIS**
+
+Este projeto de pesquisa apresenta um grande potencial para contribuir com a area da saude mental, ao investigar e propor soluçoes inovadoras para o design de jogos digitais terapeuticos por usuarios finais com transtornos mentais. Ao empoderar esses usuarios a criarem seus proprios jogos, o projeto pode nao apenas auxiliar no tratamento de seus transtornos, mas tambem promover a sua inclusao social e o desenvolvimento de suas habilidades.

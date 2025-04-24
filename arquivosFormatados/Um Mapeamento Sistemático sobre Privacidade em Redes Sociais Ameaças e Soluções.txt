@@ -1,0 +1,141 @@
+**RESUMO**
+
+Este trabalho apresenta um Mapeamento Sistematico da Literatura
+(MSL) focado em ameaças de privacidade em Redes Sociais Online (RSOs)
+e nas soluçoes existentes para mitiga-las. A busca inicial resultou em 904
+publicaçoes, que, apos a remoçao de duplicatas e a aplicaçao de filtros de
+inclusao e exclusao, foram reduzidas a 43 artigos relevantes. A analise de-
+talhada desses artigos permitiu a criaçao de um catalogo das ameaças mais
+criticas a privacidade dos usuarios em RSOs, conforme citadas na literatura.
+Alem disso, foram identificadas diversas soluçoes academicas destinadas a pro-
+teger os usuarios dessas ameaças, classificadas principalmente como soluçoes
+de prevençao e de mediçao de riscos. Este estudo contribui para uma melhor
+compreensao dos desafios e soluçoes no campo da privacidade em RSOs, ofe-
+recendo uma base solida para pesquisadores e desenvolvedores que buscam
+aprimorar a proteçao dos dados dos usuarios nessas plataformas.
+
+**INTRODUCAO**
+
+As Redes Sociais Online (RSOs) surgiram como um dos fenomenos mais signifi-
+cativos da era digital, conquistando uma popularidade eminente entre seus usuarios
+. Entretanto, a massiva quantidade de dados
+pessoais compartilhados nesses perfis ou associada as atividades dos usuarios tem gerado
+diversas ameaças de privacidade .
+
+Uma ameaça de privacidade e um evento indesejavel que pode causar danos ao
+usuario atraves da exposiçao e manipulaçao de seus dados .
+Embora alguns estudos tenham investigado questoes de segurança e privacidade nes-
+ses sistemas, a pesquisa sobre ameaças de privacidade em RSOs ainda enfrenta
+muitos desafios. A maioria dos trabalhos se concentra em riscos de segurança
+. A segurança tende a fo-
+car na integridade e proteçao dos sistemas em si, enquanto a privacidade esta mais voltada
+para a proteçao dos dados pessoais dos usuarios. Nesse sentido, muitos desses estudos nao
+abordam ameaças e soluçoes de privacidade com um foco direcionado as necessidades e
+proteçao dos usuarios.
+
+Neste contexto, este artigo apresenta um Mapeamento Sistematico da Literatura
+(MSL), que investiga o estado da arte sobre ameaças criticas para a privacidade do usuario
+existentes em RSOs e uma visao geral das soluçoes academicas que podem proteger os
+usuarios dessas ameaças. Os resultados desse estudo tem o potencial de auxiliar pesqui-
+sadores e especialistas em privacidade, tanto na academia quanto na industria, a com-
+preenderem as ameaças de privacidade mais relevantes nas RSOs e a trabalharem para
+mitiga-las de maneira eficaz.
+
+**MAPEAMENTO SISTEMATICO DA LITERATURA**
+
+Um MSL e um tipo de revisao sistematica que visa identificar e classificar os estudos
+cientificos existentes na literatura relacionados a um topico de interesse de uma area de
+pesquisa . Para a conduçao do MSL, considerou-se as diretri-
+zes fornecidas por . O protocolo de um MSL especifica
+os instrumentos que serao utilizados para conduzir o processo especifico em torno da
+execuçao do MSL . Os elementos que compuseram o
+protocolo do MSL serao descritos a seguir.
+
+**Questoes de Pesquisa**
+
+As questoes de pesquisa definidas neste MSL sao apresentadas a seguir:
+QP-1. Quais ameaças de privacidade tem sido consideradas relevantes e precisam
+ser tratadas no contexto de RSOs?
+QP-2. Quais soluçoes tem sido adotadas para lidar com as ameaças de privacidade
+em RSOs?
+QP-3. Que procedimentos metodologicos foram adotados para avaliar as soluçoes
+propostas?
+
+**Estrategia de busca dos artigos**
+
+As bibliotecas digitais Elsevier Scopus, Engineering Village e ACM foram escolhidas
+para a busca das publicaçoes. A estrategia de busca tambem incluiu a definiçao da
+string de busca a ser utilizada nas bases de dados selecionadas. Para estruturar os ter-
+mos da string, foram utilizados os parametros PIO (Population, Intervention e Output)
+. Os termos utilizados que formam a string de busca sao
+apresentados na Tabela 1.
+
+**Criterios para seleçao dos artigos**
+
+Os criterios de seleçao servem para definir se um artigo sera incluido ou excluido do
+MSL, visando garantir a relevancia desses artigos para o contexto da pesquisa. A Tabela
+2 apresenta os criterios de seleçao definidos neste MSL.
+
+Para a execuçao da busca dos artigos, o pesquisador responsavel pelo MSL aplicou as
+strings de busca nas bases de dados definidas. Para garantir a confiabilidade dos resul-
+tados obtidos, cada artigo retornado foi analisado por outros dois pesquisadores. Inicial-
+mente, foram retornadas 904 publicaçoes como resultado da busca inicial nas bibliotecas
+selecionadas (primeiro filtro). Apos a aplicaçao dos criterios de inclusao e exclusao nessas
+publicaçoes, 149 artigos foram selecionados para a aplicaçao do segundo filtro. Todas as
+149 publicaçoes foram lidas por meio da leitura diagonal (introduçao, topicos principais,
+conclusao), e apenas 55 publicaçoes atenderam aos criterios de inclusao. Por fim, apos a
+leitura completa desses artigos (terceiro filtro), um total de 43 artigos foram selecionados
+para a extraçao de dados.
+
+**Resultados**
+
+Esta seçao apresenta de forma resumida os resultados obtidos para cada questao de pes-
+quisa do MSL. Os resultados completos podem ser conferidos em .
+
+QP-1. Quais ameaças de privacidade tem sido consideradas relevantes e
+precisam ser tratadas no contexto de RSOS?
+
+Para identificar e extrair as ameaças mais criticas de privacidade existentes na literatura,
+realizou-se uma analise minuciosa nos artigos encontrados no MSL. Cada artigo foi ana-
+lisado e as ameaças abordadas neles foram extraidas. Apos esse levantamento inicial,
+criou-se um diagnostico de ameaças de privacidade. Com base no diagnostico extraido a
+partir do mapeamento, criou-se um catalogo de ameaças (Figura 1) registrando as ameaças
+de privacidade mais criticas no contexto de RSOs, citadas na literatura. Essas ameaças po-
+dem impactar fortemente a privacidade do usuario na forma de divulgaçao, manipulaçao
+ou uso indevido de dados privados.
+
+QP-2. Quais soluçoes tem sido adotadas para lidar com as ameaças de
+privacidade em RSOs?
+
+Os resultados apresentados nessa subseçao respondem a questao de pesquisa (QP-2).
+Diversos trabalhos propuseram soluçoes academicas para proteger os usuarios contra
+inumeras ameaças de privacidade. A maioria das soluçoes identificadas direcionam o
+foco da sua proposta principalmente para a prevençao e mediçao de riscos associados a
+ameaças de privacidade. No entanto, observou-se que ainda existem limitaçoes e algumas
+lacunas nao cobertas pelas soluçoes existentes, que podem ser relevantes para a proposta
+de novas soluçoes.
+
+QP-3. Que procedimentos metodologicos foram adotados para avaliar as
+soluçoes propostas?
+
+Esta questao de pesquisa teve como principal objetivo apresentar quais os principais pro-
+cedimentos metodologicos que foram adotados para avaliar as soluçoes identificadas no
+MSL. Observou-se que a maioria das soluçoes foram avaliadas por meio de simulaçoes,
+nao sendo testadas ou utilizadas em projetos reais na industria ou em outras organizaçoes.
+Alem disso, nota-se que ha uma carencia na adoçao de instrumentos de coleta de dados
+qualitativos, como entrevistas ou grupos focais.
+
+**Conclusoes**
+
+Este trabalho apresentou um Mapeamento Sistematico sobre ameaças de privacidade em
+RSOs e soluçoes existentes para mitiga-las. Com base no MSL executado, criou-se um
+catalogo, que indica as ameaças mais criticas no contexto de RSOs, citadas na literatura.
+Esse catalogo foi gerado a partir de uma analise minuciosa realizada nos artigos iden-
+tificados no MSL. Os resultados do MSL tambem revelaram diversos estudos propondo
+soluçoes academicas para proteger os usuarios contra inumeras ameaças de privacidade.
+Tais soluçoes sao classificadas principalmente como soluçoes de prevençao e mediçao de
+riscos associados as ameaças em RSOs.
+
+**CONIDERACOES FINAIS**
+
+Em conclusao, este mapeamento sistematico da literatura forneceu uma visao abrangente das ameaças a privacidade em redes sociais e das soluçoes existentes para mitiga-las. O catalogo de ameaças criado e a identificaçao de lacunas nas soluçoes existentes podem orientar futuras pesquisas e desenvolvimento de ferramentas para a proteçao da privacidade dos usuarios em redes sociais.

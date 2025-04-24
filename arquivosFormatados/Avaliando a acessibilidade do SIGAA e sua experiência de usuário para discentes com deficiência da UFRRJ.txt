@@ -1,0 +1,184 @@
+**INTRODUCAO**
+
+No Brasil, a acessibilidade web e uma obrigaçao legal tanto de empresas com sede ou
+representaçao no pais quanto de orgaos do governo, conforme instituido pela Lei
+Brasileira de Inclusao da Pessoa com Deficiencia, ou Lei n° 13146/2015 .
+Segundo Barbosa e Silva (2010) e Ferraz (2020), a acessibilidade trata-se de eliminar
+barreiras de um sistema de possibilitar que usuarios com capacidades fisicas ou
+cognitivas diversas, com deficiencias ou nao, acessem e interajam com um sistema.
+
+Por isso, vem se popularizando pesquisas que analisam a acessibilidade de sites
+governamentais, como o do portal do Ministerio da Saude , os de serviços
+informaticos do Tribunal de Justiça de Pernambuco , e o
+Sistema Integrado de Gestao de Atividades Academicas (SIGAA), este ultimo tanto por Arruda 2019 quanto por Campos Paiva e Farias 2021 Criado e mantido pela Universidade Federal do Rio Grande do Norte UFRN o SIGAA e adotado por muitas instituicoes publicas de ensino UFRN 2022 como seu principal sistema academico Devido a obrigatoriedade da reserva de vagas para pessoas com deficiencia nos cursos de instituicoes publicas de ensino Brasil 2016 a popularizacao do SIGAA entre essas instituicoes a exigencia legal de que sites do governo sejam acessiveis e seguindo no vies de outros estudos do tipo uma auditoria foi conduzida Com ela averiguouse a acessibilidade do SIGAA no ambito da Universidade Federal Rural do Rio de Janeiro UFRRJ Nesta auditoria diferente das pesquisas de Arruda 2019 ou Campos Paiva e Farias 2021 testes de interface tanto automaticos quanto manuais foram executados embasandose nas diretrizes do Modelo de Acessibilidade em Governo Eletronico eMAG de Brasil 2014 especializadas para sites governamentais Alem disso neste trabalho entrevistaramse alguns discentes com deficiencias diversas assistidos pelo Nucleo de Acessibilidade e Inclusao NAI da UFRRJ utilizandose para isso a System Usability Scale SUS Isso permite contrastar os resultados com aqueles de Arruda 2019 e Campos Paiva e Farias 2021 que empregaram um metodo proprio nas entrevistas Quanto a organizacao do trabalho a metodologia adotada na conducao dos testes e entrevista esta descrita na secao 2 Os resultados obtidos e suas implicacoes acerca da acessibilidade e da usabilidade do SIGAA sao discutidos na secao 3 As consideracoes finais com limitacoes licoes aprendidas e propostas futuras encontramse na secao 4 seguida das referencias.
+
+**METODOLOGIA**
+
+O processo de auditoria foi decomposto em tres subprocessos, conduzidos paralelamente,
+e discutidos nas subsecoes a seguir. Dada a magnitude do sistema, os testes de interface
+foram realizados somente com as paginas dos casos de uso considerados mais relevantes
+na trajetoria academica dos alunos. Sao elas Portal do Discente Consultar Minhas
+Notas seis paginas da turma virtual (Principal Plano de Curso Arquivos Ver Notas
+Tarefas Avaliaçoes) tres paginas para a matricula (Matricula Extraordinaria
+Confirmaçao Ver Comprovante de Matricula) e Oportunidades de Bolsa. Os
+navegadores empregados nesses testes de interface foram o Google Chrome, na versao
+96, e o Brave Browser, na versao 1.33. A versao do SIGAA auditada foi a 4.2.2.
+
+Testes automaticos permitem detectar problemas sintaticos de acessibilidade, oriundos de
+documentos HTML com codigo inapropriado ausencia de descriçao de imagens nao-
+declaraçao da lingua do documento emprego de tags sem semantica, como <div> em
+vez de <main>. Neste trabalho, para testes automaticos, empregou-se o avaliador ASES,
+do governo federal. Ele analisa a conformidade do documento HTML as diretrizes do
+eMAG, listando problemas encontrados e fornecendo uma nota que indica quao acessivel
+esse documento e . Nos testes, o codigo-fonte de cada pagina foi copiado
+do navegador e inserido manualmente no avaliador.
+
+No caso do historico escolar, por se tratar de um arquivo PDF, o ASES nao foi adotado, mas sim o verificador da Tingtun, proprio para esses documentos. A ferramenta guia-se pelas Web Content Acessibility Guidelines 2.1 [Tingtun 2022], nas quais o proprio eMAG se baseou, embora em uma versao menos atual [Ferraz 2020]. O verificador executa 16 testes sintaticos, e exibe uma lista com recomendacoes descumpridas.
+
+Testes Manuais de Interface
+
+Para os testes manuais, empregaram-se ferramentas nativas dos navegadores para inspecionar elementos e visualizar codigo fonte. Testes manuais foram necessarios porque avaliadores automaticos nao conseguem analisar a acessibilidade com completude [Ferraz 2020], ja que se limitam a sintaxe do codigo. Assim, com os testes manuais, investigou-se problemas possiveis com respeito as cores do site; ao comportamento interativo deste; as manipulacoes dinamicas do Document Object Model (DOM). Buscou-se ainda por problemas na navegacao pelo teclado, em que se avaliou se a funcionalidade de elementos interativos era mantida caso essa interacao se desse apenas pelo teclado. Tambem foi verificado se tais elementos ficavam visualmente distintos quando o foco do teclado recaia sobre eles, de modo que um usuario saiba em qual elemento ele se encontra correntemente ao navegar pelo teclado. Por fim, observou-se como o NonVisual Desktop Access (NVDA), um leitor de tela gratuito, processava as paginas. Averiguou-se a compreensao da fluidez da leitura, se a semantica estava adequada, se nenhum elemento necessario a interacao ou navegacao estava inacessivel ao leitor, e se o conteudo de textos, imagens, tabelas e formularios era lido apropriadamente.
+
+Pesquisa de Usabilidade do SIGAA
+
+Alem dos testes, conduziu-se uma pesquisa para avaliar a usabilidade do SIGAA
+conforme percebida por usuarios com deficiencia. Optou-se pela SUS por
+sua confiabilidade, tamanho enxuto e popularidade. Alem disso, como a SUS fornece uma
+nota quantitativa para a usabilidade, e possivel comparar estatisticamente esse indice com
+a nota de outros softwares, de outros estudos, inclusive futuros . Ha
+65 alunos com deficiencia na UFRRJ. Destes, 21 participaram da pesquisa.
+Apesar de esse numero representar so um terço do total, ele ja e estatisticamente suficiente
+, pois um n ≥ 14 sugere que as conclusoes e resultados obtidos pela
+SUS tornam-se praticamente tao confiaveis quanto se houvesse mais participantes.
+
+A SUS consiste em dez afirmaçoes sobre o sistema avaliado. Os participantes
+atribuem um valor de 1 a 5 para cada afirmaçao, indicando quanto concordam com ela.
+A partir das respostas, e feito um calculo para se obter uma nota de 0 a 100, que estima
+quantitativamente a usabilidade percebida do sistema . As perguntas
+da SUS foram traduzidas livremente do ingles ao portugues, e disponibilizadas por meio
+do Google Formulario. O NAI, entao, divulgou o endereço do formulario aos discentes
+com deficiencia da UFRRJ, que participaram voluntariamente, sem se oporem a
+divulgaçao dos resultados. Conforme estipulado pelo Comite de Etica na Pesquisa da
+UFRRJ (2020) na epoca em que as entrevistas foram realizadas, por se tratar de uma
+pesquisa de opiniao publica com participantes anonimos, ela dispensava analise etica.
+
+Resultados e Discussao
+Como houve duas etapas realizadas em paralelo os testes de interface e a pesquisa com
+os usuarios elas serao abordadas separadamente nas subsecoes a seguir
+
+Sobre os Testes
+A media das notas de acessibilidade que o ASES atribuiu as paginas auditadas foi de
+68 41 Nenhuma delas conseguiu uma nota maior que 77 conforme evidenciado na
+Tabela 1 Todas as notas se encontram ou no pior 70 ou no segundo pior entre 70
+e 85 grupo de classificacao do ASES vermelho e laranja respectivamente Souza e
+Almeida 2021 O arquivo PDF do historico escolar do aluno tambem apresentou maus
+resultados com relacao a sua acessibilidade pois falhou com pelo menos dois criterios
+das WCAG nao foi declarada a lingua do documento criterio 3 1 1 nem um titulo para
+ele criterio 2 4 2 Tal arquivo falhou ainda com a recomendacao 3 8 do eMAG porque
+foi disponibilizado apenas como PDF sem alternativa em HTML que e um formato mais
+facilmente processado por tecnologias assistivas como as de leitores de tela
+Ao comparar tal avaliacao com os resultados obtidos por Arruda 2019 que
+tambem analisou com o ASES o Portal do Discente ha uma divergencia entre os estudos
+pois a nota da pesquisa dele foi de 82 27 Isso ocorreu porque naquele trabalho foi
+avaliada uma versao nova do Portal do Discente ainda em fase beta que passou por
+varios ajustes em sua acessibilidade Entretanto mesmo a nota dessa versao e classificada
+como sendo do grupo laranja pelo ASES Arruda 2019 similarmente ao detectado na
+versao atual do portal conforme indicado na Tabela 1
+No Quadro 1 foi utilizada a numeracao das paginas da Tabela 1 para relaciona
+las as recomendacoes do eMAG com as quais falharam em cumprir O quadro foi dividido
+conforme as diretrizes da secao 3 do eMAG 3 1 Marcacao 3 2 Comportamento 3 3
+Conteudo Informacao 3 4 Apresentacao Design e 3 6 Formulario A subsecao 3 5
+Multimidia nao foi incluida porque nao se detectou descumprimento algum as suas
+recomendacoes Foram omitidas do quadro as recomendacoes as quais nao se detectaram
+inconformidades Os testes automaticos evidenciaram os descumprimentos da maioria
+dos itens da subsecao 3 1 bem como dos itens 3 1 e 3 6 da subsecao 3 3 e o item 6 1 da
+subsecao 3 6 Os demais descumprimentos foram identificados por meio de testes
+manuais Todas as paginas falharam com multiplas recomendacoes do eMAG
+Da subsecao Marcacao dentre as recomendacoes que menos se cumpriram
+ressaltam se a 1 1 Respeitar os Padroes Web e a 1 3 Utilizar Corretamente os Niveis de
+Cabecalho Na interface auditada nao ha uma separacao apropriada das camadas logicas
+de conteudo apresentacao e comportamento No mais tags de cabecalho como h1 e
+h2 nao estao organizadas hierarquicamente e com frequencia saltam mais de um nivel
+por vez Codigo semantico e fundamental para utilizadores de leitores de tela So 2021
+Assim falhar com essas recomendacoes prejudica pessoas cegas ou com baixa visao
+Na subsecao seguinte Comportamento todas as paginas avaliadas descumpriram
+com a recomendacao 2 2 Garantir que os Objetos Programaveis Sejam Acessiveis pois
+a interface do sistema deixa de ser funcional ao se desabilitar o Javascript no navegador
+Ressalta se ainda que uma das paginas falhou com a recomendacao 2 6 Nao Incluir
+Situacoes com Intermitencia de Tela o que segundo Brasil 2014 torna o site suscetivel
+a desencadear ataques epilepticos em pessoas fotossensiveis durante a navegacao delas
+Da subsecao Conteudo Informacao destaca se a falha com as recomendacoes 3 1
+Identificar o Idioma Principal da Pagina e 3 6 Fornecer Alternativa em Texto para as
+Imagens do Sitio Descumpri las causa prejuizos para pessoas com problemas de visao
+pois leitores de tela podem assumir linguas incorretas para o conteudo e nao descreveram
+imagens conforme o esperado Adao 2021 Isso atrapalha a compreensao do texto e ate
+a interacao com o site E o caso quando imagens representam o unico rotulo para botoes
+ou hiperlinks Geraldo 2016 o que oculta esses elementos interativos do usuario
+Outros descumprimentos que tambem criam dificuldades para pessoas com baixa
+visao foram identificados na subsecao Apresentacao Design As recomendacoes 4 1
+Oferecer Contraste Minimo entre Plano de Fundo e Primeiro Plano e 4 3 Permitir
+Redimensionamento sem Perda de Funcionalidade nao foram seguidas Isso prejudica a
+responsividade da interface e por conseguinte sua usabilidade geral e sua acessibilidade
+quando e preciso ampliar a tela Brasil 2014 Na subsecao constatou se ainda que o
+SIGAA nao estava em conformidade a recomendacao 4 4 Possibilitar que o Elemento
+com Foco Seja Visualmente Evidente Isso pode inviabilizar a navegacao de pessoas com
+mobilidade reduzida que dependam do teclado para se locomover pela pagina
+Por fim da subsecao Formulario so as paginas Consultar Minhas Notas e Ver
+Comprovante de Matricula nao descumpriram recomendacao alguma Quase todas as
+demais nao estavam em conformidade a recomendacao 6 2 Associar Etiquetas aos seus
+Campos Falhar em cumpri la leva a problemas semanticos graves impedindo a correta
+interpretacao do conteudo por utilizadores que dependam de leitores de tela
+principalmente cegos Adao 2021 Ainda nesta subsecao a primeira pagina descumpriu
+com a recomendacao 6 1 Fornecer Alternativa em Texto para os Botoes de Imagens em
+Formularios cujas consequencias sao semelhantes as da recomendacao 6 2
+
+Sobre a Pesquisa de Usabilidade do SIGAA
+Das 21 notas calculadas a partir das respostas ao formulario SUS doze estao entre
+10 e 50 pontos conforme o histograma da Figura 1 Segundo Sauro e Lewis 2016 esses
+numeros indicam uma usabilidade inaceitavel Apenas tres alunos consideraram na
+aceitavel com notas maiores que 70 pontos Notas marginais entre 50 e 70 pontos foram
+atribuidas pelos seis outros participantes A media geral dos sistemas avaliados por
+pesquisas SUS e de 68 pontos mas a media do SIGAA foi de 50 pontos Estatisticamente
+ela e maior que apenas cerca de 13 dos sistemas avaliados com a SUS Sauro e Lewis
+2016 o que classifica a usabilidade do SIGAA como pessima
+
+**CONCLUSAO**
+
+A acessibilidade web suscita a inclusao ao prover mais autonomia a navegaçao. Para
+conceber sites acessiveis, e importante seguir as diretrizes de orgaos consolidados da area.
+Os resultados da auditoria apontaram que o SIGAA falha com o minimo cumprir com o
+eMAG. O sistema nao so e inacessivel, como sua usabilidade e considerada inaceitavel
+pela maioria dos usuarios com deficiencia. Isso nao surpreende se eles sequer conseguem
+ter autonomia em um sistema, e natural que este seja pouco ou nada usavel para eles.
+
+Segundo Barbosa e Silva 2010 acessibilidade e usabilidade sao criterios da
+qualidade de uso de um software A experiencia de usuario por sua vez e um criterio
+multidimensional oriundo da associacao da usabilidade as emocoes e sentimentos de um
+usuario referente ao produto utilizado Portanto com muitos problemas de acessibilidade
+e com uma usabilidade pessima e dificil crer que a experiencia de usuario do SIGAA seja
+satisfatoria No mais segundo Silva Andrade e Darin 2019 ainda que um sistema seja
+acessivel sua usabilidade nao sera necessariamente boa para pessoas com deficiencia
+Arruda 2019 e Campos Paiva e Farias 2021 relataram insatisfacoes similares acerca
+da usabilidade do SIGAA Eles empregaram outras metodologias que nao a SUS o que
+enfatiza a importancia de uma revalidacao do SIGAA quanto a sua acessibilidade
+Optou se por avaliar a usabilidade somente entre discentes porque para que fosse
+praticavel a auditoria limitou se o escopo deste trabalho aos casos de uso do SIGAA
+considerados mais relevantes a trajetoria academica dos discentes Assim em trabalhos
+futuros e interessante investigar a acessibilidade de paginas do sistema voltadas a outros
+de seus atores como docentes e coordenadores Cabe ainda avaliar com maior
+profundidade os aspectos hedonicos da experiencia de usuario do SIGAA
+Outra limitacao se deu porque a auditoria foi realizada no SIGAA implementado
+pela UFRRJ ainda que esta nao tenha alterado o codigo fonte da UFRN relativo a
+interface A versao aqui auditada do SIGAA pode diferir daquelas de outras instituicoes
+a depender da frequencia com que estas atualizam o sistema e do quanto modificado e
+divergente da versao base da UFRN o SIGAA esta Por isso em trabalhos futuros e
+possivel avaliar de que forma essas modificacoes afetam a acessibilidade do sistema no
+contexto proprio de cada instituicao E interessante que esses trabalhos futuros sejam
+realizados de forma colaborativa junto a UFRN para beneficios mais imediatos
+Das principais licoes obtidas na auditoria ressalta se o valor dos testes manuais
+para avaliacao de acessibilidade de sistemas web Poucos problemas sao identificaveis so
+com testes automaticos Outra licao e a importancia de dialogar com os utilizadores
+principalmente com aqueles com deficiencias posto suas necessidades particulares de uso
+de sistemas web Cre se contudo que a mais importante licao foi a de que elaborar um
+site minimamente acessivel ou de corrigi lo para que seja nao e especialmente dificil
+Porem parece haver desconhecimento entre desenvolvedores e designers para faze-lo.

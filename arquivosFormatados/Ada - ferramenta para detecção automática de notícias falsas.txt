@@ -1,0 +1,179 @@
+Ada - ferramenta para deteccao automatica de noticias falsas
+
+Resumo. As noticias falsas se tornaram um problema de seguranca e saude
+publica. As midias sociais e a sociedade conectada, principalmente por meio
+de aplicativos de redes sociais, tornaram-se canais de divulgaçao, tornando a
+desinformaçao e as fake news muitas vezes indecifraveis devido a sua pratica
+cada vez mais elaborada. O uso de Machine Learning (ML) supervisionado e
+Processamento de Linguagem Natural (NLP), tornaram-se meios indispensaveis
+para a verificaçao de conteudo duvidoso. Nesse contexto, a ferramenta Ada
+para deteccao automatica foi desenvolvida no contexto dessa pesquisa e atual-
+mente possui uma precisao de 82%. O corpus da ferramenta e em portugues,
+e foi construido tendo como prioridade usuarios idosos, uma vez que estes sao
+considerados o publico que mais dissemina noticias falsas no Brasil. A ferra-
+menta foi avaliada por um grupo de idosos em um estudo empirico, e os resul-
+tados indicam que cerca de 87,5% dos participantes usariam a ferramenta em
+seu dia a dia. Fizeram, no entanto, sugestoes de melhorias no ADA, que estao
+sendo analisadas pela equipe responsavel.
+
+Introducao
+
+Fake News, desinformaçao, ma informaçao, nao sao fenomenos novos. Informaçoes
+manipuladas e conteudo enganoso, aparecem na historia da humanidade desde os
+primordios. Desde propagandas de desinformaçao da Primeira Guerra Mundial (1914-
+1918) e Segunda Guerra Mundial (1939-1945), passando por fatos da Guerra do Vi-
+etna (1955-1975), Guerra Fria (1947-1991), Guerra do Iraque (2003-2011), Russia
+e Ucrania (2014 e 2022), Brexit, acusaçoes de interferencia em processos eleitorais,
+escandalo da Cambridge Analytica, Pizzagate e COVID-19, todos os eventos fo-
+ram marcados por desinformaçao e fake news, intensificando as crises contextuais.
+
+O conceito de fake news e complexo. Ela pode ser definida como noticias fal-
+sas ou fabricadas, sem fatos ou fontes confiaveis, e tambem como noticias com intençao
+de prejudicar. Tambem existe a ma informaçao, definida como informaçoes potencial-
+mente perigosas ou prejudiciais, informaçoes inadequadas (...). A desinformaçao, por
+sua vez, "inclui todas as formas de informaçoes falsas, imprecisas ou informaçoes enga-
+nosas, projetadas, com intençao de prejudicar.
+
+Algumas das caracteristicas das noticias falsas, e que elas costumam estimular o
+emocional do leitor, o que faz com que afete a sua opiniao Sharma et al. 2020 e ma-
+nipule o comportamento de um individuo sobre temas especificos, mas principalmente
+politicos. Outro ponto e que em diversas vezes os textos possuem erros ortograficos,
+misturando informaçoes reais e ficticias.
+
+Embora esse fenomeno nao seja novo, o aumento de uma sociedade mais co-
+nectada e com plataformas de midias sociais nas maos, favorece a propagaçao des-
+ses conteudos, saindo do controle das autoridades. As consequencias afetam a vida
+das pessoas, produzem instabilidade em governos e refletem em sociedades menos de-
+mocraticas. Ha diversas ferramentas para identificaçao de fake news. No entanto, todas elas trazem alguma dificuldade para o publico
+idoso. Assim, este trabalho se beneficiou das tecnicas de Design Participativo para criar
+uma ferramenta em colaboraçao com idosos. A ferramenta aqui descrita faz uso do Pro-
+cessamento de Linguagem Natural (PLN) e Aprendizado de Maquina Supervisionado
+(AMS), para criar mecanismos automaticos e facilitar a deteccao de noticias falsas, uma
+vez que essas tecnicas sao mais baratas e com maior precisao de acertos, do que a checa-
+gem humana, que pode conduzir, em alguns casos, ao vies politico. Neste contexto, foi
+desenvolvida a ferramenta ADA . Trata-se de uma ferramenta para deteccao automatica
+de noticias falsas.
+
+O desenvolvimento da ADA, para implementaçao dos recursos citados acima, ini-
+ciou no ano de 2022 e teve como objetivo inicial aprimorar a ferramenta FakeCheck,
+desenvolvida pelo grupo de pesquisa do professor Thiago Pardo da Universidade de Sao
+Paulo. Porem, no decorrer do estudo, foi observado que o corpus conti-
+nha noticias antigas e que a interface grafica da ferramenta nao era de boa usabilidade e
+nao apresentava recursos de acessibilidade. O intuito deste trabalho de pesquisa era reali-
+zar um estudo sobre fakenews e idosos. Neste sentido, a ferramenta apresentava diversas
+barreiras para esse publico. Assim, um novo corpus foi treinado e uma nova interface
+grafica de usuario foi projetada.
+
+A precisao alcançada na deteccao da ferramenta ADA atual foi de 82%, com um
+corpus com 2549 noticias, em Portugues, rotuladas manualmente. Adotou-se um clas-
+sificador Naive Bayes, alem de Regressao Logistica, Decision Tree e Random Forest
+Ahmed et al. 2021. Assim, o usuario obtem informaçoes se a noticia e True (Verda-
+deira) ou Fake (Falsa).
+
+Para o desenvolvimento da ferramenta ADA, foi considerado o Design Partici-
+pativo (DP) Bodker et al. 2022, Benyon 2011 conceito da area de Interaçao Humano-
+Computador (IHC), que busca tornar o usuario o ator mais importante do processo de
+desenvolvimento, tendo suas dificuldades e caracteristicas bem analisadas na etapa de
+design da soluçao. Neste trabalho, oficinas participativas com usuarios alvo foram con-
+duzidas tanto na etapa de design quanto de avaliaçao da ADA.
+
+Este artigo descreve como ferramenta ADA pode ser um recurso auxiliar para as
+pessoas na identificaçao automatica de noticias falsas. Uma prova de conceito da fer-
+ramenta foi realizada com usuarios idosos. Os resultados dessa prova apontam para a
+aceitaçao desse publico quanto ao uso da ferramenta, mas revela importantes mudanças
+que devem ser feitas na sua interface para facilitar a interaçao dos usuarios alvo.
+
+Metodologia
+
+Este trabalho foi conduzido em cinco etapas para a criaçao da ferramenta ADA, a saber:
+1) Definiçao do conjunto de dados, 2) Pre-Processamento dos dados, 3) Aprendizado de
+Máquina Supervisionado, 4) Construçao de uma interface grafica de usuario e 5) Prova
+de Conceito. Este trabalho da enfoque nas etapas 1, 4 e 5.
+
+Definiçao do conjunto de dados
+
+Os dados utilizados para o corpus da ferramenta foram adquiridos de um conjunto de
+2549 noticias, entre elas, verdadeiras e falsas, extraidas de midias sociais nacionais e
+internacionais. Considerou-se temas relevantes de politica, politica internacional, saude,
+entretenimento e justiça. As noticias estavam divididas em: 46,7% sao falsas e 53,3% sao
+verdadeiras. Tambem foram adicionados artigos academicos da area medica, para ajudar
+no treinamento do conteudo relacionado a saude.
+
+Destaca-se que tambem foi realizada a contagem de palavra-chave para identificar
+quais assuntos estao mais presentes no corpus, para que houvesse controle do conteudo
+das noticias por palavras-chave, ou seja, a palavra de maior relevancia no texto. Alem
+disso, para a construçao do corpus, houve a seleçao de 147 estudos academicos, realizados
+em paises como India, Canada, Estados Unidos, Japao, Hungria e Brasil, para analise de
+viabilidade da deteccao automatica de noticias falsas.
+
+Construindo uma interface grafica de usuario para a ADA
+
+Apos criaçao do corpus da ADA, a etapa seguinte foi o desenvolvimento de uma interface
+grafica de usuario que permitisse que pessoas inserissem trechos de noticias e a ferramenta
+retornasse a informaçao com o diagnostico de ser uma noticia falsa ou verdadeira.
+
+Tecnicas de Design Participativo (DP) foram empregadas para o desenvolvimento
+da ADA. Para Schuler e Namioka o design participativo representa uma nova abordagem
+para o projeto de sistemas computacionais na qual as pessoas destinadas a usar o sistema
+desempenham um papel critico na sua concepçao Schuler and Namioka 1993. Na pri-
+meira etapa de construçao da interface, houve um levantamento de estudos da literatura
+nas areas de Psicologia e Neurociencia, sobre as dificuldades cognitivas e comportamen-
+tais de idosos (publico alvo da ferramenta), incluindo com a interaçao com as fake news.
+Apos esse estudo foi dada inicio a etapa de criaçao da interface grafica. No prototipo
+inicialmente criado estavam disponiveis as paginas Home e Verificar. Ao digitar ou
+colar um texto, e clicar em verificar', os usuarios sao direcionados para a resposta true'
+e fake", da pagina verificar.
+
+A Figura 1 ilustra partes da ferramenta com a tela em que o usuario pode consultar
+uma noticia e, em seguida, receber o resultado, neste caso Fake, abaixo das instruçoes
+sobre o uso. O usuario pode realizar consultas novas, depois do recebimento do resultado.
+E possivel observar o icone no canto superior esquerdo de acessibilidade. No entanto, esse
+recurso ainda esta em fase de implementaçao. O usuario pode, ainda, realizar quantos
+consultas desejar e nao ha limite de caracteres, todavia, textos maiores, possuem maior
+probabilidade de acerto.
+
+Prova de Conceito
+
+Apos o desenvolvimento de uma versao da interface grafica da ADA, um grupo de idosos,
+frequentadores de um curso de letramento digital para a terceira idade da Universidade de
+Sao Paulo (USP), foi convidado a interagir com a ferramenta e fornecer suas principais
+impressoes. Destaca-se que durante o curso de letramento esses idosos tem aulas sobre
+
+identificaçao de noticias falsas e como se previnir. Destaca-se ainda, que essas atividades
+foram previstas e aprovadas em Comite de Etica em Pesquisa em projeto referente ao
+curso de letramento, com numero CAAE: 57875016.3.0000.5390.
+
+Oito idosos se voluntariaram para o estudo: 5 mulheres e 3 homens, com idade
+entre 73 e 64 anos. Os participantes, um a um, testaram com os pesquisadores o uso
+da ADA e, posteriormente, poderiam consultar na ferramenta sobre qualquer assunto de
+seu interesse. Ao realizar a consulta, eram questionados se estavam satisfeitos com a
+resposta, momento em que forneciam feedback sobre a ferramenta. Para finalizar, os
+participantes foram convidados a responder a um formulario com o teste de usabilidade.
+No questionario de usabilidade, os participantes foram questionados se usariam o sistema
+com frequencia: 50% responderam concordam totalmente' e 37,5% concordam'.
+
+Uma preocupaçao para elaboraçao do sistema, voltado principalmente para ido-
+sos, e a limitaçao quanto ao conhecimento e dificuldade no uso de tecnologia, o que po-
+deria comprometer o uso da ferramenta ADA, porem, ao serem questionados se o sistema
+era facil de usar: 62,5% responderam concordar totalmente e 25% afirmaram concordar.
+Outro ponto foi que os participantes, ao serem questionados se imaginam que outras pes-
+soas aprenderiam a usar rapidamente a ADA, 62,5% concordam totalmente e 37,5% nao
+concordam. No desenvolvimento do prototipo, foi considerado que o sistema deveria ser
+claro nos comandos e instruçoes, bem como no local onde estava posicionada a resposta
+da verificaçao: 62,5% concordaram totalmente que as funçoes implementadas estava bem
+integradas e 37,5% concordaram.
+
+Consideraçoes Finais
+
+Embora os resultados sejam positivos, e alguns apontamentos estejam dentro do espe-
+rado, nem todas as paginas da ferramenta estavam em funcionamento, o que impactou na
+experiencia dos usuarios idosos mais curiosos e que queriam interagir com todas as fun-
+cionalidades da ferramenta. Alem disso, com um corpus mais robusto, contendo noticias
+mais atuais, os resultados seriam mais precisos do que a atual acuracia de 82%. Apesar
+disso, em um corpus de 2549 noticias, foi possivel observar com clareza as dificulda-
+des dos idosos na verificaçao de noticias falsas, e quais eram os temas de maior duvida,
+principalmente, a dificuldade em entender as proprias funçoes dos dispositivos, ficando
+evidente que, uma ferramenta para deteccao de noticia teria pouca adesao se fosse ne-
+cessario digitar o endereço de url.
+
+Em conclusao, este estudo destaca a importancia de adaptar as ferramentas de deteccao automatica de noticias falsas para atender as necessidades especificas dos usuarios idosos. Os resultados da prova de conceito com a ferramenta ADA mostram que ha potencial para o uso dessa tecnologia por esse publico, mas e necessario investir em melhorias na interface e na acessibilidade para garantir uma experiencia mais positiva e eficaz.

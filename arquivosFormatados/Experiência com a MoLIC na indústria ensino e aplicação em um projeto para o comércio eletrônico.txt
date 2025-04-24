@@ -1,0 +1,216 @@
+**Introducao**
+
+Ao longo do processo de design da Interaçao Humano-Computador (IHC), sao utilizados
+modelos e representaçoes para organizar e documentar as informaçoes coletadas sobre
+contexto de problema, usuarios, tarefas, a interaçao e a interface dos sistemas. Sao
+exemplos de Representaçoes utilizadas para explorar diferentes aspectos de IHC [Barbosa
+et al. 2021]: cenarios, personas, esquemas de signos, mapas de objetivos, modelos de
+tarefa, modelos de interaçao, wireframes e prototipos.
+
+Para a criaçao de modelos de interaçao, pode-se utilizar a MoLIC (Modeling Language
+for Interaction as Conversation), criada em 2003, no ambito da Engenharia Semiotica
+[Barbosa et al. 2021]. “A MoLIC foi projetada para apoiar os designers no planejamento
+da interaçao, motivando sua reflexao sobre as estrategias de realizaçao de atividades e
+resoluçao de problemas dos usuarios que deveriam ser apoiadas pelo sistema interativo."
+[Barbosa et al. 2021, p.194].
+
+Neste artigo, apresentamos um relato de experiencia com a MoLIC em um projeto
+real da industria, descrevendo todo o processo de contato da equipe com a linguagem,
+indo do treinamento ate a modelagem em si. O projeto em questao e a evoluçao de uma
+plataforma de comercio eletronico¹, especificamente no design de uma interface
+administrativa do sistema.
+
+**MOLIC**
+
+A MoLIC baseia-se na premissa, vinda da Engenharia Semiotica, de que existe
+comunicaçao entre designer e usuario no momento da interaçao. Segundo esta teoria, a
+IHC e compreendida como um processo de metacomunicaçao, em que o designer informa
+sobre a comunicaçao usuario-sistema, utilizando os signos da interface [Barbosa et al.2021]. Compoe essa mensagem a visao do designer sobre quem o usuario e suas necessidades e preferencias e sobre o sistema que ele oferece a este usuario suas funcionalidades e formas de usar A MoLIC reconhece entao a interacao como uma conversa entre o usuario e o preposto do designer a interface Com esta linguagem e possivel modelar todas as possiveis conversas que o usuario tera com o sistema Um dos elementos da MoLIC e o diagrama de interacao com o qual se modela a interacao graficamente Alguns elementos da notacao sao Barbosa e da Silva 2014 cena topico da cena dialogos da cena falas de transicao do usuario processamento do sistema falas de transicao do preposto do designer falas do preposto do designer para recuperacao de ruptura falas do usuario para recuperacao de ruptura Conforme indicado numa recente revisao sistematica sobre a MoLIC de Carvalho et al 2019 esta linguagem esta bem consolidada na comunidade de IHC Segundo os autores foi constante a publicacao de trabalhos que descrevem a utilizacao da MoLIC como etapa do processo do design indicando que a MoLIC atinge o seu objetivo de apoiar o projeto na definicao e representacao da interacao usuario sistema sendo modelada durante o projeto de um sistema interativo de Carvalho et al 2019 p 10 Segundo o levantamento de Carvalho et al 2019 dos 130 trabalhos selecionados para analise apenas cinco diziam respeito ao uso educacional da MoLIC ex Ribeiro e Novais 2012 Marques 2017 e todos eles dentro do contexto academico O exemplo mais proximo de uso da MoLIC no contexto da industria e o trabalho de Lopes et al 2017 que apresenta uma atividade didatca de uso da MoLIC por alunos inspirada em um projeto industrial real.
+
+
+**Contexto da pesquisa e Metodologia**
+
+Este estudo foi desenvolvido no contexto de um projeto de evoluçao de uma plataforma
+de uma empresa de tecnologia para o comercio eletronico. Esta empresa possui em torno
+de 1200 funcionarios em mais de 30 paises. O projeto vem sendo desenvolvido em
+colaboraçao com a Universidade Federal do Ceara (UFC), campus de Quixada e devido
+a pandemia, tem ocorrido online. O projeto consiste no design e desenvolvimento de um
+modulo de configuraçao administrativa (customizaçoes) de um sistema para lojas fisicas
+(Sistema Y) integrado com o e-commerce das lojas clientes da Empresa X. A equipe do
+projeto e formada por 11 participantes, cujo perfil e detalhado na Tabela 1.
+
+Como a empresa da abertura para a atuaçao dos pesquisadores do projeto, a
+modelagem com a MoLIC foi sugerida por P2, que tem conhecimentos em Engenharia
+Semiotica, e envolveu os seguintes passos no projeto (todos realizados online):
+
+O treinamento teve duraçao aproximada de uma hora e meia e foi organizado
+em duas partes, a primeira, teorica e a segunda parte dinamica, com a
+modelagem de um exemplo pratico.
+A modelagem colaborativa foi realizada por meio da separaçao da equipe em
+dois grupos, sendo que cada grupo ficou encarregado de criar o modelo para
+uma das funcionalidades do projeto. Ao final da modelagem, os grupos se
+juntaram novamente para discussao sobre os modelos gerados.
+Apos a modelagem colaborativa, a equipe de design criou os modelos MOLIC
+para as demais funcionalidades do projeto. Os modelos resultantes foram
+apresentados e discutidos junto com toda a equipe do projeto.
+Por fim, um questionario foi aplicado aos membros da equipe do projeto para
+analisar a percepçao destes sobre o uso da MoLIC.
+
+**Analise e discussao dos resultados**
+
+Treinamento de MOLIC
+A sessao de treinamento foi conduzida por P2, que tem vasta experiencia de pesquisa e
+ensino em IHC, com enfase em Engenharia Semiotica. Foi feita uma introduçao sobre
+Engenharia Semiotica e MoLIC (~30 minutos). Na ocasiao, apenas ED1 e ED2 (que ja
+tinham estudado MoLIC na disciplina de IHC) fizeram perguntas, tirando algumas
+duvidas sobre a notaçao da linguagem. O LD, que nao conhecia Engenharia Semiotica,
+em um determinado momento, comentou “to curtindo, nao conhecia o conceito, mas to
+achando massa".
+
+No segundo momento do treinamento (~50 minutos), a instrutora propos a
+modelagem de uma configuraçao da sua conta no Gmail: a gestao de assinaturas. Foi
+utilizado o editor diagrams.net. A instrutora manipulava a ferramenta, enquanto os
+membros da equipe davam suas sugestoes. Durante a elaboraçao do diagrama, houve
+intensa participaçao dos membros P1, LD, ED1 e ED2. Da equipe de desenvolvedores,
+apenas EDev1 fez uma sugestao de alteraçao do modelo.
+
+Modelagem colaborativa
+
+Dois dias depois do treinamento, ocorreu a sessao de modelagem colaborativa.
+Para a modelagem, foram escolhidas duas historias de usuario do projeto classificadas
+como de alta prioridade, ja definidas nas etapas anteriores do processo, conforme
+detalhado na Tabela 2. As duas historias envolvem dois perfis de usuario: o gerente de
+loja, que realiza a customizaçao do Sistema Y e o vendedor, cuja interaçao com o Sistema
+Y na loja fisica e afetada pela configuraçao realizada pelo gerente. Deveriam sem criados
+portanto 4 diagramas, 2 para cada historia (vendedor e gerente).
+
+A equipe foi dividida em dois grupos, conforme detalhado na Tabela 3. EDev4,
+prevista para compor a equipe 1, nao esteve presente neste dia. Cada equipe ficou em uma
+sala no Zoom e P2 ficou alternando a atençao entre as duas salas, tirando duvidas
+eventuais. Toda a modelagem foi conduzida pelos proprios participantes, utilizando o
+editor diagrams.net³.
+
+Conforme apresentado na Tabela 3, cada equipe faria a modelagem das mesmas
+user stories, mas alternando-se os usuarios considerados. Ao final, nenhuma das equipes
+seguiu completamente o planejado: a Equipe 1 criou os modelos das duas historias
+levando em consideracao apenas o gerente de loja; e a Equipe 2 criou apenas o diagrama
+da US6 referente ao usuario vendedor. A Figura 1 apresenta os dois diagramas criados
+referentes a US6.
+
+Os dois diagramas ficaram relativamente completos e consistentes em relaçao as
+users stories (Tabela 2). Foram usados os seguintes construtores da MoLIC: 6 cenas, 12
+falas de transiçao, 6 falas de recuperaçao de ruptura, 7 pre-condiçoes, 3 acessos ubiquos,
+3 processos do sistema e um ponto de encerramento.
+
+Para avaliar a qualidade dos dois modelos, utilizamos o Molverick Check
+[Damian, 2016], que e uma tecnica de inspeçao para encontrar defeitos em diagramas
+MoLIC. O checklist tem 44 itens de verificaçao, que identificam cinco tipos de defeitos:
+omissao, fato incorreto, informaçao estranha, ambiguidade e inconsistencia. Nos dois
+diagramas construidos, foram identificados apenas 6 problemas, todos do tipo omissao,
+conforme detalhado na Tabela 4. A falta de detalhamento nos dialogos (D5 e S1) pode ter
+sido consequencia da falta de informaçoes previas. A falta de ponto de abertura (PA1)
+esta relacionada ao fato de que as interaçoes modeladas fazem parte de um sistema maior
+(Sistema Y), cujas interaçoes antes de se iniciar as configuraçoes estavam fora do escopo
+da modelagem (e do projeto). De todos os itens, o mais critico e o FTR10, que indica a
+falta de um item “precond” no diagrama do vendedor. Esta fala e justamente o ponto de
+ligaçao entre os dois diagramas.
+
+Apos a modelagem colaborativa, ED1 e ED2 modelaram a interaçao das 12
+historias de usuario estabelecidas para o projeto, usando a MoLIC. Os diagramas criados
+foram apresentados para toda a equipe em duas reunioes tres dias depois. Apos este
+alinhamento, os designers passaram a elaborar o prototipo de alta fidelidade no Figma.
+Atualmente, o projeto esta em fase de avaliaçao dos prototipos com os usuarios.
+
+Para efeito de comparaçao, a Figura 3 apresenta uma parte do prototipo criado
+para a configuraçao da disponibilidade de estoque, correspondente a segunda cena do
+diagrama criado pela equipe 1 (Figura 2). Ao se comparar com o diagrama, percebe-se
+que ficou bem fiel a interaçao proposta, mas o prototipo apresentou elementos
+correspondentes a algumas falas de transiçao nao modeladas: voltar, descartar e salvar.
+
+Formulario de feedback
+
+Apos as reunioes de apresentaçao dos diagramas MoLIC criados por ED1 e ED2,
+P2 solicitou que os membros da equipe respondessem a um formulario sobre a experiencia
+com a MoLIC no projeto.
+
+Sobre o conhecimento previo da equipe, pelo menos metade nao tinha
+conhecimento ou tinha apenas noçoes basicas nos quatro temas abordados. Engenharia
+Semiotica e MoLIC foram os assuntos mais desconhecidos. IHC/UX e Design de
+interaçao/interface foram os unicos assuntos indicados como de conhecimento avançado
+ou intermediario.
+
+Em relaçao a experiencia com o treinamento de MoLIC, o feedback foi
+bastante positivo. Nenhuma das afirmaçoes recebeu respostas negativas (discordo
+totalmente ou discordo parcialmente). Os itens com apenas respostas positivas foram “A
+atividade proposta no treinamento foi adequada” e “Fiquei com vontade de usar a MoLIC
+no projeto". O item com o maior numero de respostas “concordo totalmente” foi “Fiquei
+com vontade de aprender mais".
+
+Em relaçao as perguntas abertas do formulario, vamos apresentar os resultados em
+pontos positivos, pontos negativos e sugestoes.
+
+Em relaçao aos pontos positivos, houve muitos comentarios a respeito de como a
+MoLIC ajuda a compreender os fluxos e interaçoes do sistema, evidenciando o carater
+epistemico da ferramenta, por exemplo: “Foi interessante modelar o projeto com MoLIC,
+pois na minha opiniao, da uma visao das exceçoes que podem ocorrer e fluxos
+alternativos" ; “Consegui esclarecer algumas duvidas e entender melhor o fluxo das
+interaçoes” ; “Achei muito interessante pensar nas interaçoes e em suas
+consequencias.” . Outros comentarios positivos diziam respeito a natureza da
+linguagem: “Foi uma experiencia legal. Achei massa a ideia de voce modelar a aplicaçao
+como uma conversa entre o designer/dev e o usuario” ; “Sim, e uma  modelagem clara, com ordem logica, diferente de outras que sao mais confusas.” .
+Os participantes tambem comentaram sobre as vantagens da modelagem colaborativa:
+“Foi bastante legal poder discutir com outras pessoas, como utilizar  em um
+projeto, pois geralmente eu estudava e aplicava sozinha, nao tinha outras pessoas para
+discutir algumas duvidas.” ; “Foi interessante ouvir pessoas do desenvolvimento no
+projeto da interaçao” ; “Foi bom tambem colaborar e entender as visoes das outras
+pessoas.” . O ultimo ponto positivo a destacar sao os beneficios da MoLIC para
+outras atividades do projeto (alem do design de interaçao): “Sim. Como a MoLIC
+contribuiu para compreender o fluxo de funcionamento, tambem foi util para pensar em
+casos de uso e facilitar o desenvolvimento.” ; “Sim, permitiu ver a parte da
+engenharia nas açoes planejadas” ; “Para mim, o melhor ponto de utilizar MoLIC
+sera na hora de escrever os casos de teste.”
+
+Em relaçao aos pontos negativos, houve poucos comentarios. Alguns se referiam
+a necessidade de mais tempo de treinamento, estudo e pratica para usarem a MoLIC em
+todo o seu potencial. Outros comentaram sobre aspectos especificos da notaçao: “Eram
+mais duvidas de alguem que nao possui pratica, por exemplo, sera se e a seta lisa ou
+pontilhada?” ; “Tive um pouco de dificuldade de entender melhor as construçoes da
+linguagem. Entender a sintaxe e os construtores foi simples, mas senti necessidade de
+entender melhor o uso deles em conjunto.” ; “Sim. Tive dificuldade pra expressar
+minhas ideias atraves dos componentes da MoLIC” .
+
+Por fim, algumas sugestoes em relaçao a dinamica do treinamento foram dadas:
+“Exemplos de outras MoLIC para a gente verificar como foi utilizada, as vezes ocorre da
+gente perceber detalhes que servem pro nosso projeto tambem.” ; “Um pouco mais
+de tempo de treinamento/estudo.” ; “Talvez aquecer com uma dinamica de casos
+menos complexos para nos habituarmos mais facilmente com a notaçao e ferramenta.”
+.
+
+**Consideraçoes Finais**
+
+Este artigo apresentou um relato de ensino e aplicaçao da MoLIC num projeto real
+da industria. A dinamica realizada aplicou varias praticas que se mostraram beneficas
+para o projeto e que podem servir de inspiraçao a outras equipes: 1) treinamento curto,
+com enfase na atividade pratica; 2) modelagem colaborativa e interdisciplinar,
+envolvendo designers e desenvolvedores, saindo um pouco do nicho mais tipico de IHC;
+3) alinhamento dos diagramas feitos pelos designers com os desenvolvedores, evitando
+problemas de comunicaçao.
+
+A MOLIC foi apenas uma tecnica das varias utilizadas no projeto, mas sem duvida,
+tem feito diferença, pois alem do seu papel no design de interaçao, ela vem sendo usada
+como uma forma de documentaçao ou “contrato” da equipe, como pode ser visto em uma
+das respostas do formulario: “Sim, quando surgem duvidas de como funciona o fluxo de
+interaçao volto para a MoLIC que desenvolvemos para verificar o que havia ficado
+definido."
+
+A aplicaçao da MoLIC no projeto contribui para a consolidaçao da linguagem,
+para alem da comunidade de IHC. O fato de a Empresa X realizar o projeto com uma
+universidade, com o envolvimento de estudantes e professores/pesquisadores, permitiu a
+apresentaçao da Engenharia Semiotica e da MoLIC em um projeto que dificilmente tiraria
+proveito desta teoria e de suas ferramentas, contribuindo para a desmistificaçao da sua
+aplicaçao pratica. E um exemplo de parceria promissora entre academia e industria ainda
+tao dificil de encontrar [Melo 2012].
+
+**CONSIDERACOES FINAIS**
+
+Este estudo de caso demonstra o potencial da MoLIC como ferramenta epistêmica e de comunicação no processo de design de sistemas interativos. A colaboração entre designers e desenvolvedores, aliada ao treinamento prático e à aplicação da linguagem em um projeto real, resultou em um melhor entendimento dos fluxos e interações do sistema, além de facilitar a documentação e o alinhamento da equipe. A experiencia relatada neste artigo pode servir de inspiração para outras equipes que buscam aprimorar seus processos de design e comunicação em projetos de software.

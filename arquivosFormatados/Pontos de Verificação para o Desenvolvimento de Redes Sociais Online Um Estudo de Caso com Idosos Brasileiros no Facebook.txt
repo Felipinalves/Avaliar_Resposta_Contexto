@@ -1,0 +1,120 @@
+**RESUMO**
+
+Dado o crescimento da populaçao idosa, e essencial que as redes
+sociais on-line considerem aspectos de qualidade de uso para
+atender as necessidades especificas deste publico. Infelizmente,
+redes sociais como o Facebook sao projetadas em grande parte
+para usuarios mais jovens, trazendo desafios para os idosos no uso
+de suas interfaces. Este artigo apresenta um resumo do estudo de
+caso realizado em 2015, no qual foram avaliadas a acessibilidade
+e a comunicabilidade do Facebook para usuarios idosos. Como
+resultado, foram elaborados pontos de verificaçao para apoiar
+designers na construçao de espaços virtuais de interaçao social
+inclusivos ao publico idoso.
+
+**INTRODUÇÃO**
+
+O publico idoso e cada vez maior no Brasil, com a perspectiva de
+compor mais de 30% da populaçao ate 2060. Alem disso,
+trata-se de um perfil cada vez mais presente em redes sociais
+online: entre os anos de 2006 e 2016 foi registrado um aumento de
+40% na participaçao de idosos brasileiros nessas redes .
+
+Esses espaços de interaçao podem trazer inumeros beneficios
+para a saude e o bem-estar desta parcela da populaçao , uma
+vez que possibilitam integraçao entre geraçoes. No entanto,
+sistemas de redes sociais como o Facebook sao projetados para
+usuarios mais jovens, trazendo inumeros desafios para o publico
+idoso que possui historico de dificuldades na interaçao com
+artefatos tecnologicos em geral por pertencem a uma geraçao
+nascida antes da ampla disseminaçao de ferramentas digitais.
+
+Tais dificuldades sao causadas essencialmente por dois
+aspectos diferentes: compreensao e operacionalizaçao.
+Compreensao significa que os idosos podem nao interagir
+adequadamente com as tecnologias porque nao entendem os
+propositos de interfaces especificas estabelecidas pelos designers
+(problemas de comunicabilidade) e operacionalizaçao significa
+que os idosos podem ter problemas devido a dificuldades na
+manipulaçao da interface. Dificuldades essas que podem estar
+relacionadas a letras pequenas, cores em baixo contraste, entre
+outros (problemas de acessibilidade).
+
+O presente estudo, publicado em , teve por objetivo
+investigar questoes enfrentadas pelos idosos ao interagir com uma
+rede social online: o Facebook. A rede social foi analisada sob
+dois criterios: acessibilidade e comunicabilidade. O estudo
+resultou em pontos de verificaçao para auxiliar desenvolvedores e
+designers de interface na criaçao de novos espaços para interaçao
+social.
+
+**METODO DE PESQUISA**
+
+O metodo utilizado foi estudo de caso, caracterizado pela
+observaçao da interaçao de idosos e nao idosos no Facebook, em
+uma abordagem comparativa, a partir de um metodo de avaliaçao
+de comunicabilidade e pela inspeçao da rede social em relaçao a
+acessibilidade de sua interface. A pesquisa foi organizada em
+cinco etapas: 1) Definiçao do sistema de redes sociais (Facebook)
+e caracteristicas a serem analisadas (chat, compartilhamento de
+informaçoes e recurso "curtir" paginas); 2) Definiçao dos metodos
+de avaliaçao de acessibilidade e comunicabilidade; 3) Execuçao
+do estudo de caso; 4) Triangulaçao dos resultados das avaliaçoes;
+5) Elaboraçao de pontos de atençao para apoiar
+desenvolvimento de interfaces de redes sociais inclusivas aos
+idosos.
+
+**ESTUDO DE CASO**
+
+Para avaliar a comunicabilidade adotou-se um metodo de
+avaliaçao de comunicabilidade especifico para contexto
+colaborativo com envolvimento de usuarios, o MAC-g, proposto
+por Mattos (2010) e baseado na Engenharia Semiotica .
+Participaram dos testes cinco idosos (com idade entre 70 e 85
+anos) e cinco nao idosos (entre 30 e 50 anos). A avaliaçao revelou
+diferenças consideraveis entre os perfis no que diz respeito a
+quantidade de rupturas de comunicabilidade encontradas e tempo
+de execuçao das tarefas, sendo que a principal dificuldade dos
+idosos estava relacionada ao entendimento de elementos presentes
+na interface. Os resultados desta avaliaçao foram apresentados no
+XIV Simposio Brasileiro de Fatores Humanos em Sistemas
+Computacionais (IHC 2015) .
+
+A acessibilidade foi analisada a partir de metodo de avaliaçao
+analitico: revisao de guidelines, utilizando como parametro uma
+versao reduzida das Diretrizes de Acessibilidade para o Conteudo
+Web direcionada as necessidades do publico idoso, produzida no
+contexto do projeto WAI-AGE (Web Accessibility Initiative:
+Ageing Education and Harmonisation) . Os resultados obtidos
+revelaram a reduzida acessibilidade da rede social aos idoso, uma
+vez que doze das vinte diretrizes da WAI-AGE nao foram
+atendidas pelas paginas / areas de interface do Facebook
+avaliadas.
+
+Apesar das avaliaçoes propostas possuirem naturezas distintas:
+comunicabilidade baseada em teoria da semiotica e acessibilidade
+em conformidade de padroes, alguns resultados puderam ser
+contrastados, revelando que uma acessibilidade deficiente pode
+impactar na capacidade do projetista de alcançar completamente a
+metacomunicaçao com o usuario (boa comunicabilidade).
+
+A Tabela 1 apresenta os pontos de verificaçao resultantes do
+estudo, organizados de acordo com principios do WAI-AGE .
+
+**CONCLUSÃO**
+
+Este artigo apresenta um resumo do trabalho publicado em [7].
+Uma de suas contribuiçoes e ampliar o conhecimento da
+comunidade de Interaçao Humano-Computador quanto as
+demandas de acessibilidade e comunicabilidade do publico idoso
+em rede sociais, a partir da comparaçao da interaçao deles e de
+usuarios nao idosos, com o entendimento de que a construçao
+desses ambientes virtuais de convivencia devem considerar
+aspectos intergeracionais, uma vez que integram em um mesmo
+ambiente, geraçoes diversas que convivem sob diferenças
+culturais relacionadas a comportamentos, valores e estilos de
+comunicaçao.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, este estudo demonstra a importancia de considerar as necessidades especificas dos idosos no desenvolvimento de redes sociais online. A aplicaçao dos pontos de verificaçao derivados desta pesquisa pode auxiliar designers e desenvolvedores na criaçao de ambientes virtuais mais acessiveis e comunicativos, promovendo a inclusao digital e a qualidade de vida dessa parcela da populaçao.

@@ -1,0 +1,149 @@
+**MOTIVAÇÃO**
+
+Nos ultimos anos, tanto a Internet quanto as Redes Sociais tornaram-se cada vez mais in-
+seridas no cotidiano das pessoas . A inserçao da populaçao
+idosa no mundo digital traz inumeros beneficios, como a promoçao da saude e bem es-
+tar, aprendizagem e estimulaçao cognitiva, autonomia e a integraçao social. Mas nao se
+pode deixar de citar os inumeros desafios que as pessoas idosas enfrentam ao encarar o
+uso das tecnologias e redes sociais, dentre eles a disseminaçao de desinformaçao e fake
+news, problemas de privacidade e segurança, dependencia, alem das dificuldades tecnicas
+e problemas de acessibilidade ocasionados pela rapida evoluçao dos recursos de interface,
+nem sempre agradaveis para esse publico .
+
+Isto tem suscitado pesquisas sobre o uso das redes sociais pelos usuarios ido-
+sos , pois e fun-
+damental compreende-las como um espaço que possa proporcionar ao idoso liberdade su-
+ficiente para interagir e usufruir das possibilidades oferecidas. Assim, o problema de pes-
+quisa que este trabalho visa resolver e representado pela pergunta problema: Os usuarios
+idosos realmente tem conhecimento e possuem controle sobre o que estao fazendo durante
+o uso de suas redes sociais?
+
+O objetivo principal deste trabalho e analisar o quanto um usuario idoso realmente
+possui o controle sobre suas açoes durante o uso de aplicativos de redes sociais, por meio
+da avaliaçao da comunicabilidade. A ideia central desta pesquisa e, justamente, que nao
+seja necessario que esses usuarios tenham que usar uma rede social adaptada e separada
+para eles, mas sim que as populares redes sociais existentes sejam acessiveis a ponto
+de permitir o uso eficaz por qualquer usuario, gerando a interaçao social que norteia a
+finalidade principal das mesmas.
+
+**FUNDAMENTAÇÃO TEORICA**
+
+A Engenharia Semiotica (EngSem) e uma teoria da Interaçao Humano-Computador
+(IHC), que nos permite entender os fenomenos envolvidos no design, uso e avaliaçao
+de um sistema interativo, e se concentra na comunicaçao entre o designer e usuario sendo
+feita atraves da interface de um sistema .
+
+A comunicabilidade e uma propriedade da EngSem que trata de como um sistema
+transmite ao usuario de forma eficaz e eficiente as intençoes e principios de interaçao
+que guiaram o seu design . Quando o usuario nao consegue en-
+tender a comunicaçao pretendida pelo designer diz-se, entao, que ocorrem rupturas de
+comunicaçao que dificultam ou podem ate mesmo impossibilitar a meta-comunicaçao ou
+uso do sistema. Quanto mais rupturas, ou quanto mais severas sao elas, mais baixa e a
+comunicabilidade da interface.
+
+Para verificar se este entendimento esta sendo concretizado existem dois metodos
+que avaliam a comunicabilidade de uma interface: o Metodo de Inspeçao Semiotica (MIS)
+e o Metodo de Avaliaçao de Comunicabilidade (MAC). O MIS e um metodo de inspecao,
+que identifica antecipadamente potenciais rupturas na comunicaçao que podem vir a surgir
+na interaçao e o MAC e um metodo de observaçao de usuarios em um ambiente contro-
+lado, em que o especialista analisa a interaçao do usuario com o sistema, identificando as
+rupturas vivenciadas pelos usuarios.
+
+Para inspecionar a interface, o MIS  propoe 5 passos a se-
+rem seguidos pelo avaliador, sendo a inspecao dos signos de meta-comunicaçao presentes
+na documentaçao e sistema de ajuda, a inspecao dos signos estaticos, a inspecao dos
+signos dinamicos, contraste e compararaçao das mensagens de meta-comunicaçao e a
+apreciaçao da qualidade da meta-comunicaçao, na qual o avaliador produz um relatorio
+contendo sua apreciaçao final resultante da inspecao. Neste metodo, o avaliador deve
+atuar no lugar do usuario, ou seja, ele deve conhecer a visao do usuario e ser especia-
+lista em EngSem e IHC para conseguir identificar os problemas de comunicabilidade que
+o usuario pode vivenciar durante a interaçao. Como resultado tem-se a identificaçao de
+problemas sobre a qualidade da interface.
+
+O MAC , diferente do MIS, e um metodo que envolve usuarios
+na avaliaçao, na qual o avaliador simula a comunicaçao do usuario para o designer sobre a
+meta-mensagem. E utilizado um um conjunto de expressoes, chamados de etiquetas, para
+identificar as rupturas de comunicaçao com o sistema vivenciadas pelo usuario, como
+se o avaliador colocasse palavras na boca do usuario . O
+MAC tambem conta com diversas etapas, sendo a primeira a determinaçao do objetivo
+do teste. Em seguida, selecionam-se as tarefas para teste e os participantes, fazem-se as
+consideraçoes sobre aspectos eticos, a geraçao do material a ser usado na avaliaçao, a
+execuçao do Teste Piloto, e por fim, o avaliador passa a etapa de analise dos dados coleta-
+dos. Esta etapa, por sua vez, e dividida tambem em 3 passos: etiquetagem, interpretaçao
+da etiquetagem e geraçao do perfil semiotico.
+
+**TRABALHOS RELACIONADOS**
+
+O artigo de [Sacramento et al. 2019] descreve uma pesquisa qualitativa utilizando o MAC
+para Sistemas Colaborativos (MAC-g) com dois perfis de usuarios no Facebook. O obje-
+tivo foi avaliar se as limitaçoes decorrentes do processo de envelhecimento podem gerar
+resultados diferentes nos perfis contrastados. A maior diferença nos resultados obtidos
+entre jovens e idosos relaciona-se com a linguagem utilizada por esses dois publicos.
+Alem deste aspecto, os resultados obtidos denotam a necessidade de definir criterios cla-
+ros de organizaçao das informaçoes presentes na interface e correçao de problemas de
+usabilidade e acessibilidade que contribuiram para rupturas de comunicabilidade durante
+a interaçao.
+
+O trabalho de [Sacramento et al. 2019] foi realizado durante o ano de 2015, exa-
+minando a acessibilidade da interface do Facebook por meio da observaçao da interaçao
+de pessoas idosas e nao idosas com o Facebook, atraves de avaliaçao da comunicabili-
+dade. A pesquisa foi organizada em cinco etapas: definiçao do sistema de redes sociais e
+caracteristicas a serem analisadas; definiçao dos metodos de avaliaçao da acessibilidade
+e comunicabilidade; execuçao do estudo de caso; triangulaçao dos resultados obtidos no
+estudo de caso; e, elaboraçao de pontos de atençao para apoiar o desenvolvimento de in-
+terfaces para redes sociais voltadas para idosos. O trabalho resultou em checkpoints para
+apoiar os designers na construçao de espaços virtuais de interaçao social.
+
+O trabalho de [Lima and Salgado 2022] propos avaliar a forma como o Instagram
+comunica o processo de consentimento informado e identificar possiveis padroes obs-
+curos relacionados a privacidade dos usuarios. O estudo aplicou o MIS no Instagram,
+analisando os signos estaticos, dinamicos e metalinguisticos presentes na interface. Foi
+criada uma persona, Luiza Torres, e um cenario de interaçao para a tarefa especifica de
+criaçao de conta no Instagram. Como resultado identificaram-se violaçoes do principio
+etico de privacidade relacionado ao consentimento e a presença de Padroes Obscuros nas
+estrategias de comunicaçao do Instagram.
+
+Embora existam alguns trabalhos relacionados ao uso de redes sociais por usuarios
+idosos e de avaliaçao da comunicabilidade de redes sociais, nao se encontram estudos que
+realizem um mapeamento completo da comunicabilidade com mais de uma rede social
+para identificar padroes e pontos de fragilidade na interaçao com pessoas idosas, sendo,
+entao, considerado o diferencial deste trabalho.
+
+**RESULTADOS ESPERADOS**
+
+A relevancia temporal deste trabalho se manifesta na contemporaneidade com a
+popularizaçao das redes sociais de maneira global e as novas formas de consumo dessa
+tecnologia pelos seus usuarios. Ha especial importancia tambem da transversalidade com
+diversas areas do conhecimento como a Psicologia e a Gerontologia, que ja vem estu-
+dando como o uso destas redes impacta no bem-estar social, emocional e psicologico
+de pessoas idosas, bem como fatores que motivam ou desmotivam o engajamento deste
+publico .
+
+Na contribuiçao academica, este trabalho se propoe a realizar um mapeamento
+sobre as fragilidades da comunicabilidade nas interfaces de redes sociais para usuarios
+idosos. Nessa linha, tambem considera-se a importancia deste estudo para a industria, na
+utilizaçao de resultados que possam trazer melhorias para o design de redes sociais, o que
+promove tambem, uma melhor experiencia dos usuarios, tornando-os mais empoderados
+de suas açoes e garantindo que todo e qualquer perfil de usuario seja capaz de utilizar uma
+rede social sem a necessidade de segrega-los em redes diferentes acessiveis para nichos
+de publicos.
+
+**METODOLOGIA DE PESQUISA**
+
+Considerando seu proposito, esta pesquisa se caracteriza como exploratoria e descritiva
+seguindo abordagem predominantemente qualitativa. Para alcançar os objetivos propos-
+tos, este trabalho conta com uma etapa de fundamentaçao teorica, atraves de pesquisa
+bibliografica, que objetiva cercar o tema proposto e encontrar trabalhos correlatos e pos-
+teriormente, uma etapa de experimentos a luz da Engenharia Semiotica ,
+que busca compreender o que envolve o design, uso e avaliaçao de um sistema interativo,
+neste caso, as redes sociais. Isto caracteriza a pesquisa como aplicada porque baseia sua investigacao na perspectiva de resolver problemas identificados ou vivenciados na sociedade [Marconi and Lakatos 2010].
+
+Serao utilizados os metodos MIS e MAC para avaliar quatro redes sociais, Whatsapp, Instagram, Facebook e Tiktok, selecionadas atraves do criterio de popularidade destas no Brasil, de acordo com [DataReportal 2024]. Os testes seguirao os passos inerentes a cada um dos metodos, ja citados na Fundamentacao Teorica, com planejamento da coleta de dados bem minucioso, que contara com a criacao de um conjunto de personas e cenarios especificos para cada rede, visto que cada uma e a interacao com elas possuem especificidades, apesar de possuirem funcionalidades semelhantes.
+
+A criacao destes cenarios e selecao das tarefas para ambos os metodos, serao embasados nas recomendacoes de design propostos na Revisao Sistematica da Literatura (RSL) de [Ghenai et al. 2023]. Para a realizacao do MAC, os experimentos serao realizados com pessoas idosas usuarias de redes sociais, que serao selecionadas, especialmente, por diferentes niveis de experiencia no uso de cada uma das redes avaliadas.
+
+Com os resultados obtidos, serao mapeadas as rupturas experienciadas na comunicacao entre as pessoas idosas e as redes sociais, em diversos aspectos como seguranca, privacidade, persuasao, e ate a possivel existencia de padroes obscuros. Esse mapeamento ira demonstrar se, para as diversas funcionalidades das redes sociais, um usuario idoso realmente se sente no controle de suas acoes, se entende as consequencias advindas delas, se consegue realizar sozinho as tarefas desejadas, se compreende as mensagens e simbolos apresentados na interface, e se, de fato, consegue usufruir de toda a gama de recursos e configuracoes existentes.
+
+Consideracoes sobre aspectos éticos
+
+Como o trabalho preve testes com usuarios, contendo possıveis entrevistas e gravacoes de imagens, o projeto de pesquisa foi submetido ao Comite de Etica e Pesquisa da Universidade Federal do Para para que sejam aprovados os estudos com pessoas idosas usuarias de redes sociais. Os participantes devem consentir sua participacao, tendo garantido seu bem-estar e seu direito de interromper sua participacao a qualquer momento durante a avaliacao. Alem disso, o participante deve dar seu consentimento por escrito, atraves da assinatura de um documento que especifique as condicoes acordadas sobre sua participacao, assinado tambem pelo avaliador.

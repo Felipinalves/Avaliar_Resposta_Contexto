@@ -1,0 +1,140 @@
+**RESUMO**
+
+Crianças com Transtorno no Espectro Autista (TEA)
+apresentam, em algum grau, deficits na comunicaçao,
+comportamento e interaçao social. Jogos têm sido utilizados
+para ajuda-las nessas questoes. Porem, pouca atençao e
+dada na alfabetizaçao de crianças com TEA e isso reflete
+tambem nos jogos com esse proposito. Conceitos de
+acessibilidade e design interativo sao deixados de lado na
+interaçao entre usuarios autistas e tais aplicativos, o que
+acaba prejudicando a eficacia dos jogos, principalmente na
+questao da alfabetizaçao. Este trabalho aborda o
+desenvolvimento de um jogo que foi criado nao apenas para
+alfabetizar crianças no espectro autista, mas tambem para
+familiariza-las com atividades de autocuidado e higiene
+pessoal (chamadas de Atividades de Vida Diaria - AVDs),
+atraves de PECS (Pictures Exchange Communication
+System).
+
+**INTRODUCAO**
+
+Ler e um fator imprescindivel para o desenvolvimento da
+capacidade de compreensao leitora. Quanto mais se pratica
+a leitura, mais se acumula o vocabulario e a atençao do
+leitor fica cada vez mais voltada para o significado do texto.
+
+O Transtorno de Espectro Autista (TEA) e uma condiçao do
+neurodesenvolvimento que se manifesta de varias maneiras:
+falta de habilidade social e de comunicaçao, padroes de
+pensamento e comportamentos repetitivos .
+
+Antes de começar alfabetizar as crianças com TEA e
+necessario ensinar as habilidades rudimentares de leitura,
+que dizem respeito ao emparelhamento de palavras
+impressas, nomeaçao de figuras, vogais, consoantes e
+silabas simples . Caso o educando nao consiga realizar
+essas habilidades e necessario ensina-lo antes de começar o
+processo de alfabetizaçao. As atividades mostradas a seguir
+foram as recomendadas por Gomes .
+
+O objetivo deste trabalho foi o desenvolvimento de um jogo
+para a alfabetizaçao de pessoas com TEA com o intuito de
+familiariza-las com as atividades de autocuidado atraves de
+PECS (Pictures Exchange Communication System).
+
+**DESENVOLVIMENTO DO JOGO**
+
+O jogo de alfabetizaçao utiliza PECS relacionadas as
+Atividades de Vida Diaria (AVDs) dessas crianças, pois
+muitas crianças com TEA tem dificuldades de relacionar
+objetos com seus nomes . Isso acaba gerando uma leitura
+sem compreensao. As AVDs dessas crianças se referem
+principalmente as atividades basicas realizadas por
+individuos como : higiene pessoal, alimentaçao,
+comunicaçao, mobilidade, controle do ambiente e vestuario.
+
+Em casos de autismo mais severos o desenvolvimento das
+habilidades de vida diaria acaba se tornando mais
+importante do que a aquisiçao de leitura, pois a
+independencia dessas pessoas se torna imprescindivel para
+terem uma qualidade de vida melhor. Um dos diferenciais
+do jogo e alfabetizar enquanto sao ensinadas AVDs que
+precisam ser realizadas diariamente de forma independente.
+
+Todas as fases do jogo foram baseadas nas tecnicas de
+alfabetizaçao descritas em . A nomeaçao de figuras e
+vogais e uma atividade fundamental para a leitura. Essa
+habilidade de nomeaçao e importante para o aprendiz
+relacionar o som a palavra escrita e tambem ao seu
+significado.
+
+O primeiro nivel do jogo foi baseado na nomeaçao de
+imagens. Isso ocorreu atraves do emparelhamento de
+imagens. Estimulos (som/figura/palavra) foram utilizados.
+O som (audio) sempre vem com a figura e a palavra,
+bastando apenas a criança clicar em cima das mesmas.
+Atraves do audio a criança podera ouvir, aprender e,
+quando adquirir segurança ou a articulaçao fonoaudiologica
+necessaria naquela palavra pode começar a pronuncia-la.
+
+Entender o significado da palavra e relacionar com o seu
+som e fundamental para o desenvolvimento da leitura com
+compreensao . Muitas pessoas com TEA conseguem ler
+uma palavra, mas nao conseguem fazer a relaçao dessa com
+o significado no mundo real.
+
+A criança devera emparelhar as figuras identicas para
+mudar de nivel (Figura 1), arrastando a(s) imagem/imagens
+de um lado da tela para o outro. Ao clicar sobre essa
+instantaneamente sera reproduzido o som correspondente.
+
+No nivel 2 e utilizado o emparelhamento multimodelo,
+onde serao apresentadas tres figuras diferentes, as quais
+deverao ser arrastadas de um lado da tela para seu lugar
+correspondente. Tal nivel conta com 50 figuras, que
+utilizam de pictogramas contendo as AVDs (Figura 2).
+Essas imagens foram retiradas do portal ARASAAC
+(Portal Aragones de Comunicaçao Aumentativa e
+Alternativa) que disponibiliza gratuitamente imagens
+prontas para a criaçao de pranchas de comunicaçao
+alternativas.
+
+Todas as letras do alfabeto serao ensinadas na fase 3,
+fazendo com que a criança tenha consciencia fonologica
+dessas. E possivel ver a palavra escrita por inteiro (Figura
+3). A letra que esta faltando se localiza no lado esquerdo da
+tela e deve-se clicar sobre essa, arrastando-a ate o outro
+lado.
+
+No jogo foi seguido o metodo fonico  que orienta o
+ensino de letras na seguinte sequencia: A, E, I, O, U, F, J,
+M, N, V, Z, L, S, R, X, B, C, P, D, T, G, Q, H, K, Y e W.
+Isso e feito para que haja uma regularidade durante o
+desenvolvimento das familias silabicas.
+
+O nivel 4 e bem semelhante ao 3, porem no lugar das letras
+do alfabeto serao as silabas. No nivel 5 (Figura 4) a criança
+devera emparelhar a palavra correspondente a figura, a fim
+de verificarmos se ela consegue entender o seu significado,
+alem de ler a palavra escrita.
+
+Os niveis irao sendo desbloqueados conforme a criança for
+avançando por um determinado grupo de imagens/palavras.
+
+**CONCLUSAOES E TRABALHOS FUTUROS**
+
+Para realizar a alfabetizaçao, no lugar de palavras comuns
+como "pato", "dedo", etc. foram utilizadas palavras
+relacionadas as AVDs das crianças, atraves do metodo
+fonico. Assim, alem de serem alfabetizadas, aprenderao a
+rotina que devem realizar de forma independente.
+
+Mesmo sem ter sido testado com usuarios finais, o jogo
+apresentado foi baseado em metodologias cientificas
+estabelecidas para crianças com TEA, como o e o caso do
+metodo TEACCH e ABA (Applied Behaviour Analysis).
+
+**CONSIDERAÇOES FINAIS**
+
+A criaçao de um jogo educativo voltado para a alfabetizaçao de crianças com TEA, utilizando PECS e o metodo fonico, e uma iniciativa promissora. Ao integrar o ensino da leitura com o aprendizado de atividades de vida diaria, o jogo oferece uma abordagem holistica e contextualizada, que pode facilitar a compreensao e a retençao do conhecimento por parte das crianças. A validaçao do jogo com usuarios finais e a realizaçao de estudos sobre sua eficacia sao passos importantes para o aprimoramento e a disseminaçao dessa ferramenta.

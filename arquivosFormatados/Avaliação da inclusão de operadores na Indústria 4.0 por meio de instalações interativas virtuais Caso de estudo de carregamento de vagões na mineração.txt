@@ -1,0 +1,133 @@
+A industria da mineraçao envolve diversos processos visando à
+obtençao do minerio concentrado, demandando recursos humanos qualifica-
+dos. Impulsionados pelas orientaçoes e diretrizes para inclusao de pessoas
+com deficiencia visual no mercado de trabalho, e necessario oferecer condiçoes
+operacionais equitativas. O estudo aborda as diversas atividades desempenha-
+das por operadores responsaveis pelo carregamento de vagao. Nesse contexto,
+objetiva-se verificar a execuçao de determinadas tarefas por individuos com ou
+sem deficiencia visual em um ambiente virtual. Espera-se identificar pontos
+criticos operacionais que permitam conduzir a açoes mais assertivas quanto as
+modificaçoes de infraestrutura viabilizando, assim, um ambiente mais inclusivo.
+
+Nos mais diversos setores economicos observa-se o crescimento da incorporaçao de
+praticas mais responsaveis de Environmental, Social and Governance (ESG), em por-
+tugues, Ambiental, Social e Governança. Atrelada as tendencias mundiais e as legislaçoes
+especificas , a inclusao de pessoa com deficiencia (PcD) no mercado de tra-
+balho e crucial para o desenvolvimento social. Para tanto, as empresas precisam se pre-
+parar para receber, incluir e oferecer condiçoes equitativas de trabalho. Assim, almeja-se
+proporcionar um ambiente adequado onde possa-se alcançar o maximo potencial indivi-
+dual e coletivo, atendendo as necessidades do trabalhador e do empregador. Para tanto,
+e imprescindivel analisar os locais laborais com olhar critico e direcionado ao atendi-
+mento das necessidades de cada trabalhador. E, desse modo, sanar as lacunas existentes.
+A pesquisa aborda um estudo de caso em uma industria de mineraçao brasileira, espe-
+cificamente em relaçao a uma equipe de operadores com diferentes niveis de deficiencia
+visual. Suas atividades envolvem o carregamento de vagoes com minerio concentrado e o
+monitoramento de tarefas adjacentes. A problematica a ser estudada reside no fato de que
+nao ha diferença na infraestrutura do ambiente de trabalho independe das singularidades
+de cada operador. Reconhecer e observar a rotina de trabalho dos empregados alinhado
+a oportunidade de inovaçao e pesquisa no contexto da Industria 4.0, pode possibilitar
+mudanças positivas na dinamica de interaçao entre o operador e o ambiente de trabalho,
+conduzindo a melhoria da carga de trabalho. O objetivo do projeto e avaliar as dificul-
+dades enfrentadas pelos operadores, com ou sem deficiencia visual, por meio de uma
+tecnologia imersiva virtual, a fim de identificar a melhor infraestrutura para a operaçao.
+Espera-se reconhecer oportunidades de aprimoramento visando a assertividade nas toma-
+das de decisoes. Antecipa-se tambem, que a ampliaçao no uso de novas tecnologias sejam
+facilitadores e nao entraves na rotina dos operadores.
+
+**FUNDAMENTAÇAO TEORICA**
+
+A avaliaçao e compreensao da eficiencia das interfaces de interaçao humano-computador
+desempenham um papel crucial na aprimoraçao da acessibilidade e experiencia de uso de
+tecnologias. No contexto da realidade virtual (RV), que busca enriquecer a realidade com
+informaçoes e interaçoes virtuais atraves de interfaces imersivas para ampliar ou trans-
+formar o entendimento do mundo , e essencial medir a eficiencia le-
+vando em consideraçao as habilidades dos usuarios. No ambito deste trabalho, a aplicaçao
+dessa abordagem para pessoas com deficiencia visual resulta em experiencias mais efica-
+zes e inclusivas. Estudos como o de  associam e orientam a utilizaçao
+de tecnicas como audio espacial e feedback tatil, bem como consideram outros sentidos
+alem da visao. investiga a inclusao de pessoas cegas na realidade
+virtual e propoe um espaço de design para desenvolver feedback de audio alternativo,
+destacando a importancia de considerar multiplos modos sensoriais na interaçao. Essas
+abordagens contribuem para aprimorar a experiencia de interaçao para pessoas com de-
+ficiencia visual em ambientes de realidade virtual.
+
+**METODOLOGIA**
+
+A pesquisa de mestrado foi delimitada em tres fases complementares, realizadas em pa-
+ralelo a revisao da literatura, a qual esta em constante atualizaçao:
+
+Fase 1 reconhecimento do problema
+Fase 2 listagem e hierarquizaçao das tarefas construçao do ambiente imersivo
+identificaçoes das interaçoes criticas
+Fase 3 planejamento dos testes teste de usuario analise dos resultados
+
+A primeira fase concentrou-se na contextualizaçao do problema. A Figura 1 apresenta a
+visao macro do ambiente associada a cabine de operaçao de carregamento de vagao.
+
+O local trata-se de uma usina de beneficiamento de minerio de ferro, onde ocorre o carregamento dos vagoes por meio de operadores que controlam a abertura e fechamento de silos. Eles realizam diversas tarefas durante um turno de trabalho, incluindo verificação do peso dos vagoes, controle complementar de produto para reducao na geracao de particulados, verificacao da ausencia de contaminantes nos vagoes vazios, uso de equipamentos com joysticks para controlar a abertura dos silos e coordenacao com a equipe de locomotivas e usina por meio de radios. Ha desafios de visibilidade devido a sujeira nas janelas e as demandas simultaneas na cabine.
+
+Na segunda fase listou-se as tarefas do problema a fim de compreender a ordem de
+execuçao e suas exceçoes. Identificou-se pontos criticos na operaçao, como a utilizaçao
+dos radios, a observaçao de telas em diferentes direçoes e a falta de padronizaçao na altura
+maxima do montante de minerio no vagao. Com base nessas observaçoes, foram defini-
+das quatro hipoteses como caminhos para refutar ou confirmar a hipotese principal. Quais
+sao:
+
+H1 A alteraçao do tipo de radio resulta em diminuiçao de tempo e carga de
+trabalho para a realizaçao da tarefa
+
+H2 A alteraçao das disposiçoes da TV e do computador resulta em diminuiçao
+de tempo e carga de trabalho para a realizaçao da tarefa
+
+H3 A projeçao de uma linha guia na janela à frente ao operador resulta em
+diminuiçao de tempo e carga de trabalho para a realizaçao da tarefa
+
+H4 A sinalizaçao das exceçoes por estimulo de outros sentidos resulta em
+diminuiçao de tempo e carga de trabalho para a realizaçao da tarefa
+
+Em paralelo a estas definiçoes ha a construçao do ambiente imersivo virtual. Uma
+tecnologia para proporcionar a mesma sensaçao de realidade da operaçao porem desen-
+volvida a baixo custo, sem a necessidade de alteraçoes no ambiente fisico. O desenvol-
+vimento utilizara os softwares Unity e Inventor, e os equipamentos Meta Quest 2 e HTC
+VIVE. O experimento sera realizado de forma totalmente imersiva, controles representara
+o movimento das maos e nao tera interaçoes com o ambiente fisico.
+
+A terceira fase do projeto consiste no planejamento dos testes com usuarios. Atualmente,
+os planos de teste estao em processo de elaboraçao e serao submetidos ao Comite de Etica
+para aprovaçao. O objetivo principal dessa etapa e avaliar o desempenho da interaçao
+imersiva na realidade virtual diante das tarefas designadas, essas focadas no processo de
+carregamento de vagao. Para isso, os testes serao conduzidos com participantes tanto
+com deficiencia visual quanto sem. O protocolo dos testes seguira um conjunto de etapas
+bem definidas iniciaçao, treinamento, teste, coleta de dados e encerramento. Em cada
+condiçao de teste, os participantes serao convidados a responder a um questionario. O
+cenario de teste branco envolvera uma interaçao com o ambiente imersivo sem a projeçao
+da linha guia, telas e radios sem alteraçoes e sem sinalizaçao sonora. As condiçoes de teste
+serao controladas, seguindo o formato within-subject, todos os participantes realizam
+os testes em todas as condiçoes. Quais sao
+
+A Interagir com o ambiente imersivo com a projeçao da linha guia, telas e radios
+sem alterar e sem sinalizaçao sonora.
+
+B Interagir com o ambiente imersivo sem a projeçao da linha guia, telas com
+alteraçao da disposiçao, radios sem alterar e sem sinalizaçao sonora.
+
+C Interagir com o ambiente imersivo sem a projeçao da linha guia, telas sem
+alteraçao da disposiçao, radios com alteraçao e sem sinalizaçao sonora.
+
+D Interagir com o ambiente imersivo sem a projeçao da linha guia, telas sem
+alteraçao da disposiçao, radios sem alterar e com sinalizaçao sonora.
+
+A avaliaçao utilizara de metodos que buscam valores objetivos e subjetivos. Para
+os objetivos, o tempo de execuçao sera medido por meio do ambiente virtual, para os sub-
+jetivos, a coleta de informaçoes dos usuarios sera realizada utilizando o NASA-Task Load
+Index (NASA-TLX). Metodo proposto por  que quantifica a
+carga de trabalho em tarefas especificas usando seis metricas demanda mental, fisica,
+temporal, desempenho, esforço e nivel de frustraçao. Os usuarios atribuem pontuaçoes e
+fazem comparaçoes entre essas metricas para determinar sua importancia e relevancia. A
+Tabela 1 traz a correlaçao entre as variaveis, metodos, condiçoes de teste e hipoteses.
+
+**RESULTADOS PRELIMINARES**
+
+Como resultado preliminar, destaca-se a construçao do ambiente imersivo em andamento.
+Uma aplicaçao em realidade virtual interligado a interaçao humano-computador entre
+areas, a fim de prover novas interfaces de interaçao e no futuro instigar outros sentidos como a audicao e/ou feedback tatil. Utilizou-se o software Inventor Autodesk para desenho de objetos 3D e o ambiente, o software Unity. As imagens e a demonstracao dos resultados iniciais desenvolvidos no ambiente imersivo encontra-se em um vıdeo que mostra a perspectiva do usuario ao entrar no ambiente imersivo, o vıdeo nao apresenta som no momento.

@@ -1,0 +1,126 @@
+**RESUMO**
+
+Este mapeamento sistematico visou encontrar tecnologias que apoiem
+o processo de composicao coreografica, focando em ferramentas que
+trabalhem em conjunto com as atividades do coreografo. Foram identificadas
+dezoito ferramentas nas quais a principal aplicabilidade foi a simulaçao de
+movimentos por meio de animaçao grafica. A partir do modo de operaçao
+dessas ferramentas, foram discutidos os desafios da relaçao existente entre a
+tecnologia e a criaçao em dança. A principal contribuiçao deste artigo e
+identificar e classificar as principais estrategias de integraçao entre tecnologia
+e composiçao em dança e discutir suas implicaçoes, sendo a falta de
+envolvimento dos artistas (usuarios finais) nas fases iniciais do processo de
+desenvolvimento a descoberta mais relevante.
+
+**INTRODUCAO**
+
+O uso da tecnologia no universo artistico e uma area de pesquisa que requer esforcos
+interdisciplinares entre a ciencia da computaçao e as ciencias humanas e, por isso, tem
+sido objeto de estudos no meio academico. Parte desse interesse pode ser explicado pela
+evoluçao das capacidades computacionais e pela acessibilidade a dispositivos e
+ferramentas tecnologicas por grande parte da sociedade. Em 1996, Hill apud Sagasti
+(2019) listou aproximadamente 100 artigos e livros publicados, tratando da interaçao da
+dança com a tecnologia, e este quantitativo vem aumentando desde entao.
+
+Esta pesquisa visou realizar um mapeamento sistematico identificando as
+ferramentas tecnologicas que contribuem como suporte ao trabalho de composiçao
+coreografica, para compreender o estado da arte neste campo de pesquisa. Vale ressaltar
+que o termo suporte representa uma gama de formas de auxilio (Cambridge Dictionary
+2021), ou seja, tudo aquilo que facilita ou fornece meios de produzir, transformar e/ou
+visualizar movimentos ou algum outro aspecto diretamente relacionado a dança, e que
+tenha algum tipo de interatividade com o coreografo, de forma a compartilhar o esforco
+composicional. A identificaçao e a compreensao de como o usuario final se posiciona no
+desenvolvimento de tais aplicacoes e as caracteristicas das ferramentas podem apontar as
+principais tendencias, desafios e problemas na intercalacao das duas areas, bem como
+conscientizar os pesquisadores sobre pontos criticos. Isso leva a principal motivaçao para este trabalho: apoiar pesquisas futuras, fornecendo o estado da arte neste campo de
+pesquisa. O estudo em tela consiste em um resumo estendido de um artigo publicado
+recentemente no Journal on Interactive Systems (Dornelas et al. 2022).
+
+**METODOLOGIA DE PESQUISA**
+
+Atendendo ao objetivo principal desta pesquisa, foram definidas tres questoes de
+investigaçao, visando mapear como e implementada a comunicaçao de ambas as areas e
+como sao utilizados os conceitos de usabilidade, se aplicados: (i) Q1: Como as
+tecnologias funcionam para apoiar a composiçao coreografica? (ii) Q2: Como e a
+intercalaçao entre os recursos tecnologicos e os conceitos de composiçao para dança? (iii)
+Q3: Os conceitos de usabilidade sao aplicados as soluçoes tecnologicas de apoio aos
+coreografos?
+
+A primeira etapa consistiu na definiçao de um protocolo de busca com termos que
+abrangessem um numero expressivo e direcionado de pesquisas no campo da composiçao
+coreografica utilizando tecnologia, a saber: (“dance composition” ou “choreographic
+design” ou “dance creation”) e (“software” ou “technology” ou “web” ou “mobile” ou
+“app” ou “application”). Esses termos foram devidamente adaptados as restriçoes dos
+repositorios escolhidos: Scopus, Springer Link, ACM Digital Library e IEEE Digital
+Library. A Figura 1 apresenta um infografico que detalha as etapas relacionadas ao
+protocolo de pesquisa e seleçao dos artigos. As informaçoes extraidas de 65 artigos
+identificaram 56 tecnologias distintas.
+
+Algumas ferramentas identificadas e aprovadas nos criterios de inclusao, devido
+a sua capacidade de uso na composiçao coreografica, foram filtradas em uma etapa
+adicional que buscou encontrar aplicaçoes que realmente funcionassem como um
+acessorio ou trabalhassem em conjunto com a participaçao do profissional no ato de
+compor, como esperado, considerando o objetivo principal da pesquisa. Ao longo do
+processo de extraçao foi realizada uma analise tematica, que consiste em um metodo que
+visa identificar, analisar e relatar padroes ou temas (Wohlin et al. 2012), para organizar e
+apresentar as tecnologias. Por fim, das 56 ferramentas diferentes encontradas, 18 foram
+selecionadas para descriçao do modus operandi, visando responder as questoes de
+pesquisa. A Tabela 1 apresenta o resultado do processo de extraçao, detalhando
+caracteristicas das tecnologias selecionadas.
+
+**RESULTADOS**
+
+Esta seçao discute os resultados das questoes propostas nesta pesquisa, relacionando-os
+com as informaçoes obtidas a partir da extraçao dos dados.
+
+No que tange a Q1, foi possivel observar que ha uma concentraçao de ferramentas
+em duas categorias: simulaçao de movimento por meio de animaçao grafica (72,3%) e
+interaçao digital em conteudo de video (27,7%). As saidas de animaçao grafica
+manifestaram caracteristicas diferentes entre as tecnologias. Noll apud Sagasti (2019) e
+Kohno et al. (2010) produziram animaçoes em bonecos de palitos e, da mesma forma,
+Soga et al. (2001) e Soga et al. (2006) ofereceram uma visualizaçao de esqueleto,
+enquanto Carlson et al. (1992) mencionaram o uso de animaçoes com desenhos animados.
+Herbison-Evans (1988) apud Sagasti (2019), Calvert et al. (1991), Calvert et al. (2005),
+Carlson et al. (2015), Drewes (2016) e Krylov e Samsonovich (2019) começaram a
+trabalhar com corpos humanoides. Mebius (1998) apud Sagasti (2019) mencionou
+explicitamente o uso de animaçoes, mas nao forneceu indicaçao se seriam bonecos ou
+corpos humanoides. A capacidade de mover um corpo humano, a principio, parece
+vantajosa dada a quantidade de detalhes que podem ser trabalhados, mesmo que a
+complexidade da ferramenta aumente. No entanto, nenhum estudo discutiu ou apresentou
+soluçoes para a diversidade de corpos e, consequentemente, diversas habilidades motoras
+presentes no universo da dança, obrigando o coreografo a criar a partir de corpos muito
+especificos, cujos movimentos idealizados os bailarinos podem nao conseguir reproduzir.
+Aplicaçoes com bonecos ou imagens simbolicas de corpos humanos (cartoons) podem
+ser vistas como uma soluçao para reduzir essa restriçao, porem limitam a riqueza visual
+do produto final e perdem o apelo do uso de tais ferramentas.
+
+Em relaçao a Q2, constatou-se que a forma mais praticada de intercalaçao entre
+recursos tecnologicos e conceitos especificos de criaçao em dança ocorreu por meio de
+sistemas de notaçao de movimentos. Essas ferramentas visavam entender como a dança deveria ser executada convertendo notacoes de movimentos para permitir que os coreografos visualizassem uma animacao grafica de suas ideias Uma notacao consiste em caracteres sinais ou registros que conectados entre si criam novas formas com diferentes significados As notacoes de movimento mais comuns atualmente sao os sistemas criados por Laban Labanotation Benesh e EshkolWachman Dania et al 2015 Calvert et al 2005 usaram exclusivamente Labanotation enquanto Drewes 2016 tambem incluiu a notacao de movimentos de EshkolWachman HerbisonEvans 1988 apud Sagasti 2019 foi desenvolvido com Notacao Benesh Vale ressaltar que Calvert et al 1991 se propuseram a utilizar a Notacao Simbolica de Peter Rajka desenvolvida exclusivamente para a ferramenta o que tornaria o uso de tal tecnologia ainda mais complexo e com a necessidade de estudar uma notacao nao popular Ribeiro et al 2017 contrastam o universo da musica e suas partituras globalmente legiveis com o universo da danca e a falta de uma notacao amplamente conhecida deste ultimo Carlson et al 2015 tambem destacam o desafio de desenvolver um padrao internacional e as discussoes sobre a criacao do LabanXML ou de forma mais ampla DanceXML o que abriria oportunidades para a criacao de diversas ferramentas que poderiam compartilhar recursos entre si se adotassem uma convencao sobre como representar danca digitalmente Outra forma de intercalacao e a utilizacao de bibliotecas de movimentos ou passos de danca conhecidos que sao disponibilizados ao usuario para compor uma sequencia coreografica no entanto essa estrategia e limitada ao banco de dados da aplicacao.
+
+
+Visando responder a Q3, notou-se que os estudos nao priorizaram usabilidade,
+sendo o foco central a qualidade e os metodos de manipulaçao do movimento, seja por
+meio de partes do corpo ou passos existentes, e na forma de visualizaçao. Entretanto,
+destaca-se que das 18 tecnologias selecionadas, oito apontaram explicitamente algum tipo
+basico de envolvimento do usuario final durante o processo de desenvolvimento ou
+experimentaçao da ferramenta, embora tal envolvimento nao tenha sido priorizado na
+definiçao dos requisitos funcionais. Apenas a pesquisa de Felice et al. (2016) apresentou
+um mapeamento conceitual de uma tecnologia destinada a auxiliar coreografos
+digitalmente, com base em entrevistas com potenciais usuarios finais.
+
+**CONCLUSAO**
+
+A simulaçao de movimento por meio de animaçao foi a principal aplicaçao de tecnologia
+nas ferramentas analisadas e a conversao de sistemas de notaçao foi a caracteristica mais
+singular da interdisciplinaridade entre esses dois campos de pesquisa. Este artigo
+contribui principalmente ao identificar e classificar as estrategias de integraçao da
+tecnologia e composiçao da dança no desenvolvimento de ferramentas para fins de apoio.
+Diversas aplicaçoes foram analisadas, evidenciando a falta de usabilidade no
+desenvolvimento dessas ferramentas. As descobertas indicam que pesquisas academicas
+devem envolver artistas desde o inicio da modelagem tecnologica para compreender as
+demandas dos coreografos e aspirantes a dançarinos.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, a pesquisa demonstra que a integraçao da tecnologia no processo de composiçao coreografica ainda enfrenta desafios relacionados a usabilidade e ao envolvimento dos usuarios finais. Para o futuro, e fundamental que as pesquisas academicas e o desenvolvimento de ferramentas de apoio a composiçao em dança considerem as necessidades e demandas dos coreografos e dançarinos desde o inicio do processo, garantindo que a tecnologia seja uma ferramenta eficaz e relevante para aprimorar a expressao artistica.

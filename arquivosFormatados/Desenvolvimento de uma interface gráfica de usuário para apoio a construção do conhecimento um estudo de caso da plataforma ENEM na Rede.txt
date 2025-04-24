@@ -1,0 +1,133 @@
+**RESUMO**
+
+O estudo apresenta o sistema de design (design system),
+usabilidade e arquitetura da informaçao criados para a plataforma
+"Enem na Rede", que tem por objetivo capacitar estudantes para o
+ENEM - Exame Nacional do Ensino Medio. A plataforma prove a
+construçao do conhecimento atraves de interaçoes sociais e
+mecanicas de gamificaçao que envolvem alunos em atividades
+colaborativas. O processo de construçao da interface grafica de
+usuario utiliza conceitos de responsividade de sistemas web,
+usabilidade, representaçao da informaçao e uma inteligencia
+artificial apoiada por representaçao visual, que ajuda estudantes e
+guia o processo de estudo.
+
+**DESCRICAO DO PROBLEMA**
+
+Desenvolvida como prova de conceito da tese de doutorado do
+autor Marcos Arrais, para o Programa de Pos-graduaçao em
+Informatica da UFRJ, a plataforma tem como objetivo aplicar
+conceitos de recuperaçao da informaçao, mineraçao de dados e
+workflow focados na construçao do conhecimento. O objeto de
+estudo escolhido foram alunos da rede publica de ensino que estao
+em preparaçao para o ENEM Exame Nacional do Ensino
+Medio. O problema principal que cerca esse estudo e: Como
+construir um ambiente engajador, onde o estudante pudesse
+treinar seus conhecimentos nos conteudos cobrados pelo ENEM?
+
+Esse desafio de construir um sistema web, multiplataforma,
+que envolva o aluno, levantou a necessidade de estrategias de
+design centrado no usuario. O estudo apresenta as decisoes e
+mecanicas desenvolvidas na concepçao do artefato.
+
+**SOLUCAO/ABORDAGEM ADOTADA**
+
+Para o desenvolvimento do artefato com foco na preparaçao de
+estudantes do ensino medio da rede publica para a realizaçao do
+ENEM, a pesquisa buscou entender as necessidades e dominios de
+sistemas de informaçao e redes sociais, comumente utilizados
+pelo publico delimitado para o estudo. Essa mesma conduçao se
+deu para as escolhas do sistema de cores, tipografia e iconografia.
+O processo de decisoes foi mediado por entrevistas com alunos da
+escola piloto, onde o projeto foi executado.
+
+Durante o desenvolvimento do artefato proposto emergiram as
+seguintes abordagens no processo de design de interaçoes:
+
+Sistema de interaçoes semelhante a uma rede social, onde
+algumas interaçoes deveriam ser colaborativas com
+possibilidade de compartilhamentos.
+Para garantir um sistema de interfaces de usuario consistente
+e uma integridade no layout da plataforma um Design System
+foi desenvolvido para servir os principais controladores de
+interface e estruturas de navegaçao e sequenciamento. Esse
+sistema tambem garantiu o desenvolvimento de controles
+responsivos, visto que uma grande parcela do publico alvo
+acessa a plataforma por dispositivos moveis.
+Para garantir o engajamento dos alunos foram utilizados
+conceitos de gamificaçao com estruturas de desafios e
+recompensas. Esse item, em especifico, foi muito bem
+avaliado pela amostra de testes executados na plataforma.
+Construçao de uma referencia visual (mascote) para dialogo
+com alunos na apresentaçao de feedbacks. Esse item, que foi
+trabalhado na linguagem da plataforma como "inteligencia
+artificial", garantiu uma maior aceitaçao das propostas de
+estudos da plataforma por parte dos alunos, que viram na
+representaçao de um robo um mentor que nao os julgava ou
+criticava seus resultados, mas sim, um orientador que
+informava sobre o melhor caminho a ser seguido.
+Uso de um grupo publico na rede social Facebook para troca
+de experiencias e interaçoes com outros estudantes.
+
+Para testar e validar os pressupostos levantados foi selecionada
+uma amostra que contemplou um grupo de 160 estudantes do
+ensino medio da Escola Estadual Ordem e Progresso, em Belo
+Horizonte MG. Os testes foram realizados entre fevereiro e
+junho de 2019.
+
+**RESULTADOS**
+
+Dos 160 estudantes selecionados como amostra de teste da
+experiencia proposta, somente 99 chegaram a fase de uso da
+tecnologia, visto que muitos nao apresentaram o termo de
+autorizaçao pelos familiares e foram excluidos do grupo. Para
+esses 99 foram aplicados:
+
+Um simulado no modelo ENEM para medir o conhecimento
+no ingresso do uso da plataforma. Esse simulado foi aplicado
+em fevereiro de 2019 e os 99 alunos foram divididos em dois
+grupos (43/50 alunos). O primeiro grupo (43) foi submetido
+ao uso intenso da plataforma, e o segundo grupo (50) foi
+utilizado para monitoramento do crescimento, baseado nos
+estudos domiciliares e da escola.
+Uso intenso da plataforma durante 3 meses pelo primeiro
+grupo (43). Durante esse periodo foram realizados
+mensalmente questionarios de satisfaçao para medir
+qualitativamente as percepçoes dos alunos das atividades e
+sistemas propostos.
+Aplicaçao de um simulado final para os dois grupos de
+alunos (43/50) para medir os crescimentos individuais;
+Aplicaçao de um questionario final para com o grupo que
+utilizou a plataforma. O questionario continha questoes a
+respeito da estrutura visual, arquitetura de informaçao e
+estrutura das atividades propostas.
+
+Apos a tabulaçao de resultados foi possivel estabelecer que o
+grupo de alunos que se dedicou e utilizou a plataforma
+regularmente apresentou ganhos significativos de conhecimento
+como apresentado no grafico 1.
+
+**REFLEXAO**
+
+O formulario final enviado pelos alunos da amostra considerou
+que as decisoes do sistema de design e arquitetura da informaçao
+eram satisfatorias e atendiam as expectativas. Tambem foram
+apontados que o sistema era fluido e de facil entendimento. Nesse
+sentido, considera-se que a premissa lançada por esse estudo, na
+qual visa a construçao de um ambiente para produçao do
+conhecimento atraves de uma plataforma engajadora, foram
+cumpridos com sucesso.
+
+**CONCLUSAO**
+
+Com base na fase de testes, simulados e questionarios
+aplicados aos alunos e professores, a pesquisa concluiu que a
+metodologia apresenta ganhos de aprendizagem e o sistema
+design de interaçoes proposto atendeu as expectativas. Para
+garantir uma maior fidelidade do processo, estudos futuros devem
+aumentar a amostra de testes e os cenarios de aplicaçao, por
+exemplo em outros estados.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este estudo de caso demonstrou o sucesso da plataforma "Enem na Rede" em criar um ambiente engajador para a construçao do conhecimento, utilizando um design system eficaz, mecanicas de gamificaçao e uma interface responsiva. O feedback positivo dos alunos e os resultados dos simulados evidenciam o potencial dessa abordagem para apoiar o aprendizado e a preparaçao para o ENEM. Estudos futuros com amostras maiores e em diferentes contextos poderao confirmar e ampliar as descobertas deste trabalho.

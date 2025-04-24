@@ -1,0 +1,370 @@
+**INTRODUCAO**
+
+Apesar da principal finalidade de uso da internet ter sido a
+comunicaçao online , aplicativos de internet banking pos-
+suem representatividade de 10% entre os preferidos dos bra-
+sileiros . Em  foi observado que o canal preferido para
+uso de serviços bancarios no Brasil e o celular (34%), se-
+guido do computador (23%). No entanto, apenas 5% das pes-
+soas dos paises desenvolvidos possuem habilidades para rea-
+lizar tarefas complexas com um computador . Da mesma
+forma, apenas um terço das pessoas destes paises conseguem
+completar tarefas de complexidade mediana . A partir des-
+tes dados,  concluem que, no geral, os sistemas ainda sao
+dificeis de usar por pessoas que nao possuem afinidade tec-
+nologica (95%).
+
+Neste contexto, um banco brasileiro procurou os autores deste
+artigo a fim de conhecer a experiencia dos usuarios em seu
+sistema de internet banking (nas versoes desktop e aplica-
+tivo movel). Por questoes de sigilo contratual, neste estudo
+o banco sera chamado de Banco X (BX).
+
+A experiencia do usuario (User eXperience, UX) e definida
+como percepçoes e respostas dos usuarios, resultantes do uso
+de um produto, sistema ou serviço . Segundo  a UX
+engloba todos os aspectos da interaçao do usuario final com
+a empresa, seus serviços e seus produtos. Este trabalho apre-
+senta um estudo da UX de internet banking, focando nos as-
+pectos da interaçao do usuario com o BX. O estudo da UX foi
+realizado em um Modelo generico de experiencia do usuario
+denominado de MEX .
+
+Os autores deste trabalho aplicaram tecnicas de estudo dos
+usuarios; estudo dos softwares mobile e web do BX; e tes-
+tes com os usuarios. Alguns dos resultados obtidos com
+este trabalho foram identificaçao dos elementos da UX,
+identificaçao e uso de perfis representativos dos usuarios, ge-
+rados por uma multiplicidade de dados, e problemas relacio-
+nados a experiencia dos usuarios com o BX, como, por exem-
+plo, a dificuldade de acesso mobile apos a abertura de uma
+conta.
+
+**MODELO MEX**
+
+A metodologia deste trabalho foi baseada no Modelo
+generico de experiencia do usuario (MEX) . O MEX
+fornece uma estrutura conceitual para a compreensao de ex-
+periencias, dividindo-a em 6 elementos de alto nivel e estabe-
+lecendo relaçoes entre eles.
+
+Os elementos que compoem o modelo sao (Figura 1) : in-
+dividuo; atividade; contexto; artefatos; interaçao; e momen-
+tos. O individuo e o usuario e todos os fatores que o envolve
+(culturais, sociais, pessoais e psicologicos). A atividade se
+refere as açoes ligadas ao objetivo do usuario que justificam
+a experiencia e delimitam seu escopo. O contexto se refere a
+situaçao e ambientes nos quais a interaçao acontece. Os arte-
+fatos podem ser tanto o objeto principal (com o qual o usuario
+interage diretamente) quanto os que estao a sua volta e inter-
+ferem de alguma forma nessa interaçao. A interaçao e troca
+de estimulos que define como os artefatos se relacionam. Mo-
+mentos se referem a como a experiencia e desenvolvida.
+
+Focar em tais elementos envolve responder as seguintes
+questoes :
+individuo que informaçoes do individuo sao relevantes
+para que se possa entende-lo?
+atividades quais as principais atividades que os usuarios
+executarao baseado em suas necessidades?
+contexto quais as principais situaçoes e caracteristicas
+dos ambientes que a experiencia pode ocorrer?
+artefatos que artefatos sao importantes para a ex-
+periencia que atributos devem ser levantados?
+interaçao quais os tipos de interaçao entre o individuo e
+os artefatos?
+momentos que aspectos dos momentos influenciam a ex-
+periencia?
+
+**INVESTIGAÇAO**
+
+Para identificar os 6 elementos da UX destacados no MEX,
+este estudo foi realizado em 3 etapas 1 estudo dos usuarios
+(focando nos elementos individuo e contexto) 2 estudo dos
+softwares mobile e web do BX (focando nos elementos ati-
+vidade e artefatos) e 3 testes com os usuarios (focando nos
+elementos interaçao e momentos).
+
+**Estudo dos usuarios**
+
+Foram realizadas entrevistas internas e externas. As entre-
+vistas internas foram realizadas com funcionarios do departa-
+mento de comunicaçao e marketing do BX, para saber quais
+segmentaçoes (perfis de cliente) sao predominantes entre to-
+dos os clientes. Foram identificados tres segmentos em-
+preendedores, caracterizado por clientes de microcredito ou
+que possuem pequenas, medias ou grandes empresas cola-
+boradores, que nao sao clientes diretos do banco, mas sao
+usuarios de seus sistemas, pois trabalham a serviço de uma
+empresa que e cliente do BX e pessoas fisicas, segmentaçao
+onde ha uma parcela significativa de usuarios que trabalham
+no proprio banco (dado o seu tamanho). Como o objetivo
+do banco nao e prestar serviços principalmente aos seus fun-
+cionarios, a segmentaçao pessoas fisicas nao foi considerada
+para esse estudo.
+
+Em seguida, foram realizadas entrevistas externas com o
+proposito de detalhar cada segmento. A entrevista foi rea-
+lizada com 11 pessoas, sendo 6 mulheres e 5 homens resi-
+dentes na capital ou no interior de um estado brasileiro, com
+faixa etaria de 22 a 65 anos. Nem todos os participantes sao
+clientes do BX.
+
+Em geral os participantes relataram que o seu dia-a-dia e
+muito corrido, pois tem muita coisa para fazer dentro da em-
+presa e, muitas vezes, nao tem um ajudante. Foi relatado
+tambem que os aplicativos mais usados por eles, nos ultimos
+dias, foram de banco, ferramentas e comunicaçao. Alem
+disso, os serviços mais utilizados por eles, nos dias anteri-
+ores a entrevista, foram de pagamentos e verificaçao do saldo
+em conta. Os participantes relataram diversas situaçoes em
+que tiveram problemas com o seu banco. Os mais relatados
+foram sistema fora do ar, erro ao realizar transferencia, falta
+de aviso sobre o limite proximo de ser atingido, pagamento
+nao exibido no extrato, processo burocratico para criar uma
+conta. E por fim, muitos deles relataram que os aplicativos
+poderiam ser mais simples e mais faceis de usar.
+
+**Estudo dos softwares**
+
+Foi realizada uma analise do log de acesso a versao web e
+mobile do internet banking BX para investigar as funciona-
+lidades mais utilizadas. Dentre elas, destacam-se emissao
+de saldo e extrato de conta corrente; pagamento de boleto
+bancario e, transferencia de valores.
+
+Tambem foi observado qual a primeira açao que os usuarios
+realizam ao acessar o internet banking. Esta açao pode ser
+considerada como a intençao de uso, ja que e a primeira a
+ser realizada ao acessar o sistema. Dentre elas, destacam-se
+extrato da conta; saldo em conta; transferencia de valores e
+pagamento de boletos. Dessa forma, pode-se observar que
+existe um conjunto de açoes prioritarias, como saldo, ex-
+trato, pagamentos e transferencias; pois elas estao dentre as
+mais utilizadas e as que sao realizadas logo ao acessar o in-
+ternet banking.
+
+A tecnica Jornada do usuario , foi aplicada com o objetivo
+de identificar problemas e artefatos sob o ponto de vista do
+cliente, durante seu relacionamento com o BX. A jornada foi
+realizada por um dos autores e e relatada a seguir.
+
+Primeiro, eu realizei uma coleta de informaçoes a partir
+da busca no site do BX, pela documentaçao necessaria para
+abrir uma conta. Em seguida, fui ate uma agencia do banco
+e descobri que la so se abria conta poupança. Realizei o
+preenchimento do cadastro e o atendente do banco me pediu
+para que constantemente entrasse em contato para saber se
+o meu cadastro havia sido efetivamente efetuado e aprovado.
+Apos o cadastro, foram me repassadas instruçoes de login
+do Internet Banking, logo em seguida, tentei acessa-lo den-
+tro da agencia utilizando o aplicativo mobile e ao inserir as
+informaçoes, o aplicativo apenas exibiu a mensagem Por fa-
+vor, aguarde. Apos varias tentativas sem sucesso, consegui
+acessar minha conta pelo aplicativo, apenas apos aceitar o
+contrato de prestaçao de serviço no internet banking na web.
+Realizei uma tentativa sem sucesso de uma transferencia de
+valores. Com o proposito de solucionar o problema, entrei
+em contato com o serviço de atendimento ao consumidor, e
+descobri que se tratava de um problema com o meu cartao de
+segurança (eu precisava ativa-lo). Apos a resoluçao do pro-
+blema e a realizaçao da transferencia, enviei o comprovante
+gerado para fora do aplicativo. Por fim, utilizei o aplicativo
+rotineiramente para verificar meu saldo e emitir extratos..
+
+A partir da Jornada do Usuario realizada, percebeu-se que
+para um cliente novo, falta uma integraçao mais fluida e co-
+nectada entre internet banking e a agencia fisica, pois o cli-
+ente nao recebe orientaçoes sobre o que ele deve fazer para
+conseguir efetivamente acessar o serviço online e realizar
+suas transaçoes financeiras. Tambem foi constatado que nao e
+possivel realizar o primeiro acesso a partir do aplicativo то-
+bile, pois a etapa de aceitaçao do contrato de prestaçao de
+serviço e exibida somente na versao web (no desktop).
+
+**Testes com usuarios**
+
+Nesta etapa, foi realizado um Teste de Usabilidade  por tres
+especialistas em IHC e dois estudantes. Os objetivos foram
+investigar a quais os principais problemas ao se usar o In-
+ternet banking (mobile e web) b o quao efetivamente as pes-
+soas executam as tarefas mais comuns e, c qual a percepçao
+geral de facilidade uso da ferramenta.
+
+O teste foi executado na capital e interior de um estado do
+Brasil, e foram recrutadas 11 pessoas voluntariamente, com o
+perfil similar aos perfis identificados no estudo dos usuarios.
+Das 11 pessoas recrutadas, 7 tinham o perfil de pequeno em-
+preendedor e 4 o perfil de colaborador. Tais pessoas foram
+recrutadas apos um mapeamento de pequenas e medias em-
+presas das cidades, por terem disponibilidade e o perfil dese-
+jado para o teste.
+
+No cenario definido para a realizaçao do teste, o participante
+deveria supor estar utilizando o internet banking em um dia
+tipico. A plataforma utilizada foi definida a partir do estudo
+dos usuarios para os participantes com perfil de pequeno em-
+preendedor foi utilizada a plataforma mobile; e para os parti-
+cipantes com perfil de colaborador, foi utilizada a plataforma
+web. Para a versao mobile, foram utilizados os sistemas ope-
+racionais Android e iOS.
+
+Cada sessao de teste (Figura 2) foi realizada envolvendo qua-
+tro pessoas um participante, um facilitador, um observador
+e uma pessoa responsavel por gravar o audio e video das
+sessoes. O facilitador era responsavel por conduzir o teste
+e o observador, por realizar anotaçoes relevantes. Em cada
+sessao de teste foi solicitada ao participante, a autorizaçao
+para gravaçao de audio e video, com a assinatura de um termo
+de consentimento.
+
+Foram testadas as funcionalidades acessar conta, consultar
+saldo, consultar extrato, fazer transferencia e enviar com-
+provante. Dessa forma, os participantes tiveram que a
+abriracessar o aplicativosite do internet banking e descrever
+o que ve b acessar a conta usando as credenciais repassadas
+e descriçao do que ve c descobrir quanto dinheiro tem em
+conta d verificar se houve alguma movimentaçao recente na
+conta e descrever o que ve e transferir R 10,00 para uma
+conta informada e por fim, f retornar a tela inicial, e enviar
+uma comprovaçao da transferencia realizada para um numero
+de telefone ou e-mail informado.
+
+Apos a realizaçao de cada sessao de teste, foi aplicado um
+questionario para investigar a satisfaçao dos usuarios com o
+sistema. Neste estudo, foi utilizado o questionario SUS (Sys-
+tem Usability Scale) . O questionario possui 10 afirmaçoes
+e para cada uma delas, o participante deveria responder den-
+tre as opçoes 1- discordo fortemente 2- discordo 3- nao
+discordo nem concordo 4- concordo ou 5- concordo forte-
+mente.
+
+Para analisar os resultados obtidos pelo questionario, e calcu-
+lada a sua pontuaçao de acordo com as respostas e o numero
+sequencial da questao as questoes de ordem impar, subtrai-
+se 1 da resposta do participante para questoes de ordem par,
+subtrai-se a resposta do participante de 5; por fim, multiplica
+o resultado de cada questao por 2.5 para obter a pontuaçao
+SUS .
+
+Para cada participante foi calculada a pontuaçao SUS de
+acordo com as suas respostas. Em seguida, foi gerada a
+pontuaçao media para cada plataforma, obtendo como resul-
+tado 58.50 pontos para a versao mobile e 60 pontos para a
+versao web.
+
+Em , e definido que uma pontuaçao SUS acima de 68 pon-
+tos e considerada acima da media, e sistemas que apresentam
+graves problemas de interface eou interaçao possuem uma
+pontuaçao abaixo desse numero. Dessa forma, de acordo com
+a media SUS obtida, observa-se que o internet banking BX
+em sua versao web e mobile, possuem problemas graves de
+interface eou interaçao.
+
+**RESULTADOS**
+
+Nesta seçao sao respondidas as questoes levantadas, identifi-
+cando os 6 elementos da UX do modelo MEX.
+
+A partir do estudo dos usuarios, foram definidas duas perso-
+nas  (individuo) do internet banking, apresentadas a se-
+guir.
+
+Persona do perfil pequeno empreendedor Marcos e micro-
+empresario, tem 34 anos e possui ensino medio. Ele e dono de
+um mercadinho que cresce a todo o vapor, fruto de sua garra.
+Incansavel, pega no batente cedo e faz de tudo um pouco.
+
+Em seu dia-a-dia, sempre o atrapalha perder tempo resol-
+vendo problemas em seu banco, odeia burocracia e coisas
+complicadas de se fazer. Marcos gosta de informaçao rapida
+e confiavel na palma da mao, ja que se locomove o tempo
+todo e nao tem tempo de ficar no computador. Quer sempre
+poder contar com parceiros de forma rapida e confiavel.
+
+Persona do perfil colaborador Joana e gerente financeira,
+tem 37 anos e possui ensino superior. Ela cuida das finanças
+de uma imobiliaria de medio porte. Organizada e atenciosa
+aos detalhes, e especialista em resolver varios problemas ao
+mesmo tempo e nao deixa que sua rotina afete a qualidade
+de seu trabalho. Atrapalha-se muito quando se depara com
+informaçoes imprecisas e odeia surpresas indesejadas, pois
+depende muito de planejamento. Joana nao gosta de coi-
+sas complicadas para fazer ou entender e gostaria muito de
+prever seu planejamento e poder contar com alguem rapida-
+mente quando algo de errado acontece.
+
+As principais atividades que os usuarios executam no inter-
+net banking sao consulta do saldo, extrato da conta, trans-
+ferencia de valores e pagamento de boletos. Tais atividades
+foram definidas a partir da analise do log de acesso. As tarefas
+mais importantes sao aquelas que envolvem movimentaçao
+de dinheiro.
+
+A UX pode ocorrer em dois contextos em um escritorio,
+durante a jornada de trabalho de um colaborador, usando a
+versao web; ou em qualquer lugar, quando acessado pelo
+empreendedor, em um dispositivo movel. Tais contextos fo-
+ram identificados com a tecnica jornada do usuario e com a
+realizaçao de entrevistas no estudo dos usuarios. Os artefatos
+mais importantes para a UX do usuario do BX sao telefone
+celular, computador e o cartao de segurança.
+
+A interaçao do usuario foi observada na realizaçao do
+Teste de Usabilidade e na jornada do usuario. Durante
+a realizaçao do Teste de Usabilidade, alguns participantes
+(recrutados a partir dos perfis identificados) nao souberam
+como usar o cartao de segurança (item essencial para reali-
+zar movimentaçoes financeiras no internet banking), confun-
+diram o numero, ou nao entenderam que deveriam utiliza-
+lo. Alguns usuarios tambem nao conseguiram encontrar fa-
+cilmente os itens pelo menu ou confundiram a forma de uti-
+lizar algumas funcionalidades, tanto na versao web como na
+mobile.
+
+O uso de mais de uma tecnica possibilitou captar os tres mo-
+mentos da UX antes, durante e o depois. A jornada do
+usuario captou o momento inicial (antes do uso), quando o
+usuario nao conseguiu acessar o aplicativo na versao mo-
+bile, pois era necessario aceitar o contrato de prestaçao de
+serviço na versao web. O teste com usuarios captou o mo-
+mento de utilizaçao do aplicativo (durante o uso) na versao
+mobile, quando um usuario nao conseguiu ativar seu cartao
+de segurança. Apos os testes com os usuarios (depois do
+uso), os usuarios relataram dificuldades de uso e problemas
+do sistema na aplicaçao do questionario SUS.
+
+**CONCLUSAO E TRABALHOS FUTUROS**
+
+Este trabalho teve como objetivo investigar a UX do internet
+banking de um banco brasileiro. Alguns dos resultados obti-
+dos foram identificaçao dos elementos da UX, identificaçao
+e uso de perfis representativos dos usuarios e problemas rela-
+cionados a UX, como a dificuldade de acesso mobile, apos a
+abertura de uma conta.
+
+Dado os problemas identificados, atualmente esta sendo rea-
+lizada a reformulaçao de design dos sistemas de internet ban-
+king BX. Como trabalhos futuros sera feita uma analise com-
+parativa da UX entre o antes e depois, do sistema com um
+novo design.
+
+Alem dos aplicativos de internet banking, os bancos tem apoi-
+ado seus clientes com o uso de paginas em sistemas sociais,
+como o Facebook e o Twitter. Bancos como o Banco do Bra-
+sil, Caixa Economica, etc., estao usando paginas em redes so-
+ciais para ter um contato com seus clientes. O apoio funciona
+da seguinte forma os clientes postam mensagens sobre os
+serviços prestados (duvidas, criticas) e o suporte dos bancos
+tentam resolver. Em uma analise previa, realizada pelos auto-
+res deste artigo, foram observados nas mensagens dos clien-
+tes relatos de problemas de usabilidade nos aplicativos, ex-
+periencia de uso nos serviços oferecidos; e ainda divulgaçao
+dos dados pessoais pelos usuarios. Um outro trabalho futuro
+e investigar, a partir de mensagens postadas em paginas de
+sistemas bancarios, os aplicativos, serviço e segurança dos
+usuarios em sistemas bancarios.
+
+**CONCLUSAO**
+
+Este estudo investigou a experiencia do usuario em um sistema de internet banking brasileiro, identificando perfis de usuarios, problemas de usabilidade e oportunidades de melhoria. Ao focar na interaçao entre usuarios e tecnologia, este trabalho contribui para o desenvolvimento de sistemas bancarios mais eficientes, seguros e adaptados as necessidades dos clientes.

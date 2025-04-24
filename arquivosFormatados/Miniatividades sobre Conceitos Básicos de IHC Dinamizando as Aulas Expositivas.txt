@@ -1,0 +1,168 @@
+**RESUMO**
+
+Cada vez mais cobra-se inovaçao didatica de professores,
+com o objetivo de adequar os metodos de ensino as novas
+geraçoes de estudantes. Entretanto, o compartilhamento de
+experiencias e materiais didaticos para facilitar e acelerar
+esse processo ainda e pouco difundido entre professores.
+Alinhado a proposta do Workshop de Ensino de Interaçao
+Humano-Computador (WEIHC), esse artigo da um passo
+nessa direçao ao apresentar miniatividades que podem ser
+facilmente realizadas em aulas presenciais de uma disciplina
+basica de IHC, dinamizando as aulas expositivas e apoiando
+a construçao de conhecimento por meio de uma participaçao
+ativa e ludica dos estudantes.
+
+**INTRODUCAO**
+
+A inovaçao didatica e uma constante busca na carreira
+docente, em qualquer nivel de ensino. Faz parte desse
+processo incentivar a participaçao mais ativa dos estudantes,
+distanciando-se do modelo tradicional da transmissao de
+conhecimento que parte do professor, em que os estudantes
+tem como principal funçao ouvir e apreender. De fato,
+com o baixo interesse dos estudantes percebido em aulas
+fortemente baseadas em exposiçao de conteudos, professores
+vem cada vez mais buscando alternativas.
+
+Ainda e dificil, entretanto, substituir as aulas expositivas por
+um modelo plenamente construtivista. Uma das maiores
+dificuldades que surgem e fazer os estudantes assumirem a
+responsabilidade pela sua propria aprendizagem,
+demonstrando suficientes iniciativa, engajamento e
+autonomia para que o professor possa se colocar como
+mediador em um processo produtivo de aprendizagem
+significativa centrada no estudante. Ao longo de sua vida
+escolar, os estudantes ainda sao acostumados a assumir uma
+postura predominantemente passiva, dificil de mudar quando
+eles chegam ao ensino superior.
+
+Como uma soluçao meio-termo, temos experimentado em
+sala de aula mesclar miniatividades praticas com exposiçao
+de conteudo, tornando as aulas mais dinamicas e
+aproximando-se da aprendizagem ativa , fortalecendo a
+consolidaçao dos conceitos.
+
+O objetivo desse artigo e compartilhar as miniatividades que
+vem sendo realizadas e aprimoradas ao longo de nove
+ediçoes de uma disciplina basica de IHC, entre 2013 e 2018,
+com turmas de 10 alunos em media, dos cursos de
+Licenciatura em Computaçao, Bacharelado em Ciencia da
+Computaçao e Bacharelado em Sistemas de Informaçao,
+oferecida no turno da noite na Universidade Federal Rural de
+Pernambuco - UFRPE. As proximas seçoes apresentam as
+miniatividades e sua relaçao com conceitos de IHC.
+
+**MINIATIVIDADES**
+
+As miniatividades apresentadas a seguir sao relacionadas a
+quatro conteudos que podem ser abordados em disciplinas
+basicas de IHC : modelos mentais processos
+cognitivos principios e diretrizes de IHC e acessibilidade.
+A escolha dos conteudos nao seguiu um criterio particular -
+apenas, para esses conteudos do programa da disciplina, a
+professora e autora desse artigo conseguiu pensar em
+atividades praticas que deram bons resultados.
+
+Cada miniatividade e contextualizada nessa seçao da
+seguinte forma objetivo da aula em que a miniatividade se
+insere descriçao de como a atividade e realizada resultados
+comumente obtidos e breve discussao pedagogica.
+
+Modelos Mentais
+Objetivo da aula: Fazer os alunos entenderem a interface de sistemas como a representacao de um modelo conceitual, projetado a partir do modelo mental do designer, e que precisa ser compreendido por usuarios com diferentes modelos mentais.
+
+Miniatividade do borrao de tinta
+Inicia-se a primeira miniatividade com um slide mostrando uma figura, sem que tenha sido feita qualquer mencao a modelos mentais. A figura e um dos "borroes" do teste de Hermann Rorschach (tambem conhecido como teste do borrao de tinta). Pede-se aos estudantes que observem a imagem e registrem a primeira coisa que lhes vem em mente. Apos alguns segundos, cada estudante deve verbalizar o que pensou. A imagem e usada para introduzir o conceito de modelo mental e fazer uma rapida comparacao entre as interpretacoes dos alunos. As interpretacoes mais frequentes geralmente sao morcego ou borboleta. Porem, surgem respostas ligadas a idade e cultura dos estudantes. A aula prossegue com a apresentacao da definicao de modelo mental e outros exemplos ludicos que ilustram diferencas de modelos mentais entre geracoes, como videos da serie "Kids react to" e charges.
+
+Miniatividade do envio de carta
+Apos a discussao sobre representacoes na interface e metaforas, os estudantes descrevem por escrito o processo para enviar uma carta pelos Correios. Voluntarios compartilham suas producoes. E comum que muitos estudantes nunca tenham enviado cartas em papel. O objetivo e mostrar que os modelos mentais sao visoes da realidade individuais, dinamicas, incompletas e com diferentes niveis de detalhe.
+
+Processos Cognitivos
+Objetivo da aula: Fazer os estudantes entenderem a importancia dos processos cognitivos de percepcao e memoria na interacao humano-computador.
+
+Miniatividade da Gestalt
+A miniatividade e apresentada como um exercicio sobre a organizacao que o cerebro impoe ao mundo em termos de percepcao, baseado nos principios da Gestalt. Sao distribuidas fichas com cinco imagens representando os principios de: proximidade, similaridade, fechamento, continuidade e simetria. Os estudantes marcam graficamente o que percebem em cada imagem. Para o compartilhamento das respostas, cada imagem e projetada e um voluntario faz a marcacao grafica de sua percepcao. Em seguida, o voluntario explica sua marcacao e outros estudantes comentam. Sao mostrados exemplos de interfaces que utilizam o principio em questao. O procedimento se repete para as cinco imagens.
+
+Miniatividades de recordar e reconhecer
+As miniatividades sobre memoria destacam tres achados de pesquisa: (i) a memoria de curto prazo tem capacidade limitada; (ii) elementos conhecidos exigem menos tempo de processamento; (iii) e mais facil reconhecer do que relembrar. Sao realizados tres experimentos em sala de aula. No primeiro, os estudantes tentam recordar uma lista de numeros e depois uma lista de palavras. No segundo, as listas sao de palavras compostas significativas e nao significativas. No terceiro, os estudantes reconhecem palavras que apareceram nos experimentos anteriores. A aula prossegue com exemplos de questoes ligadas a memoria em projetos de interface.
+
+Principios e Diretrizes de IHC
+Objetivo da aula: Apresentar os principais principios de IHC.
+
+Miniatividade de card sorting de principios
+As heuristicas de Nielsen, as regras de ouro de Shneiderman e os criterios ergonomicos de Bastien e Scapin sao apresentados. Os principios sao distribuidos em tres conjuntos de post-its. Os estudantes, em grupo, criam categorias agrupando principios que julgam relacionados. As categorias sao nomeadas pelos estudantes. Os post-its sao colados no quadro. A aula prossegue com uma exposicao de slides ilustrando as categorias, fazendo correlacoes com as categorias criadas pelos estudantes.
+
+Miniatividade de bons e maus exemplos
+Sao distribuidos bons e maus exemplos de interfaces impressos. Os estudantes refletem sobre o exemplo recebido. Cada exemplo e projetado, e o estudante que o recebeu explica os motivos de ser um exemplo bom ou mau, com base nos principios estudados.
+
+Acessibilidade
+Objetivo da aula: Apresentar conceitos basicos de acessibilidade digital.
+
+Miniatividade da Bengala Legal
+Apos apresentar conceitos de acessibilidade digital, um texto descritivo de uma imagem e lido para que os estudantes desenhem a imagem. A imagem e do site Bengala Legal. O texto descritivo e detalhado. Apos a leitura e os desenhos, a imagem e revelada.
+
+
+**DISCUSSAO**
+
+Todas as miniatividades apresentadas possuem uma forte
+correlaçao com o conteudo da aula, sao de rapida e simples
+execuçao, e demandam pouco tempo de preparaçao e pouco
+material adicional alem do quadro branco, computador com
+projetor, papel e lapis (como indicado na Tabela 1).
+
+Embora o compartilhamento das produçoes  opiniões dos
+estudantes nas atividades gere, de certa forma, comparaçao,
+as atividades nao estimulam a competiçao, mas uma analise
+de resultados coletivos que se justifica pedagogicamente, e
+que e realizada em um clima amigavel. Nao houve, em
+nenhuma das nove edições da disciplina, reclamações de
+constrangimento individual. Outras atividades mais
+competitivas, em formato de minijogos, foram tambem
+experimentadas, porem a competiçao acirrada entre os
+estudantes, embora tenha levado a um alto engajamento,
+desviou excessivamente o foco do conteudo. Por esse
+motivo, tem sido priorizadas atividades menos competitivas.
+
+As miniatividades ajudam a aumentar a participaçao ativa
+dos estudantes na aula, quebrando a monotonia que pode
+decorrer da aula expositiva. Elas tem uma boa dose de
+ludicidade que costuma entreter os estudantes e prender sua
+atençao. O envolvimento deles claramente aumenta a cada
+transiçao da exposiçao de conteudo para uma atividade
+pratica, durante as aulas, da mesma forma que se nota uma
+nova dispersao ao retomar os slides conteudistas, dos quais
+ainda necessitamos. Por outro lado, percebe-se tambem certa
+insegurança dos estudantes em atividades em que possuem
+muita "liberdade", e em que a professora nao impõe a
+dicotomia do certo  errado, mas promove a construçao
+coletiva do conhecimento (por exemplo na atividade de card
+sorting com principios e diretrizes).
+
+Embora essas sejam impressoes decorrentes apenas da
+pratica docente da autora desse artigo, sem que tenha sido
+estruturada uma pesquisa cientifica para investigar a
+efetividade das atividades, percebe-se uma consonancia com
+a literatura sobre aprendizagem ativa .
+
+**CONCLUSAO**
+
+Nesse artigo, descrevemos sete miniatividades que podem
+ser realizadas ao longo de uma disciplina basica de IHC no
+ensino superior, em aulas presenciais. Acreditamos que
+todos podemos nos beneficiar do compartilhamento de
+experiencias e materiais didaticos, que ainda precisa ser mais
+estimulado entre os docentes da comunidade de IHC, sendo
+o WEIHC um excelente forum para tal. Com esse artigo
+esperamos dar mais um passo nessa direçao.
+
+Alem do compartilhamento de experiencias didaticas, os
+resultados desse artigo tambem apontam nichos de pesquisa-
+açao, em que os docentes de IHC analisem sua pratica de
+forma sistematica, e possam embasar suas decisoes
+pedagogicas em resultados cientificos, assim contribuindo
+para o avanço e melhoria da educaçao em Computaçao.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, as miniatividades apresentadas neste artigo demonstram ser uma ferramenta valiosa para dinamizar as aulas expositivas de IHC. Ao promover a participaçao ativa e ludica dos estudantes, as atividades contribuem para a construçao de conhecimento de forma mais efetiva e significativa.

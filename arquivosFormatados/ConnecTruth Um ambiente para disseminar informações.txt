@@ -1,0 +1,55 @@
+As fake news sao um cenario preocupante no mundo atual, pois podem acarretar diversas consequencias na comunicaçao. O maior combatente das fake news e a informaçao, portanto quanto mais bem embasada uma noticia e, maior a probabilidade de ser verdade. Este projeto tem o objetivo de propor o design de uma nova rede social que preza pela verdade na troca de informaçoes. O usuario podera inserir links e referencias para indicar a fonte da informaçao e os demais usuarios avaliam e julgam a informaçao como veridica ou nao.
+
+
+**INTRODUCAO**
+
+Com o surgimento das redes sociais as pessoas vem cada dia mais aumentando o consumo de conteudo online, esse novo comportamento de acesso a noticias ja e muito maior do que o acesso por canais tradicionais de informaçoes como telejornais, radios e jornais impressos.
+
+Entretanto, mesmo com os beneficios de acesso a informaçao de forma rapida e de qualquer lugar enfrenta-se atualmente um grande dilema no acesso as informaçoes divulgadas com as redes sociais que e, a facilidade com que qualquer individuo pode criar e divulgar informaçoes independente da credibilidade ou confiabilidade de tal fato aliado a isso esta o alto poder de compartilhamento e alcance dessas informaçoes.
+
+Em 2016, durante as eleiçoes presidenciais norte-americanas observou-se o apice do fenomeno das fake news que foram utilizadas para impactar e influenciar a opiniao publica em favor de determinada narrativa politica. A falta de informaçao e a disseminaçao em massa de noticias falsas podem e estao influenciando cada vez mais diversas esferas politicas, sociais e cientificas.
+
+Este trabalho propoe uma rede social que permite ao usuario da rede inserir links e referencias anexadas em cada postagem, como uma forma de indicar a fonte de tal informaçao e proporcionando aos usuarios o poder de avaliar e julgar determinada informaçao como veridica ou nao.
+
+
+**METODOLOGIA**
+
+A estruturaçao do projeto e do ambiente do ConnecTruth seguiu o design centrado no usuario, que e dividido em quatro principais etapas: (1) entendimento do contexto, (2) especificaçao dos requisitos, (3) produçao do artefato, e (4) avaliaçao da soluçao.
+
+Na primeira fase (1), o objetivo foi levantar informaçoes sobre o problema das fakes news, por meio da leitura de artigos e noticias vinculadas ao assunto. O fator principal e o mais comum vinculado a disseminaçao de noticias falsas foram o das as redes sociais.
+
+Depois do entendimento do contexto, iniciou-se a fase seguinte (2), em que foram definidos os requisitos e a criaçao das personas que iriam representar o publico alvo da rede social ConnecTruth. Pessoas acima de 65 anos sao mais propensas a compartilhar fake news do que jovens de 18 a 25 anos e, com isso, foram definidas personas que representam esses dois grupos de individuos.
+
+Na terceira fase (3), foi realizada a idealizaçao do projeto, em que foi elaborada e definida a paleta de cores, conceito e os layouts da aplicaçao. Utilizamos o Figma, que e um editor de prototipagem de projetos de alta e baixa fidelidade, interativos ou nao.
+
+Na quarta e ultima fase (4), foi trabalhada a abordagem da rede social e a do smartwatch, podendo, entao, serem avaliadas separadamente ou de forma conjunta. Caso a soluçao venha a ser implementada sera possivel recolher os dados das pesquisas e ver se o numero de publicaçoes marcadas como “fake” ou “true” condizem com a realidade. Tambem sera possivel monitorar as pesquisas feitas pelo smartwatch a “ConnecTruth” em busca de informaçoes veridicas.
+
+
+**PROBLEMA**
+
+Com a facilidade e barateamento dos meios de comunicaçao, informaçoes circulam em segundos de um ponto a outro do mundo. O problema começa com a quantidade de informaçoes que divergem entre si, o que torna a disseminaçao de conteudos sem fontes e sem nenhum embasamento na verdade dos fatos propícios a circular e informar errone-amente quem esta consumindo tal conteudo.
+
+De acordo com uma pesquisa realizada pelo Instituto Mundial de Pesquisa (IPSO) cerca de 62% dos entrevistados do Brasil admitiram ter acreditado em alguma noticia falsa, 14% acima da media mundial. E segundo o Instituto Reuters, os brasileiros usam as redes sociais como a principal fonte para obter informaçoes e com-partilhamento de noticias.
+
+
+
+**SOLUCAO PROPOSTA**
+
+ConnecTruth e uma rede social com o intuito de disseminar informaçoes com referencias e insumos que possam auxiliar na detecçao da veracidade da noticia que esta sendo divul-gada. A proposta apresentada neste trabalho preve duas vertentes de interface: a criaçao da rede social e interface no smartwatch.
+
+A Rede Social
+
+O ConnecTruth consiste em uma rede social onde as pessoas fazem postagens ou podem apenas interagir com o que foi postado por outros usuarios em tempo real. No modulo de publicacao, o usuario tem liberdade para redigir a noticia como se sentir confortavel, porem, sempre devera anexar ou linkar uma referencia ou fonte da noticia compartilhada. Assim que o usuario clicar em publicar, o algoritmo faz uma varredura no que foi escrito pelo usuario e se esta de acordo com as referencias, aprovando ou nao a publicacao. Todas as publicacoes terao um avaliador de veracidade gerado pela propria plataforma, esse avaliador vai variar de verde (grande probabilidade de ser verdade), amarelo (media probabilidade de ser verdade) e vermelho (fontes insuficientes ou baixa probabilidade de ser verdade). Os usuarios das redes sociais tambem terao um botao de like para quando concordarem e acreditarem naquela publicacao e um botao de dislike quando acreditarem que e uma noticia inveridica, contribuindo para a avaliacao da publicacao. O modulo de perfil e um compilado de todas as postagens feitas pelo usuario. Aqueles com maiores indices de postagens verdadeiras recebem o simbolo de verificacao nos perfis, aumentando sua relevancia dentro da rede. A Figura 1 apresenta os prototipos com o feed da rede social (1(a)) e mostra o ConnecTruth com a publicacao e as referencias associadas a noticia compartilhada (1(b)). Observa-se, tambem, o simbolo verde na lateral direita do layout, indicando que a publicacao foi classificada como possivel de ser verdadeira, de acordo com o avaliador de veracidade implementado na aplicacao.
+
+Interfaces de acesso
+
+O ConnecTruth pode ser acessivel atraves de interface web responsiva e aplicativo para dispositivos moveis como smartphones. Atraves da aplicacao cada usuario podera gerenciar suas interacoes na rede social. Vale enfatizar que o ConnecTruth permitira o usuario receber notificacoes de postagens sobre seus topicos favoritos tambem via interface para smartwatches, possibilitando visualizar notificacoes de postagens sobre os topicos favoritos do usuario, alem de contar com a funcionalidade de pesquisa por voz, onde o usuario conseguira pesquisar determinado assunto e ver o que as postagens dizem sobre eles com relacao ao teor veridico (true) ou nao da noticia (fake).
+Na Figura 2, do lado esquerdo e apresentado o logo do ConnecTruth no painel do smartwatch, do lado direito algumas notificacoes do aplicativo no relogio. O conjunto de telas previstas para os diferentes dispositivos pode ser acessado no projeto Figma descrito na secao 7 deste documento.
+
+Cenario de uso
+
+Para o cenario de uso foram mapeados os perfis de duas pessoas do genero masculino onde cada uma representa o comportamento geracional classificados como geracao Y (Joao)e baby boomers (Carlos). Joao tem 25 anos, mora na cidade de Belo Horizonte e cursa jornalismo. Sempre foi muito defensor da verdade e da divulgacao de noticias reais. Buscando colaborar com isso, descobriu o ConnecTruth por meio de amigos. Joao tornou-se usuario constante da rede, tanto para ler noticias quanto para publica-las, recebendo ate um simbolo de verificado da rede social. Durante as festas natalinas, Joao estava decidido a fazer o seu avo Carlos, de 65 anos, a parar de compartilhar fake news e o presenteou com um smartwatch e o conectou ao ConnecTruth, Carlos ficou encantado com a pesquisa de voz pelo relogio e passou a recorrer a ele sempre que recebesse uma noticia por outra rede social, verificando a integridade da informacao e desmentindo-a sempre que fosse necessario.
+
+Viabilidade da solução
+
+Uma rede social se torna rapidamente auto sustentavel com a utilizacao de anuncios pagos, porem antes de ser monetizada existe o custo de desenvolvimento e o custo de servidores em que um aporte inicial de investidores cobririam os custos. O desenvolvimento do algoritmo de classificacao de fake news e possibilitado atraves de pesquisas que usam metodos de aprendizagem de maquina para descobrir, classificar e armazenar noticias falsas [Monteiro et al. 2019].

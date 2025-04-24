@@ -1,0 +1,283 @@
+**INTRODUCAO**
+
+Computaçao vestivel tem sido tratada como umas das
+proximas grandes tecnologias dos proximos anos. Apesar de
+nao ser um termo recente nas publicaçoes academicas se
+tornou popular nos ultimos 3 a 4 anos devido ao surgimento
+de dispositivos como smartwatches, smartglasses e a
+popularizaçao dos oculos de realidade aumentada (RA) e
+realidade virtual (RV) de baixo custo, que permitem acoplar
+smartphones para experiencias imersivas do usuario.
+
+Em particular, os equipamentos de realidade virtual e os
+smartglasses sao fundamentais para a popularizaçao e
+potencializaçao da construçao de aplicativos de RA e RV.
+Ainda no escopo de computaçao vestivel, e possivel
+encontrar uma gama de smartwatches que permitem o
+desenvolvimento de aplicaçoes baseadas em Android ou
+iOS. Entretanto, smartwatches que possuem esta finalidade
+e que tenham uma API madura ainda sao considerados caros,
+em particular para o publico brasileiro.
+
+Estes fatores abrem varias oportunidades que demandarao
+novos perfis para o mercado. Primeiro, desenvolvedores de
+aplicativos de smartwatches. Este perfil trata-se de uma
+extensao de profissionais com habilidades de programaçao
+de smartphones Android ou iOS. Ja que os principais gadgets
+em formato de relogio disponiveis no mercado possuem a
+mesma base tecnologica (Android e iOS), porem com
+devidas adaptaçoes para o contexto. Alem disso, a maioria
+das aplicaçoes sao extensoes ou complementos de outras
+aplicaçoes que sao executadas em um smartphone.
+
+O segundo perfil, trata-se de desenvolvedores de conteudo
+multimidia 3D, para aplicaçoes de RA e VR. Este e um nicho
+que o mercado ainda esta conhecendo, mas que ja traz
+significativas demandas principalmente para o mercado de
+marketing. Por exemplo, e possivel que o leitor ja tenha
+experimentado em shoppings ou outros ambientes publicos
+uma experiencia imersiva com conteudos promocionais de
+empresas. Ou ainda, voce ja pode ter sido convidado para
+realizar uma visita virtual em um imovel ainda nao
+construido. Outras areas tais como ensino , industria
+estao fazendo o uso das tecnicas RA e RV para melhoria dos
+processos. Logo, percebe-se que a atividade de projetista de
+conteudo 3D para RA e RV como modelagem 3D,
+programaçao de animaçoes e comportamento dos objetos
+virtuais baseado no feedback do usuario passarao a ser
+demandas frequentes.
+
+Alem de promissor, o uso em conjunto das tecnologias de
+RA, RV e vestiveis traz novos desafios em IHC. Por
+exemplo, metodos para avaliar a experiencia e interaçoes dos
+usuarios podem mudar, ja que agora o computador deixa de
+ser de mao ou desktop para ser vestivel.
+
+Baseado nos argumentos apresentados e por experiencias
+que o autor teve durante seu doutorado sanduiche na
+Australia, foi feita uma proposta de criaçao da disciplina
+Interfaces de Usuario Avançadas para Computaçao
+Vestivel que e ofertada aos alunos do curso de Ciencia da
+Computaçao na Universidade Federal de Ouro Preto. O
+objetivo da disciplina e prover aos alunos conhecimentos
+relacionados a area de computaçao vestivel, construçao de
+aplicaçoes e avaliaçao de experiencias de usuarios. Apesar
+do contexto de computaçao vestivel nao ser limitado a RA e
+VR, optou-se por focar nestas tecnologias para evitar a
+construçao de um curso de computaçao movel aplicada a
+smartwatches Android e iOS. Alem disso, os custos de
+construçao de aplicaçoes de RA e RV sao menores do que
+programaçao em smartwatches. Um smartphone, um oculos
+de RV e software livre para desenvolvimento ja permite aos
+alunos construirem prototipos vestiveis.
+
+Este artigo apresenta um resumo das experiencias adquiridas
+durante a primeira oferta da disciplina. Em liçoes aprendidas,
+apresenta-se uma visao sobre uma nova otica de conduçao
+do ensino.
+
+**MOTIVAÇAO**
+
+Esta seçao apresenta a motivaçoes para construçao da ementa
+da disciplina. Esta motivaçao veio da experiencia obtida
+durante o doutoramento do professor que foi relacionado
+com computaçao vestivel. Logo, e inevitavel que a seçao
+apresente um breve historico da experiencia do autor no
+desenvolvimento e avaliaçao de dispositivos vestiveis.
+Devido a isso, passo a tratar esta seçao em primeira pessoa
+como um relato pessoal.
+
+Opto por apresentar este historico, pois os aprendizados
+adquiridos desde os primeiros prototipos desenvolvido por
+mim foram fundamentais para a construçao da disciplina.
+Logo, a ideia neste relato e que cada fase desta experiencia
+possa ser vinculada aos aprendizados que acredito ser o perfil
+de profissional demandado, seja ele de cunho cientifico,
+academico ou de mercado.
+
+Trabalho com desenvolvimento de equipamentos vestiveis
+desde o inicio do meu doutoramento em Março de 2015.
+Naquela epoca, dispositivos vestiveis ainda eram escassos e
+a grande maioria disponivel no mercado ainda eram
+smartwatches. Os oculos de RV e a API de desenvolvimento
+Google Cardboard estavam sendo introduzidas. A API ainda
+com restriçoes e imatura. Percebia que falar de computaçao
+vestivel era sinonimo de aplicaçoes computacionais para
+saude. Essa visao ainda e presente, e naquela epoca,
+gostariamos de extrapolar estas aplicaçoes pensando em
+soluçoes vestiveis nao focadas em saude. Foi neste sentido,
+que iniciamos o desenvolvimento de soluçoes voltadas a
+ecologia. Muito por vontade de fomentar parcerias com
+empresas de mineraçao existentes na regiao onde a
+universidade de doutoramento esta localizada.
+
+O primeiro prototipo desenvolvido foi um dispositivo de RA
+aplicado a um caso da geologia. O dispositivo contava com
+14 sensores e um VST com um smartphone. A plataforma
+foi modelada em um software CAD e impressa numa
+impressora 3D. A abordagem de design centrado ao humano
+foi utilizada durante esta fase e foram gastos 8 meses de
+trabalho para sua conclusao. Aqui, veio a primeira
+abordagem que foi adotada na construçao da proposta da
+disciplina. Oito meses e um tempo agil considerando o que
+se foi construido. Logo, entendemos que prototipagem
+rapida e analise constante e algo que deve ser abordado.
+
+Alguns meses apos a primeira prototipagem tivemos acesso
+a um exemplar dos oculos de RV comercial da Samsung.
+
+Replicamos aquele prototipo no dispositivo comercial e pudemos experimentar a diferenca significativa de um prototipo caseiro para uma solucao de mercado. Deve haver um equilibrio entre fazer todo o projeto e utilizar uma solucao de mercado. Construir o prototipo desde a fabricacao e compra das lentes nos trouxe beneficios significativos. Por outro lado, este procedimento gerou imperfeicoes que limitaram o potencial e expectativa do usuario em relacao a efetividade do produto. Neste sentido, um outro ponto abordado ao propor a disciplina foi: Utilize equipamentos disponiveis no mercado e preferencialmente acessiveis pelos alunos e Permita os alunos fazer por eles mesmos seus prototipos. Um desafio encontrado foi de como equilibrar as duas propostas em um curso de graduacao.
+
+A terceira fase foi motivada por questionamentos que obtivemos ao mostrar o prototipo em algumas das competicoes que participamos. O mais interessante deles, foi Para que eu vou andar numa floresta com oculos feito com smartphone ou mesmo que seja OST. Naquele momento percebemos que estavamos encarando o desafio de criar algo que o usuario nao sabe para que ele precisa. Foi quando percebemos que uma boa alternativa de convencimento era por meio da avaliacao da suas experiencias e ganhos que ele possa ter. Esta abordagem demandou o estagio doutoral com uma experiente equipe de professores e pesquisadores na Australia que atuam com avaliacao e estudos de usuarios por meio de computacao vestivel. Esta terceira fase motivou a inclusao do conteudo de Metodos de avaliacao de estudos de usuarios na disciplina.
+
+Por fim, pedi a dois dos professores com quem trabalhei fora para participar de suas disciplinas como aluno ouvinte. Durante esta oportunidade alem de estar aproveitando o conhecimento tecnico e a vasta experiencia de ambos, eu estava atuando como um estagiario, de forma a observar metodos de tecnicas aplicadas por eles para ensino. Esta experiencia me permitiu ver como um outro pais e uma outra cultura trata o ensino e suas metodologias. E foi ali que me coloquei o desafio de propor um curso mais personalizado, pratico, dinamico e participativo. Na proxima secao, apresento um resumo da disciplina proposta, metodos de ensino e avaliação.
+
+**CURSO PROPOSTO**
+
+O curso proposto foi dividido em tres principais topicos:
+
+Apresentaçao do Conceito: Neste topico foram cobertos
+diversos temas relacionados ao conceito de computaçao
+vestivel. As aulas foram organizadas com assuntos sobre
+conceitos iniciais, numeros e tendencias de mercado,
+sensores vestiveis, requisitos de computaçao vestivel,
+hardware e software para processamento, IHC em
+computaçao vestivel, sendo eles interfaces visuais e nao
+visuais, classificaçao e construçao de head-mounted
+displays (HMD).
+
+Construçao e avaliaçao: Nesta fase foram cobertos temas
+relacionados a hardware e software utilizados para
+construçao de dispositivos vestiveis, bem como tecnicas
+para avaliaçao destes dispositivos sobre a perspectiva de
+experiencia de usuario. Tambem focou se
+desenvolvimento de soluçoes vestiveis de RA e RV.
+Optou-se por esta abordagem pelo fato da maioria dos
+estudantes ter um smartphone que lhes permitiam
+prototipagem durante o curso sem a necessidade de
+aquisiçoes adicionais significativas. No momento em que
+se abriu o curso, nao havia um numero significante de
+dispositivos como smartwatches, para desenvolvimento
+destas soluçoes. Sobre o aspecto de avaliaçao, a disciplina
+cobre tecnicas de estudo de usuario baseado naquelas
+normalmente utilizadas por pesquisadores da area .
+
+Entendendo a aplicabilidade de computadores
+vestiveis: Este terceiro topico foi proposto como forma de
+estender aos alunos as diversas areas que computaçao
+vestivel tem aplicabilidade. Quando falamos de
+computaçao vestivel, naturalmente pensamos em soluçoes
+que tendem a ter aspectos relacionados a monitoramento
+das condiçoes do corpo humano. Por exemplo, quando se
+pede alguem para sugerir uma aplicaçao de computadores
+vestiveis na industria a tendencia e receber como respostas
+soluçoes que serao aplicaveis no monitoramento do corpo
+humano para identificaçao de riscos do trabalhador. Esta e
+de fato uma linha de pesquisa e desenvolvimento
+interessante, entretanto mais do que isso pode ser
+explorado. Por exemplo, computadores vestiveis podem
+ser utilizados para melhor integraçao do individuo no
+processo produtivo . Dentre os temas sugeridos para
+estudo e apresentaçao dos alunos estao aqueles facilmente
+encontrados tais como casos de estudo de uso de vestiveis
+no esporte e saude e outros nao tao intuitivos como
+computadores vestiveis aplicados em cidades inteligentes,
+industria, ensino, sistemas ecologicos. A lista nao foi
+limitada a estas sugestoes, pois alunos podiam sugerir
+investigaçoes sobre outros temas.
+
+A metodologia de ensino aplicada nesta disciplina foi focada
+em proporcionar aos alunos um aprendizado mais
+participativo e colaborativo. Essa motivaçao veio tambem da
+experiencia adquirida durante o processo doutoral. Em uma
+dos cursos assistidos pelo autor enquanto estava no exterior,
+professor e alunos sentavam em uma mesa retangular onde
+na ponta havia um computador ligado a uma TV. Por mais
+que o professor faça o direcionamento da aula, aquele layout
+trazia um aspecto mais colaborativo, instigava as discussoes
+e fomentava o aprendizado. Essa foi uma das primeiras vezes
+que senti a hierarquia professor aluno quebrada e foi uma boa
+pratica.
+
+A primeira oferta da disciplina limitou a experimentar algo
+semelhante. Geralmente, quando ha oferta de disciplinas no
+curso de Ciencia da Computaçao da universidade que foi 
+aplicada o numero de alunos inscritos e entre 5 a 10. Entretanto, a oferta da disciplina gerou inicialmente 35 matriculas, e apos o inicio das aulas, outros solicitaram abertura de novas vagas. E otimo poder atender o maximo possivel de alunos, entretanto, para uma primeira oferta com novas experiencias e descobertas, o excessivo numero de alunos se tornou um desafio. Uma maneira encontrada para tentar fazer o processo de aprendizado o maximo participativo possivel, foi solicitar a alunos em grupos a apresentacao de um seminario do assunto da aula antes daquele conteudo ser apresentado pelo professor. Ou seja, se a aula for sobre sensores vestiveis, um grupo de alunos apresentaria um seminario de 15 a 20 minutos sobre o tema. Em seguida o professor continuava o assunto.
+
+Desafios
+Uma licao aprendida em quase dez anos lecionando e que se voce deixar o aluno em zona de conforto, ele nao vai cumprir suas tarefas.
+Frequentemente ouco reclamacoes de turmas pela falta de planejamento de alguns professores em relacao a data de avaliacoes. Entretanto, ja observei tambem que, se o aluno recebe um cronograma de todas ou maioria das disciplinas que esta cursando, inevitavelmente ele vai lhe pedir uma extensao de prazo. Tenho uma hipotese para isso, que nao sera provada neste trabalho, mas que me direcionou a criar desafios avaliativos na disciplina. Em geral, escalonamos nossas atividades baseado em deadline. Ou seja, a tarefa que possui o deadline mais proximo e aquela a ser priorizada.
+Os desafios foram criados para retirar os alunos da zona de conforto. E como o nome sugere, tem que ser um desafio, que preferencialmente seja uma novidade apresentada aos alunos no momento da aula. Acao semelhante a uma prova, que voce conhece o conteudo, entretanto, nao sabe quais as questoes que vao cair. Alem disso, os desafios sao praticos.
+Dentro de um prazo de 100 minutos, grupos de alunos deveriam apresentar solucoes para o problema proposto.
+
+Trabalho Pratico
+A ultima atividadeavaliacao proposta foi a confeccao de prototipos vestiveis dentro do escopo de tempo e espaco da disciplina. Espera-se que ao concluir, os alunos apresentem em seus relatorios a aplicacao dos pontos chave abordados na disciplina. Ou seja, eles devem prototipar, avaliar com foco em usuario, documentar e comparar a experiencia de executar uma tarefa antes e depois de ter o prototipo.
+
+Por fim, optou por nao fazer o uso de metodos de avaliacao por prova escrita. Para o escopo da disciplina que possui um apelo pratico forte, uma prova escrita significaria algo equivalente a decorar um conjunto de conceitos e tecnologias para transcrever na prova. Dessa forma, nao houve avaliacoes popularmente conhecidas como teoricas.
+
+AVALIACOES
+O professor se preocupou em apresentar quais foram os criterios de cada avaliacao antes delas acontecerem. Alem disso, os alunos tinham acesso ao cronograma da disciplina com as datas previamente agendadas. Alteracoes no cronograma devido imprevistos eram combinados em sala com os alunos e em seguida documentados em mensagem de email a todos. O professor utilizou esta politica tentando amenizar impactos aos alunos em relacao a organizacao. As notas foram distribuidas em 10 seminarios, 60 em Desafios tres desafios de 20 cada, 30 trabalho pratico. Ainda foi ofertado aos alunos 10 da nota como ponto extra caso eles entreguem um jogo feito na plataforma Unity. Estes 10 foram no intuito de motivar os alunos a aprender a ferramenta.
+
+Seminarios
+O objetivo das atividades de seminarios e motivar os alunos a realizarem apresentacoes sobre o tema que o professor planejou abordar naquela aula. Foram propostos nove temas de seminarios devido o numero de alunos na disciplina. Os temas foram apresentados por grupos formados por tres ou quatro alunos. Antes da apresentacao, o professor selecionava um artigo cientifico ou White Paper quer fora encaminhado a todos os alunos. A seguir, cada membro do grupo deveria selecionar outro artigo para ser complementado na apresentacao. Logo, um grupo de tres alunos deveria apresentar quatro artigos, sendo um sugerido e outros tres selecionados pelos membros. Tanto os arquivos selecionados pelo professor quanto pelos alunos deveriam ser compartilhados entre todos. O objetivo foi permitir que os demais colegas lessem todos artigos antes da aula. A expectativa era de fomentar as discussoes em aula. Fato que nao ocorreu com frequencia.
+A dinamica adotada consistia no grupo apresentar em no maximo 15 minutos os artigos no inicio da aula em seguida o professor apresentava a aula sobre aquele mesmo tema. Esta dinamica nao aconteceu somente nas aulas em que temas que eram casos de estudo, pois para estes temas o professor nao fez uma apresentacao e cedeu mais tempo aos alunos para explorar os temas. Os temas propostos aos alunos e ordem de apresentacao foram:
+
+Introducao a Computacao Vestivel
+UX e Wearable
+Sensores Wearable
+Head Mounted Displays HMDs
+Caso de estudo Vestiveis aplicado ao Ensino
+Caso de estudo Vestiveis aplicado a Industria
+Caso de estudo Vestiveis aplicado ao Esporte
+Caso de estudo Vestiveis aplicado a Saude
+Caso de estudo Vestiveis aplicado as Cidades Inteligentes
+Um efeito interessante observado por esta abordagem foi o desafio implicito imposto ao professor de preparar um material diferente e com informacoes complementares e avancadas em relacao aquele apresentado pelos alunos. Ou seja, nao faz sentido o professor apresentar um conteudo que sera apresentado pelos alunos. Isso elevou o grau de especialidade da informacao e o nivel de novidade das aulas.
+Desta pratica, todos os grupos, exceto um apresentaram. Um grupo solicitou ao professor uma nova data sobre penalizacao de sua avaliacao ser reduzida em funcao do atraso. O argumento foi de que eles nao seguiram as regras e preparam a apresentacao apenas do artigo enviado pelo professor. Logo, eles fariam uma apresentacao de baixa qualidade, em especial, para os colegas, portanto estavam dispostos a concorrer uma pontuacao menor. Esta atitude demonstrou um compromisso e interesse dos alunos com o curso.
+Desafios
+O principal objetivo dos desafios era tirar os alunos da zona de conforto. Tres desafios foram propostos. Sendo eles:
+Desafio I Prototipagem Rapida
+Na aula de introducao a computacao vestivel uma aula antes do primeiro desafio foi apresentado aos alunos casos e tecnicas de prototipagem rapida. No inicio da aula do Desafio I, foi explicado aos alunos a dinamica utilizada para desenvolvimento da atividade. Apos o professor apresentar o tema, os alunos deveriam apresentar uma solucao para ele. A metodologia e apresentada na Figura 1 e chamada de Double Team Process2. Em geral, a atividade instiga a criatividade das equipes e promove a participacao de todos, mesmo os mais timidos. Este processo desenvolve uma metodologia de brainstorm entre os participantes e promove um equilibrio entre os alunos muito criativos e os alunos menos criativos. Alem disso, fortalece a colaboracao entre eles.
+A atividade e dividida em basicamente quatro fases.
+
+Fase 1 Apos apresentar o tema o professor deixa cada aluno pensar na solucao por cinco minutos. Esta primeira fase e individual e cada aluno deve extrair de 3 a 5 ideias Figura 1. Double Team Process Desafio I. descritas em poucas palavras ou frases curtas para serem usadas na proxima fase.
+Fase 2 Os alunos se organizam em duplas ou um trio caso tenha numero impar de participantes e repetem o processo. Desta vez eles tem 10 minutos para apresentarem suas ideias uns aos outros e em seguida selecionar de 3 a 5 entre a que acharam mais relevantes. Note que este processo realiza uma selecao natural do que se considera boas ideias.
+Fase 33 Duas duplas se juntam repetindo o passo anterior. Esta fase teve duracao de 30 minutos, pois nela os quartetos deveriam encerrar a atividade com uma solucao para o problema. Como o desafio era prototipagem rapida, os alunos deveriam neste preparar um prototipo da solucao. Note que nesta dinamica nao foi exigido dos alunos a prototipagem de um equipamento vestivel, apesar deste ser o foco da disciplina. O objetivo desta atividade era mostrar aos alunos que eles eram capazes de construir prototipo, mesmo de baixa fidelidade, em um tempo inferior a 100 minutos.
+Fase 4 Os alunos deveriam apresentar suas solucoes a todos.
+
+Para prototipagem foram apresentadas algumas sugestoes de ferramentas que os alunos poderiam utilizar durante o desafio. Logo, acredita-se que a maioria deles vieram preparados, mesmo que nao sabiam sobre o problema. Eles ainda podiam levar seus computadores pessoais e consultar a internet para desenvolvimento do trabalho.
+Em relacao ao problema, o professor apresentou conceitos basicos de TDAH Transtorno de Deficit de Atencao e Hiperatividade, alem de alguns numeros de criancas e adolescentes brasileiros que sao afetados por essa sindrome. Ao final, os alunos deveriam apresentar um prototipo que respondesse a pergunta:
+Tecnologias de Realidade Virtual ou Realidade Aumentada podem auxiliar na melhoria de desempenho de alunos com TDAH
+Todos os alunos presentes concluiram a tarefa e apresentaram seus prototipos em tres grupos: A Tabela 1 apresenta um resumo do que foi entregue pelos alunos. As entregas feitas pelos alunos foram consideradas satisfatorias.
+
+Desafio II Estudo de usuario
+O desafio II teve como objetivo permitir aos alunos que realizassem um estudo de usuario sobre algum dispositivo tecnologico. Na aula anterior ao desafio houve apresentacao de seminario sobre o tema seguido da exposicao do professor. Finalizada pela explicacao do que seria o teste de usuario foi apresentado um resumo de como sao feitos os testes de usuario, bem como algumas ferramentas estatisticas comumente utilizadas por pesquisadores 3. O tempo restante da aula, os alunos puderam formar grupos e discutir o que pretendiam usar como objeto de avaliacao. Eles foram instruidos a levar o dispositivo de teste e preparar os formularios para apresentacao dos resultados no final da aula. Ou seja, os alunos poderiam fazer uso de ferramentas como Excel, Google Forms, R para construcao dos resultados. Durante o desafio, eles deveriam convidar pelo menos 5 pessoas professor mais outros quatro alunos que nao fossem integrantes do grupo para realizar o teste. Esta atividade nao obrigava o uso de um dispositivo vestivel. Ao final da aula, cada grupo teve 10 minutos para apresentar seus resultados.
+Os quatro grupos que apresentaram demonstraram que dedicaram a preparacao da tarefa fora da sala de aula. Os temas apresentados foram: Percepcao de um usuario em um jogo de RV; Kindle x Smartphone para leitura; Avaliacao do usuario interacao com smartband; Uso de mouse x mesa digitalizadora. Nao faz parte do escopo deste trabalho apresentar os detalhes de cada grupo, entretanto, pode se afirmar que os alunos alcancaram seus objetivos. Por outro lado, percebeu-se alguns erros por parte dos grupos. Alguns nao explicaram corretamente a tarefa ao usuario durante a avaliacao, faltou um treinamento antes, hipoteses de testes mal formuladas entre outros. As instrucoes foram dadas aos usuarios na aula anterior dedicada a isso. Todos os problemas identificados foram apresentados aos grupos pelo professor e colegas que realizaram os testes. Em seguida, foi proposto aos grupos que refizessem o teste com 15-25 usuarios, fazendo as correcoes. Os grupos tiveram um prazo de 30 dias para concluir esta tarefa e documentar os resultados.
+
+Esta estrategia permitiu demonstrar aos alunos a importancia de um teste piloto antes dos testes reais. A experiencia em sala de aula lhes deu uma visao do que poderia ser melhorado nos testes, desde a explicacao inicial ao usuario, ate a avaliacao dos resultados coletados.
+Tres dos quatro grupos apresentaram os resultados. Um integrante do grupo que nao entregou o relatorio manifestou que os colegas dispersaram e priorizaram outras atividades. No geral, percebeu-se uma melhora nos resultados apresentados. O ponto fraco em comum foi a analise estatistica apresentada. Em geral os grupos apresentaram somente dados estatisticos sumarizados, sem analises de relevancia mais aprofundadas. Isso pode ter ocorrido devido a alunos nao terem cursado estatistica ainda, ou ate mesmo por uma questao de tempo e prioridade dos alunos.
+
+Desafio III Faca seu proprio HMD
+O desafio III foi o que apresentou o maior grau de dificuldade. A dificuldade de encontrar equipamentos de RA de baixo custo para uso em sala durante a disciplina foi a principal motivacao de aplicacao deste desafio. Uma aula foi dedicada a apresentacao dos conceitos de HMD, suas tecnologias de construcao e dispositivos disponiveis no mercado. Uma das tecnologias apresentadas, baseia-se em um artigo desenvolvido pelo professor durante seu doutorado. Nele foi demonstrado como construir um dispositivo RA utilizando espelhos. O prototipo foi apresentado em sala aos alunos, entretanto nao e vestivel. O desafio dos alunos foi construir algo semelhante, utilizando espelhos e materiais de facil aquisicao e deveria ser vestivel.
+
+PROJETOS FINAIS
+Dos projetos, 4 grupos de um total de 11 nao apresentaram a versao final abrindo mao de receber os pontos. Alguns alunos relataram que como haviam obtido uma pontuacao suficiente para aprovacao na disciplina preferiram dar prioridade as outras que eles ainda precisavam dedicar para conseguir aprovacao. Em relacao aos grupos que concluiram todos o fizeram com exito e apresentaram a prova de conceito bem como realizaram testes de UX. O que mais uma vez deixou a desejar foi a qualidade da avaliacao estatistica por parte de alguns grupos.
+
+LICOES APRENDIDAS
+A pratica de manter os alunos constantemente sobre o desafio e fora de suas zonas de conforto demonstra ser viavel, porem desafiante. No geral os resultados apresentados foram satisfatorios e em alguns casos surpreendentes. Alguns dos trabalhos e discussoes realizados na disciplina se tornaram projetos de iniciacao cientifica ou trabalho de conclusao de curso dos alunos.
+Por outro lado, a flexibilidade dada aos alunos fez com que boa parte destes desistissem de realizar entregas em detrimento de outra disciplina. Este fato sugere que nos professores tenhamos a pratica de planejar o calendario do curso, e nao das disciplinas individualmente, sobre uma visao macro e colaborativa, evitando sobrecargas sazonais ao longo do semestre. A pressao imposta por prazos apertados impede a dedicacao equilibrada dos alunos para melhor aproveitamento em cada disciplina. Este fator pode causar uma deficiencia de aprendizado.
+A substituicao de avaliacoes teoricas por praticas recebeu um feedback positivo por parte dos alunos. Alguns relataram que apesar de estarem sendo avaliados, dinamicas os deixaram mais a vontade e sem uma pressao de resultados. Muitos acreditam que o metodo e mais eficiente.
+Como educador, acredito que teremos que repensar nosso metodo de avaliacao a curto medio prazo. Isso pelo fato de termos cada vez mais artefatos tecnologicos como material de apoio e estes fazerem parte do cotidiano dos alunos. Enquanto ha uma parte da sociedade discutindo liberacao ou restricao do uso destes equipamentos em escolas, acredito que os metodos de ensino e avaliacao devem ser adaptados ao novo contexto e te-los como aliados.
+
+
+**CONCLUSAO**
+
+Considera-se que os resultados da primeira oferta da
+disciplina sejam subjetivos e satisfatorios. O curso teve 3%
+de reprovaçao, sendo a maioria destes por desistencia. A
+maior contribuiçao que este trabalho traz e a sugestao de
+investigar novos metodos de pensar o ensino e suas
+avaliaçoes com suporte aos dispositivos tecnologicos.
+
+**CONSIDERACOES FINAIS**
+
+Este artigo apresentou uma proposta de disciplina para o ensino de computaçao vestivel com foco na experiencia pratica dos alunos. Através da descricao das motivaçoes, do conteudo programatico e da metodologia utilizada, buscou-se fornecer um panorama completo da abordagem adotada e dos resultados obtidos. Ao final, reitera-se a importancia de investigar novas formas de ensino e avaliaçao que se adaptem aos avanços tecnologicos e as necessidades do mercado, visando formar profissionais capacitados e inovadores na area da computaçao vestivel.

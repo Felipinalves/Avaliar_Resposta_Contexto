@@ -1,0 +1,227 @@
+**RESUMO**
+
+Esta pesquisa justifica-se por envolver o uso de tecnologia
+de informaçao e sistemas de conhecimento para apoiar a
+tomada de decisao e melhorar o desempenho da justiça
+brasileira. Considerando a formalizaçao do direito na forma
+de documentos com bases textuais, o uso de sistemas de
+conhecimento depende da codificaçao do conhecimento
+linguistico que, nesses documentos, nao e estruturado. Essa
+tarefa de codificaçao do conhecimento envolve recursos
+complexos, em grande numero. Uma pesquisa-açao foi
+realizada e os resultados culminaram no desenvolvimento
+de projeto de interface que permite a execuçao das duas
+tarefas (construçao de documentos e codificaçao de
+conhecimento). O projeto foi desenvolvido utilizando
+conceitos de priorizaçao da experiencia do usuario e
+buscando a possibilidade de colaboraçao entre usuarios para
+reduzir a necessidade de recursos, aproveitando aqueles que
+constroem documentos com conhecimento linguistico. A
+validaçao foi realizada com usuarios judiciais. O resultado
+da pesquisa e o design de interface para o sistema de
+conhecimento.
+
+
+**INTRODUCAO**
+
+A Republica Federativa do Brasil e organizada a partir de
+tres poderes: Executivo, Legislativo e Judiciario. A funçao
+de zelar a constituiçao e suas leis e manter o estado de
+direito, e de responsabilidade do poder judiciario, julgando
+conflitos de interesses, mantendo a ordem social. Para que
+isso possa ser possivel, a atividade judiciaria deve funcionar
+com desempenho suficiente a garantir tal ordem. Em busca
+da celeridade, o Poder Judiciario assim como os demais
+poderes publicos buscam a aplicaçao das tecnicas de
+apoio a decisao, aplicadas de forma mais forte na
+administraçao empresarial, de modo a criar soluçoes que
+diminuam o tempo do processo no que tange a decisao,
+sentença ou similar.
+
+Entre as tarefas intensivas em conhecimento na atividade
+judicante, a elaboraçao de sentenças e outras peças
+processuais, executada por operadores do direito, exige um
+grande tempo de pesquisa, buscando interpretaçoes das leis,
+comparando com casos antigos similares ou mesmo
+retornando documentos que auxiliem o convencimento dos
+operadores, como e apontado por Sewald Junior . Ainda,
+apresenta ainda que ferramentas de Engenharia de
+Conhecimento, como a busca semantica podem ser
+aplicadas para aumentar assertividade e relevancia dos
+documentos resultantes da pesquisa e consequente
+diminuiçao do tempo total de busca.
+
+Para o funcionamento dessas soluçoes, o conhecimento
+deve ser explicitado e codificado, com o uso de ontologias,
+por exemplo. A tarefa de explicitaçao do conhecimento em
+metodos manuais, ou seja, com a participaçao de
+especialistas de dominio e engenheiros de conhecimento,
+mostra-se de grande complexidade, exigindo um grande
+conjunto de recursos humanos e financeiros e, apesar do
+direito representar um dos principais motivos de
+desenvolvimento de ontologias, estas nao alcançam a
+completude e complexidade do direito como um todo; e que
+os metodos automaticos, sobretudos os estatisticos, geram
+muitas relaçoes irrelevantes e nao e capaz de descrever ou
+conceituar os termos de forma suficiente.
+
+**METODOLOGIA**
+
+O objetivo deste trabalho e sua contribuiçao e a proposiçao
+de um projeto de interface colaborativa para representaçao
+do conhecimento judicial, com base no desenvolvimento de
+ontologias por grupo de especialistas de dominio de direito.
+
+Foi, para o desenvolvimento deste trabalho, realizada uma
+busca sistematica de literatura com objetivo de gerar
+subsidios para definiçao do problema, e da composiçao dos
+pressupostos para o desenvolvimento de um projeto de
+interface. Para tal, foi aplicado o metodo Systematic Search
+Flow [2,3]. No dia 25 de janeiro de 2017 a partir da expressao Collaborat AND interface AND user experience na base Scopus, quando foram encontrados 76 registros. Forma utilizadas, como criterio de exclusao, tres passos: (1) eliminacao de artigos sem relacao com a pergunta de pesquisa a partir da leitura de titulo, resumo e palavras-chaves, resultando 25 artigos. Ainda, deste grupo, seis trabalhos nao puderam ser acessados, impedindo essa leitura, totalizando, neste momento, 19 trabalhos; (2) repeticao, da estrategia, a partir da leitura da integra dos artigos, resultando deste processo, 6 trabalhos; (3) integracao de leituras anteriores a pesquisa, por parte do autor, bem como os textos acessiveis a ele, considerando indicacoes e trabalhos anteriores apresentados ao programa (teses e dissertacoes) e textos de fundamentacao a estes sao integrados em temas laterais, quando encontradas lacunas a partir da revisao sistematica (considerando que a intersecao de temas da pergunta de pesquisa pode limitar os resultados) na definicao de temas perifericos a tese e quando possivel acesso ao texto original. Tambem sao buscados textos originais utilizados (citados) nos trabalhos resultantes da revisao sistematica de literatura, quando da existencia de duvidas quanto ao entendimento do conceito abordado e citado.
+
+Com base nestes construtos gerados, uma pesquisa-acao, com a participacao dos autores, resultando no desenvolvimento do projeto de interface, que foi verificado atraves de entrevistas a operadores do direito acessiveis ao autor, colaboradores de tribunais de justica comum e do trabalho com atuacao no estao de Santa Catarina
+
+
+**PROJETO DE INTERFACE COLABORATIVA**
+
+Esta seçao do artigo apresenta os fundamentos teoricos a
+partir da revisao sistematica de literatura, o projeto de
+interface resultante desses construtos e narrar o processo a
+verificaçao da aplicabilidade.
+
+Para o desenvolvimento de sistemas de conhecimento, o
+dominio de aplicaçao deve ser modelado e armazenado,
+possibilitando seu uso e reuso, definindo o vocabulario e os
+diferentes niveis de formalidade . Neste contexto,
+encontramos as ontologias. Uma ontologia define os termos
+basicos e relaçoes compreendidos no vocabulario de uma
+area, bem como a combinaçao de termos e relaçoes que
+definem a extensao do vocabulario  e denotam sistemas
+conceituais utilizados como veiculos promotores do
+compartilhamento e reutilizaçao do conhecimento .
+
+Entre as principais razoes para se desenvolver uma
+ontologia, destaca-se o compartilhamento de entendimento
+comum da estrutura da informaçao entre pessoas ou
+softwares agentes, possibilitando seu armazenamento, reuso
+e transmissao, com utilizaçao do conceito de classes,
+relaçoes, atributos, etc . Desta forma, os conceitos e
+termos utilizados por um usuario poderiam ser entendidos
+por um sistema, e tambem o contrario, em suas diversas
+relaçoes: hierarquicas, genericas, associativas, entre outras.
+
+Varios trabalhos utilizam as ontologias para auxiliar na
+identificaçao de conceitos e entidades relacionados com as
+sentenças, como, por exemplo, Penalver-Martinez et al. ,
+que define que uma mesma sentença pode ter diferentes
+significados opiniões.
+
+Com relaçao a construçao da ontologia, Casanovas et al.
+definem o conceito de uma metodologia de engenharia de
+ontologia : Uma metodologia de engenharia de ontologia
+pode ser definida como um conjunto organizado de
+procedimentos e diretrizes documentados para uma ou mais
+fases do ciclo de vida da ontologia, como analise ou design.
+
+Os documentos juridicos contem conhecimento em forma
+de argumentos e e necessario distinguir entre argumento
+como processo e procedimento, da qual chama de dialetico,
+e argumento como produto chamado nao-dialetico . Este
+trabalho aponta que esta distinçao serve para fins uteis para
+a engenharia do conhecimento na medida em que motivou o
+desenvolvimento de uma estrutura de representaçao do
+conhecimento que separe claramente as duas perspectivas.
+E descrita uma estrutura para a engenharia do conhecimento
+que suporta a perspectiva nao-dialetica expressivamente
+Zarri  aponta que documentos legais sao estruturados a
+partir de conhecimentos narrativos. Observa-se que, durante
+o desenvolvimento de documentos, tarefa realizada por
+especialista da area do direito, os termos utilizados definem
+o entendimento do criador quanto ao seu significado,
+gerando ambiguidades apenas no processo de leitura e
+interpretaçao. O conhecimento aplicado no momento de
+geraçao do documento nao e ambiguo, mas a sua leitura e
+ambiguidade de interpretaçao pode dificultar 0
+entendimento do conceito utilizado.
+
+Uma interface e o mecanismo utilizado para proporcionar
+interaçao entre dois entes (humano-computador, humano-
+humano, computador-computador etc) . Assim, sendo,
+os conceitos de usabilidade e de experiencia do usuario
+devem aplicar uma visao sistemica, com base nas atividades
+e na interaçao entre os usuarios e o sistema. Relacionado a
+sentimento do usuario quanto ao uso de um sistema
+interativo, a experiencia do Usuario (UX User
+eXperience), centrada no usuario deve ser utilizada para o
+desenvolvimento.
+
+Steves, Ranganathan e Morse  apresentam o uso de
+anotaçoes, afirmando que pode ser adaptado para a
+execuçao de tarefas colaborativas. Apresenta a preocupação
+de, considerando execuçao com distancia temporal entre os
+participantes, ferramentas assincronas (para anotaçao)
+devem ser alinhadas com outras sincronas (para discussao),
+apesar de apresentar interfaces nao aplicaveis ao projeto.
+
+O trabalho de Gatto e Pittarello  contribui com um
+exemplo de interface para a anotaçao semantica, apesar do
+conceito de colaboraçao do autor esteja distante daquele de
+cooperaçao, necessario para o desenvolvimento do modelo
+de aplicaçao para suportar o projeto proposto. O uso de
+ontologia de anotaçoes (Open Annotation Collaboration
+- OAC, apresentado no trabalho de Grassi, Morbidoni e Nucci [14] , mostra uma saida viavel para a insercaomanutencao e compartilhamento de conceitos. A forma de compartilhamento (necessidade de escolha de compartilhamento) pode nao ser util para o projeto e nao devera ser aplicado. Contudo, o formato de anotacao, populando uma ontologia, ajudara a identificar as palavrascandidatas. O uso de anotacoes para colaboracao de uma tarefa (avaliacao de livros virtuais - e-book), tambem e apresentado no trabalho de Yoo e Kim [15].
+
+Partindo a limitacao na formacao da equipe de especialistas de dominio, para a construcao da ontologia, e necessario cuidado no desenvolvimento de interface de interacao que possibilite trabalho cotidiano do usuario (desenvolvimento de pecas juridicas). Considerando que a explicitacao de conhecimentos juridicos e seus conceitos no momento de sua utilizacao (criacao de documentos juridicos) possibilita a definicao de uma ontologia juridica nao ambigua. A definicao de interface de uma aplicacao deve possibilitar o desenvolvimento destes documentos, a recomendacao de palavras candidatas e a possibilidade de colaboracao, por meio da avaliacao (feedback filtragem automatica) reforcando ou inibindo recomendacoes de candidatas.
+
+O projeto foi dividido, considerando o usuario e agrupamento de funcionalidades, em tres modulos: (1) Modulo de Construcao de Documentos Judiciais e Anotacao; (2) Modulo de Decisao Cooperativa das Palavras Candidatas; e (3) Modulo de Insercao Manual na Ontologia, este ultimo utilizado pelo Engenheiro de Conhecimento, enquanto os dois primeiros sao utilizados pelo Especialista de Dominio.
+
+Modulo de Construcao de Documentos Judiciais e Anotacao
+
+A principal preocupacao deste modulo e possibilitar a anotar o documento para identificacao de palavras ou termos candidatos sem incremento impacto significativo de esforco, durante a elaboracao de pecas documentos. Apos sua identificacao, pode escolher iniciar um novo projeto (pecadocumento), continuar existente (realizar manutencao do documento e seu texto ou continuar tarefa de anotacao) de sua autoria, ou de autoria outro usuario, desde que seja compartilhado a ele. Apos a selecao do projeto, e aberto editor de texto, onde o usuario deve construir (gerar) suas pecas judiciais e anotar o texto, podendo para isso, obter sugestoes (quando a aplicacao analisa, com base nas palavras ja definidas no texto) e apresentalas ao usuario, em uma forma de recomendacao. A Figura 1 apresenta uma visao geral do editor de texto, com os termos sem anotacao marcados em amarelo. O usuario deve, a partir das recomendacoes ou de criacao de nova candidata, realizar a anotacao do documento, de forma a identificar palavras ou termos que sao candidatas a ser incorporadas na ontologia. Tais palavras podem representar conceitos de classes, instancias destas ou ainda, descrever relacoes entre instancias e classes (para definicao da ontologia, as relacoes entre instancias sao abstraidas, de forma a obter relacionamento entre classes destes termos).
+
+As palavras nao anotadas podem receber recomendacoes a partir de palavras ou termos candidatos constantes da base e aqueles que ja foram inseridos na ontologia; ou levar a sugestao de nova candidata, conforme apresentado na Figura 2.
+
+O resultado esperado, com o uso deste modulo, e a possibilidade de anotacao do documento (durante ou posterior ao sua criacao), com a identificacao de candidatas, sugerindo eou opinando e alimentando os indicadores de controle (filtragem colaborativa e reputacao), considerando possibilidade de nao existencia de uma coordenacao formal, sendo substituida por tais indicadores e gestao de papeis.
+2.3 Modulo de Decisao Colaborativa e Busca por Consensos das Palavras Candidatas
+Considerando a ambiguidade do direito, e possivel que uma palavra ou termo possam ter significados diferentes, com base no contexto; isso, portanto, sugere que sao dois ou mais conceitos distintos (e existir duas ou mais candidatas). Porem, tambem e possivel o entendimento diferente sobre o mesmo conceito, em mesmo dominio (interpretacao ou diferente definicao por diferentes usuarios). Nestes casos onde existem duas ou mais sugestoes para o mesmo dominio, o Engenheiro de Ontologia, ao identificar, deve solicitar busca pelo consenso, em uma decisao cooperada. A Figura 3 apresenta interface grafica para busca de consenso:
+
+Tal interface permite a conversa entre os especialistas de dominio (operadores do direito, usuarios do sistema de conhecimento), bem com sugestao de um conceito, votacao nos conceitos sugeridos e, ao chegar a uma solucao de consenso, incrementar o indicador de filtragem colaborativa como base nos pesos dos usuarios (somados) que aceitaram, comumente, a candidata.
+
+Modulo de Insercao Manual na Ontologia
+
+Em grande parte das metodologias de aquisicao de conhecimento que se apresentam como colaborativas, o engenheiro de ontologia tem a premissa de proceder a insercao da candidata na ontologia. De forma a manter essa prerrogativa do engenheiro de ontologia, e sugerido modulo de insercao manual na ontologia onde, ao observar que conceito e relevante e pode servir como termo compartilhado, promove sua inclusao.
+
+A Figura 4 apresenta prototipo de interface com as sugestoes acerca de uma mesma palavra ou termo, onde o engenheiro de ontologia pode salvar (inserir na base) ou refutar permanentemente.
+
+Ainda, sugere-se que ao apresentar as candidatas, o engenheiro de ontologia possa observar o indice de filtragem colaborativa e a reputacao do usuario que a sugeriu, como ferramenta para auxiliar a tomada de decisao. Pode, ainda, tomar essa decisao com apoio de um especialista (ou um grupo de especialistas) de dominio.
+
+Verificacao com usuario
+
+Foram realizadas apresentacoes a juizes e desembargadores (justica comum e trabalhista) e assessores, ou seja, possiveis usuarios da solucao baseada na proposta de interface gerada em tribunais de atuacao no estado de Santa Catarina. A amostragem (12) e insuficiente para geracao de estatisticas confiaveis quanto a validacao, mas considerada suficiente pelos autores para a verificacao da proposta. Alem do projeto de interface, foi demonstrado um possivel resultado objetivado (ontologia) em outra area de interesse e sua aplicabilidade na busca semantica de documentos, e foi dada a palavra ao entrevistado para criticas, sugestoes e percepcao de aplicabilidade.
+
+Em todos os casos, os possiveis usuarios definiram que o ganho na selecao de documentos e muito util no desenvolvimento de documentos juridicos; que, apesar de um trabalho que diminui o desempenho, a percepcao e de que o tempo total seria menor e, assim, que o software gerado a partir deste projeto seria aplicavel.
+
+Ainda, que o projeto apresentado, usando um mesmo ponto inicial para o desenvolvimento de documentos juridicos e para anotacao e consequente criacao da ontologia representam uma experiencia geral util. A melhoria da selecao da classe ou da classe ancestral (no caso de criacao de subclasse) utilizando uma arvore hierarquica foi sugerida, devendo ser incorporada em novos trabalhos, sobretudo no desenvolvimento do sistema de conhecimento.
+
+
+**CONSIDERAÇOES FINAIS**
+
+Este trabalho demonstra um projeto de interaçao do usuario
+que permite a execuçao das duas tarefas de forma integrada,
+com a identificaçao de termos e definiçao colaborativa dos
+termos que farao parte da ontologia de dominio, aplicaveis
+em sistemas de conhecimento que visam apoiar a decisao. e
+tornar possivel melhorar o desempenho das atividades
+judiciais. O projeto de interface com o usuario final levou
+em consideraçao a experiencia do usuario, promovendo a
+percepçao de usabilidade e possibilitando o uso de recursos
+humanos e computacionais, possibilitando ganhos com o
+uso desse conhecimento codificado e explicitados em outras
+soluçoes de software. A validaçao junto aos usuarios
+demonstrou tal percepçao, corroborando com a
+possibilidade de aplicaçao de design de interface no
+desenvolvimento de sistemas de conhecimento.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo apresenta um projeto de interface colaborativa para desenvolvimento de ontologias no contexto juridico, buscando otimizar a tomada de decisao e melhorar o desempenho das atividades judiciais. A interface proposta integra tarefas de construçao de documentos e codificaçao de conhecimento, utilizando conceitos de priorizaçao da experiencia do usuario e colaboraçao entre usuarios. A validaçao com usuarios judiciais demonstrou a percepçao de usabilidade e o potencial da interface para a aplicaçao em sistemas de conhecimento.

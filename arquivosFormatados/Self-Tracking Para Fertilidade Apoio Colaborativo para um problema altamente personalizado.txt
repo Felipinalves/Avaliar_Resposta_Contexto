@@ -1,0 +1,123 @@
+**INTRODUCAO E TRABALHOS RELACIONADOS**
+
+A Organizaçao Mundial de Saude considera infertilidade
+como um tema de saude publica global que afeta inumeros
+casais no mundo . No Brasil, estima-se que o numero de
+casais com dificuldades de conceber estava em torno de 278
+mil em 2011, e desde 2005 o SUS preve apoio para o
+tratamento de infertilidade atraves da Politica Nacional de
+Atençao Integral em Reproduçao Humana Assistida .
+
+A maioria dos tratamentos de fertilidade requer que a mulher
+monitore diversos indicadores de saude. Essas atividades de
+monitoramento se encaixam na definiçao de self-tracking a
+pratica de coletar e refletir sobre dados pessoais para adquirir
+autoconhecimento ou alcançar um objetivo . Apesar de
+atividades self-tracking focadas em saude estarem se
+tornando mais comuns, ainda existem muitos desafios
+relacionados a essas praticas. Esses desafios sao
+intensificados em contextos complexos, personalizados e
+com uma alta carga emocional, como e o caso da fertilidade.
+
+No contexto de saude da mulher , a maioria dos estudos
+de IHC tem focado em aspectos relacionados a maternidade.
+Algumas exceçoes importantes sao self-tracking do ciclo
+menstrual , incontinencia urinaria feminina ,
+menopausa , e uso de anticoncepcional . Entretanto
+fertilidade e praticas relacionadas continuam sendo topicos
+pouco estudados, especialmente na area de IHC. Nesse
+cenario, este estudo objetivou entender os desafios
+enfrentados pelas mulheres quando realizam atividades de
+self-tracking com o objetivo de conceber. Alem de ser
+fundamental para oferecer um melhor apoio para essa
+populaçao, compreender melhor essas praticas pode ser de
+fundamental importancia para apoiar politicas publicas nesta
+area, como a referida politica nacional estabelecida pelo
+SUS.
+
+**METODOS**
+
+Nos analisamos uma comunidade online especificamente
+focada em infertilidade: os posts relevantes foram
+selecionados usando uma busca incluindo palavras chaves
+relacionadas a atividades de self-tracking e aspectos
+especificos de fertilidade. Essa busca resultou em 3.527
+threads com 15.944 postagens, entre 2006 e 2016. Nos
+analisamos os dados qualitativamente ate atingir saturaçao
+teorica . Através desta analise, buscamos compreender (i)
+o processo de self-tracking para fertilidade e os seus
+desafios; (ii) o processo de sense-making envolvido nessas
+atividades; e (iii) como as mulheres colaboram atraves da
+comunidade online e a relaçao dessa colaboraçao com as
+atividades de self-tracking e o processo de sense-making.
+
+**RESUMO DOS RESULTADOS**
+
+O ciclo fertil regular tem inicio no primeiro dia da
+menstruaçao, dura 28 dias e pode ser dividido em 4 fases:
+menstruaçao, pre-ovulaçao, dias ferteis e pos-ovulaçao. A
+ovulaçao e a fase fertil e tem em media 6 dias por ciclo.
+Entretanto, mulheres enfrentando problemas de fertilidade
+geralmente nao vivenciam esse ciclo regular. Essa
+irregularidade e um dos principais motivos para o uso de self-
+tracking em tratamentos de fertilidade. Nos identificamos
+que as mulheres usam self-tracking extensivamente durante
+todo o ciclo menstrual, enfrentando inumeros desafios.
+
+Principais desafios
+Fertilidade e complexa, cheia de variacoes e incertezas.
+Muitos desafios que as mulheres enfrentam estao
+intimamente relacionados a isso. Primeiramente, a curva de
+aprendizagem e bastante ingreme: muitos dos indicadores de
+fertilidade nao sao amplamente conhecidos (ex: muco
+cervical) e as mulheres precisam aprender quais dados
+coletar, como coleta-los e como interpreta-los considerando
+as caracteristicas do seu proprio ciclo fertil. Muitos dados
+medidos sao subjetivos ou podem gerar resultados ilusorios.
+Alem disso, nenhum dos dados usados para identificar a
+ovulacao e exato: por exemplo, testes de ovulacao detectam
+um aumento do hormonio LH que acontece de 12 a 36 horas
+antes da ovulacao, enquanto a temperatura basal mostra um
+aumento da temperatura um dia apos a ovulacao. Os
+diferentes dados que elas coletam podem tambem oferecer
+resultados contraditorios, o que dificulta ainda mais a
+interpretacao. E mesmo quando se tem resultados claros e
+positivos, isso nao garante de que a mulher esta ovulando: e
+possivel ter, por exemplo, um aumento do hormonio LH sem
+a liberacao de um ovulo. Alem disso, apos identificar o
+possivel dia da ovulacao, as mulheres tambem precisam
+calcular as melhores datas para ter relacoes sexuais para
+maximizar as chances de engravidar, considerando por vezes
+inclusive indicadores de fertilidade masculina. Nesse cenario
+de variabilidade, as mulheres recorrem ao forum para
+entender e compartilhar informacoes sobre como usar as
+ferramentas, como interpretar os resultados, e como lidar
+com os aspectos emocionais que podem ser bastante intensos
+e devastadores para algumas mulheres.
+
+DISCUSSAO
+Com base nos resultados, nos discutimos como um contexto
+complexo e que requer conhecimento especializado
+intensifica os desafios de self-tracking e, no caso especifico
+da fertilidade, como as mulheres passam por um intenso
+processo de aprendizagem para obter informacoes sobre seu
+caso particular e sobre as ferramentas disponiveis. Essas
+mulheres precisam criar solucoes personalizadas, o que elas
+frequentemente fazem por meio de sense-making
+colaborativo [5]. Elas recorrem ao forum durante todo o ciclo
+fertil para tentar superar as complexidades relacionadas a
+fertilidade e a carencia de informacoes precisas atraves da
+construcao de autoconhecimento personalizado baseado em
+experiencias coletivas. Nos tambem discutimos o impacto
+emocional diretamente ligado as praticas de self-tracking
+para fertilidade, especialmente no que diz respeito a
+frustracao de repetidas tentativas mensais e a pressao social.
+Sistemas que visam apoiar mulheres em tratamento de
+fertilidade precisam ajuda-las a obter conhecimentos teoricos
+e praticos sobre a fertilidade, levando em consideracao as
+variacoes naturais que sao parte desse processo, e facilitar o
+processo colaborativo entre mulheres.
+
+**CONCLUSÕES**
+
+Este estudo, ao analisar comunidades online, revelou os desafios enfrentados por mulheres ao utilizarem self-tracking para fertilidade. A complexidade do tema, a intensidade emocional e a necessidade de aprendizagem constante sao fatores que influenciam diretamente a experiencia dessas mulheres. A colaboraçao online emerge como uma ferramenta crucial para compartilhar conhecimentos, interpretar dados e oferecer apoio emocional. Para o futuro, sistemas de apoio a fertilidade devem integrar informaçoes teoricas e praticas sobre fertilidade, considerar as variaçoes individuais e facilitar a colaboraçao entre usuarias, promovendo um ambiente de apoio e compreensao.

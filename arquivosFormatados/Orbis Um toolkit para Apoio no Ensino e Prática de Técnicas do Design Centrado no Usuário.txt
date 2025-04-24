@@ -1,0 +1,84 @@
+**INTRODUCAO**
+
+A expectativa das grandes empresas na area de tecnologia e encontrar profissionais que
+tenham um conhecimento tecnico bem consolidado em uma area, mas que sejam capazes
+de se comunicar e transitar entre outras areas. Eles sao conhecidos como profissionais em
+forma de T, ou T-shaped professionals, os quais sao capazes de explorar conhecimentos
+de muitas perspectivas diferentes e reconhecer padroes de comportamento que apontam
+para uma necessidade humana universal . Em disciplinas de Interaçao
+Humano-Computador e Design, os alunos tem a possibilidade de desenvolver essas habil-
+idades, devido a natureza interdisciplinar dessas areas, alem da integraçao entre teoria e
+pratica  e, frequentemente, o desenvolvimento da capacidade
+critica e das competencias para atuar de forma pratica sobre um problema.
+
+Em linhas gerais, o Design Centrado no Usuario (DCU) e uma filosofia do de-
+sign em que os usuarios finais influenciam, de diferentes formas, como uma soluçao e
+desenvolvida . Na formaçao dos alunos de IHC, conhecer e saber
+quando aplicar diferentes tecnicas e importante porque usuarios podem participar do DCU
+de formas distintas, de acordo com as necessidades do projeto. O desenvolvimento por
+meio do DCU requer uma compreensao adequada acerca do uso dos metodos e tecnicas
+disponiveis - alem de rigor em sua aplicaçao e analise - para embasar decisoes de de-
+sign . Esse aspecto tem sido valorizado pelas empresas privadas, que
+tem incorporado um modelo de pensamento e de trabalho que inclui o usuario no cen-
+tro das decisoes, mostrando que o DCU nao e um processo restrito ao meio academico
+. No entanto, a experiencia pratica dos autores deste artigo demon-
+stra que e comum que os alunos enfrentem dificuldades ao desenvolver projetos apli-
+cando esses principios no design de soluçoes digitais interativas especialmente em suas
+primeiras experiencias profissionais.
+
+Inspirado pela necessidade observada na orientaçao de mestrandos, estagiarios e
+alunos da graduaçao que trabalham com experiencia do usuario e IHC, bem como na ex-
+periencia pessoal de egressos ao enfrentar os desafios do mercado, este trabalho propoe
+Orbis, um toolkit composto por cartas que descrevem 15 tecnicas comumente utilizadas
+nas etapas DCU na Academia e na Industria. O objetivo do Orbis e permitir acesso rapido
+e instruçoes simplificadas sobre quando e como aplicar cada tecnica, de forma bem fun-
+damentadas na literatura. Orbis possui uma versao fisica e digital e pode ser utilizado
+como uma ferramenta mnemonica e de discussao em disciplinas de IHC e Design, de
+forma complementar ao ensino desses conteudos, e tambem, no contexto de projetos, fo-
+mentando a discussao e escolha informada de tecnicas do DCU, contribuindo para uma
+melhor atuaçao dos alunos egressos no mercado de trabalho.
+
+Trabalhos Relacionados
+O uso de cartoes fisicos para facilitar o aprendizado – estrategia adotada neste trabalho – ja foi explorado em diversas pesquisas, pois estes servem de base de consulta rapida e direta, nivelam o conhecimento de um grupo sobre determinado assunto e levam a formulacao de um vocabulario comum [Deng et al. 2014]. No contexto de design, os cartoes podem ser usados para planejar, orientar avaliacoes, acelerar o refinamento e a iteracao de ideias, fomentar discussoes e estabelecer um ritmo para dinamicas em grupo. Com base nisso, assim como Orbis, ha decks de cartas com o objetivo de estabelecer uma ferramenta metodologica para a fase de concepcao do design [Golembewski and Selby 2010]. Por exemplo, Tango Cards [Deng et al. 2014] e uma ferramenta de design baseada em cartoes para informar sobre o design de jogos tangiveis para aprendizagem. A ferramenta, destinada a designers, foi criada para ajudar a especificar problemas complexos presentes na fase de ideacao e estimular a realizacao de iteracoes. Outro exemplo sao os cartoes Plex [Lucero and Arrasvuori 2013], criados para comunicar 22 categorias de uma estrutura de experiencias ludicas para designers que desejam projetar experiencias divertidas.
+
+Orbis
+Orbis foi produzido de maneira conjunta por uma profissional que trabalha ha cinco anos aplicando DCU na producao de produtos digitais interativos diversos em uma empresa de tecnologia e uma professora com mais de dez anos de experiencia na docencia e orientacao em IHC, Experiencia do Usuario (UX) e Design. Uma vez que Orbis foi idealizado a partir da necessidade observada ao longo dos anos em alunos e egressos, as tecnicas que compuseram sua primeira versao foram selecionadas por meio de um levantamento bibliografico e discussoes, com base em dois criterios: i) estar presente no curriculo e em livros didaticos de disciplinas de IHC da graduacao, especialmente as que mais frequentemente suscitam duvidas na aplicacao pratica; e ii) nao ser formalmente descrita em livros didaticos, mas dispor de informacao em fontes confiaveis, e ser comumente utilizada no dia-a-dia da pratica profissional em grandes empresas.
+
+A escolha de ferramentas da academia e da industria na composicao do produto visa a aproximacao destes dois contextos no processo de formacao dos alunos. Uma tecnica que possui mais fundamentacao teorica e e reconhecida pela academia pode ser aplicada em atividades da industria, bem como tecnicas que prezam pela praticidade podem ser aplicadas em contexto academico. Portanto, Orbis permite a exploracao de fundamentos consistentes para a aplicacao das tecnicas vistas em disciplina, alem de aumentar o repertorio profissional dos estudantes e egressos. As instrucoes sobre a execucao das tecnicas foram baseadas nos livros de [Barbosa et al. 2020] e [Preece et al. 2015] e nos de [Osterwalder and Pigneur 2010] e [Osterwalder et al. 2014], para conteudo da industria.
+
+Conceito e Produto
+Inspirado pela iniciativa de empresas e de trabalhos academicos como os descritos na secao de Trabalhos Relacionados, surgiu o Orbis, um toolkit de apoio a pratica do DCU (Figura 1A). O nome para o produto concorda com a motivacao para produzi-lo: "orbis" vem do latim e quer dizer bussola. A caixa de ferramentas tem como intuito guiar alunos e egressos na consolidacao de uma pratica centrada no usuario, de forma pratica e descomplicada. Orbis se apresenta no formato de cartoes (Figura 1B) e dispoe de 15 tecnicas distribuidas em tres categorias: Analisar, Projetar e Avaliar. O produto e primariamente fisico, podendo ser facilmente manuseado com o intuito de estimular a interacao entre os estudantes durante seus projetos1. Uma caixa de madeira personalizada organiza os cartoes nas categorias e um manual esclarece a proposta do produto e da direcionamentos sobre seu uso. Em um compartimento da caixa estao disponiveis materiais como notas autoadesivas, canetas e adesivos, que podem tornar a experiencia de uso mais completa e estimular a criatividade.
+
+Anatomia e uso dos cartoes
+Cada uma das tecnicas descritas conta com a mesma estrutura de informacao. Na capa de uma carta de tecnica (Figura 2A) estao: (i) Indicacao da etapa a que ferramenta pertence e a ordem da ferramenta no deck de cartas da etapa. Para associar a ferramenta a uma etapa e usado tanto um titulo como a cor que a identifica; (ii) Icone que representa a ferramenta e pode ajudar no reconhecimento de seu formato e objetivo; (iii) Nome da ferramenta em destaque, tanto em portugues como em ingles (o que pode ajudar em uma busca posterior por referencias) e o codigo de identificacao dela; e (iv) Orientacao sobre o contexto de uso adequado da ferramenta e a que ela se propoe. No verso do cartao esta seu conteudo principal (Figura 2B), composto por: (i) Indicacao sobre o tempo investido no uso da ferramenta, do esforco necessario para a execucao dela e uma etiqueta que informa se ela e proveniente da academia ou da industria; (ii) Passo-a-passo detalhado para sua execucao, com instrucoes para o aluno sobre preparacao, aplicacao e registro dos insumos; (iii) Uma dica para uso da ferramenta; e (iv) uma variedade de materiais adicionais acessiveis por meio de um QR Code, que incluem videos explicativos, modelos para aplicacao, materias em sites de design entre outros.
+
+As escalas de tempo e esforco sao aproximadas e comparativas. A de tempo pode ser interpretada como: (i) Nivel 1: Igual ou menor que um dia, sao ferramentas possiveis de serem utilizadas em apenas algumas horas; (ii) Nivel 2: Menor que uma semana util, nesse caso, a execucao da ferramenta pode levar alguns dias, mas deve ser a inferior a 5; (iii) Nivel 3: Igual ou maior que uma semana, ferramentas com essa indicacao possuem um escopo maior e variavel. A medida de esforco indica o nivel de expertise ou preparo tecnico necessario para a aplicacao da tecnica. Em geral, a nocao de esforco se relaciona com a de tempo. Os niveis de esforco podem ser classificados em: (i) Nivel 1: Baixo, tecnicas de aplicacao simples e direta; (ii) Nivel 2: Intermediario, tecnicas que exigem mais preparo, dedicacao e conhecimento tecnico; e (iii) Nivel 3: Alto, tecnicas que possuem atividades mais complexas e que exigem mentoria ou profundidade tecnica para serem executadas de forma adequada por um estudante ou pessoa com pouca experiencia.
+
+Orbis organiza as tecnicas em tres categorias (Tabela 1). As tecnicas apresentadas na categoria de Analise sao destinadas a identificar as necessidades e desejos dos usuarios, alem do entendimento do desafio e do contexto: entrevista, questionario, mapa de empatia, analise de competidores e jornada do usuario. Na categoria Projetar, estao tecnicas para o design e refinamento de solucoes com base nas perspectivas dos usuarios: proposta de valor, esboco sequencial, oficina de cocriacao, mapa de estorias e prototipacao. Na categoria Avaliar sao apresentadas tecnicas para verificar a adequacao da solucao ao desafio proposto e as necessidades dos usuarios: cartao de teste, teste de usabilidade, avaliacao heuristica, questionarios validados e cartao de aprendizados.
+
+Avaliacao do Orbis
+Para investigar a adequacao da proposta ao publico e sua a desejabilidade, foi realizada uma avaliacao preliminar por meio de um questionario on-line com oito alunos egressos do curso Sistemas e Midias Digitais e dez alunos de graduacao do mesmo curso, com interesse e atuacao na area de IHC. Apos explorarem o produto, os participantes respondiam sobre a relevancia, utilidade, clareza, percepcao visual e facilidade de entendimento do Orbis. Esses resultados foram utilizados para melhorar o design e organizacao do Orbis em sua versao atual, e parte foi planejada como passos futuros em seu desenvolvimento. Devido as limitacoes impostas pela pandemia da COVID-19, ate a publicacao deste artigo, nao foi possivel avaliar Orbis durante a oferta de uma disciplina de IHC.
+
+Dentre os egressos, todos estao atualmente formados e exercendo funcoes do mercado de trabalho na area de design, com concentracao de na funcao de UX Designer (62,5%), outros sao UX/UI Designers (25%) ou desempenham uma funcao generalista intitulada como designer apenas (12,5%). Todos afirmaram ter familiaridade a maior parte das ferramentas disponiveis no Orbis, especialmente aquelas que estao presentes em disciplinas do curso. Para eles, Orbis foi considerado facil de usar e entender (100%), mas que carece de um material de suporte que explicasse sua proposta e o uso dos cartoes (60%). Este ponto foi atendido com o manual e o panfleto informativo. Os egressos declararam que o entendimento das tecnicas por meio dos cartoes foi simples (100%) e que o produto e consistente e integrado (100%). Todos afirmam que usariam o produto em sua rotina profissional e indicariam para colegas. Para eles, um dos principais usos seria apresenta-lo para pessoas que nao sao de tecnologia e design, mas que demonstram interesse em conhecer seus processos. Destacaram sua utilidade como fonte de consulta para a escolha de ferramentas durante o planejamento de um projeto e afirmaram, ainda, que teria sido util durante a graduacao, para ajudar na pratica antes de ingressar no mercado.
+
+Como sugestoes, este grupo destacou (1) a necessidade de exemplos praticos para algumas ferramentas; (2) a possibilidade de expansao do conjunto de cartas, inclusive de forma colaborativa, com alunos contribuindo para alimentar o produto; (3) A categorizacao das ferramentas por codigos, o que facilitaria referencia-las; (4) considerar aspectos de acessibilidade, como um link junto ao QR Code e o uso de padroes visuais para que daltônicos consigam diferenciar as cartas sem considerar as cores.
+
+Dentre os alunos que estao na graduacao, 40% desejam seguir para o mercado de trabalho, 40% pretendem continuar na academia e 20% ainda nao decidiram. A maioria deles e bolsista, exercendo atividade remuneradas na area (80%). Para todos neste grupo, Orbis foi considerado relevante, util e facil de entender e usar. Assim, como os egressos, reforcaram a necessidade de um tutorial inicial (60%). A respeito do conteudo, todos afirmaram que nao encontraram dificuldades para entender a aplicacao das tecnicas descritas, que Orbis se mostrou consistente e 90% se sentiram confiantes ao utiliza-lo. Todos tambem afirmaram que o utilizariam frequentemente na sua trajetoria academica e que o recomendariam para outros alunos. Segundo este grupo, Orbis seria util para eles pois e pratico, direto e facil e serviria como um instrumento de consulta rapida que poderia acompanha-los em qualquer lugar para execucao das tecnicas. Destacaram tambem que Orbis introduz o novo e apresenta ferramentas que ainda nao conhecem e nao praticaram, alem de ajudar a tornar o DCU um processo mais claramente organizado em suas mentes. Por fim, declararam que utilizariam Orbis no planejamento e para se expressar perante uma equipe, em projetos de disciplinas e fora do curso.
+
+Como sugestoes, os alunos apontaram (1) o tamanho reduzido da carta, considerando a densidade do conteudo; (2) a densidade de conteudo de algumas tecnicas e (3) deixar mais ludico, convidativo e menos formal. O tamanho da carta foi aumentado e sua diagramacao e elementos modificados para aumentar a legibilidade. Foram inseridas ilustracoes e refinado o visual. A linguagem das cartas foi revista e atualizada, mas o detalhamento sobre as tecnicas nao foi reduzido.
+
+**CONCLUSAO**
+
+Em disciplinas de IHC, alunos aprendem sobre design a partir de problemas sugeridos
+pelos professores para o exercicio de determinadas competencias. No entanto, fora da
+academia os problemas nao vem bem definidos, eles precisam ser descobertos. Dessa
+forma, Orbis visa nao somente facilitar o acesso a tecnicas do DCU, como tambem fo-
+mentar nos alunos o desenvolvimento de habilidades que nao sao de carater exclusiva-
+mente tecnico. Orbis reforça a necessidade do conhecimento antes da pratica, fomenta a
+proposiçao de dinamicas em equipe, orienta como apresentar os resultados de uma tecnica
+e incentiva a comunicaçao com pessoas de outras especialidades todos aspectos que po-
+dem tornar a trajetoria profissional e academica dos estudantes de IHC ainda mais rica.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho apresentou o Orbis, um toolkit de apoio ao ensino e pratica de tecnicas do Design Centrado no Usuario (DCU). Por meio de uma compilaçao de cartas que descrevem 15 tecnicas comumente utilizadas na Academia e na Industria, o Orbis visa facilitar o acesso ao conhecimento e fomentar o desenvolvimento de habilidades nos alunos de IHC. A avaliaçao preliminar com alunos egressos e de graduaçao demonstrou a relevancia e utilidade do Orbis, alem de apontar caminhos para o seu aprimoramento.

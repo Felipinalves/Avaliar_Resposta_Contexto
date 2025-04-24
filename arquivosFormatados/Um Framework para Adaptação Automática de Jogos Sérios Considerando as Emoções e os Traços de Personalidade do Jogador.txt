@@ -1,0 +1,145 @@
+**RESUMO**
+
+A utilizaçao de jogos serios em diversos contextos visa a
+tornar uma atividade ou processo mais atrativo para o usuá-
+rio. Neste contexto, o envolvimento do jogador apresenta-se
+como um fator de grande importancia para o sucesso da apli-
+caçao computacional. Tal caracteristica propicia um cenario
+desafiador, em que a utilizaçao de tecnicas de Computaçao
+Afetiva pode apresentar inumeros beneficios ao possibilitar
+a adaptaçao automatica do jogo conforme o estado emoci-
+onal do usuario. A literatura cientifica apresente diversos
+alguns estudos neste sentido, no entanto, a utilizaçao destas
+informaçoes pode ser eficaz para identificar quando se deve
+executar uma adaptaçao no jogo, mas pode ser insuficiente
+para definir uma adaptaçao que atenda as necessidades in-
+dividuais de cada usuario. Com o intuito de otimizar este
+processo, esta pesquisa propoe o aprimoramento de um fra-
+mework de Computaçao Afetiva ao incluir a identificaçao dos
+traços de personalidade do usuario com o intuito de oferecer
+adaptaçoes que nao consideram apenas o estado emocional,
+mas tambem as caracteristicas de cada individuo.
+
+**INTRODUCAO**
+
+Jogos serios tem sido utilizados em diversos cenarios com o
+intuito de tornar mais atrativos para os usuarios processos e
+atividades que, tradicionalmente, sao considerados enfado-
+nhos. Neste tipo de jogo, a manutençao do envol-
+vimento do usuario apresenta-se como um fator de grande
+importancia para o sucesso da aplicaçao computacional. Por
+esta razao, pesquisadores tem investigado estrategias que
+possam contribuir com a manutençao do envolvimento - ou
+do "estado de flow" do usuario - durante a utilizaçao de um
+software . O termo “estado de flow" e utilizado para
+definir o estado em que o usuario sente-se plenamente en-
+volvido em uma atividade agradavel, que lhe proporciona
+grande satisfaçao .
+
+Dentre as diversas estrategias que visam a manutençao do
+estado de flow, destaca-se a adaptaçao automatica de aplica-
+çoes computacionais a partir do estado emocional do usuario,
+chamada de "adaptaçao afetiva" . Nesta abordagem, que
+utiliza tecnicas de Computaçao Afetiva (CA), o estado emo-
+cional do usuario e reconhecido e uma adaptaçao e realizada
+no software em tempo real, de acordo com a emoçao identifi-
+cada.
+
+Uma revisao sistematica de literatura acerca da utilizaçao
+de tecnicas de Computaçao Afetiva para a adaptaçao auto-
+matica de software aponta que, usualmente, as aplicaçoes
+de adaptaçao afetiva nao consideram caracteristicas unicas
+dos individuos - alem do estado emocional para a esco-
+lha da adaptaçao afetiva . Em contraponto, Ortigosa et al.
+ afirmam que "a modelagem do usuario e essencial no
+contexto de sistemas adaptativos”, sendo a identificaçao da
+personalidade do usuario importante para que suas necessi-
+dades potenciais em diferentes contextos sejam conhecidas.
+Ortigosa et al.  reforçam ainda que “as aplicaçoes adap-
+tativas podem se beneficiar de ter modelos de personalidade
+dos usuarios para adaptar seu comportamento de acordo com
+a personalidade de cada usuario".
+
+O framework EasyAffecta, proposto por Aranha et al. ,
+preve a adaptaçao afetiva de jogos serios para reabilitaçao mo-
+tora com personalizaçao para cada paciente. Todavia, coube
+ao fisioterapeuta realizar a analise das preferencias do usuá-
+rio. Embora esta abordagem tenha apresentado resultados
+positivos, a classificaçao manual dos usuarios torna-se in-
+viavel em varias situaçoes, como a existencia de um grande
+numero de usuarios ou quando a aplicaçao nao disponibiliza
+interfaces apropriadas para configuraçao.
+
+Uma das abordagens que pode contribuir com este cenario
+consiste na analise dos traços de personalidade dos usuá-
+rios para a recomendaçao das adaptaçoes afetivas que serao
+efetuadas no jogo. A Teoria dos Traços de Personalidade e
+um campo de estudo da Psicologia que busca representar a
+personalidade humana por meio de traços - como, por exem-
+plo, extroversao e abertura a experiencias. Tais informaçoes
+acerca do usuario podem ser obtidas por meio da utilizaçao
+de questionarios ou de tecnicas computacionais .
+
+A analise dos traços de personalidade pode ser uma impor-
+tante ferramenta de apoio para a definiçao das adaptaçoes
+afetivas, possibilitando uma melhor compreensao sobre os
+estados emocionais do usuario e os elementos que podem
+propiciar maior engajamento.
+
+A literatura cientifica apresenta trabalhos que analisam
+dados do usuario para diferentes propositos, como a analise
+de sentimento, , o reconhecimento dos traços de
+personalidade , alem da adaptaçao de software e a re-
+comendaçao de conteudo . Todavia, a utilizaçao
+dos traços de personalidade em conjunto com o estado emo-
+cional do usuario tem sido uma abordagem pouco explorada
+na literatura.
+
+Portanto, esta pesquisa tem como objetivo geral propor e
+implementar uma abordagem para propiciar adaptaçao auto-
+matica de jogos serios usando Computaçao Afetiva e traços
+de personalidade. Alem da abordagem conceitual, metodos e
+tecnicas serao desenvolvidos para compor um framework que
+viabilizara o desenvolvimento de jogos serios utilizando esta
+abordagem. Embora a abordagem possa ser utilizada em qual-
+quer tipo de aplicaçao, a prova de conceito no contexto desta
+pesquisa se dara no contexto de jogos serios, considerando-
+se a importancia da manutençao do engajamento do usuario
+neste tipo de aplicaçao.
+
+DEFINICAO DA PROPOSTA
+Como prova de conceitos, o framework Easy Affecta, proposto por Aranha et al sera aprimorado para possibilitar a definicao de adaptacoes afetivas conforme os tracos de personalidade do usuario. A Figura 1 ilustra a arquitetura da ferramenta, composta por: a um modulo de Reconhecimento, responsavel por capturar sinais de entrada do usuario e inferir o estado emocional do mesmo; b um modulo denominado Controlador Emocao Acao, responsavel por executar uma acao na aplicacao, em resposta a emocao identificada pelo modulo anterior e c um modulo de Adaptacao, inserido na aplicacao final, que recebe as instrucoes a serem executadas.
+Embora esta abordagem tenha apresentado resultados positivos, entende-se que seu impacto pode ser otimizado ao automatizar o processo de classificacao do perfil do usuario. Conforme discutido anteriormente, no EasyAffecta tal atividade e realizada manualmente pelo fisioterapeuta, que ate entao precisa conhecer as preferencias do jogador para configurar as adaptacoes adequadamente. Neste cenario, a utilizacao de instrumentos ou modelos que possibilitem a analise de tracos do usuario pode apresentar inumeros beneficios.
+
+Visando-se ao atendimento dos objetivos propostos, a condu-
+çao deste projeto de pesquisa se dividira em blocos de tarefas
+(ilustrados pela Figura 2), a saber:
+
+Fundamentaçao teórica
+
+Visando ao aprimoramento dos aspectos conceituais, alem
+de pesquisas exploratorias, foram realizadas duas revisoes
+sistematicas de literatura: i) uma analise acerca dos impactos
+dos traços de personalidade na experiencia do usuario em
+sistemas de Realidade Virtual; ii) uma investigaçao sobre a
+utilizaçao dos traços de personalidade para a realizaçao de
+adaptaçao em software.
+
+Definicoes de escopo
+
+Este estagio compreende o estudo e a definicao da abordagem de coleta de dados do usuario, bem como da identificacao dos tracos de personalidade do mesmo. Ainda neste escopo inclui-se, a partir de uma revisao sistematica de literatura, a definicao da tecnica a ser utilizada para o reconhecimento do estado emocional do usuario e a definicao dos elementos de jogabilidade a serem adaptados nos jogos serios.
+
+Desenvolvimento da estrategia de adaptação
+
+A partir das definicoes de escopo previamente apresentadas, esta fase compreende a definicao das tecnologias a serem consideradas na implementacao da prova de conceitos, como tambem a definicao e a implementacao da arquitetura que ira compor a nova versao do framework EaysAffecta. Cabe destacar, ainda, que este estagio compreende a analise e definicao de tecnicas para a definicao do elemento que sera adaptado no software considerando os tracos de personalidade e o estado emocional do usuario. A partir das tecnicas identificadas na revisao de literatura, preve-se a realizacao de diferentes avaliacoes experimentais.
+Validacao da proposta
+Considerando-se os diferentes estagios de desenvolvimento desta pesquisa, preve-se a realizacao de diversas avaliacoes experimentais, que visam desde a analise de instrumentos para a identificacao dos tracos de personalidade do usuario, bem como a identificacao do impacto da abordagem proposta na manutencao do nivel de engajamento do usuario.
+
+CONTRIBUICOES ESPERADAS
+
+Em decorrencia do desenvolvimento desta pesquisa de doutorado, preve-se contribuicoes para as areas de Interacao Humano-Computador e Computacao Afetiva, almejando especificamente os seguintes itens como resultados: i a definicao de tecnicas para a identificacao dos tracos de personalidade do jogador; ii o desenvolvimento e disponibilizaçao de um framework que possibilite a adaptacao de jogos serios considerando-se o estado emocional do usuario e seus tracos de personalidade; iii avaliacoes com o intuito de verificar quais elementos adaptados nos jogos propiciaram maior impacto no nivel de engajamento do usuario.
+De modo complementar, preve-se que o projeto tem potencial para propiciar os seguintes impactos: i social, pois pode contribuir para melhorar o aprendizado mediado por jogos serios; ii tecnologico, dado que sera disponibilizado um framework para possibilitar, sem grande esforco, a adaptacao de jogos serios a partir de tecnicas de Computacao Afetiva e dos tracos de personalidade do usuario; e iii economico, uma vez que o arcabouco tecnologico disponibilizado contribuira para a implementacao de aplicacoes com maior produtividade.
+
+**CONSIDERACOES FINAIS**
+
+O trabalho apresenta uma proposta promissora para o desenvolvimento de jogos serios mais adaptados e personalizados. Ao considerar tanto o estado emocional quanto os traços de personalidade dos jogadores, o framework proposto tem o potencial de otimizar a experiencia do usuario, aumentando o engajamento e a eficacia desses jogos. Espera-se que esta pesquisa contribua significativamente para a area de IHC e Computacao Afetiva, impulsionando o desenvolvimento de tecnologias mais centradas no usuario.

@@ -1,0 +1,185 @@
+**RESUMO**
+
+O advento da Industria 4.0 criou novas demandas de desenvolvi-
+mento, tais como a criaçao de sistemas interconectados e novas
+formas de se interagir com esses sistemas. Dessa forma, a Realidade
+Mista pode ser utilizada como uma ferramenta facilitadora deste
+processo. Portanto, a combinaçao da realizaçao de atividades cola-
+borativas em contexto industrial com a utilizaçao de recursos de
+Realidade Mista como intermediadores da colaboraçao, se mostra
+promissora. Logo, o objetivo deste trabalho e avaliar como a utili-
+zaçao de recursos de Realidade Mista impactam na realizaçao de
+atividades colaborativas na Industria 4.0. Como resultados parciais,
+temos o desenvolvimento de uma ferramenta para interaçao entre
+pessoas utilizando Realidade Mista e esperamos que os resultados
+obtidos com a realizaçao de testes de usuario mostrem caminhos e
+novas estrategias para o uso desses recursos no contexto industrial.
+
+**INTRODUCAO**
+
+A Quarta Revoluçao Industrial ou Industria 4.0 e um termo utilizado
+para descrever o processo de automaçao na industria, o qual ocorre
+mediante comunicaçao entre equipamentos por meio de sistemas
+ciber-fisicos, internet das coisas e aprendizado de maquina. Porem
+para que esses sistemas possam operar corretamente e necessario o
+desenvolvimento de novas interfaces que permitam aos operado-
+res interagir com os equipamentos e outros operadores de forma
+eficiente.
+
+Uma alternativa para essas interaçoes e a colaboraçao, a qual
+pode ser definida como a execuçao de atividades em conjunto. Onde
+esse conjunto e composto por dois ou mais atores sendo eles: um
+ser humano ou uma maquina. Dessa forma, e possivel caracterizar
+tres cenarios: (i) Colaboraçao Humano-Humano, (ii) Colaboraçao
+Humano-Maquina, (iii) Colaboraçao Maquina-Maquina.
+
+Porem existem contextos onde nao e possivel existir a automa-
+çao completa de uma tarefa, isso e, somente maquinas operando de
+forma integrada para realizar uma atividade. Dessa forma a cola-
+boraçao entre humanos se torna essencial para a boa execuçao de
+atividades nesses contextos.
+
+Alem disso, na ultima decada diversos dispositivos para Rea-
+lidade Mista surgiram no mercado e vem se tornando acessiveis
+para o publico geral. Uma vez que a Realidade Mista pode ser de-
+finida como a combinaçao do mundo real com recursos virtuais
+em diferentes niveis, caracterizando tecnologias como Realidade
+Aumentada (RA) e Virtualidade Aumentada (VA) . Isto posto,
+ela demonstra ser uma alternativa para auxiliar na realizaçao de
+atividades colaborativas, dado que esses equipamento estao sendo
+utilizados como soluçoes para os mais diversos problemas em dife-
+rentes contextos . Esse processo fez com que avaliaçoes sobre
+a perspectiva de IHC (Interaçao Humano Computador) devam ser
+realizadas, considerando que novos equipamentos tecnologicos sao
+novas interfaces de interaçao. Alguns exemplos de equipamentos
+para Realidade Mista sao o Google Glass, o Microsoft Hololens, o
+Gear VR e o HTC Vive.
+
+Desta forma este projeto de mestrado busca avaliar sobre a pers-
+pectiva de IHC a seguinte pergunta: "Realidade Aumentada como
+interface de interaçao afeta a execuçao de atividades colaborativas
+na Industria 4.0?". Onde esperamos que os resultados obtidos mos-
+trem caminhos e novas estrategias para o uso desses recursos no
+contexto industrial.
+
+**TRABALHOS RELACIONADOS**
+
+Conforme definiçao apresentada anteriormente sobre colaboraçao,
+sabemos que uma atividade colaborativa e composta por dois ou
+mais atores, que podem ser tanto um ser humano, quanto uma
+maquina. Porem ao se falar em colaboraçao envolvendo somente
+maquinas ou um humano e uma maquina, os principais fatores ob-
+servados nas atividades avaliadas sao o desempenho e a segurança
+do usuario.
+
+Um exemplo disso pode ser visto no trabalho de Orts-Escolano
+et al. , o qual apresenta um software para a transmissao de proje-
+çoes 3D realistas em tempo real a serem utilizadas por sistemas de
+realidade aumentada. Para isso sao captadas imagens infraverme-
+lhas e coloridas, as quais sofrem algumas modificaçoes por meio de
+processamentos, buscando remover as imperfeiçoes geradas tanto
+pelo equipamento, como por objetos moveis como o cabelo de uma
+pessoa. Alem disso, a fim de se oferecer uma melhor imersao do
+usuario a essa interaçao, o audio e captado e reproduzido em tres
+dimensoes permitindo que o usuario tenha uma percepçao da pro-
+jeçao como uma pessoa realmente presente no espaço.
+
+Nas avaliaçoes para atividades colaborativas entre pessoas, os
+fatores humanos ja sao considerados com grande importancia, como
+demonstra o trabalho de Dey et al. , onde foi realizado um estudo sobre o compartilhamento de informacoes fisiologicas entre dois colaboradores em um ambiente virtual de forma a oferecer uma melhor empatia entre os usuarios Nesse trabalho os autores avaliam se a apresentacao de informacoes sobre a frequencia cardiaca dos usuarios impacta em uma melhor avaliacao na social presence e quais cenarios necessitam de maior colaboracao entre os usuarios Os resultados alcancados demonstram que o compartilhamento da frequencia cardiaca faz com que se tenha uma maior percepcao do usuario com o qual eles estao colaborando em todos os cenarios Ja Kim et al 7 apresentam uma avaliacao sobre o impacto do uso de diferentes recursos visuais em realidade aumentada e virtual para realizacao de tarefas colaborativas remotas Para avaliar como esses recursos impactam na colaboracao foram utilizadas diferentes tarefas simples montar um tangram um origami e um conjunto de LEGO E para avaliacao foram observados os resultados das metricas SUS 1 SMEQ e Copresence Os quais demonstram que as solucoes que apresentaram a opcao de se desenhar contornos um dos recursos disponibilizados teve o melhor desempenho ao ponto de vista do usuario No trabalho de Cidota et al 2 foi realizado uma avaliacao sobre o impacto de notificacoes visuais e auditivas para avaliar a nocao de presenca em colaboracoes remotas Como tarefa de estudo foi utilizado um puzzle pois ele atua como um representacao de atividades de alta demanda mental de forma semelhante as tarefas utilizadas no trabalho de Kim et al 7 A solucao desenvolvida pelos autores apresenta dois tipos de aviso para acoes do usuario remoto sendo eles um icone no campo de visao do HMD utilizado e outra um aviso sonoro Na avaliacao realizada foi observado os resultados para o NASATLX 6 e um questionario customizado os quais demonstram que o uso de ambas notificacoes oferece uma melhor nocao da presenca do usuario como as notificacoes visuais tendo melhor desempenho Piumsomboon et al 10 avaliam o impacto do compartilhamento de informacoes de contexto entre usuario de realidade aumentada e realidade virtual para a realizacao de tarefas simetricas e assimetricas No trabalho a tarefa simetrica corresponde a identificacao de um objeto virtual no espaco comum aos dois usuarios e a tarefa assimetrica a movimentacao desse objeto ate um objetivo Um ponto observado e que apesar dos usuarios terem o mesmo poder de decisao na realizacao dessas atividades usualmente o usuario de realidade virtual assume a lideranca Isso pode ser ocasionado pelo equipamento de realidade virtual oferecer maior liberdade ao usuario Para se avaliar esse trabalho foram definidos dois tipos de avaliacao uma avaliacao objetiva onde sao observados fatores como tempo necessario para realizar a tarefa e a quantidade de movimentos necessarios Na avaliacao subjetiva sao avaliados aspectos de usabilidade por meio do uso do SUS e questoes de interacao social por meio do metodo de avaliacao social Por fim os trabalhos apresentados demonstram que existem pesquisas envolvendo atividades colaborativas desde a construcao de sistemas a avaliacoes de fatores humanos para os diferentes modelos de interacao Porem esses trabalhos lidam com problemas simplificados que tem grande capacidade representativa mas nao sao aplicacoes reais Portanto este trabalho busca desenvolver uma pesquisa que aborde aspectos que possam ser aplicados na solucao de problemas reais da industria nesta transformacao da industria 4.0
+
+
+**OBJETIVOS, HIPOTESES E RESULTADOS ESPERADOS**
+
+Uma das principais areas em que a Realidade Aumentada (RA)
+esta sendo aplicada e a industria . Essa utilizaçao fez com que
+novas demandas surgissem, englobando desde o desenvolvimento
+de soluçoes ate como os usuarios iriam interagir com essas soluçoes.
+Dentro dessas demandas e problemas que surgiram, esse trabalho
+busca responder a seguinte pergunta: "Realidade Aumentada como
+interface de interaçao afeta a execuçao de atividades colaborativas
+na Industria 4.0?". Onde, esse impacto pode ser definido como os
+fatores humanos envolvidos na colaboraçao e o desempenho dos
+participantes na atividade proposta. E essas atividades podem ser
+dos mais diversos tipos, como inspeçoes e manutençoes de sistemas.
+Para responder esta questao optamos por gerar hipoteses de
+estudo mais especificas que auxiliam a responde-la.
+
+H1: A utilizaçao de recursos de RA resulta em um menor
+tempo para a realizaçao da tarefa;
+H2: A utilizaçao de recursos de RA resulta em uma maior
+acuracia na realizaçao da tarefa;
+H3: A utilizaçao de Head Mounted Displays (HMDs) demanda
+uma menor carga de trabalho do usuario para realizar a
+tarefa;
+H4: A utilizaçao de HMDs apresenta uma pior usabilidade;
+H5: A utilizaçao de recursos de RA melhora a interaçao entre
+os operadores durante a realizaçao da tarefa.
+Essas hipoteses representam os principais fatores observados
+na execuçao de uma atividade colaborativa: interaçao, eficiencia
+e empatia. Na Seçao 5 apresentamos os detalhes de como estas
+hipoteses serao verificadas pela execuçao de testes de experiencia
+do usuario.
+
+Por fim, esperamos que este trabalho nos de resultados suficientes
+para propor direcionamentos a comunidade cientifica e tecnica no
+desenvolvimento de aplicaçoes de realidade mista para o contexto da
+industria. Como resultados secundarios, acreditamos no potencial
+inovador da soluçao proposta como alternativa para o uso cotidiano
+em diversos segmentos.
+
+**SOLUCAO PROPOSTA**
+
+Para avaliar a pergunta e hipoteses descritas na seçao anterior
+foi definido que a tarefa de estudo sera uma inspeçao realizada
+de forma colaborativa. A Figura 1 apresenta uma visao geral de
+como funcionara a interaçao entre os dois atores (nesse caso, duas
+pessoas). Em um modelo no qual um ator representa uma pessoa
+experiente na realizaçao da tarefa enquanto outro ator representa a
+pessoa que esta realizado a tarefa.
+
+Para realizar essa interacao serao considerados recursos de comunicacao, tais como: videochamadas e recursos de interacao providos por realidade aumentada. Um exemplo da interacao por videochamada e RA esta disponivel no seguinte link: https://youtu.be/8LWMj-K7dAc. Esse link apresenta uma demonstracao do sistema desenvolvido pelos autores para o Microsoft Hololens, o qual via Realidade Mista insere recursos virtuais para destacar objetos no mundo real. Essa aplicacao sera utilizada em uma das condicoes de teste avaliadas que serao descritas posteriormente.
+
+METODOLOGIA
+
+Para avaliar a solucao proposta discutida na secao anterior serao realizados testes de experiencia do usuario seguindo a metodologia apresentada na Figura 2. Essa metodologia e baseada em avaliacoes realizadas na literatura [3].
+
+A metodologia de avaliacao de experiencia do usuario que sera utilizada e dividida em cinco etapas: (1) Apresentacao, (2) Treinamento, (3) Teste, (4) Coleta de Dados e (5) Encerramento. Na etapa de Apresentacao, o participante do teste e apresentado ao problema, a tarefa e o procedimento do teste. Na etapa de Treinamento o participante e apresentado a solucao que esta sendo validada, para que ele se familiarize com a solucao antes da realizacao do teste. Quando o usuario se sentir confiante a realizar o teste, e realizado o Teste para uma das condicoes de teste. E apos finalizar o teste sao coletadas as opinioes dos usuarios sobre o que esta sendo avaliado para essa condicao de teste. Alem disso, esse processo se repete enquanto existirem condicoes a serem avaliadas. Apos avaliar todas as condicoes e encerrado o procedimento de teste.
+
+A atividade a ser executada no Treinamento e Teste sera uma tarefa de inspecao com roteiro realizada de forma colaborativa. Na qual os usuarios iram ter como ferramenta de comunicacao uma transmissao audio-visual. Alem disso, no momento esta sendo avaliado qual sera o publico participante do teste: operadores da industria ou publico geral. Essa avaliacao e necessaria, pois e custoso recrutar operadores para participar dos testes e o publico participante interfere em qual atividade sera realizada durante o Treinamento e o Teste.
+
+De acordo com a metodologia definida, e necessario estabelecer as condicoes de teste e para isso e preciso que sejam estabelecidas as variaveis independentes (Tabela 1) e variaveis dependentes (Tabela 2) envolvidas na avaliacao.
+
+A Tabela 1 apresenta as variaveis independentes definidas para o teste. Essas duas variaveis representam caracteristicas da arquitetura da solucao proposta. Isso e, os recursos de comunicacao que serao oferecidos aos usuarios durante a atividade e o equipamento para utiliza-los.
+
+Considerando as variaveis independentes apresentadas, temos quatro possiveis condicoes de teste, descritas abaixo:
+
+(1) Utilizando dispositivo movel (handheld) sem interacao por RA;
+
+(2) Utilizando dispositivo movel com interacao por RA;
+
+(3) Utilizando dispositivo vestivel (handfree) sem interacao por RA;
+
+(4) Utilizando dispositivo vestivel com interacao por RA.
+
+Dentre as condicoes apresentadas, a condicao (1) e considerada o baseline por ser o mais proximo de como essa tipo de tarefa e realizado no ambiente real.
+
+Por fim, as variaveis dependentes (Tabela 2) observadas nessas condicoes sao relacionadas as hipoteses levantadas anteriormente. A tabela apresenta a relacao entre as variaveis dependentes, as hipoteses descritas na Secao 3 e os metodos utilizados para que seja possivel avalia-las.
+
+**CONSDIDERACOES FINAIS**
+
+O trabalho descrito busca avaliar o impacto de se utilizar recursos
+de realidade aumentada em atividades de inspeçao colaborativas no
+contexto da Industria 4.0. Como contribuiçoes, esperamos que os
+resultados obtidos permitam propor direcionamentos a comunidade
+cientifica e tecnica no desenvolvimento de aplicaçoes de realidade
+aumentada para o contexto industrial.
+
+Em relaçao ao andamento da trabalho, as aplicaçoes necessarias
+para a realizaçao dos testes estao em processo de finalizaçao e os
+testes descritos foram enviados para avaliaçao do CEP da instituiçao
+e esta no aguardo do parecer da avaliaçao.
+
+**CONSDIDERACOES FINAIS**
+
+O objetivo deste trabalho e investigar como o uso de recursos de realidade aumentada impacta atividades colaborativas na Industria 4.0. Com base na revisao da literatura e na metodologia proposta, esperamos que os resultados contribuam para o desenvolvimento de novas estrategias e soluçoes para a utilizaçao desses recursos no contexto industrial. Acreditamos que a realidade aumentada tem o potencial de transformar a forma como as atividades colaborativas sao realizadas na industria, tornando-as mais eficientes, precisas e seguras.

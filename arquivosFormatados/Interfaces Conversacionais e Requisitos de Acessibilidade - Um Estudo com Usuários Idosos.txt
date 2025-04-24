@@ -1,0 +1,163 @@
+**RESUMO**
+
+E comum que os idosos tenham dificuldades de interagir com os sis-
+temas digitais, as vezes ficando dependentes de um familiar para ajuda-los a
+realizar tarefas que o usuario medio pode considerar simples. Ao analisar o
+cenario dos chatbots e dos sistemas conversacionais, em geral, nota-se que os
+desafios esbarram nas limitaçoes de algumas plataformas, na ausencia de co-
+nhecimento previo de designers e desenvolvedores, bem como na experiencia e
+habilidade dos idosos. E preciso desenvolver tecnologias acessiveis ao publico
+em geral, atentando para as diversas etapas e atores envolvidos no processo.
+Esta pesquisa apresenta a avaliaçao de doischatbots desenvolvidos a partir de
+diretrizes especificas, considerando diferentes aspectos do desenvolvimento de
+interfaces conversacionais. Oito participantes idosos se voluntariaram a parti-
+cipar do estudo, que apontou resultados positivos por parte dos idosos intera-
+gindo com os chatbots.
+
+**1. Introduçao**
+
+Segundo o Instituto Brasileiro de Geografia e Estatistica (IBGE), em 2021, a populaçao
+idosa, definida como individuos com 60 anos ou mais, representava 14,7% da populaçao
+residente no Brasil, o que corresponde a 31,23 milhoes de pessoas [IBGE 2022]. Portanto,
+os idosos representam uma parcela significativa da sociedade e potenciais usuarios de
+tecnologia. Com a populaçao envelhecendo rapidamente, e crucial prestar cuidados e
+apoio adequados aos idosos no seu cotidiano [Martinez-Martin and del Pobil 2018].
+
+Pessoas idosas interagem com a tecnologia de forma diferente do publico
+mais jovem. Entre os motivos, e possivel citar a carencia afetiva que eles sen-
+tem ou ainda, por terem nascido em um periodo sem telas e sistemas interati-
+vos. O publico idoso classifica como uma influencia positiva o sentimento de
+presença social na percepçao de utilidade, no grau de intrusao e no sentimento de
+confiança, sendo caracterizado como presença social a impressao de que ha contato
+humano [Etemad-Sajadi and Gomes Dos Santos 2019]. Atualmente existem algumas
+soluçoes que prometem ser companheiros para idosos ou dar algum tipo de assistencia
+[Portugal et al. 2015, Valtolina and Hu 2021]. As principais funçoes de robos moveis e
+chatbots relatadas em trabalhos atualmente, dizem respeito a auxiliar os idosos a recordar
+de compromissos, consultas e horarios de medicamentos, por exemplo, alem de fornecer
+entretenimento e contactar a familia ou medico em caso de emergencia.
+
+E essencial considerar varios fatores importantes ao projetar esse tipo de artefatos.
+A usabilidade se destaca como um desses fatores. Segundo Barbosa et al. (2021), a usabilidade engloba os aspectos cognitivos do usuario, incluindo sua capacidade de interagir
+com a interface e perceber as respostas do sistema. Ele se concentra em avaliar o nivel de
+esforço que o sistema exige do usuario durante o processo de interaçao, que pode variar
+de usuario para usuario. Outro fator importante para a populaçao idosa e a acessibilidade.
+Este requisito esta contemplado nas Normas Padrao sobre Igualdade de Oportunidades
+para Pessoas com Deficiencia da Organizaçao das Naçoes Unidas (ONU) [Nations 1994].
+Ainda de acordo com Barbosa et al. (2021), acessibilidade refere-se a remoçao de barrei-
+ras que impeçam ou dificultem o acesso e a interaçao dos usuarios, sejam eles deficientes
+ou nao, com o sistema, considerando tanto o hardware quanto o software.
+
+Vale ressaltar que promover acessibilidade em sistemas computacionais e possi-
+bilitar que o maior numero de pessoas possa utilizar o sistema de forma efetiva, ao inves
+de criar soluçoes para um grupo especifico de usuarios. No entanto, alguns grupos de
+usuarios encontram mais barreiras no uso de sistemas computacionais, como individuos
+com deficiencias fisicas, motoras e cognitivas (sejam permanentes ou temporarias) e analfabetismo [Barbosa et al. 2021].
+
+**Diretrizes para Desenvolvimento de Chatbot Acessivel**
+
+Ao longo deste projeto, varios estudos foram conduzidos, que ajudaram a desenvolver
+um conjunto de diretrizes de desenvolvimento de chatbot para apoiar os profissionais en-
+volvidos no design e implementaçao de um chatbot. Primeiro, se procurou entender as
+necessidades dos usuarios em relaçao aos chatbots a partir de um estudo com 20 par-
+ticipantes utilizando o metodo Magico de Oz [Modesto de Araujo et al. 2022]. Com os
+requisitos funcionais e nao funcionais em maos, se iniciou um processo iterativo de de-
+senvolvimento de um chatbot piloto que auxiliou na realizaçao de estudos posteriores.
+A etapa seguinte envolveu a avaliaçao do conjunto inicial de diretrizes, que foi realizada
+por um grupo de 5 pesquisadores da area de design. Depois de analisar os resultados
+desse estudo, as diretrizes foram refinadas e entregues a um grupo de desenvolvedores
+para implementar chatbots com a ajuda dessas. Uma das diretrizes propostas e descrita a
+seguir:
+Nome: Inicio da conversa
+Area: Design
+Criticalidade: Alta
+Descriçao: Quando o chatbot e iniciado, uma breve descriçao de sua funcionalidade deve
+ser considerada (uma introduçao ao chatbot).
+Recomendaçoes: Recomenda-se fornecer informaçoes que ajudem os usuarios a entender
+como usar o chatbot. Por exemplo, se o objetivo de um chatbot e fornecer recomendaçoes
+de restaurantes, essa informaçao deve ser incluida na primeira interaçao.
+Justificativa: Para evitar surpresas desagradaveis e alinhar as expectativas do usuario.
+
+**Usando um chatbot criado com as diretrizes com o publico idoso**
+
+Idosos participantes de um curso de letramento digital com foco em smartphones da Uni-
+versidade de Sao Paulo foram convidados a participar do estudo e oito deles se volunta-
+riaram. Os participantes foram recrutados por conveniencia, pois eles estavam dispostos
+a vir a universidade para o estudo. Para a seleçao dos participantes, tambem foi levado
+em consideraçao o perfil do publico-alvo do aplicativo. A idade dos participantes variou de 64 a 74 anos, sendo cinco do sexo feminino e tres do sexo masculino. Esse estudo foi aprovado por Comite de Etica em Pesquisa, com numero CAAE: 57875016.3.0000.5390. 
+Dois chatbots criados com base nas diretrizes mencionadas anteriormente, foram
+avaliados. Um dos chatbots foi implementado para funcionar em um aplicativo de mensagens instantaneas e servir como um sistema de recomendacao. O outro chatbot foi
+implementado como metodo para realizacao de tarefas em um curso de uso de smartphones e abordou questoes relacionadas ao conteudo. Ambos os chatbots respondem em portugues brasileiro.
+Antes de apresentar os chatbots aos participantes, foi apresentado o Termo de
+Consentimento Livre e Esclarecido (TCLE) para que, caso concordassem, assinassem
+anteriormente a realizacao do estudo. Para realizar a avaliacao, os 8 participantes foram divididos em dois grupos de 4 indivıduos, e cada grupo interagiu com um dos chatbots.
+Ao final, uma entrevista semiestruturada foi conduzida com cada participante.
+
+Chatbot 1
+
+O chatbot que fornece recomendacoes de produtos no aplicativo de mensagens ˜ e caracterizado aqui como Chatbot 1. Como todos os participantes que interagiram com esse chatbot
+tinham o aplicativo de mensagens instantaneas necessario para a interacao, eles realizaram as atividades em seus proprios celulares, sendo necessario apenas salvar o numero de contato e iniciar a conversa. A tarefa associada consistia em informar se o participante
+queria receber uma recomendacao de compra online ou presencial, com base na cidade que inseriu, informando o numero de recomendacoes pretendidas, e depois escrever o nome do produto pretendido (ex.: camisa). Os participantes foram instruıdos a realizar a primeira etapa solicitando sugestoes de compras online e recebendo recomendacoes de lojas com base na localizacao na segunda etapa. 
+
+Chatbot 2
+
+O chatbot implementado na plataforma para realizacao de tarefas escolares foi denominado aqui de Chatbot 2. O estudo realizado envolveu responder a um questionario sobre
+curiosidades e, por fim, fazer as mesmas perguntas do questionario ao chatbot para verificar a resposta correta. No total, cada participante fez quatro perguntas ao chatbot na
+sua ordem preferida: a) Qual e a raca do menor cao do mundo?; b) O Monte Everest 
+continua crescendo?; c) A Grande Muralha da China e visıvel do espaco?; e d) Onde foi
+construıdo o edifıcio mais alto do mundo? Os participantes que interagiram com esse
+chatbot utilizaram o celular da pessoa pesquisadora que conduzia o estudo, uma vez que
+a versao do app ainda nao se encontra disponıvel para download nas lojas de aplicativos
+para smartphones.
+
+**Resultados Preliminares**
+
+Analisando as falas dos participantes, identificamos varios temas emergentes. Apesar de
+nao mencionar explicitamente a interaçao por voz, um dos problemas encontrados pelos
+idosos durante a interaçao sugere o uso de comandos de voz ou outras interaçoes nao con-
+vencionais que nao envolvam tela sensivel ao toque, teclado ou mouse. Um participante relatou: “ falta de sensibilidade nos dedos”, quando questionado sobre as dificuldades
+encontradas na interacao com o chatbot.
+Nenhum dos dois chatbots testados pelos participantes tinha uma “identidade”
+visual, como o desenho de um rosto robotico. Eles tambem nao se apresentavam usando um nome. Alguns participantes levantaram esse ponto: “tem alguns apps que tem carinha, 
+queria que tivesse carinha...”.
+Outros participantes se sentiram desconfortaveis com o tamanho das respostas, achando-as muito grandes. A insatisfacao foi observada no comentario: “ ´ Achei as
+perguntas concisas para respostas muito longas”. Dependendo do tamanho da tela do
+smartphone do idoso e das configuracoes de fonte, esse idoso conseguia ver apenas um 
+ou dois links por vez na tela.
+Outro ponto encontrado diz respeito ao tempo de resposta dos chatbots. No caso
+do Chatbot 1, a demora nas respostas ocorreu devido a inclusao de links fornecidos como
+recomendacoes para sugestoes de produtos. No chatbot 2, a demora ocorreu devido as
+explicacoes fornecidas em resposta as perguntas do usuario. 
+Sobre ter um amigo virtual, alguns participantes se sentiram confortaveis com
+o chatbot e disseram que o usariam em situac¸oes da vida real, em vez dos tradicionais
+mecanismos de busca online. Esse comportamento pode ser destacado pelos comentarios:
+“Se eu me acostumar com isso (o chatbot), eu gostaria, gostei, foi otimo.”; “Achei muito
+eficiente, mais do que o Google, que daria uma lista de opcoes.”.
+
+
+**Consideraçoes Finais**
+
+Este trabalho apresentou um estudo realizado com oito usuarios idosos interagindo com
+dois chatbots desenvolvidos a partir de diretrizes para a criaçao de chatbots acessiveis que
+teve o objetivo de valida-las.
+
+Os estudos mostraram que os participantes gostaram da interaçao com os chat-
+bots, mas por vezes apresentaram dificuldades em alguns pontos. Esse fator indicou
+a importancia de revisitar as diretrizes propostas, acrescentar informaçoes sobre de-
+sign e interaçao considerados consolidados na literatura de IHC e disponibilizar essas
+informaçoes, visando auxiliar profissionais novatos, pessoas que nao sao pesquisadoras
+de IHC, estudantes da area de computaçao e afins.
+
+As principais limitaçoes do trabalho incluem a quantidade reduzida de estudos
+com usuarios.
+
+Como trabalhos futuros e de interesse dos pesquisadores fazer as modificaçoes
+e ajustes nas diretrizes, bem como disponibiliza-las para o publico. Apos essa
+reformulaçao, novos estudos de desenvolvimento de chatbots serao conduzidos. Os novos
+chatbots serao avaliados por especialistas em IHC e por idosos usuarios de smartphones,
+que possuam ou nao letramento digital.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo reforça a importancia de projetar interfaces conversacionais que atendam as necessidades especificas dos usuarios idosos. As diretrizes propostas e os resultados preliminares apontam para a necessidade de considerar aspectos como a sensibilidade ao toque, a identidade visual dos chatbots e o tamanho das respostas. Ao incorporar essas recomendaçoes, e possivel criar sistemas mais acessiveis, usaveis e que promovam uma experiencia positiva para os idosos, contribuindo para sua inclusao digital e melhoria da qualidade de vida.
+
+**InterfacesConversacionaisRequisitosdeAcessibilidade_UmEstudocomUsuariosIdosos.txt**

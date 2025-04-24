@@ -1,0 +1,145 @@
+**RESUMO**
+
+Este artigo descreve o uso do Design Centrado no Usuario (DCU)
+no desenvolvimento de uma ferramenta de gestao para um projeto de Equote-
+rapia. O projeto surgiu da necessidade de melhorar a gestao dos dados dos
+prontuarios dos praticantes, que eram anteriormente armazenados em papel.
+A equipe de desenvolvimento adotou o DCU com o objetivo de construir uma
+ferramenta alinhada aos objetivos da instituiçao. Houve participaçao ativa dos
+profissionais da instituiçao, que contribuiram em tres ciclos do DCU, nos quais
+foram definidos requisitos, estrategias de entrada de dados e desenvolvimento
+de prototipos funcionais. Esses prototipos foram considerados satisfatorios pe-
+los usuarios.
+
+**CONTEXTUALIZACAO E PROBLEMATICA**
+
+As atividades de Equoterapia sao conduzidas em sessoes nas quais os praticantes¹
+sao posicionados sobre o cavalo e percorrem um trajeto para exercitar areas que
+precisam ser desenvolvidas, acompanhados por profissionais como fisioterapeutas e
+psicologos . Em 2023, a Equoterapia da Universidade Estadual do Norte
+do Parana (E-UENP), localizada em Bandeirantes, Parana, atendeu aproximadamente 100
+praticantes de diversos municipios da regiao, com uma variedade de necessidades.
+
+Nas sessoes, os dados sobre o comportamento e a evoluçao dos pacientes sao re-
+gistrados pelos profissionais para fins de acompanhamento, analise e tomada de decisoes.
+
+Na E-UENP, esses dados eram inicialmente registrados em papel e arquivados de forma
+tradicional, o que acarretava diversas dificuldades, como a falta de padronizaçao no pre-
+enchimento, dificuldades de armazenamento, grande volume de papel e riscos de perda,
+roubo ou acesso indevido. Esses problemas comprometeriam a privacidade, segurança e
+liberdade dos praticantes. Diante dessas dificuldades, a E-UENP identificou a necessi-
+dade de desenvolver uma ferramenta computacional para apoiar a gestao desses dados,
+que por meio de acesso controlado, recursos de backup externo e gestao da informaçao
+poderiam minimizar ou ate mesmo mitigar tais problemas.
+
+As particularidades e a multidisciplinaridade da E-UENP exigiam que os recursos
+computacionais atendessem as especificidades da area. Entretanto, as reunioes iniciais
+entre a equipe de desenvolvimento, composta por seis desenvolvedores e um coordenador
+de projeto, e a equipe de profissionais da E-UENP revelaram dificuldades na construçao
+da aplicaçao. Essas dificuldades surgiram devido a falta de consenso nos requisitos e a
+visao em alto nivel das caracteristicas da ferramenta por parte dos membros da E-UENP.
+Embora eles indicassem as necessidades de uma aplicaçao, tinham dificuldades em deta-
+lhar os pontos especificos dessas necessidades e o fluxo de execuçao das tarefas.
+
+Assim, optou-se pelo emprego do Design Centrado no Usuario (DCU), uma
+abordagem sistematica e criteriosa que coloca o usuario no centro do processo de
+design de um produto ou serviço, alem de engaja-lo durante todo o desenvolvi-
+mento [Lowdermilk 2013]. Entendeu-se que seria necessario o desenvolvimento em ci-
+clos, obtendo informaçoes, refinando, avaliando e melhorando continuamente ate chegar
+a um produto adequado para a E-UENP.
+
+**DESIGN CENTRADO NO USUARIO PARA A E-UENP**
+
+O emprego do DCU seguiu o modelo apresentado por Cybis, Betiol e
+Faust , que contempla as etapas de Identificaçao das Necessida-
+des, Especificaçao do Contexto de Uso, Definiçao dos Requisitos, Geraçao de Prototipos
+e Testes e Avaliaçoes. Foram conduzidos tres ciclos do DCU, e em cada etapa buscou-se
+produzir entregaveis que auxiliassem na construçao da aplicaçao para atender as deman-
+das da E-UENP. Da E-UENP, participaram profissionais de todas as areas essenciais para
+a pratica da equoterapia: um gestor, uma fisioterapeuta e um psicologo, representando
+diretamente suas respectivas especialidades. A equipe de desenvolvimento incluiu seis
+alunos de graduaçao em Ciencia da Computaçao, orientados por um professor do projeto.
+
+No primeiro ciclo, buscou-se alinhar com a equipe da E-UENP os objetivos do
+projeto e as funcionalidades de maior prioridade. Havia divergencias entre os envolvidos
+e, na etapa de Especificaçao do Contexto de Uso, optou-se por discutir a priorizaçao
+das funcionalidades. Foram priorizados o cadastro dos praticantes, funcionarios, animais
+e prontuarios, separados por tipo de especialidade (fisioterapia, psicologia e pedagogia),
+pois essas funcionalidades apresentavam maior risco de comprometimento dos dados pelo
+uso do papel. Na Definiçao de Requisitos, ficou estabelecido que seria uma ferramenta
+web, para uso dentro das instalaçoes da E-UENP, mas com flexibilidade para acesso de
+qualquer local com Internet. Na prototipagem, empregaram-se wireframes para definir
+fluxos de tarefas e uma organizaçao inicial da hierarquia das funcionalidades. Na etapa
+de avaliaçao, os wireframes foram apresentados aos usuarios, que indicaram pequenas
+alteraçoes, mas aprovaram a proposta.
+
+No segundo ciclo, o objetivo principal da Especificaçao do Contexto de Uso
+e da Definiçao de Requisitos foi identificar os dados necessarios para os cadastros e
+prontuarios. Foram feitas discussoes para definir a organizaçao e rotulaçao dos campos,
+assim como os tipos de dados que seriam empregados. Neste ciclo, a etapa de prototipa-
+gem foi utilizada para definir os modelos de dados que seriam aplicados na construçao dos
+formularios e, posteriormente, na construçao do banco de dados. Tambem foram criados
+prototipos para exemplificar como cada tipo de dado seria implementado, por exemplo,
+listas de seleçao, textos livres ou imagens. Os prototipos de formularios foram apre-
+sentados aos usuarios, que sugeriram correçoes relacionadas a organizaçao e rotulaçao
+de elementos e a ordem de alguns campos, permitindo assim a aprovaçao do modelo de
+dados.
+
+Por fim, no terceiro ciclo, os entregaveis anteriores foram utilizados para a
+construçao das interfaces graficas. Na etapa de Requisitos, buscou-se definir quais seriam
+as estrategias de design, bem como os aspectos de identificaçao visual, definiçao de fon-
+tes, cores, logomarca e demais padroes visuais. Foram construidos prototipos utilizando
+as linguagens HTML, CSS e JavaScript , a fim de prover meios interativos
+com maior similaridade com o produto final a ser entregue.
+
+Os prototipos foram avaliados pelos usuarios, que consideraram a proposta satis-
+fatoria, uma vez que permitiria uma gestao dos dados eficiente e padronizada. Foram so-
+licitadas e aplicadas correçoes consideradas pequenas e simples como ajustes no esquema
+de cores e revisao de alguns tipos de dados. Na Figura 1 e mostrado um exemplo de en-
+tregavel produzido em cada ciclo do DCU e apresentados aos usuarios para discussao e
+evoluçao da proposta de ferramenta.
+
+**RESULTADOS E LICÕES APRENDIDAS**
+
+O emprego do DCU no projeto da E-UENP permitiu que o projeto evoluisse de forma
+sustentavel, especialmente em aspectos como: (1) compreensao do trabalho da E-UENP,
+uma vez que a equipe de desenvolvimento nao conhecia os processos empregados, e a
+
+execuçao de varios dos ciclos do DCU permitiu que os conceitos amadurecessem e fos-
+sem refinados por meio da produçao dos entregaveis apresentados; (2) definiçao de fun-
+cionalidades prioritarias, uma vez que havia a necessidade de um sistema de gestao para
+a E-UENP, mas os diretores e funcionarios apresentavam ideias amplas e, algumas vezes,
+contraditorias; e (3) na definiçao dos atributos e das estrategias de entrada de formularios
+foi fundamental para garantir a proposiçao de uma ferramenta para atender as demandas
+dos profissionais em relaçao a gestao de dados, assim como fez ser conhecida, por todos
+no projeto, a importancia da definiçao de padroes de dados.
+
+Destaca-se tambem que este projeto contou com a participaçao de alunos do curso
+de Ciencia da Computaçao da UENP, que tiveram a oportunidade de aplicar na pratica
+um metodo discutido em disciplinas de Interaçao Humano-Computador e Engenharia de
+Software, o qual, anteriormente, tinham estudado de forma superficial ou abstrata limitada
+aos conceitos da sala de aula, agregando conhecimento para suas carreiras. Por fim, o
+uso de prototipos de alta fidelidade, construidos com linguagens de programaçao, foi
+muito eficaz com os usuarios, pois permitiu uma interaçao proxima a realidade com os
+formularios, o que foi fundamental para validar se os mesmos atendiam as demandas de
+entrada de dados dos profissionais.
+
+**CONSIDERACOES FINAIS E MINIBIOGRAFIA**
+
+O Design Centrado no Usuario (DCU) e uma abordagem que considera o usuario como
+elemento central para o desenvolvimento de aplicaçoes interativas, na qual o mesmo atua
+de forma participativa e/ou consultiva nos projetos, e suas necessidades devem ser obser-
+vadas de maneira holistica pelos desenvolvedores.
+
+No projeto E-UENP, o DCU foi aplicado como um mecanismo para apoiar a
+construçao de um software de gestao de dados de prontuarios dos praticantes, demanda
+levantada pela universidade devido aos riscos de perda de dados. Alem dos aspectos vi-
+suais da interface e da construçao de prototipos interativos, o DCU apoiou a priorizaçao
+de tarefas e a definiçao de metadados. A participaçao dos usuarios, profissionais da E-
+UENP, foi fundamental para alinhar as caracteristicas do sistema com as necessidades
+da instituiçao. Assim, acredita-se que a adoçao da ferramenta proposta sera de grande
+importancia para os objetivos da E-UENP.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o uso do Design Centrado no Usuario (DCU) no desenvolvimento de um sistema de gestao de dados para a Equoterapia da E-UENP se mostrou eficaz, permitindo a criaçao de uma ferramenta alinhada as necessidades dos profissionais e usuarios. A abordagem DCU possibilitou a compreensao do trabalho da E-UENP, a priorizaçao de funcionalidades e a definiçao de atributos e estrategias de entrada de dados. A participaçao dos alunos do curso de Ciencia da Computaçao da UENP proporcionou a aplicaçao pratica dos conceitos aprendidos em sala de aula. Em suma, o DCU se mostrou fundamental para o sucesso do projeto, garantindo a criaçao de uma ferramenta que atendesse as demandas dos profissionais e contribuisse para os objetivos da E-UENP.

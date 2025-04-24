@@ -1,0 +1,81 @@
+**INTRODUCAO**
+
+As tecnologias digitais tem importante papel na sociedade atual, tanto no setor publico
+quanto no privado, automatizando tarefas que antes eram feitas manualmente e melho-
+rando os processos e resultados das atividades. Considerando a influencia das tecnologias
+digitais nas mais diversas areas, como na educaçao, e importante garantir que o hardware
+e o software utilizados atendam as necessidades dos usuarios . As-
+sim, e necessario projetar e executar iniciativas alinhadas as expectativas dos stakeholders,
+sejam eles usuarios finais, membros da equipe de gestao/negocio ou desenvolvedores.
+
+Neste contexto, desde 2021, o PNLD Avaliaçao tem sido uma plataforma que fa-
+cilita a comunicaçao entre o Ministerio da Educaçao (MEC) e professores, que atuam
+como avaliadores pedagogicos de obras. Essas obras, se aprovadas, podem ser incluídas no Programa Nacional do Livro e do Material Didatico (PNLD). Este programa, relevante politica publica, possui 85 anos e ja distribuiu mais de 172 milhoes de materiais didaticos, pedagogicos e literarios para mais de 150 mil escolas, beneficiando mais de 32 milhoes de alunos em mais de 5 mil municipios do pais e movimentando cerca de R 1 bilhao anualmente [Bem Parana 2023]. Dada a importancia e a complexidade do PNLD, e essencial estabelecer uma comunicacao efetiva entre os usuarios finais e a equipe de desenvolvimento, visando garantir o atendimento preciso das demandas atuais, lidar com situacoes imprevistas e considerar as necessidades e melhorias futuras. Logo, a gestao de projetos desempenha um papel fundamental ao aplicar praticas, tecnicas e habilidades para o planejamento, coordenacao e desenvolvimento de projetos, permitindo que as decisoes sejam fundamentadas em metodos e estrategias eficientes [Espinha 2023]. E neste sentido que o objetivo deste trabalho volta-se a relatar a integracao de IHC em processos de desenvolvimento de software, otimizando a experiencia do usuario do PNLD Avaliacao. Para tanto, e adotada uma abordagem estruturada em processos, baseada no Guia PMBOK, composta por cinco grupos de processos: iniciacao, planejamento, execucao, monitoramento e controle, e encerramento [PMI 2017].
+
+
+**APLICAÇAO DA SOLUÇAO E RESULTADOS**
+
+A soluçao empregada consistiu em transformar cada um dos cinco grupos de processo em
+um unico, trazendo detalhes de usuario, tarefa, contexto e software e hardware necessarios
+para desenhar o cenario atual e prospectar situaçao otimizada. Inicialmente, utilizou-
+se uma logica linear baseada em etapas, contudo, percebeu-se que o sentido ideal seria
+multiplo e nao retilineo. Assim, as 5 etapas formaram um ciclo virtuoso retroalimentado.
+
+Durante a etapa de definiçao de cenario, foram identificados os papeis desem-
+penhados por cada membro do projeto e os perfis dos usuarios. Uma pesquisa de-
+talhada das interaçoes entre a equipe de desenvolvimento, os stakeholders e os clien-
+tes, incluindo as ferramentas utilizadas nessas interaçoes, foi conduzida e documenta-
+das as informaçoes obtidas, embasando o proximo estagio do processo. Na etapa de
+formulaçao de estrategias, o cenario identificado anteriormente foi considerado, resul-
+tando na elaboraçao de estrategias para organizar a equipe, utilizar ferramentas apropria-
+das e otimizar a comunicaçao com o cliente. Mais uma vez, um documento foi preparado
+para definir as açoes a serem implementadas. Durante a aplicaçao da soluçao, os docu-
+mentos produzidos apoiaram a implementaçao de açoes otimizadas. Diferente das etapas
+anteriores, essa etapa nao resultou em documentos, destacando-se pelo uso de praticas
+guiadas a resolver possiveis falhas identificadas na gestao e execuçao das interaçoes. No
+processo de verificaçao e controle, os gerentes analisaram a aplicaçao da soluçao e co-
+letaram dados quantitativos e qualitativos por meio de percepçao e mediçao, registrando
+suas observaçoes sem rigor tecnico ou academico. Na etapa de produçao de artefa-
+tos, as percepçoes e anotaçoes dos gerentes, provenientes dos processos anteriores, fo-
+ram combinadas para criar um documento importante que permitiu medir os resultados e
+compara-los ao cenario inicialmente levantado. Esses artefatos representam a sintese do
+conhecimento adquirido, fundamental para retroalimentar o ciclo.
+
+Nesse contexto, evidenciou-se que a integraçao de IHC nas praticas de adotadas
+no projeto tiveram um impacto positivo na relaçao e na experiencia dos membros do pro-
+jeto e demais partes interessadas. E valido destacar a maior evidencia dada ao cliente,
+principalmente, nas reunioes semanais para revisao de requisitos e priorizaçao de demandas, nos pontos de controle para interacoes e no uso do Monday.com para acompanhar as demandas. Houve, ainda, uma ampliacao nos canais de comunicacao, fortalecimento da participacao e dialogo entre stakeholders, reducao no tempo necessario para compreender e atender as demandas, e concentracao da formalizacao de requisitos e solucoes no Gitlab.
+
+**CONSIDERAÇOES FINAIS**
+
+Diante da aplicaçao da soluçao foi possivel perceber o quanto e importante rever os
+processos na busca da otimizaçao do desenvolvimento de tecnologias e experiencia do
+usuario, alinhando a integraçao de IHC. Esta experiencia pode ser vista em duas perspec-
+tivas: uma diretamente ligada a utilizaçao da plataforma e outra em relaçao ao dialogo e
+interaçao estabelecidos, sobretudo, com o time de negocios do projeto.
+
+O principal desafio consistiu em reformular a logica de comunicaçao nas reunioes
+e nas plataformas utilizadas para este fim. Indicar ferramentas para ampliar a interaçao
+entre os stakeholders foi algo relativamente simples, mas, organizar a utilizaçao de cada
+uma delas precisou de mais atençao. O principal aprendizado adquirido foi o de que e ne-
+cessario organizar a gestao de projeto centrada nos recursos humanos. Talvez pareça meio
+incoerente focar nas pessoas e nao nos processos em si, contudo, formular açoes ou pro-
+cessos sem considerar quem ira executa-los e algo que nao pode ocorrer. Destaca-se que
+quanto maior for a participaçao dos diversos grupos que compoem o projeto, maior sera a
+assertividade em relaçao as funcionalidades planejadas e entregues, aumentando a confor-
+midade com os requisitos e a precisao no uso das tecnologias. Neste sentido, percebeu-se
+uma mudança positiva em relaçao ao numero de demandas entregues e satisfaçao do cli-
+ente com feedback coletado, trazendo aprendizado que realimente o ciclo.
+
+Por fim, e importante ressaltar que o relato aqui apresentado constitui o inicio
+da reformulaçao e aplicaçao de boas praticas de gestao de projetos para melhorar a ex-
+periencia do usuario na utilizaçao do PNLD Avaliaçao. Como foi sugerido no ciclo de
+processos, deve haver uma realimentaçao da gestao, a fim que o conhecimento produzido
+seja utilizado como base para uma “nova rodada" de açoes. Em todo caso, e impres-
+cindivel dar voz a todos e todas que queiram contribuir com a melhoria dos processos.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo demonstrou a relevancia da integraçao da interaçao humano-computador (IHC) nos processos de desenvolvimento de software, visando otimizar a experiencia do usuario. A aplicaçao da abordagem estruturada em processos, baseada no Guia PMBOK, permitiu transformar cada etapa em um ciclo virtuoso retroalimentado, com foco no usuario e suas necessidades. A participaçao dos stakeholders, o fortalecimento da comunicaçao e a otimizaçao das ferramentas utilizadas foram elementos-chave para o sucesso da implementaçao. Ao priorizar a gestao centrada nos recursos humanos, a iniciativa promoveu maior assertividade nas funcionalidades planejadas e entregues, aumentando a satisfaçao do cliente. Em suma, este trabalho ressalta a importancia de dar voz a todos os envolvidos no processo, buscando continuamente a melhoria e a inovaçao.
+
+```

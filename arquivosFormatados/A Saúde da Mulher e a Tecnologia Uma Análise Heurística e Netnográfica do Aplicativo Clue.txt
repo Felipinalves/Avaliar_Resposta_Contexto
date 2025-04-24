@@ -1,0 +1,409 @@
+**RESUMO**
+
+Com a difusao de aplicaçoes para apoio a cuidados pessoais
+e a propagaçao do ciberfeminismo e do ativismo digital,
+surgem tanto aplicativos voltados a saude da mulher quanto
+ciberespaços voltados ao tema. Neste cenario, avaliamos o
+Clue, um aplicativo para monitoramento de controle
+menstrual, o qual, alem de ser bem avaliado nas lojas de
+apps, como a App Store e o Google Play, tambem conta
+com usuarias assiduas as quais utilizam grupos para
+discorrer sobre o funcionamento deste e dos assuntos que o
+aplicativo aborda (ciclo menstrual, periodo fertil, etc). Para
+esta avaliaçao, foi aplicado o metodo de Avaliaçao
+Heuristica e realizado um estudo etnografico online
+(Netnografia) sobre discussoes pautadas sobre o tema em
+um grupo especifico do Facebook. Foi constatado que a
+aplicaçao possui poucos problemas de usabilidade
+considerados catastroficos, porem existe uma quantidade
+consideravel de usuarias que relatam dificuldades no
+manejo de algumas de suas funcionalidades.
+
+
+**INTRODUCAO**
+
+E notorio que a tecnologia esta presente na vida cotidiana
+da grande maioria da populaçao e que, na atualidade, ela
+esta presente inclusive nos cuidados com a saude. Cada vez
+mais sao difundidas aplicaçoes que tem como proposito
+facilitar os cuidados pessoais, seja atraves de lembretes para
+beber mais agua, seja para cuidados mais intimos.
+
+Uma area que tem sido explorada com essas aplicaçoes e a
+da saude da mulher pois, com a propagaçao da quarta onda
+feminista (ciberfeminismo) e o ativismo digital, tem-se um
+empoderamento feminino mediado pelas redes e pela
+internet. Segundo Rocha , o ciberfeminismo
+compreende-se tanto pela inserçao/participaçao de ativistas
+do movimento social feminista, quanto por pessoas que nao
+detem conhecimento previo acerca da tematica. E, de
+acordo com Ferreira , os ciberespaços feministas
+objetivam atrair mais jovens e desconhecedores da causa,
+esclarecendo temas e conceitos do movimento.
+
+Assim sendo, assuntos relativos a sexualidade feminina
+estao cada vez mais em voga, e, tendo em vista que o
+organismo feminino e afetado pelo ciclo menstrual o tempo
+todo, seja influenciando no humor, na libido ou, ate mesmo,
+na sensibilidade, os aplicativos desta area nao so auxiliam
+no entendimento corporal e nas influencias do ciclo
+menstrual sobre o corpo, mas tambem geram topicos de
+discussao em diversos canais, como grupos de Facebook e
+Whatsapp.
+
+Neste cenario, o trabalho desenvolvido buscou analisar as
+discussoes sobre aplicativos de saude da mulher em um
+grupo feminino no Facebook e, tambem, explorar de forma
+aprofundada uma destas aplicaçoes. A partir desta analise
+inicial, houve a seleçao do aplicativo Clue, sobre o qual
+foram feitas analises de usabilidade atraves da aplicaçao do
+metodo de Avaliaçao Heuristica, assim como uma pesquisa
+qualitativa sobre topicos do grupo, caracterizando um
+Estudo Netnografico.
+
+Para compreensao do trabalho realizado, na segunda seçao
+e descrita a metodologia que foi utilizada, na terceira o
+detalhamento da avaliaçao realizada, com a aplicaçao da
+Avaliaçao Heuristica e da Netnografia, na quarta seçao uma
+discussao sobre os resultados obtidos e, por fim, na ultima secao sao apresentadas as consideracoes finais deste estudo,
+seguidas pelas referencias utilizadas em sua elaboracao.
+
+
+**METODOLOGIA**
+
+Para realizaçao deste trabalho, primeiro foi feita uma
+analise de aplicativos disponiveis para cuidados com a
+saude da mulher, assim como um breve levantamento sobre
+os mais usados dentre as participantes do grupo de
+Facebook utilizado na etapa de analise netnografica, e
+escolhido o aplicativo a ser avaliado. Apos, foram aplicados
+os metodos de Avaliaçao Heuristica e a Netnografia. Por
+fim, foi realizada uma discussao acerca dos resultados
+obtidos e metodos utilizados.
+
+A Figura 1 apresenta estas fases, as quais serao descritas
+nas subseçoes a seguir.
+
+A Metodologia adotada:
+Analise Inicial dos aplicativos e comunidades
+Escolha do aplicativo
+Avaliaçao
+- Principais problemas de interaçao
+- Eficiencia e eficacia
+- Analise da comunidade
+Avaliação Heurística
+Netnografia
+Discussao
+
+Analise Inicial dos Aplicativos e Comunidades
+Tendo em vista explorar os diferentes aplicativos existentes
+de saude para a mulher, o grupo decidiu por focar em
+aplicativos para controle de ciclo menstrual. Fez-se uma
+analise sobre as avaliaçoes disponiveis em lojas de
+aplicativos, como a App Store e o Google Play, assim como
+sobre quais aplicativos eram melhor avaliados em grupos
+femininos no Facebook.
+
+Quanto a analise das comunidades, esta sera descrita em
+detalhes quando da descriçao da aplicaçao da Netnografia.
+
+Escolha do Aplicativo
+Escolheu-se entao, dentre as aplicaçoes com mais de 4
+estrelas no Google Play e na App Store , o Clue,
+por ser um dos mais comentados no grupo, com diversas
+discussoes relevantes sobre seu manuseio, e tambem, por
+ter uma interface bastante intuitiva mas com alguns pontos
+a serem ressaltados e possivelmente melhorados, conforme
+relatos no grupo.
+
+O aplicativo Clue tem como objetivo monitorar o ciclo
+menstrual, lembrando as usuarias sobre as datas de sua
+menstruaçao, periodo fertil e ate mesmo sobre o inicio e fim
+de seu periodo de TPM (Tensao Pre-Menstrual). O Clue
+nao apenas serve como um calendario da saude feminina,
+mas tambem possibilita armazenar informaçoes sobre
+relaçoes sexuais, dores, secreçoes, controle de metodos
+contraceptivos e temperatura corporal, auxiliando a
+encontrar padroes durante seu ciclo menstrual.
+
+Dentre os aplicativos de controle de ciclo menstrual
+disponiveis, o Clue possui uma interaçao simples e um
+padrao de interface que foge do tema rosa floral dos
+demais, o que acaba por causar uma maior adesao ao
+mesmo. Foi escolhido por sua relevancia comprovada nos foruns analisados, assim como por sua avaliacao nas
+lojas de aplicativos, conforme descrito anteriormente.
+
+
+
+A avaliaçao
+Para avaliaçao foram escolhidos dois metodos: a Avaliaçao
+Heuristica e a Netnografia. A escolha desses metodos se
+deu por dois motivos principais: investigar se os tipos de
+problemas encontrados por ambos seriam complementares
+ou se seriam encontrados novos problemas relatados por
+seus usuarios, em seu dia a dia de uso; estudar um
+metodo (Netnografia) que nao e comumente trabalhado em
+atividades de sala de aula e, assim, aprofundar os estudos na
+area de avaliaçao de IHC (Interaçao Humano-Computador).
+
+A Avaliaçao Heuristica e uma ferramenta de inspeçao de
+usabilidade e, de acordo com Nielsen , e o metodo mais
+informal e comum de avaliaçao.
+
+Esta avaliaçao tem o objetivo de verificar a conformidade
+do sistema com um padrao preestabelecido (conjunto de 10
+heuristicas visto na Figura 3), identificando possiveis
+problemas na interaçao do usuario com o sistema e sua
+interface.
+
+1. Visibilidade de Estado do Sistema
+
+2. Correspondencia entre o Sistema e o Mundo Real
+
+3. Controle e Liberdade do Usuario
+
+4. Reconhecimento em vez de Memorizaçao
+
+5. Eficiencia e Flexibilidade de Uso
+
+6. Consistencia e Padronizaçao
+
+7. Ajuda aos Usuarios a Reconhecerem, Diagnosticarem e se Recuperarem de Erros
+
+8. Prevençao de Erros
+
+9. Ajuda e Documentaçao
+
+10. Estetica e Design Minimalista
+
+Sendo um metodo de inspeçao, a Avaliaçao Heuristica e
+realizada do ponto de vista de especialistas, que se colocam
+no lugar do usuario. Sao recomendados de 3 a 5
+especialistas, os quais, a partir da definiçao da porçao da
+interface/sistema a ser avaliada, a percorrem
+individualmente, inspecionando-a com base nas heuristicas
+anteriormente citadas. Apos a finalizaçao das avaliaçoes
+individuais, o grupo de especialistas se reune a fim de
+consolidar suas avaliaçoes, elaborando uma lista unica de
+problemas, a qual contem a descriçao detalhada de cada
+problema encontrado, a heuristica associada (ferida), o grau
+de severidade do problema e uma sugestao para seu
+redesign.
+
+De acordo com Kozinets , Netnografia e o nome dado a
+um conjunto especifico de praticas de pesquisa eticas e
+representacionais, que envolve coleta e analise de dados
+relacionados. A Netnografia difere de outra pesquisa
+qualitativa na internet pois oferece um conjunto rigoroso de
+diretrizes para a realizaçao de etnografia mediada por
+computador, e tambem sua integraçao com outras formas de
+pesquisa cultural.
+
+A Netnografia visa inserir o pesquisador no ambiente de
+observaçao, de forma que este consiga extrair, deste,
+informaçoes em seu carater "mundo real". Seis sao os
+procedimentos da Netnografia propostos por Kozinets :
+
+Planejamento: saber o foco da pesquisa; ler estudos
+relacionados; encontrar grupos online sobre o tema a
+ser investigado; ter contato com a comunidade online
+escolhida, familiarizando-se com
+seus membros,
+linguagens, interesses e praticas; obter aprovaçao para
+elaboraçao da pesquisa no grupo em questao.
+Entree: pesquisador deve integrar o grupo pesquisado,
+de forma a agir como um membro, mas tambem
+deixando claro seu carater investigativo. Deve
+participar da comunidade de forma a se habituar as
+interaçoes, terminologias, etc.
+Coleta de dados: a coleta de dados netnograficos pode
+ter 3 abordagens: analise sobre dados historicos do
+grupo, ou seja, sobre informaçoes presentes neste sem
+haver interaçao com o pesquisador; dados instigados
+por perguntas, isto e, quando o pesquisador cria
+perguntas para o grupo, e seus membros interagem; e,
+anotaçoes, as quais sao as observaçoes do analista
+frente a comunidade, seus membros, interaçoes e
+significados.
+Analise de dados: a analise de dados netnografica e
+essencialmente qualitativa, e busca decompor e
+detalhar as informaçoes levantadas, com um objetivo.
+Resultados: a etapa final da Netnografia consiste na
+analise do conjunto de dados levantados, divulgando,
+assim, seus resultados.
+
+Apos a aplicaçao da Avaliaçao Heuristica e da Netnografia,
+os resultados obtidos em ambas foram analisados e
+comparados pelo grupo.
+
+A seguir serao apresentados os passos seguidos na
+avaliaçao do Clue tanto pelo metodo de Avaliaçao
+Heuristica quanto pela Netnografia.
+
+A Avaliaçao Heuristica do Clue foi realizada por tres alunas
+de graduaçao, sendo uma aluna do curso de Sistemas da
+Informaçao e duas do curso de Engenharia de Software.
+Todas possuem experiencia previa com aplicaçao de
+Avaliaçao Heuristica, adquirida em disciplina da area de
+IHC de seu curso de graduaçao, e uma, em especifico, ainda
+participou de um projeto de iniciaçao cientifica na area,
+tendo uma maior experiencia na aplicaçao de metodos de
+avaliaçao de IHC. As avaliadoras conheceram o aplicativo
+recentemente e nao possuiam conhecimento previo sobre o
+uso do mesmo. O aplicativo foi utilizado por um pequeno
+periodo de tempo, durante o qual cada avaliadora
+individualmente - pode compreender o aplicativo e capturar
+as falhas de usabilidade encontradas. A avaliaçao foi feita
+com tres aparelhos, sendo eles: um Iphone 5s e um Iphone 7
+(ambos com sistema operacional iOS) e um Moto G 3ª
+geraçao (com sistema operacional Android).
+
+Apos a consolidaçao dos dados, foram encontrados 13
+problemas de usabilidade. A cada problema encontrado foi
+atribuido um grau de severidade, para que eles pudessem
+ser agrupados como erros cosmeticos, pequenos, grandes ou
+catastroficos, facilitando assim, a compreensao sobre o
+valor real dos erros encontrados. Podemos ver, na Figura 4, que apresenta a quantidade de erros encontrada
+em cada categoria.
+E possivel perceber que foi encontrado
+apenas 1 problema catastrofico, seguido pelo empate entre
+grandes e pequenos erros, que contabilizam 6 erros cada.
+
+O gráfico da Figura 5 apresenta a distribuiçao dos
+problemas por heuristica (o grafico apresenta as heuristicas
+com nomes reduzidos para facilitar a visualizaçao). E
+importante ressaltar, tambem, que cada problema pode
+violar mais de uma heuristica, por isso a soma das
+heuristicas violadas ultrapassa o valor total de problemas
+encontrados. Analisando este grafico, podemos notar que a
+violaçao de heuristica mais recorrente e a de Controle e
+Liberdade do Usuario, o que prova que o sistema nao
+apresenta claramente um sistema de saida para um estado
+indesejado em mais de uma oportunidade. A heuristica de
+Ajuda e Documentaçao e a segunda mais frequentemente
+aplicada, mostrando que mais um problema recorrente do
+sistema e a falta de ajuda ou documentaçao sobre certos
+aspectos da aplicaçao.
+A seguir, apresentamos alguns dos problemas recorrentes
+que foram encontrados durante as avaliaçoes.
+
+Tela Inicial
+
+Heuristica Violada: Ajuda e documentaçao
+Grau de Severidade: 3
+
+Problema: Nao existe um botao de ajuda/orientaçao na tela
+principal em qualquer momento, apenas quando e
+informado que houve sangramento no dia atual
+
+Heuristica Violada: Visibilidade do estado do sistema
+Grau de Severidade: 3
+
+Problema: Caso as informaçoes que foram cadastradas no
+inicio da utilizaçao do Aplicativo sejam modificadas, a
+figura de ciclo da tela inicial nao e atualizada (Figura 6).
+
+Tela de Calendario iOS
+Heuristica Violada Reconhecimento ao inves de memorizacao
+Grau de Severidade 3
+Problema Nao existe indicacao de que ao arrastar para cima especificamente no sistema operacional iOS as informacoes do dia selecionado no calendario e possivel ver em lista as informacoes de todo o mes Por nao haver essa informacao o usuario nao sabe que ha tal visualizacao acreditando que e possivel ver a informacao de cada dia apenas quando ele esta selecionado na visao calendario Figura 7
+
+Tela de Calendario Android
+Heuristica Violada Reconhecimento em vez de memorizacao
+Grau de Severidade 2
+Problema O usuario do sistema pode adicionar etiquetas a cada dia da semana para descrever o dia e suas sensacoes mas ao analisar o decorrer do mes nao e possivel identificar o que foi selecionado a cada dia pois as etiquetas sao apresentadas como pequenos quadradinhos coloridos Figura 8
+
+Tela de Analise
+Heuristica Violada Controle e liberdade de usuario
+Grau de Severidade 2
+Problema Nao ha um botao que permita retornar a tela anterior obrigando o usuario a deduzir que deve clicar em algum dos botoes do rodape do aplicativo Figura 9
+Heuristica Violada Ajuda e documentacao
+Grau de Severidade 2
+Problema Nao ha uma opcao para buscar ajuda ou obter informacoes sobre o proposito da tela no geral Figura 9
+
+Clue Connect
+Heuristica Violada Correspondencia entre o sistema e o mundo real
+Grau de Severidade 4
+Problema Quando um usuario quer compartilhar o seu ciclo ele pode gerar um codigo e enviar para a pessoa que podera ter acesso a suas informacoes mas quando o novo usuario tenta utilizar seu codigo de acesso na opcao de Adicionar o Ciclo de Alguem o sistema apresenta uma mensagem para convidar alguem para ver o seu ciclo sem apresentar uma opcao para inserir o codigo enviado por outro usuario Figura 10
+
+Heuristica Violada Correspondencia entre o Sistema e o Mundo Real
+Grau de Severidade 4
+Problema Ao solicitar a opcao de Adicionar o Ciclo de Alguem o sistema apresenta uma mensagem para convidar alguem para ver o seu ciclo mas deveria mostrar uma tela para inserir o codigo enviado por outro usuario Figura 10
+Tela de Geracao de Relatorio
+Heuristica Violada Controle e Liberdade do Usuario
+Grau de Severidade 2
+Problema O relatorio e gerado a partir do ciclo selecionado porem quando se deseja selecionar as entradas feitas dentro do ciclo ele permite apenas que todas sejam incluidas no relatorio nao podendo gerar o relatorio de apenas uma semana por exemplo Figura 11
+
+Tela de Registro de Peso
+Heuristica Violada Controle e Liberdade do Usuario
+Grau de Severidade 3
+Problema 1 Nao ha opcao de voltar para a tela anterior
+Problema 2 Caso o botao Feito seja clicado todas as informacoes sao salvas e nao sera possivel cadastrar mais informacoes Figura 12
+Heuristica Violada Consistencia e Padronizacao
+Grau de Severidade 3
+Problema Nao ha um botao no teclado numerico para registrar o peso Figura 12
+
+Tela de Registro de Informacoes
+Heuristica Violada Ajuda e Documentacao
+Grau de Severidade 2
+Problema Nao ha opcao para buscar ajuda ou obter informacoes sobre o proposito geral da tela apenas para cada uma das informacoes a ser adicionada Figura 13
+Heuristica Violada Controle e Liberdade de Usuario
+Grau de Severidade 2
+Problema Nao ha opcao de voltar para a tela anterior obrigando o usuario a registrar informacoes no dia selecionado Figura 13
+
+Aplicacao da Netnografia
+Tendo em vista observar pessoas em ambientes naturais e com o intuito especifico de analisar as interacoes de mulheres com a aplicacao Clue utilizou-se dos conceitos de Netnografia para discorrer a analise Esta foi realizada utilizando os metodos para estudos netnograficos propostos por Kozinets 3 sendo eles os procedimentos de Planejamento Escolha da comunidade e Entree Coleta de dados Analise de dados e Resultados conforme descrito na apresentacao da Metodologia
+Planejamento Escolha da Comunidade e entree
+Com o foco de investigar a utilizacao de aplicativos de controle menstrual na etapa de planejamento fez-se uma selecao entre grupos do Facebook com o tema Saude da Mulher analisando-se quais os temas mais abordados nos grupos assim como nivel de interacaocontribuicao das comunidades para com os levantamentos postados no forum
+O grupo escolhido para investigacao foi o Adeus Hormonios Contracepcao Não-Hormonal o qual conta com 136634 membros e um historico de publicacoes bastante ativo Para a escolha foi feito o entree no grupo e analisado se havia quantidade significativa de postagens abordando questoes referentes a aplicativos de controle menstrual e saude da mulher incluindo o Clue e esta comunidade demonstrou ter quantidade de informacao satisfatoria para a analise portanto esta foi a selecionada
+Por fim foram planejadas as questoes referentes a aspectos eticos onde foi elaborada a solicitacao de permissao para pesquisa netnografica na comunidade permissao a qual foi concedida pela moderadora do grupo Figura 14 Apos a aprovacao da solicitacao deuse andamento as etapas de levantamento de dados e analise
+
+Coleta de Dados
+Apesar de se ter autorizacao para coleta de dados via questoes aos integrantes da comunidade se decidiu por apenas analisar as informacoes historicas presentes no grupo por concluirmos ja serem informacao suficiente para a consolidacao da analise Para isso utilizou-se no filtro de pesquisa do forum a palavra Clue e entao busca-se todas as postagens que tivessem o nome do aplicativo em sua descricao
+Como o foco estava na indicacao de algum problema de interacao pelo usuario e nao na solucao deste pelos demais membros da comunidade nao foram analisadas as respostas as postagens encontradas e nem postagens em que o nome do aplicativo aparecia somente nos comentarios
+
+Por fim gerou-se um arquivo com todas as postagens a partir da aplicacao do filtro levantando um total de 43 postagens
+Analise de Dados
+A analise netnografica de acordo com Kozinets 3 envolve uma abordagem indutiva de analise de dados qualitativos Analise significa o exame detalhado de um todo decompondoo em suas partes constituintes e comparandoas de diversas formas Ainda conforme o autor a interpretacao faz referencia a classificacao analise e posterior interpretacao dos dados coletados
+Apos a coleta das informacoes pertinentes no grupo foi realizado o processo de analise dos dados coletados a codificacao e organizacao dos temas a representacao dos dados e a formulacao de uma interpretacao deles de acordo com Creswell 1 Como ferramenta para armazenamento e codificacao foi utilizado o software NVivo2
+Resultados
+Ao analisar os dados historicos do grupo com a tag Clue foram criados codigos conforme apresentado na Figura 15
+O Nome indica o codigo classificado Arquivos sao quantos documentos com informacoes foram analisados e Referencias indica quantas vezes aquele codigo foi citado
+Os codigos que tratavam de temas nao pertinentes a analise da aplicacao em si e sim de assuntos abordados tanto na comunidade quanto na aplicacao foram agrupados a fim de diminuir a complexidade Tambem haviam postagens que abordavam mais de um topico portanto tais foram categorizadas em mais de um grupo
+
+Por conseguinte foram geradas nove categorias conforme segue
+Duvidas sobre o app este nicho foi o mais referenciado 17 vezes e apresentou principalmente duvidas sobre funcionalidades do aplicativo tais como o que significavam algumas das siglas como inserir informacoes de temperatura basal nao existia um botao para isso ate a ultima versao tambem foi notificado no codigo de Ausencia de Requisito qual a quantidade de ciclos necessaria ate ele ser mais assertivo nas previsoes mensais Foi constatado aqui que a aplicacao apresenta um certo nivel de complexidade e alguma ausencia de informacoes de ajuda
+Problema de interacao neste grupo foram incluidas as postagens em que haviam reclamacoes de erros na aplicacao totalizando 7 As principais reclamacoes se referem a dificuldade para cadastro de informacoes e erro ao cadastrar assim como problemas no calendario
+Indicacao apps neste foram marcadas as postagens em que as participantes do forum gostariam de receber indicacoes de aplicativo porem ja conheciam o Clue e o citaram na postagem Tambem houveram casos de usuarios do Clue pedindo indicacoes de outras aplicacoes por nao julgarem que o Clue atendeu suas expectativas eou relatando ausencia de algum requisito presente tambem na categoria de Ausencia de Requisito e de usuarios fazendo um comparativo entre o Clue e algum outro aplicativo do mesmo genero
+Ausencia de requisito foram observados 5 casos em que as usuarios relataram falta de funcionalidades por parte do Clue sendo elas ausencia de adaptabilidade a um ciclo maior que 28 dias como essa na verdade e uma funcionalidade da aplicacao portanto tal relato tambem foi referenciado na categoria de Problema de interacao ausencia de historico em casos de mudanca de aparelho celular ausencia de funcionalidade de alteracao no calendario ausencia de botao para cadastro de temperatura basal nao possibilidade de acompanhamento no calendario das fases da lua
+Erro de previsao aqui foram incluidos os erros de previsao de menstruacao e tambem de periodo fertil
+Elogios houveram 3 elogios ao Clue dentro das postagens analisadas entre eles agradecendo pelos informativos que o Clue passou a enviar via email e tambem sobre a adicao de funcionalidades botao para monitoramento do muco cervical assim como sobre a precisao das previsoes
+Compartilhamento houveram duas reclamacoes quanto a compartilhamento porem ambas tratavam de funcionalidades diferentes uma foi quanto ao compartilhamento do ciclo para com outro aplicativotelefone e outra quanto a migracao de dados entre aplicativos do genero
+
+Inseguranca houveram postagens que relataram inseguranca na utilizacao da aplicacao tendo em vista a precisao de suas previsoes Como por exemplo a estimativa do periodo fertil para usuarios que nao utilizam metodo contraceptivo hormonal
+Temas do grupo e aplicacao 30 das publicacoes analisadas embora tivessem Clue em seu texto nao falavam propriamente do aplicativo e sim de interacoes e duvidas sobre os temas que este aborda acompanhamento do ciclo muco periodo fertil menstruacao controle de temperatura anticoncepcional e ovulacao
+A Figura 16 apresenta uma visao geral dos itens codificados
+
+Por fim constatouse que a grande maioria das citacoes da aplicacao no grupo eram de usuarios compartilhando casos e duvidas referentes nao a aplicacao em si mas em sua utilizacao no contexto saude da mulher
+
+DISCUSSAO
+
+Ao realizar o agrupamento dos dados de ambas avaliacoes o grupo percebeu muitos aspectos em comum Durante a Avaliacao Heuristica notamos problemas por falta de informacoes como na tela inicial onde sao mostrados os dados do ciclo atual e foram constatadas reclamacoes referentes ao mesmo problema no grupo observado na Netnografia
+Diferencas entre calendarios de acordo com o sistema operacional puderam ser notadas o que acaba por desfavorecer as usuarios de Android mostrando menos informacoes do que o calendario presente para o sistema operacional iOS Na Netnografia houve tambem grande numero de reclamacoes quanto as informacoes ou falta delas nesta visao do aplicativo A ausencia de botoes com finalidades especificas tambem foi uma constatacao presente tanto na Avaliacao Heuristica quanto na Netnografia
+No que tange ao compartilhamento de informacoes seja entre usuarios entre aplicativos com o mesmo intuito ou na mudanca de aparelhos celulares o grupo notou que houveram varios problemas e reclamacoes sendo uma funcionalidade importante que merece atencao redobrada pelo grupo responsavel pelo aplicativo
+Algumas usuarios mostraramse insatisfeitas com as previsoes Por mais que o aplicativo se utilize de dados anteriores para previsoes de periodo menstrual periodo fertil e periodo de TPM o mesmo nao especifica o tempo necessario para a sua propria adaptacao ao ciclo da usuario sendo um problema consideravel ja que muitas das usuarios presentes no grupo o utilizam pois nao fazem o uso de nenhum metodo contraceptivo hormonal e contam com estas previsoes para seus planejamentos Outro ponto importante e que quando ha a utilizacao de um metodo contraceptivo hormonal o aplicativo nao faz a previsao de periodo de TPM apenas registra o periodo menstrual da usuario Com isso em mente o grupo acredita que poderia haver uma explicacao no cadastro inicial de informacoes alertando que nao ha esse tipo de dado quando se utiliza contraceptivos Ao final do agrupamento e analise dos dados coletados o grupo constatou que o aplicativo e util para explicar o funcionamento do ciclo para usuarios que nao possuem conhecimento previo mas deixa a desejar em alguns pontos de ajuda ao usuario na hora de utilizar o sistema
+De maneira geral os problemas identificados tem como principais causas a falta de informacao sobre as funcionalidades ou de um guia sobre como realizar as acoes dentro do sistema Uma das sugestoes do grupo para resolver isso e de se implementar dentro do aplicativo um conjunto de artefatos que de alguma forma consiga deixar mais explicito quais acoes podem ser realizadas em cada tela e como executa las como um tutorial Sugerimos tambem tornar mais compreensivel qual o objetivo dos botoes na realizacao de cada funcionalidade usando imagens mais representativas ou ate explicando de forma textual O aplicativo apresenta visualmente uma grande preocupacao com o usuario mas ainda existem essas questoes citadas acima que acabam atrapalhando na usabilidade do Clue
+
+CONSIDERACOES FINAIS
+
+Para a elaboracao deste trabalho a interacao entre membros do grupo foi fundamental Como equipe multidisciplinar foi importante mantermos uma comunicacao ativa sobre as etapas do processo assim como mantermos uma colaboracao constante Mesmo sendo alunas de cursos diferentes e a maioria se conhecendo e trabalhando juntas pela primeira vez o objetivo comum fez com que o processo de levantamento de dados e analise fosse bastante fluido
+Para a Avaliacao Heuristica as tres avaliadoras nao so fizeram suas analises individuais como estiveram presencialmente fazendo a consolidacao o que trouxe mais pontos de vistas e enriqueceu a entrega No que tange a Netnografia embora uma aluna tenha sido a pesquisadora atuante na comunidade tambem houve interacao entre todas para discutir os pontos analisados e analisar as intersecoes entre ambas as abordagens de investigacao em IHC O grupo avalia o Clue como um aplicativo extremamente importante no contexto de saude da mulher sistemas assim acabam estimulando o cuidado com a saude e isso e essencial para o ser humano Mesmo com os seus problemas de usabilidade botoes sem finalidades explicitas falta de informacao etc nos consideramos que o Clue proporciona uma gama de informacoes bem completas assim como achamos a sua aparencia bem simples e intuitiva
+Por fim o presente estudo fez com que adquirissemos vivencia na area de pesquisa academica assim como serviu de oportunidade para aprofundarmos e enriquecermos nosso conhecimento sobre metodologias de analise em IHC
+
+CONCLUSAO
+
+Diante do cenario exposto e relevante que grupos de pesquisadores se dediquem a analisar aplicacoes voltadas a questoes da saude intima da mulher por meio de aplicacao de metodos de IHC a fim de contribuir para que tais aplicativos sejam mais inclusivos e acessiveis
+
+**CONSIDERACOES FINAIS**
+
+Este estudo, ao combinar analises heuristicas e netnograficas, permitiu uma compreensao mais profunda dos desafios de usabilidade enfrentados pelas usuarias do aplicativo Clue. Os resultados apontam para a necessidade de aprimorar a clareza das funcionalidades, a personalizaçao da experiencia e o suporte ao usuario. Ao incorporar as perspectivas e necessidades das usuarias no processo de desenvolvimento, e possivel criar aplicativos mais eficazes e inclusivos, contribuindo para a promoção da saude da mulher e o empoderamento feminino na era digital.

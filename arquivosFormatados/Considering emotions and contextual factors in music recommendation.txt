@@ -1,0 +1,103 @@
+O objetivo principal deste artigo e apresentar os resultados de um estudo de Revisao Sistematica da Literatura (RSL) que investiga abordagens de recomendacao musical que consideram emocoes e/ou contexto (questao de pesquisa 1), bem como as principais lacunas e desafios que ainda permanecem e precisam ser abordados por pesquisas futuras (questao de pesquisa 2). Apos uma extensa pesquisa, 64 publicacoes foram identificadas para responder as questoes de pesquisa. Os estudos foram analisados e avaliados quanto a relevancia. As principais abordagens que consideram emocoes e contexto foram identificadas. Os resultados da revisao indicam que a maioria dos estudos na area que combinam multiplas abordagens relacionadas a emocoes ou fatores contextuais melhoraram a experiencia auditiva do usuario. As principais contribuicoes da revisao sao um conjunto de aspectos que consideramos importantes para serem abordados pelos sistemas de recomendacao musical. Alem disso, tambem apresentamos uma ampla discussao sobre os desafios, dificuldades e limitacoes que existem nos sistemas de recomendacao musical que consideram emocoes e fatores contextuais.
+
+INTRODUCAO
+
+Nos ultimos 20 anos, as novas tecnologias digitalizaram a experiencia musical das pessoas, proporcionando um acesso onipresente a uma quantidade ilimitada de musica. Tradicionalmente, os sistemas de recomendacao usam informacoes padrao (ou seja, nome do artista, album ou titulo da musica) como sementes para selecionar e sugerir musicas. Embora este conjunto de informacoes ainda seja essencial para os algoritmos, ha algumas limitacoes em muitas aplicacoes relacionadas a musica. Por exemplo, aplicacoes Peer-to-Peer (P2P), que nao tem controle de vocabulario na representacao musical. Nesta situacao, o usuario recupera a musica usando o titulo da musica, autores ou album, sem a intervencao da recomendacao do sistema. Esta situacao causa redundancia, dificuldade e confusao na recuperacao de informacoes musicais, pois a musica tem um aspecto cultural e linguistico.
+
+Para enriquecer a experiencia do usuario com um sistema de recomendacao, focamos em mesclar duas abordagens diferentes: o contexto e as emocoes. Juntos, essas abordagens tem o potencial de ajudar o usuario a alcancar um estado emocional desejado. Alem do mais, explorar o poder emocional da musica e uma forma de melhorar o processo de recomendacao musical.
+
+A literatura relacionada com os sistemas de recomendacao mostra que ha poucos estudos empiricos que abordam emocoes musicais e os contextos de audicao ao mesmo tempo. Na psicologia musical, o foco habitual e compreender a emocao na musica e as respostas emocionais a musica. Complementarmente, os pesquisadores em ciencia da computacao estao geralmente focados em compreender a emocao na computacao musical e construir modelos baseados em conteudo para resolver questoes como identificacao, deteccao, reconhecimento e recomendacao.
+
+Dentro deste cenario, este trabalho apresenta uma revisao sistematica da literatura sobre abordagens de recomendacao musical
+incluindo: (i) uma ampla discussao de abordagens que consideram
+emocoes e informacoes contextuais a recomendacao musical; (ii)
+uma analise dos desafios, dificuldades e limitacoes que existem nos
+sistemas de recomendacao musical que considera emocoes e informacoes contextuais; e (iii) um conjunto de aspectos que os sistemas
+de recomendacao musical devem ser abordados para melhorar a
+experiencia musical.
+A partir da revisao, concluimos que: (a) considerando o contexto
+e as emocoes do usuario, juntamente com as emocoes percebidas
+na musica, os sistemas de recomendacao musical podem melhorar a
+experiencia auditiva do usuario; (b) combinando varias abordagens
+de recomendacao podem tornar os sistemas de recomendacao musical cada vez mais inteligentes. Nesta perspectiva, a RSL apresenta
+um conjunto de aspectos que influenciam a recomendacao musical,
+tais como: atividade do usuario, satisfacao, feedback, problemas de
+inicio frio, carga cognitiva, aprendizagem, personalidade e preferencias do usuario; e (c) pesquisas adicionais devem conceituar e
+definir melhor a escolha do modelo que descreve as emocoes e o
+contexto. Alem de apresentar tambem quais informacoes contextuais e emocionais estao sendo capturadas de modo a nao infringir a
+privacidade do usuario.
+
+REVISAO SISTEMATICA DA LITERATURA
+
+A Revisao Sistematica da Literatura (RSL) seguiu as diretrizes de Kitchenham et al. O objetivo foi descobrir as abordagens de recomendacao musical que levam em conta a emocao e o contexto do usuario. Identificamos a necessidade da revisao a partir de uma busca ad-hoc de RSLs de acordo com o objetivo desta pesquisa, ou seja, abordagens de recomendacao musical que cobrem as emocoes do usuario e o contexto de uso. A busca foi realizada na plataforma Google Scholar com os seguintes termos de busca: music recommendation systems: a systematic (review OR mapping). Selecionamos 15 publicacoes que ajudaram a compreender as principais caracteristicas da literatura nesta areas e tambem posteriormente construir a string de busca.
+
+Esta analise preliminar apontou que ha poucas investigacoes sobre abordagens de recomendacao musical que lidam com a emocao do usuario e o contexto de uso em conjunto. Normalmente, as propostas consideram apenas as emocoes ou apenas o contexto do usuario para executar a recomendacao e a emocao e muitas vezes tomada como um fator de contexto. Alem disso, esta analise indicou que o objetivo do RSL era viavel e poderia apresentar contribuicoes importantes para o estado da arte.
+
+Questoes de pesquisa
+
+Apos uma exploracao inicial da literatura, as seguintes questoes de
+pesquisa foram definidas:
+RQ-1: Que abordagens sao usadas para a recomendacao
+musical?
+RQ-1.1: Que abordagens sao usadas para recomendar
+musica considerando o contexto?
+RQ-1.2: Que abordagens sao usadas para recomendar
+musica considerando as emocoes?
+RQ-1.3: Que abordagens sao usadas para recomendar musica considerando as emocoes e o contexto ao
+mesmo tempo?
+RQ-2: Que aspectos sao desejaveis a serem tratados nos
+sistemas de recomendacao musical?
+A string de busca foram provenientes de um estudo inicial de
+15 publicacoes relacionadas a area de sistemas de recomendacao
+musical. Ajustes foram feitos na string de busca inicial e a string de
+busca final definida foi: (music recommendation) AND (context
+OR emotion) AND (recognition OR retrieval OR user).
+O periodo de busca definido foi entre 2010 e 2019. A partir de
+2010, houve um aumento exponencial de smartphones, tablets e
+varias aplicacoes personalizadas para estes dispositivos. Este
+avanco tem permitido o surgimento de diversas aplicacoes musicais
+ao longo dos anos. A busca foi realizada entre 13 e 17 de janeiro de
+2020, na qual a string de busca foi aplicada em todos os repositorios.
+No total, a busca retornou 950 publicacoes.
+2.2 Selecao dos estudos e Extracao de dados
+Para reforcar a validade da revisao, os estudos relevantes foram
+identificados com base nos 4 criterios de inclusao e 5 de exclusao.
+No total, 110 publicacoes foram selecionados de acordo com os
+criterios. Para determinar o rigor metodologico e a qualidade dos
+estudos primarios, um conjunto de questoes de qualidade foram
+elaborados. Para isso, 10 questoes de qualidade foram criadas e
+aplicadas aos estudos.
+A lista completa das 110 publicacoes avaliadas e a pontuacao
+atribuida a cada trabalho estao em um apendice externo. Apos a
+avaliacao da qualidade, 56 publicacoes foram considerados para
+leitura completa e extracao de dados. Em seguida, foi iniciada a
+fase de extracao de dados. Preparamos um formulario contendo 10
+perguntas com a finalidade de identificar os principais objetivos e
+extrair os metodos ou tecnicas utilizados por cada estudo.
+
+RESULTADOS E CONCLUSAO
+
+Este estudo analisou abordagens de recomendacao musical em que
+consideram apenas o contexto, apenas as emocoes, e abordagens
+hibridas em que consideram tanto a emocao como o contexto durante a recomendacao musical. Realizamos uma ampla discussao
+sobre os principais desafios enfrentados pelo estudo desta revisao.
+Os desafios variam de desafios tecnicos a desafios centrados no
+usuario. Alem desses desafios, a revisao mostra um ponto critico
+nos estudos de recomendacao musical que e a baixa presenca de
+usuarios nas avaliacoes. Muitos pesquisadores realizam avaliacoes
+em um conjunto de dados sem o envolvimento real do usuario. E importante que estes obstaculos sejam superados para que os sistemas
+de recomendacao musical possam sugerir musicas que atendam
+as perspectivas do usuario e, consequentemente, possibilitem uma
+melhor experiencia musical
+Esta revisao tambem identificou um conjunto de fatores que
+afetam a recomendacao musical e que os pesquisadores precisam
+explorar mais. Estes fatores incluem a atividade do usuario, satisfacao, feedback, cold-start, carga cognitiva, aprendizagem, personalidade e preferencias do usuario. O conjunto dos aspectos foram
+extraidos e identificados a partir das abordagens das publicacoes
+ou mencionados como fatores essenciais para a recomendacao musical por parte dos autores. Sendo assim, consideramos importante
+que os pesquisadores valorizem estes fatores separadamente ou em
+conjunto em suas pesquisas futuras.
+Por fim, esperamos que pesquisas futuras tambem considerem a
+intencao musical do usuario e seu estilo preferido, adotando teorias psicologicas e reunindo caracteristicas especificas dos usuarios.
+Assim, novas abordagens de recomendacao proporcionarao uma
+melhor experiencia auditiva para os ouvintes e, consequentemente,
+farao avancar o estado da arte em direcao a sistemas de recomendacao musical conscientes da emocao e do contexto.

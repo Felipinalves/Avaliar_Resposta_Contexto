@@ -1,0 +1,424 @@
+**INTRODUCAO**
+
+O ensino de Interacao Humano-Computador (IHC) e desafia-
+dor devido a interdisciplinaridade demandando o estudo de
+diferentes conceitos advindos de multiplas areas como psi-
+cologia, antropologia, etc. Nesse contexto, o ensino de IHC
+enfrenta diversas barreiras para dirimir as dificuldades dos
+alunos entenderem as funçoes na pratica tanto de designers
+quanto de stakeholders (no sentido de clientes interessados no
+produto) no design da interaçao de um software. Disciplinas
+conduzidas em termos puramente teoricos nao favorecem os
+alunos tomarem consciencia das tarefas envolvidas em diver-
+sas fases de um projeto da interaçao. Similarmente, quando
+os alunos nao simulam o papel de stakeholders pouco se sen-
+sibilizam em como elucidar as necessidades dos usuarios e
+a compreender a importancia do design centrado em usuá-
+rios , tecnicas participativas  e avaliaçao das interfaces
+propostas.
+
+A literatura de ensino de IHC pouco tem estudado meios
+de se promover e averiguar o aprendizado de diferentes pa-
+peis no processo de design de software  no contexto de
+disciplinas na graduaçao no ensino superior. Em cursos como
+Ciencia da Computaçao e Engenharia da Computaçao, que
+enfatizam principalmente na suas grades disciplinas com con-
+ceitos tecnicos e matematicos, a disciplina de IHC desenvolve
+um papel chave em colaborar na ampliaçao da visao e enten-
+dimento pelos alunos dos efeitos dos sistemas de software
+construidos. Nesse aspecto, a abordagem de Aprendizado
+Baseado em Projeto (ABP) pode colaborar no processo de
+ensino-aprendizagem, permitindo que os alunos entendam os
+desafios e problemas inerentes das fases de desenvolvimento
+de uma soluçao de design.
+
+Para Bender  "a aprendizagem baseada em pro-
+jetos e um modelo de ensino que consiste em permitir que os
+alunos confrontem as questoes e os problemas do mundo real
+que consideram significativos, determinando como aborda-los
+e, entao, agindo de forma cooperativa em busca de soluçoes".
+Ribeiroa  enfatiza que a partir da interaçao social e
+a exposiçao a situaçoes da vida real, os alunos podem ter um
+aprendizado aprimorado, por permitir que questoes como "O
+que devo fazer?" e “Como farei?” sejam indagadas por eles.
+Nesse tipo de abordagem de ensino-aprendizado, os pro-
+blemas sao um estimulo para a aprendizagem. Para Delisle
+e Oliveira  a ABP e "uma tecnica de ensino que
+educa apresentando aos alunos uma situaçao que leva a um
+problema que tem de ser resolvido". Embora a ABP aumente
+a motivaçao dos alunos para aprender por se tratar de projetos
+autenticos, realistas e altamente motivadores e envolvente
+, e preciso que os alunos experienciem o fato de que nem
+sempre eles irao trabalhar com projetos em contexto que sao
+familiarizados e/ou se sintam confortaveis e motivados.
+
+Desta forma, e relevante que os alunos adquiram uma expe-
+riencia em desenvolver um projeto para um “cliente simulado"
+em um problema de design (tema) nao inicialmente definido
+pelos mesmos. Assim, desenvolver um processo de ensino
+aprendizagem dirigido por projeto, no aprendizado de design
+centrado no usuario considerando tecnicas participativas no
+desenho das interfaces de usuario, pode contribuir para uma
+melhor apropriaçao e entendimento da relevancia da disci-
+plina de IHC na construçao de software como um todo.
+
+Neste artigo, conduzimos um estudo com turmas de Ci-
+encia da Computaçao e Engenharia da Computaçao visando
+entender a percepçao do aprendizado dos alunos em desenvol-
+verem o papel de designers e stakeholders em uma dinamica
+entre grupos que conduziram um projeto completo de cons-
+truçao de interfaces desenvolvido ao longo de um semestre.
+Na dinamica, os alunos formaram grupos e definiram um
+problema de design a ser desenvolvido durante o semestre
+todo. Depois dessa fase, o docente sinalizou que um grupo
+seria stakeholder do outro. Um grupo A que definiu um pro-
+blema de design X atua como designer para um grupo B que
+definiu um problema de design Y. Nesse sentido, o grupo A
+atua como stakeholder para o grupo B e vice-versa. Logo, o
+grupo B atua como designer tratando o problema de design X
+definido inicialmente pelo grupo A.
+
+Esta investigaçao foi conduzida ao longo de dois semes-
+tres completos (um semestre para cada turma). O projeto dos
+grupos foi organizado em diferentes fases (definidas a priori
+pelo docente), nas quais atividades especificas eram espera-
+das em cada fase, incluindo a clarificaçao do problema de
+design, ideaçao das interfaces, construçao de prototipos de
+alta fidelidade e avaliaçao das interfaces.
+
+Ao final de cada semestre, os alunos foram convidados
+a responderem um questionario cujo objetivo foi avaliar a
+percepçao dos mesmos em relaçao a metodologia adotada.
+Os dados obtidos evidenciam a eficacia da metodologia em
+auxiliar no aprendizado mais efetivo dos alunos. Embora eles
+tenham se sentido desconfortaveis com a troca de papeis, os
+discentes reconheceram que o desconforto gerado faz parte
+do cotidiano de profissionais da area e, portanto, foi uma
+experiencia valida.
+
+O restante deste artigo está organizado da seguinte maneira.
+A próxima seção apresenta a metodologia desta pesquisa,
+a dinâmica do curso no qual ela foi adotada, o perfil dos
+participantes, assim como o método utilizado para a coleta
+de dados e os procedimentos para analisa-los. Em seguida,
+os resultados observados são apresentados e discutidos. Por
+fim, descrevemos a conclusão obtida e indicamos trabalhos
+futuros.
+
+METODOLOGIA
+Dinâmica do curso
+A disciplina foi organizada em aulas teóricas e práticas. Sendo
+que, as aulas teóricas foram ministradas em sala de aula e
+tiveram como objetivo ensinar os fundamentos de IHC aos
+alunos. As aulas práticas foram realizadas em laboratórios,
+nos quais os alunos tiveram que utilizar o conhecimento teórico adquirido para solucionar problemas de design.
+A disciplina propôs que conceitos ensinados fossem aplicados por meio da execução de um projeto prático para aprimorar o aprendizado dos alunos. O projeto foi desenvolvido
+por grupos de 4 a 5 pessoas e visou transmitir experiencias
+próximas das encontradas no cotidiano de um profissional da
+área, através da aplicação transversal dos conceitos e técnicas
+de IHC estudados ao longo do semestre.
+Os discentes, de maneira autônoma, se dividiram em grupos e escolheram um problema de design para desenvolverem
+uma solução ao longo do período letivo. Visando simular uma
+experiência mais próxima da vida real, em que a escolha de
+temas de projetos nem sempre é possível, os grupos foram
+parificados e tiveram seus temas invertidos. Dessa forma, ao
+invés de desenvolverem seus projetos com base no tema escolhido, cada grupo exerceu o papel de designer sobre o tema
+escolhido por outro grupo. Cada grupo exerceu igualmente
+papel de stakeholder, no tema primariamente escolhido por
+eles. Entretanto, duas informações relevantes foram omitidas
+dos estudantes como parte da dinâmica de ensino. A primeira
+é que, cada grupo seria vinculado a um grupo par, de forma
+que um exerceria o papel de stakeholder do outro; a segunda
+informação é que, ao invés de exercer o papel de designer
+no assunto definido pelo grupo, os integrantes de cada grupo
+desenvolveram o papel de designer do tema escolhido pelo
+seu grupo par. Dessa forma, os alunos trabalharam como stakeholders dos temas por eles desejados e como designers de
+assuntos, para eles, aleatórios.
+Os projetos práticos desenvolvidos pelos grupos consideraram à concepção, modelagem e prototipação de soluções em
+interfaces de usuário, utilizando os artefatos metodológicos
+e técnicas ensinadas ao longo do curso. Estes são avaliados
+no decorrer do semestre através de entregáveis parciais, os
+quais são consolidados em um relatório final no término do
+desenvolvimento do projeto.
+Participantes
+A estratégia proposta foi aplicada à alunos do quarto/quinto
+semestre dos cursos de Ciência da Computação (2º semestre
+de 2018 - 76 alunos matriculados) e de Engenharia da Computação (1º semestre de 2019 - 64 alunos matriculados) durante
+a disciplina “Construção de Interfaces Homem-Computador”.
+Os participantes não haviam cursado a disciplina anteriormente e não foram previamente informados a respeito da
+aplicação da metodologia aqui estudada, o que influenciaria
+na estratégia desenvolvida e, consequentemente, nos resultados obtidos. Ademais, não houve indícios de informações
+a respeito do método utilizado terem sido transmitidas entre
+estudantes das diferentes turmas de um semestre para outro.
+Coleta de dados e procedimento de análise
+Aplicamos um questionário anônimo no final de cada período
+letivo para avaliar a metodologia proposta e a percepção dos
+alunos referente a disciplina ministrada. Para isso, foi utilizada a ferramenta Google Forms1
+, através da qual foram
+obtidas no total 123 respostas dos alunos participantes em
+ambos semestres. Além disso, relatos presentes nos relatórios
+finais de cada grupo também foram considerados.
+O questionário foi organizado em cinco seções, responsáveis por obter dados que refletissem a opinião dos estudantes
+em relação à disciplina como um todo, às aulas práticas, ao
+projeto, ao professor, e à dedicação do próprio aluno durante
+o curso. Sendo que, a seção referente ao projeto prático (foco
+deste estudo) conteve 25 questões, sendo, 3 alternativas, 8
+dissertativas e 14 considerando uma escala Likert.
+Para a análise dos dados foram considerados os três tipos
+de questões levantadas aos alunos sobre o projeto. As questões alternativas foram utilizadas para avaliar se os objetivos
+do projeto foram alcançados na percepção dos estudantes. As
+dissertativas foram responsáveis por extrair sugestões e comentários a serem considerados em análises qualitativas. Por
+fim, as perguntas em escala Likert permitiram avaliar quantitativamente a impressão dos discentes sobre o projeto. Adicionalmente, relatos dos alunos no relatório final dos projetos
+foram considerados e analisados como resultado qualitativo
+nesta pesquisa.
+
+RESULTADOS E DISCUSSÃO
+A troca de papéis foi inesperado segundo resultado de 123 alunos respondentes. Além de não saberem que, além de serem
+designers, também atuariam como stakeholders, eles foram
+surpreendidos com a troca de projetos e com o fato que se
+tornariam stakeholders do problema de design que eles propuseram. Isso gerou diversas reações nos alunos. Por isso, foi
+perguntando a eles o quão desconfortáveis eles se sentiram
+por esse fato e quão desconfortáveis eles se sentiram por se
+tornarem designers de um projeto que tinha uma problemática que não foi proposta por eles. Resultados presentes na
+Figura 1 sinalizam que os alunos não se sentiram, de modo geral, desconfortáveis com a troca de papéis, uma vez que as
+respostas foram equilibradas.
+
+Assim como o nível de desconforto, a motivação dos alunos foi equilibrada, de modo geral, para a troca de papéis,
+embora tenham havido algumas pequenas discrepâncias. Foi
+perguntando a eles quão motivados eles se sentiram por se
+tornarem stakeholders de um problema que eles acreditavam
+que iriam propor uma solução e o quão motivado se sentirem
+por atuarem como designers em outro projeto. Os resultados
+apresentados na Figura 2 demostram que mais alunos se sentiram menos motivados com a troca de papéis: os alunos que
+marcaram as opções 1 e 2 são maiores do que os que responderam 4 e 5. Isso, talvez, tenha ocorrido por que os alunos ao
+escolherem um problema de design desejam solucioná-lo por
+já terem certo entendimento sobre ele, e ao se tornarem designers de um outro problema, eles podem ter se desmotivado
+por ser um contexto não muito confortável para eles.
+
+Por mais que não haja uma correlação entre desconforto
+e motivação e os resultados estejam equilibrados, os alunos
+entenderam o objetivo dessa dinâmica de troca de papéis. Um
+dos alunos, no relatório final do projeto escreveu:
+“Essa dinâmica de troca de ideias foi muito boa, pois proporcionou uma criação de cenário, onde em um fomos designers
+e no outro clientes criando, assim, uma simulação de como é um projeto de desenvolvimento de design de uma aplicação
+no mercado de trabalho e proporcionando um entendimento
+de todos os contextos da área.”
+A troca de problemas e de papéis tinha por objetivo mostrar
+aos alunos que eles nem sempre irão atuar como designers
+em problemas que nem sempre terão pleno conhecimento
+do domínio da aplicação, mas que mesmo assim, precisam
+desenvolvê-lo do melhor modo possível. Um aluno, comentou
+que essa dinâmica traz realidade para a disciplina:
+“A matérias de IHC proporcionou um cenário de aprendizagem muito bom, pois tivemos que desenvolver uma ideia de
+projeto realizada por terceiros, assim criando uma experiência mais próxima da realidade de como é ser um designer,
+porque é necessário desenvolver um protótipo a pedido de um
+cliente real, simulado por outro grupo, o que proporcionou
+uma experiência de interação como stakeholder de um projeto
+real.”
+A troca de papéis ainda demonstrou aos alunos a necessidade dos designers lidarem com stakeholders, destacando
+a importância da comunicação em um processo de design.
+Sobre isso, um aluno comentou o seguinte:
+“Outro ponto de aprendizado importante foi a interação de
+ideias com outras pessoas, na qual opiniões deveriam ser
+discutidas entre o grupo, ao mesmo tempo que as ideias e
+opiniões do grupo ‘cliente’ deveriam ser levadas em conta.”
+A disciplina de IHC, muitas vezes, muda o paradigma
+de solução de problemas computacionais: se antes os alunos pensavam em algoritmos e na tecnologia, deixando a
+parte da interface apenas para a parte final do projeto, agora
+eles iniciam o processo de ideação de solução do problema
+focado no usuário e na sua experiência com a tecnologia.
+Assim, questionou-se aos alunos quão relevante eles serem
+stakeholders e designers alterou essa percepção sobre elaborar soluções de design que são focadas nos usuários e não na
+tecnologia.
+A Figura 3 indica que os alunos acreditam que ser designer
+colaborou mais para que eles entendessem a importância de
+se focar nas necessidades dos usuários durante o processo de
+ideação de solução de um problema de design. Nesse contexto,
+um aluno destacou o seguinte:
+“Aprendi a importância de entrevistar o usuário final desde o
+início do projeto, para levar em consideração as necessidades
+e expectativas do cliente. O contato com o usuário como
+parte do processo de design possibilita um desenvolvimento
+inteiramente focado nas partes essenciais para o sucesso do
+projeto e isto ficou muito claro durante este trabalho.”
+Alguns alunos destacaram a importância do usuário para
+se evitar problemas de interface, conforme o seguinte:
+“Percebi que a parte do entendimento do problema e o envolvimento dos usuários durante todo processo é super importante,
+pois minimizam os erros criados, e a buscas por erros que não
+perceberíamos, por conta de ser óbvio para nós designers, se
+tornaram mais eficientes.”
+“Agora tenho mais ferramentas para me auxiliar na criação
+e desenvolvimento de uma interface, tentando ao máximo
+prever quem serão os usuários do projeto, agregar ideias
+para diferentes diagramações/planejamentos, esboçar e testar protótipos antes de partir para um definitivo, e avaliar
+criticamente se o resultado obtido é realmente satisfatório,
+algo que antes era mais imediato e pulava muitas etapas,
+gerando muitos problemas posteriormente.”
+Um aluno ainda destacou que é preciso não considerar
+apenas guidelines no processo de design de uma interface:
+“O projeto mostrou que para projetar uma interface, devemos
+sempre analisar as experiências do usuário, ressaltando que
+não devemos seguir somente as guidelines de especialistas.”
+O objetivo do desenvolvimento de uma solução de design
+para um problema, desde a fase de entendimento do problema
+e ideação inicial de solução, é aplicar a teoria vista durante
+as aulas em um “problema real” mostrando aos alunos como
+teorias se aplicam na prática e como elas podem facilitar o
+processo de design. Nesse contexto, os alunos foram indagados sobre quanto o projeto desenvolvido por eles contribuiu
+para o aprendizado dos conteúdos da disciplina. 51 alunos
+(41,46%) responderam que o projeto contribuiu muito; 49
+alunos (39,83%) deram nota 4 na escala Likert, significando
+que o projeto contribuiu para o aprendizado da teoria; apenas
+2 alunos responderam que não houve contribuição do projeto
+para o seu aprendizado. Alguns alunos relataram no relatório
+final que o projeto permitiu colocar em prática as teorias vistas em aula, possibilitando o entendimento delas bem como
+aprender novos conceitos:
+“Durante todo o desenvolvimento do projeto pude não só aplicar conhecimentos antes adquiridos, mas também aprender
+novos conceitos, já colocando-os em prática, o que superou
+minhas expectativas iniciais.”
+“O desenvolvimento do projeto permitiu a aplicação de diversos conceitos vistos em sala de aula, e possibilitou não
+somente o entendimento teórico destes como também o que
+está envolvido nas suas implementações em situações práticas.”
+A fim de verificar qual papel (designer ou stakeholder)
+contribuiu mais para o aprendizado de conteúdos na disciplina de IHC, os alunos foram questionados sobre o quão
+relevante eles atuarem como stakeholder e como designers
+apoiou nesse objetivo. A Figura 4 revela que os alunos atuarem como designer colabora mais para o aprendizado de
+IHC do que ser stakeholder, enquanto que atuar como stakeholder mostrou-se ser menos relavante para os alunos; 33
+alunos disseram que colabora pouco ou muito pouco para o
+aprendizado, aproximadamente 5 vezes mais do que os alunos
+que acreditam que ser designer não contribui. Um dos alunos
+escreveu no relatório final o seguinte:
+“O desenvolvimento do projeto foi de extrema importância no
+aprendizado da disciplina. Com ele, pudemos saber na prática
+todas as dificuldades apresentadas durante as aulas expositivas, como “Como saber entender a demanda do usuário da
+melhor forma possível?”, “Como avaliar o design adequadamente?”, “Como expressar da melhor forma as ideias que eu
+quero como stakeholder?”, etc. Ou seja, tanto as dificuldades como designer quanto como stakeholders foram trazidas
+como vivência.”
+Em relação a ser stakeholder, um aluno destacou:
+“Ser cliente foi enriquecedor em relação a aspectos como,
+aprender que não somente é difícil captar a ideia, mas também
+transmiti-la, isso de certa forma mudou minha mentalidade,
+me tornando mais simpática para com as dificuldades de um
+cliente.”
+O desenvolvimento de uma solução de design completa
+pelos alunos também visa ensiná-los sobre os desafios e dificuldades de aplicação das técnicas estudados na disciplina.
+Ao mesmo tempo que elas são facilitadoras para se obter soluções que podem ser mais efetivas para os usuários. Assim,
+foi questionado aos alunos se o desenvolvimento do projeto
+propiciou isso a eles. 78,86% dos alunos indicaram que “sim”,
+enquanto que 19,51% disseram que “em parte”. Alguns alunos comentaram que a disciplina permitiu refletir sobre todo
+o processo de design e sobre os diversos tipos de usuários
+existentes, reconhecendo a relevância de Acessibilidade, por
+exemplo:
+“Aplicar o modelo de Ciclo de Vida (Entender, Estudar, Design, Construir e Avaliar) e trabalhar na construção do projeto com suas fases foram fundamentais para a fixação do
+aprendizado em IHC, além de agregar características reais
+para a disciplina, como verificar o problema em questão, tratar da sua viabilidade e comunicar-se com o cliente, resolver
+questões de projeto e saber avaliar o produto principalmente
+tentando prever problemas futuros.”
+“O curso também abriu meus olhos para a questão de inclusão e diversidade de usuários e da importância de criar
+um sistema com o qual todos consigam interagir (ou o mais
+próximo disso possível).”
+O desenvolvimento de soluções de design possui diversos
+desafios e demandam diversas preocupações por parte dos
+designers. Dessa forma, ao atuarem como designers de um
+projeto com a presença de stakeholders “reais” deve tornar o
+processo de aprendizagem mais realístico. Por isso, foi perguntado aos alunos se o desenvolvimento do projeto permitiu
+que eles tivessem uma ideia dos desafios, dificuldades e cuidados que um designer deve ter no desenvolvimento de uma
+solução de design. Quase 85% dos alunos disseram que “sim”,
+13% disseram que “em parte” e 2,43% disseram que “não”.
+Dois alunos destacaram a aplicabilidade da disciplina para,
+sobretudo, trazer situações reais para a disciplina:
+“A disciplina de IHC, muito por meio das atividades práticas,
+mostrou-se muito proveitosa, individualmente falando, uma
+vez que simula situações que frequentemente se repetem no
+contexto de desenvolvimento conjunto de software e das quais
+nunca presenciei e nem tive uma amostra de como eram,
+provendo portanto a um aluno leigo como eu uma boa ideia
+do que encontrarei nessas situações.”
+“Agora enxergo produtos e serviços de uma forma muito mais
+complexa, e tenho mais base para avaliar e tomar decisões
+de projeto. Isso é fruto da grande aplicabilidade da matéria.”
+Ao estabelecer uma dinâmica na qual os alunos foram demandados a atuarem ora como stakeholder e ora como designer fez com que os alunos enfrentassem algumas dificuldades
+no processo de design.
+Ao serem stakeholders, os alunos destacaram o seguinte:
+“Transmitir minhas expectativas aos designers”
+“Saber que tipo de informação o outro grupo procurava respostas”
+“Não ter certeza se o designer entendeu exatamente a ideia
+que eu queria passar sobre o que eu esperava do software”
+“Ter uma ideia de solução e receber uma diferente dos designers do outro grupo”
+“Acompanhar o andamento do outro projeto”
+Já como designers, os alunos destacaram as seguintes dificuldades:
+“Pensar em todas as reais necessidades do usuário”
+“Não entender direito o que o cliente queria”
+“Entender o problema do stakeholders foi a parte mais difícil
+do projeto”
+“Pensar em soluções de design que estivessem de acordo com
+o esperado inicialmente pelos stakeholders”
+“Minha maior dificuldade foi obter uma avaliação dos stakeholders, para saber se a solução foi satisfatória”
+“Pensar em soluções que são novas e eficientes”
+“pensar sob o ponto de vista dos usuários, passar a ideia
+pensada de uma maneira clara e objetiva”
+“Internalizar a ideia de focar no usuário e não no produto”.
+Consideramos que é notório que o desenvolvimento de
+um projeto prático para propor a solução de design para um
+problema apoia o aprendizado da teoria que fundamenta a
+área de IHC, bem como é um meio para que os alunos possam
+aplicar e entender de modo mais eficaz técnicas que propiciam
+e facilitam o desenvolvimento de soluções que são focadas
+nos usuários. Adicionalmente, isso permite que os alunos
+aprendam novos conceitos, presenciem situações que há no
+mundo real e entendam a importância de considerar o usuário
+durante todo o processo de design e não foquem apenas em
+algoritmos e/ou guidelines de desenvolvimento de interface.
+A troca de papéis e de problemas tornou esse processo
+de aprendizado ainda mais realístico por demandar que eles
+sintam a dificuldade de um usuário em explicar o problema
+para um designer e de um designer em entender o que o usuário deseja. Ainda, a dinâmica pedagógica proposta propiciou
+o aprimoramento da experiência dos alunos por terem que
+aprender a lidar com problemas e situações que fogem do seu
+escopo de conhecimento.
+
+**CONCLUSÃO**
+
+O processo de ensino aprendizagem da disciplina de IHC no
+ensino superior demanda novas abordagens que considerem
+uma vivencia pratica dos alunos em atividades de design e
+avaliaçao de interfaces de usuarios. Neste artigo, apresenta-
+mos uma estrategia pedagogica baseada em troca de papeis
+para o ensino de IHC. Nela grupo de alunos atuaram simul-
+taneamente como designers e stakeholders com interaçoes
+intra e extra grupo para aprimorar o entendimento e aprendi-
+zagem de atividades de design como clarificaçao do problema
+design, aplicaçao de tecnicas de design participativo para a
+construçao de prototipos de baixa fidelidade, construçao e
+avaliaçao de prototipos de alta fidelidade.
+
+A estrategia pedagogica proposta foi aplicada no decorrer
+de dois periodos letivos (2/2018 e 1/2019) para alunos da
+disciplina "Construçao de Interfaces Homem-Computador"
+ministrada no Instituto de Computaçao da UNICAMP. Apos
+aplicada, em cada semestre, foi solicitado que os alunos do
+curso respondessem um questionario com suas impressoes
+em relaçao a dinamica do projeto desenvolvida na disciplina,
+contendo perguntas especificas a estrategia proposta.
+
+Os estudantes vivenciaram o papel de designers durante
+o desenvolvimento de um projeto baseado em um tema que
+nao dominavam. Os alunos aturam no papel de cliente de um
+projeto e aprenderam as dificuldades de se transmitir suas
+ideias para contribuir na ideaçao das interfaces. Descobri-
+mos que apesar de um certo grau de desconforto dos alunos
+com relaçao a troca de temas dos projetos, 96% dos discen-
+tes afirmaram que o desenvolvimento do projeto auxiliou
+no aprendizado de conteudos da disciplina de IHC. Os alu-
+nos descreveram a importancia de trabalharem com e como
+stakeholders, relatando principalmente a dificuldade de co-
+municaçao, que pode ser vivenciada durante o andamento do
+projeto.
+
+Trabalhos futuros envolvem um refinamento da estrategia
+pedagogica e avaliaçoes mais aprofundadas das percepçoes
+dos alunos.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, a estrategia pedagogica proposta, baseada na troca de papeis entre designers e stakeholders, se mostrou eficaz para promover um aprendizado mais profundo e significativo da disciplina de IHC. Ao vivenciarem diferentes perspectivas e enfrentarem os desafios inerentes a cada papel, os alunos desenvolveram habilidades de comunicaçao, empatia e resoluçao de problemas, preparando-os para atuarem de forma mais consciente e responsavel no mercado de trabalho.

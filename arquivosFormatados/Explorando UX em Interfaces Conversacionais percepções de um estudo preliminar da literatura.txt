@@ -1,0 +1,132 @@
+**INTRODUCAO**
+
+Interfaces conversacionais sao mecanismos que permitem interacoes entre pessoas e ma-
+quinas por meio de linguagem natural, habilitadas por voz, texto ou ambas(multimodais).
+Estes meios de interacao tem sido amplamente utilizadas em diversas areas, desempe-
+nhando um papel crucial para uma experiencia de usuario (UX - user experience) positiva,
+eficaz e intuitiva, pois simulam uma conversa humana para oferecer respostas e solucoes
+em tempo real .
+Interacoes intuitivas ocorrem quando os usuarios atingem facilmente um objetivo sem
+conhecimento previo do sistema, enquanto a eficiencia minimiza o esforco do usuario
+para realizar uma acao .
+
+Tendo em vista que a capacidade de interpretar corretamente a subjetividade
+do usuario e fornecer respostas relevantes pode melhorar significativamente a experi-
+encia do usuario, a avaliacao adequada de UX para essas interfaces nao apenas apri-
+mora a satisfacao do usuario, mas tambem aumenta a eficiencia e a confiabilidade do
+sistema .
+
+Portanto, neste estudo apresentamos uma revisao rapida(RR) ,
+abordagem variante da Revisao Sistematica da Literatura(RSL) que simplifica algumas
+etapas dos procedimentos de revisao, sendo especialmente util em campos que evoluem
+rapidamente, para captura de tendencias mais recentes e para auxiliar em tomadas de
+decisoes em projetos a um baixo custo e em menos tempo .
+
+Esta RR foi realizada para investigar metodos de UX comumente utilizados para
+avaliar Interfaces Conversacionais. Sendo assim, este trabalho teve como objetivo, res-
+ponder a seguinte pergunta de pesquisa: Quais metodos de UX Research sao comumente
+utilizados para avaliar interfaces de usuario conversacionais?. Para tanto, apresentamos os
+resultados preliminares de uma rapid review literature que obteve 441 artigos cientificos
+das bases de dados ACM e Scopus. Destes, 25 foram selecionados para extracao das tec-
+nicas utilizadas devido a sua relevancia para este trabalho. Através desta revisao rapida,
+encontramos 36 tecnicas, o que demonstra que pesquisadores utilizam a combinacao de
+uma gama variada de tecnicas para avaliar a UX dessas interfaces.
+
+Entre as principais, destacaram-se os testes de usabilidade, que envolvem a ob-
+servacao direta dos usuarios enquanto interagem com o sistema, e diversos questionarios.
+Além disso, metodos qualitativos, como entrevistas e grupos focais, que fornecem percep-
+coes sobre as expectativas dos usuarios tambem foram mencionados. No entanto, dada
+a vasta quantidade de tecnicas disponiveis, nota-se que nao existe um padrao de tecnicas
+para avaliar UX em interfaces conversacionais. Tornando necessario estudos para identifi-
+car e consolidar as principais metodologias utilizadas atualmente para a avaliacao de UX
+em interfaces conversacionais. Esta necessidade evidencia a importancia de uma analise
+aprofundada e sistematica para estabelecer as melhores praticas no campo.
+
+O restante deste trabalho esta estruturado da seguinte forma: na secao 2 descre-
+vemos o metodo de pesquisa, para identificar as principais metodologias de avaliacao de
+UX em interfaces conversacionais utilizadas atualmente. Em seguida, na secao 3 apre-
+sentamos as tecnicas encontradas e uma breve analise dos resultados. Por fim, a secao 4
+discute as implicações desses achados.
+
+**METODO DE PESQUISA**
+
+Essa metodologia foi adaptada para a engenharia de software baseada em evidencias,
+onde algumas etapas do processo de revisao sao simplificadas ou omitidas para econo-
+mizar tempo e custos . Para a execução desta RR, elaboramos e
+seguimos um protocolo de pesquisa, conforme apresentado abaixo na Tabela 1. Além
+disso, desenvolvemos um formulario de extracao para coletar informações essenciais dos
+estudos selecionados, incluindo o tipo de pesquisa, a natureza da interface conversacional
+abordada, o objetivo do estudo, os dominios de aplicação e os metodos de avaliacao de
+UX utilizados.
+
+Seguindo as recomendações de , restringimos o número de fontes de
+dados e o período de busca para otimizar o processo em termos de custo e tempo. A
+pesquisa foi realizada nas bases de dados ACM e Scopus em julho de 2024, abrangendo
+publicações dos últimos cinco anos (2019-2024).
+
+A estratégia de busca resultou em 441 estudos. Na fase inicial de selecao, excluimos documentos que nao eram artigos cientificos, estudos com menos de 4 paginas de conteudo, estudos que nao avaliavam interfaces
+conversacionais, estudos anteriores com mais de 5 anos, nao totalmente acessiveis, assim
+como aqueles nao escritos em ingles ou portugues, reduzindo o numero de estudos para
+194. Em seguida, a pesquisadora revisou os titulos e resumos, eliminando 137 estudos
+que nao atendiam aos criterios de inclusao, resultando em 57 estudos. A etapa final envolveu a analise completa do conteudo desses artigos, o que levou a exclusao de mais 32
+estudos que nao cumpriam os criterios de aceitacao. Isso culminou em 25 artigos que foram selecionados para extracao e analise detalhada dos dados. Todo o processo de busca,
+selecao, extracao e analise dos dados foi concluido em aproximadamente 20 dias.
+
+**RESULTADOS**
+
+A análise dos dados obtidos através da revisão rápida revelou 36 técnicas de UX utiliza-
+das para avaliar interfaces conversacionais, uma diversidade significativa, demonstrando
+a ampla gama de abordagens adotadas por pesquisadores e profissionais. A maioria dos
+artigos focou em chatbots de texto, mencionados em 17 estudos, utilizados em diver-
+sos domínios como saúde, Assistência ao cliente e educação. Assistentes de voz foram
+analisados em 7 artigos, destacando-se em contextos de Saúde, Assistentes de Voz em
+Diversos Contextos e interação humano-computador. Apenas um estudo apresentou um
+chatbot multimodal, este também foi aplicado no domínio de saúde.
+
+A análise da relação entre o domínio e as técnicas de UX mais utilizadas mostrou
+que, para chatbots de texto, o teste de usabilidade foi a técnica predominante, especial-
+mente no domínio da saúde. Outras técnicas como entrevistas e análise de feedback tam-
+bém foram amplamente empregadas, especialmente em contextos de interação humano-
+computador (IHC) e assistência ao cliente. No caso dos assistentes de voz, o teste de
+usabilidade e as entrevistas foram as técnicas mais utilizadas, com uma concentração sig-
+nificativa de estudos nos domínios de educação e saúde. Para as interfaces multimodais,
+a única técnica mencionada foi o UMUX-LITE, aplicada no domínio da saúde.
+
+Em relacao a relacao entre o dominio e o tipo de interface conversacional IC mais utilizada observou-se que chatbots de texto foram predominantes em uma ampla variedade de dominios incluindo saude educacao e assistencia ao cliente Os assistentes de voz foram mais comuns nos dominios de saude e contextos diversos de assistentes de voz enquanto as interfaces multimodais foram raramente exploradas com apenas um estudo identificado no dominio da saude
+
+Quando se analisou a relacao entre o tipo de interface conversacional IC e as tecnicas de UX mais utilizadas foi possivel identificar que para chatbots de texto as tecnicas mais aplicadas foram o teste de usabilidade entrevistas e analise de feedback Para assistentes de voz alem do teste de usabilidade e entrevistas tambem se destacou o uso do questionario System Usability Scale SUS Por outro lado as interfaces multimodais foram pouco exploradas com apenas a tecnica UMUXLITE sendo mencionada
+
+Esta diversidade de tipos de interfaces conversacionais dominios de aplicacao e tecnicas de avaliacao de UX reforca a necessidade de uma abordagem versatil na avaliacao de UX adaptada as caracteristicas especificas de cada tipo de interface A lista dos 25 estudos selecionados na RR com as tecnicas e dominios apresentados encontrase disponivel no repositorio Zenodo.
+
+**CONIDERAÇOES FINAIS**
+
+Esta revisão rápida da literatura sobre métodos e técnicas de UX para avaliação de inter-
+faces conversacionais revelou uma diversidade significativa de abordagens adotadas por
+pesquisadores e profissionais. Tal diversidade de métodos encontrados evidencia a ausên-
+cia de um padrão universal, indicando que a escolha das técnicas de avaliação deve ser
+cuidadosamente adaptada às especificidades de cada contexto de uso e tipo de interface
+conversacional.
+
+Os resultados desta revisão rápida destacam a necessidade de desenvolver um fra-
+mework mais estruturado para a avaliação de UX em interfaces conversacionais. A con-
+solidação de melhores práticas poderia não apenas padronizar os métodos de avaliação,
+mas também facilitar a comparação de resultados entre diferentes estudos e aplicações.
+Além disso, a criação de guias e ferramentas específicas para a avaliação de Chatbots, as-
+sistentes de voz e interfaces multimodais contribuiria significativamente para a evolução
+da pesquisa e da prática profissional em Interação Humano-Computador.
+
+Como próximos passos, sugerimos a realização de estudos empíricos que testem
+a eficácia das técnicas de avaliação mais mencionadas na literatura, em cenários reais de
+uso. Isso permitirá uma compreensão mais aprofundada de suas vantagens e limitações,
+bem como sua aplicabilidade em diferentes domínios.
+
+Em suma, a revisão rápida aqui apresentada fornece uma base inicial para futuras
+investigações e desenvolvimentos no campo da UX para interfaces conversacionais. A
+identificação das técnicas atualmente utilizadas é um passo fundamental para a constru-
+ção de um campo de estudo mais coeso e eficaz, que atenda às demandas crescentes de
+interações humanas com sistemas computacionais cada vez mais complexos e inteligen-
+tes.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho apresentou uma revisao rapida da literatura sobre metodos e tecnicas de UX para avaliacao de interfaces conversacionais. Os resultados indicam uma diversidade de abordagens, destacando a necessidade de adaptar as tecnicas as especificidades de cada contexto. Sugere-se o desenvolvimento de um framework estruturado e a realizacao de estudos empiricos para consolidar melhores praticas e aprimorar a avaliacao de UX em interfaces conversacionais.

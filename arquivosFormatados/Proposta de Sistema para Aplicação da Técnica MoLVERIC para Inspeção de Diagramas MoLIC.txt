@@ -1,0 +1,121 @@
+**INTRODUCAO**
+
+Das diferentes abordagens teoricas existentes dentro da area de Interaçao Humano-
+Computador, a Engenharia Semiotica percebe a interaçao entre usuario e sistema como
+uma conversa entre o designer e o usuario final atraves da interface, que se coloca como
+um tipo de representante do designer e suas intençoes para a interaçao .
+Essa conversa e composta de topicos, dialogos, informaçoes e outros elementos que cons-
+tituem o design de interaçao no entendimento dessa teoria que enxerga a interface como
+um meio de comunicaçao.
+
+No contexto da Engenharia Semiotica, a MoLIC (Modeling Language for Inte-
+raction as Conversation) foi idealizada para possibilitar a modelagem da interaçao sendo
+proposta pelo designer . Os diagramas MoLIC se colocam como uma
+poderosa ferramenta capaz de modelar os diversos fluxos de conversa que compoe a uti-
+lizaçao da interface de uma aplicaçao. No entanto, para prevenir erros em fases mais
+avançadas do desenvolvimento, e importante garantir que os diagramas utilizados sejam
+coerentes e apresentem uma quantidade minima de falhas. Para isso, tecnicas como a
+MoLVERIC sao aplicadas para verificar a conformidade desses diagramas com respeito
+as definiçoes da linguagem MoLIC, promovendo a identificaçao de problemas e assim, a
+correçao de pontos defeituosos na modelagem produzida . A MoLVERIC e aplicada atraves da utilizacao de cartoes fısicos que fazem referencias aos elementos
+que constituem um diagrama MoLIC. Cada cartao apresenta uma checklist para verificacao baseada nos principais defeitos identificados em um estudo preliminar relacionado
+as origens desse metodo de inspeção [Damian 2015]. Para motivar a adocao da tecnica,
+foram empregados recursos de gamificacao, incluindo pontuacoes para os inspetores a medida que identificam falhas nos diagramas.
+
+**PROJETO**
+
+A proposta aqui apresentada discorre sobre o prototipo de uma adaptaçao da tecnica de
+inspeçao MoLVERIC da utilizaçao de cartoes fisicos para o meio digital na forma de um
+aplicativo movel. O objetivo dessa transposiçao engloba o tratamento de problemas de
+usabilidade identificados na versao original, como nos atributos de aprendizado e memo-
+rizaçao . Tambem propoe facilitar sua adoçao e ampliar os aspectos de
+gamificaçao para elevar o engajamento dos usuarios.
+
+**DESCRIÇÃO DA TECNICA MOLVERIC**
+
+A tecnica de inspeçao MoLVERIC tem como proposito fornecer uma forma simples de
+identificar defeitos em diagramas MoLIC. Baseada em uma estrutura de checklist, seus
+itens de verificaçao atestam tanto a consistencia com os requisitos do cenario de intera-
+çao como a corretude da notaçao utilizada . Para motivar a aplicaçao da
+tecnica, sao empregados recursos de gamificaçao, a exemplo de um sistema de pontuaçao
+para os inspetores.
+
+Cada carta corresponde a um item de verificaçao e inclui o numero de pontos a
+serem ganhos pelo inspetor ao achar algum dos defeitos indicados no cartao. Os cartoes
+sao divididos em categorias correspondendo aos elementos no digrama MoLIC Cena,
+Processamento, Ponto de Abertura, Ponto de Fechamento, Acesso Ubiquo, Precondiçao,
+Dialogos, Signos, Falas de Transiçao e Falas de Recuperaçao de Exceçao. Todas as cartas
+incluem uma descriçao do item de verificaçao tipo de defeito a ser reportado pontos para
+o cartao e um codigo para identificaçao.
+
+Cada defeito que pode ser relatado esta associado a um dos seguintes 5 tipos:
+Omissao, Ambiguidade, Fato Incorreto, Informaçao Estranha, Inconsistencia.
+
+**PROTOTIPO DESENVOLVIDO**
+
+Com o apoio da ferramenta Figma para design e prototipaçao, foi desenvolvida uma ex-
+periencia interativa que busca simular o comportamento de um aplicativo movel dedicado
+a utilizaçao da tecnica MoLVERIC.
+
+Em seu estado atual, ela abrange dois tipos de inspeçao:
+Inspeçao Guiada Leva o usuario para uma inspeçao sequencial de cada uma das
+cartas em uma ordem pre-definida, como pode-se observar no exemplo das duas
+telas a esquerda na Figura 1. E possivel avançar para a proxima carta e retornar
+para a carta anterior. Nesse fluxo, uma carta e considerada como inspecionada
+assim que aparece na sequencia, e pode ser dada como nao inspecionada caso o
+usuario retorne para uma carta anterior.
+Inspeçao Livre Leva o usuario para uma tela onde pode escolher quais cartas
+inspecionar, sem ordenaçao, como representado na terceira tela, da esquerda para
+a direita, da Figura 1. Uma carta e considerada como inspecionada somente se
+marcada como tal atraves do botao correspondente.
+
+Em ambos os modos, e possivel examinar cada uma das cartas de um conjunto
+de 19 baseado na estrutura e conteudo dos cartoes MoLVERIC originais. Em sua repre-
+sentaçao, as adaptaçoes feitas sobre a tecnica original incluem uma diminuiçao na quan-
+tidade de texto explicativo a mostra, que foi parcialmente ocultado sob um botao 'i' para
+mais informaçoes. Alem disso, a mudança do nome da categoria de defeito Informaçao
+Estranha"para "Extrapolaçao". Essa ultima alteraçao foi aplicada no intuito de melhor
+comunicar o significado da categoria que reflete instancias em que o diagrama extrapola
+o escopo dos requisitos do cenario de interaçao.
+
+Durante a visualizaçao de cada carta, e possivel verificar uma descriçao do ele-
+mento do diagrama ao qual ela se refere e um conjunto de defeitos relacionados que
+podem ou nao estar presentes na modelagem inspecionada. A intençao e que um defeito
+seja marcado caso esteja presente no diagrama. Assim que isso ocorre, uma caixa de texto
+aparece onde o usuario deveria descrever como localizar o defeito no esquema MoLIC em
+inspeçao.
+
+Em acordo com o proposito de aproveitamento de recursos do meio digital para
+ampliar a gamificaçao, foi incluida uma barra de progresso que e preenchida a medida
+que o usuario avança na inspeçao. Ela pode ser visualizada na parte inferior da tela e e
+incrementada sempre que o usuario avança uma carta no modo guiado ou marca uma carta
+como inspecionada no modo livre. Tambem foi adicionada uma contagem automatica de
+pontos a medida que defeitos sao marcados durante a inspeçao.
+
+Ao final da inspeçao, tem-se acesso a um relatorio indicando os defeitos marcados
+separados por elemento ou tipo de defeito. Tambem e apresentada a pontuaçao total
+contabilizada, como e possivel verificar na Figura 2.
+
+O prototipo construido se encontra disponivel (httpsshorturl.at
+rULLI) em uma versao ainda nao funcional, mas que permite uma simulaçao da inte-
+raçao com o que seria o aplicativo proposto.
+
+**CONTRIBUIÇÃO**
+
+A relevancia dessa aplicaçao se relaciona a importancia da utilizaçao de uma boa mo-
+delagem de interaçao para dar seguimento ao desenvolvimento de interfaces de sistemas
+de software. Facilitar a adoçao da tecnica para correçao de defeitos de design mais cedo
+durante o desenvolvimento contribui para melhorar a qualidade do sistema final e reduzir
+custos de produçao. Em ambito educativo, ha o potencial para um maior engajamento
+dos alunos durante o aprendizado da construçao de diagramas MoLIC, trazendo a tecnica
+para um ambiente digital de uso diario com a aplicaçao de recursos ludicos.
+
+Como proximos passos do projeto apresentado, e planejada a implementaçao de
+uma versao funcional do prototipo com apoio de um framework para desenvolvimento de
+aplicativos moveis. Com esta versao, pretende-se avalia-la com usuarios do MoLVERIC.
+Tambem e prevista a inclusao de novas funcionalidades, como uma opçao para exportar e
+importar sessoes de inspeçao na forma de arquivos.
+
+**CONCLUSAO**
+
+A criaçao de uma ferramenta digital para aplicar a tecnica MoLVERIC para a inspeçao de diagramas MoLIC oferece um potencial significativo para melhorar a usabilidade, o engajamento e a eficiencia na modelagem de interaçoes. Ao facilitar a detecçao de defeitos em diagramas, essa ferramenta pode contribuir para o desenvolvimento de sistemas de software mais robustos e que melhor atendam as necessidades dos usuarios.

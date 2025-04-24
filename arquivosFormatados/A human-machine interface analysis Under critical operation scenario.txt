@@ -1,0 +1,105 @@
+A human-machine interface analysis Under critical operation scenario.txt
+**INTRODUCAO**
+
+A industria da aviacao esta adotando cada vez mais sistemas nao tripulados,
+como Veiculos Aereos Nao Tripulados (VANTs) e Sistemas Aereos Nao Tripulados
+(UAS), que oferecem capacidades de voo estendidas e maior capacidade de carga
+util. No entanto, o foco na tecnologia da aeronave as vezes ofuscou a
+importancia dos componentes humanos dentro do sistema. As caracteristicas
+unicas do UAS, incluindo a separacao fisica entre o piloto e a aeronave,
+interfaces de controle remoto e controle de radiofrequencia, introduzem fatores
+humanos nao convencionais em comparacao com as praticas tradicionais de
+aviacao.
+
+O erro humano e as deficiencias na interface humano-maquina (IHM) foram
+identificados como os principais contribuintes para acidentes e incidentes em
+operacoes de VANTs. A dependencia da automacao sem manter a consciencia
+situacional pode levar a atrasos na tomada de decisoes e erros quando ocorrem
+eventos fora do normal.
+
+O objetivo deste estudo e investigar o impacto da IHM na tomada de decisoes
+e no Comando e Controle no contexto das operacoes de UAS. Os cenarios e
+tarefas serao definidos usando uma IHM prototipo que simula as operacoes de
+UAS em um ambiente de combate. O desempenho humano sera avaliado usando
+sensores fisiologicos para fornecer insights quantitativos e avaliacoes
+qualitativas de desempenho e carga mental. Os dados coletados serao analisados
+para identificar tendencias e padroes, examinando a relacao entre fatores da
+IHM, processos de tomada de decisoes e desempenho geral do sistema.
+
+O objetivo e contribuir para o desenvolvimento de projetos de IHM otimizados que possam
+reduzir a carga de trabalho cognitivo, melhorar a tomada de decisoes e aumentar a consciencia situacional
+durante condicoes operacionais criticas. As descobertas desta pesquisa terao impacto pratico
+implicacoes para o controle eficaz e seguro de UAVs em diversas aplicacoes, incluindo
+vigilancia, busca e salvamento e operacoes militares. Ao avaliar o ser humano
+desempenho sob condicoes operacionais criticas e desenvolvimento de IHM otimizada
+solucoes, o objetivo e aumentar a eficacia geral e a segurança no controle de UAV.
+
+**METODOLOGIA**
+
+Este estudo envolveu a participacao de 24 operadores e 24 pilotos com
+diferentes niveis de experiencia de pilotagem, com idades variando de 20 a 50
+anos. Cada operador realizou dois voos, cada um com duracao de 30 minutos,
+enquanto os pilotos foram submetidos a um experimento baseado em simulacao.
+Ao longo do estudo, quatro replicas foram conduzidas para os operadores, e um
+processo estruturado foi seguido para os pilotos.
+
+Para os operadores, os voos foram conduzidos em tres configuracoes diferentes.
+Na primeira configuracao, dois operadores foram designados para trabalhar
+juntos, um assume a navegacao enquanto o outro opera o POD eletro-optico. Na
+segunda configuracao, apenas um operador foi responsavel por controlar o VANT,
+permitindo a avaliacao do desempenho individual. Na terceira configuracao, um
+operador usou comandos de voz (em Ingles) para controlar o VANT, investigando
+o impacto na operacao e na carga mental.
+
+Dados de desempenho (NASA-TLX e ISA), medidas fisiologicas (Eye Tracker, GSR
+e ECG) e questionarios subjetivos foram coletados durante os voos para os
+operadores, enquanto a coleta de dados dos pilotos incluiu medidas fisiologicas,
+avaliacoes de carga de trabalho e comparacoes de linha de base. Essa
+metodologia permitiu uma analise detalhada dos efeitos das diferentes
+configuracoes na operacao do VANT e forneceu insights valiosos para o
+desenvolvimento de diretrizes e melhores praticas no campo da operacao de
+sistemas aereos nao tripulados.
+
+**RESULTADOS E DISCUSSOES**
+
+Os principais resultados indicaram que o segundo voo apresentou uma melhora
+significativa em comparacao com o primeiro voo, provavelmente devido a
+experiencia da equipe e familiaridade com o sistema. A configuracao do
+comando de voz teve o menor desempenho, possivelmente devido a
+otimizacao inadequada e barreiras linguisticas.
+
+Os dados do ECG produziram resultados inconclusivos, enquanto a frequencia
+cardiaca e a variabilidade da frequencia cardiaca (VFC) mostraram diferentes
+conclusoes. Um operador experimentou uma maior carga mental no primeiro
+voo e ao usar comandos de voz.
+
+Os questionarios subjetivos nao indicaram diferenca significativa na carga mental
+entre os voos. No entanto, a analise qualitativa revelou uma maior carga
+mental no segundo voo, provavelmente devido a complexidade da tarefa e
+demandas adicionais.
+
+Os operadores que usaram comandos de voz tiveram uma maior carga mental em
+ambos os voos, sugerindo maiores demandas cognitivas. O processamento e a
+interpretacao em tempo real dos comandos de voz exigem maior atencao e
+esforco mental.
+
+**CONCLUSAO PRELIMINAR**
+
+Os resultados indicam que o operador que usa comandos de voz teve o menor
+desempenho e a maior carga mental subjetiva. Essa associacao entre
+desempenho, carga mental subjetiva e respostas fisiologicas e notavel.
+
+O menor desempenho observado no operador que usa comandos de voz pode ser
+atribuido a fatores como as demandas cognitivas adicionais e os requisitos de
+processamento mental introduzidos pelas interacoes baseadas em voz. A maior
+carga mental subjetiva relatada pelo operador que usa comandos de voz se
+alinha com a natureza onerosa das interacoes baseadas em voz. As descobertas
+dos sensores fisiologicos apoiam ainda mais o aumento da carga mental nesse
+operador, indicando maior esforco mental e estresse durante a tarefa. Esses
+resultados ressaltam a importancia de considerar o impacto de diferentes
+metodos de interacao no desempenho e na carga mental para otimizar a
+experiencia do usuario e o design do sistema.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo destaca a importância de considerar cuidadosamente a interface humano-maquina (IHM) no contexto de Sistemas Aereos Nao Tripulados (UAS). Os resultados revelam que a escolha do metodo de interacao, como comandos de voz, pode ter um impacto significativo no desempenho do operador e na carga mental. E crucial que os projetistas de sistemas UAS priorizem o desenvolvimento de IHMs que minimizem a carga cognitiva, promovam a consciencia situacional e permitam uma tomada de decisoes eficiente, garantindo assim operacoes mais seguras e eficazes.

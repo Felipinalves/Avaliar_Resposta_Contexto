@@ -1,0 +1,209 @@
+**INTRODUCAO**
+
+O curso de bacharelado em Design Digital (DD) da
+Universidade Federal do Ceara esta situado no Campus de
+Quixada, um municipio do Estado do Ceara. Ele nasceu
+com a vocaçao de interagir com os cursos da area de
+computaçao, para complementa-los, e ser ele proprio um
+curso importante na criaçao, produçao e gestao de negocios
+da tecnologia de informaçao e comunicaçao. Alem disso, o
+curso e "orientado a IHC", disponibilizando um
+conjunto vasto de disciplinas obrigatorias e optativas
+correlatas a esta area . Por exemplo, sao obrigatorias:
+Interaçao Humano-Computador, Avaliaçao da Interaçao,
+Projeto de Interface Web, Projeto de Interface para
+Dispositivos Moveis, Design e Inovaçao. E sao optativas:
+User Experience, Engenharia Semiotica, Arquitetura da
+Informaçao, Ergonomia, e Prototipaçao Rapida.
+
+O Projeto Pedagogico do Curso (PPC) descreve o
+perfil do egresso como um profissional capaz de atuar na
+concepçao, desenvolvimento e execuçao de projetos e de
+sistemas que envolvam informaçoes digitais e visuais. Ele e
+capaz de produzir projetos e sistemas orquestrando
+informaçoes visuais, artisticas, culturais e tecnologicas,
+sempre de forma contextualizada com aspectos historicos,
+traços culturais, potencialidades tecnologicas e
+caracteristicas de desenvolvimento das comunidades.
+
+Para formar este perfil de egresso, a matriz curricular do
+curso foi montada de forma a integrar disciplinas das areas
+de Design, Computaçao, Comunicaçao e Artes,
+caracterizando-se como um curso multidisciplinar. Essa
+multidisciplinaridade e colocada em pratica de forma mais
+direta com quatro disciplinas regulares e obrigatorias de
+Projeto Integrado, ofertadas entre o terceiro e o sexto
+semestre do curso. O objetivo dessas disciplinas e “fornecer
+ao aluno a oportunidade de por em pratica, de forma
+integrada, os assuntos estudados em algumas disciplinas de
+semestres anteriores, bem como nas disciplinas cursadas
+simultaneamente com cada disciplina de projeto integrado"
+.
+
+Surge entao o desafio de integrar, num unico projeto,
+conceitos multidisciplinares das diversas areas do curso.
+Dentre outros, um dos principais desafios e a intersecçao
+entre alguns modelos utilizados nas areas de IHC, Design e
+Engenharia de Software. Alem disso, existem conceitos
+semelhantes com denominaçoes diferentes. Outro desafio e
+a dificuldade para se estabelecer e manter a sincronizaçao
+de conteudos e a organizaçao de um cronograma em
+comum entre as disciplinas envolvidas no projeto .
+
+Diante dessas questoes, sentimos a necessidade de
+sistematizar o processo de design implementado nas
+disciplinas de Projeto Integrado do Curso de Design
+Digital. O objetivo desse artigo e apresentar este processo e
+como ele foi construido. Mais especificamente, objetivamos
+(i) discutir e ressaltar o carater multidisciplinar da
+disciplina, (ii) apresentar as etapas de execuçao do projeto
+de design digital e (iii) definir quais artefatos devem ser
+produzidos nesse processo.
+
+Antes de descrever o processo, a seguir apresentaremos os
+principais conceitos e carateristicas das disciplinas de
+Projeto Integrado. Em seguida, relatamos como o processo
+foi construido. Depois, apresentamos o PD3 Processo de
+Design Digital Disruptivo, e, na seçao seguinte, discutimos
+sobre o carater multi versus interdisciplinar do Projeto
+Integrado. Por ultimo, apresentamos as consideraçoes finais
+deste trabalho.
+
+**PROJETOS INTEGRADOS NO CURSO DESIGN DIGITAL**
+
+As ementas das quatro disciplinas de projeto integrado tem
+o mesmo texto base Projeto pratico interdisciplinar cujo
+tema devera ser ligado as disciplinas do semestre do curso,
+com enfase nos usuarios / nos produtos / nos processos / em negocios e inovaçao
+. As quatro disciplinas ocorrem em duas aulas
+semanais, cada uma de duas horas, e sao pre-requisitos
+entre si.
+
+A Tabela 1 lista as disciplinas de Projeto Integrado onde, na
+segunda coluna, ve-se as disciplinas envolvidas. As
+disciplinas marcadas com um asterisco nos Projetos I e II
+sao correquisitos deles, ou seja, para se matricular em
+Projeto I, o estudante precisa ter concluido ou estar
+matriculado em IHC e Semiotica. Este foi um mecanismo
+usado para induzir de forma mais direta a integraçao entre
+as disciplinas, considerando a enfase de cada Projeto. Esta
+imposiçao foi realizada apenas nos dois primeiros Projetos,
+com o intuito de habituar os estudantes e os professores a
+esse formato, mas sem amarrar tanto as disciplinas, pois a
+impossibilidade de cursar uma das disciplinas que e
+correquisito geraria atrasos em cadeia, algo amenizado a
+partir do Projeto III (que nao tem correquisitos).
+
+O Projeto Integrado I tem Semiotica e IHC como
+correquisitos, possui foco no usuario, e tem como produto
+final um prototipo de alguma soluçao digital, e os projetos
+sao conduzidos seguindo o processo de design PD3
+Processo de Design Digital Disruptivo, descrito neste
+artigo. Em Projeto Integrado II, utilizam o mesmo PD3,
+consolidando seu aprendizado, mas desta vez e preciso
+entregar a soluçao digital implementada ao final da
+disciplina. Projeto Integrado III, com foco no processo,
+adota processos de desenvolvimento diretamente da
+Engenharia de Software, ao qual as equipes de alunos
+agregam os elementos do processo PD3 cabiveis no tempo
+disponivel. Por fim, Projeto Integrado IV, com foco em
+negocios, enfatiza o aprendizado de processos de negocio e,
+novamente, os alunos agregam os elementos do PD3 e de
+Engenharia de Software que considerarem prioritarios.
+
+Ate o momento, foram ofertadas as seguintes disciplinas de
+Projeto Integrado (PI) PI I (2016.1, 2016.2, 2017.1,
+2018.1), PI II (2016.2, 2017.2 e 2018.2), PI III (2017.1 e
+2018.1) e PI IV (2017.2 e 2018.2). Para os estudantes
+repetentes, ofertou-se PI I em 2016.2 e PI II em 2017.1.
+
+Para melhor compreender a complexidade destas
+disciplinas, podemos compara-la com os projetos
+integrados nao curriculares, tambem conhecidos por
+projetos interdisciplinares. Nestes, o professor e livre para
+aderir ou nao a projetos, quando busca integrar o
+conhecimento de suas disciplinas , ou mesmo
+independentes de disciplinas . O escopo do projeto e
+definido a partir das relaçoes interdisciplinares que os
+professores muitas vezes ja possuem e, o “pensar como
+fazer o projeto, sendo voluntario, ocorre (pelo menos
+inicialmente) no ambito dos planos de ensino. Quando algo
+nao da certo ou se mostra inadequado, a discussao e ajustes
+ocorrem no ambito das proprias disciplinas.
+
+Ja a versao de projeto integrado curricular e conduzida em
+torno de uma disciplina formal, que no caso do curso de
+Design Digital tem como conteudo central uma
+metodologia projetual (ou processo) que serve de eixo para
+o desenvolvimento de projetos que integrem conhecimentos
+das demais disciplinas do mesmo semestre, em um total de
+quatro disciplinas. A adesao ao projeto e compulsoria, e o
+seu escopo e definido pelo projeto do curso. Quando algo
+nao da certo ou se mostra inadequado, a discussao e ajustes
+precisam ocorrer no ambito do colegiado do curso.
+
+**METODOLOGIA**
+
+Tratamos Projeto Integrado como equivalente ao que a
+literatura denomina projeto integrador , atelie  ou
+oficina . A pedagogia de trabalho e bem caracterizada
+por Schon , como um modelo educacional pautado em
+uma epistemologia da pratica baseada na açao-reflexao.
+Denominando seus alunos como designers, Schon explica
+que estas disciplinas, “em geral, sao organizadas em torno
+de projetos gerenciaveis de design, assumidos individual ou
+coletivamente, mais ou menos padronizados de forma
+similar a projetos tirados da pratica real." .
+
+Entendemos que a disciplina nao pode ser completamente
+padronizada porque cada projeto e unico em sua concepçao
+e em processo de criaçao dos alunos. Mas demanda alguma
+padronizaçao na forma de metodologia projetual, ou
+metodologia de design, a ser utilizada.
+
+A metodologia de projetual utilizada nas disciplinas Projeto
+Integrado I e II, apos receber contribuiçoes de uma
+metodologia de gerencia de projetos de software, passou a
+ser denominada Processo de Design Digital Disruptivo
+(PD3). Ao sistematizar a pratica, os resultados academicos
+tem melhorado, e os trabalhos começam a ser bem
+classificados ou premiados em concursos nacionais na area
+de design digital. Adicionalmente, os docentes envolvidos
+começam a ver caminhos para melhor integraçao de suas
+disciplinas com o Projeto Integrado.
+
+A concepcao do PD3 e iterativa e a cada semestre recebe novos elementos. Foi inicialmente concebido no primeiro semestre letivo de 2016, a partir da experiencia com metodologias projetuais de um professor que, alem de ter experiencia de mercado em Design, havia ministrado disciplinas equivalentes em curso de Design.
+A partir da pratica de 2016, o trabalho comecou a ser sistematizado no inicio de 2017. No segundo semestre de 2017, comecou a receber elementos de gerencia de projetos do framework Scrum 20, trabalho concluido no meio do ano seguinte com a concepcao do PiScrum 7, que define o como organizar a metodologia projetual original em um processo iterativo e incremental.
+A partir daquele momento, considerou-se que a sistematizacao da pratica havia concluido um primeiro ciclo de organizacao, tendo-se combinado a metodologia projetual com um cronograma de trabalho, e o resultado passou a ser denominado Processo de Design Digital Disruptivo PD3. Disruptivo aparece no sentido de visar o desenvolvimento de solucoes inovadoras.
+Em meados do primeiro semestre de 2018, um novo ciclo de elaboracao do PD3 ja havia sido iniciado, visando uma reflexao conceitual e critica do que havia sido produzido. Buscando ser interdisciplinar, a reflexao precisa ser feita do ponto de vista de diferentes dominios do conhecimento, e os primeiros eleitos foram Design e IHC. O primeiro por ser a raiz da concepcao do PD3, reflexao que sera conduzida por uma aluna do proprio curso de Design Digital como trabalho de conclusao de curso. E priorizou-se IHC, dentre as demais disciplinas, porque foi a que recebeu mais atencao na integracao com Projeto Integrado, mas os resultados ainda nao sao suficientes para a almejada interdisciplinaridade.
+O PROCESSO DE DESIGN DIGITAL DISRUPTIVO - PD3
+O Projeto Integrado envolve muitas metodologias combinadas: a metodologia didatica, pautada na acao-reflexao 19; b metodologia projetual da area do Design; c processos de design de IHC; d orientacoes didaticas das demais disciplinas paralelas a ela; e alem de alguma metodologia para gerenciar projetos.
+Com a pratica, chegamos a convergencia de tres abordagens de projeto para fundamentar o PD3, encontradas em: Brown 3, PiScrum 7 e Barbosa e Silva 1. Iniciamos a descricao do PD3 a partir delas, seguindo suas relacoes ilustradas na Figura 1.
+A primeira, definida por Brown 3, p. 60, trata as etapas do design como espacos as vezes sobrepostos: inspiracao, no qual insights sao coletados de todas as formas possiveis; idealizacao, no qual esses insights sao traduzidos em ideias; e implementacao, no qual as melhores ideias sao desenvolvidas em um plano de acao concreto e plenamente elaborado. Para chegar ao PD3, acrescentamos Briefing e Divulgacao nao tratados por Brown porque seu contexto e de um escritorio de design que recebe briefings prontos dos clientes, e que passa para agencias de publicidade tratarem da divulgacao. Entretanto, embora o publico usuario do PD3 nao venha a se envolver diretamente nestas duas etapas, e importante considerar pelo menos a analise destas etapas em suas atividades.
+Uma vez que ja tinhamos alguma sistematizacao da pratica, as dificuldades persistentes na conducao dos projetos nos levaram a modelagem de um framework para gerencia de projetos proprio para Projeto Integrado, que denominamos de PiScrum 7: um hibrido entre Scrum enfase na entrega de produto 20 e eduScrum enfase em aprendizagem 5. Com o PiScrum, a metodologia projetual passa a ter um ritmo, bem como ferramentas que proporcionam transparencia do andamento dos trabalhos, o que possibilita o acompanhamento dos projetos por qualquer dos professores das disciplinas paralelas. Podemos comecar a dizer que se trata de um novo processo, e surge o nome Processo em Design Digital Disruptivo PD3.
+A partir do PiScrum, o processo foi organizado em cinco ciclos de desenvolvimento sprints, que proporcionam o desenvolvimento iterativo e incremental preconizado pelo Scrum, ilustrados na coluna ITERACOES da Figura 1. No caso das disciplinas de Projeto Integrado I e II, as sprints possuem tres semanas de duracao. A cada espaco definido por Brown, tem-se uma iteracao no PD3.
+Por fim, partimos de Barbosa e Silva 1 para sistematizar o que acontece em cada iteracao do PD3. Em sua revisao de literatura, os autores identificaram que o processo de design segue, iterativamente, tres atividades gerais: analise, sintese e avaliacao. Uma vez ditas iterativas, aplicamos estas tres atividades a cada uma das iteracoes do PD3, chegando ao seu formato final Figura 1. Tal configuracao encontrou fundamento em Lawson 11, um dos textos citados por 1, ao descrever analisesintese/avaliacao tambem aplicadas a cada fase iterativa de um processo geral de design.
+Assim como 1, 11, 13, tambem entendemos que um processo de design pode nao ocorrer exatamente linear: enquanto se testa diferentes versoes de prototipos, por exemplo, pode-se perceber ser mais interessante rever todo o conceito do produto e mesmo o seu publico-alvo; quando se comeca uma sintese, pode-se perceber que a analise precisa ser retomada para completar informacoes.
+Analise envolve conhecer os elementos envolvidos pessoas, artefatos e processos buscando padroes nas informacoes disponiveis 1, 11. A Sintese consiste em avancar para uma situacao futura de se gerar uma solucao, com novas propostas, a serem avaliadas 11; entendemos que e na sintese que se percebe a presenca de novos incrementos ao projeto. Na avaliacao portanto, se obtem um feedback do que foi elaborado na sintese 1.
+A Figura 1 ilustra as cinco iteracoes ou Sprints do PD3, com, a excecao da ultima, suas respectivas atividades analise, sintese e avaliacao, totalizando 14 etapas.
+Apesar de artefato nao ser exatamente uma atividade de sintese, foi assim considerado porque processos de design sao muitas vezes descritos na forma dos produtos resultantes de suas etapas, e nao de descricao de atividades realizadas. Tal caracteristica e encontrada no processo de design descrito por 13, e no levantamento de processos de design feitos por 11. A Figura 2 descreve cada artefato e o conjunto de atividades envolvidas em cada um deles.
+Na sprint problema social, o PD3 comeca analisando problema social a ser resolvido, em seguida, sintetizando-o na forma de um Briefing, o qual e avaliado quanto a clareza e pertinencia da definicao do problema. A segunda sprint se inicia com a analise de contexto, seguida da organizacao de todo o acervo da pesquisa referencial que conduz a uma sintese, esta materializada no conceito de criacao do produtosolucao um dos itens do PDP, o artefato seguinte; em seguida se avalia o conceito de criacao.
+A terceira sprint, modelo conceitual, inicia a analise de designs alternativos, uma forma de pesquisa experimental; depois sao construidos o PDP ver Figura 2 e prototipos, finalizando-se com avaliacoes iniciais dos prototipos. Na quarta sprint, projeto completo, e feita uma nova analise da solucao baseado no feedback da avaliacao da sprint anterior, seguida de uma sintese em que se produz novos incrementos, representada pelo Plano Executivo; o produto entao e desenvolvido, e depois avaliado. Em Projeto I, desenvolver significa fazer prototipo funcional, e em Projeto II implementar a solucao. A ultima sprint e focada na divulgacao, em que a sintese critica de todo trabalho e materializada em um artigo cientifico, e se produz pecas de divulgacao da solucao, podendo ainda serem avaliadas.
+A Figura 2 apresenta todos os artefatos gerados no PD3. O Briefing descreve o problema a ser resolvido 13. No meio corporativo, costuma ser fornecido pelo cliente 3, mas, em nosso meio educacional, ele e elaborado nos primeiros contatos com o cliente. Denominamos por cliente pessoas da comunidade voluntarias em participar do projeto, que compartilham seus problemas reais. Ao longo do projeto, em especial nas reunioes de avaliacao de cada etapa sprint, esse papel e representado pelo professor.
+O Acervo da pesquisa referencial e o conjunto de documentos coletados do contexto do usuario, atraves de pesquisas teoricas, iconograficas ou de campo. Podem ser leis, fotos, entrevistas, anotacoes etc. O PDP Proposta de Desenvolvimento Projetual contem as diretrizes conceituais e visuais que foram concebidas como solucao para os principais aspectos do problema 13, incluindo apresentacao, problema, solucao, projeto, materiais e tecnologias utilizadas e plano de divulgacao. O Plano Executivo, de certo modo um detalhamento do PDP, contem a documentacao necessaria a execucao implementacao completa do projeto. No Artigo Cientifico e apresentada uma analise critica do processo de desenvolvimento e do produto final. Por fim, as Pecas de divulgacao de projeto podem ser desde uma embalagem do produto, ate um cartaz ou video promocional.
+O trabalho de sistematizacao dos Projetos Integrados I e II busca prover condicoes para a efetiva interdisciplinaridade com suas disciplinas paralelas. Na secao a seguir, discutimos nosso entendimento de interdisciplinaridade, e como se percebe a atual relacao de Projeto Integrado I com sua disciplina paralela IHC.
+PROJETO INTEGRADO E IHC: MULTI OU INTERDISCIPLINARIDADE
+Apesar das relacoes interdisciplinares estarem comecando a ser percebidas pelos docentes, nem sempre os alunos as percebiam 7. Por exemplo, no inicio da ultima edicao de Projeto I, observou-se que os alunos nao estavam percebendo que uma determinada pesquisa referencial de campo proposta em Projeto I, era equivalente a uma analise de tarefas, usuarios e funcoes propostas na mesma epoca em um dos processos descritos na disciplina de IHC Estrela 1. Como consequencia, trabalharam mais do que o necessario, mostrando partes da pesquisa de campo para uma disciplina e partes em outra, sem um metodo claro. O esperado era que a referida pesquisa de campo fosse entregue completa nas duas disciplinas, para usos especificos em cada uma delas.
+Foi observado que seria necessario traduzir para o Projeto Integrado o que se esperava, por exemplo, da questao o que avaliar tratada na disciplina de IHC 1. Enquanto as tecnicas de coleta de dados caracterizadas nos metodos de investigacao entrevista, brainstorming, focus group, questionarios etc. so sao vistas tradicionalmente ao final da disciplina de IHC, enfatizando quais aspectos do sistema devem ser avaliados, em Projeto I a demanda vem no inicio do semestre para se analisar quais os problemas do clientes, bem como seus valores tecnologicos, esteticos e culturais. Para endereçar essa questao, as tecnicas de coleta de dados foram deslocadas bem para o inicio do semestre justamente para dar suporte a analise de contexto pesquisa de campo do Projeto Integrado.
+Os professores de ambas as disciplinas perceberam que nao ha muita dificuldade na integracao, mas tal compreensao nao chegou aos alunos, que foram a campo com as questoes mais eminentes em IHC, mas nao coletaram algumos dos dados previstos na metodologia de design em Projeto I.
+Estudadas as dificuldades de integracao de Projeto Integrado com as quatro disciplinas ofertadas em paralelo a ela, chega-se ao seguinte questionamento: a relacao disciplinar entre elas e mesmo interdisciplinar Podemos mesmo dizer que o Projeto Integrado e interdisciplinar Qual a diferenca entre multi e interdisciplinaridade
+A area de IHC e reconhecidamente multidisciplinar. A Comissao Especial de Interacao Humano-Computador CE-IHC da Sociedade Brasileira de Computacao SBC lista como disciplinas de interesse da area: Ciencia da Computacao, Artes, Design, Ergonomia, Psicologia, Sociologia, Semiotica e Linguistica 18. Alinhado a essa visao, a ACM SIGCHI propos um curriculo para cursos de computacao orientados a uma formacao basica em IHC, sugerindo a insercao de disciplinas de quatro areas Interacao Humano-Computador; Psicologia e Ciencia Cognitiva; Midia; e Design totalizando 23 disciplinas, alem das comuns para a formacao em computacao 9.
+A multidisciplinaridade ocorre quando diferentes dominios de conhecimento D1 e D2 se encontram mas sem ampliar, no contato com o outro, sua propria forma de ver o objeto do conhecimento. A interdisciplinaridade, por sua vez, se relaciona a uma busca por integrar as diferentes formas de ver os objetos do conhecimento proprias de cada Dn Dominio de Conhecimento. Nao almeja ser uma ciencia das ciencias, em especial porque pretende preservar os diferentes pontos de vista para nao se recair em uma situacao de unidisciplinaridade 6.
+Quando a forma de ver o mundo comeca a mudar no contato com outro dominio de conhecimento, se comeca a ter a interdisciplinaridade: D1 inclui em sua descricao de mundo parte da visao de D2 e vice-versa. Mas como ocorre na pratica Dizer que D1 consegue descrever o mundo em parte como D2, significa dizer que D1 comeca a absorver parte do dominio linguistico de D2. Desta forma, o inicio de um trabalho interdisciplinar demanda o estabelecimento de conceitos-chave para facilitar a comunicacao entre os membros da equipe 6. E esta delimitacao conceitual, pelo menos inicial, que temos comecado a tracar para chegar a interdisciplinaridade entre IHC e Projeto Integrado.
+Furtado 8 exemplifica interdisciplinaridade ao mostrar como a visao combinada da psicologia ambiental D1 integrada a visao do Design Sustentavel D2 pode contribuir para o design de sistemas interativos sustentaveis, em sua fase de elicitacao de requisitos. O trabalho elabora um quadro conceitual interrelacionando o significado, para cada dominio, das categorias individuo, artefato, atividade, contexto e interacao.
+A interdisciplinaridade ocorrera caso a caso, porque ela e um encontro entre pessoas mais do que um encontro de conteudos. O dominio linguistico falado por uma pessoa nao e so da sua area de conhecimento, mas uma bagagem de uma historia de vida. A interdisciplinaridade se constroi no encontro e na pratica.
+
+CONSIDERACOES FINAIS
+Processos de design tem comeco, meio e fim e recursos limitados. No caso de uma disciplina academica, o principal recurso e o tempo, absolutamente pre-definido. A organizacao de um processo de design em etapas bem definidas sprints, explicitamente iterativa e incremental, possibilitou mais clareza quanto ao necessario equilibrio entre o que era desejavel para as solucoes, e o que era possivel com o recurso de tempo disponivel.
+Entretanto, o processo de design mostrou-se insuficiente para promover a boa integracao com as disciplinas, mesmo no caso de IHC que ja tinha seu planejamento didatico alinhado com o planejamento do Projeto Integrado I. Temos dito que a complexidade da disciplina esta na sincronizacao de conteudos 15, o que foi bem amenizado com o PD3 que proporcionou melhores condicoes para a sincronizacao de cronogramas. As condicoes de trabalho melhoraram muito, mas ainda ha o que avancar. Um novo caminho aberto foi o estudo sobre interdisciplinaridade, que explicou o motivo das traducoes de uma disciplina para a outra terem gerado algum resultado positivo: e preciso dar atencao ao dominio linguistico utilizado nos Projetos Integrados.
+A interdisciplinaridade se aprende fazendo 6. Com a pratica de projetos integrados, junto a estudo teorico em interdisciplinaridade, se comeca a ter compreensoes iniciais do como ser, de fato, interdisciplinar no ensino de IHC.

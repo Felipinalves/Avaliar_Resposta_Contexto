@@ -1,0 +1,117 @@
+Os Sistemas Conversacionais (Conversational Systems - SCs) permitem que as pessoas intera-
+jam naturalmente com dispositivos inteligentes usando a voz, visando um en-
+volvimento que simula uma conversa normal com outra pessoa. Neste contexto,
+a U2XECS foi proposta como um questionario para avaliar a Usabilidade e a
+Experiencia do Usuario (User eXperience - UX) em SCs. No entanto, ao apli-
+car este questionario diversas vezes para diferentes SCs, o processo se torna
+dificultoso e descentralizado. Portanto, a U2XECS foi automatizada por meio
+de uma ferramenta chamada U2XECS.tech.
+
+
+**INTRODUCAO**
+
+O mercado global de Sistemas Conversacionais (Conversational Systems - SCs) esta no
+caminho para atingir 51,9 bilhoes de dolares ate 2028, expandindo a taxa de crescimento
+anual composta de 28,5% . Este rapido e significativo au-
+mento se da ao uso crescente de Assistentes Virtuais Inteligentes (Intelligent Virtual As-
+sistants - IVAs) para a automatizaçao de lares e, ultimamente, para a digitalizaçao do
+setor comercial, estando cada vez mais acessiveis atraves de smartphones e smart spea-
+kers (como Siri e Alexa). Essa disponibilidade elevada recente de SCs chama a atençao
+da area de IHC, que traz a necessidade desses sistemas serem da maior qualidade, atraves
+de conceitos como Usabilidade e Experiencia do Usuario (User eXperience - UX).
+
+A fim de verificar essas qualidades, a IHC traz tambem o conceito de avaliaçao
+de Usabilidade e UX , que permite que os desenvolvedores e
+pesquisadores do sistema possam angariar diferentes perspectivas de possiveis usuarios
+finais, antes de disponibiliza-lo ao publico. Essas perspectivas podem ser analisadas,
+identificando-se pontos positivos e negativos e usadas para a melhoria do sistema.
+
+Diante disso,  propos a Usability and User Experience Evaluation
+of Conversational Systems - U2XECS, uma tecnologia baseada em questionario que tem como objetivo a avaliacao de Usabilidade e UX de SCs. Dessa forma, foi identificada a necessidade de automatizar a tecnologia, para facilitar o seu uso e torna-la reprodutıvel.
+Tal necessidade pode ser suprida pela criacao de uma ferramenta que facilita e centraliza a aplicacao da U2XECS, chamada U2XECS.tech, apresentada neste artigo. Algumas ferramentas existentes tornaria isto possıvel, como o Google Forms1
+e Survey Monkey2. No entanto, estas ferramentas nao apresentavam a possibilidade de centralizacao de multiplas avaliacoes, ou seja, para cada nova avaliacao de um determinado SC, seria necessaria a criacao de um novo formulario da U2XECS nestas ferramentas. Alem disso, as ferramentas possuem poucas opcoes de formato de configuracao e apresentacao das perguntas. 
+
+**TRABALHOS RELACIONADOS**
+
+Algumas ferramentas existentes para avaliaçao de Usabilidade e UX foram encontradas
+antes do desenvolvimento da ferramenta proposta. O UEQ (User Experience Question-
+naire) e um questionario de avaliaçao de Usabilidade e UX de sistemas interativos que
+usa uma escala de 7 pontos entre multiplos pares de adjetivos opostos, e.g. agradavel e
+desagradavel. O UEQ foi automatizado por meio de uma planilha Excel que computa
+diversas estatisticas relevantes, porem exige a entrada manual dos dados e a regulaçao de
+escalas, alem de nao automatizar o processo de aplicaçao do questionario.
+
+Semelhante ao UEQ, ha o meCUE, questionario de avaliaçao de UX, que tambem
+utiliza uma escala de 7 pontos e e automatizada por meio de uma planilha Excel. Essa
+abordagem apresenta os mesmos problemas que o UEQ, estando limitados apenas a ana-
+lise dos dados, sem a oportunidade de automatizaçao da coleta deles.
+
+Uma ferramenta que cumpre a automatizaçao da coleta e o Testapics, que facilita
+o processo inteiro de avaliaçao. Porem, os templates de avaliaçao de Usabilidade e/ou
+UX disponiveis sao montados por um dos parceiros do site, e, no momento da proposta
+da U2XECS.tech, nao ha templates especificos para SCs.
+
+A grande maioria das ferramentas descobertas apresenta pelo menos um dos dois
+problemas a seguir: 1) trata sistemas interativos de modo generico, ou seja, nao apre-
+sentam avaliaçao especificamente para SCs; 2) nao possuem automatizaçao da coleta de
+dados, ou, quando possuem, nao apresentam customizaçao do formato. Assim, este artigo
+propoe a U2XECS.tech, que visa suprir essas lacunas.
+
+**U2XECS.TECH**
+
+A U2XECS.tech e uma ferramenta WEB voltada para pesquisadores e desenvolvedores
+de SCs que desejam verificar a Usabilidade e UX de seus aplicativos de forma digital.
+Nela, o pesquisador ou desenvolvedor pode se cadastrar e criar uma nova avaliaçao por
+meio da tecnologia U2XECS, e entao podera manda-la a seus respondentes. A ferramente
+e dividida em duas areas: o dashboard do administrador e o questionario para responden-
+tes. O funcionamento completo da ferramenta e explicitado nas subseçoes abaixo.
+
+A ferramenta foi construida como extensao da tecnologia de avaliaçao U2XECS
+criada por . A U2XECS consiste em um questionario que busca ava-
+liar a Usabilidade e UX de SCs em 9 aspectos diferentes: satisfaçao do usuario,
+eficiencia, eficacia, UX generica, afeto/emocao, prazer/diversao, estetica/atraçao, enga-
+jamento/fluxo, e motivaçao. Cada aspecto apresenta ao usuario um numero variavel de
+afirmaçoes pertinentes ao conceito avaliado naquele aspecto e que buscam avaliar o en-
+tendimento e uso do SC pelo usuario. Para cada afirmaçao, o usuario deve indicar seu
+nivel de conformidade com ela, tendo as opçoes "Concordo totalmente”, "Concordo par-
+cialmente", "Nem concordo nem discordo", "Discordo parcialmente”, e "Discordo to-
+talmente". Caso o usuario marque alguma opçao que nao seja "Concordo totalmente”,
+devera fornecer uma descriçao do problema que encontrou no SC sendo avaliado.
+
+Na dashboard do administrador (Admin Dashboard) e possivel que o administrador
+veja as avaliaçoes criadas por ele e filtre a visualizaçao por: todas as avaliaçoes (All),
+avaliaçoes em andamento (Ongoing), avaliaçoes fechadas (Closed), e avaliaçoes arqui-
+vadas (Archived). Clicando no botao Create New Evaluation, e apresentada a interface
+Evaluation Creation, onde o administrador pode criar uma nova avaliaçao adicionando
+um nome, uma descriçao e selecionando os aspectos da U2XECS que deseja incluir.
+
+A Figura 1 apresenta a interface Evaluation Visualization, na qual o administrador
+ve as informaçoes da avaliaçao, incluindo nome, descriçao, data de criaçao, respondentes
+da avaliaçao ate o momento, comentarios proprios adicionados, link gerado para os res-
+pondentes acessarem o questionario, e graficos das estatisticas das respostas angariadas
+ate o momento (podendo selecionar entre grafico de rosca e barra). Na interface Respon-
+dent Answers, o administrador verifica as respostas individuais dos respondentes, clicando
+no botao See answers de um dos respondentes na interface Evaluation Visualization.
+
+Na interface Report Generation, o administrador pode gerar um relatorio contendo
+todas informaçoes da avaliaçoes, com foco nos graficos de estatisticas. O administrador pode escolher o tipo de arquivo (PDF ou CSV), o tipo de grafico (rosca ou barra) se for
+PDF, e a inclusao ou nao dos comentarios dos respondentes sobre as sentença da U2XECS.
+
+A Figura 2 representa o questionario da U2XECS, que o respondente acessa pelo link
+fornecido pelo administrador. Nessa area, o respondente deve preencher seu nome, res-
+ponder as sentenças da U2XECS e submeter as respostas.
+
+**CONSIDERAÇOES FINAIS**
+
+Este artigo teve como objetivo apresentar a U2XECS.tech, ferramenta desenvolvida para
+auxiliar pesquisadores e desenvolvedores no processo de aplicaçao da avaliaçao U2XECS.
+Por meio da ferramenta desenvolvida, aplicadores podem criar e controlar avaliaçoes, e
+respondentes podem acessar por meio de link convite a avaliaçao que devem responder.
+Desse modo, a aplicaçao da U2XECS fica centralizada e oferece maior controle e melhor
+visualizaçao dos resultados. Ha algumas perspectivas futuras do projeto a serem desenvol-
+vidas, como (i) realizaçao de um estudo com estudantes e profissionais; e (ii) realizaçao
+de um teste de acessibilidade da ferramenta.
+
+**CONCLUSAO**
+
+Em resumo, o artigo propoe a U2XECS.tech como uma ferramenta valiosa para avaliar a usabilidade e a experiencia do usuario em sistemas conversacionais. A centralizaçao e a automatizaçao do processo de avaliaçao, juntamente com a facilidade de uso e a visualizaçao clara dos resultados, tornam a U2XECS.tech uma alternativa promissora para pesquisadores e desenvolvedores da area. As perspectivas futuras do projeto, como a realizaçao de estudos com diferentes publicos e a avaliaçao da acessibilidade, indicam o potencial de aprimoramento e expansao da ferramenta.

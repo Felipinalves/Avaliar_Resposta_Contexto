@@ -1,0 +1,247 @@
+**RESUMO**
+
+Os jogos pervasivos oferecem aos jogadores uma
+experiencia adaptavel e que mistura os mundos real e
+virtual. Como subtipo desses jogos, tem-se os Jogos
+Baseados em Localizaçao (JBL), que incorporam a posiçao
+fisica do jogador as suas regras e dinamica. Esses jogos
+possuem caracteristicas peculiares (como o uso de
+informaçoes contextuais, persistencia e forte apelo a
+interaçao social) e, por isso, avalia-los adequadamente, de
+modo a garantir seu bom funcionamento e a satisfaçao de
+seus usuarios, se torna um desafio. O presente trabalho tem
+por objetivo avaliar se metodos de avaliaçao usados em
+Games User Research (GUR) podem atender as
+caracteristicas e necessidades especificas dos JBL, visando
+contribuir para a discussao e construçao de um conjunto de
+metodos adequados a esse dominio.
+
+**INTRODUCAO**
+
+Jogos digitais sao atrativos por oferecerem acesso a mundos
+virtuais imersivos. Com a popularizaçao e evoluçao das
+tecnologias moveis, ampliou-se a gama de dispositivos
+capazes de executar diversos tipos de jogos digitais e atingir
+variados publicos, tornando os dispositivos moveis uma das
+principais plataformas de jogos. Isso abriu espaço para a
+disseminaçao dos jogos pervasivos, que resultam da mistura
+entre os ambientes real e virtual, de forma que os limites
+espaciais ou temporais entre ambos nao mais existam .
+Os jogos pervasivos modernos podem enriquecer o seu
+gameplay usando dados contextuais do jogador, obtidos
+pelos sensores de seu smartphone, para entregar uma
+experiencia de jogo adaptavel ao local onde ele se encontra,
+ao que faz, ou mesmo ao que sente . Os Jogos Baseados
+em Localizaçao (JBL) sao jogos pervasivos que usam
+tecnologias de localizaçao para incorporar a posiçao fisica
+do jogador as suas regras e dinamicas . Nos ultimos
+anos, alguns JBL alcançaram grande sucesso entre o
+publico, como e o caso de Ingress (Niantic, 2012) e
+Pokemon GO (Niantic, 2016), e conquistaram espaço nao
+so na industria de jogos, mas tambem despertaram interesse
+na comunidade academica. Isso e motivado, dentre outros
+fatores, pelo potencial de aplicaçao desses jogos em
+diversas areas (como turismo, saude e educaçao) e pelos
+diversos desafios de pesquisa que os acompanham, como a
+transposiçao de mapas entre cidades, o uso da localizaçao
+no game design, a segurança dos jogadores e questoes de
+etica e privacidade.
+
+Porem, devido as caracteristicas peculiares desses jogos
+(e.g. persistencia, uso de informaçoes contextuais,
+necessidade de deslocamento e forte apelo a interaçao
+social), avaliar a interaçao do usuario com um JBL se torna
+um desafio. E necessario considerar questoes tecnicas, mas
+tambem explorar a perspectiva do jogador e seu contexto de
+uso, de forma a captar aspectos que reflitam sua relaçao
+com o jogo, sua satisfaçao, motivaçao e o cumprimento de
+suas expectativas .
+
+Nesse sentido, Games User Research (GUR) oferece um
+conjunto de tecnicas e ferramentas especificas para avaliar a
+experiencia proporcionada por jogos digitais e obter
+insights sobre o comportamento dos usuarios que permitam
+melhorar o design de jogos digitais em geral . Assim, o
+objetivo desta pesquisa e avaliar se metodos utilizados pela
+GUR podem atender as necessidades especificas de
+avaliaçao da interaçao de JBL. Dessa forma, espera-se
+contribuir para a discussao e estabelecimento de um
+conjunto de direcionamentos para a avaliaçao da Interaçao
+Humano-Computador (IHC) nesse dominio.
+
+**FUNDAMENTACAO TEORICA**
+
+Nesta seçao sao apresentados conceitos relacionados a esta
+pesquisa, compondo uma visao geral sobre JBL e GUR.
+
+**Jogos Baseados em Localizaçao**
+
+Atualmente, os jogos baseados em localizaçao sao
+entendidos como jogos pervasivos que usam tecnologias de
+localizaçao para incorporar a posiçao fisica do jogador as
+suas regras e dinamicas . Essas informaçoes sao usadas
+para modificar o estado do jogo em sua execuçao e, com
+isso, criar uma conexao entre o mundo virtual e o mundo
+real, usando o espaço fisico como cenario. Esses jogos
+promovem uma "percepçao dupla" do espaço,
+estabelecendo entre o mundo fisico e o virtual uma relaçao
+significante para a conduçao do jogo .
+
+Alem disso, e uma caracteristica essencial dos JBL requerer
+que os jogadores se desloquem fisicamente no mundo real
+para atingir seus objetivos no jogo. Esses deslocamentos
+(que podem ser tomados de posiçao absoluta ou relativa)
+servem a propositos diversos na dinamica do jogo, como
+coletar itens, explorar determinados cenarios e encontrar
+personagens em uma missao . Para tal, os jogadores
+usam dispositivos com sensores de localizaçao enquanto se
+movem por ambientes reais e visitam pontos de interesse.
+As interaçoes ocorrem, entao, enquanto os jogadores
+exploram o mundo. Para isso, os JBL usam tecnologias
+sensiveis a localizaçao  e dependem de dispositivos
+portateis, como PDAs, receptores GPS e smartphones.
+Alem disso, os JBL podem usar uma gama de redes sem
+fio, como Wi-Fi, Bluetooth e 3G/4G, para realizar a
+comunicaçao entre os espaços fisicos e os digitais e entre os
+jogadores . Outras caracteristicas comuns aos JBL sao:
+gameplay independente de tempo ou lugar especifico (i.e., o
+jogador nao precisa estar em um ambiente especifico ou
+esperar por determinado horario para jogar), forte apoio na
+interaçao social para progresso no jogo e a possibilidade de
+jogar enquanto realiza outras atividades .
+
+Assim, as pesquisas com JBL envolvem diversos temas e
+desafios, como game design , desenvolvimento de
+ferramentas de autoria , balanceamento de mapas e
+transposiçao , e avaliaçoes da IHC  principal
+ponto de interesse deste trabalho.
+
+**IHC e Games User Research**
+
+Games User Research e um campo de estudo emergente
+que une Interaçao Humano-Computador, Desenvolvimento
+de Jogos e Psicologia Experimental , ocupando-se em
+estudar a relaçao entre o usuario e o jogo. GUR e um termo
+guarda-chuva para as areas que tratam desse estudo. Assim,
+GUR e um campo interdisciplinar de pratica e pesquisa que
+busca melhorar a qualidade da usabilidade e da experiencia
+dos usuarios em jogos digitais. Qualquer aspecto que
+influencie a percepçao e a experiencia do usuario e uma
+questao a ser investigada pela GUR , que procura
+compreender as motivaçoes dos jogadores, explicar e prever
+suas açoes, alem de buscar novas formas de coletar dados
+sobre os usuarios e aplica-los no design de jogos. Assim,
+GUR e uma parte central no desenvolvimento de jogos, pois
+ajuda os game designers a alcançarem suas metas,
+permitindo-lhes averiguar se a experiencia planejada esta
+sendo de fato entregue aos jogadores .
+
+Para alcançar tal compreensao, a GUR se utiliza de
+processos de avaliaçao que permitam observar os usuarios
+enquanto interagem com o jogo e seus componentes, e
+coletar dados significantes para a analise e compreensao da
+interaçao e da experiencia com o jogo. Como na tradicional
+avaliaçao de IHC, o objetivo nao e avaliar o usuario, mas
+obter insumos para melhorar todos os aspectos do game
+design, tendo como guia as evidencias empiricas advindas
+da experimentaçao e da aplicaçao de diversos testes. Assim,
+os estudos de GUR compreendem uma coleçao de metodos
+que permitem ao game designer aproximar sua criaçao da
+experiencia que sera vivenciada pelo jogador .
+
+No entanto, identificar quais sao os melhores metodos para
+se obter tais insumos ainda e um desafio, dada a natureza
+intrincada e subjetiva dos jogos e os diversos aspectos que
+permeiam a experiencia de um usuario com um produto
+interativo. Apesar dos metodos tradicionais de avaliaçao
+terem feito progresso na compreensao da usabilidade de
+aplicaçoes e sistemas de produtividade, as caracteristicas
+especificas dos jogos implicam que muitos desses metodos
+nao podem ser aplicados do mesmo modo para avaliar
+jogos. Um exemplo claro disso e a presença da frustraçao
+na interaçao, que e naturalmente permitida como parte de
+um jogo, mas nao e sequer tolerada em sistemas de
+produtividade. Desse modo, o aperfeiçoamento de metodos
+tradicionais de avaliaçao da IHC para a pratica de GUR e
+um topico importante para a comunidade de IHC .
+
+**OBJETIVO E RESULTADOS ESPERADOS**
+
+JBL e GUR sao dominios relativamente novos, cujas bases
+de conhecimento ainda estao em construçao, o que abre
+diversas oportunidades de pesquisa. E sabido que a
+avaliaçao de IHC e crucial para garantir que o usuario tenha
+suas necessidades e expectativas atendidas . No tocante
+aos JBL, torna-se ainda mais valiosa, uma vez que questoes
+de usabilidade que podem ser pouco impactantes em
+alguns sistemas de produtividade ou outros tipos de jogos
+podem causar grandes impactos negativos na experiencia e
+ate mesmo colocar em risco os jogadores, que estao mais
+expostos neste contexto .
+
+Diante disso, o principal objetivo desta pesquisa e avaliar se
+metodos utilizados pela Games User Research podem
+atender as necessidades especificas de avaliaçao da
+interaçao de jogos baseados em localizaçao. Pretende-se
+investigar se esses metodos sao capazes de compreender as
+caracteristicas especificas de JBL.
+
+Como resultados, esta pesquisa visa estabelecer um
+conjunto de direcionamentos para a avaliaçao com usuarios
+nesse dominio. Assim, espera-se obter dois produtos
+intermediarios e um produto principal. Os intermediarios
+sao: (1) um panorama da avaliaçao de IHC em JBL; e (2)
+um estudo de caso sobre a aplicabilidade de metodos da
+GUR para avaliar JBL. A natureza do produto principal sera
+definida com base nas lacunas detectadas ao longo da
+conduçao da pesquisa, de acordo com os resultados obtidos
+na elaboraçao dos produtos intermediarios. No entanto, e
+possivel que tal produto seja (1) um instrumento de
+avaliaçao especifico para JBL caso as etapas anteriores
+revelem que os metodos existentes nao sao eficazes para
+este contexto, ou (2) um conjunto de guidelines para a
+utilizaçao de metodos ja aplicados em GUR na avaliaçao de JBL, por exemplo. De modo geral, pretende-se gerar uma
+discussao acerca da avaliacao desse tipo de jogo, visando
+detectar desafios na area e estabelecer caminhos que a
+comunidade de IHC poderia seguir nos proximos anos de
+pesquisa.
+
+METODOLOGIA
+Para alcancar tais resultados, a pesquisa sera dividida em quatro etapas, conforme mostra a Figura 1. Vale ressaltar que os metodos e estrategias de avaliacao que serao utilizados nos proximos passos da pesquisa, por enquanto, nao estao definidos, pois os resultados de cada etapa ajudarao a definir as diretrizes para a etapa seguinte.
+
+Mapeamento sistematico da literatura
+Atualmente em andamento, esta etapa consiste na conducao de um mapeamento sistematico da literatura [7, 17], para aprofundar o conhecimento do estado da arte em avaliacao de JBL. O objetivo e identificar quais metodos e tecnicas sao mais utilizados para avaliar JBL e quais aspectos da interacao sao explorados (e.g., usabilidade, jogabilidade, diversao, experiencia), alem de outras informacoes que possam ajudar a estabelecer os rumos das etapas seguintes.
+
+Estudo de caso
+Com base nos resultados do mapeamento sistematico, sera definido um conjunto de metodos que serao utilizados na avaliacao de, pelo menos, um JBL disponivel no mercado, bem como um conjunto de aspectos da interacao a serem avaliados. Os resultados obtidos darao insumos para estabelecer a direcao que sera seguida na etapa 3 e apontarao lacunas que poderao ser supridas pela pesquisa.
+
+Elaboracao do produto principal
+Com base nos resultados obtidos nas etapas 1 e 2 da pesquisa sera definido o produto principal. No entanto, sao previstas, inicialmente, duas possibilidades: (1) a criacao de um instrumento de avaliacao especifico para JBL, ou (2) a elaboracao de um conjunto de guidelines que organize e oriente a conducao de uma avaliacao de IHC de um JBL, aplicando metodos e instrumentos detectados na literatura. De acordo com o tipo de produto escolhido, sera utilizada uma metodologia adequada para alcancar o resultado esperado.
+
+Avaliacao da solucao proposta
+Apos a elaboracao do produto, este sera avaliado para averiguar se as expectativas e a contribuicao pretendidas foram alcancadas. De acordo com o tipo de produto gerado, a avaliacao podera seguir uma das duas abordagens: (1) validacao com especialistas em desenvolvimento de jogos; ou (2) uso do produto em avaliacoes com usuarios reais. Assim como na etapa anterior, a metodologia sera escolhida apos a delimitacao do produto principal.
+
+RESULTADOS PARCIAIS
+Na conducao do mapeamento sistematico (em andamento), a busca por trabalhos foi realizada em cinco bases (Scopus, ACM, Web of Science, Science Direct e IEEE Xplore), utilizando a string (("location based game" OR "location based mobile game") OR (("pervasive game" OR "ubiquitous game" OR "augmented reality game") AND (location OR locative OR mobile OR outdoor))) AND ((user OR player OR gamer) AND (evaluation OR assessment OR study)). Foram obtidos 437 trabalhos, dos quais 381 foram excluidos por nao atenderem aos criterios de inclusao estabelecidos, o que resulta em 31 trabalhos aceitos ate o momento.
+
+A selecao dos estudos para leitura completa ainda esta em andamento, mas em uma analise preliminar desses trabalhos e possivel perceber grande variedade de metodos e instrumentos empregados na avaliacao dos jogos, sendo frequente a utilizacao de questionarios ad hoc, elaborados para atender interesses especificos dos avaliadores ou adaptados de instrumentos tradicionais para captar determinadas dimensoes dos jogos estudados. Nesses trabalhos, ha tambem diversidade nos aspectos da interacao avaliados, que incluem usabilidade, jogabilidade, diversao, engajamento, imersao, experiencia, impacto e aspectos comportamentais afetaveis pela utilizacao de JBL – muitos desses motivados pelo sucesso de Pokemon GO.
+
+Alem disso, muitos trabalhos apresentam o design de um JBL acompanhado de uma avaliacao para averiguar o potencial de atendimento a propositos especificos, que podem ser relacionados a saude, educacao, cultura e questoes tecnicas do desenvolvimento desses jogos. De modo geral, essas percepcoes parecem apontar para a inexistencia de um conjunto de metodos especificos para avaliar esses jogos ou mesmo de guidelines que orientem a avaliacao.
+
+**CONSIDERAÇOES FINAIS**
+
+A pesquisa aqui apresentada busca avaliar se metodos
+utilizados pela Games User Research podem atender as
+necessidades especificas de avaliaçao da interaçao de jogos
+baseados em localizaçao. Como contribuiçao, espera-se
+compor um panorama dos estudos em avaliaçao da IHC em
+JBL, e atuar no suprimento de lacunas detectadas ao longo
+da pesquisa, por meio da aplicaçao de conhecimentos
+provenientes da GUR. Ademais, ao constatar como a GUR
+pode ser empregada para dar subsidio a avaliaçoes mais
+efetivas de JBL, desenvolvedores de jogos e a comunidade
+de IHC interessada no dominio serao beneficiados.
+
+**CONSIDERACOES FINAIS**
+
+Esta pesquisa exploratoria visa a contribuir para o campo da IHC em jogos baseados em localizaçao, analisando a aplicabilidade de metodos de avaliaçao da experiencia do usuario em games. Espera-se que os resultados possam direcionar o desenvolvimento de soluçoes mais eficientes e que atendam as necessidades e expectativas dos jogadores, considerando as caracteristicas unicas desse tipo de jogo.

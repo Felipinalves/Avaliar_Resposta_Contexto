@@ -1,0 +1,141 @@
+**INTRODUCAO**
+
+Nos ultimos anos, o campo da Inteligencia Artificial (IA) tem experimentado avancos
+significativos, redefinindo os paradigmas de varias areas do conhecimento e pratica pro-
+fissional . Entre as ferramentas mais emblematicas desse progresso esta o
+ChatGPT, um modelo de linguagem sofisticado que tem despertado grande interesse por
+sua aplicabilidade em contextos academicos [Giray 2023].No entanto, apesar de sua capa-
+cidade de processar e gerar informacoes de maneira coerente e contextualmente relevante,
+o uso dessa ferramenta sem um metodo estruturado pode conduzir a resultados ques-
+tionaveis, comprometendo a integridade e a credibilidade das pesquisas .
+
+Diante disso, torna-se evidente a necessidade de empregar de forma sistematica e
+metodica, especialmente no contexto academico, onde a precisao e a veracidade dos dados
+sao fundamentais . Este artigo se propoe a realizar uma revisao sistematica
+da literatura academica relacionada ao uso do ChatGPT, identificando nao apenas suas aplicacoes, mas tambem os metodos mais eficazes para construcao de prompts perguntas
+estabelecidas ao sistema de inteligencia artificial generativa - que maximize a eficiencia 
+e a eficacia das respostas obtidas, contribuindo para uma utilizacao mais consciente e produtiva desta tecnologia.
+
+
+**REFERENCIAL TEORICO**
+
+O sistema Generative Pre-trained Transformer (GPT) e uma arquitetura de modelo de
+linguagem desenvolvida pela OpenAI que utiliza o mecanismo de "transformer”, uma
+estrutura de rede neural projetada para entender contextos em vastas sequencias de dados
+. O "pre-trained”no nome indica que o modelo e previamente treinado
+em um grande corpus de texto antes de ser finamente ajustado para tarefas especificas.
+Este treinamento previo permite ao GPT absorver uma ampla compreensao de lingua-
+gem e conhecimento mundial, o que e fundamental para suas aplicacoes subsequentes em
+tarefas de geracao de texto e outras interacoes baseadas em linguagem .
+
+O ChatGPT, uma implementacao especifica do modelo GPT, e especializado para
+simular dialogos. Ele e capaz de compreender e responder a entradas de texto com res-
+postas que imitam o discurso humano . O modelo opera baseado em um
+conjunto de probabilidades: ao receber um input, ele analisa seu vasto treinamento para
+gerar a resposta mais provavel, mantendo o contexto e a relevancia. Isso e conseguido
+atraves de um mecanismo de atencao que pondera a importancia relativa de cada palavra
+no contexto da conversa. Essa capacidade de manter o contexto ao longo de varias tro-
+cas de mensagens permite interacoes que se assemelham a uma conversa natural com um
+humano[Giray 2023].
+
+A engenharia de prompt, no contexto do ChatGPT, refere-se ao processo de
+formulacao cuidadosa de perguntas ou comandos para obter respostas especificas e oti-
+mizadas do modelo . Esta tecnica e essencial porque, apesar da vasta ca-
+pacidade de geracao de conteudo do GPT, a precisao e relevancia das respostas po-
+dem ser significativamente influenciadas pela forma como as perguntas sao estruturadas
+. A engenharia de prompt envolve o uso estrategico de palavras-chave, a
+clareza na formulacao de perguntas e a adaptacao do estilo do prompt para alinhar com o
+contexto necessario. Esta pratica permite aos usuarios maximizar a utilidade das respos-
+tas do ChatGPT, garantindo que o conteudo gerado seja tanto preciso quanto informativo,
+atendendo as necessidades especificas da interacao .
+
+**METODOLOGIA**
+
+Neste estudo, investigamos a aplicacao do ChatGPT em pesquisas usando uma revisao
+rapida da literatura [Cartaxo et al. 2018]) nas bases de dados IEEE Xplore (40), Science
+Direct (158) e SBC Open Lib (0). A partir da definicao de strings relacionadas ao uso do
+ChatGPT, identificamos 198 artigos.
+
+"Prompt Engineering”AND "ChatGPT”AND ("academic context”OR opportu-
+nities OR challenges) AND (”IHC”OR ‘Human-Computer Interaction')
+
+Destes artigos, foi estabelecido criterios de exclusao (CE) e inclusao (CI) que
+sao: Exclusao de artigos nao relacionados diretamente ao tema e artigos duplicados (CE),
+aceitando apenas aqueles diretamente relacionados ao tema (CI). Nessa fase foram lidos todos os resumos, para que a partir da selecao final, apenas 30 artigo permaneceram os quais passaram por uma leitura completa do artigo.
+Para a analise de conteudo dos 30 artigos, empregamos o metodo de codificacao
+fechada [Gibbs 2009], o que permitiu a categorizacao tematica e a extracao de dados relevantes. Os resultados foram compilados e analisados para formular insights sobre a eficacia do uso do ChatGPT em contextos academicos, culminando em diretrizes para aprimorar a engenharia de prompts.Porem, por limitacoes de espaco neste poster foram trazidos apenas 10 artigos que apresentam resultados mais recentes e que respondem sobre
+as principais oportunidades e limitacoes do presente estudo. 
+
+**RESULTADOS**
+
+A Tabela 1 apresenta os trabalhos selecionados e na sequencia a discussao dos artigos
+referenciados a partir de seu Id.
+
+Alguns dos principais aprendizados dentro do contexto de engenharia de prompt:
+
+Melhoria na Compreensao e Precisao do Modelo: Os prompts sao formulados
+com elementos como perguntas, palavras-chave e informacoes contextuais para melho-
+rar a compreensao das necessidades do usuario pelo modelo e aumentar a precisao das
+respostas [A01][Hui et al. ]. Por exemplo, ao solicitar que o ChatGPT atue como um "as-
+sistente energetico suportivo", ajusta-se a "temperatura"para extrair resultados factuais
+com maior precisao [A02][Spasić and Janković ].
+
+Redução de Subjetividade em Estimativas: Os métodos convencionais de esti-
+mativa de desenvolvimento de software muitas vezes dependem do julgamento de espe-
+cialistas, o que pode levar a estimativas variaveis e subjetivas [A05][Alotaib et al. 2024].
+A engenharia de prompts com o ChatGPT permite automatizar parte do processo de ra-
+ciocínio e análise, reduzindo a dependencia de dados precisos e suposições e, portanto,
+minimizando o risco de estimativas imprecisas [A08][Utaliyeva et al. 2023].
+
+Estruturação e Padronização de Respostas: A engenharia de prompts ajuda a
+descrever os requisitos da tarefa na entrada e padronizar a estrutura de saída. Isso e parti-
+cularmente útil em tarefas governamentais ou empresariais onde a consistência e confia-
+bilidade são criticas [Panagoulias et al. 2024]. Um exemplo pratico seria a padronização
+de prompts para estimar linhas de código e horas de trabalho necessarias para desenvolver
+componentes especificos de um micro-serviço [A04] [Wang et al. 2024].
+
+Aplicação em Visualizações de Dados e NLP:Além de tarefas de software, a en-
+genharia de prompts e aplicavel na geracao de visualizacoes de dados [A06]. No entanto,
+a natureza não-determinística de modelos como o ChatGPT pode introduzir variabilidade
+significativa no tipo de visualização gerada, o que exige um design cuidadoso de prompts
+para minimizar inconsistencias [A03][cheng Lei et al. 2023].
+
+Confiança e Impacto no Processo de Desenvolvimento de Software: A
+confiança no código gerado pelo ChatGPT e outros LLMs e um tema de debate, onde
+a qualidade e a segurança do código dependem significativamente dos processos de re-
+visao e teste [A07][Zhou et al. 2023]. Alem disso, a engenharia de prompts pode trans-
+formar o processo de desenvolvimento de software, facilitando modos de "aceleração"e
+"exploração para programadores [A09][Panagoulias et al. 2023].
+
+**CONCLUSAO**
+
+A interacao homem-computador (IHC) emerge com a engenharia de prompts, uma fer-
+ramenta transformadora na utilizacao de modelos de linguagem, como demonstrado pela
+aplicação metódica do ChatGPT em contextos academicos. Os resultados apresentados
+apontam que prompts bem formulados podem aumentar significativamente a compreensão
+do modelo em relação às necessidades dos usuários, melhorando a experiência com as
+respostas. Isso e particularmente util em cenarios de contato que requerem uma precisão
+crucial, como no desenvolvimento de software, onde a engenharia de prompts permite
+uma maior automação e precisão nas estimativas. Alem disso, a padronização de respos-
+tas por meio de prompts estruturados facilita a consistência e confiabilidade necessárias
+em tarefas governamentais e empresariais, refletindo a versatilidade e a aplicabilidade
+desta técnica em varias esferas de atividades.
+
+Finalmente, enquanto a engenharia de prompts fornece uma base solida para a
+interacao eficaz com LLMs, a confiança nos resultados gerados ainda exige uma abor-
+dagem cautelosa, particularmente em aplicaçoes que impactam decisoes criticas ou pro-
+cessos de desenvolvimento de software. A implementacao de processos de revisao e
+testes rigorosos e essencial para garantir a segurança e a qualidade do código gerado,
+ilustrando a necessidade de uma estrategia equilibrada que combine inovacao tecnologica
+com prudencia operacional. Assim, a engenharia de prompts nao so melhora a funciona-
+lidade do ChatGPT, mas tambem propicia uma evolução nas praticas de desenvolvimento
+de software e outras areas dependentes de processamento de linguagem avançado.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, a engenharia de prompts se revela como uma ferramenta promissora para otimizar o uso do ChatGPT no contexto academico de IHC. As tecnicas de formulacao de prompts aprimoram a precisao, reduzem a subjetividade e padronizam as respostas, impactando positivamente o desenvolvimento de software e a tomada de decisoes. A combinacao de inovacao tecnologica e prudencia operacional e fundamental para garantir a seguranca e a qualidade dos resultados gerados pelo ChatGPT.
+
+```
+
+```
+PromptEngineeringcomChatGPTnocontextoacadêmicodeIHC.txt

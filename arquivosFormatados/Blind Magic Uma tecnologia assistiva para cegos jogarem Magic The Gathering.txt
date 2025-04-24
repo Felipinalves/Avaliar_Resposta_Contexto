@@ -1,0 +1,122 @@
+**INTRODUCAO**
+
+A construcao de uma sociedade justa tem como um de seus
+pilares fundamentais a inclusao ampla, irrestrita e concreta
+de todas as pessoas, devendo ser indiferente o tipo e grau de
+deficiencia. Entretanto, os mais de 285 milhoes de deficientes
+visuais que existem no mundo apresentam uma qualidade
+de vida inferior em comparaçao com aqueles que vivem sem
+deficiencias.
+
+No entanto, a tecnologia mostra-se progressivamente como
+uma ferramenta util e poderosa para integrar essas pessoas e,
+nesse sentido, a tecnologia assistiva se destaca. A tecnologia
+assistiva (TA) tem como objetivo servir a pessoa com defici-
+encia possibilitando a ela desempenhar funçoes do cotidiano
+de forma independente. Entre as categorias poucos exploradas
+no mundo se destaca a categoria de jogos e entretenimento.
+
+Mesmo a TA sendo pouco usada, e possivel encontrar iniciati-
+vas para tornar os jogos acessiveis, como e o caso da empresa
+internacional Maxi-Aids . Alem disso, a maioria dos jo-
+gos sao adaptados em braile. Essa soluçao limita a variedade
+de jogos, pois jogos com textos extensos nao poderiam ser
+representados, ja que o braile ocupa uma superficie conside-
+ravel para representaçao. Como e o caso do jogo Magic The
+Gathering, ou simplesmente Magic.
+
+O jogo Magic e um jogo de cartas que possui textos extensos
+e diferentes em cada carta. Este e o jogo de estrategia de carta
+possui mais de 20 milhoes de jogadores, esta disponivel em
+11 idiomas e com 24 anos de existencia no mercado . Alem
+desses fatores e possivel encontrar lojas especializadas por
+todo o pais onde os jogadores se reunem para jogar. Essa
+peculiaridade poderia aproximar novos jogadores deficientes
+visuais da comunidade.
+
+Para tornar acessivel o jogo Magic foi desenvolvido um apli-
+cativo acessivel chamado Blind Magic, que consiste no uso
+de duas tecnicas simples e ja existentes. Essas tecnicas sao o
+uso do Quick Response (QR) code em cada carta - contendo
+um codigo unico e o uso de um smartphone com sistema
+operacional Android. A construçao do Blind Magic contou
+com a participaçao de um co-design deficiente visual em todas
+as etapas de desenvolvimento. O processo de design do apli-
+cativo seguiu os pilares de IHC, fazendo o processo iterativo
+para a construçao da intervençao ate o seu desenvolvimento.
+
+**PROCESSO DE DESIGN DO BLIND MAGIC**
+
+O Blind Magic foi desenvolvido guiado pelo processo de de-
+sign. A principal caracteristica de um processo de design e o
+carater iterativo das atividades ate alcançar a proposta final,
+no qual cada passo da iteraçao contribui para o refinamento da
+soluçao. O Blind Magic contou com 2 (duas) iteraçoes para
+encontrar uma soluçao. Todo o processo foi composto por
+uma equipe de 2 (dois) integrantes, a desenvolvedora e um co-
+design com deficiencia visual. A participaçao do usuario final
+permite que seja possivel aprender sobre suas necessidades,
+influenciando positivamente a soluçao .
+
+Resumidamente o processo iterativo se deu da seguinte ma-
+neira. Inicialmente foi analisado a situaçao atual para propor
+uma intervençao, para isso foram investigados os seguintes
+aspectos: (i) analise de jogos similares, a fim de conhecer refe-
+rencias com boa avaliaçao no mercado; (ii) explorar o jogo de
+cartas Magic, bem como suas regras e o cenario cultural; (iii)
+definir plataforma de desenvolvimento da intervençao conside-
+rando o publico alvo. Considerado suficiente a exploraçao do
+cenario atual, foi proposto uma intervençao e entao construido
+uma prototipaçao em papel para ser testado pelo co-design e
+entao desenvolvido. Esse primeiro modelo desenvolvido nao
+foi satisfatorio, pois apresentava muitos passos considerados
+desnecessarios, e a leitura do QR code considerada lenta para
+a dinamica do jogo. Com isso, se deu a segunda iteraçao do
+processo de design, sendo necessario re-definir o planejamento
+da intervençao e propor uma nova abordagem. A intervençao
+considerada suficiente e descrita detalhadamente a seguir.
+
+O processo de design do Blind Magic guiou a soluçao para
+a construçao de um aplicativo acessivel, compativel com o
+sistema Android 4.4 ou superior. A acessibilidade no aplicativo
+beneficia os usuarios que fazem uso do aplicativo TalkBack.
+O TalkBack e o leitor de tela nativo nos dispositivos Android
+. Para realizar os teste com o aplicativo foi adquirido a
+descriçao de um restrito conjunto de cartas para serem usadas
+na base de dados interna do aplicativo. Foi necessario tomar
+essa decisao, pois todos os anos sao lançadas novas cartas .
+Para cada carta foi gerado um codigo unico no formato QR
+code, quando o aplicativo faz o reconhecimento do QR code
+e entao feita uma consulta no banco de dados interno e uma
+resposta e retornada ao usuario.
+
+Com a idealizaçao do design junto a participaçao do co-design,
+foram construidas as telas para o aplicativo. A construçao dos
+layouts seguiram os criterios definidos nas diretrizes de acessi-
+bilidade do Android1. O processo resultou na construçao de
+duas tela, a primeira representa diretamente o leitor das cartas.
+Quando identificado uma carta e retornado um feedback em
+formato de vibraçao e informado a descriçao em um formato
+que pudesse ser consultado de forma iterativa cada campo da
+carta, as telas podem ser vistas na Figura 1.
+
+**CONCLUSAO**
+
+Este trabalho desenvolveu uma TA para os deficientes visuais
+jogarem Magic. Para isso, alem de contar com a participa-
+çao do co-design deficiente visual, foi necessario conhecer as abordagens e as propostas que existiam para jogos de cartas
+acessiveis, bem como suas limitacoes. Tambem foram explorados o funcionamento e as caracteristicas culturais em que o
+jogo Magic se aplica.
+A partir disso, foi elaborada uma intervencao na qual se baseou a construcao do Blind Magic. O desenvolvimento se deu
+atraves do processo iterativo com um usuario final deficiente
+visual no papel de co-design e tambem contou com as diretrizes de acessibilidade disponiveis na documentacao Android.
+Ao fim do processo de design, foi construida uma TA para
+deficientes visuais jogarem Magic.
+Para utiliza-la o jogador precisa de duas ferramentas: (i) uma
+lista de QR codes, que pode ser impressa e (ii) o aplicativo
+Blind Magic que, necessita de um smartphone com camera e
+sistema operacional Android 4.4 ou superior.
+
+**CONSIDERAÇOES FINAIS**
+
+O desenvolvimento do Blind Magic, uma tecnologia assistiva para deficientes visuais jogarem Magic: The Gathering, representa um importante avanço na promoção da inclusão e acessibilidade no mundo dos jogos. Ao permitir que pessoas com deficiência visual desfrutem desse popular jogo de cartas, o Blind Magic não apenas proporciona entretenimento, mas também contribui para a integração social e o desenvolvimento de habilidades cognitivas. Este trabalho destaca a importância da colaboração entre desenvolvedores e usuários finais no processo de design, garantindo que a tecnologia atenda às necessidades e preferências do público-alvo.

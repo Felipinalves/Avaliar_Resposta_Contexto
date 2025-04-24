@@ -1,0 +1,171 @@
+**INTRODUCAO**
+
+A disseminaçao do corona-virus, ou Covid-19, por todo o mundo colocou a humanidade
+em uma situaçao sem precedentes . A populaçao mundial foi intimada a ficar
+em casa para se cuidar e cuidar do outro. No Brasil, em março de 2020, as instituiçoes
+de ensino fecharam por determinaçao dos governos estaduais para evitar a propagaçao
+do novo virus. As instituiçoes de ensino privadas fizeram varios esforços para garantir
+a continuidade das aulas no ambiente online, seja oferecendo treinamentos a professores
+como tambem investindo em tecnologia para que as aulas pudessem ter continuidade no
+ambiente online.
+
+Neste sentido, foi necessario adaptar as aulas presenciais as aulas online, denomi-
+nado ERE - ensino remoto emergencial. O ERE, segundo  envolve o
+uso de soluçoes de ensino totalmente remotas para instruçao ou educaçao que foi adotada
+de modo temporario para que as atividades escolares nao sejam interrompidas. Neste am-
+biente nao basta transformar a aula presencial em online, e necessario que haja inovaçao
+didatica do professor, adequando os metodos de ensino a nova realidade imposta.
+
+O objetivo deste trabalho e compartilhar a experiencia vivenciada na disciplina
+de IHC, numa instituiçao de ensino superior privada, no Brasil, em meio a pandemia
+provocada pelo Covid-19. Por meio deste relato espera-se contribuir com outros docentes,
+especialmente de IHC, para tornar as aulas mais dinamicas e promover o engajamento dos
+estudantes, contribuindo para o aprendizado significativo de IHC.
+
+**PERFIL DA DISCIPLINA DE IHC E DOS ESTUDANTES**
+
+No Centro Universitario Una, em Belo Horizonte, a disciplina de Interaçao Humano-
+Computador e ministrada no 1º periodo do curso de Sistemas de Informaçao. Assim,
+logo no inicio do curso, os estudantes tem a oportunidade de compreender que os siste-
+mas interativos sao desenvolvidos para ajudar as pessoas. A disciplina tem carga horaria
+de 80 horas/aula, sendo 40 aulas teoricas, em sala de aula, e 40 aulas no laboratorio
+de informatica, com aulas praticas. A ementa e composta por: Introduçao a Interaçao
+Humano-Computador; Qualidades de uso; Principios de Interface Humano Computador;
+Experiencia do Usuario (UX); Usabilidade para interfaces desktop, web e mobile.
+
+Este semestre, em funçao do Covid-19, os estudantes tiveram exatamente 16 ho-
+ras/aula presencial, nos meses de fevereiro e março de 2020. Em março de 2020 foi
+decretado o fechamento das escolas e instituiçoes de ensino na cidade de Belo Horizonte.
+Desde entao, foi necessario adaptar as aulas e atividades da disciplina de IHC. Sobre o
+perfil da turma: havia 28 alunos matriculados nesta disciplina, sendo 3 meninas e 25 me-
+ninos. A maioria desses alunos estao na faixa etaria de 18 a 25 anos e cursam sua primeira
+graduaçao. A seguir sao apresentadas as estrategias utilizadas para realizaçao das aulas.
+
+**FERRAMENTAS E ESTRATEGIAS UTILIZADAS PARA REALIZAÇAO DAS AULAS**
+
+No inicio das aulas online, a instituiçao de ensino disponibilizou duas possibilidades de
+ferramentas para as aulas sincronas, Google Meet e Zoom. A ferramenta escolhida pela
+educadora foi o Google Meet, dada sua boa usabilidade e facilidade para gravaçao das
+aulas, integrada ao proprio Google Drive institucional. Todas as aulas eram gravadas e
+disponibilizadas integralmente, sem ediçao, para os alunos.
+
+O recurso de gravaçao das aulas foi muito elogiado pelos alunos, pois varios de-
+les tinham limitaçoes com a conexao de internet, e.g. instabilidade na conexao. Com
+a gravaçao, os alunos podiam assistir as aulas posteriormente e tambem rever algum
+conteudo para sanar duvidas.
+
+O ambiente virtual de aprendizagem (AVA) usado para disponibilizar materiais
+e entrega de atividades foi o Google Classroom. Nele, os estudantes tinham acesso aos
+conteudos abordados nas aulas, sugestoes de leitura, atividades, etc. A centralizaçao das
+informaçoes nesta plataforma foi importante para a organizaçao da disciplina, bem como
+para que os estudantes pudessem localizar facilmente os conteudos e atividades a realizar.
+
+No ambiente online tambem foi necessario criar diferentes canais de comunicaçao,
+assegurando que informaçoes importantes chegassem no tempo devido, (e.g. atividades
+avaliativas). Assim, frequentemente o professor enviava e-mails avisando sobre ativi-
+dades avaliativas e demais entregas importantes. Alem disso, tambem eram enviadas
+mensagens pelo whatsapp, via representante de turma, para que a mensagem pudesse ser
+encaminhada ao grupo da turma, como segundo meio de comunicaçao. Na seçao seguinte,
+sao apresentadas estrategias de afetividade utilizadas.
+
+**CRIANDO VINCULO E PROMOVENDO O ENGAJAMENTO COM OS ESTUDANTES**
+
+ define engajamento como o “envolvimento dos estudantes com atividades
+e condiçoes que possam gerar aprendizagem de alta qualidade”. Neste sentido, na relaçao
+docente-discente faz-se necessaria a criaçao de um ambiente pautado na solidariedade e
+empatia, especialmente em meio a pandemia provocada pelo Covid-19. Assim, quanto
+maior a interaçao do docente no sentido de oferecer suporte aos discentes, maiores sao as
+chances de promover um bom engajamento dos estudantes.
+
+Promover o engajamento do aluno em sala de aula presencial e um desafio, pois
+requer, segundo [Zepke and Leach 2010], motivaçao do aluno, relaçoes entre professores
+e alunos, apoio institucional e desenvolvimento da cidadania ativa. No ensino remoto
+emergencial (ERE) esse desafio aumenta consideravelmente, pois em meio a um cenario
+de crise, ele precisa ter autoestima e confiança em si proprio, exercendo o seu protago-
+nismo.
+
+A fim de buscar uma aproximaçao dos estudantes, na primeira semana de aula os
+alunos foram convidados a escrever um texto sobre si mesmo. O texto inicia com "Eu
+gostaria que minha professora soubesse...”. Com esse texto, a educadora teve a oportuni-
+dade de conhecer um pouco seus alunos. Assim, ocorreu uma aproximaçao do educador
+com a realidade de cada aluno. Para as aulas online, esse conhecimento previo sobre os
+estudantes foi um diferencial para auxiliar no engajamento e motivaçao dos alunos.
+
+Problemas de infraestrutura (e.g. dificuldade de acesso a internet) impediram al-
+guns alunos de acessar o link para participar das aulas sincronas. Para controle pessoal,
+a docente criou um formulario online para identificar quais alunos estavam presentes na
+aula sincrona. Semanalmente, a educadora comparava essa listagem com os alunos ma-
+triculados, para verificar quais alunos estavam ausentes nas aulas sincronas. Assim, se-
+manalmente a professora enviava e-mails individuais aos alunos ausentes para identificar
+o motivo da ausencia. Isso criou uma proximidade com o estudante e ele sabia que sua
+ausencia era percebida pela educadora. Esta açao foi feita nas primeiras semanas do
+isolamento social e, em meados do semestre, foi possivel perceber sua eficacia. Os estu-
+dantes, quando tinham alguma dificuldade e nao conseguiam participar da aula sincrona,
+enviavam email a professora para justificar o motivo da ausencia.
+
+Para acolher os estudantes em suas necessidades individuais foi criado um canal
+de comunicaçao denominado Projeto Mentoria. Essa açao teve como objetivo ser um
+espaço para o aluno falar sobre sua vida profissional, academica e pessoal. Tratava-se de
+um encontro online, sincrono, fora do horario de aula para atender o aluno individual-
+mente e fornecer apoio e orientaçoes que pudessem contribuir na formaçao do discente.
+Durante o isolamento social varios estudantes buscaram essa ajuda, porque estavam com
+dificuldades de adaptaçao ao novo modelo imposto, de ensino online, assim como melho-
+ria do curriculo para buscar novas oportunidades de trabalho, inseguranças geradas pelo
+Covid-19, dentre outras. A seguir, sao apresentadas as atividades realizadas no ERE no
+contexto de IHC.
+
+**ATIVIDADES REALIZADAS**
+
+Para incentivar os estudantes a participarem ativamente das aulas de IHC, a professora
+utilizou diferentes recursos, que sao apresentados a seguir.
+Acessibilidade: nesta aula o objetivo era trabalhar os conceitos envolvidos nesta
+qualidade de uso e promover uma reflexao sobre a importancia de produzir interfaces
+acessiveis. Individualmente os alunos foram conduzidos pela professora e fizeram a ati-
+vidade Bengala Legal, proposta por .
+Comunicabilidade: nesta aula o objetivo era que os alunos compreendessem a
+importancia da comunicabilidade em uma interface, avaliando tambem o que e uma boa
+ou ma comunicabilidade. Para isso, foi feita uma adaptaçao do jogo Imagem e Açao. A
+turma se dividiu em pequenos grupos no Google Meet. Cada grupo deveria escolher 4
+icones e fazer o desenho desse icone na ferramenta Paint. Os demais grupos deveriam
+adivinhar qual era o icone e sua funcionalidade. Os estudantes se divertiram com essa
+atividade e perceberam o quanto e desafiador se comunicar de modo eficaz e eficiente
+com os usuarios. Alem disso, discutiram sobre questoes de baixa e alta comunicabilidade
+das imagens criadas, bem como dos desafios de representar icones e sua funcionalidade.
+
+Avaliacao da compreensao do conteudo: com o intuito de verificar o nivel de compreensao dos alunos sobre os conteudos abordados foram utilizadas ferramentas como formulario do Google, Socrative e Kahoot, sugerida por [Silveira 2019]. O Kahoot foi muito elogiado pelos alunos, por utilizar a gamificacao, diferente das demais. Os estudantes sentiam-se motivados a estudar o conteudo, pois almejavam obter uma boa pontuacao no quiz. Para valorizar e reconhecer os alunos que obtinham as melhores pontuacoes, a professora inseriu o ranking no AVA da disciplina. Com isso, outros estudantes tambem desejavam estar no ranking e para isso, estudavam o conteudo com afinco. O Kahoot foi utilizado em 2 momentos do semestre: aulas anteriores as avaliacoes e aula sobre avaliacao heuristica, para consolidacao do aprendizado. Formularios do Google e Socrative foram utilizados como ferramentas para as avaliacoes formais.
+
+Talk com convidados: foram realizadas 2 talks com convidados. A primeira contou com a participacao de 2 alunos, sendo um ex aluno e um veterano matriculado no ultimo semestre do curso. Ambos foram destaques no curso de Sistemas de Informacao da Una e atuam em renomadas empresas na area de tecnologia. O objetivo desta talk era inspirar os alunos por meio dos exemplos de seus pares, contribuindo para a melhora da autoestima e autoconfianca, mostrando que eles tambem podem obter boas oportunidades de trabalho. Alem disso, por se tratar de uma turma de alunos calouros, para muitos deles este foi o primeiro contato que tiveram com profissionais atuantes na area de TI. A segunda talk foi com uma designer que atua numa grande empresa. Nesta talk a proposta era trazer um pouco do mercado de trabalho para dentro da sala de aula. Assim, os estudantes tiveram a oportunidade de compreender como o conteudo visto nas aulas e utilizado na pratica. Apos a realizacao das talks, os estudantes foram convidados a registrar sua opiniao sobre as mesmas. De modo geral os estudantes gostaram das palestras, pois foi possivel aumentar o networking, ampliar o conhecimento sobre as possibilidades de atuacao no mercado de trabalho e sair da rotina das aulas com convidados externos.
+
+Trabalho Pratico - TP: o alinhamento construtivo parte do principio de que o estudante constroi seu aprendizado por meio de atividades de aprendizagem relevantes. Esse significado e desenvolvido pelo proprio estudante a medida que o professor cria um ambiente que maximize a probabilidade dos estudantes se engajarem nas atividades desenvolvidas para alcancar os objetivos estabelecidos previamente [Biggs 2003].
+
+Neste contexto, foi proposto aos estudantes o desenvolvimento de um trabalho pratico que compreendeu a criacao de uma solucao tecnologica voltada para pessoas maiores de 60 anos, os idosos. A solucao deveria auxiliar os idosos na utilizacao de tecnologia, podendo ser um aplicativo, jogo ou outra ferramenta que possa auxiliar os idosos em tempos de isolamento social, provocado pelo (Covid - 19), uma vez que essa grande parcela da populacao foi muito afetada pela pandemia, por ser um grupo vulneravel.
+
+Neste trabalho era esperado que os estudantes pudessem trabalhar uma situacao real do processo de design de interacao, alem de contribuir com o desenvolvimento de habilidades socioemocionais, como trabalho em equipe, gestao do tempo, etc. O produto final deste projeto buscou promover a inclusao e acessibilidade digital, e o bem-estar social dos idosos, alem de conscientizar os estudantes sobre a importancia de oferecer uma contribuicao social para a comunidade no seu entorno. Assim, essa proposta era tambem uma oportunidade para que os estudantes pudessem se conectar a familiares que sao de outra geracao, como os pais, avos e outros, uma vez que nao poderiam sair de casa para fazer os testes necessarios nas ferramentas criadas por eles.
+
+O trabalho foi realizado em equipes compostas por 4 a 5 membros, onde cada um exercia um papel (e.g. analista, designer ou gerente de projeto). Foi utilizado o Design Thinking [Brown 2018], que e uma metodologia pratica, centrada no usuario para a solucao de problemas. Essa metodologia foi escolhida por ser amplamente utilizada no mercado de trabalho e por ser uma ferramenta que auxilia na resolucao de problemas.
+
+Analise dos estudantes sobre as aulas de IHC
+Por ter sido um semestre atipico em funcao da pandemia e da necessidade de adaptacao rapida ao novo cenario, ao longo do semestre a educadora utilizou ferramentas como formularios online para perguntar a opiniao dos estudantes sobre as aulas, estrategias adotadas e o que poderia ser melhorado. A seguir sao apresentados os resultados da analise dos comentarios feitos pelos estudantes considerando: (i) opiniao sobre as aulas de IHC e (ii) ferramentas ou acoes preferidas.
+
+Opiniao sobre as aulas de IHC: de modo geral os estudantes ficaram satisfeitos com a dinamica das aulas. Segundo eles houve um esforco por parte da educadora em se adaptar ao novo modelo de aulas online, utilizando diferentes estrategias e tornando a aula dinamica e engajadora. Alem disso, conforme o E1, a professora foi alem do conteudo, se preocupando com o lado humano dos estudantes, com dicas de saude mental, gerando engajamento e demonstrando empatia conosco. Isso demonstra a importancia da afetividade, do cuidado com o estudante enquanto ser humano para engajar e promover um espaco de aprendizado, especialmente em meio a pandemia. Alem disso, conforme o E6 o TP foi uma oportunidade de estar mais proximo da familia, dos idosos.... Aqui fica claro que o objetivo de aproximar o estudante dos idosos da familia tambem foi alcancado. Ja E10 ressalta: Mais do que nunca foi necessario que os estudantes trabalhem de forma cooperativa e coletiva para absorver e construir o conhecimento de forma conjunta. Esse comentario reforca a necessidade do senso coletivo para o processo de aprendizado para os estudantes. E10 conclui: ...os professores terao que repensar a forma de realizar avaliacoes tambem, porque esse modelo nao foi feito para uma realidade virtual onde os estudantes podem interagir entre si.
+
+Acoes realizadas: sobre o TP, os estudantes tiveram a oportunidade de vivenciar na pratica o processo de design de interacao, passando por todas as etapas, desde a concepcao aos testes. O TP proporcionou aos estudantes maior interacao entre os membros do grupo, desenvolvimento de habilidades socioemocionais e pratica do conteudo teorico. Segundo o estudante 2, E2: No TP coloquei em pratica o conhecimento de IHC, desde entender como a interface deve ser montada pensando diretamente no publico alvo, a como conseguir dados desse publico, entender as dificuldades, imaginar possiveis problemas, adaptar o programa (no nosso caso, o jogo), etc. E9 relatou sobre a realizacao do trabalho em etapas: O TP foi muito importante porque foi feito em etapas que consolidavam os conceitos aprendidos, entao enquanto a turma aprendia a teoria ja podia (ir) aplicando a pratica. Para mim, foi a melhor forma de aprendizado.
+
+Os estudantes tambem destacaram a necessidade de disciplina por parte dos alunos para estudar e participar ativamente das aulas online; maior aproximacao com os colegas por meio do TP; e os jogos (Kahoot) que faziam os estudantes aprenderem de modo ludico. Alem disso, a comunicacao frequente e em diversas plataformas foi destacada pelos estudantes, assim como o envio de conteudos adicionais a disciplina, contribuindo para que os estudantes fossem alem do que foi abordado nas aulas. Outra acao ressaltada foram as talks que contribuiram para uma conexao com o mercado de trabalho, bem como a aula online no horario respectivo e a gravacao da mesma, para consulta posterior.
+
+Consideracoes Finais
+Neste trabalho, descrevemos um conjunto de atividades realizadas na disciplina de IHC, em meio a pandemia do Covid-19 no ensino remoto emergencial, no Brasil. O intuito deste relato e compartilhar as experiencias realizadas nesta nova modalidade de ensino e que proporcionaram o engajamento por parte dos estudantes da referida instituicao. Assim, acredita-se que este compartilhamento pode ser util a professores, especialmente da area de IHC.
+
+Como trabalho futuro pretende-se aplicar essas atividades em outras turmas, em outras modalidades de ensino (e.g. presencial, online ou hibrido), a fim de investigar a efetividade dessas acoes. Tambem pretende-se investigar as vantagens e desafios de trabalhar IHC no primeiro periodo do curso.
+
+**CONIDERACOES FINAIS**
+
+Em tempos de incerteza, a adaptaçao e a inovaçao sao importantes para a promoçao
+de um ambiente de aprendizado significativo, em que o aluno e o protagonista de
+seu desenvolvimento. E relevante destacar o papel fundamental das tecnologias
+digitais, especialmente as ferramentas de comunicaçao e colaboraçao, que
+permitiram a continuidade das aulas e a manutençao do vinculo entre professores
+e alunos. Para trabalhos futuros a intençao e aplicar essas atividades em outras
+turmas, em outras modalidades de ensino a fim de investigar a efetividade dessas
+açoes. Tambem pretende-se investigar as vantagens e desafios de trabalhar IHC
+no primeiro periodo do curso.

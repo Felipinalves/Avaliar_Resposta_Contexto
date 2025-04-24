@@ -1,0 +1,173 @@
+**INTRODUCAO**
+
+Uma vantagem de interfaces com boa usabilidade e o bem-estar do
+usuario . Ao interagir com interfaces mal projetadas, os usuarios
+tendem a se frustrar com a diminuiçao da produtividade e o excesso
+de erros cometidos. Alem disso, quando os usuarios nao conseguem
+manipular os sistemas computacionais, eles perdem sua utilidade
+. Interfaces bem projetadas melhoram a forma como os usuarios
+interagem com seus dispositivos, proporcionando eficacia, eficien-
+cia e satisfaçao, pois podem realizar seu trabalho com qualidade e
+em tempo satisfatorio.
+
+Uma forma de se obter boas medidas de usabilidade e seguindo
+alguns principios ou criterios bem aceitos e reconhecidos. Entre os
+criterios mais populares estao as Heuristicas de Usabilidade , as
+Regras de Ouro  e os Criterios Ergonomicos . Outro importante
+conjunto de criterios de usabilidade e o Principios do Dialogo, apre-
+sentado pela ISO 9241 . Os criterios mais comuns entre esses
+conjuntos sao: (1) tratamento de erros (prevençao e correçao); (2)
+consistencia dos elementos da interface; (3) feedback do usuario; (4)
+adaptaçao do usuario; (5) reduçao de carga de trabalho; e controle
+do usuario.
+
+Devido a importancia da usabilidade para interfaces de usuario
+e constatando a carencia de soluçoes computacionais disponiveis
+para apoiar o processo de ensino/aprendizagem, este artigo pre-
+tende contribuir apresentando o UsabilidadeZero, uma aplicaçao
+web de apoio ao ensino de usabilidade. O UsabilidadeZero e uma
+ferramenta que expoe as diferenças entre duas interfaces de usuario,
+uma com usabilidade reduzida e outra interface que aplica alguns
+criterios para tornar mais facil aos usuarios concluir suas tarefas
+em menos tempo e com menos esforço. O UsabilidadeZero deve
+fornecer uma experiencia de usuario que permita aos alunos (i) reco-
+nhecer a importancia da usabilidade para um produto de software;
+(ii) reconhecer criterios de usabilidade; e (iii) reconhecer medidas
+de usabilidade.
+
+**USABILIDADEZERO**
+
+O UsabilidadeZero (https://bit.ly/usabilidadezero) e uma aplicaçao
+web desenvolvida para ajudar estudantes de graduaçao a entender a
+importancia da usabilidade e como ela pode afetar a experiencia do
+usuario, a distinguir formas de medir a usabilidade, e a reconhecer
+criterios que promovam a boa usabilidade. Ao usar a aplicaçao, os
+alunos participam de dois estudos de caso nos quais eles devem
+concluir tres tarefas. A diferença esta na usabilidade dos ambientes,
+sendo que no primeiro (ECO) a usabilidade foi intencionalmente
+reduzida e o segundo ambiente (EC1) atende a criterios que aumen-
+tam a sua usabilidade. Apos cada um dos estudos de caso, os alunos
+preenchem o questionario de satisfaçao SUS e recebem o relatorio
+com as medidas de eficiencia, eficacia e satisfaçao resultantes de
+sua participaçao naquele estudo de caso. Ao final da interaçao, os
+alunos devem ser capazes de compreender como a aplicaçao de
+criterios de usabilidade pode impactar no desempenho dos usuarios
+na execuçao de suas tarefas.
+
+O contexto no qual os alunos executam os estudos de caso e o
+mesmo um portal web para acesso e participaçao em conferencias
+na area da computaçao. Tanto no ECO quanto no EC1, os usuarios
+encontram as mesmas funcionalidades: uma lista de eventos, for-
+mulario para inscriçao no evento e a possibilidade de emissao de
+certificado de participaçao. No entanto, a forma como os usuarios
+interagem com o sistema tende a ser muito diferente em cada um
+devido as diferenças de usabilidade. As tarefas que o aluno deve
+realizar no ECO e EC1 sao as mesmas, pois o objetivo e destacar a
+importancia da usabilidade para a experiencia do usuario.
+
+Durante a execuçao das tarefas, a tela exibe uma barra com
+orientaçoes na parte superior. Dois botoes estao no lado direito da
+barra (Sair e Concluir), que o usuario pode pressionar a qualquer
+momento durante a execuçao das tarefas. O usuario deve pressionar
+o botao Concluir quando entender que concluiu a tarefa. So entao o
+UsabilidadeZero confirma se a tarefa foi realmente concluida.
+
+Apos completar as tres tarefas em ambos os estudos de caso, o
+aluno recebe um relatorio final comparando as medidas de usabilidade. O UsabilidadeZero considera as seguintes medidas: eficiencia:
+numero de cliques e tempo para concluir cada tarefa em cada estudo
+de caso; eficacia: a porcentagem de tarefas concluidas com sucesso.
+Para essa medida, a aplicacao considera dois aspetos: (i) eficacia
+verificada – porcentagem real de tarefas concluidas, verificada automaticamente pela aplicacao; (ii) eficacia percebida – compreensao
+do usuario sobre a conclusao da tarefa; e satisfacao: pontuacao
+obtida no questionario do SUS.
+
+**AVALIAÇAO**
+
+Para avaliar a aplicaçao, foi utilizada a abordagem GQM (Goal-
+Question-Metric) . O primeiro objetivo da avaliaçao foi verificar
+se o UsabilidadeZero trouxe experiencias distintas para os alunos
+em cada estudo de caso. O segundo objetivo foi verificar se os alu-
+nos tiveram algum aprendizado sobre o tema apos a interaçao com
+a aplicaçao. Para responder as questoes relacionadas aos objetivos,
+foram utilizados os dados coletados durante o uso do Usabilida-
+deZero e tambem por meio de dois formularios, um antes e outro
+depois da interaçao, preenchidos pelos participantes.
+
+Primeiramente, os participantes assinaram um "Termo de Con-
+sentimento Livre e Esclarecido" e informaram sobre seu perfil de-
+mografico e conhecimento previo na area. Posteriormente, respon-
+deram as questoes avaliativas do seu conhecimento previo sobre o
+tema (pre-questionario). Em seguida, cada participante utilizou o
+UsabilidadeZero, realizando as tres tarefas de cada estudo de caso.
+Por fim, responderam ao pos-questionario, que abordou as mesmas
+questoes do pre-questionario alem de outras questoes sobre sua
+experiencia com o uso da aplicaçao. A avaliaçao foi realizada em
+tres turmas distintas, totalizando 64 participantes, e nenhuma falha
+foi observada e/ou relatada durante as sessoes.
+
+Para verificar a eficiencia do desempenho dos participantes, fo-
+ram considerados tanto o tempo para conclusao das tarefas quanto
+o numero de cliques. Houve uma diminuiçao de 62,2% no tempo
+medio, de 520,5 segundos no EC0 para 196,6 segundos no EC1, e de
+61,5% no numero medio de cliques, de 102,5 cliques no ECO para
+39,3 cliques no EC1. Quanto a eficacia, houve um aumento de 92,9%
+no numero medio de tarefas concluidas, de 38,7 tarefas em EC0 para
+74,7 tarefas em EC1. A diferença entre a satisfaçao proporcionada
+pelos dois estudos de caso tambem foi bastante acentuada. A pon-
+tuaçao media dos alunos na escala SUS foi de 21,7 pontos no ECO e
+de 81,9 pontos no EC1, um aumento de 277,3%, aproximando-se da
+satisfaçao excelente . Conclui-se, entao, que o EC1 apresenta ao
+usuario maior usabilidade do que o ECO.
+
+Ao apresentar os relatorios do desempenho dos participantes
+com as medidas de usabilidade, esperava-se que eles pudessem
+entender como essas medidas sao obtidas. Os dados coletados dos
+pre- e pos-questionarios demonstram um aumento na percepçao
+de como medir eficiencia (de 56,2% para 70,3%), eficacia (de 40,6%
+para 60,9%) e satisfaçao (de 60,9% a 71,8%). Essa variaçao nao foi
+significativa quando aplicado o Teste de McNemar para eficiencia e
+satisfaçao. No entanto, o teste apontou um efeito significativo no
+aprendizado de como medir eficacia.
+
+A maioria dos participantes (81,2%) confirmou que conseguia
+"reconhecer varios aspectos que impactam na facilidade de uso de
+uma aplicaçao", com mais de 93% reconhecendo pelo menos um cri-
+terio de usabilidade. Eles tambem descreveram alguns aspectos que
+prejudicaram sua experiencia. Acredita-se que o UsabilidadeZero
+pode ser uma ferramenta util para apoiar o ensino deste topico,
+pois o professor pode trazer muitos desses elementos para discutir
+com os alunos posteriormente ao uso da aplicaçao.
+
+**CONCLUSAO**
+
+Em um cenario com poucas soluçoes computacionais projetadas
+especificamente para apoiar o ensino de usabilidade , o Usabili-
+dadeZero contribui oferecendo experiencias distintas a estudantes
+de IHC. A avaliaçao da aplicaçao em tres turmas mostrou que o
+UsabilidadeZero oferece diferentes experiencias de usabilidade em
+cada estudo de caso, permitindo que os alunos entendam como a
+usabilidade pode impactar seu desempenho ao executar uma tarefa.
+Alem disso, a ferramenta permite ao aluno identificar as medidas de
+eficiencia, eficacia e satisfaçao. Esse resultado foi observado antes
+dos alunos terem estudado o assunto. Assim, o UsabilidadeZero
+forneceu aos alunos uma compreensao de como medir a eficacia de
+uma aplicaçao, mas, na amostra avaliada, nao houve uma melhora
+significativa na compreensao da eficiencia e satisfaçao. O Usabili-
+dadeZero tambem permitiu que os usuarios reconhecessem alguns
+aspectos que impactam a usabilidade de um sistema de software. A
+grande maioria dos 64 alunos que participaram da avaliaçao afirmou
+que e uma aplicaçao interessante para aprender sobre usabilidade.
+
+Em trabalhos futuros pretende-se responder as seguintes ques-
+toes: (i) A estetica da interface tem tanta importancia a ponto de
+alterar os resultados finais? (ii) Como EC0 e EC1 possuem as mesmas
+funcionalidades, os alunos poderiam ter aprendido com o primeiro
+estudo de caso levando-os a melhores resultados no segundo? (iii)
+Uma amostra maior teria resultados mais significativos? (iv) Os
+resultados seriam confirmados em ambiente controlado com grupo
+de controle? Ate este ponto, o UsabilidadeZero mostrou ser uma
+soluçao estavel e viavel para professores e alunos usarem.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o UsabilidadeZero se mostrou uma ferramenta promissora para o ensino de usabilidade, oferecendo aos alunos uma experiencia pratica e a oportunidade de entender como a usabilidade impacta o desempenho em um sistema de software. O feedback positivo dos alunos e os resultados promissores da avaliaçao sugerem que o UsabilidadeZero pode ser uma ferramenta valiosa para educadores de IHC.

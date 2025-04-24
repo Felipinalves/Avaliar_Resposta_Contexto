@@ -1,0 +1,144 @@
+**RESUMO**
+
+Com o aumento do uso de diferentes tipos de tecnologias no
+cotidiano, seria esperado que usar computadores fosse con-
+fortavel para todos. Porem, algumas pessoas ainda sentem-se
+apreensivas antes e durante o uso de computadores, enfren-
+tando multiplos niveis de ansiedade e, para niveis elevados,
+demonstram o que e chamado de Ansiedade Computacional
+(do ingles CA, Computer Anxiety). Pessoas com CA enfren-
+tam problemas no uso de tecnologias em varios contextos,
+incluindo situaçoes nas quais utilizam computadores por nao
+terem alternativa, tais como ao utilizar serviços governamen-
+tais disponiveis somente por meio de sistemas computacio-
+nais, exercer a cidadania votando com urnas eletronicas, cai-
+xas eletronicos e ao utilizar computadores no trabalho. A CA
+pode criar multiplas barreiras para essas pessoas, privando-
+as do acesso a tecnologia, a educaçao, ao pleno exercicio da
+cidadania, entre outros. Neste contexto, o presente projeto
+investigou as principais caracteristicas relacionadas a como
+idosos com CA interagem com computadores e como essas
+caracteristicas sao representadas em logs de interaçao. Para
+tal, realizou-se um estudo de campo com 31 participantes
+idosos envolvendo captura de dados de interaçao, dados de
+rastreamento ocular, escalas de rastreamento de niveis de
+depressao, ansiedade, ansiedade computacional, entre outras.
+Com os resultados, um modelo para detecçao de CA foi ob-
+tido. Tal modelo e capaz de identificar diferentes niveis de
+CA (i.e., sem ansiedade, baixo nivel de CA e alto nivel de CA)
+com 83,87% de acuracia, mostrando que e possivel identificar
+diferentes niveis de CA de idosos interagindo com a Web
+analisando logs de interaçao.
+
+**INTRODUCAO**
+
+Atualmente, diversos serviços estao disponiveis na internet.
+Escolas e faculdades oferecem cursos a distancia em ambi-
+entes virtuais de aprendizagem e sistemas governamentais
+fornecem serviços tais como emissao de documentos, agen-
+damento de atendimento e declaraçao de imposto de renda.
+A oferta de serviços eletronicamente visa desburocratizar e
+agilizar o acesso. Porem, o fato de so estarem disponiveis
+por meio de computadores pode criar barreiras para pessoas
+que enfrentam problemas no uso de computadores, que po-
+dem ocorrer por falta de experiencia, por nao saberem como
+opera-los, por nao terem acesso a eles e, em alguns casos,
+podem ter medo de danifica-los ou de nao conseguir realizar
+tarefas corretamente. Essas pessoas podem enfrentar multi-
+plos niveis de ansiedade e, para niveis elevados, demonstram
+o que e chamado de Ansiedade Computacional (CA, do ingles
+Computer Anxiety). Estudos sobre CA encontrados em ,
+mostram que a CA esta relacionada a falta de usabilidade
+e acessibilidade nos sistemas. Mostram tambem a forte cor-
+relaçao (inversa) entre CA e Autoeficacia Computacional,
+i.e., pessoas com baixa autoeficacia tendem a ter maiores
+niveis de CA e vice versa. Em relaçao as pessoas com CA, os
+estudos mostram que os idosos sao os que mais apresentam
+CA, devido aos problemas para se manterem atualizados em
+relaçao as novas tecnologias, por nao usarem computadores
+desde a infancia e por causa dos esteriotipos relacionados ao
+uso de tecnologia por idosos.
+
+**METODO**
+
+Foi realizado um estudo de campo com 31 participantes ido-
+sos com o objetivo de identificar sinais de CA utilizando a
+analise de logs de interaçao, capturados durante a interaçao
+do usuario com a Web. A captura foi realizada via plugin
+instalado no navegador. Os dados capturados foram analisa-
+dos e modelos computacionais para detecçao de CA foram
+produzidos utilizando algoritmos de classificaçao supervisio-
+nada.
+
+Para criar os modelos, todos os algoritmos de classificaçao
+supervisionada do Weka (https://www.cs.waikato.ac.nz/ml/weka/)
+foram testados. O algoritmo que obteve melhor acuracia foi o
+Random Tree, em concordancia com resultados presentes na
+literatura para problemas de classificaçao utilizando dados
+de logs de interaçao .
+
+**RESULTADOS**
+
+A partir da seleçao do algoritmo, diferentes atributos foram
+considerados, representando diferentes cenarios, disponibili-
+dade de escalas, sensores e dados demograficos, resultando
+em tres diferentes modelos computacionais. O modelo que
+obteve o melhor resultado (Figure 1) foi criado utilizando as
+metricas referentes aos dados capturados pelo plugin utili-
+zado. As metricas utilizadas envolvem uso do mouse (e.g.,
+distancia percorrida, velocidade, numero de cliques e pausa
+antes de cliques), metricas obtidas a partir do grafo de uso
+(e.g., total de eventos disparados, picos de excentricidade e
+grau medio) e tempo que o participante levou para realizar a
+tarefa.
+
+**CONCLUSAO**
+
+O uso de algoritmos de classificaçao baseados em arvores
+de decisao, como o Random Tree, traz vantagens em rela-
+çao a explicabilidade se comparado a outros algoritmos de
+classificaçao. O Random Tree gera uma arvore que permite
+identificar as metricas utilizadas e a influencia delas na classi-
+ficaçao. Tal explicabilidade e um aspecto fundamental para a
+area de Interaçao-Humano Computador (IHC), pois permite
+relacionar o modelo resultante com as variaveis presentes na
+-comumente complexa- interaçao do usuario com o sistema.
+
+Outra vantagem importante de algoritmos baseados em ar-
+vore e o fato de serem de facil implementaçao e eficientes,
+permitindo a execuçao em tempo real durante a interaçao
+do usuario com o sistema.
+
+Acredita-se que este trabalho e relevante para a comuni-
+dade de IHC no Brasil por se tratar de um estudo abordando
+um problema atual, enfrentado nao so por idosos mas tam-
+bem por pessoas com pouca experiencia com computadores:
+a Ansiedade Computacional. A CA tem impacto direto no
+desempenho, na acessibilidade e na usabilidade percebida
+pelo usuario, uma vez que influencia a maneira como ele
+percebe e interage com os computadores.
+
+A principal contribuiçao deste trabalho e um modelo com-
+putacional capaz de detectar a CA a partir da analise de logs
+de interaçao, possiveis de se capturar utilizando um data
+logger. Os dados utilizados no modelo podem ser captura-
+dos durante qualquer interaçao envolvendo um usuario e
+uma pagina Web, tornando possivel o uso deste modelo para
+capturar e analisar dados, identificando usuarios com sinais
+de CA em tempo real, podendo usar esta informaçao para
+dar suporte ou personalizar a interface de usuario. Por exem-
+plo em sistemas governamentais que sao muito uteis para
+a populaçao, mas muitas vezes causam duvidas quanto sua
+utilizaçao, fazendo com o que as pessoas precisem de ajuda
+de terceiros para utiliza-los de forma correta .
+
+Por fim, a apresentaçao do trabalho pode ser uma oportu-
+nidade de obter feedback sobre o trabalho e sugestoes para
+sua continuidade, ja que ele faz parte de um projeto maior
+que visa, nao so a identificaçao de usuarios com CA, mas
+tambem de elementos de interface de usuario relacionados a
+sintomas de CA.
+
+**CONCLUSAO**
+
+Em resumo, este estudo demonstra a viabilidade de utilizar logs de interaçao para detetar a ansiedade computacional em idosos. O modelo computacional proposto, baseado no algoritmo Random Tree, apresentou resultados promissores, com uma acuracia de 83,87%, indicando que e possivel identificar diferentes niveis de CA analisando o comportamento do usuario na Web. Essa abordagem tem o potencial de auxiliar no desenvolvimento de interfaces mais acessiveis e personalizadas, adaptadas as necessidades de usuarios com ansiedade computacional, contribuindo para a inclusao digital e a melhoria da experiencia do usuario.

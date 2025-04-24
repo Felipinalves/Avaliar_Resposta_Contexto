@@ -1,0 +1,129 @@
+**INTRODUCAO**
+
+De modo geral, as producoes literarias sao lineares, ou seja, possuem inicio, meio e fim.
+No entanto, e possivel encontrar narrativas nao-lineares que sao aquelas em que o leitor
+pode definir o encaminhamento da historia e mudar o percurso do seu progresso
+mediante as possibilidades . No contexto educacional, a proposta
+serve para motivar os estudantes para alem da leitura e com foco na escrita criativa, uma
+vez que serao desafiados a conceber novos episodios a partir de uma intencionalidade
+pedagogica e desenvolver uma interface grafica para alcancar os objetivos em
+determinado contexto de uso .
+
+No ambito dos cursos tecnicos de nivel medio integrado, e possivel que duas ou
+mais componentes curriculares possam associar conteudos que se comuniquem e
+promovam a juncao por meio de atividades correlatas. Neste contexto, foi proposta uma
+atividade para a integracao entre as disciplinas Lingua Portuguesa e Web Design em um
+curso de formacao tecnica em informatica.
+
+O artigo esta organizado como segue. Na Seção 2, e apresentada a conceituaçao
+de narrativas nao-lineares. A Seção 3 explica a integraçao entre as componentes
+curriculares envolvidas na atividade. Na Seção 4, descrevem-se os resultados obtidos ate o
+momento. Por fim, a Seção 5 discorre as consideraçoes.
+
+**Narrativas nao-lineares**
+
+Assim como nos jogos, a nao-linearidade permite alcançar o termino de uma partida por
+meio de diferentes caminhos que podem alterar, por exemplo, o tempo de duraçao de
+uma partida de cartas mediante a estrategia de cada jogador(a). As historias nao-lineares
+permitem que o(a) autor(a) crie mais de uma opçao de narrativa para oportunizar ao
+leitor diferentes possibilidades de desdobramentos e oportunizar multiplos finais a cada
+leitura . Trata-se de uma pratica semelhante aos usuarios da web,
+quando da navegaçao em paginas de busca de noticias ou mesmo em redes sociais,
+saltando para links diversos, conforme seu interesse.
+
+A narrativa nao-linear foi disseminada a partir dos jogos ,
+quando surgiram os gamebooks, ou livros-jogos, que sao livros com historias nao-
+lineares e permitem desdobramentos de acordo com as escolhas feitas pelo leitor
+mediante a leitura. Outro exemplo e o RPG (Role-Playing Game) que consiste em um
+jogo de interpretaçao de personagens .
+
+**Integraçao entre Literatura e Design**
+
+A integraçao permite que conceitos semelhantes possam ser trabalhados por e em
+diferentes componentes curriculares na formacao tecnica. A proposta surgiu da uniao de
+dois docentes que atuam no terceiro ano do curso Tecnico em Informatica integrado ao
+ensino medio no Instituto Federal de Brasilia (IFB), Campus Brasilia, uma das
+instituiçoes da Rede Federal de Educaçao Profissional e Tecnologica (RFEPT). O
+objetivo da atividade e permitir que os estudantes possam, a partir da leitura de um livro
+literario de sua escolha, criar diferentes finais para a historia e utilizar os conceitos de
+programaçao web para ilustrar as possibilidades que a narrativa ira fornecer ao leitor.
+
+A atividade integrada envolve uma disciplina propedeutica (Lingua Portuguesa)
+e uma disciplina da area tecnica do curso (Web Design). Foi iniciada no segundo
+bimestre do curso e esta em andamento em 2023, com previsao para ser finalizada e
+apresentada ao termino do segundo bimestre. As duplas de estudantes foram formadas
+para incentivar o processo criativo entre pares que compoem as duas turmas do curso e
+totalizam 53 estudantes. No caso, apenas um dos grupos e formado por tres estudantes,
+considerando necessidades especificas.
+
+Os estudantes foram incentivados a buscar obras na biblioteca da do IFB
+promover a pratica de pesquisa e autonomia. Alguns deles, escolheram titulos nacionais,
+como Quarto de Despejo, escrito por Carolina Maria de Jesus, que permite ter diversos
+desdobramentos, considerando os diferentes contextos abordados; enquanto outros
+estudantes preferiram livros de poemas. No contexto da disciplina Web Design, os
+estudantes ja possuem conhecimento sobre criaçao de paginas com HTML e introduçao
+a programaçao com script em HTML, com uso de botoes (button). A partir desses
+conhecimentos, espera-se que sejam construidas paginas com a estrutura basica: titulo,
+paragrafo e botoes.
+
+Apos a escolha das obras e antes de partir para a programaçao das paginas, os
+estudantes foram incentivados a definir os cenarios possiveis e organizar as ideias
+utilizando a tecnica de construçao de fluxogramas, conteudo abordado na disciplina
+Logica de Programaçao e que serve para auxiliar o processo de criaçao por meio de
+esquema visual, utilizando alguns simbolos geométricos, como mostra o exemplo da
+Figura 1.
+
+**Resultados preliminares**
+
+Os estudantes foram orientados a criar paginas web com estruturas basicas em HTML,
+como titulo e paragrafo , alem da inserçao de imagens e
+hiperlinks para ilustrar. Embora nao tenham sido abordados os conceitos de CSS, os
+estudantes sao incentivados a criar estilos basicos para melhorar a experiencia visual
+com a mudança do tipo de fonte, cores, fundo de tela.
+
+Ao final, espera-se que os estudantes criem, no minimo, telas como a mostrada
+na Figura 2, permitindo a navegaçao do leitor por meio da escolha entre os botoes,
+levando-os ao proximo cenario para alcançar o final da historia ou retornar para fazer a
+escolha de outra opçao de continuidade da narrativa.
+
+As figuras 3 (a) e (b) mostram as duas primeiras telas elaboradas por uma das
+duplas de estudantes ate o momento do envio dessa versao do artigo. A narrativa se
+refere ao Livro do Desassosego, escrito por Fernando Pessoa e publicado em 1982. Na
+primeira tela (figura 3a), o leitor tem a opcao textual para ser apresentado a obra e um
+botao para prosseguir. A capa do livro esta situada a direita da tela e foram usadas cores
+para contrastar fundo e fonte. Na segunda tela (figura 3b), o leitor acessa a continuidade
+da narrativa textualmente e que permite dois caminhos possiveis.
+
+**Consideraçoes**
+
+Para alem do planejamento e da integraçao de saberes durante a realizaçao da atividade
+proposta, espera-se que a apresentaçao dos produtos promova uma discussao ao termino
+do semestre letivo, com contribuiçoes dos proprios estudantes e docentes para dar
+continuidade aos projetos no contexto da IHC, visto que os percursos escolhidos durante
+a interaçao com as narrativas poderao levar a diversas analises de acordo com os finais
+alcançados para cada historia. Espera-se, ainda, que a leitura das obras e a aplicaçao dos
+conhecimentos promovam o objetivo da atividade, que e a integraçao de conteudos.
+
+Para trabalhos futuros, almeja-se dar continuidade a construçao de sistemas
+computacionais com a inclusao de recursos mais visuais e com base na codificaçao com
+folhas de estilos ou CSS – Cascading Styles Sheet, que facilita a organizaçao de fonte,
+cores, imagens e outros elementos graficos. Essa mudança permite a evoluçao da versao
+atual do produto, alem de avaliar a satisfaçao da equipe desenvolvedora (duplas) e dos
+usuarios por meio de uma comparaçao de amadurecimento do produto e caracteristicas
+de usabilidade.
+
+Ressalta-se que, embora existam alguns softwares que facilitam a criaçao de
+narrativas nao-lineares , o intuito principal e que os estudantes
+percebam a integraçao dos conteudos abordados nas duas disciplinas, com base na
+proposta da atividade integrada.
+
+Alem disso, por se tratar de um curso integrado, e importante o planejamento de
+atividades que possibilitem a uniao de conhecimentos gerais e tecnicos, como previsto
+no plano do curso, para promover a aprendizagem significativa e criativa. Por fim, a
+apresentaçao das narrativas aos colegas da turma possibilitara a visualizaçao a interface
+criada, a validaçao do planejamento e a interaçao do leitor de forma prazerosa e
+agradavel ao usuario do produto.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho demonstra o potencial da integraçao entre Lingua Portuguesa e Web Design para promover uma aprendizagem mais significativa e criativa. Ao explorar a narrativa nao-linear, os estudantes sao desafiados a aplicar seus conhecimentos de programaçao e design para criar experiencias interativas e envolventes. Acreditamos que essa abordagem pode ser adaptada e implementada em outros contextos educacionais, com o objetivo de estimular a criatividade, o pensamento critico e a autonomia dos estudantes.

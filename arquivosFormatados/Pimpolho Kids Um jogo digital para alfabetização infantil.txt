@@ -1,0 +1,125 @@
+**Introduçao**
+
+O uso de jogos digitais no ambiente escolar e considerado recente e o primeiro jogo
+digital explorado nessa tematica data por volta dos anos 2000 . Com o
+crescimento do uso da tecnologia e maior acessibilidade das pessoas a essas
+ferramentas, faz-se necessaria a utilizaçao de meios digitais como medida para combater
+as dificuldades apresentadas pelos estudantes que ainda estao iniciando o processo de
+alfabetizaçao. Alem disso, os autores citam o poder que os jogos
+educativos oferecem, visto que eles proporcionam as crianças uma forma ludica de se
+aprender.
+
+Segundo a Base Nacional Comum Curricular (BNCC), compreende-se que,
+nessa etapa de construçao de conhecimentos, os estudantes da educaçao basica
+desenvolvem competencias, como realizar atividades, mediadas por diferentes
+linguagens: verbal, corporal, visual, sonora e contemporaneamente digital, a fim de
+expressar e partilhar experiencias, ideias em diversos contextos, produzir sentidos que
+levem a resoluçao de conflitos e a cooperaçao .
+
+Dessa forma, o presente trabalho visa propor e desenvolver um jogo voltado para
+o contexto educacional infantil, tendo como objetivo responder a problematica: “Que
+experiencias um jogo digital educativo, como ferramenta ludica, pode proporcionar a
+crianças que estao no processo de alfabetizaçao?”.
+
+**Conceitos gerais e Revisao de literatura**
+
+Nesta seçao, e apresentado o referencial teorico que fornece conceitos importantes para
+o desenvolvimento do jogo, bem como traz a conceituaçao dos processos de
+alfabetizaçao e letramento, a concepçao de jogos educativos digitais como atividade
+facilitadora no processo de aprendizagem, e alguns sistemas similares.
+
+**Alfabetizaçao X Letramento**
+
+A alfabetizaçao pode ser compreendida em seu sentido proprio, especifico, como
+processo de aquisiçao do codigo escrito, das habilidades de leitura e escrita . Nao menos distante, e possivel analisar a questao do letramento, a qual refere-se
+aquele individuo que nao e somente alfabetizado, mas que faz uso de praticas sociais no
+que tange a escrita e a leitura. Posto isso, levando os termos de alfabetizaçao e
+letramento para o campo dos jogos educativos digitais, entende-se que ao fazer uso da
+escrita e da leitura com o objetivo de jogar, interagindo com um objeto tecnologico que
+lhe e altamente atrativo e desafiador, o educando passara por um processo de
+letramento" .
+
+**Jogos digitais no ambiente escolar**
+
+O uso de jogos educativos promovem o fortalecimento do trabalho em equipe, visto que
+atraves da formaçao e do dialogo de equipes para resolver determinados desafios, pode
+haver o aumento da sociabilidade entre os estudantes, pois eles passam a conversar com
+os colegas de equipe sobre os desafios dos jogos.
+
+Os jogos educativos digitais possibilitam ao aluno uma aprendizagem de forma
+mais atraente do que as praticas pedagogicas tradicionais, uma vez que acontece de
+forma ludica . Alem disso, devido a constante interaçao por parte da
+criança, o conhecimento e adquirido de maneira mais autonoma, fazendo com que elas
+aprendam pela repetiçao dos conteudos escolares presentes nos jogos e por relacionar de
+forma continua com o meio ludico. Dessa forma, e importante o uso dessas ferramentas
+no contexto escolar, uma vez que podem aumentar o engajamento e aprendizagem dos
+alunos.
+
+**Trabalhos relacionados**
+
+Com o proposito de encontrar software similares, foi realizada uma pesquisa no Google
+Academico, na web e na Play Store, a fim de identificar alguns sistemas que fornecem
+auxilio na aprendizagem de crianças que estao no processo de alfabetizaçao. A seguir,
+sao apresentados alguns desses jogos.
+
+O jogo EduEdu e um sistema mobile, esta disponivel para Android, foi
+desenvolvido pelo Instituto ABCD, na Play Store obteve 10 mil avaliaçoes e possui mais
+de 1 milhao de downloads. A medida que a criança interage com o jogo, ela e
+monitorada e, com isso, o jogo oferece mais atividades, permite que as crianças
+trabalhem com perguntas e respostas, e estimula no ambito da leitura e da escrita.
+
+Alem desses software, foi identificada a ferramenta Luz do Saber que tem
+funçao pedagogica, esta disponivel para sistemas operacionais Windows/Linux e para navegadores na versao online. Apresenta um ambiente interativo com recursos de
+multimidia, auxilia no processo de alfabetizacao, fazendo com que as criancas
+desenvolvam as competencias relacionadas a escrita e leitura.
+Apesar de existirem outros software similares, o jogo a ser desenvolvido neste
+projeto visa auxiliar criancas que estao na etapa de alfabetizacao. Apos a analise desses
+sistemas, foi observado que ha mais ferramentas educativas para dispositivos moveis do
+que para web. Com isso, o jogo podera ser desenvolvido como aplicacao web
+responsiva, visando atender criancas que estao no processo de alfabetizacao e aborda
+nao so atividades de leitura e escrita, como tambem apresenta uma interface interativa.
+
+**Metodologia**
+
+Para desenvolver o jogo digital educativo, esta sendo utilizado o Design Thinking (DT),
+que e uma abordagem que tem como foco resolver determinados problemas. A
+abordagem DT pode ser compreendida como uma “forma de pensamento criativo
+(abdutivo) que busca soluçoes para um determinado publico-alvo e pode ser aplicado na
+area educacional” .
+
+Esta metodologia apresenta cinco etapas, sendo que a primeira diz respeito a
+empatia, utilizada para compreender e identificar a viabilidade de estar desenvolvendo o
+jogo. Posto isso, foi realizada uma revisao de literatura, a fim de entender a area do
+objeto de estudo e, nao menos importante, foi feita uma entrevista com a professora da
+educaçao basica I, com o proposito de fazer o levantamento dos requisitos necessarios
+para desenvolver o projeto. A segunda e a terceira etapa consistiu na definiçao do
+problema a ser resolvido e na ideaçao das soluçoes que foi feita a partir da criaçao dos
+prototipos das telas do jogo e da validaçao com os envolvidos.
+
+Na quarta etapa, podera-se iniciar o desenvolvimento do jogo, e a quinta etapa
+correspondera a fase de teste de usabilidade do jogo com os usuarios do sistema, que
+correspondem aos estudantes do 3º ano do ensino fundamental I e a professora da
+turma. A Figura 1 demonstra, de forma sucinta, as etapas do metodo Design Thinking.
+
+**Desenvolvimento**
+
+Para desenvolver o jogo, foi construido um prototipo no Figma. Na primeira etapa,
+foram estabelecidos aspectos de cores, tipografia e a logomarca, que foi desenvolvida
+com base no proposito e no publico do jogo. A Figura 2 apresenta a tela do jogo da
+memoria, em que, a partir da interacao com as cartas, o estudante associara o par de
+guras encontradas com a palavra escrita ao lado.
+
+
+**Consideraçoes Finais**
+
+Este artigo e fruto do trabalho de conclusao do curso superior Tecnologia em Sistemas
+para Internet e tem como finalidade propor e desenvolver um jogo voltado para o
+contexto educacional infantil, para despertar o interesse em aprender, utilizando-se de
+ferramentas ludicas como os jogos digitais, uma vez que tem a possibilidade de
+estimular as crianças em fase de alfabetizaçao, permitindo que elas revejam os
+conteudos aprendidos na sala de aula por meio dos jogos e tenham uma otima interaçao
+humano-computador, atraves de cenarios atrativos e acessiveis.
+
+**CONSIDERAÇÕES FINAIS**
+
+Em suma, este trabalho busca contribuir para o campo da educaçao infantil ao propor um jogo digital educativo que possa auxiliar no processo de alfabetizaçao. Ao utilizar a metodologia Design Thinking, procura-se garantir que o jogo seja desenvolvido com foco nas necessidades e caracteristicas dos estudantes, promovendo um ambiente de aprendizagem ludico e envolvente. Espera-se que este projeto possa gerar reflexoes e praticas inovadoras no uso de jogos digitais como ferramentas pedagogicas.

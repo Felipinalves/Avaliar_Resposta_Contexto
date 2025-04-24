@@ -1,0 +1,147 @@
+**INTRODUCAO**
+
+Um dos grandes desafios para impulsionar a transformaçao digital em diferentes setores
+da economia e a existencia de soluçoes de identidade digital seguras e faceis de usar. Na
+visao do Forum Economico Mundial, a medida que avançamos para a Quarta Revoluçao
+Industrial e mais transaçoes sao realizadas digitalmente, a representaçao digital da iden-
+tidade de uma pessoa se torna cada vez mais importante; isso se aplica a humanos, dis-
+positivos, entidades legais e alem  . Atualmente, os modelos centralizados
+de identidade digital, associados ao par usuario/senha, enfrentam desafios nao so pela
+dificuldade do usuario em memorizar, normalmente, dezenas de senhas, mas tambem de-
+vido a dificuldade das soluçoes de atenderem as leis gerais de proteçao dados, levando
+a violaçoes de dados, fraude de identidade e perda economica e de privacidade para os
+envolvidos. Esses eventos recorrentes destacam a falta de segurança, controle e gerencia-
+mento que os usuarios experimentam com suas identidades digitais hoje.
+
+Em resposta a esses desafios, os aplicativos de carteira digital baseados em iden-
+tidade autossoberana, ou Self-Sovereign Identity (SSI)
+uma nova geraçao de siste-
+mas de identidade digital  permitem ao usuario controlar e gerenciar sua identidade
+digital de forma segura em seu dispositivo movel, sem a necessidade de memorizar
+inumeras senhas. Embora o foco das pesquisas atuais em SSI seja os aspectos tecnicos,
+de segurança e de privacidade, uma alternativa madura para o uso do par usuario/senha
+exige a implantaçao em grande escala para fins de autenticaçao real e testes com usuarios
+ , dado que a experiencia do usuario e um dos principais fatores para
+a adoçao de novas formas de identificaçao digital.
+
+Com o objetivo de desenvolver uma carteira digital que atenda as necessidades
+dos usuarios, o estudo descrito neste artigo foi realizado no CPQD e envolveu os funcionarios da instituicao em tres etapas: 1) pesquisa a respeito de habitos e percepcoes sobre autenticacao digital; 2) avaliacao de usabilidade; e 3) teste em ambiente real. Para facilitar a compreensao deste artigo, a Secao 2 apresenta alguns conceitos e o contexto relacionados ao estudo. A Secao 3 descreve a abordagem utilizada. A Secao 4 apresenta os resultados e na Secao 5 eles sao discutidos. A Secao 6 conclui este artigo. 
+
+**CONCEITOS E CONTEXTO**
+
+O conceito de SSI baseia-se nos principios de identidade descentralizada que apro-
+veitam as tecnologias de livro de registro distribuido (uma classe mais ampla de
+tecnologia inspirada em blockchain)  e credenciais que po-
+dem ser verificadas criptograficamente  para fornecer a iden-
+tidade digital dos usuarios de forma descentralizada, sem depender de intermediarios
+ . Adicionalmente, o paradigma da SSI possui atributos que ga-
+rantem a soberania dos usuarios sobre sua identidade, bem como o controle do armazena-
+mento dos dados confidenciais associados a sua identidade .
+
+Desde 2019, o CPQD vem desenvolvendo componentes, prototipos e pilotos
+de identidade digital para diferentes setores da economia, como agronegocio, saude,
+educaçao, governo e financeiro. Em 2021, como parte de uma plataforma de SSI que
+prove infraestrutura para soluçoes de identidade digital, o CPQD iniciou o desenvolvi-
+mento da carteira digital CPQD iD. Carteiras digitais sao softwares que permitem ao
+usuario gerar, armazenar, gerenciar e proteger chaves criptograficas, credenciais veri-
+ficaveis e outros dados privados e confidenciais . Uma cre-
+dencial verificavel e a representaçao digital de credenciais fisicas, como a Carteira Naci-
+onal de Habilitaçao (CNH) e o Registro Geral de Identidade (RG). Para efeito do estudo,
+a versao da carteira digital descrita neste artigo contava com apenas uma credencial de
+identificaçao e uma funcionalidade: autenticaçao digital por meio de QR Code.
+
+**O ESTUDO NO CPQD**
+
+O estudo ocorreu em tres etapas, entre outubro de 2021 e março de 2022. A participaçao
+no estudo era opcional e todas as etapas possuiam um termo de ciencia e concordancia
+esclarecendo sobre o uso dos dados e ideias dos participantes, de acordo com a Lei Geral
+de Proteçao de Dados Pessoais (LGPD) .
+
+Na primeira etapa do estudo, os funcionarios do CPQD foram convidados a participar
+de uma pesquisa sobre seus habitos e percepçoes em relaçao a autenticaçao digital. A
+pesquisa utilizou a ferramenta Google Forms e foi compartilhada em diversos grupos de
+chat da instituiçao durante um periodo de dois dias. O formulario contava com perguntas
+sobre a opiniao dos participantes em relaçao a segurança da autenticaçao unica com Fa-
+cebook/Google e formas utilizadas para gerenciamento de senhas. A pesquisa teve como
+objetivo identificar potenciais usuarios da carteira digital e interessados em participar da
+segunda etapa do estudo. As respostas foram avaliadas a partir de duas hipoteses:
+H1: Os funcionarios do CPQD consideram inseguro se autenticar em sites e apli-
+cativos utilizando a autenticaçao unica com Facebook/Google; e
+H2: Os funcionarios do CPQD tem dificuldades para memorizar suas senhas.
+
+A segunda etapa do estudo utilizou a primeira versao da carteira digital um aplicativo
+Android para emissao de uma credencial de identificaçao para autenticaçao (Figura 1).
+A emissao da credencial passava pelo cadastro de dados biograficos (nome e CPF) a
+partir da foto de um documento (RG ou CNH) utilizando a tecnologia de reconhecimento
+otico de caracteres (OCR) comparaçao entre os dados biometricos da foto do usuario
+no documento e a foto do rosto feita pelo aplicativo e cadastro de e-mail. Tambem era
+necessario criar uma senha para proteger o acesso ao aplicativo. Com a credencial emitida
+era possivel usar o aplicativo para ler um QR Code e se autenticar em um site ficiticio.
+
+Para avaliar a usabilidade do aplicativo antes de testa-lo em ambiente real, foram
+convidadas sete pessoas que manifestaram interesse em continuar participando do estudo
+na pesquisa citada na Seçao 3.1. Os sete participantes foram considerados potenciais
+usuarios da soluçao, dado que validaram as duas hipoteses da pesquisa. Os testes foram
+pre-agendados e feitos por chamada de video usando a ferramenta Google Meet. Os
+participantes instalaram o aplicativo no proprio smartphone e compartilharam a tela para
+que fosse possivel acompanhar a interaçao com o aplicativo.
+
+Para registro e analise das respostas afetivas dos participantes em relaçao a
+interaçao com o aplicativo, um conjunto de artefatos foi utilizado com base nos tres
+niveis para o design emocional de Norman [Norman 2004] visceral, comportamental
+e reflexivo a metodologia adaptada de  e apresentada
+foi aplicada. Para as respostas viscerais, foram observados os comentarios espontaneos
+dos participantes durante a interaçao com o aplicativo. Para as respostas comportamen-
+tais, foram considerados os toques na tela. Tanto os comentarios quanto os toques foram
+capturados pela chamada de video. As respostas em nivel reflexivo foram coletadas apos
+a interaçao com o aplicativo por meio do emoti-SAM , um ques-
+tionario pictografico que capta tres dimensoes de uma resposta emocional satisfaçao,
+motivaçao e sentimento de dominio/controle , utilizando a ferramenta Google Forms.
+
+O teste em ambiente real foi realizado durante um mes. A divulgaçao foi feita via e-mail
+corporativo e convidava todas as pessoas que possuiam documento com CPF RG ou CNH e smartphone Android a fazer parte do teste Os participantes deveriam instalar a carteira digital no seu smartphone e passar pelo mesmo processo de emissao de credencial citado na Secao 32 com extracao de dados do documento por OCR validacao biometrica e cadastro de email e senha Uma vez emitida a credencial o aplicativo poderia ser utilizado para autenticacao no Jira sistema de uso diario na instituicao sem a necessidade de informar usuario senha O objetivo era avaliar a viabilidade do uso da carteira digital como alternativa para autenticacao nos sistemas do CPQD e de seus clientes Durante o teste as respostas dos usuarios em nivel comportamental foram coletadas a partir de metricas predefinidas usando a ferramenta Google Analytics quantidade de aplicativos instalados quantidade de credenciais emitidas e quantidade de autenticacoes no sistema Jira utilizando a carteira digital Duas semanas apos o inicio do teste foi divulgada por email uma pesquisa para coletar as respostas em nivel reflexivo A pesquisa utilizou a ferramenta Google Forms e continha perguntas para que os participantes classificassem de 1 muito dificil a 5 muito facil a dificuldade percebida durante o cadastro no aplicativo e a autenticacao no Jira alem de coletar percepcoes sobre a experiencia de uso geral do aplicativo por meio de perguntas abertas e questionario emotiSAM Apos responder o formulario os participantes podiam optar por conversar com a equipe responsavel pelo estudo para dar mais detalhes ou sugestoes
+
+Resultados
+
+Habitos e percepcoes sobre autenticacao digital
+
+A pesquisa a respeito dos habitos e percepcoes sobre autenticacao digital obteve 208 respostas Em relacao a seguranca de se utilizar o Facebook para autenticacao 452 disseram ser inseguro 308 seguro e 240 sem opiniao formada Sobre a autenticacao com Google 505 disseram ser seguro 288 inseguro e 207 sem opiniao formada Ainda que a porcentagem de pessoas que disseram ser seguro seja menor que 50 para a autenticacao com o Facebook e maior que 50 para o Google a diferenca e muito pequena para fazer afirmacoes sobre hipotese H1 sem uma analise estatistica destes dados Em relacao a memorizacao de senhas 635 disseram utilizar metodos variados para contornar o esquecimento de suas senhas fornecendo indicios sobre a validade da hipotese H2 226 anotam as senhas em algum lugar 125 usam o gerenciador do navegador 111 usam um gerenciador de senhas especifico 77 quase sempre usam a opcao esqueci minha senha e 96 adotam outros metodos como anotacao de parte das senhas anotacao em papel usando taquigrafia arquivos criptografados e uma senha por arquivo Os demais 365 disseram nao utilizar metodos para gerenciamento 298 sempre lembram as senhas e 67 quase sempre usam a autenticacao do Facebook Google
+
+Avaliacao de usabilidade
+
+Os resultados em nivel visceral foram analisados a partir dos comentarios espontaneos coletados durante a interacao com o aplicativo Comentarios geralmente relacionados a duvidas ou insatisfacao foram manifestados durante a foto do proprio rosto que ocorria de forma automatica quando o usuario piscava Ah quando vai tirar selfie eu nao aperto nada vai automatico e Opa travou Ah nao acho que toquei na foto sem querer e a foto saiu Por outro lado comentarios que podem ser considerados positivos forneceram indícios a respeito da satisfacao dos participantes Ele tirou a foto Tirou automatico que bonito e Que legal sobre a autenticacao com QR Code
+
+Para avaliar as respostas afetivas em nivel comportamental a metrica definida em de Souza et al 2021 foi utilizada para classificar a completude das etapas da avaliacao verde conseguiu finalizar amarelo finalizou com obstaculos ou ajuda e vermelho nao conseguiu finalizar No total cinco participantes concluiram todas as etapas Dois dos participantes nao finalizaram o processo de cadastro para emissao da credencial por questoes tecnicas nao identificadas nos testes de software anteriores a avaliacao de usabilidade Em um dos casos o resultado da avaliacao biometrica indicou que a pessoa da foto no momento do cadastro nao era a mesma da foto no documento no outro caso o aplicativo parou de responder apos o cadastro da senha As etapas de fotos do documento e do rosto tiveram as menores taxas de sucesso como exibe o grafico na Figura 3
+
+Para analisar as respostas afetivas em nivel reflexivo a frequencia de respostas para cada dimensao do emotiSAM foi calculada e agrupada em respostas positivas neutras e negativas Os resultados estao exibidos na Tabela 1
+
+Teste em ambiente real
+
+No nivel comportamental o teste obteve 172 instalacoes do aplicativo 65 credenciais criadas e 131 autenticacoes no Jira Este resultado indica que muitos dos participantes instalaram o aplicativo mas nao completaram o cadastro para emissao da credencial A pesquisa em nivel reflexivo obteve 24 respostas Para a dificuldade percebida foi calculada a frequencia de respostas para cada valor da escala de acordo com a etapa de uso do aplicativo Os resultados na Tabela 2 indicam maior dificuldade para completar as etapas de fotos tanto do documento quanto do rosto O cadastro de senha obteve uma resposta neutra mas foi considerado como facil pela maioria Ja as etapas de cadastro de email e a autenticacao no Jira foram classificadas como faceis por todos os participantes Sobre a experiencia de uso geral da carteira digital as respostas do emotiSAM na Tabela 3 indicam resultados melhores que os obtidos na avaliacao de usabilidade com a maioria positiva para todas as dimensoes Os comentarios nas respostas as perguntas abertas da pesquisa indicaram percepcoes a respeito do uso de fotos no cadastro e da autenticacao por meio da leitura do QR Code Cada tema citado nos comentarios teve sua frequencia calculada a partir da quantidade de participantes que o mencionaram e sua valencia classificada em positiva neutra ou negativa A Tabela 4 reune as percepcoes mais frequentes extraidas dos comentarios e a valencia de cada uma delas
+
+Discussao
+
+A analise das respostas afetivas ajuda a formar uma visao global da experiencia dos participantes durante a interacao com a carteira digital Na avaliacao de usabilidade podese afirmar que o aplicativo se comportou de forma inesperada durante a foto do rosto Esta afirmacao tem como base o resultado do emotiSAM dominio controle confirmado pelos comentarios dos participantes expressando duvidas e incertezas As respostas negativas e neutras no emotiSAM tambem corroboram a analise da completude das etapas ja que alguns participantes tiveram dificuldade ou nao conseguiram completar o cadastro A partir destes resultados algumas modificacoes foram feitas no aplicativo na tela de foto do documento foi adicionada uma moldura com o modelo do documento para orientar o usuario melhorando a qualidade da foto e consequentemente a extracao de dados do documento na foto do rosto foram adicionadas informacoes sobre a captura automatica A frequencia de respostas positivas foi superior as respostas negativas em todos os aspectos analisados no teste em ambiente real As respostas para a dimensao dominio controle no emotiSAM fornecem indícios de que as alteracoes apos a avaliacao de usabilidade melhoraram a experiencia de uso do aplicativo Pode-se afirmar tambem que as respostas negativas e neutras no emotiSAM reforcam a dificuldade percebida pelos participantes no uso do aplicativo Por meio das perguntas abertas notase que os participantes que precisaram repetir as fotos varias vezes foram os mesmos que classificaram a dificuldade destes passos como 2 dificil ou 3 media Da mesma forma o participante que nao concluiu as etapas de fotos classificou a dificuldade como 5 muito dificil e expressou a sua insatisfacao com respostas negativas no emotiSAM
+
+A obrigatoriedade das fotos do documento e do rosto pode ser uma das causas para o abandono durante o processo de cadastro constatado pela diferenca entre o numero de instalacoes e de credenciais emitidas Em conversa com a equipe do estudo um dos participantes disse ter instalado o aplicativo mas desistido ao notar a exigencia das fotos Alguns participantes tambem mencionaram que as fotos sao chatas invasivas e um risco a privacidade Tabela 4 Na pratica o uso das fotos nao era necessario no contexto deste estudo dado que a identidade dos participantes foi registrada no momento da contratacao pelo CPQD e poderia ser verificada pelo email corporativo Embora estas etapas tenham sido mantidas para simular o comportamento de uma carteira digital para o publico geral o cenario deste estudo e comum em varias instituicoes e evidencia a necessidade de tornar o processo de emissao da credencial mais flexivel para atender contextos diversos
+
+O entendimento de que a adocao de carteiras digitais exige uma mudanca de comportamento dos usuarios foi reforcado pela percepcao de que o seu uso e mais difıcil e trabalhoso que a autenticacao com usuario/senha. Uma das dificuldades citadas foi o uso de senha para acessar o aplicativo. Embora a senha seja necessaria para proteger as credenciais, o acesso pode ser facilitado pela utilizacao do metodo de desbloqueio do próprio dispositivo. A comodidade de manter usuario e senha salvos no navegador, por em, alem
+de ser um risco a seguranca, nao e algo que as carteiras digitais se propoem a oferecer.
+
+
+**CONCLUSAO**
+
+O equilibrio entre segurança e usabilidade e um grande desafio para designers e profissio-
+nais de segurança da informaçao. Alem de reforçar este fato, o estudo descrito neste artigo
+coloca em evidencia a necessidade de envolver os usuarios no processo de desenvolvi-
+mento de novos produtos. Com os resultados obtidos, espera-se inspirar as comunidades
+empresariais e academicas a buscar alternativas para os metodos atuais de autenticaçao,
+propensos a fraude e perda de privacidade. Uma das limitaçoes deste estudo e o perfil dos
+participantes, relativamente homogeneo em relaçao ao uso de tecnologias no dia-a-dia.
+Apos modificar a carteira digital para tornar o uso das credenciais mais flexivel, pretende-
+se dar continuidade ao estudo no CPQD e coletar metricas de uso fora da instituiçao, por
+meio de clientes do CPQD.
+
+**CONCLUSAO**
+
+Este estudo demonstra a importancia de equilibrar segurança e usabilidade no desenvolvimento de soluçoes de identidade digital. A participaçao dos usuarios no processo de design e fundamental para garantir que as soluçoes atendam as suas necessidades e expectativas. Os resultados obtidos no CPQD reforçam a necessidade de continuar a investigar alternativas aos metodos atuais de autenticaçao, promovendo a segurança e a privacidade dos usuarios.

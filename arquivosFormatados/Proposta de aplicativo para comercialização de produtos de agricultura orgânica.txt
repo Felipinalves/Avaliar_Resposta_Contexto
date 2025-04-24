@@ -1,0 +1,129 @@
+**Introducao**
+
+A agricultura e crucial para a economia brasileira e impulsiona o desenvolvimento de
+diversas regioes do pais. Com o aumento previsto da populaçao mundial para 9,7 bilhoes
+de habitantes ate 2050, a produçao agricola precisara crescer 70% para suprir a demanda
+alimentar global .
+
+A produçao de alimentos organicos e agroecologicos tem ganhado destaque glo-
+balmente, impulsionada por preocupaçoes ambientais e de saude .
+Para garantir a produtividade, eficiencia e resiliencia desses sistemas, e importante
+promover conjuntos de organizaçoes que formem ecossistemas de multiplos ato-
+res . No Brasil, tem havido um crescimento dessas relaçoes de
+colaboraçao entre os atores, fortalecendo o setor .
+
+A pandemia do coronavirus afetou a agricultura familiar, gerando mudanças im-
+previsiveis. As associaçoes e cooperativas dos agricultores precisaram se adaptar rapida-
+mente para reduzir as perdas e encontrar novas maneiras de comercializar seus produtos
+.
+
+A Tecnologia da Informaçao (TI) tem desempenhado um papel importante
+no atendimento das demandas crescentes do setor agro. Um estudo recente
+ avaliou como os consumidores adquiriram produtos frescos durante
+a pandemia de Covid-19 e desenvolveu um sistema de entrega por meio de um aplicativo
+movel para agricultores locais venderem seus produtos frescos.
+
+Este trabalho apresenta o aplicativo movel Mangut, que visa apoiar a agricultura
+familiar ao mapear locais de venda de produtos organicos e agroecologicos, facilitando a
+conexao entre produtores e consumidores. Alem disso, o estudo prioriza a avaliaçao de
+usabilidade durante o processo de prototipaçao e desenvolvimento da soluçao proposta
+.
+
+**Prototipo**
+
+O prototipo do Mangut foi aperfeiçoado ao longo do trabalho, seguindo a proposiçao
+inicial . Foi desenvolvido utilizando a ferramenta Figma, que
+ofereceu recursos completos para o design e prototipagem das telas. O Figma tambem
+permitiu a definiçao de links e açoes para simular a navegaçao e interaçao do usuario,
+sendo utilizado no teste de usabilidade.
+
+A Figura 1 apresenta cinco telas do prototipo desenvolvido de um total de dezenove telas prototipadas e validadas com produtores e especialistas. Em (a) e exposta a
+interface principal do sistema que contem o feed com os locais cadastrados; (b) retrata a
+tela de login que possibilita o acesso as funcionalidades de (c) gerenciamento do perfil
+da cooperativa ou produtor; (d) adic¸ao de produtos a um local de venda, (e) se refere a
+listagem de locais de venda de um determinado perfil.
+
+**Metodologia**
+
+A abordagem de teste de usabilidade combinou metodos qualitativos e quantitativos, se-
+guindo a norma NBR 9241-11  da ISO. Essa norma define usabilidade e
+fornece diretrizes para avaliar a usabilidade de um produto computacional, considerando
+medidas de desempenho e satisfaçao do usuario.
+
+O teste de usabilidade envolveu sete participantes parceiros do projeto com idade
+variando entre 42 e 78 anos, sendo cinco com o perfil de produtor e cooperativa, e dois
+com o perfil de consumidor. Os participantes produtores apresentaram uma media de 17
+anos de trabalho com a area fim. Alem disso, um questionario foi aplicado a fim de levan-
+tar o perfil dos participantes quanto ao uso de Tecnologias da Informaçao e Comunicaçao,
+perfil de consumo e produçao.
+
+As tarefas foram selecionadas com base nos tres principais atores: produtor, coo-
+perativa e consumidor, sendo as tarefas do produtor e cooperativa similares em sua maior
+parte. A conduçao dos testes preliminares foi realizada no formato de entrevista semi-
+estruturada, com os usuarios acessando os prototipos por meio de um dispositivo movel.
+As entrevistas foram registradas em video, a fim de facilitar a analise dos dados coletados
+e os usuarios foram orientados a verbalizar o que estavam pensando.
+
+As tarefas realizadas pelos usuarios do perfil consumidor foram: (1) filtrar locais
+pelo dia da semana; (2) encontrar o produto banana organica a venda na “Ana hortifruti”;
+(3) identificar o dia e horario de funcionamento de um local de venda; (4) retornar para a
+tela dos produtores; (5) listar locais de venda do produtor “Ana hortifruti”; e (6) identificar
+as formas de pagamento disponiveis em um local de venda.
+
+As tarefas comuns aos usuarios com perfil cooperativa e produtor sao: (1) abrir
+o app; (2) criar uma conta de usuario e adicionar informaçoes cadastrais do perfil; (3)
+realizar login com uma conta existente; (4) cadastrar um local de venda e adicionar um
+produto a esse local; (5) carregar a foto de um produto; (6) cadastrar um novo produto
+em um local de venda ja existente; (7) editar o numero de telefone associado ao perfil.
+Usuarios com perfil cooperativa, tambem realizaram tarefas adicionais: (8) associar um
+produtor a cooperativa; e (9) carregar foto de um local de venda.
+
+Para analise das coletas do teste, foi utilizado o framework double diamond
+ de forma adaptada, seguindo as etapas: (i) coleta de dados, pro-
+cesso de descoberta de problemas atraves de testes de usabilidade com usuarios; (ii)
+priorizaçao de problemas, definiçao e documentaçao dos problemas encontrados com base
+nos feedbacks coletados.
+
+**Resultados**
+
+Os resultados das etapas de coleta de dados e priorizaçao dos problemas sao apre-
+sentados na Tabela 1 em formato similar ao desenvolvido por Lewis e Sauro
+ com os problemas nas linhas e os participantes (p) nas colunas.
+
+A Tabela 1 sintetiza informaçoes importantes, como a criticidade da tarefa, im-
+pacto, frequencia e severidade dos problemas identificados durante o teste de usabilidade,
+que serao utilizadas na tomada de decisao para priorizar a resoluçao dos problemas. A
+criticidade varia de 1 a 4, representando o nivel de impacto no negocio ou no usuario caso
+a tarefa nao seja cumprida. O impacto e medido de 1 a 4, onde 4 indica que o problema impediu o usuario de concluir a tarefa. A frequencia mostra a porcentagem de ocorrencia
+do problema entre os participantes, sendo 1 equivalente a 100%. A severidade e calculada como a multiplicacao dos indicadores anteriores. 
+Os problemas 2, 3, 4 e 5 foram os mais severos, com valores acima de 5,00. Essa
+visao geral dos problemas de usabilidade fornece uma perspectiva inicial do cenario e
+auxiliara a equipe a identificar e otimizar as solucoes durante os proximos passos.
+
+**Conclusao e trabalhos futuros**
+
+Este trabalho apresentou o aplicativo Mangut, uma ferramenta tecnologica que apoia a
+comercializaçao de produtos da agricultura familiar. O aplicativo foi projetado com fun-
+cionalidades prioritarias para produtores, gestores de cooperativas e consumidores, e foi
+avaliado como um prototipo pelos parceiros do projeto.
+
+Foram consideradas 15 tarefas comuns aos perfis envolvidos no teste de usabili-
+dade, e os resultados foram sintetizados usando o framework double diamond, adaptado
+para a avaliaçao de usabilidade e priorizaçao de problemas.
+
+Os resultados destacaram os principais problemas, como a dificuldade em en-
+contrar informaçoes sobre horarios de funcionamento, cadastrar locais de venda, fazer o
+upload de fotos de produtos e cadastrar produtos em locais existentes. Como proxima
+etapa, serao propostas e priorizadas soluçoes para esses problemas de usabilidade, se-
+guindo o fluxo do framework adotado.
+
+A proposta do aplicativo para aproximar consumidores e produtores de alimentos
+organicos e agroecologicos e inovadora e esta alinhada com preocupaçoes globais sobre
+meio ambiente e saude. Alem disso, o aplicativo oferece uma soluçao viavel em situaçoes
+de isolamento social, como durante a pandemia de Covid-19, quando a mobilidade e as
+aglomeraçoes em feiras foram reduzidas, dificultando a comercializaçao para agricultores
+familiares.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este estudo demonstrou o potencial de um aplicativo movel para apoiar a agricultura familiar e conectar produtores e consumidores de alimentos organicos. A avaliaçao de usabilidade revelou desafios importantes que precisam ser abordados para otimizar a experiencia do usuario. Ao implementar melhorias com base nos resultados, o aplicativo Mangut podera se tornar uma ferramenta valiosa para promover a agricultura sustentavel e o consumo consciente.

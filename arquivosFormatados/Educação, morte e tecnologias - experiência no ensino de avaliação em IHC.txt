@@ -1,0 +1,180 @@
+**RESUMO**
+
+A constituiçao de um legado digital e as implicaçoes da morte para
+a gestao postuma de dados devem ser abordadas no contexto da sala de aula.
+Neste artigo, sao partilhadas as reflexoes dos alunos no contexto da
+disciplina Avaliaçao na Interaçao Humano-Computador. A pesquisa
+exploratoria, com abordagem qualitativa, foi realizada a partir de uma
+experiencia pedagogica em que todo o conteudo da disciplina foi abordado
+com foco nos sistemas de gestao do legado digital. Ao final do curso, foi
+aplicado um questionario com o objetivo de compreender a percepçao do
+aluno sobre o processo formativo vivenciado. Os dados revelam que a
+experiencia foi positiva tanto para a aquisiçao de conhecimentos sobre os
+metodos de avaliaçao, como para as reflexoes sobre a finitude da vida.
+
+**INTRODUCAO**
+
+A morte e um fato inerente a existencia humana. A pandemia de COVID-19 impos a
+sociedade a consciencia sobre essa realidade, tivemos que encarar a dor, lidando com a
+perspectiva da finitude da vida em diferentes facetas. Diariamente nos deparamos com
+os numeros crescentes, com o medo que ela se aproxime, ou com a noticia da perda de
+uma pessoa proxima . Diante da tela do computador passamos
+a visualizar a morte, a encontra-la em nomes conhecidos e desconhecidos, alem disso,
+os dados produzidos por pessoas falecidas continuam a circular na rede.
+
+Diversos estudos sao conduzidos evidenciando a importancia de refletir sobre os
+dados postumos e desenvolvimento de sistemas gerenciadores de legado digital que
+possam dar o melhor destino a todas as informaçoes que a pessoa constituiu durante a
+vida e que apos sua morte passam a constituir seu legado digital .
+
+Neste sentido, e fundamental que profissionais em processo formativo na area de
+tecnologia vivenciem reflexoes sobre a morte e suas implicaçoes na construçao de
+sistemas. Neste sentido, questionamos se seria possivel, a partir da tematica da morte,
+que estudantes ampliem suas reflexoes no processo formativo para alem de questoes
+tecnicas inerentes ao desenvolvimento de sistemas?
+
+Diante disso, a pesquisa exploratorio, com abordagem qualitativa, tem por
+objetivo compreender as reflexoes realizadas por estudantes no processo formativo da
+disciplina Avaliaçao em Interaçao Humano-Computador (IHC) na Universidade
+Tecnologica Federal do Parana - campus Curitiba (UTFPR-CT), diante da avaliaçao de
+sistemas gerenciadores de legado digital. Foram aplicados metodos de inspeçao e
+metodos de observaçao em dois sistemas distintos. Ao final do semestre um questionario
+foi aplicado para estudantes que participaram da disciplina com o objetivo de
+compreender a percepçao acerca do processo formativo vivenciado.
+
+As analises estao apresentadas neste texto. Inicialmente, ha a fundamentaçao
+teorica em que discutimos sobre educaçao para a morte e a relevancia de sua
+incorporaçao no processo formativo de cursos da area de tecnologia. Na sequencia,
+detalhamos a metodologia, seguida dos resultados e discussoes. Por fim, sao
+apresentadas as consideraçoes finais e as referencias.
+
+**FUNDAMENTACAO TEORICA**
+
+Segundo Mariano , abordar o tema da morte e fundamental para o despertar das
+consciencias, para que o assunto seja enfrentado e assumido como natural, e assim ha a
+necessidade de criar disciplinas e outros contextos de formaçao sobre essa tematica.
+
+Kovacs  problematiza o tema da morte e sua presença em contextos
+educacionais, enfatizando que a abordagem da morte nas instituiçoes educacionais ainda
+e vista com surpresa. Segundo a autora, as pesquisas mostram que a morte nao e vista
+como tema a ser considerado. Tambem, nao ha consenso entre quem propoe sua
+inclusao, seja como tema nas disciplinas, ou como espaço de acolhimento, discussao ou
+reflexao quando da ocorrencia da morte com estudantes e/ou docentes. Ja em 2002,
+Schilling apresentava uma hipotese para a ausencia dessa tematica em ambientes
+educacionais a morte e considerada um assunto particular, interdito, um tabu. Essa
+interdiçao, tira a possibilidade de reflexao no campo da existencia.
+
+Em cursos da area de tecnologia, a tematica da morte pode contribuir com as
+reflexoes sobre o tema enquanto fenomeno historico e cultural, reconfigurado no
+contexto da cultura digital. Ribeiro afirma que deve-se considerar o fato das
+tecnologias utilizarem seu potencial de armazenamento de memoria para trazer a
+presença do ausente, personificar uma existencia ou um tempo ido. Nessa perspectiva,
+tambem e preciso considerar que ao interagir na Web social, pessoas, sentimentos e
+ativos estao conectados, gerando, assim, um legado digital que dura alem da vida fisica
+e da vida corporal. Assim, o valor da informaçao digital e inegavel e a responsabilidade
+por esses dados deve ser discutida a luz do legado digital .
+
+Acreditamos que seja fundamental, que os cursos de formaçao em tecnologia
+incorporem estudos envolvendo a tematica da morte e possibilite uma discussao sobre
+questoes existenciais, para alem, do ensino tecnico. Assim, no ensino de computaçao e
+fundamental que exista uma abertura de pensamento e uma interaçao com outras areas
+do conhecimento, compreendendo que para o sucesso dos profissionais no mercado e
+necessario ir alem de uma competencia tecnica .
+Cabe frisar que o livro didatico lançado recentemente, sobre Computaçao e Sociedade,
+que traz a citaçao supracitada, sugere uma serie de temas para discussao no ensino e
+graduaçao, sendo que entre eles esta o tema de Tecnologias associadas ao pos-morte
+. Tal obra reforça que que o mercado de desenvolvimento de software
+para atendimento a demandas relacionadas ao legado digital tem crescido
+significativamente'. Assim, e oportuno ter este dominio de aplicaçao nas açoes educativas.
+
+**METODOLOGIA**
+
+A pesquisa realizada e do tipo exploratoria e esta fundamentada na abordagem
+qualitativa pela qual busca-se a natureza socialmente construida da realidade, realçando
+o modo como a experiencia social e criada e vai adquirindo significado.
+
+A pesquisa foi desenvolvida durante a disciplina de Avaliaçao em IHC na
+UTFPR-CT, durante o 1º semestre de 2021, referente ao semestre letivo de 2020/2.
+Estudantes com matricula na disciplina, que desenvolveram atividades formativas
+durante todo o semestre sao participantes do estudo.
+
+O estudo inclui a analise documental do Plano de Ensino apresentando a proposta
+da disciplina e as atividades realizadas. Ao final da disciplina, a turma respondeu um
+questionario, elaborado no Google Forms, que ficou disponivel entre 10 a 20 de maio de
+2021, obtendo-se 6 respostas, de 7 estudantes que cursaram a disciplina.
+
+Ressaltamos que todos os cuidados eticos em relaçao a pesquisa foram
+observados e os consentimentos livre e esclarecido de cada participante estao em posse
+das pessoas responsaveis pela pesquisa "Topicos Especiais em Engenharia de Software
+refletindo sobre sistemas e morte" que possui aprovaçao do Comite de Etica em Pesquisa
+com Seres Humanos da Area das Ciencias Humanas e Sociais da Universidade Federal
+do Mato Grosso sob o numero CAAE: 64403416.6.0000.5690, instituiçao que coordena
+o projeto maior da qual essa pesquisa faz parte, o Dados Alem da Vida- DAVI .
+Ainda, na apresentaçao e analise dos dados, para manter o anonimato de cada estudante,
+nos referimos da seguinte forma: a letra P de participante seguida de uma numeraçao
+sequencial.
+
+**RESULTADOS**
+
+Nesta seçao apresentamos, inicialmente, uma caracterizaçao da disciplina em estudo,
+demonstrando alguns pontos do Plano de Ensino e das atividades realizadas. Na
+sequencia, apresentamos os resultados do questionario aplicado buscando evidenciar as
+repercussoes na vida e formaçao estudantil possibilitadas pelo processo formativo.
+
+A disciplina Avaliacao em IHC faz parte da grade curricular dos cursos de Sistemas de Informacao e Engenharia de Computacao, com carga horaria de 45h/aula. E uma disciplina optativa que tem como pre-requisito a disciplina de Introducao a IHC. Pelas restricoes impostas pela pandemia de COVID-19 todas as atividades foram distribuidas em 14 semanas no semestre letivo de 2020/2 e realizadas com apoio de sistemas computacionais interativos: encontros sincronos semanais de 2 horas de duracao via Google Meet, uso do Google Classroom para disponibilizacao de materiais e entrega de tarefas, e uso do Telegram para atendimento assincrono durante a semana. A turma teve inicio com 8 estudantes. Houve uma desistencia sem justificativa logo no inicio do semestre. A turma foi entao dividida em dois grupos. Um deles escolheu o YouTube como plataforma para avaliar e o outro escolheu o Facebook. Os estudantes informaram que a escolha se deu por afinidade com a plataforma.
+
+No primeiro encontro sincrono da disciplina houve a apresentacao do plano de ensino, da docente e da turma. Foram indicadas leituras sobre legado digital cujo conteudo foi abordado no segundo encontro sincrono. Os encontros seguintes abordaram os seguintes conteudos (Barbosa et al., 2021): personas, questionarios, framework DECIDE (Sharp, Preece e Rogers, 2019), metodos por inspecao - Avaliacao Heuristica (AH) e Metodo de Inspecao Semiotica (MIS), metodo por observacao - Metodo de Avaliacao de Comunicabilidade (MAC).
+
+Cada estudante criou uma persona e a partir dela conduziu as avaliacoes. Um unico questionario foi elaborado por grupo para levantamento de percepcoes do publico-alvo sobre a tematica. Em seguida, as avaliacoes foram planejadas por cada grupo usando o framework DECIDE. O cenario de interacao que guiou as avaliacoes tambem era unico para o grupo. O primeiro metodo aplicado foi a AH que foi realizada em sessoes individuais (atividade assincrona) e em seguida por uma sessao de consolidacao (atividade sincrona). Em seguida, o MIS foi aplicado individualmente. E por fim, foram conduzidas as avaliacoes por observacao. Inicialmente foi feito um piloto para cada grupo durante um encontro sincrono com toda a turma. Por limitacoes de tempo, cada estudante conduziu apenas uma avaliacao por observacao, com o apoio de outro integrante do grupo. Os resultados de todas as avaliacoes eram compartilhados em encontros sincronos com toda a turma.
+
+Ao final da disciplina, o questionario para coletar as percepcoes sobre o processo formativo foi respondido por seis estudantes que tem idade entre 24 e 34 anos, sendo 4 (66,7%) do genero masculino e 2 (33,3%) do genero feminino. Participaram da pesquisa 4 (66,7%) estudantes do curso de Bacharelado em Sistemas de Informacao e 2 (33,3%) do curso de Engenharia de Computacao.
+
+Todos os estudantes afirmaram nunca ter estudado sobre a morte em algum contexto de formacao e foram unanimes em afirmar sobre a necessidade de reflexao sobre a tematica. Identificamos ainda que 4 (66,7%) nunca haviam pensado sobre o destino dos seus dados digitais apos a morte, essa reflexao foi realizada por apenas 2 (33,3%) participantes da pesquisa. Em relacao a configuracao das contas com as opcoes para o destino de seus dados apos a morte, 4 (66,7%) estudantes realizaram a configuracao, destes 2 (50%) realizaram a configuracao antes de cursar a disciplina, 1 (25%) realizou apos cursar a disciplina e 1 (25%) nao informou sobre o momento que realizou tal configuracao. Observamos ainda que 3 estudantes (50%) afirmaram que no desenvolvimento de sistemas, na elaboracao de politicas de uso e privacidade, ja haviam considerado a necessidade de abordar o destino dos dados em caso de deteccao de morte de um usuario.
+
+Buscamos compreender os sentimentos no envolvimento e elaboracao do projeto pratico sobre essa tematica pelos estudantes. Um dos estudantes afirmou Quando eu fiz a primeira Avaliacao Heuristica e testei colocando meus dados, eu senti um peso enquanto configurava, pensei nos meus pais, que legado digital eles teriam, o que eu iria conseguir guardar deles. (P1) Ao mesmo tempo, um dos estudantes afirmou que exigiu focar no assunto tentando nao envolver sentimentos (P3). Tal abordagem pode ser compreendida como uma tentativa de nao refletir sobre a tematica, considerando-se a dificuldade na sociedade atual em falar sobre perdas e a relacao entre morte e sofrimento. O estudante P5 afirmou os sentimentos foram de reflexao, principalmente sobre os impactos da nossa presenca digital e do que se faz com nossos dados sensiveis depois que nao podemos mais controla-los. O estudante P2 mencionou sobre a estrategia pedagogica utilizada, afirmando que a abordagem foi bem cuidadosa e tratou da morte da melhor forma possivel, como algo inevitavel, porem sem polemizar com questoes tragicas.
+
+E preciso considerar que embora tenhamos um evento comum a todos, a morte, temos diversas crencas e conceitos diante desse aspecto da vida humana, assim, todas as abordagens precisam levar em consideracao o respeito a essa diversidade. Em relacao a discussao em grupo, um deles (16,7%) afirmou que para a realizacao da atividade houve divergencias de opinioes acerca da avaliacao do sistema devido a crencas sobre a morte. E tres (50%) discutiram acerca de suas concepcoes ou concepcoes dos futuros usuarios do sistema sobre a morte, pos morte, tabus ou crencas durante a realizacao dos trabalhos em grupo. Percebemos assim, que a discussao ocorreu para alem das aulas sincronas, mas perpassou por toda a realizacao da atividade, levando os estudantes a se depararem com opinioes e crencas diversas. Essas crencas sao oriundas muitas vezes a partir de religioes, dos estudantes, 4 (66,7%) acreditam em Deus e em vida apos a morte e 1 (33,3%) nao acredita e em vida depois da morte. Dos que acreditam e praticam constantemente ritos sociais, sao de religioes protestantes, umbandistas e catolicas.
+
+Ao analisarmos a eficacia da disciplina no processo de reflexao sobre a finitude da vida 4 (66,7%) estudantes avaliaram o tema como muito relevante e 2 (33,3%) como relevante. Destacamos alguns comentarios sobre esse aspecto: Eu gostei bastante do material disponibilizado pela professora, queria que o semestre tivesse sido mais longo para aprofundar mais (P1), Vejo enorme oportunidade de aplicar os conhecimentos de forma pratica (P2), Muito aprendizado (P4), Foi um periodo de grande aprendizado tanto tecnico quanto pessoal. (...) Por isso foi mais do que interessante aprender sobre como esse tema e tratado por grandes empresas e plataformas digitais, alem de entender como analisar estes parametros (P5)
+
+Como pontos fracos da disciplina, o estudante P2 apresentou a questao de poucos participantes e interacoes entre eles. Tambem foi apresentado como sugestao para a proxima edicao da disciplina por P3 que sejam realizados Mais testes de observacao feitos em conjunto. Ressaltamos a importancia de observar as questoes apontadas pelos estudantes, principalmente quando envolve o trabalho com tematicas sensiveis como a morte.
+
+Em relacao a percepcao da tematica, os estudantes afirmaram que Eu gostei bastante, nunca imaginei que esse seria o tema de uma disciplina e isso fez dela uma excelente disciplina (P1), Acho que foi abordado de forma correta. Como sobrevivente de uma situacao de quase morte eu nao me senti desconfortavel gracas a abordagem generalizada do tema (P2), Achei muito interessante pois da para abordar sobre varias culturas e estilos de vida (P3) e uma escolha otima, instiga pensamentos que raramente surgem em outras disciplinas (P4).
+
+Discussoes
+Tendo em vista a necessidade de pensar em dispositivos que oferecam recursos para destinacao de legado digital, inserimos a tematica na disciplina de Avaliacao em IHC. Ressaltamos que a estrategia para discutir a tematica nao tratou de pensar nela como finitude em seus aspectos forenses, pois isso traria um sofrimento inestimável, alem disso, fugiriamos do foco de discussao da disciplina e seus objetivos. A discussao foi realizada buscando reconhecer a morte como um processo inerente a existencia humana e nesse sentido avaliar como essa discussao interfere no trabalho de profissionais da tecnologia a luz do legado digital deixado pelos usuarios.
+
+Os estudantes afirmaram que perceberam o processo formativo de forma leve, tranquila, e isso foi fundamental para que os resultados pudessem ser observados, trazendo a tematica com serenidade, como possibilidade de reflexoes no campo da existencia e sua vinculacao com o desenvolvimento da formacao profissional.
+
+Santos (2009) afirma que diante do sentimento referente ao tema da morte, e importante compreender que ela nao e compreendida de forma unanime, existem diferentes percepcoes e compreensoes acerca do conceito de morte. Essa diferenca fica evidente nas discussoes nos grupos, diante disso, acreditamos que a disciplina contribuiu para que os estudantes pudessem observar crencas diferentes das suas e refletir as implicacoes destas na construcao de sistemas. Neste sentido, questoes culturais como a religiao e os rituais funebres podem enriquecer as discussoes.
+
+Observamos tambem que, falar da morte e refletir sobre o legado, trouxe a tona sentimentos e uma contextualizacao da realidade, de forma, que a partir dessa discussao os estudantes comecaram a refletir sobre as pessoas com as quais convivem e o quao importante para o processo de elaboracao do luto e a manutencao de seus dados digitais. Neste sentido, e importante pontuar o periodo de realizacao do estudo, em plena pandemia COVID-19, no qual muitas pessoas faleceram.
+
+**CONSIDERACOES FINAIS**
+
+No que se refere as discussoes sobre morte, educaçao e tecnologias, com profissionais
+em formaçao, e fundamental que sejam desenvolvidas reflexoes que subsidiarão a futura
+pratica profissional, tendo em vista, a quantidade de dados postumos que ficam nos
+sistemas apos a morte dos usuarios e que precisarão de um destino. Tambem e preciso
+considerar, que essa destinaçao, possui grande potencial para contribuir nos processos
+de elaboraçao de luto.
+
+O desenvolvimento desta pesquisa nos levou a perceber que a discussao da
+tematica foi bem aceita pelos estudantes e possibilitou reflexoes que integraram a tecnica
+(conteudo das disciplinas) e questoes existenciais. Assim, reforçamos a relevancia da
+abordagem da tematica na area de tecnologias, em uma perspectiva socio-tecnica. Para
+alem de abordar questoes afetas ao desenvolvimento de sistemas computacionais e
+importante discutir em sala a complexidade em engenhar determinados sistemas, dadas as questoes sociais e legais as quais estao sujeitos. Ainda, a reflexao critica tambem
+permite que tenhamos cidadaos mais bem preparados para argumentar sobre distintos
+dominios de aplicacao das tecnologias, como as associadas ao pos-morte. Como
+limitacoes na pesquisa citamos a quantidade limitada de tempo em que a disciplina
+contou para realizacao das atividades e discussoes.
+Diante do exposto neste texto, reforcamos a potencialidade da tematica da morte
+em ambientes educacionais, potencializando as reflexoes que nos levem a perceber os
+limites entre vida e morte, suas repercussoes em ambientes digitais, e assim, reverbere
+na ressignificacao da vida pelos estudantes e em sua atuacao profissional de forma a
+perceber as implicacoes dos dados postumos na construcao de sistemas.
+
+**CONSIDERACOES FINAIS**
+
+Em suma, este estudo destaca a relevância de integrar discussões sobre a morte e o legado digital nos currículos de cursos de tecnologia. Ao promover a reflexão sobre temas sensíveis e socialmente relevantes, como a privacidade, a segurança e o destino dos dados póstumos, a área de IHC contribui para a formação de profissionais mais conscientes e responsáveis, capazes de projetar sistemas que atendam às necessidades e valores da sociedade.

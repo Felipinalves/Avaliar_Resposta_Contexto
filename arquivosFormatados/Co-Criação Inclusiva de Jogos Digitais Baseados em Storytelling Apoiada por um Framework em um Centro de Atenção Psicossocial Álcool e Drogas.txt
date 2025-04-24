@@ -1,0 +1,139 @@
+Neste artigo, sintetiza-se resultados de uma atividade de
+co-criacao de jogos digitais inclusivos baseados em story-
+telling apoiada por um framework e realizada por usuarios
+com diferentes necessidades de interacao de um Centro de
+Atencao Psicossocial Alcool e Drogas. As atividades foram
+supervisionadas por profissionais do Centro e apoiados por
+colaboradores (areas de Computacao e Enfermagem). Parti-
+cipantes co-criaram jogos de acordo com suas habilidades,
+acrescentando recursos para que todos os seus colegas pudes-
+sem joga-los. Como comunidades, os participantes criaram
+jogos e inclusao. Como individuos, observou-se melhorias
+de auto-estima e confiança.
+
+**INTRODUCAO**
+
+Profissionais de diferentes dominios podem empregar jogos
+digitais como ferramentas para apoiar o exercicio de suas
+profissoes. Educaçao e saude sao dois exemplos de dominios
+nos quais constatam-se sucesso e beneficios decorrentes do
+uso de jogos. Entretanto, educaçao e saude sao domi-
+nios nos quais necessidades de interaçao dos usuarios podem
+variar significativamente. Assim, a escolha de possiveis jo-
+gos por profissionais e limitada aos titulos que se adéquem
+as necessidades de interaçao de seus publicos considerados.
+Acessibilidade, portanto, torna-se particularmente impor-
+tante para o uso de jogos nesses dominios.
+
+Uma forma de aumentar o numero de possiveis jogos e
+permitir que os proprios profissionais (e seus publicos consi-
+derados) possam criar seus sistemas. Alem de permitir que os
+jogos satisfaçam necessidades particulares dos profissionais,
+poder-se-ia explorar a criaçao de jogos como forma auxiliar
+de apoiar o aprendizado. Ao co-criar seu jogo com o pro-
+fissional, a pessoa acompanhada poderia refletir sobre uma
+questao levantada para o profissional, aborda-la durante a
+criaçao, e compartilhar o sistema resultante com outras pes-
+soas. Co-criaçao e uso de jogos digitais, portanto, poderiam
+promover aprendizado e ensino.
+
+Em , definiu-se um framework para apoiar este fim, com
+tres pilares: uma arquitetura de software para jogos digitais;
+um modelo de colaboraçao para co-criaçao de jogos digitais;
+e ferramentas para co-criaçao inclusiva. Com a arquitetura
+definida (parte do framework), pode-se redefinir a intera-
+çao entre usuario e maquina em tempo de uso (execuçao).
+Baseando-se na arquitetura, propos-se um modelo de colabo-
+raçao (parte do framework) no qual participantes co-criariam
+inclusao por meio de suas proprias habilidades e capacidades.
+Finalmente, com ferramentas de co-criaçao, permitiu-se que
+usuarios finais pudessem co-criar jogos inclusivos. Lepi, a
+primeira ferramenta concebida para framework, destina-se
+a criaçao de jogos baseados em storytelling.
+
+
+**2 CO-CRIACAO INCLUSIVA E COLABORATIVA DE
+JOGOS DIGITAIS PELOS USUARIOS DO
+CAPS/AD**
+
+Para se aprimorar, avaliar, e observar o uso da ferramenta e do
+framework em geral, realizou-se atividades de co-criaçao em
+um Centro de Atençao Psicossocial Alcool e Drogas (CAPS-
+AD) . Realizou-se dez encontros ao longo de quatro meses
+em um CAPS-AD, no qual dez participantes (i) em reabilita-
+çao para uso de alcool e drogas, (ii) vivendo situacoes socio-
+economicas potencialmente desfavoraveis, (iii) com habili-
+dades e necessidades de interaçao heterogeneas (incluindo,
+por exemplo, pessoas com baixo letramento e/ou que nunca
+usaram um computador antes do estudo), e (iv) sem conhe-
+cimento previo de programaçao co-criaram jogos digitais
+inclusivos usando o framework. Como parte do modelo de
+colaboraçao, dois profissionais do CAPS-AD supervisiona-
+ram e colaboraram com os projetos. Adicionalmente, cinco
+colaboradores participaram do estudo (tres com formaçao
+em Ciencia da Computaçao e dois em Enfermagem) com o
+intuito de promoverem recursos adicionais de acessibilidade
+e melhorias esteticas nos projetos criados.
+
+Os participantes utilizaram a ferramenta Lepi para co-
+criarem os jogos. Todos os jogos criados puderam ser jogados
+por todos os participantes, a despeito das diferentes necessi-
+dades de interaçao, e habilidades e proficiencia com tecno-
+logia. Como uma comunidade, os participantes co-criaram
+jogos e inclusao. Textos, desenhos, ditados e gravaçoes de
+audio foram alguns dos recursos empregados ao longo das
+atividades para permitir que todos os participantes pudes-
+sem criar o conteudo de seus jogos e tambem permitir que
+participantes com necessidades potencialmente diferentes
+das suas pudessem joga-los. Por exemplo, pessoas capazes de
+ler forneceram narraçoes gravadas em audio para permitir
+que pessoas com baixo letramento pudessem jogar.
+
+Pequenas alteracoes somaram-se, uma a uma, para promo-
+ver aumento gradual de acessibilidade, rumo a inclusao de
+todos os participantes. Assim, da perspetiva da Computaçao,
+constatou-se a possibilidade de usuarios finais co-criarem in-
+clusao de forma iterativa, mutualistica, e incremental usando
+o framework. Sumarizou-se liçoes aprendidas em oito reco-
+mendaçoes para o design de ferramentas colaborativas para
+co-criaçao : (1) design para semânticas de uso; (2) imple-
+mente para modificaçao; (3) forneça diferentes formas para
+criar e jogar; (4) componha interaçao; (5) foque em capaci-
+dades e habilidades; (6) promova inclusao pela comunidade;
+(7) considere inclusao como um processo dinamico; (8) pro-
+mova colaboraçao pela comunidade.
+
+Do ponto de vista humano, observou-se que atividades
+de co-criaçao de jogos digitais tambem podem ajudar os
+participantes. Inicialmente, alguns deles estavam com medo
+de usaram computadores e incertos de que poderiam con-
+seguir criar um jogo. Ao longo das atividades, observou-se
+que os participantes adquiriram confiança em suas proprias
+capacidades e habilidades durante a co-criaçao. Ao final, os
+participantes mostrarem-se orgulhosos de suas criacoes, e,
+particularmente, de poder compartilha-las com seus colegas.
+Ao compartilha-las, os participantes relatavam suas expe-
+riencias e opinioes com o jogador, ensinando-o aquilo que
+vivenciaram e aprenderam, ou que imaginaram e relataram.
+Ao jogarem, aprendiam com a experiencia e conhecimento
+provido por seus colegas.
+
+
+**3 CONCLUSOES**
+
+As atividades de co-criaçao proveram oportunidades, experi-
+encias, e resultados potencialmente mais importantes que os
+jogos criados pelos participantes. Participantes que jamais
+imaginaram-se usando um computador criaram seus jogos
+digitais. Participantes inicialmente inseguros com o uso de
+computadores começaram a ensinar outras pessoas a usarem
+para que pudessem jogar seus projetos. Participantes que
+queriam sentir-se importantes e membros da sociedade e
+aceitos por ela, tiveram o reconhecimento de seus colegas ao
+observa-los jogando suas criacoes. A co-criaçao apresentou-
+se como uma jornada na qual os participantes compartilha-
+ram e adquiriram conhecimento, criando seus jogos como
+parte do processo. Como resultado, observou-se melhorias de
+auto-estima, confiança e esperança, com o reconhecimento
+de que, com seus esforços, eles poderiam atingir os resultados
+desejados, mesmo que parecessem impossiveis no inicio.

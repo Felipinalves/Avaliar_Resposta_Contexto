@@ -1,0 +1,84 @@
+**INTRODUCAO**
+
+Jogos digitais sao sistemas de software interativos usados para lazer, entretenimento
+e como ferramenta para educacao e saude .
+Os jogos digitais terapeuticos, por sua vez, sao jogos utilizados por profissio-
+nais da Saude para ajudar os usuarios a relaxar e desenvolver outras habilidades
+.
+
+Na literatura medica, os jogos fazem parte de diversas terapias apoiadas por di-
+ferentes intervençoes teoricas. Houve um aumento no uso de jogos terapeuticos di-
+gitais nos ultimos anos. Alguns trabalhos reportam diferetens usos dos jogos nesse
+contexto . No Brasil,
+varios jogos foram desenvolvidos para atender diferentes patologias . No entanto, os autores desses jogos nao citam
+em seus trabalhos o apoio dos profissionais de Saude durante o desenvolvimento. O “Jogo
+da Escolha" , Dermaplay , “Jogar tambem faz bem"
+e LEPI sao alguns exemplos de jogos terapeuticos digitais de-
+senvolvidos por pesquisadores brasileiros, com apoio de profissionais da Saude.
+
+Este artigo e um resumo de um texto mais amplo publicado na revista Interacting
+with Computers [da Hora Rodrigues et al. 2023], que descreve o processo de concepçao
+da plataforma Rufus que permite a autoria de jogos digitais serios.
+
+O projeto plataforma RUFUS se beneficiou da visao da Semiotica Organiza-
+cional [Liu 2000] para Sistemas de Informaçao, bem como de seus metodos e arte-
+fatos. O projeto tambem adotou o Design Participativo [Schuler and Namioka 1993,
+Muller et al. 1997] como forma de identificar e coletar requisitos para o design da in-
+terface da plataforma para autoria, levando a um desenvolvimento do sistema para e com
+usuarios. Foram realizadas oficinas participativas nas etapas de concepçao e avaliaçao da
+soluçao, com profissionais de um hospital parceiro [da Hora Rodrigues et al. 2023].
+
+A abordagem SemTh [de Souza et al. 2019] tambem foi adotada neste projeto na
+fase de concepçao dos primeiros minijogos que compoem a plataforma. Esses jogos fo-
+ram concebidos, a priori, para o contexto do tratamento de crianças com cancer e com
+o apoio de profissionais de Saude especializados neste contexto. Posteriormente, com
+o avanço dos estudos, as mecanicas dos jogos foram generalizadas e passaram a com-
+por a plataforma. Na ocasiao da escrita do texto para a revista supracitada, a RUFUS
+era composta por tres mecanicas de jogo (a saber: perguntas e respostas, plataforma e
+encaixe), nas quais um nao-especialista em Computaçao poderia criar suas instancias de
+jogo usando os modelos pre-definidos para cada jogo. Atualmente, a plataforma dispoe
+de cinco mecanicas (as mencionadas acima, e mais duas mecanicas para contaçao de
+historias - narrativa e narrativa invertida) [da Hora Rodrigues et al. 2022]. A seçao a se-
+guir descreve como a SemTh foi usada para desenvolver a plataforma RUFUS.
+
+Instanciacao da Abordagem SemTh
+
+A etapa de clarificacao do problema de design proposta pela SemTh [de Souza et al. 2019] foi realizada para identificar os requisitos dos jogos, bem como identificar as partes interessadas e caracterizar essas partes, principalmente os pacientes (um dos usuarios-alvo). Nessa etapa, foi possivel ainda identificar informacoes em relacao ao dominio. Para entender melhor as possiveis demandas dos pacientes, tambem foi adotada a tecnica de Personas [Pruitt and Grudin 2003], na qual foram criadas seis personas para representar pacientes e familiares envolvidos no tratamento [Rodrigues et al. 2018]. Ainda nessa fase, a equipe definiu os elementos e praticas de design a serem incorporados ao jogo. Personagens, narrativas, desafios, tipos de visualizacao, restricoes, recompensas, punicoes, elementos interativos e formularios de feedback tambem foram discutidos. Os aspectos da flexibilidade do jogo tambem foram pensados, ficando definido que deveria ser implementado um sistema Web em que os profissionais configurariam o jogo de acordo com a necessidade de sua area de atuacao, diante da patologia e de acordo com as especificidades de cada um de seus pacientes e suas familias [da Hora Rodrigues et al. 2023].
+
+Na segunda etapa, Modelagem de Interacao, as telas dos jogos foram modeladas junto com terapeutas ocupacionais do hospital parceiro, utilizando uma linguagem de modelagem de interacao especifica para este cenario [Garcia et al. 2016]. A linguagem de modelagem e composta por signos e selos que permitem que diferentes partes interessadas possam entender e usa-los para pensar sobre o que deve ser disponibilizado em cada tela do jogo [da Hora Rodrigues et al. 2023].
+
+Na terceira etapa, materializacao do design, os jogos modelados na etapa anterior foram implementados na plataforma RUFUS. Na sequencia, os jogos gerados com a RUFUS (no aplicativo movel) foram apresentados aos profissionais do hospital para avaliacao de aspectos relacionados a cores, fontes e tamanho dos elementos. Em relacao a ativos especificos como fundo, trilha sonora, perguntas e respostas, do jogo de perguntas e respostas (quiz), por exemplo, vale ressaltar que esses sao flexiveis e configuraveis pelo profissional [da Hora Rodrigues et al. 2023].
+
+Uma avaliacao preliminar tambem foi realizada com profissionais de Saude e Educacao do grupo de pesquisa utilizando a interface Web de autoria da RUFUS. Esses profissionais interagiram com a primeira versao da plataforma Web e forneceram feedback sobre as tarefas realizadas nessa interface. Os participantes tambem foram questionados sobre o uso de uma plataforma para criar jogos para seus pacientes/alunos e se eles achavam que tais jogos poderiam ajudar em seu tratamento ou processo de aprendizagem. Todos disseram que a plataforma seria util para suas atividades [da Hora Rodrigues et al. 2023]. A secao a seguir descreve brevemente as especificidades da RUFUS e das suas duas interfaces.
+
+Plataforma RUFUS
+
+Este e um dos projetos deste grupo de pesquisa que tem atuado nas areas de End-User Programming (EUP), ou seja, em um conjunto de tecnicas que permitem aos usuarios finais criarem seus programas [Ko et al. 2011b]. Os problemas identificados ao longo desses estudos incluem a dificuldade, por parte dos profissionais de Saude, relacionada a compreensao dos requisitos e a dinamica de construcao de jogos, [Rodrigues et al. 2019], dificuldades que sao intrinsecas a area acima mencionada [da Hora Rodrigues et al. 2023].
+
+A RUFUS e composta de uma interface Web para criacao de jogos e um aplicativo movel (player) para interacao do jogador com os mesmos. Na interface Web, o profissional (ex.: terapeuta, pediatra, nutricionista) pode cadastrar usuarios (os pacientes e seus familiares/cuidadores), criar sessoes contendo jogos especificos para cada paciente e cuidador, selecionar a organizacao a qual o paciente pertence, configurar o tipo de conteudo (ex.: imagens, sons, mensagens de feedback) que devem ser incluidos no jogo, e visualizar relatorios. Ao criar jogos especificos para cada jogador, o profissional de Saude pode personalizar o jogo a partir de tres mecanicas pre-definidas, estabelecendo assim parametros especificos para cada mecanica [da Hora Rodrigues et al. 2023].
+
+Nas tres mecanicas, e possivel configurar o nome e a descricao do jogo, a imagem de fundo, a trilha sonora e o feedback de erro e acerto – caso o profissional julgue ser importante. No jogo de encaixe tambem e possivel definir as imagens do quebra-cabeca e o posicionamento de cada uma dessas imagens na tela. No jogo de perguntas e respostas e possivel definir as questoes, a quantidade de respostas que serao exibidas, as possiveis respostas, a pontuacao de cada resposta e a resposta correta. Por fim, no jogo de coleta, e possivel configurar o nome do objeto coletavel, uma pontuacao para esse objeto, uma imagem do item coletavel, a pontuacao limite para encerrar o jogo, alem de som de acerto e erro para cada item escolhido pelo usuario jogador [da Hora Rodrigues et al. 2023]. Os jogadores acessam o jogo por meio de um aplicativo movel. Enquanto os jogadores jogam, suas acoes sao capturadas, armazenadas e enviadas para o sistema Web, que gera relatorios sobre o desempenho dos jogadores para os profissionais, e esses podem realizar procedimentos de intervencao durante o tratamento. A Figura 1 ilustra um exemplo de jogo de perguntas e respostas em ambas as interfaces da RUFUS.
+
+**CONSIDERACOES FINAIS**
+
+A area de End-User Programming tem varios desafios a serem superados, um deles,
+intrinseco a este contexto, e fornecer uma interface de autoria intuitiva e facil de usar
+para profissionais que nao sao especialistas em jogos, mas que podem criar e configurar
+minijogos para suas populaçoes de interesse usando a RUFUS. A utilizaçao de tecnicas
+e instrumentos do Design Participativo propostos pela abordagem SemTh tem ajudado a
+alcançar resultados positivos [da Hora Rodrigues et al. 2023].
+
+Apos a publicaçao na revista Interacting with Computers, a RUFUS passou por
+um redesign da interface Web, de modo a aperfeiçoar sua identidade visual. Agora ela
+tambem oferece mais duas mecanicas, somando um total de cinco.
+
+A plataforma tem sido utilizada por profissionais da Saude e da Educaçao em
+intervençoes junto dos seus usuarios-alvo. Dentre os estudos que utilizaram a plataforma,
+destaca-se um estudo recente com crianças enlutadas, realizado por uma terapeuta ocupa-
+cional. Os resultados apontam a eficacia dos jogos criados na plataforma como elemento
+disparador para um dialogo especifico durante a terapia. Os resultadose encorajam estes
+autores a continuarem melhorando a plataforma e oferecendo novas mecanicas.
+
+**CONCLUSAO**
+
+Em resumo, este artigo apresentou a plataforma RUFUS para a criaçao de jogos digitais terapeuticos, destacando seu desenvolvimento baseado em principios de programaçao para usuarios finais e o uso de tecnicas de design participativo. As avaliaçoes realizadas mostraram resultados positivos, e a plataforma tem sido utilizada com sucesso em intervençoes nas areas de saude e educaçao. A plataforma e uma ferramenta promissora para capacitar profissionais nao especializados em jogos a criar conteudos terapeuticos personalizados, melhorando o engajamento e a reabilitaçao dos pacientes.

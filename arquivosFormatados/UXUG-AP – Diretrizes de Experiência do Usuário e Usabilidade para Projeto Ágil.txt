@@ -1,0 +1,300 @@
+**RESUMO**
+
+Entregar um software de valor para os usuarios e um desafio
+constante para os times que usam metodologias ageis como um
+framework em seu processo de desenvolvimento de software.
+Muitos pesquisadores e profissionais tentam associar as
+metodologias ageis com a usabilidade e a Experiencia do Usuario
+(UX), a fim de criar um modelo que promova este tipo de entrega.
+Dessa forma, os estudos identificados na literatura apresentam
+tecnologias complexas que demandam muito conhecimento, custo,
+tempo e recursos. Com o objetivo de contribuir com esta linha de
+pesquisa, decidiu-se por apresentar uma integraçao simples, onde
+tempo, custo e recursos nao se tornam obstaculos para a aplicaçao
+da tecnica em varios formatos de times e metodologias ageis. O
+principal objetivo deste Artigo e apresentar uma tecnica de
+prototipaçao chamada "User Experience and Usability Guidelines
+for Agile Project" (UXUG-AP) que auxilia no projeto da
+usabilidade e UX, a qual poderia ser usada por times ageis,
+independentemente da quantidade de recursos disponiveis,
+tamanhos de projetos e metodologias adotada.
+
+**INTRODUCAO**
+
+Atualmente, as pessoas estao acostumadas a uma tecnologia
+onipresente , ou seja, a tecnologia esta inserida de varias formas
+no cotidiano das pessoas. Devido a pluralidade de softwares
+disponiveis, selecionar a melhor aplicaçao depende da qualidade.
+
+A garantia de qualidade de um software e definida como uma
+abordagem sistematica para avaliar a qualidade do software, seus
+padroes, processos e procedimentos . Dentre os criterios de
+qualidade estabelecidos nas ISO/IEC 25010  e ISO/IEC 9241-
+210 , sao a usabilidade e a experiencia do usuario (UX).
+
+Koivuniemi  aponta que o projeto da UX começa com uma
+boa usabilidade, fazendo o produto facil e eficiente para o uso.
+Contudo, tanto a usabilidade, quanto a UX vao muito alem,
+presando pela satisfaçao do usuario, atendendo suas necessidades
+de forma eficaz. Dessa forma, considerar a usabilidade e a UX no
+software tem se apresentado como um dos desafios da area de
+Interaçao Humano-Computador (IHC).
+
+Diante dessa necessidade, identificou-se que muitos
+profissionais buscaram melhorar o processo agil integrando
+conceitos de usabilidade e/ou UX. Contudo, estas integraçoes
+apresentam-se de forma complexa, alem de muitas vezes dirigir-se
+a metodologias ageis especificas. Devido a esses fatores, o
+principal objetivo desta pesquisa e desenvolver uma tecnica, ou
+seja, um conjunto de passos que visam alcançar um determinado
+objetivo , que apoie a construçao de prototipos visando a
+usabilidade e UX dentro de um processo de desenvolvimento agil.
+
+Para tanto, este artigo apresenta a versao inicial da tecnica User
+Experience and Usability Guidelines for Agile Project (UXUG-
+AP) que possui um conjunto de diretrizes com a finalidade de
+apoiar o projeto da usabilidade e UX durante a prototipaçao.
+
+Dessa forma, os trabalhos relacionados e o problema sao
+apresentados na secao 2. Na secao 3 apresenta-se a metodologia
+utilizada, enquanto a secao 4 apresenta as atividades ja executadas.
+A secao 5 apresenta a contribuicao esperada com a proposta e a
+secao 6 comenta sobre os proximos passos e consideracoes finais.
+
+**TRABALHOS RELACIONADOS E APRESENTAÇAO DO PROBLEMA**
+
+Inumeros profissionais vem apresentando novas formas de
+tornar o processo de desenvolvimento de software mais simples, ao
+mesmo tempo que visam entregar maior qualidade. Muitas
+pesquisas tem sido desenvolvidas visando encontrar formas de
+unificar metodologias ageis aos conceitos de usabilidade e UX [12]
+[24] [11] [25] [23] com a finalidade de melhorar o valor do produto,
+mantendo a agilidade da entrega.
+
+Embora muitos pesquisadores estejam trabalhando na
+integraçao desses conceitos, poucos sao aqueles que focam na
+integraçao tanto da usabilidade, quanto da UX, dentro do
+desenvolvimento agil [12] [28]. Parte deles apresentam formas de
+integrar apenas a usabilidade ao processo de desenvolvimento agil
+[29] [30] [27], outras integram apenas a UX [12] [26] [17].
+
+Alem disso, boa parte das pesquisas apresentam frameworks,
+metodologias e conjuntos de tecnicas [1] [15] [18] [23] [25] [31],
+sendo esses tratamentos mais complexos, podendo gerar
+dependencia de treinamento, exigir alguma habilidade especifica
+dos profissionais, ou demandar mais tempo na execuçao. Em
+adiçao, algumas tecnologias sao construidas com base em
+metodologias especificas, como o XP [15] [18]. Nao obstante, por
+se tratar de uma demanda recente, ainda e necessario validar
+empiricamente estas integraçoes [17].
+
+Com base nisso, surgiu a seguinte questao de pesquisa: Como
+projetar usabilidade e UX, dentro de um contexto agil, de forma
+facil, flexivel, sem aumento de tempo, custo e recursos?
+
+**METODOLOGIA DA PESQUISA**
+
+A fim de desenvolver e avaliar uma soluçao para o problema
+proposto, a pesquisa foi dividida em duas etapas: concepçao e
+avaliaçao, conforme pode ser visto na Figura 1. Durante a
+concepçao realizou-se o Mapeamento Sistematico da Literatura, o
+qual concedeu a base teorica que fundamentou a construçao da
+tecnica proposta, alem da analise dos estudos resultantes.
+
+Ja a etapa de avaliaçao, agora em andamento, iniciou-se pelo
+estudo piloto, que forneceu indicios que os materiais criados para a
+tecnica sao validos. Este estudo sera seguido por dois estudos de
+viabilidade, sendo um deles tendo como participantes estudantes da
+graduaçao e o outro, profissionais da area. Ambos deverao fornecer
+insumos visando a melhoria e evoluçao da tecnica.
+
+**ATIVIDADES REALIZADAS**
+
+Foi realizado um Mapeamento Sistematico da Literatura (MSL),
+seguindo os procedimentos descritos por Kitchenham e Charters
+. O MSL teve como objetivo, segundo a abordagem Goal
+Question Metric (GQM), analisar publicaçoes cientificas, com o
+proposito de caracterizar as tecnologias de IHC e/ou Engenharia de
+Software (ES) que apoiam o projeto de usabilidade e UX, do ponto
+de vista de pesquisadores de IHC e ES, sob o contexto das fontes
+primarias em SCOPUS, ACM, IEEE Xplore e Science Direct.
+
+Neste trabalho, o termo "tecnologia" e utilizado como
+generalizaçao para procedimentos, ferramentas, tecnicas,
+metodologias e outras propostas realizadas na area de IHC e
+Engenharia de Software .
+
+O MSL buscou responder a seguinte questao: "Quais
+tecnologias tem sido utilizadas nas fases iniciais do processo de
+desenvolvimento agil de um software, visando projetar a
+usabilidade e/ou UX? ". Afim de auxiliar na resposta da questao da
+pesquisa foram definidas as seguintes sub questoes (SQ):
+SQ1: Qual o estagio do processo de desenvolvimento agil?
+SQ2: Qual a area da pesquisa?
+SQ3: Quais os criterios de qualidade da tecnologia?
+SQ4: Quais os artefatos em que a tecnologia e aplicada?
+SQ5: Qual o tipo de contribuiçao?
+SQ6: Necessita de suporte ferramental?
+SQ7: Foram realizados estudos empiricos?
+SQ7.1: Quais os tipos de estudos empiricos?
+SQ7.2: Qual o ambiente de avaliaçao do estudo realizado?
+Alem disso, utilizou-se o PICOC (Population, Intervention,
+Comparison, Outcome e Context) para identificar as palavras-chave
+e formular a string de busca, a qual ficou definida como:
+
+("agile development" OR "agile project" OR "agile lifecycle"
+OR "agile method") AND ("technique" OR "tool" OR
+"framework" OR "method" OR "model" OR "process" OR
+"guideline" OR "practice" OR "approach" OR "principle" OR
+"heuristic") AND ("usability design" OR "user experience design"
+OR "UX design")
+
+Foram definidos criterios para filtrar os trabalhos retornados
+pela busca. Sendo os criterios de inclusao (CI):
+CI1: Estudos que descrevam tecnologias que projetam a
+usabilidade e experiencia do usuario em fases iniciais dos processos
+de desenvolvimento agil;
+
+CI2: Estudos empiricos de tecnologias que projetam a
+usabilidade e experiencia do usuario em fases iniciais dos processos
+de desenvolvimento agil;
+
+E os criterios de exclusao (CE):
+CE1: Livros, chamadas de conferencia, relatorios tecnicos;
+CE2: Os artigos que nao atendam aos criterios de inclusao;
+CE3: Os artigos em que a lingua e diferente do ingles e do
+portugues;
+CE4: O artigo nao esta disponivel para leitura (disponiveis
+atraves de pagamento, ou nao fornecidos pelas bibliotecas);
+CE5: O artigo e duplicado.
+
+Apos realizar a busca nas bibliotecas definidas, a seleçao dos
+artigos foi realizada em duas etapas. O 1º Filtro, consistiu na leitura
+do titulo e abstract, filtrando os artigos de acordo com os criterios
+de inclusao e exclusao. No 2º Filtro foi realizada a leitura completa
+dos artigos resultantes, novamente filtrando-os de acordo com os
+criterios definidos. Ambas as etapas contaram com duas
+pesquisadoras, onde a primeira fazia o primeiro crivo e, a
+pesquisadora mais experiente revisava, fazendo as devidas
+alteraçoes quando necessario. No total, 232 artigos foram
+retornados pelas bibliotecas digitais. Ao final do 1º filtro, 124
+artigos foram selecionados e no 2º filtro chegou-se ao total de 18
+artigos que passaram pela extraçao dos dados.
+
+**Analise dos Estudos Resultantes**
+
+Foi realizada uma analise dentre os artigos resultantes do MSL,
+a fim de verificar quais poderiam contribuir de alguma forma com
+a construçao da tecnica. Inicialmente decidiu-se por utilizar a
+tecnica de prototipaçao como base, por ter sido a tecnica mais
+mencionada (11 mençoes), alem de apresentar caracteristicas
+convenientes para a proposta, como facilidade, flexibilidade e
+baixo custo. Depois, foram estabelecidos dois criterios para
+seleçao: o artigo deveria mencionar a tecnica de prototipaçao e ao
+menciona-la, deveria conter informaçoes relevantes sobre sua
+construçao e/ou utilizaçao no dado projeto. Dos 18 artigos
+resultantes, somente 2 foram selecionados para auxiliar na
+construçao da tecnica, sendo eles [18] e [15], apresentados
+resumidamente a seguir.
+
+Hussain et al.  apresentaram um processo baseado em
+Interaçao Humano-Computador (IHC) aplicado em um projeto que
+utilizava a metodologia XP. O processo consistia em associar 5
+instrumentos de IHC a metodologia XP. A conclusao do estudo
+destacou que, o sucesso da uniao entre o agil e o design centrado
+no usuario depende principalmente do usuario e sua participaçao
+no projeto.
+
+Memmel et al.  apresentaram um estudo onde foi aplicado o
+ciclo de vida XP estendido pela engenharia de usabilidade. O ciclo
+de vida priorizava as questoes interativas e funcionais, tratando-as
+antecipadamente. A abordagem tambem privilegia o uso de
+prototipos expressivos, com a justificativa de diminuir a
+necessidade de usar documentos abstratos e extensivos.
+
+**UXUG-AP**
+
+A tecnica chamada User Experience and Usability Guideline for
+Agile Project (UXUG-AP) [22] visa apoiar o projeto da usabilidade
+e UX durante a construçao dos prototipos em um processo de
+desenvolvimento agil. A UXUG-AP pretende promover a
+integraçao das disciplinas de usabilidade, experiencia do usuario e
+metodologias ageis, sob o formato de diretrizes. Com a finalidade
+de direcionar o profissional a desenvolver uma ideia sistematica da
+aplicaçao, as categorias passam por topicos como requisitos, tipos
+de usuarios, indo ate detalhes como separaçao de informaçoes e
+prevençao de erros, conforme pode ser visto na Tabela 1. Cada
+categoria se divide em subcategorias, de forma a permitir uma
+leitura rapida e simples do topico de interesse. Alem disso, essa
+divisao em categorias e subcategorias partiu da ideia de que o
+profissional teria inicialmente, a liberdade em escolher quais
+caracteristicas ele gostaria de usar e aplicar em seu projeto.
+
+Desta forma, a tecnica proporciona a flexibilidade e autonomia
+necessarias as varias metodologias ageis existentes. Alem disso, a
+tecnica apresenta exemplos que ilustram a diretriz, permitindo ao
+profissional um melhor entendimento, facilitando sua utilizaçao.
+
+Alem das obtidas no MSL, houve a necessidade de buscar outras
+referencias para compor a tecnica. Com isso, incluiu-se a ISO/IEC
+25010 , alem de outras referencias como [10], [6], [19], [21], [5],
+e [2]. Finalmente, definiu-se a UXUG-AP [22], apresentando-a
+numa estrutura linkada, de forma que o profissional possa navegar
+livremente, conforme a necessidade.
+
+Estudo Piloto
+O estudo piloto foi realizado com o proposito de validar os
+artefatos utilizados durante o experimento bem como a viabilidade
+da tecnica Para a realizacao do estudo foi solicitado aos
+participantes que construissem prototipos do tipo Web Page com
+base em uma estoria do usuario dada
+Apos a construcao dos prototipos foi entregue aos participantes
+um questionario posuso baseado no modelo Technology
+Acceptante Model TAM 33 a fim de avaliar a UXUGAP Os
+participantes avaliaram a tecnica com base em tres fatores
+Facilidade no uso Utilidade e Futuro uso da UXUGAP Atraves
+da analise realizada verificouse que os participantes avaliaram a
+UXUGAP como parcialmente facil de usar atendendo ao objetivo
+proposto porem exigindo um certo esforco mental o qual
+associaram a falta de conhecimento no assunto
+Sobre a utilidade ambos tambem consideraram que a UXUGAP
+aumentou o desempenho produtividade e eficacia durante a
+prototipacao Um dos participantes ainda destacou que a tecnica o
+ajudou nas questoes que envolviam UX e acessibilidade visto que
+o mesmo nao possuia conhecimento no assunto Ja a respeito da
+intencao de uso futuro um participante destacou que com a
+evolucao da tecnica a mesma seria muito bem recomendada
+
+**CONTRIBUIÇAO ESPERADA**
+
+Com esta pesquisa, espera-se desenvolver uma tecnica que de o
+suporte necessario aos profissionais que atuam em times ageis, de
+forma que os processos de construçao dos artefatos de prototipaçao
+contemplem tambem os requisitos de usabilidade e experiencia do
+usuario. Dessa forma, a principal contribuiçao que se espera
+alcançar e apresentar a industria uma forma alternativa de
+prototipaçao que possibilite diminuir o retrabalho e custos dos
+projetos, prevenindo-os de possiveis problemas ou falhas de
+usabilidade e experiencia do usuario que, normalmente, sao
+encontrados somente ao final do processo, ou apos a entrega.
+
+**PROXIMOS PASSOS**
+
+Recentemente aplicou-se o primeiro estudo de viabilidade,
+agora em estado de analise. Com base nos resultados do primeiro
+estudo, deseja-se evoluir a tecnica, para entao valida-la no segundo
+estudo de viabilidade que sera realizado com profissionais que
+trabalhem com metodologias ageis. Apos a realizaçao dos estudos
+de viabilidades e suas respectivas analises, espera-se alcançar uma
+tecnica consistente e que seja capaz de auxiliar as equipes ageis a
+construirem softwares com usabilidade e UX, de forma facil e sem
+custos adicionais.
+
+**CONCLUSAO**
+
+A tecnica UXUG-AP busca aprimorar o desenvolvimento agil de
+software, integrando usabilidade e experiencia do usuario de forma
+simples e flexivel. Ao fornecer diretrizes claras e exemplos praticos,
+a tecnica visa auxiliar os profissionais a criar prototipos que atendam
+aos requisitos do usuario, promovendo a criaçao de softwares de
+alta qualidade e com maior valor para o negocio.

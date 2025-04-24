@@ -1,0 +1,49 @@
+**RESUMO**
+
+Ambientes ubiquos utilizam tecnologias contemporaneas baseadas em sensores e atuadores que proporcionam diversas formas de interaçao. O acesso equitativo para ambientes fisicos tem sido explorado pelo Design Universal (DU) e a acessibilidade na web tem sido orientada pelo W3C-WCAG. Ainda ha uma escassez de ferramentas de avaliaçao da interaçao para ambientes ubiquos, que considerem aspectos que vao alem das formas tradicionais de interaçao. UbiAccess e um instrumento de avaliaçao da ubiquidade do acesso, que combina aspectos de guidelines do Design Universal e do W3C-WCAG, visando contribuir com o desafio de avaliar o acesso a ambientes ubiquos.
+
+**INTRODUCAO**
+
+Ambientes de computaçao ubiqua fazem uso de sensores e atuadores presentes em tecnologias tangiveis, sensiveis ao contexto, vestiveis etc., espalhadas pelo ambiente e proporcionando uma variada possibilidade de interaçoes . A interaçao nesses ambientes possui um carater unico ao reunir elementos do ambiente fisico, digital e social da interaçao. Com tantas formas de interagir, como avaliar se ha acesso equitativo nesses ambientes? Nossa denominaçao de acesso equitativo envolve a possibilidade de a pessoa fazer sentido da interaçao, independentemente de suas condiçoes especificas, ou seja, sem discriminaçao . Com isso, as pessoas com deficiencia sao as que mais se beneficiam do acesso equitativo. Alem disso, inclusao e as tecnologias contemporaneas sao desafios abordados pelos SDGs da Agenda Sustentavel 2030, com a qual esta pesquisa tambem visa contribuir.
+
+Entre os padroes formais de acesso globalmente adotados, assim como na literatura academica, ainda nao encontramos ferramentas especificas para avaliar o acesso no contexto de ambientes ubiquos. Assim, realizamos um estudo preliminar  investigando os principios do DU e do W3C-WCAG 2.1, para compreender se os principios eram aplicaveis ao paradigma dos ambientes ubiquos. Identificamos que alguns principios poderiam ser utilizados, mas ainda seria necessario investigar se os guidelines dos principios possuiam a mesma aplicabilidade. Em seguida, realizamos uma analise aprofundada que investigou os guidelines do DU e do WCAG, gerando o instrumento UbiAccess , que apresentamos nesta publicaçao.
+
+Esta pesquisa faz parte do Projeto Tematico Fapesp intitulado
+"Sistemas Socioenativos"#2015/16528-0. Estes sistemas sao instancias de ambientes ubiquos que articulam tres dimensoes que se
+influenciam mutuamente: a Fisica, a Digital e a Social. A Fisica corresponde ao ambiente fisico e sua materialidade, a Digital envolve
+o processamento de tecnologias computacionais e a Social envolve
+as pessoas, sua cultura, valores, emocoes [1].
+
+**UBIACCESS INSTRUMENTO DE AVALIACAO**
+
+UbiAccess e um instrumento que emergiu da analise de guidelines do DU e de guidelines e criterios de sucesso do WCAG 2.1. A analise foi desenvolvida atraves da verificaçao da aplicabilidade de cada item para o paradigma da computaçao ubiqua (idealizada por Weiser ). Identificamos que 1 dos 30 guidelines do DU eram aplicaveis ao paradigma da ubiquidade. Dos 78 criterios de sucesso de guidelines do WCAG 2.1, 45 nao foram aplicaveis ao paradigma da ubiquidade. A analise tambem permitiu identificar e agrupar os criterios de acordo com a finalidade deles, gerando as cinco areas do instrumento proposto. Por fim, os resultados foram organizados em recomendaçoes, gerando o instrumento UbiAccess. As cinco areas e sua abordagem sao:
+
+Environment (EN): ambiente fisico e seus arredores;
+Information (IN): conteudo e informaçao;
+Multimedia Resources (MR): recursos de texto, audio e video;
+Personal (PE): preferencias e necessidades pessoais;
+Security & Privacy (SP): segurança, proteçao e privacidade.
+
+Considerando a cobertura do WCAG e DU nas areas do Ubi-Access, Environment, Personal e Security & Privacy tem uma representatividade maior do DU nas recomendaçoes, sendo SP nao coberta pelo WCAG. Ja Information e Multimedia Resources possuem mais recomendaçoes provenientes do WCAG. O instrumento esta organizado em forma de tabela , contendo 37 recomendaçoes distribuidas entre as 5 areas. Cada recomendaçao e identificada com uma sigla de duas letras e um numero (e.g EN5 Provide adequate space to make free body movements and actions.). A area Environment conta com 12 recomendaçoes, seguida por Information com 7, Multimedia Resources com 9, Personal com 5 e, Security & Privacy com 4 recomendaçoes. A avaliaçao e realizada atraves de uma verificaçao de conformidade atribuindo Sim/Nao para cada recomendaçao. Ao final da avaliaçao, o avaliador contabiliza quais foram os itens nao atendidos, identificando as melhorias necessarias para prover o acesso equitativo .
+
+**ESTUDO DE CASO**
+
+O instrumento foi utilizado para avaliar duas instalaçoes socioenativas Memaçao  e Temporario, desenvolvidas pela equipe do Projeto Socioenativo, anteriormente a esta pesquisa. O Projeto tem aprovaçao do Comite de Etica da Unicamp (CAAE 72413817.3.0000. 5404). Todas as crianças participantes assinaram um termo de assentimento ajustado de acordo com sua idade, e seus responsaveis assinaram um termo de consentimento livre e esclarecido. A analise foi realizada atraves dos dados em videos das gravaçoes das exibiçoes. As exibiçoes foram realizadas no Museu Exploratorio de Ciencias da Unicamp, localizado na cidade de Campinas/SP, Brasil. 
+
+Temporario fez parte da exibiçao "Uma Experiencia no Tempo Profundo", exibida em 2019 . Participaram desta oficina um grupo de 25 pessoas, composto de 15 crianças e seus responsaveis. A instalaçao possui um display com uma camera e um sensor de proximidade. Um video educacional sobre o conceito de tempo profundo e exibido no display. Quando pessoas se aproximam da instalaçao, a velocidade de exibiçao do video e modificada. O sensor de proximidade e a webcam identificam quantas pessoas estao ao redor da instalaçao e exibe emoticons no display. Dentre as observaçoes na gravaçao do video, uma delas foi o fato das crianças começarem a brincar de esconder para influenciar na velocidade do video.
+
+Memaçao fez parte da exibiçao "A Magia da Ciencia", exibida em 2018 . Participaram desta oficina 15 pessoas, sendo crianças e adolescentes com seus responsaveis. Memaçao e uma instalaçao interativa com uma caixa preta contendo seis texturas diferentes, que ao toque despertam sensaçoes e emoçoes. O display exibe memes e sons relacionados aquela expressao. Dentre as observaçoes na gravaçao do video, os participantes encorajavam uns aos outros a tocar nas texturas e reagiam com expressoes de risos ou susto ao ver os memes.
+
+Ao utilizar o UbiAccess para avaliar estas duas instalaçoes, obtivemos como resultado uma lista de aspectos a serem melhorados nas instalaçoes, assim como aspectos nao cobertos pelo instrumento. Ambas as instalaçoes mostraram possuir total cobertura para as areas Personal e Security & Privacy e cobertura de 83,3% para Environment. Memaçao atingiu conformidade total com a area Information, contra 85,7% do Temporario. Por fim, Temporario cobre 77,8% e Memaçao 88,9% da area Multimedia Resources. Dentre as melhorias necessarias, foram indicadas a compatibilidade com leitores de tela e o provimento de conteudo com audio-descriçao e linguagem de sinais. Com relaçao a cobertura do instrumento para aspectos do acesso equitativo, identificamos aspectos nao cobertos na area de Environment, relativos aos sensores e atuadores, interaçoes tateis, captura de movimento, etc. Ja com relaçao a Security & Privacy, nao foi possivel avaliar, pelo instrumento, aspectos sobre o consentimento sobre coleta de dados do usuario durante a interaçao. Por fim, o instrumento precisa da adiçao de uma area Social para avaliar aspectos intersubjetivos relacionados principalmente a fatores culturais, afetivos e de genero.
+
+**CONSIDERACOES FINAIS**
+
+O instrumento UbiAccess se mostrou uma soluçao viavel para o desafio de avaliaçao do acesso equitativo em ambientes ubiquos. Com ele foi possivel identificar aspectos a serem trabalhados pelas instalaçoes avaliadas, assim como verificar aspectos do acesso que estao em conformidade com as recomendaçoes. Compreendemos tambem que o proprio instrumento precisa de melhorias, como a cobertura de aspectos relativos a sensores e atuadores e a adiçao da area social. Com isso, acreditamos que o instrumento sera capaz de avaliar as tres dimensoes (Fisica, Digital e Social) dos ambientes ubiquos.
+
+Em continuidade a pesquisa, UbiAccess foi utilizado em dois novos estudos de caso, dessa vez para avaliar uma instalaçao socioenativa remota "Aquarela Virtual", desenvolvida pela equipe do Projeto Socioenativo em 2021, no contexto do isolamento social da pandemia Covid-19. A oficina foi realizada em 05/dezembro/2021.
+
+Um estudo de caso avaliou as areas do instrumento sob a perspectiva do caso de uma criança diagnosticada com Transtorno de Espectro Autista - TEA . O outro estudo de caso avaliou as recomendaçoes do UbiAccess sob a perspectiva do caso de criança diagnosticada com Transtorno de Deficit de Atençao e Hiperatividade - TDAH . O instrumento tambem se mostrou efetivo na avaliaçao de cenarios de interaçao remota.
+
+**CONSIDERACOES FINAIS**
+
+Os resultados obtidos com o UbiAccess demonstram seu potencial como ferramenta para orientar o design e a avaliaçao de ambientes ubiquos, promovendo a inclusao e a participaçao de todos. A identificaçao de aspectos a serem melhorados e a inclusao de uma area social no instrumento indicam o caminho para futuras pesquisas e aprimoramentos, visando garantir que as tres dimensoes dos ambientes ubiquos sejam consideradas na busca por um acesso equitativo.

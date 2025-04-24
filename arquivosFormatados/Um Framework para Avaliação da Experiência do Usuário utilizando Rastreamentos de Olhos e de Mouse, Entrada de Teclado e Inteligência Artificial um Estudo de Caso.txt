@@ -1,0 +1,117 @@
+**RESUMO**
+
+A eXperiencia do Usuario (UX) tem sido utilizada para promover
+melhorias nos sistemas de informaçao digitais com base na forma
+como as pessoas os percebem. Em particular, este artigo propoe
+um framework que emprega metodos de rastreamento de olhos
+e de mouse, entrada de teclado, questionario de autoavaliaçao e
+algoritmos de inteligencia artificial para avaliar a UX e categorizar
+os usuarios em termos de perfis de desempenho. Os resultados obti-
+dos com esta estrutura sao artefatos que podem ser utilizados para
+apoiar personalizaçoes da Interface do Usuario (IU) em Websites.
+
+**INTRODUCAO**
+
+A avaliaçao da eXperiencia do Usuario (UX) vem sendo sendo re-
+alizada por meio de diferentes tecnicas e metodologias, tais como
+o smart-wearables, jogos moveis, expressoes faciais, olhar e ras-
+treamento do mouse, questionarios, entre outros. Os metodos de
+avaliaçao de UX sao fatores-chave para assegurar que o desenvolvi-
+mento de bens e serviços esta progredindo na direçao certa para
+satisfazer os requisitos dos usuarios. Recentemente, com o aumento
+das aplicaçoes da Inteligencia Artificial (IA), em diversas areas do
+conhecimento, levantou-se a questao Como a UX pode ser avali-
+ada junto com a IA (especificamente modelos de aprendizado de
+maquina) para personalizar e melhorar a interface do usuário?
+
+Neste artigo, consideramos a heuristica UX como a "metrica"
+proposta por  para avaliar um Website com nossa metodologia.
+Propusemos um framework que inclui uma ferramenta de software
+desenvolvida pelos autores. Esta e uma versao melhorada do AIMT-
+UXT  e agora e chamada T2-UXT (Tracking Techniques - User
+eXperience Tool) . Ela e capaz de extrair metricas UX das entradas
+do mouse, olhos e teclado, o que permite obter novas visualizaçoes
+de dados, enquanto a primeira versao so coletava movimentos do
+mouse. O T2-UXT foi integrado ao framework estabelecido para a
+avaliaçao de UX a fim de realizar a captura de dados usando varias
+tecnicas e classificar o perfil de usuarios com tecnicas de AI.
+
+Com base em avaliaçoes de UX, varias sugestoes de melhorias
+em sistemas podem ser feitas, tais como projetar um modelo que
+forneça parametros para personalizaçoes na interface do usuario.
+Este tipo de modelo requer (1) aquisiçao de dados, (2) identificaçao
+de padroes, (3) interpretaçao e (4) uma exibiçao personalizada do
+sistema. Neste trabalho, a IA sera incluida para ajudar a avaliar a
+relevancia dos recursos coletados de usuarios finais com diferentes
+niveis de habilidade na execuçao de tarefas de Interface de Usuario
+(IU).
+
+**AIT2-UX FRAMEWORK**
+
+Um framework para o modelo de avaliaçao de UX foi construido,
+conforme a Figura 1, e delineado de forma abrangente em uma
+sequencia de etapas i) planejamento etapa de definiçoes para en-
+tender como os usuarios interagem com o sistema ii) avaliaçao
+subjetiva nesta fase, um questionario tradicional de autoavaliaçao
+e aplicado, segundo a Escala de Usabilidade do Sistema (SUS - Sys-
+tem Usability Scale) iii) dados de interaçao do usuario nesta etapa,
+coletam-se os dados a partir de tarefas definidas em i) envolve o uso
+da ferramenta T2-UXT para capturar as interaçoes do usuario com o
+mouse, os olhos e os movimentos do teclado para analise posterior
+iv) classificaçao de dados emprega-se IA, especificamente tecnicas
+de aprendizado de maquina entao, os usuarios sao classificados
+em perfis "experientes"e "nao experientes" v) analise grafica de
+dados a representaçao grafica dos dados de interaçao e realizada,
+utilizando-se o framework AIT2-UX e vi) personalizaçao com os
+artefatos gerados nas fases anteriores, personalizaçoes manuais
+para a IU sao propostas, para o Website em estudo, no caso, da
+Receita Federal do Brasil (RFB).
+
+**ESTUDO DE CASO**
+
+Utilizando-se do metodo de amostragem aleatoria, foram selecio-
+nados 30 voluntarios de todas as regioes do Brasil para acessarem o
+site da Receita Federal do Brasil. As doze variaveis que o framework
+proposto considera sao relacionadas a rastreamento dos olhos, de
+mouse, historio do navegador e entrada de teclado o estudo de caso
+considera o desempenho dos usuarios em quatro tarefas localizaçao
+de pagina especifica realizaçao de operaçoes com o Cadastro de
+Pessoa Fisica (CPF) acesso a serviços relacionadaos ao Imposto de
+Renda de Pessoa Fisica (IRPF) e atualizaçao do CPF.
+
+Para validar o modelo projetado neste estudo de caso, o site
+da RFB poderia adotar telas personalizadas para uma campanha
+especifica, como o ano atual do IRPF. Alem de destacar o valor da
+aplicaçao, a Secretaria da RFB poderia elaborar um gatilho para
+acessar o manual do software do IRPF, caso observasse que o usuario
+esta com dificuldades em encontrarbaixar o software na pagina.
+
+A Figura 2 mostra uma sugestão de personalizacao do Website da RFB, baseada nos artefatos gerados (mapa de calor, pontuacao SUS e modelo de classificacao por IA). As Figuras 2(a) e 2(c) sao as originais. A Figura 2(b) mostra uma tela que contem todos os objetivos que podem ser acessados em um padrao mais claro. A Figura 2(d) mostra uma nuvem de palavras que pode ser atualizada dinamicamente baseada nos acessos mais recentes e que ajuda o usuario a encontrar algo mais rapidamente. Outra sugestao para personalizacao é que, caso os artefatos indiquem que o usuario esta apenas acessando informacoes pessoais, o sistema pode esconder informacoes corporativas e vice-versa. 
+
+**CONCLUSAO**
+
+Utilizamos a AIT2-UX para avaliar a experiencia de 30 usuarios
+na realizaçao de quatro tarefas no website da Receita Federal do
+Brasil (RFB). As tarefas foram compativeis com a heuristica de
+UX proposta por . Em geral, foi estabelecido que a estrutura
+AIT2-UX pode ajudar a fazer uma avaliaçao da UX com multiplas
+tecnicas de rastreamento. O modulo de IA pode ser usado para
+identificar grupos (experientes e nao experientes) de usuarios e os
+resultados podem ser usados para personalizar manualmente a IU
+de um Website. Para isso, ela utiliza dados obtidos por meio dos
+movimentos do mouse, rastreamento de olhos e entradas de teclado.
+
+Como a estrutura AIT2-UX e generica e flexivel, esta pode ser
+incorporada aos mais diversos sistemas interativos de propositos
+variados. Seria possivel, por exemplo, localizar a area da tela na qual
+o usuario passou mais tempo navegando em um site de comercio
+eletronico, como a calculadora de tarifas de frete, comparaçoes de
+produtos, ou tempo de entrega. Com este tipo de informaçao, nossa
+ferramenta poderia ajudar os gerentes de negocios a tomar decisoes,
+incluindo onde fazer ofertas, emitir cupons, ou dar descontos a
+clientes. Assim, a estrutura AIT2-UX pode ser util para lidar com
+situaçoes similares aquelas encontradas em .
+
+**CONSIDERAÇOES FINAIS**
+
+Este estudo demonstra a viabilidade de combinar tecnicas de avaliaçao de UX com inteligência artificial para criar sistemas mais personalizados e eficientes. O framework AIT2-UX se mostrou promissor na avaliaçao da experiencia do usuario no website da Receita Federal do Brasil, identificando perfis de usuarios e sugerindo personalizaçoes na interface. Os resultados obtidos com esta pesquisa podem ser aplicados em diversos sistemas interativos, melhorando a experiencia do usuario e auxiliando as empresas a tomarem decisoes mais assertivas.

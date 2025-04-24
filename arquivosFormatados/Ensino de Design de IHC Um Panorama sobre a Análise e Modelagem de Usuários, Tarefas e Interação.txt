@@ -1,0 +1,112 @@
+**INTRODUCAO**
+
+Nas ultimas decadas a comunidade brasileira de Interaçao Humano-Computador (IHC)
+vem discutindo o Ensino de IHC nos cursos de Computaçao do Brasil e, mais
+sistematicamente, a partir da criaçao, em 2006, de um Grupo de Trabalho (GT) durante
+a realizaçao do VII Simposio Brasileiro sobre Fatores Humanos em Sistemas
+Computacionais. Resultados deste GT foram apresentados por Silveira e Prates (2007)
+e, posteriormente, revisados por Bim et al. (2012). Na ementa proposta pelo GT estao
+descritos topicos variados que tratam do design de IHC e que incluem a analise e
+modelagem de usuarios, tarefas e interaçao. Os conteudos relativos a esses topicos sao:
+elicitaçao e analise, modelagem de tarefas, e modelagem de interaçao. Cabe notar que a
+ementa nao detalhada o que deve ser ensinado em relaçao a cada um desses tres topicos.
+
+Nesse contexto, o objetivo deste trabalho e identificar, atraves de um estudo
+exploratorio, se os topicos supradescritos estao sendo explorados em disciplinas
+relacionadas a area de IHC. Esses foram os topicos escolhidos para serem investigados
+neste estudo, visto sua relevancia no projeto de interface de usuario. Assim, as questoes
+de pesquisa deste trabalho sao: (i) Disciplinas relacionadas a area de IHC estao
+explorando conteudos relativos a analise e modelagem de usuarios, tarefas e interaçao?
+(ii) Quais sao os conteudos relativos a estes tres topicos que estao sendo ensinados? (iii)
+Os professores que lecionam disciplinas relacionadas a area de IHC tambem sao autores
+de artigos no principal Simposio da area do Brasil?
+
+Este artigo esta organizado da seguinte maneira: a Seçao 2 apresenta a
+fundamentaçao; a Seçao 3 descreve o metodo; a Seçao 4 apresenta os resultados; a
+Seçao 5 discute os resultados; e a Seçao 6 conclui o artigo.
+
+Fundamentacao
+
+Durante o projeto de interface de usuario tem-se frequentemente utilizado modelos, por eles permitirem uma representacao de informacoes de design com alto grau de abstracao, alem do uso de modelos tambem permitir reflexoes sobre decisoes alternativas de design [Winckler e Pimenta 2004]. Segundo Souza et al. (1999), ao se projetar a interface de um sistema interativo, deve-se ter uma atencao especial aos usuarios que irao utiliza-la. Para isso, pode-se utilizar a analise e modelagem de usuario.
+
+A realizacao da analise e modelagem de usuarios contribui para a melhor caracterizacao dos usuarios, possibilitando especificar, por exemplo, quais funcoes sao exercidas, e quais atividades o usuario pode realizar. Leite (2010) explica que a analise de usuario possibilita o conhecimento dos papeis dos usuarios pelos desenvolvedores de sistemas, e esse conhecimento faz com que os desenvolvedores compreendam mais seus stakeholders, podendo prevenir possiveis erros de interacao, e melhorando aplicacoes em desenvolvimento. Ja Souza et al. (1999) destacam alguns fatores para a realizacao da analise de usuario, que sao: papel ou funcao do usuario (que e definido pelas tarefas que o usuario realiza), familiaridade com computadores, familiaridade com a aplicacao, frequencia da uso da aplicacao, e contexto sociocultural. Exemplos de conteudos a serem ensinados: perfil de usuario (feito a partir da coleta de dados dos usuarios), personas, e cenarios de uso.
+
+Em relacao a analise e modelo de tarefas, Winckler e Pimenta (2004) destacam que a analise de tarefas teve sua origem em metodos empiricos vindos da Ergonomia. Apesar de sua origem ser na Ergonomia, logo se percebeu a utilidade do uso da analise de tarefas em outras areas, como na Computacao. Segundo Munoz (2000), o processo de analise de tarefas consiste em um metodo iterativo de coleta de dados, em que sao obtidas as metas do usuario e as tarefas que serao realizadas para que seja alcancado seu objetivo. A analise de tarefas busca fornecer ao designer uma visao clara sobre como os usuarios realizam tarefas e de que modo eles poderiam realiza-las via um sistema interativo. Ja os modelos de tarefa sao utilizados para prover uma melhor visualizacao da realizacao de tarefas, e a partir desses modelos pode-se refletir sobre como tornar os procedimentos mais eficientes, melhorando o design de sistemas. Os modelos de tarefas tambem sao utilizados para formalizar os resultados extraidos na analise de tarefas, enfatizando alguma perspectiva escolhida [Winckler e Pimenta 2004]. Para Paterno et al. (1997) o modelo de tarefas e uma descricao logica das atividades a serem executadas para alcancar os objetivos do usuario. Exemplos de modelos a serem ensinados: CTT (ConcurTaskTrees) [Paterno et al. 1997], HTA (Hierarchical Tasks Analysis) [Annett 2003], e GOMS (Goals, Operators, Methods, Selection Rules) e suas variacoes, tal como, KLM (Keystroke Level Model) [Card et al. 1983].
+
+Com os resultados obtidos atraves da analise e da modelagem de usuarios e de tarefas, temos informacoes suficientes para pensar como serao dadas as interacoes dos usuarios com o sistema. Para isso, utilizamos a modelagem de interacao que consiste em projetar todos as possiveis formas de interacao que o usuario pode escolher para alcancar um objetivo. Segundo Costa Neto e Leite (2011), a modelagem de interacao possibilita a visao da interacao e navegacao pela interface projetada, sem que haja uma definicao formal do layout da aplicacao. Isso faz com que o foco do designer esteja no processo de interacao e nao em detalhes expressos pela organizacao da interface. Para Silveira e Prates (2007), a modelagem de interacao tem por objetivo definir as conversas que o usuario deve travar com o designer para que seja formulada as interacoes do usuario com o sistema. Exemplos de conteudos a serem ensinados: TAG (Task-Action Grammar) [Payne e Green 1989], MoLIC (Modeling Language for Interaction as Conversation) [Lopes et al. 2015], e UAN (User Action Notation) [Hix e Hartson 1993].
+
+Metodo
+
+Numa primeira etapa, foram realizadas buscas na Internet com o intuito de obter slides de aulas de disciplinas relacionadas a area de IHC. Apos essa coleta, considerando o objetivo deste trabalho, conforme descrito na Secao 1, foram analisados os slides encontrados com o intuito de coletar dados acerca do ensino dos conteudos de interesse deste estudo. Apos essa etapa, foi realizada uma busca no catalogo de artigos do Simposio Brasileiro sobre Fatores Humanos em Sistemas Computacionais (IHC-Brasil), com o intuito de identificar se os professores que lecionaram as disciplinas identificadas na primeira etapa deste estudo sao, ou nao, autores de artigos publicados no IHC-Brasil.
+
+**RESULTADOS E DISCUSSAO**
+
+Foram identificadas 31 disciplinas relacionadas a area de IHC que foram lecionadas por 25 professores que atuam em 19 Instituicoes de Ensino (IEs). A Tabela 1 apresenta uma sintese dos dados levantados a partir da analise dos slides que foram coletados. Cabe ressaltar que neste trabalho identificamos os professores e as IEs, respectivamente, por Px e IEx, e as celulas com n.d. significa que a informacao estava indisponivel. Ainda, os niveis do ensino das disciplinas foram abreviados: Graduacao (G), Especializacao (E) e Pos-graduacao (PG).
+
+De forma geral, identificamos que 27 disciplinas oferecem conteudos
+para explorar ao menos um dos topicos de design de IHC de interesse deste estudo, ou
+seja, apenas 4 disciplinas nao exploraram nenhum dos tres topicos. Tambem foi
+constatado que 22 disciplinas nao apresentam conteudos para cobrir,
+simultaneamente, os tres topicos investigados neste estudo, ou seja, apenas 9 disciplinas
+exploram os tres topicos. Especificamente, em relaçao a analise e modelagem de
+usuarios, 11 disciplinas nao exploram nenhum conteudo sobre esse assunto, e o
+conteudo mais ensinado e cenarios, seguido por perfil de usuario e
+personas. No que diz respeito a analise e modelo de tarefas, 8 disciplinas
+nao exploram nenhum conteudo sobre esse assunto (Figura 1b), e os modelos
+mais ensinados sao GOMS, seguidos por HTA, KLM e CTT (Figura 2b). Ja no que
+concerne a modelagem de interaçao, 18 disciplinas nao apresentam nenhum
+conteudo sobre esse assunto, e o conteudo mais ensinado e o MoLIC,
+seguido por UAN e TAG (Figura 2c).
+
+Apenas seis professores exploram os tres topicos. Dos 15 professores
+que nunca publicaram no IHC-Brasil, dois destes exploram os tres topicos.
+Assim, apenas 13% dos professores que nunca publicaram no IHC-Brasil exploram os
+tres topicos. Ja dos 10 professores que ja publicaram ao menos um artigo no
+IHC-Brasil, quatro destes exploram os tres topicos. Assim, 40% dos professores que ja
+publicaram ao menos um artigo no IHC-Brasil exploram os tres topicos. Tambem foi
+observado que os professores que exploram os tres topicos pertencem ou tem alguma
+ligaçao com uma IE especifica e, tambem, sao pesquisadores ativos na comunidade
+brasileira de IHC; alguns desses professores fizeram parte do GT descrito na Seçao 1.
+
+Sabemos que cada IE e cada curso nas diferentes regioes do Brasil tem suas
+particularidades, entao investigar o contexto de cada disciplina e importante para
+entender por que certos conteudos sao ou nao explorados nas disciplinas. Dificilmente
+os slides de aula encontrados exploram os tres topicos, com exceçao de algumas poucas
+disciplinas. Os professores que publicaram ao menos um artigo no IHC-Brasil tendem a
+explorar os topicos descritos pelo GT, mas os professores que nunca publicaram no
+IHC-Brasil exploram menos esses topicos. Nao sabemos as causas desse fato, mas nossa
+hipotese e de que esses professores, por “nao fazerem parte da comunidade", podem
+nem saber das recomendaçoes para as disciplinas da area. Conjecturamos, que este
+“problema” pode acontecer com outros topicos e, portanto, careceria de investigaçao.
+
+Mesmo sabendo que pode ter ocorrido certa limitaçao de acesso a materiais
+didaticos da area, considerando que muitos slides de aulas podem estar em Ambientes
+Virtuais de Aprendizagem (AVAs) fechados, entendemos que este trabalho conseguiu
+levantar um rico elenco de materiais que demonstra, de certo modo, o potencial desse
+tipo de investigaçao para o Ensino de IHC, que ja nos permitiu traçar um panorama
+preliminar sobre o ensino desses topicos e seus conteudos. Entendemos que esse
+trabalho, portanto, pode contribuir para a melhoria das disciplinas identificadas, alem de
+potencializar que novas experiencias didaticas sejam pensadas no Ensino, ja que outros
+pesquisadores-professores de IHC tambem poderiam aperfeiçoar suas disciplinas.
+
+Limitacoes e ameacas a validade
+Como limitacao e ameacas a validade deste trabalho sinalizamos a possibilidade de
+slides de aulas de docentes que lecionam disciplinas relacionadas a area de IHC nao
+terem sido encontrados, visto que muitos materiais podem estar disponiveis em AVAs
+de IEs cuja seus conteudos nao estao abertos para o publico externo. Outra ameaca a
+validade do trabalho foi o levantamento dos dados, que foi realizado de forma manual,
+slide-a-slide, mas que foi mitigado com a checagem dos materiais por ambos os autores.
+
+**CONCLUSAO**
+
+Este artigo apresentou os resultados de um estudo exploratorio realizado com o intuito
+de identificar conteudos que estao sendo ensinados na area. Resultados deste trabalho
+indicam que professores participantes da comunidade brasileira de IHC tendem a
+explorar esses conteudos em suas disciplinas, mas professores que nao sao participantes
+da comunidade exploram menos esses conteudos, apesar de sua importancia para a
+formaçao do profissional ou do pesquisador que atuara na area. Como trabalho futuro
+investigaremos outros conteudos relacionados ao design e a avaliaçao de IHC.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, esta pesquisa contribui para o debate sobre o ensino de design de IHC no Brasil, ao revelar quais conteudos relacionados a analise e modelagem de usuarios, tarefas e interaçao estao sendo explorados nas disciplinas da area. Os resultados indicam que ha uma tendencia dos professores participantes da comunidade brasileira de IHC a abordar esses topicos, mas que ainda ha espaço para aprimorar o ensino desses conteudos, especialmente entre aqueles que nao fazem parte da comunidade.

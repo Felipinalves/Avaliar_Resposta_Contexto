@@ -1,0 +1,233 @@
+**INTRODUCAO**
+
+O processo de decisao na exploraçao de pocos de petroleo
+requer optar pelas melhores estrategias que consideram nao
+somente a estrutura dos pocos e comportamento futuro apos
+a perfuraçao, como tambem os processos de extraçao que
+serao utilizados para maximizar os ganhos, dadas as varias
+incertezas associadas ao processo de desenvolvimento de
+reservatorios . Geralmente, simulaçoes de reservatorios
+de petroleo sao utilizadas para ajudar a responder essas
+perguntas pois sao a forma mais segura de prever o
+comportamento de pocos ao utilizar determinado metodo de
+extraçao . Dada a grande responsabilidade atribuida
+a modelos gerados por meio dessas simulaçoes, grandes
+investimentos estao relacionados ao desenvolvimento de
+software que envolva processos de simulaçao e tarefas
+associadas, como o caso de estudo deste artigo, o MERO.
+
+O MERO e um conjunto de ferramentas desenvolvidas
+por um grupo de pesquisa em simulaçao e gerenciamento
+de reservatorios, localizado na Universidade Estadual de
+Campinas (Unicamp). O proposito desse sistema e fornecer
+ao engenheiro de reservatorios de petroleo uma ferramenta
+flexivel e poderosa para auxilia-lo com a automatizaçao de
+tarefas. O software atinge esse objetivo operando com uma
+interface sucinta que baseia-se somente na entrada e saida
+de arquivos. A criaçao dos arquivos de entrada pode ser
+realizada no proprio software ou importando, do computador,
+o arquivo escrito por outro editor de texto. Cada ferramenta
+disponivel funciona recebendo arquivos com formatos que
+variam para cada uma delas. A execuçao de tais ferramentas
+ocorre de modo sequencial e isolada, ou seja, ate o momento,
+nao e possivel executa-las simultaneamente. O MERO pode
+tambem ser utilizado via terminal.
+
+Software cientifico (SC) e a categoria de sistemas
+computacionais usados por pesquisadores da areas de ciencia
+e engenharia para simular, analisar e visualizar processos
+ou dados. A maioria desses sistemas e implementada pelos
+proprios pesquisadores, uma vez que esse desenvolvedor
+deve possuir um profundo conhecimento na area, de forma
+a garantir a efetividade de seus resultados . Por causa
+desse contexto cientifico em que sao desenvolvidos, SCs
+realizam um ciclo de vida que se reinicia a cada resultado
+de uma pesquisa  e em que se prioriza mais o equilibrio
+entre sustentabilidade e performance do sistema do que sua
+usabilidade .
+
+O sistema MERO encontra-se nessa categoria de SC e tem
+enfrentado os problemas tipicos de outros SCs, resultando em
+problemas de usabilidade que impedem o uso mais extensivo
+e facilitado para diversos usuarios. A quantidade massiva de
+dados e parametros dificultam a conduçao dos procedimentos
+necessarios pelos especialistas no dominio. Esse cenario
+se mostra desafiador para o design da interaçao. Pesquisas
+sao necessarias para elucidar as dificuldades dos usuarios e
+como a tomada de decisao pode ser melhor apoiada para
+permitir obter resultados positivos no gerenciamento dos
+reservatorios.
+
+Neste artigo conduzimos um estudo para levantar e
+entender as dificuldades de interaçao dos usuarios com
+o sistema MERO. Para esse fim, realizamos entrevistas
+semiestruturadas com os usuarios finais do MERO e, como analise complementar, avaliamos qualitativamente o conteudo de emails recebidos pela equipe de suporte do MERO. O procedimento utilizado para realizar a analise qualitativa dos dados coletados nas entrevistas foi o Framework Method. A categorizacao dos emails levou em conta os temas definidos como resultado do Framework Method.
+
+Os resultados do Framework Method aplicado na analise das entrevistas indicou que os usuarios do MERO possuem certo conhecimento tecnologico, que possibilita lidar com a grande quantidade de arquivos de saida que as ferramentas do MERO proporcionam e com o uso do sistema pela linha de comando. O principal problema encontrado foi em relacao as mensagens de erro do log, sendo pouco efetivas. A analise de emails confirmou a ineficiencia das mensagens de erro do MERO, com a maioria dos emails sendo relacionado a um problema nao identificado pelo usuario.
+
+FUNDAMENTOS E TRABALHOS CORRELATOS
+
+Tanto as entrevistas semiestruturadas como a analise dos emails permitem que todo o processo de busca de solucoes de design do MERO baseie-se nos principios de User-centered design (UCD). UCD e uma pratica que envolve o usuario em todo o processo de design do software, desde sua concepcao ou fase inicial de redesign, ate as fases finais do projeto. Sua adocao, mesmo em diferentes escalas, traz beneficios para a usabilidade e utilidade de diversos tipos de software. Em especifico, a literatura tem indicado que o uso de UCD em software cientificos mostrou resultados promissores.
+
+As praticas de UCD utilizadas no OMERO Project projeto que envolveu o redesign do software cientifico de visualizacao e analise de imagens de microscopio e metadados da equipe OMERO estao entre os exemplos mais citados no topico. A metodologia utilizada por Macaulay et al. envolveu um estudo etnografico dos usuarios tanto no ambiente de trabalho como fora dele. Como resultado, esse estudo obteve um insight de design que, apos varias iteracoes de redesign, afetou positivamente a usabilidade do software em questao.
+
+Poucos estudos que utilizam aspectos de UCD e que tem como caso de estudo software de simulacao e gerenciamento de reservas de petroleo foram realizados. Existem propostas que visam incorporar conceitos de usabilidade nessa categoria de sistemas. O trabalho de Sultanum et al., por exemplo, explora como tecnicas interativas de visualizacao de reservatorios de petroleo podem ajudar no processo de tomada de decisao para engenheiros de reservatorio de petroleo.
+
+Neste artigo propomos utilizar tecnicas discutidas anteriormente como meio de identificar os problemas de usabilidade no MERO e extrair possiveis indicios de seu redesign, utilizando os principios de UCD. Embora solucoes de redesign para o MERO possam ser especificas para sistemas que lidem com um compilado de ferramentas necessarias para pesquisa de pocos de petroleo, os resultados dessas tecnicas em um software cientifico podem ser levados em conta para aplicacoes em sistemas de diferentes areas da ciencia. No entanto, e importante esclarecer que, diferente dos objetos de estudo dos artigos citados, o MERO nao e uma ferramenta que foca na visualizacao de imagens e sim nos resultados de processos, que vem em forma de arquivos texto (semi)estruturados para serem utilizados por software de terceiros.
+
+ENTENDENDO AS DIFICULDADES DO USUARIO NA INTERACAO COM O MERO
+
+Em seguida, apresentamos os procedimentos de coleta e analise de dados.
+
+Coleta de dados: entrevistas e emails do suporte
+
+O objetivo da entrevista semiestruturada foi acessar a impressao dos usuarios finais do sistema MERO. Para tanto, definimos alguns topicos que guiaram o processo de criacao da entrevista e delimitaram que aspectos seriam explorados subsequentemente:
+
+Entender quem sao os usuarios alvo do software
+
+Qualificar o nivel de experiencia tecnologica dos usuarios do MERO.
+
+Tracar os casos de usos mais comuns do sistema.
+
+Identificar os principais problemas de usabilidade que usuarios enfrentam utilizando o software.
+
+A partir dessa lista foi possivel elaborar um guia de perguntas para o entrevistador. As questoes definidas orientaram o entrevistador na conducao da pesquisa. Contudo, elas foram sugestoes de perguntas a serem realizadas e nao representou como foram, de fato, realizadas as entrevistas, o que acaba sendo uma das qualidades da entrevista semiestruturada.
+
+As entrevistas foram feitas ao decorrer de tres dias e duraram, em media, 15 minutos cada. Em relacao aos entrevistados, estes sao nove pesquisadores que possuem entre 22 e 49 anos e sao de diferentes graus academicos, desde a graduacao ate o doutorado. Dentre as entrevistas, apenas uma foi realizada em ingles e todas as outras em portugues. Eles utilizam ou utilizaram com frequencia o software e aceitaram explicitamente realizar a entrevista. Com base no perfil de aplicacao do MERO, que e um software cientifico, seu publico alvo restringe-se ao meio academico, apenas.
+No periodo em que foi realizada a entrevista, o MERO possuia apenas 10 usuarios e ex-usuarios nas dependencias da Unicamp e um numero nao definido fora do campus. Por estas razoes, consideramos que os nove entrevistados representam uma parcela significativa do ambiente em que estao situados. Cada entrevista foi realizada por somente um entrevistador e teve seu audio gravado para analise posterior, cuja autorizacao foi dada verbalmente pelos entrevistados. Adicionalmente, o entrevistador teve a liberdade de tomar notas, se houvesse necessidade.
+
+Emails ao suporte. Como segunda fonte de dados para analise, uma lista de emails enviados por usuarios foi fornecida pela equipe de suporte do MERO. A lista compreende o periodo de 16/01/2017 a 22/02/2018 e contem 81 emails enviados ao suporte. Inicialmente, foi gerada uma matriz que continha como colunas o nome do remetente, um codigo que resumia o conteudo do email, um breve resumo do conteudo e uma coluna que continha o email original fornecido pela lista.
+
+Procedimento de analise de dados: o Framework Method
+
+Apos realizadas as entrevistas, utilizamos o Framework Method para desenvolver a analise qualitativa dos dados gerados pelas entrevistas semiestruturadas e nos emails. No entanto, algumas etapas foram alteradas ou adaptadas para o contexto dessa pesquisa, uma vez que o metodo de Gale et al foi proposto visando equipes especializadas em analise qualitativa. Logo, certas etapas se adequam melhor a equipes grandes, o que nao foi o caso em nessa pesquisa.
+
+As etapas mantidas foram a de Transcricao, Codificacao, criacao e aplicacao do framework analitico; e criacao da matriz que relaciona trechos das entrevistas com os temas definidos. Apos realizada a ultima etapa do Framework Method para analisar as entrevistas, a matriz que continha uma primeira categorizacao do emails foi revisitada para uma segunda codificacao. Nesse momento, levou-se em conta os temas identificados pelas entrevistas.
+
+**RESULTADOS DA ANALISE QUALITATIVA**
+
+A partir da aplicaçao do Framework Method, foram criados
+14 codigos para identificar os trechos das transcriçoes que
+mostram os diferentes aspectos detectados na analise das
+entrevistas. Esses codigos foram agrupados em 4 temas
+diferentes. Adicionalmente, por meio da matriz gerada na
+Etapa 5 foi possivel analisar a relaçao desses temas com cada
+entrevistado.
+
+Um dos temas definidos foi o Background do Usuario, com
+um total de 21 trechos que foram codificados com 2 codigos
+em um total de 8 entrevistas. Nele, estao agrupados trechos
+das entrevistas que demonstram informaçoes relacionadas
+a que nivel de afinidade tecnologica estao os usuarios do
+MERO. Ao analisar esses trechos, identificamos que embora
+haja disparidade entre a frequencia de uso do computador
+dependendo da idade dos entrevistados, todos apresentaram
+um certo nivel de dominio de linguagens de programaçao,
+ou de processos que envolvam a criaçao de automatizaçao
+de processos. E possivel identificar que os usuarios do
+MERO podem ser classificados como sendo experientes
+(power users) em trechos¹ como “Porque algumas coisas
+eram mais faceis de fazer por linha de comando" ou, quando
+perguntados sobre a complexidade dos arquivos de entrada,
+houve comentarios como  "(...) but after you get used to
+working with them, it's easy, it's like any other language, it's
+like MATLAB or C or C++"².
+
+A familiaridade tecnologica que os usuarios possuem
+foi igualmente identificada nos excertos das transcrições
+relacionados ao tema Contexto (86 trechos em 8 entrevistas
+diferentes), que compila informaçoes relacionadas ao
+ambiente em que o MERO e utilizado. No que se refere a
+integraçao de ferramentas, diversos usuarios relataram o uso
+do MATLAB para geraçao de graficos a partir dos arquivos
+de saida do MERO (ex. “E, assim, a partir da saida do
+programa eu gero o UNIPRO, depois o AQNS, ai depois eu
+ploto o AQNS em um grafico pelo MATLAB e analiso.”).
+
+A partir da analise desse tema, e possivel traçar a rotina
+do ambiente de pesquisa em engenharia de petroleo.
+Dependendo da area de pesquisa, e utilizada determinada
+ferramenta do MERO para analisar determinado aspecto
+de uma simulaçao de poço de petroleo. Para alguns
+pesquisadores isso significa executar ferramentas que
+utilizam o resultado de outras. Ou seja, existe um conceito
+de workflow de ferramentas, que, no software, pode ser
+executado automaticamente pela ferramenta de nome WKFL,
+cujo conteudo do arquivo referencia apenas quais serao as
+ferramentas utilizadas no workflow e o nome dos arquivos que
+contem as especificaçoes de cada uma.
+
+E importante notar que o area de uma determinada pesquisa
+pode demandar uma implementaçao diferente de uma
+ferramenta ja existente no MERO; ou uma nova ferramenta
+por completo. Isso foi relatado sendo atividades realizadas
+por alguns usuarios (ex.,  "(...) primeiro a gente tem uma
+ideia, testa e ve se ela funciona; se ela funcionar, entao a
+gente implementa no MERO.”). Esse aspecto acaba definindo
+uma caracteristica importante do MERO: a de constante
+evoluçao do software.
+
+Os relatos citados anteriormente estao intrinsecamente
+relacionados a um cenario geral onde o MERO se situa.
+Os relatos relacionados ao uso, de fato, do MERO estao
+agrupados sobre o tema Uso do software(81 trechos em 9
+entrevistas diferentes). Por meio de sua analise, identificamos
+que ha divergencia entre as experiencias iniciais de cada
+entrevistado. As impressoes inicias variam de total facilidade
+(ex., “Ah achei bem facil, bem tranquilo”); indiferença (ex.,
+"(...)nao foi traumatica."); e, quando houve dificuldade,
+atribuiram a falta de experiencia com software da area (ex.,
+"Ah, tive. Mas tive porque tinha pouca experiencia com
+muita coisa (...)"). Segundo os participantes, sempre que
+tinham alguma dificuldade, contactavam o suporte, que era
+rapido e eficiente em solucionar quaisquer problemas que eles
+relatavam.
+
+O relacionamento dos usuarios com o suporte pode ser
+explicado pelo fato de muitos dos entrevistados relatarem que
+somente reparam no que o log apresenta quando algum erro
+e apresentado. Houve entrevistas em que relataram casos
+em que a mensagem de erro apresentada nao e tao clara ou
+somente sugere contato com o suporte. Muitos entrevistados
+alegaram que tentaram buscar informaçao e soluçoes para
+seus problemas no manual de usuarios, provido para o
+software. Entretanto, utilizaram palavras como "lento" para
+descrever o processo de procura de informaçao no manual
+e sugeriram que houvesse alguma informaçao “mais rapida”
+como, por exemplo, tutoriais. Esses aspectos relacionados
+as frustraçoes relatadas pelos usuarios sobre o MERO foram
+codificadas sob o tema Heuristicas de Usabilidade (57 trechos em 8 entrevistas diferentes), pois acredita-se que tais relatos possam ser o indicio de que algumas heuristicas de usabilidade nao foram seguidas no desenvolvimento do software.
+
+A analise dos emails indicou exatamente a confusao em relacao as mensagens de erro e a dependencia dos usuarios com a equipe de suporte. Frases no emails como olhei o log mas nao consegui identificar o erro e o erro esta muito estranho confirmam que um dos principais problemas de usabilidade do MERO esta relacionado a forma como a ajuda ao usuario e realizada pelo software. Alem de emails relacionados as requisicoes de instalacao do programa, a outra maioria dos emails tem relacao com falhas de execucao do sistema e erros relacionados a alguma ferramenta, quase sempre acompanhados com o arquivo do log.
+
+Nesta pesquisa, consideramos que o uso de estrategias como entrevistas semiestruturadas e a analise de emails cumpriram o objetivo de sinalizar problemas de dificuldade dos usuarios e usabilidade do software MERO. As entrevistas possibilitaram conhecer o cenario geral do ambiente de uso do sistema; identificar as principais caracteristicas de seus usuarios; alem de conhecer como o software e utilizado. Em relacao a metodologia utilizada, o uso do Framework Method para a analise mostrou-se relevante no que se refere a codificacao realizada nas transcricoes e a definicao de temas gerais. No entanto, algumas etapas foram um pouco redundantes, devido ao fato da equipe nesta investigacao ser reduzida para se conduzir o metodo de analise.
+
+**CONCLUSAO**
+
+Neste artigo, realizamos um estudo para identificar
+os principais problemas recorrentes de usabilidade que
+pesquisadores enfrentam com um software de gerenciamento
+de campos de petroleo, o MERO. Como forma de obter
+uma imersao no ambiente de pesquisa em engenharia de
+petroleo e, como consequencia, identificar os principais
+problemas de usabilidade referente ao MERO, realizamos
+entrevistas semiestruturadas com usuarios e efetuamos uma
+analise dos emails enviados por eles para a equipe de suporte.
+Com a analise das entrevistas, concluimos que os usuarios
+possuem certo nivel de conhecimento tecnologico, o que
+auxilia a criar ou utilizar programas externos que ajudam a
+lidar com as centenas de arquivos que algumas ferramentas
+geram ou que sao requerimentos de entrada. Outro achado
+importante foi a dependencia dos usuarios com a equipe de
+suporte, no que se refere a soluçao de problemas e busca de
+informaçoes. Os usuarios relataram diversos casos em que
+eles nao compreenderam a mensagem de erro apresentada
+pelo log e nao encontraram a soluçao no manual. Essas
+situaçoes com o log foram confirmadas ao analisar os emails
+enviados a equipe de suporte. Trabalhos futuros envolvem
+desenvolver ciclos de redesign informados pelos resultados
+obtidos nesse estudo.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo demonstra a importancia de entender as necessidades e dificuldades dos usuarios ao projetar softwares cientificos, especialmente em areas complexas como a exploraçao de petroleo. A identificaçao de problemas relacionados a mensagens de erro e documentaçao inadequada aponta para a necessidade de investir em interfaces mais intuitivas e informativas, que auxiliem os usuarios a tomar decisoes mais assertivas e eficientes. Os resultados obtidos neste trabalho podem servir de base para o desenvolvimento de um ciclo de redesign focado na melhoria da experiencia do usuario com o sistema MERO.

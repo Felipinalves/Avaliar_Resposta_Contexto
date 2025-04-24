@@ -1,0 +1,76 @@
+**Introducao**
+
+Serious games sao ferramentas baseadas em recursos de jogos alem do
+entretenimento . Os profissionais podem usa-los para fins de saude,
+reabilitaçao e educacionais. Podemos executar jogos em diferentes plataformas e,
+nos ultimos anos, eles se tornaram viaveis em ambientes moveis devido ao aumento
+da capacidade de processamento de smartphones. As tecnologias de realidade
+virtual (VR) tambem se tornaram viaveis para objetivos de jogos, mas com o
+diferencial de proporcionar imersao ao usuario . Os jogadores desfrutam de
+varias plataformas para experiencias de VR, numerosas baseadas em smartphones.
+Experience API (xAPI) e uma API que permite o registro das experiencias do
+usuario em um ambiente virtual e o rastreamento de informaçoes sobre o jogador
+dentro do jogo.
+
+Embora o xAPi seja projetado e usado em serious games, o problema que
+encontramos e que as informaçoes sobre as experiencias do usuario nem sempre
+estao disponiveis para os educadores em uma interface amigavel. Alem disso,
+nao encontramos uma ferramenta que permita aos educadores editar o conteudo
+entregue no jogo virtual. Portanto, este trabalho propoe a construçao de uma
+prova de conceito de um jogo com missoes bem definidas em um ambiente de VR,
+integrado com uma plataforma xAPI e um sistema de gestao de ensino (Learning
+Management System - LMS). Esta integraçao visa fornecer aos educadores uma
+ferramenta que lhes permita conhecer seus alunos atraves de experiencias
+adquiridas em jogos serios e lhes permitira fazer mudanças no jogo para
+personalizar o aprendizado do aluno. A demonstraçao proposta permitira que o
+publico realize configuraçoes de conteudo em uma aula de laboratorio de biologia
+imersiva que sera carregada em um jogo de VR disponivel para experimentaçao.
+
+O prototipo introduzido difere dos demais, pois esta sendo construido para se
+tornar uma API proprietaria para desenvolvimento de jogos integrada a plataformas
+de gestao de cursos e ao registro de experiencias.
+
+**Referencia Teorica**
+
+A literatura apresenta o uso de XAPI para jogos na literatura
+, especialmente para aprender Analitica
+, as propostas tendem a procurar registros de açoes predefinidas em
+jogos que os educadores nao podem editar. Tuparov et al.  apresenta uma
+estrutura integrada em um LMS semelhante ao proposto neste trabalho. No
+entanto, focou-se nos aspectos de avaliaçao. Nossa proposta nao faz distinçao
+sobre o estagio do aprendizado. Alem disso, nossa proposta apresenta integraçao
+com um jogo 3D imersivo. Os educadores podem alterar o conteudo do jogo para
+permitir novas experiencias aos alunos quando entenderem o comportamento do
+aluno. Partimos do pressuposto de que os jogos podem se conectar a plataformas
+online para recuperar conteudo. Conhecemos a personalizaçao do conteudo como a
+possibilidade de o educador inserir ou editar material multimídia, como video,
+imagens e audio, exceto para a estrutura do jogo 3D. Nossa proposta tambem difere
+no fato de que esta integrada em uma plataforma de gestao de cursos, permitindo
+esta ediçao por educadores. Nossa soluçao torna os jogos uma ferramenta provavel
+para personalizar o processo de aprendizado.
+
+**Sistema Proposto**
+
+Arquitetura
+
+O sistema proposto possui tres modulos: (i) Modulo de gestao de ensino - E um Sistema
+de Gestao de Aprendizagem (LMS) configurado no Word Press e na plataforma
+Learning Press que permite ao Educador inserir aulas conforme mostrado na Figura 1.
+
+Personalizamos a interface do sistema para fornecer o conteudo publicado pelos
+educadores no jogo descrito no modulo ii. (ii) Modulo jogavel - Este modulo e o jogo
+proposto para ser usado pelos alunos em praticas pedagogicas configuradas pelos
+educadores. Nossa prova de conceito e um jogo de realidade virtual em um ambiente 3D que pode ser executado em plataformas como HTC Vive Oculus Quest e outras midias imersivas conforme mostrado na Figura 2
+
+1 Modulo de Experiencia do Usuario Este e o banco de dados da API do usuario para registrar as acoes de um jogador ou aprendiz nesse contexto Este modulo possui uma interface de comunicacao com os outros para registrar informacoes sobre as experiencias fornecidas no Modulo 2 e os dados do curso do Modulo 3 O conteudo editado por um educador no sistema de gestao de aprendizagem LMS conforme exibido na Figura 1 deve ser carregado no jogo imersivo como mostrado na Figura 2
+
+Estudo de Caso
+Um laboratorio virtual foi projetado para o estudo de caso desenvolvido neste trabalho A modelagem desse ambiente teve como objetivo torna lo o mais realista possivel considerando as cores dominantes e as caracteristicas da construcao resultando em um ambiente tridimensional que busca retratar a mesma experiencia obtida em um laboratorio do mundo real A licao trata de conceitos e partes do microscopio alem dos procedimentos necessarios para sua limpeza No cenario o aprendiz pode consultar diversos conteudos multimidia configurados pelo educador no LMS Tambem inserimos um questionario para validar o aprendizado do aluno e permitir que ele avance para a proxima licao
+
+Contribuicoes Esperadas
+O projeto visa incluir criancas jovens adultos e professores em um modelo mais imersivo nas praticas academicas superando a falta de ferramentas imersivas com interfaces amigaveis para personalizar as aulas pelos educadores e personalizar o ensino Esperamos que esta ferramenta permita colocar o aluno no centro da aprendizagem dando aos atores autonomia para a tomada de decisoes por meio de informacoes sobre o registro de experiencias Esperamos que esta ferramenta se torne em breve uma aliada potencial para pesquisas no contexto de IHC Educacao Interacao Humano Computador permitindo a realizacao de estudos de usuarios com diferentes objetivos e se tornando uma poderosa ferramenta para a personalizacao do ensino
+
+Sob a perspectiva da IHC este trabalho abre novas possibilidades para estudos de usuarios Por exemplo pesquisadores podem avaliar novas propostas de interfaces multimodais com base em nossa solucao Alem disso este trabalho apresenta um potencial para a integracao de interfaces cerebro computador a fim de identificar aspectos cognitivos do usuario durante o processo de aprendizagem
+
+Conclusao
+Este artigo faz uma reflexao sobre o uso de um jogo serio e imersivo na pratica de aprendizagem O sistema proposto compreende um modulo de jogo um modulo de LMS e um banco de dados de comportamento do aluno O objetivo e permitir que o aluno realize procedimentos em um ambiente de jogo e fornecer ao educador uma interface para aprendizagem personalizada

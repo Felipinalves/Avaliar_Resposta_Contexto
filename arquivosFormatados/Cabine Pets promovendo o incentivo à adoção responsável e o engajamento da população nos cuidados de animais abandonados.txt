@@ -1,0 +1,198 @@
+**RESUMO**
+
+O abandono de animais e um problema que afeta diversas areas
+como saude, meio ambiente e transito. Alem disso, os animais
+abandonados ficam propicios a doenças, fome e maus tratos.
+Torna-se importante conscientizar a populaçao sobre as
+consequencias do abandono de animais, bem como incentivar sua
+maior participaçao nos cuidados e adoçao de animais
+abandonados. Por meio da adoçao da metodologia de Design
+Thinking, uma soluçao tecnologica denominada Cabine Pets foi
+idealizada. Este artigo apresenta o processo de design conduzido e
+os principais artefatos gerados. Uma soluçao tecnologica e
+descrita, consistindo na instalaçao de cabines com comedouros
+que sao acionados por meio de doaçoes em moedas, liberando
+raçao e agua para os animais e essa doaçao pode ser registrada em
+um aplicativo movel. Por meio desse aplicativo tambem e possivel
+realizar outras doaçoes e visualizar informaçoes sobre animais
+para adoçao e postagens de conscientizaçao que sao realizadas por
+ONGs e profissionais da saude, como medicos veterinarios.
+
+**INTRODUCAO**
+
+O convivio com animais de estimaçao proporciona beneficios
+psicologicos, sociais e fisiologicos ao ser humano . A
+Declaraçao Universal dos Direitos dos Animais afirma que
+todo animal tem direito ao respeito, ao cuidado e proteçao do
+homem. Porem, muitos animais domesticos acabam sendo
+abandonados nos centros urbanos . O abandono pode ocorrer
+por falta de conscientizaçao e entendimento das necessidades de
+um animal domestico, ocasionando o sofrimento do animal .
+
+Quando se abandona animais, estes ficam propicios a se
+reproduzirem sem controle e supervisao , ficando sujeitos a
+maus tratos, fome e doenças . Outras consequencias do
+abandono de animais sao o risco de transmissao de doenças,
+possiveis agressoes a populaçao e acidentes de transitos que
+podem resultar em obitos de animais e seres humanos . Embora
+a Lei N° 13.426/2017 tenha criado a politica de controle de
+natalidade de caes e gatos , em muitas cidades ainda nao
+existem iniciativas governamentais com o objetivo de chamar a
+atençao sobre esse problema e suas consequencias, desta forma
+sao criadas ONGs (Organizaçoes Nao Governamentais) com o
+proposito de amenizar o problema e fornecer apoio aos animais
+abandonados com o engajamento da populaçao .
+
+Com isso, a educaçao sobre a guarda responsavel e a
+conscientizaçao sobre o problema do abandono e necessaria, de
+forma a alcançar toda a populaçao. Existem soluçoes tecnologicas
+para incentivar a adoçao de animais abandonados. Contudo, neste trabalho, pensou-se em
+uma soluçao tecnologica denominada Cabine Pets que vai alem de
+incentivar a adoçao responsavel. Por meio da cabine, espera-se
+engajar pessoas que podem nao ter condiçoes de adotar, mas
+desejam colaborar junto a ONGs nos cuidados de animais
+abandonados, realizando doaçoes em moedas na propria cabine,
+liberando raçao e agua para os animais abandonados. De forma a
+complementar a cabine, um aplicativo movel foi desenvolvido
+para promover uma maior interaçao entre os envolvidos na causa.
+No aplicativo sera possivel tambem realizar doaçoes, conhecer animais que estao para adocao e verificar postagens relacionados ao tema. 
+
+**METODOLOGIA**
+
+Para o design desta soluçao, adotou-se a metodologia de Design
+Thinking, que visa a resoluçao de problemas por meio de uma
+abordagem centrada no usuario, inovadora, colaborativa e
+experimental . A equipe adotou quatro etapas no
+desenvolvimento da soluçao .
+
+A imersao iniciou com a realizaçao de um brainstorming entre a
+equipe, com o objetivo de identificar o publico-alvo, as
+funcionalidades e as tecnologias que pudessem viabilizar uma
+soluçao adequada. Os resultados do brainstorming sao
+apresentados na Figura 2.
+
+Apos a analise e sintese das informaçoes, foram elaborados
+roteiros e realizadas entrevistas direcionadas a tres perfis
+especificos: veterinarios (profissional responsavel por cuidar da
+saude do animal), apoiadores (pessoas que ajudam os animais de
+forma informal) e cuidadores (pessoas ligadas a ONGs ou
+instituiçoes de proteçao animal). Sete voluntarios participaram
+das entrevistas, entre eles um veterinario, dois cuidadores e quatro
+apoiadores.
+
+Em geral as perguntas foram relacionadas ao tema de
+abandono de animais e adoçao. De forma especifica, direcionadas
+a cada perfil, foram realizadas perguntas sobre (i) saude animal e
+relaçao com a saude humana, no caso de profissional de saude; (ii)
+sobre o funcionamento de abrigos, cuidados com animais
+abandonados e adoçao de animais, para os cuidadores (ONGs); (iii)
+sobre convivio com os animais de estimaçao e a motivaçao para o
+engajamento com a causa, para os apoiadores. Cinco entrevistas
+foram realizadas presencialmente e duas entrevistas foram
+realizadas de forma online.
+Desta forma, as entrevistas possibilitaram a caracterizacao de
+diferentes visoes relacionadas a problematica (Tabela 1).
+
+A etapa de Ideaçao tem como objetivo estimular o pensamento
+criativo dos envolvidos e propor soluçoes que estejam de acordo
+com o contexto observado . Para isso, foram realizadas
+pesquisas para identificar soluçoes existentes e tecnologias que
+pudessem viabilizar a proposta.
+
+Carpanezi et al. apresentam o desenvolvimento de um
+aplicativo que facilita a adoçao de animais que estao em ONGs,
+mostrando resultados satisfatorios obtidos na validaçao do
+sistema. O projeto "AlimentaCao", promove a instalaçao de
+comedouros com raçoes para os animais de rua.
+
+Deste modo, as informaçoes das entrevistas e das pesquisas
+foram analisadas pela equipe mediante reunioes de brainstorming.
+Como resultado, foi proposto a Cabine Pets. Uma soluçao que
+consiste em: (1) cabines instaladas em regioes estrategicas para
+que a populaçao possa realizar doaçoes em moedas, liberando em
+tempo real, raçao e/ou agua para animais abandonados da regiao,
+alem de receber materiais de conscientizaçao sobre o abandono de
+animais; e (2) um aplicativo movel onde a populaçao podera obter
+informaçoes sobre animais para adoçao, localizaçao de cabines em
+sua regiao, postagens sobre conscientizaçao e sua posiçao em um
+ranking obtido a partir de doaçoes nas cabines ou pelo aplicativo.
+Alem disso adotantes poderao manter o perfil dos animais apos a
+adoçao e medicos veterinarios poderao interagir no aplicativo por
+meio de postagens de conscientizaçao sobre os cuidados de
+animais.
+
+Nesta etapa foram desenvolvidos os prototipos da soluçao (cabine
+e aplicativo) e suas funcionalidades.
+
+A cabine (Figura 3) possui dois metros de altura e seis lados. Externamente, pode ser personalizada de forma que torne mais facil a identificacao de seu objetivo. O lado (1) dispoe de um tablet onde o doador podera escolher o tipo da racao (para gato ou cachorro), uma entrada de moedas e uma saida para emissao de panfletos. Nos outros quatro lados (2, 3, 5 e 6) estao posicionados os comedouros que possuem canos que despejam comida e agua em recipientes posicionados nas partes inferiores. A cabine tambem dispoe de dois alto falantes na parte superior de duas faces (2 e 6). No lado 4, ha uma porta que da acesso ao interior da cabine, permitindo sua manutencao pela ONG. Dentro da cabine, ha dois reservatorios para armazenamento de racoes, um reservatorio para armazenamento de agua, uma caixa para captar as moedas e uma caixa contendo os panfletos de conscientizacao. Para alimentacao da cabine, deve ser utilizada energia eletrica, bateria e conexao com a internet. Sua estrutura sera composta por Metalon e placas de ACM (aluminio composto). Para controlar o funcionamento da cabine serao utilizados sensores de presenca, motores e um computador. A cabine pode ser programada para emitir sons de latidos e miados como forma de chamar a atencao das pessoas que estiverem proximas.
+
+A Figura 4 apresenta a tela inicial do prototipo do aplicativo, desenvolvido de forma complementar as funcionalidades da cabine. A tela inicial tera quatro abas com as principais funcionalidades do aplicativo. A aba Feed mostra publicacoes de conscientizacao sobre o abandono de animais. Um mapa de localizacao das cabines pela cidade pode ser visualizado na aba Cabines. A aba Adocao lista perfis de animais para adocao cadastrados pela ONG que mantem a cabine. O Ranking adota a ideia de gamificacao as doacoes realizadas na cabine.
+
+Validacao
+Com o objetivo de validar a solucao proposta, elaborou-se um questionario para ser respondido pelos participantes da entrevista e por pessoas que possuam o mesmo perfil dos entrevistados. O questionario era composto por quatro questoes abertas, sao elas: Coisas que voce mais gostou, Coisas que voce menos gostou nao entendeu, O que pode ser melhorado e Sua opiniao sobre a viabilidade de implantar a Cabine Pets (Figura 5). As respostas dos questionarios indicaram percepcoes positivas em relacao a solucao proposta. Os pontos positivos que mais chamaram a atencao foram: a cabine fornecer alimentos para os animais de rua e o ranking de pontos por doacoes. Algumas questoes foram levantadas em relacao forma como a agua seria mantida na cabine, o que ocorrera caso os recipientes estejam cheios e ainda, como sera feita a seguranca da cabine por se tratar de doacoes em dinheiro. Os participantes tambem sugeriram fixar o recipiente de alimentacao na cabine para que nao haja roubo. Outra sugestao foi as pessoas gravarem videos na cabine pedindo doacoes. Alem disso, um participante indicou que o controle de natalidade dos animais poderia ser incluido na solucao. Por fim, quando questionados sobre a viabilidade, um participante apontou que seria muito viavel se a cabine estivesse em um abrigo de animais abandonados, outro levantamento foi de que a solucao seria viavel com a parceria do poder publico e se era possivel concretizar em relacao ao custo que poderia ser muito alto. Alem do questionario, a proposta da Cabine Pets foi apresentada a ONGs locais e estas demonstraram interesse em implanta-la e mante-la. Este feedback e de total relevancia para viabilizar a solucao, pois e necessario que haja uma pessoa para acompanhar o uso da cabine realizando atividades de reposicao de agua racao, retirada de moedas, reposicao de panfletos, limpeza dos comedouros para que nao haja propagacao de doencas entre os animais e a seguranca da cabine.
+
+**JUSTIFICATIVA**
+
+Durante o processo de Design Thinking, observou-se a
+necessidade de buscar estrategias para conscientizar a populaçao
+de que os animais abandonados sao responsabilidades de todos.
+As entrevistas possibilitaram a analise do problema diante de
+diferentes perspectivas, enquanto que reunioes de brainstorming
+direcionaram as decisoes de design da soluçao. A analise de
+soluçoes existentes mostrou que em sua grande maioria as
+aplicaçoes estao voltadas apenas para adoçao, com isso a proposta
+da Cabine Pets visa incluir os apoiadores que muitas vezes nao
+possuem condiçoes de adotar um animal, mas gostariam de
+contribuir de alguma forma com as ONGs. Com a Cabine Pets e
+possivel engajar-se nos cuidados de animais abandonados por
+meio de doaçoes de forma simples. Alem disso, a açao de
+conscientizar a populaçao sobre o abandono de animais e adoçao
+responsavel e feita tambem pela Cabine Pets, por meio do
+recebimento de panfletos e utilizaçao do aplicativo movel, onde
+tambem e possivel interagir com a ONG e outros apoiadores e
+envolvidos na causa.
+
+A Cabine Pets pode ser mantida por ONGs e utilizadas por
+qualquer apoiador da causa. Com o objetivo de conscientizar a
+populaçao sobre o abandono e a posse responsavel, as cabines
+liberam materiais de conscientizaçao por meio de doaçoes como
+forma de brinde pela doaçao, no entanto, tambem os disponibiliza
+de forma gratuita atraves das postagens no aplicativo, enquanto
+que os comedouros e o ranking buscam envolver apoiadores nos
+cuidados dos animais abandonados. Alem dos informativos da
+cabine, o aplicativo dispoe uma area para apresentar animais que
+buscam por um lar, possibilitando que interessados em adotar
+solicitem adoçoes e cuidadores verifiquem atraves do
+preenchimento do questionario se estes adotantes estao aptos a
+receberem os animais de forma responsavel. Com isso, e possivel
+dar mais visibilidade as açoes das ONGs e assim, motivar cada vez
+mais pessoas a abraçarem a causa de animais abandonados.
+
+A Figura 6 apresenta a interaçao com a cabine inicia quando ao depositar
+uma moeda, o apoiador recebe um panfleto de conscientizaçao a
+respeito do abandono de animais e por meio do tablet, escolhe o
+que deseja liberar nos comedouros: (i) raçao para gatos, (ii) raçao
+para caes ou (iii) agua. Os sensores verificarão se os recipientes ja
+estiverem cheios, para que nao haja desperdicio. Apos a doaçao, o
+tablet exibe um QR Code (codigo) da doaçao, para que o apoiador
+possa se cadastrar e registrar sua doaçao no aplicativo, somando
+pontos no ranking de doadores. Para isso e necessario que as
+ONGs realizem manutençao nas Cabines realizando limpeza e
+reabastecendo os reservatorios de agua e raçao. Alem disso as
+ONGs podem interagir por meio do aplicativo cadastrando animais disponiveis para adocao e analisando as solicitacoes de
+adocoes, assim como os profissionais da saude que interagem no
+aplicativo por meio de postagens de conscientizacao e saude
+animal.
+
+Cenario de uso
+Ana tem 40 anos, gosta muito de animais e sempre os alimenta na calcada de casa. Sua vizinha, Julia, nao se importa muito com essa situacao. Certo dia, Ana foi a um evento na praca de sua cidade com Julia, quando escutou um miado, mas nao via nenhum gato proximo. Mais a frente visualizou uma Cabine Pets rodeada de pessoas, logo sentiu curiosidade em saber do que se tratava. Ana leu as informacoes da cabine, inseriu uma moeda e imediatamente recebeu um panfleto com uma noticia sobre a situacao dos animais abandonados na cidade e compartilhou com sua vizinha. Depois, escolheu liberar racao para gatos e logo um gatinho se aproximou para se alimentar. Ana logo criou sua conta no aplicativo para registrar sua doacao. Julia tambem utilizou a Cabine Pets realizando uma doacao e liberando agua e racao para outros gatos. Apos utilizar o aplicativo e ler as noticias postadas, a vizinha de Ana ficou muito sensibilizada com as informacoes sobre o abandono de animas e os impactos do abandono na sociedade como um todo e passou a utilizar o aplicativo com mais frequencia e compartilhar as pastagens. Com isso, Julia acabou adotando dois gatos.
+
+Viabilidade
+A cabine e composta por alguns elementos que serao interligados a um computador capaz de ativar suas funcionalidades. Para se chegar ao custo financeiro da cabine, realizou-se um orcamento de todos os materiais necessarios para a construcao da cabine, como arduinos, sensores, motores, bombas de agua, dentre outros, bem como da mao-de-obra e hardware necessarios. Os materiais que compoem a estrutura da cabine e o hardware foram pesquisados em lojas virtuais onde foram encontrados revendedores com baixo custo, ja o valor da mao-de-obra foi obtida no mercado local. Com isso, a solucao torna-se viavel economicamente caso as ONGs que desejam implantar a Cabine Pets realizem parcerias com empresas que apoiam a causa. A disposicao de ONGs em adotarem a solucao, encoraja a viabilidade de concretizacao do projeto, ja que para impulsionar os beneficios da Cabine Pets se faz necessario constantes manutencoes na cabine e atualizacoes no aplicativo.
+
+O link interativo do prototipo esta disponivel em: https://adobe.ly/2XepR9e.
+O video de demonstracao da cabine esta disponivel em: https://youtu.be/vGVQPFxPdJ8.
+
+**CONSIDERAÇOES FINAIS**
+
+Este estudo apresenta a concepçao e o design da Cabine Pets, uma soluçao tecnologica inovadora que visa promover o incentivo a adoçao responsavel e o engajamento da populaçao nos cuidados de animais abandonados. A soluçao se destaca por sua abordagem centrada no usuario, combinando elementos fisicos e digitais para criar uma experiencia completa e engajadora. A expectativa e que a Cabine Pets possa contribuir significativamente para mitigar o problema do abandono de animais, promovendo o bem-estar animal e a conscientizaçao da sociedade sobre a importancia da guarda responsavel.

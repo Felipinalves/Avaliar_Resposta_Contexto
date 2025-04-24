@@ -1,0 +1,274 @@
+
+Um dos principais desafios da sociedade e o envelhecimento da
+populaçao. Em Sao Gonçalo, programas de atendimento domiciliar
+podem ser oferecidos para atender a idosos com mobilidade redu-
+zida e deficiencia motora. No entanto, profissionais de saude que
+atendem a estes idosos sofrem com impedimento as visitas devido,
+entre outros fatores, ao alto indice de violencia em certas areas. Com
+o proposito de minimizar parte destes desafios, como por exem-
+plo o contato entre pacientes e esses profissionais, esta pesquisa
+propoe o uso de Agente Inteligente Conversacional como um meio
+de execuçao do Tele-cuidado. Atraves de um estudo exploratorio
+inicial foi possivel identificar como os participantes abordaram as
+caracteristicas sociais e economicas do contexto. Alem disso, os
+resultados tambem apresentaram desafios de como o Tele-cuidado
+e conduzido hoje e oportunidades de intervençoes para mudanças
+nas adversidades do contexto.
+
+
+**INTRODUCAO**
+
+Um dos principais desafios da sociedade e o envelhecimento da
+populaçao . O cenario desta pesquisa concentra-se em Sao Gon-
+çalo, uma cidade de medio porte do Brasil, na qual os idosos sofrem
+com altas taxas de analfabetismo, pobreza e tambem deficiencia
+motora. Com o objetivo de atender os idosos que necessitam de
+uma maior frequencia de cuidado multiprofissional ou possuem
+mobilidade reduzida, atuam programas de atendimento na residen-
+cia do paciente. No entanto, os profissionais de saude que atendem
+estes pacientes constantemente sofrem com impedimentos as visi-
+tas, devido a fatores como a carga excessiva de trabalho, falta de
+materiais e o continuo medo da violencia nessa regiao.
+
+Com o proposito de minimizar parte destes desafios, como o con-
+tato entre os pacientes e estes profissionais, esta pesquisa propoe
+o uso de Agente Inteligente Conversacional (AIC) como um meio
+para a execuçao do Tele-cuidado. Vale ressaltar que o uso de agentes
+neste cenario nao propoe a substituiçao do contato humano, essen-
+cial para a superaçao da solidao e do declinio cognitivo e emocional
+dos idosos . Em uma recente pesquisa realizada na cidade, foi
+apontado uma necessidade de intervençao na prevençao de compli-
+caçoes clinicas de idosos que sofrem com Doenças Cronicas Nao
+Transmissiveis (DCNT), podendo o agente atuar neste cenario .
+Entretanto, a criaçao de um agente inteligente deve considerar o
+contexto investigado .
+
+Na primeira etapa desta pesquisa, conduziu-se um estudo ex-
+ploratorio qualitativo com a participaçao de profissionais de saude
+que possuem experiencia no cenario de atendimento a domicilio.
+Sabendo da necessidade do balanceamento das questoes tecnolo-
+gicas e sociais , esta primeira etapa teve por objetivo responder
+as seguintes questoes de pesquisa: quando e quais estrategias de
+intervençao com agentes inteligentes poderiam fornecer prevençao
+de complicaçoes clinicas a idosos com base no perfil, contexto e
+suas limitaçoes de usuario?; e quais reflexoes sociais, economicas
+e eticas do contexto que os profissionais de saude estao inseridos
+refletem no design participativo de agentes inteligentes?
+
+Para tanto, adotou-se conceitos de co-design e praticas de Design
+Thinking para o levantamento de informaçoes referente as rela-
+çoes do cenario, uma vez que nao foram encontradas metodologias
+especificas para co-criaçao de dialogos de agentes inteligentes, sem
+vinculo a tecnologias especificas. Alem disso, esta pesquisa se dife-
+rencia de trabalhos disponiveis na literatura em diversas formas,
+principalmente no aspecto de envolver parte dos membros do es-
+paço de pesquisa desde o inicio do desenvolvimento do agente ate a
+fase de coleta e criaçao dos dialogos. Por fim, com relaçao aos proxi-
+mos passos, cita-se a avaliaçao formativa do prototipo com outros
+especialista; a definiçao das metas de design; o desenvolvimento
+da soluçao com base no conhecimento levantado; e a avaliaçao dos
+fenomenos de significaçao e comunicaçao no processo de melhora
+da alfabetizaçao de saude dos cuidadores atraves do AIC.
+
+
+**BASE TEORICA E TRABALHOS RELACIONADOS**
+
+De acordo com Jusoh , um agente conversacional e uma das
+aplicaçoes emergentes de processamento de linguagem natural. Os
+AICs podem ser aplicados em dominios como assistencia medica ou
+ate mesmo negocios online. Um grande beneficio de implantar um
+AIC e que ele esta disponivel 24 horas por dia, 7 dias por semana
+e tem um alto potencial de reduzir o custo de contrataçao de pes-
+soal humano . De acordo com Denecke, Tschanz, Dorner e May
+, os agentes permitem o fornecimento de cuidados em lugares
+onde as pessoas nao teriam acesso. As possibilidades de uso na area
+medica incluem, por exemplo, nutricionista virtual para pacientes
+diabeticos, no qual o chatbot faz perguntas e no final elabora uma
+dieta, ou um assistente eletronico de gerenciamento de medicacao
+ou ate mesmo musicoterapia. Os AICs tambem podem ser aplicados
+na identificacao de sintomas ou no diagnostico de doencas relacionadas a idade, afirma Eschweiler e Wanner. Como exemplo,
+os sintomas do mal de Parkinson incluem reducao na percepcao
+e distincao de odores, e disturbios do sono, os quais podem ser
+identificados com a instrucao de cuidadores atraves de um questionario. Alem disso, os AICs tambem podem ser programados para
+aplicar instrumentos de avaliacao geriatrica e ate mesmo questoes
+de diferentes aspectos.
+
+Desafios do uso de AIC para idosos
+Segundo Montenegro, da Costa e Righi, a definicao de agentes
+conversacionais consiste em um programa de computador ou inteligencia artificial capaz de segurar uma conversa com humanos
+atraves do processamento de linguagem natural. Dentre os trabalhos que fizeram revisoes de literatura do uso de AIC em saude, no mais recente, apresentado por Montenegro, da Costa
+e Righi em 2019, os autores buscaram os principais contextos
+de interacao e modelos de comunicacao envolvendo AIC.
+As solucoes de agentes na area da saude podem ser desenvolvidas em diferentes perspectivas, seja para o paciente, seja para
+o profissional de saude em atividade ou em formacao. Com
+relacao as solucoes voltadas para os pacientes, estas podem auxiliar no tratamento terapeutico e cognitivo, como por exemplo, no
+monitoramento da condicao do paciente para o auxilio ao diagnostico e tambem na alfabetizacao em saude, como por exemplo no
+entendimento do tratamento, seus metodos e resultados. Na
+busca pelos desafios dos AICs em saude, 5 categorias emergem:
+geracao de dialogo, integracao com outras tecnologias, adaptacao e
+uso de agentes conversacionais por idosos, experiencia do usuario
+e novas abordagens de metodologia e arquitetura. Ainda segundo
+os autores, todos os trabalhos que buscavam solucionar os desafios
+de AIC para idosos , focaram no contexto do paciente.
+Dentre estes trabalhos, cita-se tres grandes frentes: prevencao,
+treino e assistencia as atividades diarias. No trabalho
+de Nikitina, Callaioli e Baez, os autores descrevem os requisitos,
+modelos e design do AIC de treino de profissionais inexperientes
+para reminiscencia, que e a lembranca de aspectos importantes da
+vida dos idosos. Com relacao a prevencao, AICs podem contribuir na
+escolha do melhor caminho para o tratamento da doenca, prevencao
+de suicidio e ate mesmo lidar com a depressao. Para tanto, estes
+agentes devem ter acesso ao contexto e informacoes do paciente, como no trabalho de King et al., no qual buscava-se a saude
+do idosos atraves da prevencao. O design da solucao foi voltado
+para uma populacao idosa com pouco rendimento e entendimento
+da lingua principal do pais. No trabalho de Shaked, o autor
+estuda o uso de avatares como aliados destes desafios, o qual permite
+um canal de comunicacao muito mais vivido com o idoso. Ja no
+trabalho de Tokunaga et al. , os autores pesquisaram a adocao
+dos agentes por idosos e observaram que a adocao desta tecnologia
+esta centrada em tres pontos: personalizacao, custo de assistentes
+pessoais e o fator de aprendizado para a adaptacao do uso.
+Os autores Montenegro, da Costa e Righi afirmam que os
+idosos tem se mostrado como uma questao desafiadora na adocao
+dos AICs. Nao somente isto, tratando-se desta pesquisa, existem
+diversas variaveis que nao apenas se relacionam a criterios de dominio e infraestrutura. O contexto socioeconomico e cultural do local
+onde esta pesquisa foi realizada influenciara na concepcao e na
+adocao da solucao proposta para o problema. Por fim, as diferencas
+dos trabalhos citados com este cenario sao: (1) o AIC esta sendo
+conceitualizado na perspectiva do cuidador, embora com foco na
+qualidade de vida do idoso; (2) a solucao do AIC esta voltado para a
+prevencao de complicacoes clinicas de DCNT atraves da verificacao
+do estado do paciente e da execucao do tratamento; (3) o processo
+do design da solucao esta sendo fundamentado no contexto da pesquisa desde o inicio, ou seja, a escolha do caminho da intervencao
+(diretamente para idoso, atraves do cuidador ou atraves do familiar)
+e feita de maneira participativa, evitando que ocorra alguma incompatibilidade com a proposta; e por ultimo (4), os dialogos possuem
+pequenos objetivos especificos.
+
+Design participativo dos dialogos
+Alguns dos topicos emergidos durante a analise do trabalho de
+Kasckow et al. foram: preocupacoes com confidencialidade e
+problemas com vocabulario e redacao. No detalhamento do primeiro topico, os autores disseram que os participantes pediram que
+o termo Machucar a si mesmo deveria ser usado em vez de se
+matar. Dentre as preocupacoes, estao as informacoes fornecidas
+pelo paciente para o agente durante a intervencao, que consequentemente poderiam revelar suas tendencias suicidas, que nao sao
+aderentes a medicamentos, e que abusam de substancias. No
+trabalho de Tielman, Neerincx e Brinkman, os autores apresentaram o projeto e a avaliacao de mensagens motivacionais personalizadas para a terapia de Transtorno de Estresse Pos-Traumatico
+(TEPT). No design participativo do agente, para cada caso, pedia-se
+ao especialista que escrevesse o que eles diriam ao paciente para
+aumentar sua motivacao para continuar no tratamento. Ja no trabalho de Petukhova et al., utilizou-se o design participativo a
+partir de dados ja coletados. Segundo os autores, para uma melhor
+compreensao dos fenomenos de interacao humana e previsao de
+acoes dos interlocutores, o primeiro passo e coletar dados dessa interacao. Por fim, no trabalho dos autores Milhorat, Schlogl, Boudy e
+Chollet, os autores afirmam que as ferramentas que permitem a
+concepcao, construcao e manutencao de um sistema de dialogo sao
+raras. As principais diferencas dos trabalhos apresentados com o
+este cenario sao: (1) compreensao do contexto de maneira abstraida
+da tecnologia, pois os participantes nao possuem conhecimento
+das ferramentas atuais; (2) nao ha interacao humana previamente
+registrada e o (3) proposito e a elaboracao do dialogo centrado no
+contexto, considerando a regionalizacao do vocabulario e o nao uso
+de termos tecnicos.
+
+ESTUDO
+Este estudo inicial tem como objetivo responder as duas questoes
+de pesquisa citadas na Secao 1. Para isso foi realizado um estudo
+exploratorio qualitativo com conceitos de co-design e praticas de
+Design Thinking .
+
+Metodologia
+Dois pesquisadores em Interacao Humano-Computador participaram do estudo, um no papel de mentor da discussao e outro
+responsavel por dar suporte a dinamica. O estudo foi dividido em
+tres fases: Imersao, Ideacao e Prototipacao. Os participantes responderam o termo de consentimento livre e esclarecido desta pesquisa.
+Os dados empiricos coletados foram as falas e imagens dos participantes durante todo o processo do estudo. A analise dos dados
+seguiu o paradigma nao-preditivo e interpretativo com a abordagem
+de codificacao dos dados empiricos coletados e transcritos.
+Foram adotadas duas abordagens para responder a questao de
+pesquisa 1: a de codificacao aberta nomeando sentenca por sentenca
+e a seletiva que usa as codificacoes mais significativas para organizar, sintetizar, integrar e organizar grandes quantidades de dados. Para analise da segunda questao, seguiu-se a abordagem de
+codificacao top-down a luz das categorias: social, economica e etica. O estudo foi precedido por uma sessao piloto para avaliacao
+do roteiro e da estrutura de coleta de material empirico, que nao
+apresentou necessidade de nenhuma mudança.
+Com relacao aos participantes, foram selecionados dois profissionais de saude baseado em suas experiencias previas com idosos
+e conhecimento do cenario. Ambos os selecionados possuem suas
+pesquisas voltadas para o cenario. O primeiro participante e estudante de enfermagem e esta no nono periodo. Sua pesquisa de
+trabalho final do curso e relacionada ao monitoramento de idosos
+na pos-cirurgia atraves de um aplicativo de mensagens. Alem disso,
+possui experiencia em um projeto estadual em Tele-cuidado. O segundo participante e profissional formado em enfermagem desde
+2012, especialista na saude do idoso e atualmente e
+mestrando. Possui experiencia trabalhando em diversos cenarios
+criticos de home care como gerente de um setor de Tele-cuidado.
+
+Resultados
+Durante a fase de imersao e entendimento do contexto, foi identificado o quanto a esposa de um idoso com DCNT carece de acompanhamento. Isso se deve principalmente a uma questao cultural no
+perfil dos idosos masculinos atendidos, no qual, nao ha uma cultura
+de autocuidado e atencao a propria saude. Neste caso, deixando
+toda a responsabilidade para a esposa, contrariando as estatisticas
+que indicam o perfil de filho como o mais prevalente dentre os
+cuidadores. Segundo os participantes, muitas vezes a esposa nao
+tem o conhecimento tecnico para realizar a funcao de cuidadora.
+Estes fatores convergiram para um dos desafios atualmente, que e a
+inexperiencia dos cuidadores informais, o qual ocasiona Inumeras
+falhas de processo e, como consequencia, as complicacoes clinicas.
+Durante a construcao do dialogo, os participantes propuseram
+o uso de mensagens que transmitissem valorizacao de um bom
+trabalho, pois, de acordo com um dos participantes, os cuidadores
+precisam ser reconhecidos quando executam um bom trabalho.
+Alem disso, mensagens com teor de alerta tambem poderiam ser
+utilizadas na indicacao de que algo deve ser mudado e quando ha a
+necessidade emergencial de verificacao em um posto de saude, pois
+a situacao ja se encontra critica. Outro ponto social identificado foi
+a negligencia, pois existe a possibilidade do idoso ou do proprio
+cuidador dizer que ira fazer e acabar se esquecendo ou apenas nao
+correspondendo com o combinado. Outra caracteristica identificada
+e a necessidade de uma postura incisiva quando necessario, uma
+vez que a pressao nao foi medida e nem a insulina ingerida, entao os
+participantes sao orientados pela mensagem Meca agora!. Isto se
+deve principalmente pela necessidade de dialogos que representem
+clareza e nao duvida eou subjetividade. Com relacao aos fatores
+eticos, os participantes reconhecem que a interacao destas questoes
+deve ser entre o profissional de saude e o idoso, ja que sentem-se
+felizes ao participar de uma pesquisa que tem por objetivo sua
+propria qualidade de vida.
+
+CONCLUSOES PRELIMINARES
+Os principais resultados deste estudo inicial mostraram desafios no
+cenario e no formato atual do Tele-cuidado. Quanto aos desafios do
+Tele-cuidado, cita-se a incompatibilidade de para quem a solucao
+esta sendo proposta, que pode ocasionar na falha da intervencao
+e inconsistencia nos dados coletados; e a demanda por um entendimento profundo do cenario, pois segundo um dos participantes,
+em um cenario, diferentes interlocutores podem ter opinioes diferentes acerca do idoso e da situacao do tratamento, demandando
+um esforco tecnico e empatico do profissional de saude. Neste sentido, tarefas repetitivas poderiam ser suportadas por tais sistemas,
+disponiveis todos os dias da semana e em qualquer horario. A
+aplicacao do estudo tambem trouxe oportunidades de mudança e
+melhoria do cenario explorado. Durante a analise, foram identificadas caracteristicas sociais e economicas no momento da elaboracao
+dos dialogos e durante a proposta das solucoes. Como por exemplo,
+a selecao das palavras e tempos verbais adequados, utilizando frases
+no imperativo, quando necessario, e levantando casos em que a
+familia nao possui recursos para comprar um smartphone. Alem
+disso, propuseram o uso de mensagens que ajudem na identificacao
+da (in)adequacao do tratamento de forma que o profissional de
+saude possa orientar o caminho adequado.
+
+TRABALHOS FUTUROS
+A Figura 1 descreve as atividades que compoem os passos realizados
+e futuros desta pesquisa. Ao observar da esquerda para a direita,
+o periodo entre 2018 e setembro de 2019 compreendeu as fases ja
+executadas de mapeamento do espaco de pesquisa, definicao das
+metas de design, escolha da tecnologia do agente e o desenvolvimento do prototipo. Dentre as etapas que estao relacionadas a
+metodologia da pesquisa, cita-se a (1) Avaliacao Formativa, no qual,
+com a participacao de profissionais da area da saude do contexto
+estudado, esta etapa comprendera algumas atividades de avaliacao
+do material levantado nas etapas concluidas. Esta fase abrangera as
+modalidades de observacao e entrevista.
+Tanto a 2a como a 5a fase comprenderao a analise dos dados
+seguindo um paradigma nao-preditivo e interpretativo com a abordagem de codificacao dos dados empiricos coletados e transcritos.
+Serao adotadas duas abordagens: a de codificacao aberta nomeando
+sentenca por sentenca e a seletiva que usa as codificacoes mais significativas para organizar, sintetizar, integrar e organizar grandes
+quantidades de dados.
+Na fase (3), serao realizadas as adequacoes com base no resultado
+da fase 2. Na 4a e ultima fase que contara com a participacao de seres
+humanos, o estudo sera apenas de carater observacional, no qual
+os participantes testarao a aplicacao em um estado mais maduro.
+Por fim, na 6a fase a adequacao da solucao com base nos resultados
+da 5a fase.
+

@@ -1,0 +1,62 @@
+Nas ultimas decadas, o crescente desenvolvimento de tecnologias computacionais e sua massificaçao facilitaram o acesso a diversas aplicaçoes, para os mais diversos publicos. Entre as aplicaçoes em ascensao, estao os agentes conversacionais, comumente conhecidos como chatbots e/ou voicebots, que estao se tornando cada vez mais populares devido as funcionalidades que agregam aos softwares e hardwares existentes. Este trabalho tem como objetivo detalhar o desenvolvimento de dois agentes conversacionais multimodais voltados para a inserçao de registros e monitoramento de dados em saude.
+
+
+**INTRODUCAO**
+
+A criaçao de ideias e ferramentas tecnologicas, datadas em sua grande maioria no seculo XX, apresentaram um massivo crescimento estrutural no seculo XXI, com o advento da Internet. Muitas concepçoes e soluçoes, principalmente relacionadas com Inteligencia Artificial e Redes de Computadores, sairam dos estudos teoricos e estao cada vez mais focadas na pratica, em seus metodos complexos e proximos dos usuarios comuns. Essas soluçoes estao fazendo uso de uma infraestrutura tecnologica que conta com dispositivos, como aparelhos celulares, televisores, gadgets etc.
+
+Agraciado por essa onda tecnologica quebradora de barreiras, os agentes de conversaçao por texto ou voz, chamados de chatbots e voicebots, sao programas de computador que conseguem simular conversas escritas ou faladas. Essas aplicaçoes ganharam espaço, principalmente por contribuir com o acesso facilitado a tecnologia nos mais diversos dominios.
+
+Estas soluçoes de agentes conversacionais e assistentes virtuais, com conversaçao tanto por texto quanto por voz, estao em plena ascensao e cada vez mais presentes em nossa vida como forma de automatizar processos e tarefas. A pandemia da COVID-19, com suas serias restriçoes, fomentaram ainda mais essa popularizaçao, principalmente com o intuito de facilitar o acesso a informaçoes e reduzir a exposiçao.
+
+Neste mesmo sentido, as interfaces conversacionais multimodais, conceituadas por conseguirem agregar diversas linhas de comunicaçao com enfase no principio conversacional, podem disponibilizar formas de interaçao mais naturais, permitindo aos usuarios maior eficiencia e satisfaçao de uso. Nos ultimos anos, uma grande infinidade de programas e assistentes capazes de realizar açoes baseadas em palavras e comandos de voz surgiram, impulsionados pela difusao do Google Assistente e da Amazon Alexa.
+
+O uso de agentes conversacionais, principalmente aqueles que utilizam a concepçao de inteligencia artificial, continuarao sua massificaçao e estarao ainda mais presentes em grande parte de nossas atividades diarias. Com isso, e preciso desenvolver soluçoes com foco central no ser humano, com caracteristicas emocionais, conversacionais e relacionais, levando em conta quesitos de confiança, respeito e dignidade para contribuir e humanizar a interaçao, alem dos aspectos necessarios para cativar os usuarios.
+
+No campo da saude, com essa relaçao tecnologica recente, a conscientizaçao da populaçao no monitoramento e gestao da propria saude esta cada vez mais frequente. Relacionado a este fato, desenvolvedores vem trabalhando, cada vez mais, em novas tecnologias qualificadas para facilitar esse acompanhamento.
+
+Neste contexto, este trabalho teve como objetivo descrever o desenvolvimento de dois agentes conversacionais utilizados como forma de facilitaçao da inserçao e acompanhamento de registros de dados relacionados a saude. Trata-se de agentes que, por meio de dialogos curtos, auxiliam pacientes na inserçao de dados relacionados a saude, utilizando para isso o sistema e-Health eProHealth, software desenvolvido para a gestao e o autocuidado de condiçoes relacionadas a saude.
+
+Sistema e-Health
+
+O sistema por tras do desenvolvimento dos modulos e o eProHealth, uma plataforma RES (Registro Eletronico de Saude) que promove acoes de telesaude, como o teleatendimento e telemonitoramento. A plataforma tem como objetivo disponibilizar um prontuario eletronico pessoal, tornando as pessoas protagonistas no cuidado com sua saude, podendo aproximar o profissional da saude e o paciente, alem de disponibilizar servicos como agendamento de consultas, lembretes para medicamentos e atividades, alerta de parametros clinicos fora da normalidade, gamificacao para aumentar o engajamento a tratamentos, entre outros.
+
+A Plataforma e composta por uma aplicacao disponibilizada em nuvem computacional, denominada Dashboard Web, um App Mobile para smartphone e tablets e tambem apresenta um dispositivo IOT (Internet das Coisas) denominado Device IOT Multiclinico.
+
+O aplicativo mobile do sistema disponibiliza um prontuario eletronico pessoal acessivel e compartilhavel para todas as pessoas. Com o aplicativo, e possivel manter os dados pessoais, parametros clinicos (peso, pressao arterial, batimento cardiaco, sono, IMC, entre outras), trocar mensagens de texto com profissionais da saude, receber alerta sobre parametros clinicos fora da normalidade ou de lembretes para ministrar medicamentos ou fazer atividades, agendar consultas com instituicoes vinculadas e acessar resultados de exames com instituicoes vinculadas.
+
+
+**DESENVOLVIMENTO**
+
+Uma linha de conceituaçao comum nas plataformas de desenvolvimento de agentes conversacionais pode ser caracterizada seguindo uma adaptaçao utilizada por Roman et al.
+
+De maneira geral, um agente conversacional e composto por pelo menos duas partes: uma aplicaçao cliente e um servidor motor. A aplicaçao cliente e aquela com a qual o usuario interage diretamente, na qual ele fornece uma entrada, geralmente audio ou texto, e obtem uma saida na forma audio, texto, ou outros tipos de conteudo.
+
+O servidor e responsavel por receber as requisiçoes da aplicaçao cliente contendo a informaçao de entrada fornecida pelo usuario, interpreta-la e fornecer uma resposta que a aplicaçao cliente usara para gerar a sua saida (resposta) para o usuario. Quando o servidor recebe uma requisiçao com a entrada do usuario, esse conteudo, associado as informaçoes relativas ao seu contexto, passa por um motor de classificaçao de intençoes e identificaçao de entidades para que a inteligencia do software do bot consiga interpretar o que o interlocutor disse e elaborar uma açao de resposta adequada.
+
+O desenvolvimento de ambas as soluçoes levaram em consideraçao a descrição e o sistema e-Health eProHealth, de modo a promover a multimodalidade de inserçao e acompanhamento dos registros vinculados a saude.
+
+Agente conversacional por texto
+
+Foi desenvolvido um agente conversacional textual utilizando o servico Amazon Lex Amazon 2023b motor para a concepcao de agentes conversacionais textuais disponibilizado pela Amazon Web Services AWS O servico possui interface visual amigavel permitindo criar agentes conversacionais modernos e com linguagem natural em aplicativos novos ou ja existentes
+
+A aplicacao sera implementada no aplicativo m health eProHealth ja existente para a gestao dos dados do usuario O agente conversacional desenvolvido tem como objetivo facilitar essas insercoes por meio de dialogos curtos Para isso o agente solicita quais dados o usuario deseja inserir e realiza a insercao juntamente com a data de registro
+
+As insercoes sao realizadas por meio de API Application programming interface caracterizada como um conjunto de rotinas estabelecidas por um software para utilizacao de suas funcionalidades por aplicativos externos neste caso disponibilizada pelo eProHealth Esta interface possibilita que os dados sejam salvos no mesmo sistema que o aplicativo
+
+Para a criacao da interface conversacional do agente foi utilizado o Amazon Lex servico em nuvem que disponibiliza uma plataforma com estrutura para criacao de agentes conversacionais com recursos frequentemente utilizados na concepcao de agentes A adicao de registros torna se possivel pois e utilizado um programa orientado a eventos o AWS Lambda que executa codigos em resposta a eventos
+
+Agente conversacional por voz
+
+Para o desenvolvimento na plataforma Amazon Alexa Amazon 2023a o primeiro passo consistiu na definicao do escopo funcional do agente sendo realizada uma analise necessaria para verificar quais serao as funcionalidades implementadas e seu nivel de relevancia No servico Amazon Alexa existem alguns modelos pre criados e treinados pela Amazon que podem basear a estrutura de funcionamento da solucao Estes modelos pre criados disponibilizam uma serie de intencoes e enunciados ja desenvolvidos com foco na otimizacao do desenvolvimento da solucao Em alternativa aos modelos pre criados e possivel criar solucoes customizadas com o intuito de expandir o potencial de desenvolvimento de solucoes Foi optado pela escolha da solucao customizada para ser moldavel ao projeto
+
+Apos finalizado o primeiro passo fez se necessario definir a tecnologia que seria utilizada para o desenvolvimento Esta etapa e mais focada no backend da skill que pode fornecer as principais respostas que estao fora do dominio da Amazon Alexa Para isso atualmente existem tres metodos para definicao do backend sendo dois semelhantes e um proprio Os dois tipos semelhantes ficam provisionados com a Amazon sendo chamados de Alexa hosted Nestas duas solucoes o ambiente fica configurado nos servidores da Amazon podendo usufruir de todas as funcionalidades disponiveis na nuvem da Amazon A unica diferenca destas solucoes se da pela linguagem Na primeira utiliza se Javascript como linguagem e o NodeJS como o interpretador enquanto na segunda utiliza se a linguagem de programacao Python O desenvolvimento do agente proposto utilizou a versao customizada com a linguagem Javascript e NodeJS para funcionamento
+
+Para a integracao com o sistema e Health foi incrementado um codigo na linguagem de programacao Javascript possibilitando adicionar a API do sistema eProHealth na solucao desenvolvida permitindo o envio recebimento e tratamento de informacoes relacionadas ao usuario Com isso os dados ficam salvos no sistema principal e podem ser verificados no aplicativo ou na solucao web
+
+**CONCLUSAO**
+
+Este presente trabalho buscou detalhar o desenvolvimento de duas soluçoes tecnologicas de agentes conversacionais, voltados para a area da saude, que apresentam como objetivo principal simplificar a inserçao e monitoramento dos dados relacionados a saude. Os dois modulos desenvolvidos neste projeto serao disponibilizados para acesso publico gratuito aos pacientes, servindo como novos modos de gestao de informaçoes relacionadas a saude, de forma pratica e facil. Como resultados futuros, serao disponibilizadas novas funcionalidades nos agentes desenvolvidos, de modo a otimizar e tornar a experiencia de uso mais satisfatoria.
+
+
+**CONSIDERACOES FINAIS**

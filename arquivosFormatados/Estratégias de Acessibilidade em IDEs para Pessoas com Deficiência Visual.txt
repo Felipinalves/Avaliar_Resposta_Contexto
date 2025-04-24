@@ -1,0 +1,112 @@
+**INTRODUCAO**
+
+A area de Interaçao Humano Computador (IHC) desempenha um papel fundamental na
+garantia da acessibilidade das Tecnologias da Informaçao e Comunicaçao (TICs) para
+usuarios com deficiencia, removendo os obstaculos que podem impedir os usuarios de
+interagir com a sua interface . Dentre os diferentes tipos de
+deficiencias que devem ser analisadas no projeto de sistemas interativos, uma atençao
+especial deve ser dada para pessoas com deficiencia visual, que apresentam um compor-
+tamento diferente dos usuarios com outros tipos de deficiencia durante a interaçao, ja que
+a tela e o mouse podem nao ter utilidade .
+
+Na Computaçao, a situaçao e semelhante, pois uma forte caracteristica dessa
+area e a alta dependencia de elementos visuais . Em se tra-
+tando especificamente de programaçao de computadores, os Ambientes de Desenvol-
+vimento Integrado (IDEs) tem sido amplamente utilizados para aumentar a produ-
+tividade e eficiencia de analistas e desenvolvedores de sistemas. Entretanto, a alta complexidade das interfaces dessas ferramentas [Petrausch and Loitsch 2017] aliado as
+particularidades intr´ınsecas da maioria das linguagens de programacao, pode representar um desafio para pessoas com deficiencia visual que desejam atuar nesta area
+[Mountapmbeme et al. 2022, Hadwen-Bennett et al. 2018].
+A acessibilidade dessas ferramentas pode ser proporcionada atraves da utilizacao
+recursos de Tecnologia Assistiva (TA): conjunto de equipamentos e servicos projetados
+para auxiliar pessoas com deficiencia [Bersch 2008]. Entretanto, nem todas as dificuldades encontradas por pessoas com deficiencia visual podem ser sanadas apenas com a utilizacao da TA disponıvel [Hadwen-Bennett et al. 2018], pois a maioria dos recursos
+foca apenas na extensao da interface grafica tradicional. 
+Isso se torna especialmente desafiador para estudantes com deficiencia visual, que 
+alem de aprender os fundamentos teoricos e praticos dessas disciplinas, tambem precisam dominar o uso das IDEs. E essencial, portanto, conduzir pesquisas em IHC para garantir uma maior acessibilidade das IDEs, para que pessoas com deficiencia visual possam 
+utilizar todos os seus recursos de forma eficiente e eficaz. A familiaridade com essas
+ferramentas no ambiente academico e crucial para o desenvolvimento profissional dos estudantes, pois lhes oferece maior capacitacao para ingressarem no mercado de trabalho.
+
+**OBJETIVO DO TRABALHO**
+
+Este projeto de pesquisa tem como objetivo principal elaborar um conjunto de Diretrizes
+de Acessibilidade para assegurar que pessoas com deficiencia visual tenham acesso a
+todas as funcionalidades oferecidas pelas IDEs. Os objetivos especificos definidos sao:
+
+Identificar os recursos de TA mais utilizados por pessoas com deficiencia visual
+para interagir com sistemas digitais, bem como as principais barreiras e limitaçoes
+encontradas por eles durante a interaçao;
+Realizar levantamento e analise de Recomendaçoes, Normas e Diretrizes de Aces-
+sibilidade para sistemas digitais publicadas no cenario nacional e internacional;
+Identificar as principais barreiras e limitaçoes encontradas por pessoas com de-
+ficiencia visual ao interagirem com IDEs;
+Elaborar um conjunto preliminar de estrategias para garantir a acessibilidade de
+IDEs para pessoas com deficiencia visual; e,
+Avaliar e refinar as estrategias preliminares por meio de testes de acessibilidade e
+grupos focais.
+
+**METODOLOGIA**
+
+Para atingir o proposito deste trabalho, estabeleceu-se a seguinte questao de pesquisa:
+"Quais estrategias devem ser adotadas para garantir a acessibilidade em IDEs para es-
+tudantes com deficiencia visual?". A metodologia utilizada consiste em uma aborda-
+gem qualitativa e se dara por meio de 7 etapas. Na 1a etapa foi realizada uma Re-
+visao Sistematica da Literatura (RSL) para identificar os recursos de TA utilizados
+por pessoas com deficiencia visual para interagir com sistemas digitais (etapa con-
+cluida) . Na 2a Etapa, foram enviados questionarios
+para professores de Programaçao de Computadores que lecionaram para estudantes
+com deficiencia visual e realizadas entrevistas com estudantes/egressos de Cursos de
+Computaçao com deficiencia visual. O objetivo desta etapa foi identificar as principais barreiras e limitacoes encontradas pelos estudantes durante a interacao com IDEs (etapa concluida). Os dados obtidos foram analisados por meio de uma analise qualitativa utilizando a tecnica de analise de conteudo.
+A 3ª etapa envolveu o levantamento das principais barreiras encontradas por pessoas com deficiencia visual nas tarefas relacionadas a programacao de computadores e interacao com IDEs ja relatadas na literatura (etapa concluida). Na 4ª etapa serao analisadas as principais Normas, Recomendacoes e Diretrizes de acessibilidade propostas por instituicoes nacionais e internacionais (etapa em andamento). A 5ª etapa envolve a elaboracao de um conjunto preliminar de estrategias de acessibilidade para IDEs voltadas a pessoas com deficiencia visual (etapa em andamento). Na 6ª etapa serao validadas as estrategias preliminares por meio de testes de acessibilidade e grupos focais com a participacao de estudantes/egressos de cursos de Computacao com deficiencia visual. Por fim, a 7ª etapa visa o refinamento do conjunto inicial de estrategias para elaboracao de Diretrizes de Acessibilidade em IDEs para usuarios com deficiencia visual.
+Para garantir a conformidade com aspectos eticos, todas as etapas da pesquisa que envolvem a participacao de seres humanos foram submetidas e aprovadas pelo Comite de Etica do Instituto Federal Farroupilha (RS), conforme Pareceres Consubstanciados n.º 54297421.9.0000.5574 e n.º 68361023.1.0000.5574.
+4. Base Teorica e Trabalhos Correlatos
+A programacao de computadores envolve o processo de escrever, testar, depurar e manter o codigo-fonte de programas. Programar requer a utilizacao de uma sequencia de instrucoes ou comandos textuais especificos, escritos em linguagem de programacao [Sharma 2020]. Para auxiliar nesta tarefa, varios IDEs tem sido desenvolvidos e oferecem editor, compilador, interpretador, depurador, sistema de versionamento, formatacao e ferramentas de modelagem [Petrausch and Loitsch 2017]. Proporcionar todos esses recursos resulta em interfaces complexas, com estruturas de menus encapsuladas, multiplas janelas e extensas funcionalidades. A interacao com esses recursos pode ser desafiadora para os usuarios com deficiencia visual [Petrausch and Loitsch 2017], que se movimentam e operam o computador de maneira diferente do procedimento adotado por outros individuos [Mendonca et al. 2008].
+Para compreender as principais barreiras e limitacoes encontradas por pessoas com deficiencia visual nas tarefas relacionadas ao desenvolvimento de software, varias pesquisas tem sido realizadas. Estudos empiricos, como o realizado por [Mealin and Murphy-Hill 2012] identificaram os desafios enfrentados por programadores cegos. Entrevistas conduzidas por [Huff et al. 2020] buscaram compreender como a deficiencia afeta o ambiente de trabalho de programadores com deficiencia visual. O trabalho de [Mountapmbeme et al. 2022] buscou identificar os esforcos de pesquisa voltados para tornar os IDEs mais acessiveis para programadores profissionais e alunos com deficiencia visual. [Baker et al. 2019], por outro lado, quantificaram as barreiras enfrentadas por estudantes de cursos de Ciencia da Computacao com deficiencia visual, a fim de compreender melhor o impacto da deficiencia no processo de aprendizagem. Essas pesquisas fornecem contribuicoes valiosas para a criacao de solucoes inclusivas no campo do desenvolvimento de software.
+
+**RESULTADOS PARCIAIS**
+
+A RSL realizada na primeira etapa da pesquisa revelou que leitores de tela sao o recurso
+de TA mais utilizado por pessoas com deficiencia visual. Alem disso, foram identificadas
+varias barreiras que restringem ou dificultam a interaçao desses usuarios em sistemas di-
+gitais, especialmente relacionadas a realizaçao de leitura sequencial da interface realizada
+pelos leitores de tela. Questionarios e entrevistas evidenciaram barreiras e limitaçoes en-
+contradas por estudantes com deficiencia visual em disciplinas de Programaçao de Com-
+putadores: relativas a navegaçao, depuraçao e ediçao de codigo, bem como a compre-
+ensao da saida gerada de programa. Algumas ja haviam sido previamente mencionadas
+na literatura, enquanto outras sao descobertas ineditas.
+
+Algumas Normas, Recomendaçoes e Diretrizes abordam a acessibilidade de sis-
+temas digitais: (1) ISO/IEC 9241-171 , fornece orientaçoes para alcançar
+um alto nivel de acessibilidade em projetos de software; (2) Web Accessibility Initiative
+(WAI), oferece padroes e materiais de suporte para ajudar desenvolvedores a compreender
+e implementar a acessibilidade Web; (3) Web Content Accessibility Guidelines (WCAG),
+fornece recomendaçoes sobre como desenvolver um site acessivel e testar a sua acessibi-
+lidade; Accessible Rich Internet Applications Suite (ARIA), orienta desenvolvedores na
+criaçao de widgets personalizados e outros componentes de aplicativos da Web; e, Modelo
+de Acessibilidade em Governo Eletronico (e-MAG), contem recomendaçoes tecnicas es-
+tabelecidas pelo Governo Federal Brasileiro para promover a acessibilidade em sites e
+sistemas governamentais.
+
+Alem dessas iniciativas, a legislaçao em muitos paises tambem reforça a exigencia
+do cumprimento de diretrizes para garantir a acessibilidade para todos os cidadaos, espe-
+cialmente usuarios com deficiencia . No Brasil, o Decreto n.o 5.296 (2004)
+e a Lei n.o 13.146 (2015), Lei Brasileira de Inclusao da Pessoa com Deficiencia, sao exem-
+plos disso. Todos esses documentos, no entanto, buscam atender a uma ampla gama de
+usuarios com diversas limitaçoes e necessidades.
+
+**CONSIDERAÇOES FINAIS**
+
+Conceber sistemas interativos acessiveis a pessoas com deficiencia visual envolve com-
+preender as dificuldades, necessidades e preferencias desse grupo de usuarios. A maioria
+dos pesquisadores, projetistas e desenvolvedores, que possuem visao normal, podem nao
+possuir um entendimento claro a respeito das caracteristicas desse publico. Alem disso,
+as Normas, Recomendaçoes e Diretrizes existentes contem recomendaçoes genericas que
+nao abordam aspectos particulares das IDEs. Essas ferramentas possuem peculiarida-
+des que, em muitos casos, sao exclusivas delas. Torna-se importante, portanto, analisar
+quais sao as caracteristicas necessarias para garantir a acessibilidade para pessoas com
+deficiencia visual em IDEs. Esta pesquisa faz parte de uma Tese de Doutorado do Pro-
+grama de Pos-Graduaçao em Computaçao da UFPEL, que ja foi aprovada na etapa de
+Qualificaçao de Tese. A pesquisadora principal encontra-se matriculada o 7o semestre e a
+defesa da Tese de Doutorado esta prevista para março de 2024.
+
+**CONSIDERACOES FINAIS**
+
+A pesquisa em andamento visa contribuir para o desenvolvimento de ambientes de desenvolvimento integrado (IDEs) mais acessiveis para programadores com deficiencia visual. Ao identificar barreiras especificas e propor diretrizes de acessibilidade, busca-se promover a inclusao e a igualdade de oportunidades no campo da informatica. Os resultados esperados podem beneficiar nao apenas estudantes e profissionais com deficiencia visual, mas tambem outros grupos de usuarios que se beneficiam de interfaces mais claras e personalizaveis.

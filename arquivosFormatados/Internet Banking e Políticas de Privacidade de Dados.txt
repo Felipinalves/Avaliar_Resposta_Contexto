@@ -1,0 +1,80 @@
+**INTRODUCAO**
+
+Para assegurar o consentimento dos usuarios de como seus dados sao utilizados pelas
+instituiçoes, nao basta apenas a existencia de leis como a Lei Geral de Proteçao de Da-
+dos (LGPD) [Brasil 2018], ou a General Data Protection Regulation, da Uniao Euro-
+peia [European Parlament 2016], ja que os usuarios necessitam ter consciencia do carater
+dessas informaçoes [Andrews 2019]. Uma forma de endereçar este problema e aplicando
+praticas de usabilidade que garantam o entendimento das politicas de privacidade por
+parte dos usuarios.
+
+Desta forma, as questoes de pesquisa deste estudo estruturam-se conforme se-
+gue: "Como sites que contem paginas de privacidade de dados estruturam esse tipo de
+informaçao para o usuario final?”e “Como os usuarios finais percebem as informaçoes
+contidas neste tipo de pagina?". Para responder a estas perguntas, foi realizada a
+investigaçao da usabilidade e da disposiçao de informaçoes textuais em politicas de pri-
+vacidade de instituiçoes bancarias brasileiras. Assim, o objetivo deste trabalho e obter
+analises fundamentadas na Interaçao Humano-Computador (IHC) que forneçam base para
+a criaçao e o uso de um ou mais design patterns de interaçao no contexto estudado.
+
+Foram utilizados o metodo de Avaliaçao Heuristica - com a adoçao das heuristicas
+de Jakob Nielsen [Nielsen and Molich 1990, Nielsen 1994] -, um metodo de baixo
+custo escolhido por poder ser realizado em qualquer etapa de um processo de de-
+sign, e a Entrevista em Profundidade, metodo flexivel de coleta qualitativa de dados
+de usuarios [Barbosa et al. 2021], cujos resultados podem fornecer bons insights para a
+pratica de projeto de interfaces.
+
+Fundamentacao Teorica
+Em 2018, uma revisao sistematica com foco em privacidade de dados relacionada a
+IHC identificou somente 9 resultados sobre o tema [Silva et al. 2018] publicados em dez
+edicoes (de 2006 a 2017) do Simposio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC Brasil).
+Ja, no ano seguinte ´ a aprovacao da LGPD, em 2019, um estudo propos o uso
+de um framework para que aplicacoes web garantam o acesso e controle de dados dos
+usuarios a nıvel granular, respeitando a nova lei [Castro et al. 2022].
+E, ainda, em um ultimo estudo encontrado [Ribeiro and Canedo 2020], os pesquisadores realizaram uma investigacao dos criterios de prioridade para implementacao de sistemas contemplados pela LGPD na Universidade de Brasılia (UnB).
+
+**METODOLOGIA**
+
+Foi realizada a Avaliaçao Heuristica, baseada nas dez heuristicas de Jakob Niel-
+sen [Thornburg 2020]. Em seguida, foram conduzidas sete entrevistas em profundidade
+por meio de um roteiro semi-estruturado [Barbosa et al. 2021], para compreender a visao
+do usuario sobre a disposiçao de conteudos textuais em paginas da internet que provem
+informaçoes tecnicas ou associadas a regulamentaçoes.
+
+Primeiramente, a equipe composta por tres avaliadores, tambem autores deste ar-
+tigo, realizou a etapa individual da avaliaçao heuristica, em diferentes momentos do mes
+de maio do ano de 2022. Apos as analises individuais, os integrantes se reuniram para
+discutir os resultados e consolidar aspectos discordantes.
+
+Na etapa de entrevistas, com o recrutamento dos entrevistados, dados como idade,
+experiencia com internet e uso de internet banking foram obtidos previamente. Todos os
+participantes assinaram o Termo de Consentimento Livre e Esclarecido (TCLE). E, foram
+elencadas cinco perguntas para as entrevistas, que abordaram a disposiçao de texto em
+paginas da web, leitura de conteudos textuais longos, linguagem tecnica e confiança nas
+plataformas de internet banking.
+
+**RESULTADOS**
+
+Considerando os resultados da Avaliaçao Heuristica, detectou-se que a pagina de pri-
+vacidade do Banco 1 possui o conteudo disposto em pagina unica, sem links para sites externos ou botoes que levam a paginas internas. Alem disso, o conteudo esta sob a forma de um longo bloco de texto, separado apenas pelos titulos de cada assunto. O Banco 1 nao contemplou tres heuristicas, que sao a visibilidade do status do sistema, o reconhecimento em vez de memorizacao e a flexibilidade e eficiencia de uso. Estas heuristicas nao foram consideradas contempladas principalmente pelo fato de nao haver um bom sistema de para navegacao dentro da pagina, ja que ha um grande volume de texto disponibilizado.
+
+Ja quanto ao Banco 2, este possui a pagina de privacidade de dados como uma pagina introdutoria ao assunto, com diversos links para paginas externas e botoes que levam a secoes mais detalhadas sobre cada segmento das politicas de privacidade. A estrutura da pagina conta com figuras ilustrativas entre os pequenos blocos de texto, separados por assuntos, tais como topicos sobre a LGPD, politica de cookies, entre outros.
+
+O Banco 2 nao contemplou sete das dez heuristicas exanimadas. As heuristicas foram a visibilidade do status do sistema, o controle do usuario e liberdade, a consistencia e padroes, a prevencao de erros, o reconhecimento em vez de memorizacao, a flexibilidade e eficiencia de uso e a ajuda no reconhecimento, diagnostico e recuperacao de erros. O grande numero de heuristicas se deve principalmente a inconsistencia na navegacao entre a pagina principal e as internas (os breadcrumbs, quando clicados, nao redirecionam para o caminho realizado) e a inconsistencia no desenho da interface e da localizacao de elementos interativos.
+
+Quanto as Entrevistas em Profundidade, o perfil de participantes foi de faixa etaria de 28 a 61 anos. Entre os sete entrevistados, seis se consideraram experientes o suficiente nestes quesitos: saber acessar websites, independente de dispositivo ou plataforma, para buscar informacoes e pesquisar em sites de buscas, entre outros.
+
+Em suma, percebeu-se que os usuarios demonstraram preferencia por paginas em que nao ha conteudo grande de texto, como ocorre na pagina do Banco 1. As respostas mais citadas contemplam paginas com conteudos segmentados, nas quais ocorre navegacao via links, tal qual o Banco 2. Alem disso, os entrevistados disseram gostar de linguagens de texto simplificadas e artefatos ilustrativos, como imagens, para reforcar o conteudo.
+
+Discussao
+Com base nas respostas dos entrevistados, percebeu-se que estes preferem a disposicao do texto de forma mais sucinta - ou ainda por topicos - mesmo que esta visualizacao nao traga todas as informacoes necessarias, citando apenas alguns pontos mais importantes. Este formato mais simplificado e o mesmo apresentado pelo Banco 2. Isso mostra que, mesmo que a pagina de privacidade deste banco nao atenda a varias heuristicas, conforme resultado da avaliacao desta pesquisa, a informacao disponibilizada ainda esta em um formato mais aceito para estes usuarios do que o formato proposto pelo Banco 1.
+
+Consideracoes Finais
+Ainda que com amostra reduzida, foi possivel observar que a preferencia dos usuarios pode nao estar ligada diretamente a uma boa aplicacao de heuristicas. Mas, para contemplar as respostas pretendidas nestas questoes de pesquisa, recomenda-se uma amostra maior para as avaliacoes e entrevistas, possibilitando o entendimento mais amplo do cenario estudado.
+
+Como forma de trazer alguma contribuicao a comunidade e de atingir o objetivo pretendido a partir desta pesquisa, propoe-se o desenvolvimento de um design pattern de interacao aplicado ao contexto estudado. Alem disso, e fortemente encorajada a realizacao de novas investigacoes para o melhoramento da usabilidade de interfaces que necessitam de grande quantidade de texto, ou mesmo de paginas que tratam de politicas de privacidade como um todo.
+
+
+**CONSIDERAÇOES FINAIS**
+
+Com base nos resultados obtidos, este estudo reitera a importancia de aplicar principios de usabilidade na estruturaçao das politicas de privacidade de dados em plataformas de internet banking, visando garantir que os usuarios possam compreender e tomar decisoes informadas sobre como seus dados sao utilizados. A proposiçao de um design pattern de interaçao para este contexto pode contribuir para a criaçao de interfaces mais eficientes e transparentes, promovendo a confiança dos usuarios nas instituiçoes financeiras.

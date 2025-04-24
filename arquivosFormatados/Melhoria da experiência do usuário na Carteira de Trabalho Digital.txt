@@ -1,0 +1,122 @@
+**RESUMO**
+
+Este artigo apresenta os metodos e tecnicas utilizados pelo time de
+produto da Carteira de Trabalho Digital, para melhoria da experiencia do
+usuario. Dessa forma, apresenta uma integraçao dos conhecimentos da
+interaçao humano-computador no processo de desenvolvimento de produtos
+de software. Os resultados mostram que a aplicaçao de tecnicas da
+Arquitetura de Informaçao, design system, pesquisa com usuario e linguagem
+simples trouxeram melhorias significativas na experiencia do usuario.
+
+**INTRODUCAO**
+
+Percebe-se, nos ultimos anos, uma oferta cada vez maior de serviços publicos em canais
+digitais, como por exemplo: registro de boletim de ocorrencia, emissao de certidoes,
+acesso a documentos pessoais, consulta e acesso a beneficios previdenciarios,
+trabalhistas ou assistenciais [Governo Digital 2023].
+
+Impulsionado pela transformaçao digital, em 2017 o governo brasileiro lançou a
+o aplicativo Carteira de Trabalho Digital. Em 2019, por meio da Lei no 13.874 [Brasil
+2019a] e da Portaria no 1.065 [Brasil 2019b], ficou instituido que a versao digital, i.e. o
+aplicativo, substitui oficialmente a versao fisica (em papel) da Carteira de Trabalho.
+Assim, este aplicativo ganhou bastante visibilidade e relevancia para a vida do cidadao e
+trabalhador brasileiro [Serviços e Informaçoes do Brasil 2021]. A Figura 1 apresenta
+algumas telas da primeira versao da Carteira de Trabalho Digital.
+
+Com a maior visibilidade e, consequentemente, o aumento no numero de
+usuarios, surgiram e ficaram evidentes diversos problemas relacionados a experiencia
+do usuario com a Carteira de Trabalho Digital. Os principais problemas estavam
+relacionados: i) a organizaçao e estruturaçao das informaçoes; ii) a navegaçao nas telas
+do aplicativo; iii) aos componentes visuais da interface; e iv) a linguagem utilizada.
+
+Este artigo apresenta as principais estrategias, metodos e tecnicas seguidas para
+melhorar a experiencia do trabalhador com a Carteira de Trabalho Digital.
+
+**ESTRATEGIAS PARA MELHORIA DA EXPERIENCIA DO USUARIO**
+
+A investigaçao e aprofundamento dos problemas relacionados a experiencia do usuario
+foram realizadas por meio de oficinas de design thinking (descoberta e priorizaçao de
+problemas, identificaçao de causa raiz, brainwriting para criaçao de soluçoes, etc.),
+pesquisas com usuarios e analise dos comentarios dos usuarios em redes sociais (X,
+Facebook e Instagram) e nas lojas de aplicativos (Google Play e App Store).
+
+Para tratar os problemas de organizaçao e estruturaçao das informaçoes,
+foram realizadas melhorias relacionadas a Arquitetura da Informaçao (AI). A AI
+compreende a arte e a ciencia de estruturar, organizar e classificar a informaçao para
+que o usuario possa encontra-la e utiliza-la [Rosenfeld, Morville e Arango 2015]. A
+partir do mapeamento das necessidades informacionais dos usuarios e da tecnica de
+card sorting, foi realizado um reprojeto do mapa de navegaçao do aplicativo. Alem
+disso, as recomendaçoes da Al referentes aos sistemas de organizaçao, rotulaçao e
+navegaçao foram utilizadas neste reprojeto [Rosenfeld, Morville e Arango 2015].
+
+Para possibilitar uma experiencia unica aos cidadaos, o governo brasileiro
+lançou em 2019 o Padrao Digital de Governo, um design system que apresenta padroes
+de interface que devem ser seguidos por designers e desenvolvedores possibilitando
+uma curva de aprendizado menor para os usuarios dos serviços publicos, por meio da
+familiaridade e previsibilidade das interfaces [Padrao Digital de Governo 2022].
+
+Assim, para tratar os problemas relacionados aos componentes visuais
+utilizados na interface, a nova versao da Carteira de Trabalho Digital foi adaptada para
+incorporar e seguir os padroes e diretrizes recomendados no Padrao Digital de Governo.
+E importante destacar que neste redesign se levou em consideraçao a familiaridade que
+parte dos usuarios ja possuiam desde 2017 com a versao anterior do aplicativo e
+tambem com a versao fisica (em papel) da Carteira de Trabalho. Por isso, manteve-se o
+uso de elementos visuais como o brasao da republica e a cor principal (codigo
+hexadecimal #002F7A) que faz referencia ao documento em papel e que ja vinha sendo
+utilizada desde a primeira versao do aplicativo (vide Figura 2).
+
+A partir do monitoramento, constatou-se que a ausencia de padronizaçao nos
+icones e ilustraçoes, causava confusao e duvidas no usuario. Apesar do design system do
+governo definir uma biblioteca e estilo para icones (Font Awesome v.5.10.2) e
+ilustraçoes, foi criado pelo time de desenvolvimento da Dataprev um padrao especifico
+indicando o contexto de utilizaçao de cada icone ou ilustraçao. Evitando, assim, o uso
+de uma mesma representaçao visual em contextos distintos ou com semanticas
+diferentes. A Tabela 1 apresenta exemplos deste padrao para uso de icones e ilustraçoes.
+
+Com relaçao a navegaçao nas telas, pode-se dizer que uma navegaçao mais
+intuitiva e padronizada foi alcançada a partir do reprojeto da arquitetura de informaçao e
+do uso de componentes de interface que ja possuem comportamento de navegaçao
+estabelecidos no Padrao Digital de Governo, tais como cards, tabs, buttons, etc. Alem
+disso, com relaçao ao processo de desenvolvimento, definiu-se a construçao de
+prototipos navegaveis pelo designer de experiencia, evitando que o desenvolvedor
+defina a navegaçao no momento da codificaçao.
+
+No que se refere a linguagem, aplicava-se uma linguagem mais formal e textual.
+Nas pesquisas, constatou-se que os usuarios nao compreendiam as informacoes, gerando
+duvidas e insatisfacao. A partir do redesign, utilizando-se dos conceitos de Linguagem
+Simples [Oliveira e Cappelli 2024] e visual, vem sendo utilizada uma linguagem mais
+clara, direta, padronizada e associada com ilustracoes que auxiliam na contextualizacao,
+entendimento e reconhecimento das mensagens pelos usuarios (Figura 2).
+
+**RESULTADOS E LICOES APRENDIDAS**
+
+No inicio de 2023, foi lançada uma nova versao do aplicativo com as melhorias
+mencionadas relacionadas a arquitetura de informaçao, a navegaçao, aos componentes
+de interface e a linguagem utilizada.
+
+Foram alcancados resultados positivos na experiencia do usuario, pois: i) do
+ponto de vista qualitativo, o monitoramento das mençoes a Carteira de Trabalho Digital
+nas redes sociais e nas lojas de aplicativos tem apresentado feedbacks positivos e relatos
+de uso do aplicativo na vida cotidiana do trabalhador; e ii) do ponto de vista
+quantitativo, a nota do aplicativo na Google Play era 3,6 (em dezembro/2022), saltou
+para 4,5 (em 2023) e atualmente e de 4,6.
+
+Dentre as licoes aprendidas, destaca-se que estes avanços foram possiveis
+devido: i) a estruturaçao de um time de produto multidisciplinar com designers de
+experiencia do usuario; ii) ao alinhamento de responsabilidades e papeis no time; e iii) a
+priorizaçao e patrocinio da Dataprev e do Ministerio do Trabalho e Emprego. Com
+relaçao as tecnicas utilizadas, o monitoramento das redes sociais e de comentarios nas
+lojas de aplicativos mostrou-se o metodo mais eficiente para coleta de feedback dos
+usuarios, permitindo ao time de produto priorizar o backlog e gerar insights de novas
+funcionalidades.
+
+Em 2023, a Carteira de Trabalho Digital registrou mais de 685 milhoes de
+acessos e, atualmente, possui mais de 40 milhoes de usuarios ativos, tornando-se o
+principal canal para acesso aos serviços trabalhistas [Dataprev 2024]. As evoluçoes
+previstas no roadmap continuam usando as estrategias para melhoria da experiencia do
+usuario citadas neste artigo.
+
+**CONCLUSAO**
+
+Em conclusao, este artigo demonstra como a aplicaçao de tecnicas de IHC, como arquitetura da informaçao, design system, pesquisa com usuarios e linguagem simples, pode gerar melhorias significativas na experiencia do usuario em um aplicativo governamental como a Carteira de Trabalho Digital. Os resultados obtidos, tanto qualitativos quanto quantitativos, evidenciam a importancia de priorizar o usuario no processo de desenvolvimento de software e de investir em equipes multidisciplinares para alcançar resultados positivos.
+```

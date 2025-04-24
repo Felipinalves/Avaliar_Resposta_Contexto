@@ -1,0 +1,131 @@
+**RESUMO**
+
+Com o advento de ferramentas baseadas em inteligencia artificial
+(IA), novas possibilidades se abriram para a criaçao de agentes
+conversacionais. Este artigo explora a capacidade da inteligencia artificial
+generativa, especificamente do modelo de linguagem GPT, em modular suas
+respostas baseadas em traços de personalidade informados atraves de
+prompts. O estudo utilizou a tecnica "Personality Prompting (P2)" induzindo
+traços de neuroticismo alto para analisar respostas comparadas a um texto
+neutro. A analise revelou que as respostas apresentaram caracteristicas tipicas
+do traço, sugerindo que as interaçoes conversacionais habilitadas por IA
+generativa podem ser moduladas para proporcionar melhores experiencias.
+
+**INTRODUCAO**
+
+Com a eclosao do acesso as ferramentas baseadas em inteligencia artificial (IA), uma
+infinidade de possibilidades e interaçoes se abriram para as pessoas. Diversas aplicaçoes
+dessa tecnologia ja fazem parte do cotidiano, como, por exemplo, os chatbots e as
+assistentes virtuais, viabilizadas pelo Processamento de Linguagem Natural (PLN). Esse
+tipo de processamento permite que a forma de comunicaçao humana, isto e, a lingua e
+suas regras gramaticais, sejam compreendidas por computadores, facilitando as
+interaçoes para os mais diversos publicos .
+
+Baseado nisso, a OpenAI, por meio do seu chatbot ChatGPT, trouxe uma
+mudança significativa na forma como interagimos com a IA. Agora, atraves de simples
+comandos conhecidos como prompts podemos realizar diversas atividades . Os mais recentes estudos revelam a capacidade de chatbots baseados em
+Inteligencia Artificial Generativa (IAG), na identificaçao da personalidade do usuario [Ji
+et al. 2023, Amin et al. 2023] por meio de texto (inputs). Assim como a possibilidade
+de induçao dos traços de personalidade no modelo , visando criar
+respostas e conteudos (outputs) mais empaticos e direcionados ao usuario.
+
+Os agentes que se utilizam de emoçoes ou traços de personalidade podem se
+conectar de maneira mais eficaz com o seu usuario e essa caracteristica permite criar uma visao de vida para o algoritmo, fazendo com que a relacao entre ele e o interlocutor
+seja a mais proxima da realidade [Erickson, 1997, apud Grillo, 2022]. Isso tambem
+demonstra como a Experiencia do Usuario (UX - User Experience), esta
+intrinsecamente ligada as interacoes resultantes de sistemas baseados em IA. Para
+[Norman 2008] a experiencia vai alem do simples uso de um produto ou servico, ao
+projetar para a experiencia, devemos considerar toda a interacao, desde o momento em
+que se decide utilizar o produto ate o pos-uso.
+Sendo o problema de pesquisa a utilização da IAG para modular a personalidade
+de agentes conversacionais, este trabalho conduziu um teste preliminar no modelo de
+linguagem GPT, atraves do ChatGPT, a fim de avaliar a capacidade da IAG em entender
+e expressar respostas, a partir de tracos de personalidade.
+
+
+**METODOLOGIA**
+
+Para a conduçao deste estudo, foi adotada uma abordagem experimental, considerada a
+mais adequada para transformar hipoteses em afirmaçoes validadas . O objetivo principal e verificar a capacidade da IAG em gerar respostas com base
+em traços especificos de personalidade. A induçao dos traços de personalidade e a
+analise das respostas foram fundamentadas em pesquisas e analises de artigos
+academicos, livros e estudos de caso relacionados a inteligencia artificial gerativa,
+experiencia do usuario e personalidade. Os experimentos foram conduzidos de forma
+autonoma.
+
+Para a realizaçao dos testes foi decidido utilizar o modelo de linguagem GPT,
+atraves do chatbot ChatGPT. Essa escolha foi baseada em resultados de estudos que
+demonstraram uma maior propensao dessa IA em realizar interaçoes semelhantes as
+humanas .
+
+Para a escolha do traço de personalidade a ser induzido, foi adotada a tecnica
+"Personality Prompting" (P2)  que consiste em uma sequencia de
+comandos necessarios para que o modelo de linguagem possa gerar respostas com base
+em traços de personalidade. Esses traços sao os mesmos do teste Big Five, tambem
+conhecido como OCEAN, que representa: Abertura a Experiencia, Conscienciosidade,
+Extroversao, Amabilidade e Neuroticismo. Os niveis podem ser avaliados em diferentes
+graus, ou seja, uma pessoa pode ter uma abertura a experiencia alta, baixa, regular. Apos
+a seleçao do traço a ser induzido, a etapa de produçao dos prompts sao realizadas da
+seguinte forma: 1) Naive Prompt: Consiste em informar diretamente ao modelo o traço
+de personalidade desejado; 2) Keyword Prompt: Seleçao de uma serie de palavras-chave
+que descrevem o traço de personalidade e comunicaçao dessas caracteristicas ao
+modelo; 3) Personality Prompt: Criaçao de um texto explicativo curto que combina
+elementos das duas etapas anteriores; 4) Context: Desenvolvimento de um cenario que
+pode ser congruente ou incongruente com as caracteristicas do traço de personalidade,
+proporcionando uma situaçao de interaçao e permitindo perguntar ao modelo o que ele
+faria; 5) Question: Pergunta ao modelo sobre suas sensaçoes e açoes no cenario
+proposto.
+
+Neste estudo optou-se pelo uso de apenas um traço de personalidade como ponto
+de partida para ilustrar as interaçoes com a IA e os respectivos resultados, sendo o neuroticismo o traco selecionado Para as interacoes os comandos relacionados a Naive Prompt Keyword Prompt e Personality Prompt foram condensados assim como o Context e Question Essa decisao foi tomada com base em testes pilotos que indicaram a dificuldade do modelo GPT em compreender e adaptar-se a sequencia de comandos conforme apresentado pelo P2 A forma como os prompts foram condensados e utilizados estao descritos na Tabela 1
+
+Modelo de texto para comparacao
+Comparativamente executou-se um teste de geracao de conteudo tendo como parametro um modelo de texto com niveis neutros de personalidade Apos a resposta do modelo de linguagem ao comando Context Question foi solicitado que o texto modelo fosse reescrito considerando os aspectos do traco induzido na Tabela 01 Isso permitiu avaliar quais mudancas ocorreram ao utilizar uma IAG com personalidade A Tabela 2 apresenta o comando usado para a reescrita o modelo de texto e a resposta
+
+Analise conversacional
+Os atributos escolhidos para a analise conversacional foram baseados nos que melhor se enquadram para as interacoes com agentes conversacionais que apenas geram texto em suas respostas Assim com base nos estudos de Roo et al 2014 utilizou-se os parametros 1 Numero de palavras 2 Numero de caracteres 3 Ocorrencia do uso de interrogacoes e exclamacoes 4 Ocorrencia do uso de reticencias
+
+
+**RESULTADOS**
+
+Os dados provenientes das interaçoes com o Chat GPT revelaram diferenças
+significativas entre o texto original e o texto reescrito por uma IA com alto traço de
+neuroticismo.
+
+Em relaçao as caracteristicas lexicais, o texto original contem 25 palavras e 107
+caracteres (sem espaçamento), enquanto o texto reescrito apresenta 31 palavras e 142
+caracteres (sem espaçamento). Essa diferença sugere que o texto reescrito e mais
+prolixo, uma caracteristica comum em individuos com traços de neuroticismo, que
+tendem a se expressar de forma mais detalhada e menos concisa. Nas caracteristicas
+sintaticas, o texto original utiliza duas marcas de interrogaçao e exclamaçao, enquanto o
+texto reescrito emprega apenas uma marca de interrogaçao. Essa reduçao no uso de
+marcas pode indicar menor enfase e entusiasmo na comunicaçao, refletindo uma falta de
+desejo de engajamento com o interlocutor. Outro aspecto notavel e o uso de reticencias,
+pois o texto original nao contem reticencias, enquanto o texto reescrito apresenta quatro
+ocorrencias. O uso frequente de reticencias sugere hesitaçao e incerteza, comuns em
+individuos com alto nivel de neuroticismo, que podem ter dificuldades em controlar suas
+emoçoes e expressar-se de forma direta. Portanto, a enfase no uso de reticencias
+demonstra uma diferença significativa no estilo de comunicaçao.
+
+**CONCLUSAO**
+
+Diante do que foi apresentado, conclui-se que a induçao de personalidade influenciou a
+comunicaçao. De maneira geral, a analise comparativa dos textos indicou que a IA com
+traços de neuroticismo manifestou caracteristicas tipicas dessa personalidade,
+evidenciadas por um estilo de comunicaçao mais prolixo e hesitante, com menor
+engajamento emocional. Essas diferenças demonstram como os traços de personalidade
+podem impactar a interaçao humano-maquina, comprovando a capacidade da IAG em
+modular e gerar respostas baseadas em caracteristicas de personalidade. Alem disso, a
+maior parte dos estudos sobre o tema se baseia em interaçoes na lingua inglesa.
+Portanto, o presente trabalho visa possibilitar que futuras pesquisas nacionais possam se
+valer das tecnicas e achados aqui apresentados.
+
+Por se tratar de um estudo preliminar, os resultados obtidos representam um
+passo inicial na busca pelo objetivo maior, que e demonstrar como a modulaçao de
+personalidade em IAG pode melhorar a interaçao humano-maquina, proporcionando
+respostas mais empaticas e personalizadas na lingua portuguesa. Para estudos futuros,
+pretende-se obter novas respostas induzidas a partir de outros traços de personalidade.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo demonstrou que a induçao de personalidade em modelos de linguagem generativos, como o ChatGPT, e capaz de influenciar a comunicaçao e gerar respostas com caracteristicas tipicas do traço de personalidade induzido. Essa modulaçao da personalidade tem o potencial de melhorar a interaçao humano-maquina, tornando-a mais natural, empatica e personalizada. Em estudos futuros, e importante explorar a induçao de outros traços de personalidade e analisar os impactos dessas interaçoes em diferentes contextos e aplicaçoes.

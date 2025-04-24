@@ -1,0 +1,150 @@
+**INTRODUCAO**
+
+O conteudo de IHC, em consonancia com as diretrizes da Sociedade Brasileira de
+Computaçao, deve ser abordado para o desenvolvimento de
+diferentes competencias dos cursos de graduaçao da area de Computaçao. As discipli-
+nas de IHC possuem uma caracteristica peculiar por causa de seu amago interdisciplinar.
+Alem disso, o avanço tecnologico traz consigo novos contextos de uso e novos requisi-
+tos para o desenvolvimento de interfaces . Tais
+atributos, dentre outros, conferem desafios ao processo de ensino e aprendizagem.
+
+Nesse contexto de desafios enfrentados pelos docentes da area, surgiu o Workshop
+sobre o Ensino de IHC (WEIHC), no ano de 2010, cujo objetivo principal e proporcio-
+nar um espaço de discussao sobre questoes relacionadas a experiencias de docentes no
+ensino de IHC no Brasil. Desde entao, esse evento vem ocorrendo anualmente, dentro
+do Simposio Brasileiro sobre Fatores Humanos em Sistemas Computacionais, e suas dis-
+cussoes permeiam os conteudos abordados nas disciplinas de IHC, a forma de abordagem
+desses conteudos e sua respectiva avaliaçao, bem como a investigaçao dos desafios que
+vem sendo enfrentados tanto por professores quanto alunos .
+
+Isso posto, buscamos neste trabalho traçar um panorama do ensino de IHC no
+Brasil, com base nos trabalhos publicados nas cinco ultimas ediçoes do WEIHC, ocorridas no perıodo de 2016 a 2020. A partir da analise desses trabalhos, foi possıvel identificar
+os principais desafios e dificuldades relacionados ao ensino de IHC no Brasil, bem como
+conhecer melhor o seu cenario.
+Este artigo esta organizado da seguinte forma: na secao 2 sao apresentados alguns trabalhos relacionados; a secao 3 apresenta os resultados e discussao provenientes da analise dos artigos; e, por fim, na secao 4 sao apresentadas as consideracoes finais.
+
+**TRABALHOS RELACIONADOS**
+
+A investigaçao sobre o ensino de IHC no Brasil ja vem sendo realizada ha algum
+tempo dentro da comunidade cientifica. Voltado para o curriculo de IHC, o trabalho
+de  traz uma pesquisa documental em diretrizes curricula-
+res nacionais e internacionais e planos de ensino de IHC, bem como um mapeamento
+sistematico da literatura, com o proposito de apontar o que esta sendo ensinado na area.
+Tambem nessa linha,  apresentam um panorama das ementas de
+disciplinas de IHC em cursos de Computaçao, de 2009 a 2013, obtido a partir de respos-
+tas a um questionario aplicado a docentes da area no Brasil.
+
+Com um foco mais amplo,  apresenta os resultados de uma pes-
+quisa, realizada a partir de um questionario aplicado a professores, pesquisadores, estu-
+dantes e profissionais da area, trazendo informaçoes sobre os livros didaticos utilizados, a
+relaçao entre a academia e a industria e os desafios relacionados ao ensino de IHC. Bus-
+cando aprofundar a compreensao sobre esse tema,  entrevistaram professores que atuam em cursos de graduaçao na area de Computaçao, focando
+em aspectos relacionados a pratica no ensino de IHC.
+
+Usando o WEIHC como fonte de dados,  resumem os resultados
+da sua primeira ediçao, indicando alguns desafios e apresentando uma proposta inicial
+de açoes para endereça-los. Ja  apresentam uma analise das seis
+primeiras ediçoes do evento, ocorridas de 2010 a 2015. Os autores discorrem quanto a
+evoluçao do WEIHC ao longo desses anos, a procedencia dos autores e os topicos dos
+artigos publicados, apontando desdobramentos e perspectivas do ensino de IHC no Bra-
+sil. O presente trabalho estende essa pesquisa, contemplando as ediçoes mais recentes
+do WEIHC, de 2016 a 2020, e fazendo uma analise dos trabalhos publicados durante
+esse periodo no que tange as metodologias e ferramentas adotadas no ensino de IHC,
+estrategias de avaliaçao e a integraçao com a extensao e com o mercado de trabalho.
+
+**O ENSINO DE IHC NO BRASIL PELAS LENTES DO WEIHC**
+
+Para responder a questao de pesquisa "Qual e o panorama do ensino de IHC no Brasil?”,
+foram analisados 41 artigos publicados nos Anais do WEIHC de 2016 a 2020. Apos a
+leitura de cada artigo, realizada por um dos autores, um formulario foi preenchido com
+os dados extraidos do referido artigo, a fim de que pudesse ser respondida a questao de
+pesquisa¹. Apos a extraçao dos dados dos 41 artigos, esses foram entao analisados e
+discutidos por ambos autores, no sentindo de compor o panorama do ensino de IHC no
+Brasil. Nas subseçoes a seguir, serao mostrados a caracterizaçao dos artigos do WEIHC no perıodo de 2016 a 2020, alguns pontos relacionados ao conteudo desses artigos quanto a diferentes aspectos do ensino de IHC relatados e, por fim, os desafios encontrados nesse processo.
+
+Caracterizacao dos Artigos
+Quanto as origens dos artigos do WEIHC, verificou-se a presenca das cinco regioes do Brasil, fazendo jus ao tema do WEIHC 2021, indicando a representatividade da educacao de IHC de norte a sul do pais. A regiao Sudeste foi a que teve o maior numero de artigos (13), seguido pelas regioes Nordeste (12) e Sul (10). Dentre os Estados, Minas Gerais e Parana foram os que tiveram o maior numero (8 cada), como pode ser visto na Figura 1(a), sendo que este ultimo vem mantendo a sua posicao de destaque desde as primeiras edicoes do WEIHC [Boscarioli et al. 2016]. Ja Minas Gerais e os Estados do Nordeste ampliaram de forma expressiva a sua participacao nos ultimos cinco anos. Por outro lado, a inexistencia ou a baixa participacao de alguns Estados indica a necessidade de uma maior abrangencia geografica desse evento, no sentido de ampliar a consideracao da diversidade cultural no ensino de IHC.
+Quanto aos cursos em que foram utilizadas as estrategias de ensino de IHC mencionadas nos artigos, a grande maioria refere-se a cursos de graduacao na area de Computacao. Dentre esses, destacam-se os cursos de Bacharelado em Sistemas de Informacao (com 15 mencoes), seguido do curso de Bacharelado em Ciencia da Computacao (com 10 mencoes). Alem disso, a grande maioria dos artigos (68,3%) e proveniente de universidades federais.
+Os artigos analisados foram classificados de acordo com os temas mostrados por [Boscarioli et al. 2016], conforme Figura 1(b). Constata-se que Ensino de Design de Interacao e Abordagens pedagogicas em IHC foram os temas mais discutidos (9 artigos cada), seguido de Praticas integradoras com IHC (7 artigos). Comparando com os resultados de [Boscarioli et al. 2016], percebe-se que os temas Ensino de Design de Interacao e Praticas integradoras com IHC se mantiveram ao longo dos 11 anos de WEIHC, enquanto Abordagens pedagogicas em IHC destacou-se apenas nos ultimos 5 anos.
+Quanto ao conteudo de IHC, categorizados de acordo com [Barbosa et al. 2021], Qualidade em IHC (criterios de qualidade de uso, usabilidade, experiencia de usuario e acessibilidade) e Processos e Design de IHC (design de interacao, modelagem de tarefas) foram os mais abordados, com 25 ocorrencias cada, seguidos da Avaliacao da Qualidade de Uso, (avaliacao por inspecao, por observacao e avaliacao heuristica) com 22 ocorrencias.
+
+**ASPECTOS RELACIONADOS AO ENSINO DE IHC**
+
+Os artigos relatam o uso de diferentes metodologias e estrategias de ensino na aborda-
+gem do conteudos de IHC, como pode ser visto na Tabela 1. Como pode-se perceber, a
+Gamificaçao foi a estrategia que apareceu em maior numero nos artigos (8 ocorrencias),
+seguida de Praticas Interdisciplinares (7 ocorrencias) e Aprendizagem Baseada em Pro-
+jetos (5 ocorrencias). Aprendizagem Baseada em Problemas e Atividades extra-classe
+tambem apareceram como estrategias utilizadas pelos docentes (2 ocorrencias cada), alem
+de outras que foram mencionadas de forma isolada, como Catalogo de conteudo online,
+Sala de aula invertida, Aprendizagem Baseada em Equipes, Cartoes de apoio, Debate
+Estruturado, Desenho e musica e Ensino baseado em papeis, dentre outras.
+
+Diferentes ferramentas computacionais, utilizadas como apoio as estrategias de
+ensino e aos conteudos de IHC abordados, foram mencionadas nos artigos analisados,
+como pode ser visto na Tabela 2.
+
+Quanto as estrategias para avaliaçao do conteudo de IHC, a maioria dos artigos
+(com 17 mençoes) adotou o questionario como metodo de coleta de dados para avaliaçao.
+Em seguida, a prova escrita e o debate obtiveram 3 mençoes cada. A avaliaçao por entre-
+vista, relatorios e participaçao ocorreram 2 vezes cada uma. Outros metodos de avaliaçao
+como seminarios, desafios e a observaçao foram relatados isoladamente nos artigos.
+
+Constatou-se que as açoes integradas de IHC direcionadas ao publico externo
+ainda sao poucas. Apenas 10% dos artigos relatam integraçao direta com o mercado de
+trabalho. Esse numero e um pouco maior nas açoes extensionistas, onde 17% dos artigos
+mencionam trabalhos realizados com a comunidade local.
+
+As estrategias para integraçao com o mercado de trabalho envolveram parcerias
+com empresas e participaçao de profissionais em eventos academicos. Em um dos relatos,
+foi estabelecido parceria com uma industria de software que presta serviços a prefeitura
+municipal e os alunos fizeram uma avaliaçao da interface de um sistema de atendimento
+ao cidadao. Em outro relato, os alunos participaram de um evento onde profissionais
+atuantes no mercado que foram convidados, e compartilharam experiencias praticas na
+area de IHC.
+
+As estrategias de integraçao com a extensao envolveram a busca de demandas da
+comunidade local no intuito de desenvolver soluçoes de software que ajudariam a lidar
+com os problemas do cotidiano. As açoes desenvolvidas alcançaram ONGs, uma APAE
+e um Museu. Algumas atividades que beneficiaram a comunidade envolveram questões
+como acessibilidade e inclusao digital, que e um topico importante em IHC. Em algumas situacoes, o conteudo trabalhado na disciplina de IHC era proveniente de demandas locais. Dessa forma, considerando a necessidade de articular a extensao com as disciplinas curriculares, essas estrategias consistem em possıveis caminhos a serem considerados em
+disciplinas de IHC. Os artigos com identificadores3 21, 29, 30, 33, 37, 38 e 39 foram assinalados como referencias de casos bem sucedidos de extensao, principalmente em acoes inclusivas.
+
+**DESAFIOS DO ENSINO DE IHC**
+
+Embora haja varias iniciativas por parte dos docentes para tornar mais efetivo o ensino
+de IHC, envolvendo metodos, estrategias e ferramentas variadas, sao varios os desafios
+com os quais se deparam nesse processo, como: dificuldades relacionadas ao conteudo de
+IHC; implementaçao da interdisciplinaridade; preparaçao de atividades praticas e/ou ga-
+mificadas; necessidade de tratar com maior profundidade topicos de grande importancia
+e impacto social, como a inclusao e acessibilidade em IHC; integraçao do ensino de IHC
+com a extensao e com o mercado de trabalho; falta de formaçao docente especifica em
+IHC; acompanhamento de novas tecnologias que introduzem novos contextos de uso e
+novos requisitos para a construçao de interfaces; predominancia das tecnicas de Engenha-
+ria de Software no desenvolvimento de software em detrimento de tecnicas de IHC; e, por
+fim, a baixa carga horaria de IHC ou sua oferta como disciplina optativa. Vale salientar
+que a integraçao do ensino de IHC com o mercado de trabalho vem sendo um desafio
+recorrente, ja destacado em [Boscarioli et al. 2016].
+
+**CONSIDERAÇOES FINAIS**
+
+Este trabalho trouxe um panorama do ensino de IHC no Brasil dos ultimos 5 anos a
+partir de amostra dos anais do WEIHC, destacando as metodologias/estrategias de ensino,
+ferramentas utilizadas, estrategias de avaliaçao e a integraçao de IHC com a extensao e
+com o mercado de trabalho. Procurou-se ainda indicar os desafios que sao enfrentados no
+ensino de IHC, a partir das questoes vivenciadas e expostas nos artigos analisados, a fim
+de nortear açoes e estrategias para o aprimoramento do ensino de IHC no Brasil.
+
+Verificou-se que ha ainda algumas regioes do Brasil sub-representadas no
+WEIHC, como e o caso do Centro-Oeste e do Norte. Nesse sentido, a fim de am-
+pliar as participaçao de docentes dessas regioes, as chamadas de trabalhos das proximas
+ediçoes poderiam contempla-las de forma especifica, bem como tambem Estados que fo-
+ram pouco ou nao representados ate o momento nos anais desse workshop.
+
+Como trabalho futuro, pretende-se ampliar o escopo de analise do ensino de IHC
+para fora do WEIHC, reunindo informaçoes publicadas em outras fontes nacionais e in-
+ternacionais da area e assim traçar um panorama mais abrangente.
+
+**CONSIDERACOES FINAIS**
+
+Este panorama do ensino de IHC no Brasil, construído a partir dos anais do WEIHC, revela um campo dinâmico e desafiador. A comunidade de IHC tem se mostrado engajada em promover a reflexao sobre as práticas pedagógicas e em buscar soluçoes inovadoras para os desafios enfrentados. Ao compartilhar experiências e conhecimentos, os docentes contribuem para o aprimoramento do ensino de IHC e para a formaçao de profissionais mais capacitados e conscientes do seu papel na sociedade.

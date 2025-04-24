@@ -1,0 +1,48 @@
+O estudo e a aplicaçao de conceitos de Interaçao Humano-Computador (IHC) em programas de Engenharia de Software (ES) sao significativos quando a sociedade exige que aplicaçoes de software mais uteis, acessiveis e agradaveis sejam feitas. No entanto, o ensino de IHC e percebido como uma tarefa desafiadora em um aspecto interdisciplinar. Portanto, este estudo tem como objetivo entender o que os alunos brasileiros de graduaçao em ES estao aprendendo nos cursos de IHC. Para realiza-lo, aplicamos uma metodologia de analise de conteudo em 21 ementas distintas de 15 universidades, o que resultou na categorizaçao de 28 topicos de ensino. O resultado deste trabalho nos permite visualizar os conceitos de IHC mais vistos em programas brasileiros de ES: Design, Estilos e Paradigmas de Interaçao, Avaliaçao de Sistemas e Usabilidade. Alem disso, apresentamos discussoes relacionadas ao conhecimento de IHC que esta sendo oferecido em programas de graduaçao em ES.
+
+
+**INTRODUCAO**
+
+O conhecimento de Interaçao Humano-Computador (IHC) e conhecido por seu efeito direto na qualidade em uso e, consequentemente, sua importancia para o usuario final. O campo de IHC tem algumas peculiaridades, uma delas e que IHC e um campo interdisciplinar que envolve cursos distintos, como Psicologia Cognitiva, Design Grafico, Ergonomia, Ciencia da Computaçao, entre outros . Devido ao fato de que IHC e um campo amplo, e importante investigar quais conteudos de conhecimento estao sendo expostos aos alunos.
+
+O ensino de IHC no Brasil tem sido estudado ao longo dos anos ; no entanto, pelo melhor de nosso conhecimento, nenhum dos trabalhos apresentados tem foco na investigaçao de como as universidades brasileiras ensinam IHC em programas de ES. Assim, o objetivo principal deste trabalho e apresentar o cenario de quais disciplinas relacionadas ao campo de IHC sao ensinadas em universidades brasileiras em programas de graduaçao em ES. Para consegui-lo, uma metodologia de analise de conteudo foi utilizada .
+
+**PROCESSO DE PESQUISA E CONDUÇAO**
+
+Este estudo e baseado em pesquisa documental  e analise de conteudo . Esta seçao tem como objetivo apresentar uma visao geral da metodologia de Analise de Conteudo realizada, que e composta por 5 etapas: Preparaçao; Unitizaçao; Categorizaçao; Descriçao; e Interpretaçao.
+
+Para realizar este estudo, mapeamos as Universidades Brasileiras publicas e privadas com programas de Engenharia de Software. A busca foi realizada no Instituto Nacional de Estudos e Pesquisas Educacionais "Anisio Teixeira" (INEP). Um total de 33 universidades com programas de ES foram encontradas. Das 13 universidades publicas, tivemos acesso a 12 curriculos; das 20 universidades privadas, tivemos acesso a 5 curriculos.
+
+A etapa de Preparaçao envolve encontrar os dados que melhor representam o assunto investigado. Para realizar isto, os 17 curriculos encontrados foram lidos, e 21 cursos relacionados a IHC foram reunidos: 18 cursos obrigatorios e 3 cursos eletivos.
+
+Apos preparar todos os dados necessarios para realizar o objetivo da pesquisa, realizamos a etapa de Unitizaçao. Os dados anteriores foram profundamente inspecionados e transformados em unidades de conteudo, a fim de serem categorizados e analisados posteriormente. Este processo foi executado em todos os 21 cursos e gerou 324 unidades.
+
+A categorizaçao e utilizada para agrupar as unidades com base em criterios de categorizaçao especificos - conteudo semantico das unidades. Alem disso, criterios de qualidade sao estabelecidos : (a) as categorias devem ser homogeneas, mutuamente exclusivas e exaustivas; (b) os criterios de categorizaçao devem permanecer os mesmos durante a categorizaçao; e (c) as categorias devem ser significativas e uteis para os objetivos da pesquisa. Esta etapa produziu 28 categorias.
+
+A descriçao envolve nomear as categorias de acordo com as unidades pertencentes a elas e realizar analises descritivas. A Tabela 1 apresenta as informaçoes relacionadas a quantidade de universidades, cursos e unidades em cada uma das categorias (as colunas da tabela mostram os nomes das categorias criadas na etapa de categorizaçao, total de universidades relacionadas as categorias¹; totalidade de cursos relacionados as categorias, e totalidade de unidades pertencentes a cada uma das categorias).
+
+A etapa final da analise de conteudo, Interpretaçao, e conhecida pela atividade de compreender os dados categorizados. Os dados expostos na Tabela 1 foram analisados e interpretados².
+
+**DISCUSSAO**
+
+Com base nas categorias emergentes e na analise de conteudo como um todo, levantamos alguns topicos sobre o ensino de IHC em ES para serem discutidos com a comunidade brasileira de IHC.
+
+Areas abordadas recentemente nos curriculos. Algumas categorias representam tecnologias com avanços recentes, por exemplo, "Tecnologias Moveis" e "Realidade Virtual"; portanto, essas categorias podem nao ser compostas por uma grande quantidade de unidades porque algumas universidades nao as incorporaram ao curriculo.
+
+Faça isso! As categorias com a maior quantidade de unidades tendem a ser mais praticas do que teoricas (por exemplo, "Design" e "Avaliaçao de Sistemas") ou a expor conhecimentos altamente relacionados a ambientes praticos (por exemplo, "Estilos e Paradigmas de Interaçao" e "Usabilidade"). Isto pode ocorrer porque os programas de ES tendem a trabalhar com metodologias praticas em vez de abordagens teoricas. No entanto, a categoria "Desenvolvimento", que esta extremamente relacionada a tarefas praticas, nao participa deste aspecto. Uma possivel razao e que os programas de ES tendem a distribuir o desenvolvimento de software atraves dos curriculos e alguns programas de ES tem ambientes especificos para praticas de desenvolvimento.
+A fim de propor uma visualizaçao mais amigavel dos dados, uma imagem WordCloud foi projetada. A imagem e carregada em https://ibb.co/nrGfOJ
+O programa de ES da Universidade Federal de Pampa e da Pontificia Universidade Catolica do Rio Grande do Sul utilizam cursos de resoluçao de problemas e Agencia Experimental de ES para praticas de desenvolvimento.
+
+Especializaçao do professor. Em alguns casos, um assunto especifico e profundamente estudado em um programa de ES por causa do campo do professor. Assim, algumas categorias tem um numero significativo de unidades conectadas a poucas universidades. Exemplos disto sao as categorias "Experiencia do Usuario" e "Evoluçao Historica": estas categorias tem respectivamente 9 e 7 unidades que estao conectadas a apenas 3 e 2 universidades distintas.
+
+Minha interface e boa? Uma das descobertas mais apreciativas e que o conhecimento relacionado a planejar, executar e analisar como avaliar um software e significativamente estudado em programas brasileiros de ES. Como pode ser visto na Tabela 1, a categoria "Avaliaçao de Sistemas" esta em uma posiçao alta. Outras categorias, como "Usabilidade", "Acessibilidade" e "Web e Multimidia", tambem tem unidades que incluem a palavra-chave avaliaçao, levando a um total de 37 unidades de avaliaçao.
+
+**CONCLUSAO E TRABALHO FUTURO**
+
+Com o objetivo de fornecer o primeiro cenario do que os cursos brasileiros de IHC ensinam em programas de ES, investigamos universidades brasileiras e aplicamos uma metodologia de analise de conteudo nos curriculos encontrados. O ensino de IHC ja foi estudado por Silveira e Prates , resultando em uma proposta de recomendaçoes de programa generico, e por Boscarioli et alli . No entanto, o estudo do ensino de IHC em programas de graduaçao em ES e um topico recente de conhecimento; portanto, nosso trabalho e pioneiro no campo do ensino de IHC neste contexto.
+
+Para trabalhos futuros, seria instigante investigar topicos de IHC em cursos nao relacionados a IHC (uma vez que os cursos dos programas de ES tendem a ser interdisciplinares) e se ha tendencias regionais na maneira como os programas de ES conduzem o conhecimento de IHC.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo pioneiro sobre os curriculos de IHC em programas de Engenharia de Software no Brasil revela a importancia crescente dada a interaçao humano-computador na formaçao de engenheiros de software. A analise dos curriculos permitiu identificar os topicos mais abordados e as areas que merecem mais atençao. Os resultados deste trabalho podem auxiliar as instituicoes de ensino a aprimorar seus programas, garantindo que os futuros profissionais de ES estejam preparados para criar sistemas mais usaveis, acessiveis e centrados no usuario.

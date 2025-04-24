@@ -1,0 +1,161 @@
+**INTRODUCAO**
+
+A definiçao de uma diretriz de requisitos, que seja capaz de
+garantir a usabilidade adequada em aplicaçoes moveis quando
+sao utilizadas por individuos com deficiencia, nao foi claramente
+definida na literatura. Assim, nossa pesquisa aplicou o
+processo ilustrado na Figura 1 para especificar e validar uma nova
+diretriz chamada GUAMA . Este processo tem quatro etapas. A
+Revisao da Literatura sobre requisitos visava identificar e
+caracterizar os principais requisitos de acessibilidade que sao
+discutidos pela literatura tecnica e cientifica atual, em relaçao
+a plataforma movel. Esses requisitos compuseram a primeira
+versao da diretriz (Gv). A Analise Baseada em Observaçao foi
+utilizada principalmente para coletar informaçoes sobre
+requisitos de usuarios reais, para que nossa diretriz inicial
+(Gv) pudesse ser validada e evoluida para (Gv). O objetivo da
+Avaliaçao Centrada no Usuario foi um prototipo de aplicaçao
+movel para gestao financeira, cujo desenvolvimento considerou
+os principais requisitos identificados em Gv. Esta aplicaçao foi
+avaliada por voluntarios com deficiencia visual e as conclusoes
+desta etapa auxiliaram na especificaçao de uma nova versao Gv.
+Este artigo, em particular, esta focado na Etapa 4, cujo principal
+objetivo foi revisar e gerar uma nova versao (Gv) da diretriz,
+com base na experiencia adquirida com o desenvolvimento de uma
+aplicaçao marcada real.
+
+Nosso objeto de estudo e o Controle Facil (Easy Control), uma
+aplicaçao movel cuja funçao e dar suporte ao controle de
+despesas realizadas com cartoes de credito e debito. Seu
+desenvolvimento foi baseado nos requisitos definidos em
+Gv e foi avaliado por 10 voluntarios com diferentes perfis,
+em relaçao a deficiencia e niveis educacionais.
+
+A mesma sessao de avaliaçao foi aplicada a cada voluntario.
+Primeiro, uma breve descriçao e os objetivos do projeto foram
+apresentados, bem como o metodo de avaliaçao. Apos isso, um
+termo de consentimento foi atribuido e a sessao pode começar com
+um breve bate-papo "para relaxar" os voluntarios antes da
+avaliaçao. A proxima etapa foi a execuçao de 12 atividades, que
+foram: AT01 - Aceitar os termos legais de uso, AT02 - Decidir
+registrar um usuario, AT03 - Registrar um cartao, AT04 -
+Registrar manualmente uma despesa (x2), AT05 - Editar um
+cartao, AT06 - Registrar um usuario (email e senha), AT07 -
+Login (email e senha ja cadastrados), AT08 - Registrar despesa
+via SMS (x2), AT09 - Acessar informaçoes do grafico historico,
+AT10 - Acessar informaçoes do grafico de categorias, AT11 -
+Filtrar despesas por periodo e, AT12 - Remover despesas ja
+cadastradas. Finalmente, uma entrevista individual gravada em
+audio foi realizada individualmente apos a conclusao de todas as
+doze atividades. Estas perguntas foram divididas em tres blocos.
+O primeiro bloco esta relacionado com a satisfaçao dos usuarios
+em relaçao a acessibilidade da aplicaçao (ex. como voce avalia
+a acessibilidade desta aplicaçao?). O segundo bloco esta
+associado com a facilidade de uso ou usabilidade (ex. houve
+alguma situaçao em que voce teve problemas em usar a aplicaçao
+ao longo das tarefas? Voce poderia descrever esta situaçao?). O
+ultimo bloco esta associado com o feedback e as informaçoes
+recebidas da aplicaçao (ex. como voce avalia os feedbacks
+fornecidos pelo TalkBack/Voice-Assistant juntamente com o uso
+da aplicaçao?). A consolidaçao e analise dos resultados foram
+baseadas em: taxa de completude (mede se os usuarios foram
+capazes de completar as tarefas), tempo de conclusao (tempo
+medio que os voluntarios gastaram para completar a tarefa) e
+erros/problemas (descriçao de erros ou problemas que ocorreram
+ao longo da interaçao com cada uma das atividades propostas).
+
+**RESULTADOS E LIÇOES APRENDIDAS**
+
+A principal contribuiçao deste trabalho foi mostrar a
+importancia e a logica da implementaçao dos requisitos
+GUAMA . Por exemplo, considere o decimo primeiro
+requisito da GUAMA e como ele foi analisado: R11 Os rotulos
+dos componentes e as telas com itens sequenciais e/ou paginados
+devem informar o intervalo que esta sendo mostrado e o numero
+total de itens. Juntamente com os experimentos, observamos que
+usuarios com deficiencia visual navegam ao longo da interface
+apoiados pelo feedback que recebem quando tocam nos
+componentes. No entanto, interfaces que possuem paginas
+apresentam um tipo diferente de navegaçao. Neste caso, os
+usuarios precisam saber a pagina em que estao e o numero total de
+paginas, para que eles possam ter uma melhor ideia de posiçao e
+tempo para concluir a navegaçao. Por exemplo, "Pagina 01 de
+03"; "Item 1 de 5"; "SMS 1 de 4". Este conceito de pagina e
+amplo e tambem pode ser usado em telas com diversas abas, onde
+o sistema deve ler a informaçao "Aba 1 de 5" se os usuarios
+acessarem a primeira aba de uma tela com 5 abas. Este simples
+requisito da a noçao do espaço que ainda pode ser explorado.
+
+Enquanto podiamos observar a importancia de alguns
+requisitos por meio de seus efeitos nas interaçoes usuario-
+smartphone; a importancia de outros requisitos pode ser
+demonstrada pela falta de sua implementaçao. Por exemplo: R28
+O teclado usado pela aplicaçao deve ser compativel com o
+contexto do campo. A falta da implementaçao deste requisito
+gerou diversos problemas ao longo das interaçoes. Em campos
+de texto de moeda, o teclado nao estava apresentando o simbolo
+de virgula, para que os usuarios pudessem inserir com os centavos
+do valor. Na verdade, o campo de texto ja possuia uma mascara
+(0,00) para isso. No entanto, esta informaçao nao foi reportada
+aos usuarios. Assim, devemos ter um teclado com teclas que sejam
+compativeis com o campo de contexto (ex. "Virgula" em vez de
+"ponto" no teclado numerico para a lingua portuguesa).
+
+O desempenho das 12 atividades tambem demonstrou a
+importancia dos requisitos, ja que eles deram suporte a
+conclusao de tais atividades pelos voluntarios. Em ordem,
+apenas uma atividade (AT11) nao foi facilmente concluida e seu
+nivel de dificuldade foi considerado dificil por 90% dos
+voluntarios. A principal razao foi o proprio conceito de
+filtragem de informaçao e menu de contexto, que eram novos para
+diversos voluntarios. Assim, eles tiveram problemas para preencher
+os campos requeridos, que sao na verdade um conjunto de criterios
+de busca. Por exemplo, uma busca restrita por um periodo de tempo
+requer a inserçao de datas inicial e final nos respectivos campos.
+No entanto, isso nao e obvio se a estrutura da tela nao pode ser
+vista. Os usuarios podem entender melhor esta e outras novas
+funçoes se a aplicaçao fornecer exemplos audiveis de como
+usa-las. Analises como essa foram importantes para dar suporte a
+evoluçao da diretriz.
+
+Finalmente, a entrevista enfatizou alguns aspectos importantes.
+A pontuaçao media atribuida ao Controle Facil pelos
+voluntarios foi 9,0 em uma escala de 0 a 10 (min=8,0,
+max=9,5). Coletamos respostas como: "Eu acho que a aplicaçao
+e totalmente acessivel. Eu nao conheço outras
+aplicaçoes que sejam TAO acessiveis" (V01); "A
+acessibilidade e muito boa e a aplicaçao da diversos
+feedbacks importantes. No entanto, poderia dar alguns outros
+feedbacks que tambem sao importantes, tal como a quantidade
+atual de caracteres que foram inseridos quando o campo de texto
+possui um limite" (V02); "Boa aplicaçao. E diferente de
+outras que sao exclusivas para usuarios com deficiencia visual.
+Por exemplo, esta nao tem a opçao de colocar rotulos nos
+botoes" (V03); "E muito bom. Poderia ser perfeito se o
+processo de filtragem fosse mais facil de usar" (V05); "A
+informaçao e muito boa nesta aplicaçao. Elas sao claras e esta
+foi uma das principais vantagens desta aplicaçao". Essas
+respostas foram muito motivadoras, principalmente a resposta de
+V01 que possui uma maior experiencia com aplicaçoes acessiveis (5
+anos) e considerou o Controle Facil como a aplicaçao mais
+acessivel que ele conhece.
+
+**CONCLUSAO**
+
+Os experimentos mostraram que nossa diretriz foi capaz de
+dar suporte a uma equipe de desenvolvimento na criaçao de uma
+aplicaçao acessivel, que teve um feedback muito positivo de
+voluntarios nos testes. Isso significa que atendeu as suas
+necessidades e desejos. As liçoes aprendidas desta experiencia
+foram tambem importantes. Por exemplo, os voluntarios
+enfrentaram alguns problemas com o uso de funçoes, tais como
+filtragem e busca de informaçoes, que devem ser repensadas
+quando aplicadas a usuarios com deficiencia visual. Em ordem,
+a implementaçao de qualquer funçao "nao tradicional" deve ser
+desenhada juntamente com formas de auxiliar seu entendimento
+por tal grupo de usuarios. Mais detalhes sobre este trabalho podem
+ser acessados em .
+
+**CONSIDERACOES FINAIS**
+
+Em suma, o projeto destaca a relevancia de diretrizes bem definidas e centradas no usuario para garantir a acessibilidade de aplicaçoes moveis para pessoas com deficiencia visual. Os resultados obtidos demonstram que a aplicaçao Controle Facil, desenvolvida com base na diretriz GUAMA, obteve um feedback positivo dos usuarios, indicando que a diretriz foi eficaz em atender as suas necessidades. As liçoes aprendidas durante o processo de desenvolvimento e avaliaçao da aplicaçao podem ser valiosas para futuras pesquisas e projetos na area de acessibilidade movel.

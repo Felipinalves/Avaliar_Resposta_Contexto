@@ -1,0 +1,177 @@
+**RESUMO**
+
+O Pensamento Computacional diz respeito a habilidade de
+resolver problemas, desenhar sistemas e compreender o
+comportamento humano com base em conceitos da Ciencia da
+Computaçao. Dentro desse contexto, desenvolveu-se uma
+plataforma para o ensino do Pensamento Computacional para
+crianças de ensino fundamental, anos iniciais, com caracteristicas
+de gamificaçao, denominada Furbot. Acontece que, a partir de
+estudos praticos com a plataforma, viu-se que a mesma nao atrai
+tanto as crianças quanto os propriamente ditos jogos de
+computador. Dessa forma, foi realizado uma interaçao por meio
+do game design para a refatoraçao da plataforma afim de torna-la
+um jogo atraente para o publico alvo, sendo que nao perca suas
+caracteristicas de ensinar o pensamento computacional. O game
+design ocorreu com a participaçao da equipe de desenvolvimento
+e de desenho durante 2 meses tendo como resultado um
+documento denominado game design treatment que contempla
+todas as caracteristicas que o novo jogo deve assumir, bem como
+a formalizaçao dos personagens e suas jogabilidades.
+
+**1 DESCRIÇAO DO PROBLEMA**
+
+Segundo Brackmann  “O Pensamento Computacional e
+uma distinta capacidade criativa, critica e estrategica humana de
+saber utilizar os fundamentos da Computaçao nas mais diversas
+areas do conhecimento, com a finalidade de identificar e resolver
+problemas colaborativamente atraves de passos claros de tal forma
+que uma pessoa ou uma maquina possam executa-los
+eficazmente". Nesse contexto, adaptou-se um framework
+denominado Furbot para uma plataforma em forma de um jogo
+para introduzir conceitos do Pensamento Computacional para
+crianças de ensino fundamental, anos iniciais.
+
+A plataforma Furbot foi utilizada em oficinas com crianças de
+07 a 11 anos durante os anos de 2017 e 2018, sendo que ao longo
+desses dois anos sofreu adaptaçoes conforme as praticas eram
+realizadas . As oficinas ocorreriam semanalmente ou
+quinzenalmente, de acordo com o grupo a ser trabalhado, durante
+uma hora, na qual as crianças praticavam a programaçao por meio
+da plataforma, solucionando os desafios apresentados . Como
+criterio de gamificaçao, a plataforma possui niveis de dificuldade,
+sendo que cada nivel possui varias fases com missoes a serem
+resolvidas. Ainda, conforme a resoluçao, o jogador recebe pontos
+que sao acumulados e apresentados ao completar cada missao.
+
+Acontece que, apos os dois anos de experimentaçao em
+campo, percebeu-se que os jogos de video game e de computador
+atraem mais as crianças do que jogos com objetivos pedagogicos,
+como o caso da plataforma que introduz o pensamento
+computacional. Deste modo, tem-se o desafio de transformar a
+plataforma atual do Furbot em um jogo atrativo para o publico
+alvo de forma que nao perca suas caracteristicas de ensino-
+aprendizagem, mas que receba mais caracteristicas relacionadas a
+gamificaçao e a jogabilidade relacionado a jogos de computador.
+
+As seguintes seçoes descrevem a abordagem adotada para a
+aplicaçao do metodo, bem como os resultados alcançados. Por
+fim, sao realizadas reflexoes a respeito da aplicaçao e conclui-se o
+artigo.
+
+**2 ABORDAGEM ADOTADA**
+
+Para a realizaçao do design da nova interface do Furbot,
+aplicou-se tecnicas do game design. Segundo Adams e Rollings
+, a principal funçao do game design e definir o modo que um
+jogo funciona, descrevendo seus elementos e informaçoes para a
+equipe que desenvolvera o jogo.
+
+Para a realizaçao do game design utilizou-se a metodologia
+indicada por Adams e Rollings  que e centrada no jogador.
+Essa metodologia define que o designer cria um jogador
+imaginario e responde questoes relacionadas ao design do jogo
+como se fosse esse jogador. Os autores afirmam que nessa
+abordagem e importante que quem esta projetando o jogo
+realmente pense como o jogador que jogara o jogo, levantando os
+aspectos que gostaria de utilizar durante seu entretenimento.
+
+A metodologia foi aplicada junto a equipe de
+desenvolvimento e de design, no qual cada membro se colocou no
+lugar do jogador, visto que todos os presentes acompanharam as
+crianças utilizando a versao anterior da plataforma, sabendo de
+suas carencias e anseios. Antes de iniciar as reunioes de game
+design cada participante esboçou suas ideias a partir de um
+jogador imaginario, informando seu perfil como jogador e quais
+funcionalidades o jogo nao poderia deixar de fornecer. Alem
+disso, indicou-se como esperava-se a aparencia do jogo.
+
+Seguindo o processo do game design ocorreram reunioes
+durante aproximadamente duas semanas para a concepçao do
+novo jogo baseado na plataforma anterior, a elaboraçao do projeto
+e o detalhamento do mesmo. A partir das ideias esboçadas
+anteriormente por cada membro da equipe, pode-se guiar com
+maior facilidade as reunioes, de modo que as informaçoes de cada
+um eram compartilhadas e discutidas com a equipe.
+
+Para guiar cada uma das etapas, utilizou-se um modelo de
+High Concept e Game Treatment. O High Concept do jogo e o
+documento que descreve de forma breve conceitos importantes do
+jogo como: motivaçao do jogo, genero, tipo de licença, forma de
+competiçao, pontos, requisitos de hardware e objetivos do jogo
+. Ja o Game Treatment define de forma mais especifica
+conceitos do design do jogo, como: narrativa, personagens,
+historia, gatilhos, jogabilidade, entre outros aspectos .
+
+**3 RESULTADOS**
+
+Apos as duas semanas de reuniao com toda a equipe envolvida,
+obteve-se uma concepçao a respeito de como sera a nova
+plataforma a ser desenvolvida. Decidiu-se que ela tera a mesma
+representatividade do Furbot em relaçao aos seus personagens
+principais e comandos de programaçao a serem utilizados, porem,
+entre uma fase e outra terao mini jogos que nao se referem ao
+aprendizado da programaçao, sendo uma distraçao para o jogador.
+
+Como genero, optou-se por criar um jogo de aventura e ficçao
+em 2D, linear e sequencial, baseado em niveis. Alem do tema
+aventureiro, o intuito disto e o ensino do pensamento
+computacional, logica de programaçao e conhecimentos gerais de
+maneira imperceptivel.
+
+Ainda, o jogo passou a ter um enredo resultante das reunioes
+de game design, bem como a ter novos personagens. Toda a
+jogabilidade foi definida, assim como a forma de pontuaçao e
+outras features necessarias para um jogo ser divertido e atraente.
+
+De forma geral, apos a finalizaçao das reunioes, obteve-se
+como resultado os documentos do high concept e game treatment
+que servirao de fundamento para o desenvolvimento da nova
+plataforma do Furbot. Graças a estruturaçao desses documentos e
+da aplicaçao do game design pode-se estruturar todas as
+caracteristicas essenciais de um jogo, conforme mencionado
+anteriormente. Ainda, a aplicaçao das tecnicas fez com que a
+equipe pode tomar decisoes a respeito do que espera do jogo, ao
+inves de receber um conceito pronto a ser desenvolvido.
+
+**4 REFLEXAO**
+
+A partir da abordagem utilizada para a definiçao da nova versao
+do jogo, percebeu-se que o uso dos metodos e dos documentos fez
+com que a equipe de desenvolvimento e design pensasse como
+jogador da plataforma, permitindo assim com que funcionalidades
+mais atrativas fossem projetadas.
+
+Por meio da estruturaçao dos documentos de high concept e
+game treatment foi mais facil guiar o time para realizar os
+questionamentos e reflexoes necessarias para a concepçao do
+jogo. Algumas das questoes nao seriam pensadas caso nao
+existisse esse modelo, fazendo com que talvez, no futuro, a
+informaçao aparecesse e boa parte do design tivesse que ser
+alterada novamente.
+
+**CONCLUSAO**
+
+A partir da aplicaçao dos conceitos e tecnicas de Game Design e
+dos modelos de high concept e game treatment obteve-se as novas
+definiçoes da plataforma Furbot, buscando maior jogabilidade e
+atratividade para as crianças que a jogarao.
+
+Por meio desses documentos, pode-se obter uma definiçao
+clara de como sera o jogo, alem da definiçao a respeito dos
+personagens e seus respectivos comportamentos. O enredo
+produzido, bem como essas caracteristicas levantadas, permitira
+que a equipe de desenvolvimento consiga estruturar o
+desenvolvimento do jogo de modo a disponibilizar modulos ou
+fases jogaveis por etapas. Ainda, para a equipe de design, ficara
+mais facil o desenho e projeçao dos personagens e dos cenarios do
+jogo, pois por tras dos mesmos ha a definiçao de comportamento e
+a propria historia do jogo.
+
+Desse modo, conclui-se que aplicar essas caracteristicas na
+concepçao de um jogo facilita o desenvolvimento e tende a tornar
+o jogo mais atrativo e com boa jogabilidade.
+
+**CONSIDERACOES FINAIS**
+
+A aplicaçao do game design na refatoraçao da plataforma Furbot, com foco no pensamento computacional, demonstrou ser uma abordagem promissora para tornar o aprendizado mais atraente e envolvente para as crianças. Ao estruturar os elementos do jogo com base nos principios do game design, foi possivel criar um ambiente mais motivador e divertido, incentivando a exploraçao e a experimentaçao. Acreditamos que essa abordagem possa ser aplicada em outros contextos educacionais, contribuindo para o desenvolvimento do pensamento computacional de forma ludica e eficaz.

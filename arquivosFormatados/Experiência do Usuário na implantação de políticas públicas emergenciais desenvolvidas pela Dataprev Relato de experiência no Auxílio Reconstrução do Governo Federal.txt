@@ -1,0 +1,97 @@
+Este relato descreve o processo de criaçao do time de experiencia do
+usuario (UX User Experience) da Dataprev, nos portais do Auxilio
+Reconstruçao, apoio financeiro destinado a populaçao do Rio Grande do Sul,
+instituido pelo Ministerio da Integraçao e Desenvolvimento Regional em
+resposta as chuvas e enchentes de maio de 2024. O relato tambem aborda o
+monitoramento e as licoes aprendidas.
+
+**1. Calamidade no Rio Grande do Sul e o Auxilio Reconstruçao**
+
+Devido as chuvas e enchentes que ocorreram em maio de 2024 no Rio Grande do Sul, o
+Governo Federal decretou estado de calamidade no estado . Apos
+isso, o Ministerio de Integraçao e Desenvolvimento Regional (MIDR), atraves da
+Medida Provisoria n. 1.219/2024, publicou o apoio financeiro com pagamento de uma
+parcela unica no valor de R$ 5.100,00 (cinco mil e cem reais) para familias desalojadas
+ou desabrigadas, chamado Auxilio Reconstruçao . Este relato descreve
+como o time de experiencia do usuario (UX - User Experience) da Dataprev, alocado no
+projeto, utilizou os conceitos de Interaçao Humano-Computador (IHC) no processo de
+criaçao dos portais envolvidos no auxilio.
+
+Um dos desafios encontrados para implementar o Auxilio Reconstruçao foi
+verificar quais endereços e familias se enquadrariam nos criterios de aprovaçao. Foi
+definido que as prefeituras seriam responsaveis por esse cadastro. A Dataprev realizaria
+o processamento dos dados verificando se os criterios para recebimento do Auxilio
+estavam sendo atendidos. E, os cidadaos confirmariam as informaçoes, apos o periodo
+de cinco dias dado as prefeituras para iniciarem os cadastros.
+
+**2. Soluçao adotada**
+
+Dada a situaçao emergencial, o portal onde as prefeituras realizariam os cadastros
+precisaria ser disponibilizado em 22/05/2024, totalizando um prazo de desenvolvimento
+de 5 dias corridos. Por isso, foram selecionados dois sistemas-base previamente
+utilizados em beneficios emergenciais. A escolha permitiu reduzir o periodo de
+desenvolvimento, e utilizar jornadas de usuario que o publico-alvo ja havia utilizado
+anteriormente: i) o portal do beneficio TAC-Taxista (desenvolvido no segundo
+semestre de 2022), para o portal a ser utilizado pelas prefeituras; ii) a ultima versao da
+plataforma do Bolsa Verde (desenvolvida em 2023), a ser utilizado pelos cidadaos.
+
+**2.1. Minimo Produto Viavel**
+
+O Minimo Produto Viavel (Minimum Viable Product MVP) definido consistia em:
+
+Portal da Prefeitura O representante da prefeitura (publico-alvo), cadastra 2
+tipos de arquivos, um com as areas afetadas e outro com as familias desalojadas
+ou desabrigadas;
+Portal para o Cidadao O representante da familia visualiza os dados da sua
+familia, cadastrada pela prefeitura, e confirma a solicitaçao.
+
+**2.2. Metodo adotado**
+
+No desenvolvimento de sistemas complexos e unicos, De Oliveira e De Sousa (2023)
+envolvem o designer de experiencia do usuario em todas as etapas para facilitar a sua
+compreensao dos requisitos, das regras de negocio e a criaçao dos prototipos alinhados
+com as necessidades do usuario. Os times de requisitos, desenvolvimento e experiencia
+do usuario envolvidos no projeto realizaram alinhamento sobre as regras descritas na
+Medida Provisoria n. 1.219/2024, fluxos do usuario e restriçoes dos sistemas-base.
+
+O processo de criaçao adotado pelo time de UX foi adaptado de Council (2014)
+e Oliveira e Palhanos (2023) consistia em quatro macro-etapas: i) definiçao; ii) ideaçao,
+iii) prototipaçao; e iv) validaçao. Na definiçao foram estabelecidas proto-personas para
+compreender o contexto dos usuarios e realizada uma Matriz de Certezas, Duvidas e
+Suposiçoes (Matriz CSD). Na ideaçao foram gerados fluxos dos usuarios e refinadas as
+informaçoes a serem exibidas. Para manter a identidade visual do governo federal e
+permitir agilidade foi adotado o design system do gov.br. Alem dos prototipos dos
+portais, foi elaborado proposta para o hotsite do Auxilio Reconstruçao, apos 8 horas do
+inicio do projeto, os prototipos foram validados com a equipe da Dataprev e do MIDR.
+
+**3. Refinamento e entrega**
+
+Com os prototipos aprovados, o time de desenvolvimento iniciou a codificaçao, e o time
+de design o refinamento dos prototipos. Foram revisadas terminologias baseando-se na
+Linguagem Simples [Oliveira e Cappelli 2024]. No Portal da Prefeitura, foram
+disponibilizados arquivos-modelo e orientaçoes sobre como corrigir eventuais erros.
+
+No Portal do Cidadao as familias verificavam a solicitaçao cadastrada pela
+prefeitura e eram orientados, de acordo com cada situaçao, o que deveria ser realizado.
+Para que os usuarios soubessem diferenciar os estados de uma solicitaçao, foi definida uma arquitetura da informacao padrao que variava de acordo com cada resultado nao cadastrado aprovado reprovado cancelado Na Figura 1 apresentase a estrutura com cores titulo com icones descricao imagens e texto de apoio No fluxo de solicitacoes nao cadastradas os cidadaos verificavam o passo a passo para realizar o cadastro No fluxo de solicitacoes reprovadas visualizavam quais criterios nao foram obedecidos Quando habilitados para receber o auxilio os cidadaos clicavam que desejavam confirmar a solicitacao Figura 2 Conferiam se as informacoes do cadastro realizado pela prefeitura estavam corretas Caso estivesse incorreto informava o erro e cancelava a solicitacao Com o cadastro correto o usuario avancava para a segunda e ultima etapa onde marcava o termo de declaracao
+
+Em paralelo ao refinamento dos portais a proposta do hotsite foi repassada para a equipe de comunicacao do MIDR que adotou o design proposto tornandoo o meio de divulgacao e disponibilização das areas de login dos portais4 Para nao comprometer a entrega final o time de UX realizou alinhamentos com a area de requisitos e o time de desenvolvimento para avaliar a viabilidade de cada modificacao
+
+O Portal do Cidadao foi disponibilizado para populacao dia 27 de maio de 2024 o time de UX monitorou as postagens sobre o Auxilio Reconstrucao no Instagram do MIDR Nas primeiras horas apos a publicacao os comentarios estavam relacionados a falta de cadastro das familias No entanto ao passar das horas os proprios cidadaos comecaram a orientar mutualmente sobre o que deveriam realizar para terem seus cadastros na plataforma O movimento de reclamacao compreensao e orientacao deixou o time satisfeito visto que as explicacoes dadas na plataforma estavam permitindo que a populacao compreendesse e disseminasse as informacoes de forma organica No dia 30 de maio de 2024 tres dias apos a disponibilização do Portal do Cidadao o primeiro lote de pagamento do Auxilio Reconstrucao foi repassado para 34196 familias afetadas pelas enchentes [Brasil 2024b]
+
+
+**4. Liçoes aprendidas**
+
+Os desafios estavam relacionados ao curto periodo para realizar pesquisas com os
+usuarios, definir a estrutura dos fluxos e proporcionar a melhor experiencia com os
+recursos disponiveis. No entanto, esses desafios foram vencidos com a experiencia
+adquirida em beneficios anteriores, como o Auxilio TAC-Taxista e o Bolsa Verde (que
+serviram como sistema-base), e o Auxilio Emergencial da pandemia de COVID-19. A
+comunicaçao e as reunioes entre os times permitiram que tudo fluisse dentro do tempo
+estipulado. Todo o processo se mostrou um grande aprendizado sobre a importancia de
+manter a comunicaçao aberta com os desenvolvedores e aprender a reutilizar sistemas
+similares para economizar tempo no desenvolvimento.
+
+**CONSIDERACOES FINAIS**
+
+Este relato de experiencia destaca a importancia da criaçao de um time de experiencia do usuario (UX) para o desenvolvimento de soluçoes rapidas e eficientes em situaçoes de emergencia. A reutilizaçao de sistemas existentes e a manutençao da comunicaçao entre os times foram essenciais para o sucesso do projeto Auxilio Reconstruçao, permitindo que a populaçao afetada recebesse o apoio financeiro de forma rapida e organizada.

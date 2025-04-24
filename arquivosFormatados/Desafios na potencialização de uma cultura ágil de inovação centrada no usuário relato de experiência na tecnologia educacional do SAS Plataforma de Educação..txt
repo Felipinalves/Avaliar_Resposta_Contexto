@@ -1,0 +1,176 @@
+**RESUMO**
+
+Este artigo apresenta o relato dos principais desafios
+culturais, organizacionais e tecnicos enfrentados pelo setor
+de Tecnologia Educacional da empresa SAS Plataforma de
+Educaçao na potencializaçao de uma cultura agil de inovaçao
+centrada no usuario. Tendo raizes no mercado editorial, hoje
+a empresa posiciona a Tecnologia Educacional como um dos
+pilares de valor para seus clientes de todo o Brasil. Para alem
+da visao de ser a melhor plataforma de educaçao do pais, o
+setor de tecnologia tem como objetivo contribuir com o
+desenvolvimento da comunidade local de profissionais,
+como refletido nas intervençoes realizadas no setor durante
+o primeiro semestre de 2018 frente aos desafios levantados.
+
+
+**INTRODUCAO**
+
+O SAS Plataforma de Educaçao e uma empresa privada
+sediada em Fortaleza, Ceara, que oferece conteudo didatico,
+consultoria pedagogica e tecnologia educacional para mais
+de 700 escolas e 230 mil alunos, da educaçao infantil ao
+Ensino Medio, espalhados por todo o Brasil.
+
+Fundada em 2004, o Sistema Ari de Sa posicionava-se no
+mercado editorial oferecendo material didatico e serviços de
+consultoria para escolas de todo o Brasil. No seu portfolio de
+produtos estava o Sistema de Avaliaçao, oferecendo
+avaliaçoes, relatorios diagnosticos e plano de estudos digitais
+com conteudo baseado no desempenho dos estudantes. Nesse
+contexto, o SAS estrutura um setor de Tecnologia Educacional (SAS TE) e lanca novos produtos digitais para
+seu portfolio: Livros Digitais, Portal Web, aplicativo para
+smartphones, Banco de Questoes. Em 2015, o SAS estrutura
+um setor de Inovacoes Educacionais, com o proposito de
+pesquisar e desenvolver novas solucoes educacionais
+digitais. Em 2016, o SAS reformula seu Portal e lança a
+Tarefa On-line, uma plataforma adaptativa gamificada para
+aprendizagem de matematica de alunos do 6º ano do Ensino
+Fundamental. Em 2017, a Tarefa On-line é disponibilizada
+para todo o Ensino Fundamental II, o 4º e 5º ano do
+Fundamental I e Ensino Medio. Diante do novo cenario e da
+nova estrutura, o SAS posiciona-se estrategicamente nao
+mais como sistema de ensino, mas como uma Plataforma de
+Educacao, onde a Tecnologia Educacional torna-se um dos
+pilares das solucoes desenvolvidas para seus clientes.
+
+Com raizes no mercado editorial, como uma empresa
+produtora de livros didaticos pode tornar-se referencia no
+mercado de tecnologia educacional, desenvolvendo soluçoes
+digitais que ofereçam uma experiencia de ensino e
+aprendizado inovadora e significativa para suas escolas?
+
+As raizes editoriais nao eram compativeis com a cultura e os
+processos de inovaçao em tecnologia digital. Tornou-se
+necessaria uma reestruturaçao organizacional, cultural e
+tecnica para fomentar uma cultura de inovaçao centrada no
+usuario.
+
+Desde 2015, o portfolio digital do SAS era gerido por dois times distintos, fisicamente separados, com liderancas diferentes:
+
+Tecnologia Educacional, formada por desenvolvedores, responsaveis pela codificacao e manutencao dos produtos digitais existentes;
+
+Inovacoes Educacionais, formada por designers e analistas, responsaveis por criar produtos, acompanhar o engajamento e planejar melhorias.
+
+Entre o final de 2016 e a segunda metade de 2017, o time de Inovacoes Educacionais foi reformulado e cedeu espaco para um novo time, nomeado de Produtos Digitais. A reformulacao alocava um analisatedesigner como responsavel por um produto digital especifico, sendo responsavel por acompanhar sua utilizacao pelos usuarios, promover melhorias, engajamento e dar suporte na resolucao de problemas. Apesar do cenario ser sustentavel para aquele contexto, esta estrutura apresentava pelo menos tres desafios que precisavam ser superados para alcancar uma cultura de inovacao em tecnologia digital:
+
+Desafios Culturais Cultura de Inovacao: Os aspectos culturais foram os que mais requisitavam intervencao. O distanciamento fisico entre os times de Tecnologia Educacional e Produtos Digitais potencializava diversos problemas de comunicacao, intensificadas pelas perspectivas divergentes sobre a proposta de valor dos produtos. Um processo de desenvolvimento em cascata, aliada a uma gestao altamente hierarquizada, contribuia para a ineficiencia do trabalho voltado para pesquisa e inovacao. Este processo estava imerso em uma cultura voltada para conclusao de projetos no lugar de criacao de produtos, onde nao se vislumbrava a melhoria continua dos artefatos, mas apenas a entrega e manutencao dos mesmos. Alem disso, os times trabalhavam com pouco entendimento real dos usuarios e de seus contextos, pois as principais informacoes eram obtidas por meio de usuariosproxy, ou seja, colaboradores que se posicionavam como representantes dos usuarios reais.
+
+Desafios Organizacionais: Alem da comunicacao disfuncional entre os times, havia pouca colaboracao com outros setores da empresa. Isto acarretava a sobrecarga de atividades operacionais, de suporte e de manutencao no setor de Tecnologia que, com ferramentas adequadas, ofereceriam autonomia para outros setores, como o Relacionamento com o Cliente. Esta sobrecarga gerava um efeito bola de neve no restante da empresa, devido aos atrasos nas entregas de demandas internas.
+
+Desafios Tecnicos: Os times eram formados por pessoas de perfis juniores, com pouca ou nenhuma experiencia de mercado em tecnologia ou inovacao. As lacunas de especializacao tecnica nos times contribuiam para algumas ineficiencias de processo e dificultavam a evolucao rapida do time.
+
+DESENHANDO E APLICANDO INTERVENCOES
+
+Na segunda metade de 2017, o SAS realizou uma mudanca no quadro de gestao com o objetivo de reestruturar o Tecnologia Educacional. Como primeiro passo, foi realizada uma pesquisa benchmark com as principais empresas consideradas inovadoras no mercado, como o Spotify, Nubank, Youse e OLX, para compreender a estrutura organizacional, desenvolvimento tecnico do time e, principalmente, a cultura de inovacao. Como resultado, foi desenhado um plano de intervencoes, com o objetivo de evoluir o time dentro de uma cultura agil centrada no usuario.
+
+A partir do final de 2017, as intervencoes foram aplicadas paulatinamente. Um novo time foi estruturado, nomeado Conteudo Digital, responsavel pela elaboracao e gerenciamento de todo conteudo pedagogico embarcado nos produtos digitais. O time de Produtos Digitais fundiu-se ao time de Tecnologia Educacional, agora compartilhando o mesmo espaco fisico.
+
+O novo time de Tecnologia Educacional teve sua estrutura organizacional modificada. Utilizando como inspiracao o modelo de equipes do Spotify, o time foi dividido em Squads, de acordo com a natureza dos produtos digitais do portfolio SAS. As Squads sao times pequenos, multidisciplinares e focados em um determinado segmento ou aspecto de um produto. Cada Squad possui autonomia para tomar decisoes, realizar experimentacoes e construir sua propria modalidade de trabalho. Um setor pode ter varias Squads com objetivos independentes ou nao. Alem da divisao de Squads, e possivel estruturar equipes em Chapters e Guilds.
+
+A estrutura em Squads potencializou as intervencoes relacionadas aos desafios culturais e organizacionais. As Squads dedicam-se a conceber, manter e melhorar continuamente os artefatos dentro de uma gestao de produtos, interferindo diretamente na cultura em cascata e voltada a projetos. A autonomia dos times na tomada de decisoes reinventa os papeis dos gestores e incentivam uma cultura de experimentacao livre. O foco na melhoria continua dos produtos e no profundo conhecimento dos usuarios transfere uma mentalidade operacional para um nivel estrategico.
+
+A intercessao entre membros de uma Squad que tenham habilidades ou responsabilidades parecidas e chamada de Chapter. Por exemplo: Um Chapter de Design e composto por designers de varias Squads.
+
+A intercessao entre membros de Squads de diferentes setores ou de membros com habilidades diferentes e chamada de Guild. Por exemplo: Uma Guild formada por membros de uma Squad da Tecnologia Educacional com membros de uma Squad do Atendimento ao Cliente.
+
+No SAS, inicialmente, foram formadas tres Squads, de acordo com a natureza do valor oferecido aos usuarios: embarque e acesso as ferramentas; distribuicao de conteudo; avaliacao e diagnostico de aprendizado. As equipes das Squads sao compostas de pelo menos dois desenvolvedores backend e frontend, um PO Product Owner e um Designer UX Experiencia do Usuario. Algumas Squads possuem desenvolvedores mobile.
+
+As Squads possuem metas proprias, voltadas para engajamento de produtos e desenvolvimento do time. Alem das Squads, foi estruturado um time para Analise de Dados e Business Inteligence, que fornece insumos para as Squads sobre aspectos quantitativos de engajamento dos produtos e perfil dos usuarios.
+
+O time recebeu novos colaboradores, incluindo especialistas, que ministram treinamentos, workshops praticos e sessoes de mentorias pessoais com os juniores para desenvolver suas habilidades tecnicas e socioemocionais. Ainda com enfoque no treinamento, o time adotou praticas semanais de compartilhamento de conhecimentos: palestras ministradas pelo proprio time no estilo TED, denominadas SAS Talk; grupos de estudos sobre desenvolvimento agil e suas ferramentas Scrum, Kanban, Design Thinking, Design Sprint, Lean Agile e tecnicas de pesquisas, prototipacao e cuidados com enviesamentos cognitivos.
+
+Um orcamento dedicado a viagens permite que o time tenha imersao com realidade dos usuarios de diferentes regioes do pais, seja para pesquisar, realizar testes com prototipos ou acompanhar a utilizacao de seus produtos no contexto real de uso.
+
+O setor tambem estabeleceu uma relacao de parceria com setores internos, como o Relacionamento com o Cliente, na criacao de ferramentas que fornecem autonomia na resolucao de demandas internas, melhorando o fluxo de atividades e permitindo que as pessoas se dediquem mais em acoes estrategicas.
+
+RESULTADOS PRELIMINARES
+
+A melhoria da eficiencia dos processos e das entregas continuas de valor foi um dos primeiros resultados da implantacao de uma cultura agil. Apos a reestruturacao, duas novas funcionalidades foram lancadas para o aplicativo mobile. Tambem foi possivel reduzir em 86 os problemas criticos deste produto em apenas um mes. O Portal de Contingencia, projeto congelado desde 2016, foi implementado em tres meses apos a estrutura em Squads.
+
+Considerando a necessidade do contato direto com os usuarios, foram efetuadas mais de cinco visitas a escolas do nordeste e sudeste durante o primeiro semestre de 2018. Como resultado, as Squads realizaram uma avaliacao critica da proposta de valor de seus os produtos, sob a otica da empatia utilizando a metodologia do Design Thinking.
+
+Outras iniciativas surgiram apos as intervencoes: criacao de um Chapter de UX com todos os Designers de Experiencia de Usuario do time; aplicacao da primeira Design Sprint para avaliacao do conceito de um novo produto; elaboracao do Programa de Experiencia, para implementar o primeiro processo de design participativo; criacao dos Principios de Design, para colocar os usuarios no centro da tomada de decisoes; integracao do time com a comunidade academica e estreitamento de lacos com a comunidade local de profissionais.
+
+DISCUSSAO: O DESAFIO DA TRANSFORMACAO DIGITAL
+
+Potencializar uma cultura de inovacao centrada no usuario e um desafio que extrapola o rearranjo de processos de um time especifico. Ha uma necessidade explicita da companhia inteira adaptarse a uma realidade complexa, profundamente modificada pela democratizacao das tecnologias digitais. Cerca de 67 da jornada do consumidor agora e feita digitalmente.
+
+A natureza das intervencoes tecnologicas contemporaneas possibilita cenarios ineditos na linha historica da humanidade. Hoje, e possivel oferecer experiencias extremamente personalizadas, empoderando o usuario; surgem modelos de negocios disruptivos, colocando o usuario no centro do processo, gerando maneiras completamente novas de relacionamento entre as pessoas e os produtosservicos utilizados;
+
+Neste contexto, o real valor das inovacoes nao se concentra mais na tecnologia oferecida, e sim na experiencia de uso propiciada, considerando essencialmente os fatores humanos e socioculturais envolvidos. Inovar no contexto contemporaneo so e possivel em uma mentalidade centrada em uma experiencia dinamica e em constante evolucao, focada no usuario e suas opinioes. Essa mudanca de mentalidade perpassa o fenomeno de Transformacao Digital em empresas contemporaneas.
+
+No SAS, as especificidades do mercado educacional
+demanda prioridade na construçao de uma cultura holistica
+que absorva o paradigma da transformaçao digital entre os
+setores, principalmente aqueles que lidam com tecnologia,
+conteudo e atendimento ao cliente. Desse modo, o time de
+Tecnologia Educacional torna-se pioneiro e protagonista
+deste processo.
+
+Para alem das Squads, outros passos fundamentais sao
+necessarios: a criaçao de Guilds com outros setores
+possibilita o aprofundamento dos aspectos mais amplos de
+um produto ou serviço educacional. Por exemplo: a
+Tecnologia Educacional pode estruturar uma Guild junto ao
+setor de Conteudo Digital para explorar as oportunidades que
+a Base Nacional Comum Curricular (BNCC) oferece para a
+concepçao de novos artefatos educacionais digitais.
+
+O fortalecimento do Chapter de UX e a criaçao de novos
+Chapters possibilitam a disseminaçao de conceitos e
+execuçao de projetos e eventos que solidifiquem uma cultura
+centrada no usuario, como o Dia do Teste com Usuarios,
+inspirado em empresas que reservam um dia por mes para
+realizar testes de seus produtos com usuarios.
+
+Com o amadurecimento da cultura de inovaçao centrada no
+usuario e integraçao com outros setores da empresa, torna-se
+desafiador lidar com as incertezas e a mutabilidade do
+proprio processo descrito. A formaçao das Squads pode vir a
+ser fundamentada na jornada de experiencia do usuario,
+substituindo a atual estrutura fundamentada por portfolio de
+produtos, por exemplo. Este e um dos inumeros cenarios que
+podem surgir no processo de Transformaçao Digital.
+
+**CONCLUSAO**
+
+Apesar de preliminares, os resultados mostram-se
+promissores, pois representam um movimento holistico e
+crescente do time em direçao a uma cultura agil centrada no
+usuario. Este processo nao pode acontecer de maneira
+isolada, o que desencadeia a necessidade de envolver toda a
+empresa em um fenomeno continuo denominado
+Transformaçao Digital, onde a tecnologia cede seu lugar
+central para priorizar as pessoas, cultura e sociedade.
+
+Neste cenario, a estrutura de Squads pode ser vista como um
+instrumento inicial utilizado para romper com as estruturas
+antigas e semear uma cultura de inovaçao centrada no
+usuario. O maior desafio e a mudança de mentalidade das
+pessoas envolvidas com o desenvolvimento dos artefatos
+digitais. Nao e facil lidar com as liberdades e
+responsabilidades embarcadas em uma cultura autonomia,
+descentralizaçao das decisoes, transparencia e evoluçao
+constante, em contraste com a cultura hierarquica que
+domina a gestao dos negocios na maioria das empresas.
+
+Essa transiçao cultural exige um grande investimento de
+energia de cada individuo para despir-se das certezas antes
+estabelecidas por um "superior", passando a aprender e
+desaprender diretamente com os proprios usuarios,
+imergindo em suas realidades complexas e que mudam o
+tempo todo. Este contato, porem, torna inevitavel a
+apropriaçao da empatia pelas pessoas que utilizam os
+artefatos e o desejo de impactar suas vidas positivamente por
+meio da tecnologia.

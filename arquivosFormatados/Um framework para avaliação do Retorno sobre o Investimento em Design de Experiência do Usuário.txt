@@ -1,0 +1,94 @@
+Resumo. Organizaçoes que priorizam a experiencia do usuario (UX) geral-
+mente apresentam melhor desempenho financeiro, pois a UX reduz custos de
+suporte ao usuario, aumenta a fidelidade do cliente e diferencia a empresa no
+mercado. No entanto, medir o retorno sobre o investimento (ROI) em UX e de-
+safiador e complexo devido a inumeras variaveis nessa mediçao. Este trabalho
+visa propor um framework para avaliar o ROI em design de UX, destacando
+o impacto do UX Design nas organizaçoes. Resultados preliminares ja foram
+identificados como falta de metricas internas, dificil mediçao e complexidade
+em isolar o impacto da UX.
+
+Introdução
+
+O design da experiencia do usuario (UX Design) tem sido discutido como um aspecto
+importante de produtos ou serviços . UX e definido pela
+literatura como percepçoes e respostas do usuario que resultam do uso e/ou uso ante-
+cipado de um sistema, produto ou serviço, de acordo com a ISO 9241-210 .
+Em outras palavras, UX Design foca em como os usuarios interagem e se relacionam com
+um produto ou serviço e como essa experiencia sera desenhada e melhorada para atender
+as suas necessidades e expectativas. Investir em melhorias de UX Design pode aumen-
+tar a competitividade e o sucesso de uma empresa, impactando a lucratividade de forma
+positiva ou negativa .
+
+De acordo com a pesquisa , empresas
+que priorizam o UX Design geralmente apresentam desempenho financeiro superior em
+comparaçao com aquelas que nao o fazem. Alem disso, ao adotar o design focado em
+UX, a empresa pode reduzir custos de suporte e manutençao do produto, pois consid-
+era a usabilidade e a eficiencia do usuario desde o inicio do desenvolvimento do produto
+. Adotar praticas de UX Design tambem pode aumentar a fidelizaçao dos
+clientes, pois os usuarios tendem a preferir produtos faceis de usar e que proporcionem
+uma experiencia agradavel, impactando diretamente o cenario financeiro das instituiçoes
+. Em outras palavras, incorporar o design UX Design pode
+ajudar as empresas a se destacarem no mercado, criando uma vantagem competitiva
+.
+
+Apesar dos beneficios evidentes, medir o retorno sobre o investimento (ROI) em
+UX Design continua a ser um desafio para as organizaçoes   . Este desafio deve-se em parte a dificuldade de isolar as iniciativas de
+UX Design e assim obter a adesao dos tomadores de decisao da empresa .
+Alem disso, os teoricos expressaram ceticismo sobre a precisao das metricas comumente
+usadas para medir o ROI em UX Design, destacando a complexidade de estabelecer
+correlaçoes causais precisas entre as praticas de design de UX Design e as metricas de
+ROI  .
+
+Com isso o problema de pesquisa do projeto de doutorado, trata de compreender
+a avaliaçao do retorno do investimento no contexto do design da experiencia do usuario.
+Sendo assim, este trabalho tem como objetivo propor um frameworkpara avaliaçao do ROI
+em UX Design, para que consigam identificar o impacto das açoes de design da UX em
+resultados de negocio. Para isso, objetivos especificos deverao ser atendidos I) identificar
+as abordagens de mensuraçao e mapear as limitaçoes que emergem das intersecçoes entre
+ROI e UX Design II) capturar os desafios de mensuraçao de ROI em UX e como estao
+sendo vencidos III) delimitar formas de mensuraçao atuais que irao inspirar a construçao
+de um framework. IV) avaliaçao do framework e sua aplicabilidade nas organizaçoes.
+
+Trabalhos Relacionados
+
+A interligaçao entre o design da experiencia do usuario (UX Design) e o retorno do inves-
+timento (ROI) centra-se na forma como esta relaçao pode ser medida e na sua relevancia
+para o sucesso do negocio. Ha um foco emergente na maximizaçao do ROI por meio
+de melhorias estrategicas no UX Design . sugere
+que muitas organizaçoes precisam de processos mais formais para avaliar o ROI no de-
+sign de UX Design. Os especialistas muitas vezes atribuem essas limitaçoes a uma com-
+preensao insuficiente do valor do UX Design, dificuldades em quantificar seu impacto
+nos resultados de negocios e a necessidade de mais habilidades e recursos para conduzir
+avaliaçoes eficazes . Outro ponto identificado pelo autor e uma lacuna
+significativa na compreensao e implementaçao de UX .
+
+Por outro lado, uma abordagem para integrar o UX Design em todas as areas da
+empresa, desde o desenvolvimento de produtos ate a cultura organizacional, pode susten-
+tar o aumento do ROI . Alem disso, revela oportunidades de pesquisa em
+metodologias variadas para medir o ROI do UX Design, a relaçao entre os investimentos
+em UX Design e o desempenho financeiro, e fatores que melhoram o ROI em diferentes
+contextos de negocios, conforme explorado nos estudos. Estas
+investigaçoes sao cruciais para desenvolver uma compreensao mais profunda de como
+as melhorias no UX Design podem afetar positivamente a satisfaçao do utilizador e, por
+extensao, o desempenho financeiro da empresa .
+
+As limitaçoes na literatura incluem falta de consenso sobre metricas e metodos de
+mediçao, alem de desafios na generalizaçao dos resultados . Destaca-
+se a necessidade de mais investigaçoes para validar as relaçoes entre UX Design e ROI [Turner 2011]. A investigacao preliminar mostra que a correlacao entre metricas de negocio e de experiencia do usuario e essencial para avaliar a eficacia das estrategias de UX Design [Aleryani 2020]. Essas metricas nao so medem a rentabilidade e reducao de custos, mas tambem fornecem informacoes valiosas sobre a satisfacao do usuario e eficiencia do sistema, facilitando uma avaliacao robusta do impacto das estrategias de UX Design [Adebesin and Chawana 2021]. A falta de padronizacao e consenso sao principais limitacoes, indicando a necessidade de pesquisas futuras para aprofundar a relacao entre UX Design e ROI e enriquecer a compreensao de praticas que maximizem o retorno financeiro nas organizacoes [Wijaya and Kefry 2021].
+
+Metodos
+Para a construcao do framework de avaliacao do Retorno sobre o Investimento em Design de Experiencia do Usuario serao utilizados metodos de construcao de pesquisa a partir de uma abordagem qualitativa. Inicialmente uma revisao da literatura cinza foi realizada, posteriormente sera cruzada com a literatura academica a partir do metodo Revisao da Literatura Multivocal (MLR). Posteriormente sera utilizado o metodo de estudo de caso exploratorio qualitativo nas empresas seguindo as diretrizes de [Runeson and Host 2009], para identificar a pratica da mensuracao de ROI em UX Design, seguida entao da construcao do framework em si. Para que entao, seja realizada uma avaliacao de framework atraves de entrevistas semiestruturadas com profissionais da area. Para os processos metodologicos serao adotadas tecnicas de codificacao para conduzir uma analise de dados qualitativos aprofundada. O processo de codificacao sera realizado em diferentes etapas e adotando elementos da teoria fundamentada proposta [Charmaz 2014] como tecnicas auxiliares para codificar nossos dados em diferentes etapas. Sera utilizada a tecnica de codificacao aberta, onde os nomes e os significados dos codigos emergem dos dados analisados.
+
+Para os procedimentos eticos da pesquisa, sao observadas as seguintes disposicoes: I) Garantia de reprodutibilidade dos resultados com arquivamento de codigos e bases de dados; II) Conformidade com as normas do Conselho Nacional de Saude (resolucoes 674/2022, 510/2016 e 466/2012) para pesquisas com seres humanos; III) Respeito a Lei Geral de Protecao de Dados Pessoais (LGPD, Lei no 13.709/2018) para tratamento de dados pessoais academicos; IV) Indicacao do uso de IA Generativa, se aplicavel. A pesquisa esta em processo de aprovacao pelo comite de etica para realizar entrevistas do estudo de caso multiplo exploratorio qualitativo com as empresas.
+
+Resultados Parciais e Esperados
+A pesquisa utilizou a Revisao da Literatura Cinza (GLR) devido ao baixo retorno na Literatura Academica depois de uma busca ad-hoc nas bases cientificas, seguida por uma Revisao Rapida da Literatura Academica (RR) em construcao. O objetivo e combinar GLR e RR para criar uma Revisao da Literatura Multivocal (MLR), identificando e avaliando literatura sobre um tema para sumarizar o estado da arte e pratica. Os resultados parciais incluem uma revisao ad-hoc e a conducao da GLR, identificando 30 elementos mensuraveis (metricas e mensuracoes de UX Design) em 278 trechos, agrupados em quatro categorias: Adocao e Retencao de Usuarios, Melhoria de Interface e Usabilidade, Impacto Financeiro Direto e Desenvolvimento Estrategico e Competitivo. Os resultados da GLR enfatiza a correlacao entre melhorias de UX e beneficios financeiros tangiveis, oferecendo uma visao mais detalhada para quantificar o ROI de UX.
+
+Sete metricas principais de ROI foram identificadas, novamente em quatro categorias: Aquisicao e Conversao, Retencao e Fidelizacao, Eficiencia Operacional e Reducao de Custos, Impacto Financeiro Direto e Inovacao e Diferenciacao Competitiva. Os resultados da GLR destaca a importancia de medir o ROI em UX para justificar investimentos e orientar estrategias de negocios, abordando desafios como isolar os efeitos das melhorias de UX de outros fatores e a resistencia organizacional a mudanca. Oito desafios na medicao do ROI em UX foram identificados, agrupados em quatro grupos: Metricas e Analise de Dados, Impactos Financeiros e Justificativa de Investimento, Implementacao e Adocao Organizacional e Impacto Direto e Indireto em UX. As descobertas fornecem exemplos especificos e contextuais para justificar investimentos em UX, ajudando na obtencao de apoio executivo e na alocacao de recursos.
+
+O proximo passo se materializa a partir da conducao de um estudo de caso multiplo exploratorio qualitativo. Espera-se entao que a partir dos resultados deste estudo em questao seja possivel construir uma primeira versao do framework de avaliacao de ROI em UX Design para que seja entao passado pelo processo de avaliacao e assim, mensurar o impacto do framework. O objetivo e que esta ferramenta possibilite identificar dentro das mensuracoes de UX o impacto dentro dos negocios, e consiga atuar no direcionamento da tomada de decisao dentro das organizacoes, como uma guia de impacto de UX Design nos negocios.
+
+**CONSIDERACOES FINAIS**
+
+Espera-se que este framework auxilie as organizaçoes a compreenderem melhor o impacto do design de UX e a tomarem decisoes mais informadas sobre seus investimentos. Ao fornecer uma abordagem estruturada para a avaliaçao do ROI em design de UX, este trabalho visa contribuir para o avanço da area e para a promoçao de praticas mais centradas no usuario.

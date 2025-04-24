@@ -1,0 +1,330 @@
+**RESUMO**
+
+O abandono de animais e um problema comum no Brasil,
+principalmente em grandes centros urbanos. Alem da
+preocupaçao com os animais, esta situaçao tambem se configura
+como uma problema de saude publica. Apos entrevistas com
+usuarios observou-se que a mudança na realidade em que os
+animais desemparados vivem nao aconteceria sem uma mudança
+na consciencia da populaçao. A falta de educaçao e empatia sao
+apontadas como uns dos principais obstaculos no combate ao
+problema. Varios tipos de soluçoes ao problema apresentado ja
+foram realizadas, porem apenas de forma pontual e paliativa. Para
+intervir no problema do abandono e adoçao de animais, este artigo
+descreve a criaçao do Clube do Resgate, um jogo baseado em
+localizaçao para dispositivos moveis com caracteristicas de Role-
+Playing Game (RPG). A soluçao consiste em tres pilares:
+Intervençoes fisicas, disponibilidade de informaçoes e jogo. A
+partir disso, existem muitas oportunidades de expansoes como
+eventos sazonais, feiras de adoçao, campanhas de vacinaçao entre
+outras atividades relacionadas ao jogo tanto no meio digital como
+real.
+
+**INTRODUCAO**
+
+A situaçao de abandono e vivenciada atualmente por diversos
+animais em todo o Brasil. Essa realidade e um problema
+principalmente em grandes centros urbanos, onde esses animais
+sao diariamente vitimas de acidentes de transito,
+envenenamentos, agressoes fisicas e doenças. O abandono de
+animais tambem e uma questao de saude publica, visto que varias
+das doenças que afligem esses animais tambem possuem potencial
+de contagio em humanos, como por exemplo a hidrofobia (raiva)
+e leishmaniose (calazar) . Sendo assim, varios veiculos
+municipais atuam no combate ao problema, realizando campanhas
+de vacinaçao, castraçao, adoçao e conscientizaçao sobre a causa,
+alem de trazer outras informaçoes para a populaçao.
+
+Atualmente, o ato de abandonar animais domesticos na rua alem
+de agravar o problema configura crime federal , mas mesmo tal
+medida nao impede que essa pratica ocorra por todo o territorio
+nacional. Este documento relata o processo de design de uma
+soluçao digital para os problemas supracitados.
+
+**METODOLOGIA**
+
+O projeto foi desenvolvido seguindo o design centrado no usuario, dividindo-se quatro etapas s que podem ser visualizadas no quadro 1.
+
+O framework DECIDE  foi essencial durante o projeto para
+melhor organizaçao e planejamento dos processos de avaliaçao,
+sendo utilizado tanto na fase de coleta de dados quanto na
+avaliaçao do prototipo produzido. Os objetivos da primeira fase
+foram: (1) entender a visao dos cidadaos sobre o problema, (2)
+entender a perspectiva de veterinarios e pessoas envolvidas na
+causa, (3) conhecer tentativas ja utilizadas de soluçao
+classificando-as por tipo e efetividade, (4) conhecer a legislaçao e
+o impacto ambiental do problema em questao. Um questionario
+online foi aplicado para entender a visao geral dos cidadaos sobre
+o problema, respondido por 510 pessoas de todas as regioes do
+Brasil. Devido a divulgaçao pela internet, percebeu-se um vies nas
+participaçoes, onde as pessoas que se disponibilizaram a
+responder ja tinham algum envolvimento com a causa. Em busca
+de opinioes mais diversas foram aplicadas entrevistas estruturadas
+com cinquenta participantes universitarios. Por fim,
+foram executadas entrevistas semi-estruturadas aliadas a mapas
+de empatia com seis especialistas (entre veterinarios e voluntarios
+de Organizaçoes nao Governamentais - ONGs).
+
+Os dados coletados foram triangulados a fim de identificar os
+perfis e desenvolver personas e requisitos  que guiaram as
+proximas fases. Os perfis identificados foram nomeados como: (1)
+pessoas engajadas e (2) pessoas pouco/nao engajadas. O primeiro
+foi composto por pessoas que atuam na causa de forma proxima e
+constante (ex.: voluntario em açoes, compartilhamento e ajuda
+em campanha online). Ja o segundo perfil e composto por pessoas
+que nao costumam se envolver com a causa e pessoas que afirmam
+nao gostar de animais e/ou sao indiferentes ao tema.
+
+Apos a coleta de dados, realizou-se um brainstorming estruturado
+ direcionado atraves das personas desenvolvidas sobre os perfis
+identificados. A partir da ideia criada, ocorreu a elaboraçao de um
+modelo conceitual  da soluçao para que houvesse uma melhor
+compreensao e definiçao do projeto. Com isso, iniciou-se a fase de
+prototipaçao da soluçao com criaçao de moodboards e prototipos
+de baixa, media e alta fidelidade. Para desenvolver a mecanicas do
+jogo foi utilizado o framework Octalysis , que guia o processo
+atraves de uma serie de elementos de devem ser contemplados.
+
+Na avaliaçao, foram realizados testes com usuarios utilizando um
+prototipo de navegaçao e um prototipo para testar a mecanica de
+batalha, em quatro momentos: (1) entrevista preliminar; (2)
+interaçao com o artefato; (3) aplicaçao da ferramenta de avaliaçao
+de experiencia, MAX , e (4) entrevista semi-estruturada. A
+entrevista preliminar teve como objetivo identificar o perfil do
+participante. A interaçao foi guiada atraves de cenarios de uso em
+que os usuarios deveriam realizar tarefas. A seguir, foi realizado a
+aplicaçao do MAX a fim de podermos avaliar a experiencia do
+usuario. Por fim, aplicou-se uma entrevista para coletar
+informaçoes relacionadas ao entendimento da proposta. Os testes
+contaram com a participaçao de dez usuarios, entre homens e
+mulheres, divididos entre os perfis previamente observados. Em
+todas as participaçoes de usuarios nas fases de pesquisa foram
+realizados teste piloto e foram observados os fatores eticos.
+
+**JUSTIFICATIVA**
+
+Dados das entrevistas apontaram que a mudança na realidade em
+que os animais desemparados vivem nao aconteceria sem uma
+mudança na consciencia da populaçao. A falta de educaçao e
+empatia sao apontadas como uns dos principais obstaculos no
+combate ao problema. Ademais, varios tipos de abordagens ao
+problema apresentado ja foram realizadas, porem apenas de forma
+pontual e paliativa. Açoes como o Alimentaçao, construindo
+comedouros com canos PVC para os animais, abrigos em forma de
+casinhas para os animais em Santa Catarina, esculturas de
+animais feitas de lixo e campanhas de adoçao sao exemplos ja
+existentes, porem sem uma um forte laço entre varias dessas
+atividades como uma so em busca da conscientizaçao da
+populaçao. Foi observado tambem que boa parte da populaçao nao
+esta ciente que abandonar animais configura crime federal e,
+portanto, muitos nao acionam a policia ao testemunharem tais
+atos.
+
+Com base nisso, o desenvolvimento da soluçao foi direcionado
+para o vies de conscientizaçao a respeito das questoes
+supracitadas. A escolha de desenvolver um jogo se deu pelo seu
+potencial ludico e estimulante, contribuindo para a transmissao de
+mensagens a populaçao. Dado os perfis identificados na fase de
+pesquisa, a proposta visa incentivar a participaçao ativa dos
+simpatizantes com a causa animal e gerar consciencia e empatia
+sobre o tema nos usuarios indiferentes.
+
+**PROPOSTA**
+
+O Clube do Resgate e um jogo baseado em localizaçao  para
+dispositivos moveis com caracteristicas de Role-playing game
+(RPG) . A soluçao consiste em tres pilares: Intervençoes fisicas,
+disponibilidade de informaçoes e jogo.
+
+Intervencoes Fisicas
+As intervencoes fisicas se dao de duas maneiras: atraves das
+Mensagens fisicas e dos Comedouros.
+Os Comedouros consistem em maquinas alimentadoras
+autonomas, como na imagem 1, situadas em regioes com grande
+concentracao de animais de rua. A maquina possui um sistema de
+deteccao do nivel de racao e agua, fazendo a reposicao quando for
+necessario. Possuira tambem um sistema de seguranca para que
+apenas a instituicao responsavel possa reabastece-la, evitando
+assim que pessoas mal intencionadas possam adulterar a racao.
+Devido sua automacao, a racao so sera liberada quando a tigela
+estiver vazia, evitando assim a proliferacao de pragas urbanas e
+garantindo a qualidade do alimento. Alem disso, nao sera
+necessaria a reposicao constante de alimento, bastando apenas
+preencher o refil da maquina periodicamente. Para aumentar o
+engajamento um sinal sonoro e luminoso sera emitido quando a
+tigela de comida estiver vazia, convidado a populacao a apertar o
+botao e liberar comida. Apos acionado pelo botao, o comedouro
+emite um reforco positivo sonoro. Caso ninguem interaja apos um
+tempo pre-determinado, o dispositivo libera a racao
+automaticamente.
+
+Ja as mensagens fisicas consistem em manifestacoes artisticas
+espalhadas pela cidade com objetivo de conscientizacao acerca da
+causa animal, como pode ser visto na imagem 2. Mensagens fisicas
+podem ser compostas por pinturas, cartazes ou esculturas. O
+potencial desta intervencao esta na capacidade de atingir nao
+apenas jogadores, mas tambem as demais pessoas que transitam
+no local. Alguns exemplos podem ser visualizados nos anexos.
+
+Disponibilidade de informações
+
+Uma secao da aplicacao movel disponibiliza informacoes
+relevantes a respeito do universo animal, como cuidados basicos,
+contatos, informacoes sobre adocao consciente, resgate, castracao,
+vacinacao e curiosidades. O agrupamento dessas informacoes de
+forma pratica e amigavel facilita o engajamento de usuarios que
+desejem ajudar a causa animal fora do ambiente do jogo. Alem
+disso, a aplicacao convida o usuario a consumir estes conteudos
+de forma contextualizada atraves de mensagens durante a
+interacao (e.g.: ao completar a acao de vacinar seus animais
+virtuais, o jogo convida o usuario a ler um pouco sobre vacinacao
+de animais no mundo real). Dessa forma, os conceitos trabalhados
+no jogo ficam bem conectados com o mundo real, evitando que os
+usuarios fiquem alienados.
+
+O jogo
+Os jogadores entrarao em um mundo de fantasia tendo como
+objetivo ajudar os animais abandonados. Nesse mundo ficticio, os
+animais estao sofrendo com entidades chamadas Sombras do
+Abandono, que se manifestam como sintomas da depressao
+animal 13. Essas sombras aparecem por todo o mapa e sugam a
+vitalidade dos animais abandonados, deixando-os fracos e
+doentes. Para combater esse mal, o jogador contara com a ajuda
+de seu companheiro animal, uma criatura dotada de poderes
+magicos que canalizam sentimentos positivos, para expurgar as
+sombras e ajudar os animais abandonados. O jogo oferece uma
+serie de mecanicas que podem ser visualizadas no quadro 2.
+
+A batalha contra as sombras ocorre em turnos alternados entre o
+jogador e as sombras. O jogador seleciona uma de suas
+habilidades, escolhidas antes da batalha, para agir atraves de seu
+companheiro animal, em seguida a sombra age. As habilidades sao
+metaforas a sentimentos positivos e gestos de cuidado (e.g.: raio
+de conforto, chuva de empatia), tirando a conotacao violenta que
+o conceito de batalha carrega. Tanto os companheiros animais
+quanto as sombras possuem tres atributos principais que servem
+de base para calculos da batalha e tambem para a aquisicao de
+novas habilidades: Poder (quantifica a eficacia das habilidades),
+Resistencia (capacidade de resistir as habilidades do oponente) e
+Velocidade (capacidade de agir multiplas vezes em um unico
+movimento). O objetivo e expulsar a sombra, reduzindo sua
+energia a zero Caso o companheiro animal tenha sua energia
+reduzida a zero, ele ficara temporariamente incapacitado e nao
+podera batalhar por alguns minutos. Nesse caso, o jogador pode
+esperar o tempo de descanso do companheiro animal ou fazer o
+uso de itens consumiveis que recuperam a energia do animal de
+forma mais rapida para pode voltar a jogar logo. Apos expurgar a
+sombra, um animal e libertado.
+
+Os animais resgatados vao para um abrigo virtual, onde o jogador
+pode ajuda-los na recuperacao fornecendo agua, alimento e
+medicamentos. Com a saude completamente recuperada, o animal
+estara apto a ser adotado por familias virtuais. Cada adocao e
+recompensada com pontos de gratidao que sao usados para subir
+o nivel do companheiro animal. A adocao e a reposicao de
+mantimentos virtuais sao feitas atraves de localizacoes especificas
+na cidade (intervencoes fisicas). A ideia e convidar o jogador a
+percorrer a cidade, experienciando o cotidiano dos animais de rua
+e conhecendo outros jogadores. E possivel completar missoes para
+obter recompensas como acessorios e auras. Auras incrementam
+os atributos do seu companheiro e adiciona uma animacao no
+fundo do perfil. Os acessorios nao incrementam os atributos, mas
+modificam a aparencia do seu companheiro. Alguns exemplos de
+missoes sao: Combata cinco sombras ou Consiga um lar para
+tres animais resgatados.
+
+Cenario de uso
+
+Um usuario descobre o jogo Clube do Resgate a partir das
+intervencoes na cidade: se depara com a pintura de um cachorrinho
+no banco de uma praca com a frase Todo mundo precisa de amor
+e carinho. E todos somos capazes de dar um pouquinho. Curioso,
+o usuario baixa o jogo no seu celular, cria seu companheiro animal
+virtual, personaliza-o e escolhe suas habilidades.
+Com seu companheiro animal pronto, o usuario anda pela cidade
+real e encontra uma das sombras no mapa do jogo. Ele batalha com
+a sombra, resgatando o animal debilitado para seu abrigo onde
+cuida dele com seus mantimentos, a fim de deixa-lo pronto para
+adocao. A escassez de mantimentos, apos usa-los para o animal
+resgatado, fara com que o usuario precise ir ate comedouros eou
+mensagens fisicas que sao indicados no mapa. Chegando la, este
+podera conhecer outros jogadores que estao na area e a situacao
+dos animais de rua da vizinhanca e, dentro da aplicacao, coletar
+mantimentos (racao, agua e remedios). Nos mesmos locais, ele
+tambem pode encontrar familias virtuais para adotar o animal
+recuperado. Atraves disso ganha pontos de gratidao para evoluir
+seu companheiro e continuar na luta contras as sombras e no
+resgate dos animais.
+
+Viabilidade
+Os custos do desenvolvimento da presente intervencao sao
+divididas em duas modalidades: custos iniciais (CI) e custos de
+manutencao (CM). A aplicacao movel demanda CI e CM maiores
+que os demais elementos da intervencao. O comedouro possuira
+um CI relativamente alto quando comparado as mensagens. As
+mensagens sao os elementos com menores CI e CM.
+Para o desenvolvimento do software seriam necessarios R
+20.000,00 reais, considerando custo de desenvolvimento maximo
+de R 200,00 por dia, totalizando R 18.000,00 e mais R 2.000,00
+para eventuais gastos adicionais. Demais custos (CM) seriam de
+cerca R 500,00 por mes com manutencao do programa. Para
+reducao dos custos ao longo do tempo, adotaria-se servicos
+gratuitos de hospedagem de servidor. O uso de ferramentas
+gratuitas como engines e editores de imagens podem ser
+facilmente adotados. Para a questao de banco de dados e APIs
+(Application Programming Interface), ha uma grande variedade de
+excelentes servicos gratuitos e em nuvem que podem auxiliar o
+desenvolvimento do projeto durante seus primeiros anos. Por
+exemplo, temos o Firebase, Heroku e Amazon Web Services).
+
+As mensagens contam com manifestacoes artisticas das mais
+diversas naturezas. As alternativas de menor custo seriam as
+pinturas do tipo estencil e Tape arts.
+
+Para pinturas do tipo estencil seriam necessarias latas de tintas spray com custo medio de R 15,00 por lata. Moldes de estencil podem varias de R 15,00 a R 45,00, sendo necessarios em media tres moldes para cada arte. Moldes podem ser reutilizados varias vezes. Para a tape art utilizam-se fitas adesivas decorativas com custo medio de R 5,00 a unidade, sendo necessarias cerca de seis unidades de fita para uma cobertura de cerca de um metro quadrado. Em resumo, pinturas estencil iriam custar R 90,00 devido aos moldes reutilizaveis e tres latas de tinta que totalizam R 45,00. A manutencao anual da obra consistiria na repintura da obra resultando em R 45,00 por ano. Para a tape art, um conjunto de seis fitas decoradas resultam em um valor medio de R 30,00 por obra. A manutencao da obra seria a reaplicacao das fitas, anualmente, totalizando R 30,00 de CM.
+
+Os comedouros serao instalados com a ajuda de empresas parceiras. Alem de patrocinar, a empresa tambem tera o papel fundamental de reabastecer a maquina com agua e racao. Em contrapartida a empresa podera dispor sua logo no comedouro, alem de demonstrar sua preocupacao com a questao socioambiental. O CI estimado do comedouro e de R 714,78. A maquina tem comporte para aproximado cinquenta quilos de racao, que devem ser abastecido periodicamente. O custo de abastecimento com racao e de R 160,00 e rende quinhentas porcoes de cem gramas. Cachorros comem em media duzentos gramas diariamente, enquanto gatos comem ate cem gramas.
+
+Para a manutencao e expansao da intervencao, podem ser adicionados meios em que os usuarios possam fazer doacoes e comprar itens exclusivos dentro do jogo. Alem disso, produtos tematicos (e.g.: coleiras, tigelas de racao, pelucias, posters) podem ser desenvolvidos para que o lucro seja revertido para as expansoes. Para alem das expansoes, o dinheiro arrecadado tambem sera destinado a doacoes para instituicoes de abrigo para animais em situacao de desamparo.
+
+Para ver os valores mais detalhadamente, acesse o link a seguir: httpbit.lyTabelaDeCustos
+
+Conclusao
+
+Os resultados da avaliacao do jogo com usuarios por meio de entrevistas aliado ao MAX, revelaram informacoes muito satisfatorias a respeito da aplicacao. Todos os participantes da avaliacao apreciaram o aspecto visual e entenderam o objetivo do jogo. A maioria dos participantes acreditam que a aplicacao possui grande potencial para ensinar eou conscientizar sobre a causa, fator decisivo para o exito da aplicacao. Essa mudanca na mentalidade dos jogadores e o que ira colaborar para a mudanca na realidade vivenciada por animais em estado de abandono, como mostram as entrevistas realizadas na etapa da coleta de dados.
+
+Apos a avaliacao, foram feitos reparos no prototipo com base nos reportes dos participantes, dos quais podemos destacar a alteracao no logo do jogo e cor de fundo da tela inicial que, segundo alguns dos entrevistados durante a avaliacao, nao possuia consistencia com a tematica do jogo. Outras alteracoes diversas foram feitas (e.g.: posicao de botoes, tipografia, cenarios e personagens).
+
+O projeto apresentado possui uma base solida de mecanicas. A partir disso, existem muitas oportunidades de expansoes como eventos sazonais, feiras de adocao, campanhas de vacinacao entre outras atividades relacionadas ao jogo tanto no meio digital como real. Assim, aumentam-se as chances do jogo se manter interessante para os usuarios aumentando seu impacto na sociedade.
+
+**CONCLUSAO**
+
+Os resultados da avaliaçao do jogo com usuarios por meio de
+entrevistas aliado ao MAX, revelaram informaçoes muito
+satisfatorias a respeito da aplicaçao. Todos os participantes da
+avaliaçao apreciaram o aspecto visual e entenderam o objetivo do
+jogo. A maioria dos participantes acreditam que a aplicaçao possui
+grande potencial para ensinar e/ou conscientizar sobre a causa,
+fator decisivo para o exito da aplicaçao. Essa mudança na
+mentalidade dos jogadores e o que ira colaborar para a mudança
+na realidade vivenciada por animais em estado de abandono, como
+mostram as entrevistas realizadas na etapa da coleta de dados.
+
+Apos a avaliaçao, foram feitos reparos no prototipo com base nos
+reportes dos participantes, dos quais podemos destacar a alteraçao
+no logo do jogo e cor de fundo da tela inicial que, segundo alguns
+dos entrevistados durante a avaliaçao, nao possuia consistencia
+com a tematica do jogo. Outras alteraçoes diversas foram feitas
+(ex.: posiçao de botoes, tipografia, cenarios e personagens).
+
+O projeto apresentado possui uma base solida de mecanicas. A
+partir disso, existem muitas oportunidades de expansoes como
+eventos sazonais, feiras de adoçao, campanhas de vacinaçao entre
+outras atividades relacionadas ao jogo tanto no meio digital como
+real. Assim, aumentam-se as chances do jogo se manter
+interessante para os usuarios aumentando seu impacto na
+sociedade.
+
+**CONSIDERACOES FINAIS**
+
+O desenvolvimento do Clube do Resgate demonstrou o potencial dos jogos baseados em localizaçao para abordar questoes sociais como o abandono de animais. A metodologia de design centrado no usuario permitiu a criaçao de uma soluçao que atende as necessidades dos usuarios e busca promover mudanças positivas na sociedade. A combinaçao de intervençoes fisicas, informaçoes relevantes e um jogo envolvente oferece uma experiencia completa e significativa para os jogadores, incentivando a conscientizaçao e a participaçao ativa na causa animal.

@@ -1,0 +1,150 @@
+**RESUMO**
+
+A partir da decada de 80, tornou-se possivel representar imagens por
+meio computacional, o que abriu um leque de possibilidades para os artistas
+em termos de criaçao e compartilhamento de suas obras. Alem da arte no
+meio digital, tambem existe a arte digital interativa, na qual os usuarios in-
+teragem com a obra de arte. Como parte da cultura surda, tambem existem
+diversas formas de expressoes artisticas, que possuem caracteristicas distintas
+em relaçao a outras formas de arte. Para compreender melhor essas particulari-
+dades das artes na cultura surda, foram realizadas entrevistas qualitativas com
+esse publico. Essas entrevistas revelaram uma escassez de artes digitais inte-
+rativas e instalaçoes voltadas para a comunidade surda. Diante desse cenario,
+este trabalho propoe a criaçao de adaptaçoes que orientem especialistas na
+adaptaçao de obras digitais interativas, tornando-as acessiveis para a comuni-
+dade surda.
+
+**MOTIVAÇAO**
+
+Muitas pessoas surdas enfrentam constantemente problemas devido a falta de acessibili-
+dade em interfaces digitais ou locais publicos. Um exemplo disso ocorre em instalaçoes
+culturais ou museus, onde frequentemente os surdos nao conseguem compreender o sig-
+nificado das obras e exposiçoes por falta de interpretes. Na internet, a situaçao nao e di-
+ferente, muitos sites nao possuem avatares  que sinalizem o conteudo descrito e tambem
+ha muitos videos nao voltados para surdos, sem legendas ou interpretes de Libras.
+
+Com o aumento do uso da tecnologia, surgiram diversas formas de expressao
+artistica no meio digital. De acordo com [Rodrigues 2012], uma arte pode ser considerada
+digital quando utiliza meios tecnologicos em sua criaçao. Quando o usuario ou um grupo
+de usuarios interage com uma arte digital, ela se torna interativa.
+
+Diante desse cenario, uma pergunta que fazemos e: “como proporcionar acessi-
+bilidade em obras digitais interativas, fazendo com que o surdo consiga compreender e
+refletir sobre obras deste tipo?".
+
+Diante do cenario apresentado, temos como hipotese que a acessibilidade em artes
+digitais interativas e instalaçoes cientificas pode ajudar o surdo a melhor compreender
+sobre as mais variadas obras e conseguir tambem refletir com obras mais abstratas.
+
+A seguir, estao descritos os objetivos do trabalho.
+
+**OBJETIVO GERAL**
+
+Desenvolver adaptaçoes para tornar instalaçoes digitais interativas acessiveis a
+comunidade surda.
+
+**OBJETIVOS ESPECIFICOS**
+
+Compreender como as artes digitais interativas e instalaçoes interativas estao re-
+lacionadas com IHC;
+Compreender como e manifestada a arte dentro da cultura surda;
+Buscar entender quais açoes devem ser tomadas para gerar acessibilidade para
+surdos;
+Criar adaptaçoes para auxiliar especialistas a tornar obras digitais interativas
+acessiveis para pessoas surdas;
+Aplicar as adaptaçoes em uma obra digital interativa atualmente inacessivel para
+surdos;
+
+**REFERENCIAL TEORICO**
+
+Para melhor entendermos sobre acessibilidade digital, e importante saber como o conceito
+de acessibilidade pode ser aplicado em interfaces computacionais. A acessibilidade nao
+distingue as pessoas que utilizam o sistema, ou seja, independente da capacidade de mo-
+vimento, de percepçao, de cogniçao e aprendizado, o sistema deve prover uma interaçao
+sem nenhuma barreira. A aplicaçao de acessibilidade em sistemas computacionais per-
+mite que cada vez mais pessoas consigam interagir com o sistema, de forma que sejam
+compreensiveis as opçoes nele dispostas. Dai a importancia de incluir as pessoas com
+limitaçoes ou deficiencias no grupo de usuarios-alvo .
+
+Muitas pessoas que possuem deficiencias e limitaçoes se deparam com situaçoes
+onde nao conseguem ter autonomia para realizar alguma tarefa. A Tabela 1 mostra um
+cenario de exemplo que evidencia como a falta de acessibilidade afeta a vida dessas pes-
+soas.
+
+O cenario demostrado na Tabela 1 evidencia a importancia de acessibilidade em
+interfaces interativas.  explicam que quando uma pessoa tem acesso
+as TICs, isso gera oportunidades para toda a sociedade, contribuindo para a difusao do
+conhecimento e fortalecimento da cidadania. No cenario descrito, Paulo nao teve um
+acesso que permitisse que ele resolvesse seu problema.
+
+O trabalho proposto utilizara as instalaçoes digitais da Seara da Ciencia, um equipa-
+mento de divulgaçao e educaçao cientifica da Universidade Federal do Ceara, portanto e
+necessario obter um melhor entendimento sobre a instituiçao. A Seara da Ciencia tem
+como publico-alvo alunos, professores e o publico em geral. Localizada no Campus do
+Pici, em Fortaleza, a Seara oferece uma serie de recursos e instalaçoes para promover a
+interaçao e o aprendizado.
+
+Entre as principais instalaçoes, destaca-se o Museu Interativo de Ciencias, onde
+os visitantes podem explorar mais de oitenta equipamentos interativos. Essas instalaçoes
+e recursos visam proporcionar um ambiente propicio para a divulgaçao cientifica e a
+interaçao com a ciencia, contribuindo para o entendimento dos conceitos cientificos de
+forma ludica e educativa.
+
+**METODOLOGIA**
+
+A pesquisa de mestrado teve inicio com a realizaçao de uma Revisao Sistematica de Li-
+teratura (RSL) sobre como as artes digitais interativas se relacionam com os conceitos de
+IHC. Segundo [Kitchenham 2004], o objetivo de uma RSL e identificar, avaliar e inter-
+pretar todos os trabalhos relevantes em um contexto especifico, e a partir desses trabalhos,
+seja possivel extrair informaçoes uteis para responder as questoes de pesquisa definidas.
+De acordo com [Biolchini et al. 2005], uma RSL segue uma serie de etapas que estao
+divididas em tres grandes partes: Planejamento, Conduçao e Avaliaçao dos resultados obtidos.
+
+Alem da RSL, para melhor entender o contexto da pesquisa, realizamos uma pes-
+quisa de campo com surdos, no formato exploratorio, com uma abordagem qualitativa, por
+meio de entrevistas semiestruturadas. A exploraçao do contexto foi feita com o objetivo
+de melhor entender como as artes/artes digitais e ate mesmo as artes digitais interativas
+sao manifestadas no contexto da comunidade surda. Buscamos coletar dados qualitativos
+acerca das manifestaçoes artisticas da cultura surda, com o objetivo de fundamentar nossa
+proposta de intervençao.
+
+A Tabela 2 lista os passos a serem seguidos no desenvolvimento dessa pesquisa.
+O processo esta sendo desenvolvido em seis etapas: realizaçao de uma RSL sobre artes
+digitais interativas e conceitos de IHC; entrevista com surdos; visita nas dependencias da
+Seara da Ciencia; criaçao das adaptaçoes de acessibilidade; aplicar essas adaptaçoes e
+avaliar o resultado da aplicaçao dessas recomendaçoes.
+
+O presente trabalho encontra-se em processo de submissao ao comite de etica,
+uma vez que envolve uma pesquisa com a participaçao de pessoas surdas.
+
+Ate o presente momento, foram realizadas as tres primeiras etapas da pesquisa.
+A partir de agora, sera feito um levantamento bibliografico para auxiliar na construçao
+das adaptaçoes de acessibilidade. Essas adaptaçoes tem o proposito de sugerir medidas
+a serem aplicadas em instalaçoes cientificas e artisticas que utilizem meios computaci-
+onais, a fim de tornar essas obras acessiveis para a comunidade surda. Posteriormente,
+essas adaptaçoes serao implementadas em obras presentes nas dependencias da Seara da
+Ciencia. Por fim, essas adaptaçoes serao avaliadas na pratica por pessoas surdas.
+
+**RESULTADOS PARCIAIS**
+
+Com a realizaçao da revisao sistematica, conseguimos concluir que nos trabalhos analisa-
+dos existe uma quantidade maior de artes digitais interativas envolvendo pinturas digitais
+e dança. Alem disso, tambem existem muitas instalaçoes interativas, como nos museus.
+Tambem foi possivel entender que muitas das artes nao abordam explicitamente criterios
+de qualidade em IHC. Entre esses criterios, podemos destacar a acessibilidade. Os meios
+de coleta de dados nas interaçoes foram, em sua grande maioria, provenientes de cole-
+tas qualitativas por meio de entrevistas e observaçoes. Por se tratarem de interfaces com
+um vies artistico, podemos concluir que e necessario um feedback mais qualitativo sobre
+as interaçoes, possibilitando uma compreensao mais detalhada sobre os aspectos da ex-
+periencia vivenciada pelo usuario. Os resultados estao apresentados de forma detalhada
+no artigo "How HCI concepts are used in articles featuring interactive digital arts a li-
+terature review”, o qual foi aceito na trilha de Ideias Inovadoras e Resultados Emergentes
+do IHC 2023.
+
+A partir dos resultados obtidos por meio das entrevistas com os surdos, consegui-
+mos identificar a falta de acessibilidade em centros culturais e museus. Na maioria das vezes, esses locais nao contam com recursos basicos para prover acessibilidade para esse publico, como o uso de legendas descrevendo as obras ou a disponibilidade de interprete. 
+Apesar de terem guias nos locais, isso nao traz nenhuma inclusao para o surdo. Para melhor compreendermos o contexto no qual a pesquisa sera aplicada, realizamos visitas as dependencias da Seara da Ciencia para observar as obras que utilizam algum meio computacional. Alem disso, conduzimos entrevistas com os monitores das obras e tambem com o coordenador responsavel pela Seara da Ciencia. Atraves dessas entrevistas, identificamos a falta de acessibilidade nas instalacoes, especialmente a escassez de recursos adequados para pessoas surdas.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho propoe a criaçao de adaptaçoes para tornar obras digitais interativas mais acessiveis para a comunidade surda. A pesquisa em andamento busca entender as necessidades e particularidades dessa comunidade, a fim de criar soluçoes que promovam a inclusao e a participaçao plena na fruiçao da arte e da ciencia.

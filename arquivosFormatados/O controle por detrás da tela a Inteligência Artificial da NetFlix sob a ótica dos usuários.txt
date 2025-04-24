@@ -1,0 +1,181 @@
+**RESUMO**
+
+A Inteligencia Artificial (IA) tem sido amplamente usada para apri-
+morar a experiencia do usuario (UX) em diferentes sistemas com-
+putacionais. Neste contexto, este artigo tem como objetivo analisar
+a IA usada na Netflix e verificar os sentimentos hedonicos propor-
+cionados a seus usuarios. Para atingir o objetivo, sao utilizadas
+diferentes tecnicas de avaliaçao oriundas da areas de Interaçao
+Humano-Computador (IHC). Os resultados demonstram que a com-
+binaçao das tecnicas de avaliaçao podem contribuir para identificar
+os sentimentos dispertados pelo sistema de recomendaçao.
+
+**INTRODUCAO**
+
+A cada dia, mais pessoas aderem ao uso de sistemas e redes sociais
+para buscar entretenimento e comodidade em suas vidas. Buscando
+oferecer esta comodidade, muitas empresas tendem a disponibilizar
+novas formas de potencializar o acesso aos seus produtos. Uma
+das tecnicas comumente usadas e a Inteligencia Artificial (IA), que
+tem como objetivo oferecer apoio a decisao e ao controle de dados
+com base em fatos reais . Desta forma, a IA ajuda a controlar o
+conteudo mais adequado para cada acesso.
+
+A NetFlix e um serviço de stream de filmes e series que reproduz
+acervos proprios, originalmente produzidos pela propria empresa,
+bem como disponibiliza um vasto catalogo do qual ela compra di-
+reitos autorais de diversas empresas cinematograficas. Entre outras
+tecnicas, a NetFlix utiliza a IA para sugerir opçoes de filmes e series
+dentro de preferencias selecionadas pelo usuario e, assim, mante-lo
+interessado em assistir a sua programaçao.
+
+Miranda descreve um estudo sobre a Big Data da NetFlix e
+seus algoritmos de recomendaçao. O autor afirma que, a tecnica
+oferecida pela Big Data consegue dar um bom feedback sobre o que
+o publico gosta, gracas ao cruzamento e associaçoes de dados entre
+os milhares de perfis existentes na NetFlix.
+
+Neste sentido, a questao a ser investigada e: o sistema de reco-
+mendaçao utilizado pela NetFlix, de alguma forma, gera sentimentos
+hedonicos positivos, atraindo o usuario?
+
+A fim de analisar a reaçao dos usuarios e responder a pergunta
+com relaçao ao sistema de recomendaçao utilizado pela NetFlix,
+foi idealizada uma pesquisa dividida em duas partes. A primeira
+utilizando um metodo de Inspeçao de Usabilidade. A segunda para
+avaliar a UX. Esta pesquisa e do tipo exploratoria, na qual formulam-
+se hipoteses e levantam-se soluçoes para o problema apresentado.
+Para tal, utilizou-se uma abordagem de analise de dados qualitativa.
+
+**METODOLOGIA**
+
+A NetFlix utiliza dois metodos para alimentar sua IA: (i) Algo-
+ritmo de Recomendaçao, onde um filme escolhido por um usuario
+e buscado em outros perfis de usuarios, permitindo identificar pre-
+ferencias semelhantes, o que gera novas recomendaçoes ; e (ii)
+Banco de Dados de Posteres, que consiste em gerar posteres dife-
+rentes para um mesmo filme, levando em consideraçao a regiao
+do usuario, atores mais frequentes nas escolhas de seus filmes e os
+filmes assistidos recentemente.
+
+Segundo , o sistema de recomendaçao utilizado na NetFlix vai
+alem da utilizaçao de algoritmos baseados na IA, levam em conside-
+raçao conceitos de marketing e as açoes espontaneas dos usuarios,
+tais como, compartilhar suas preferencias e indicar conteudo para
+pessoas de sua rede de relacionamentos. Segundo os autores, estas
+açoes disponibilizadas no sistema ajudam a causar sentimentos de
+confiança por parte do usuario.
+
+Para analisar se estes dois fatores sao notados pelo usuario, e a
+questao de recomendaçoes dos usuarios, foram aplicados metodos
+de avaliaçao. Sendo um deles com um especialista em Interaçao
+Humano-Computador (IHC) e outro com dois usuarios da NetFlix.
+Os metodos utilizados foram, Inspeçao de Usabilidade para o es-
+pecialista atraves de um Percurso Cognitivo e avaliaçao de UX
+utilizando EmoCards para os usuarios.
+
+A avaliaçao com o especialista foi realizada duas vezes, com um
+intervalo de dois meses, utilizando uma conta criada para o experi-
+mento, a fim de identificar alguma mudança nas recomendaçoes da
+NetFlix. Apos dois meses, a diferença notada pelo avaliador foi, a
+inserçao de uma nova categoria de filmes em seu feed, durante o
+periodo em que a conta nao foi utilizada.
+
+A avaliaçao com os usuarios foi realizada durante o periodo de
+setes dias numa mesma conta, tambem criada para o experimento,
+com uma pessoa de 14 anos e uma de 50 anos. Os usuarios nao aces-
+savam a conta simultaneamente, o primeiro acessava no periodo
+diurno e o segundo no periodo noturno. Tambem foi averiguado
+que ambos tinham gostos diferentes para filmes e series, sendo
+um adepto de aventuras e o outro de comedias romanticas. Ao fim
+de cada periodo de uso, o usuario devia apontar no EmoCard a
+satisfaçao com a experiencia. O usuario noturno nao participou do
+primeiro dia de avaliaçao.
+
+Os usuarios tambem falavam, enquanto buscavam o que iam
+assistir, o que viam no feed, opinando sobre o que viam. Desta
+forma, foram anotadas estas observaçoes e comparadas depois com
+as observaçoes do usuario seguinte, a fim de averiguar se a NetFlix
+estaria agradando a ambos, estaria dando preferencia para um deles
+ou se ambos estariam insatisfeitos.
+
+Ao fim da semana, foi montada uma tabela com as reaçoes apon-
+tadas nos EmoCards, comparando os comentarios e emoçoes. Nos
+tres primeiros dias, o usuario diurno apresentou a experiencia como
+"agradavel", enquanto o noturno dizia ser "desagradavel”, no quarto
+e quinto dia foi colocado como “agradavel” para ambos, porem
+com intensidades diferentes. No sexto e setimo dia, foi apontado
+como "desagradavel" pelo usuario diurno e “agradavel" pelo usuario
+noturno.
+
+**DISCUSSOES**
+
+Ao observar tanto a avaliaçao do especialista, quanto dos usuarios,
+pode-se notar que a NetFlix, quando acessada por pouco tempo,
+como em um unico dia, nao realiza mudanças drasticas e notaveis
+no seu sistema de recomendaçao. Isso ficou perceptivel na inspeçao
+pelo especialista, uma vez que a unica diferença percebida foi a mo-
+vimentaçao da linha de documentarios para um local mais visivel ao
+usuario. Ja com uma analise por um periodo maior de tempo, como
+realizado nas avaliaçoes com usuarios, as mudanças sao notaveis,
+bem como a forma com que isso interfere na experiencia do usuario.
+
+Com relaçao a UX, foi notada uma variaçao nos sentimentos
+dos usuarios. O voluntario diurno, passou de uma experiencia mais
+agradavel para uma desagradavel, em diferentes intensidades. Por
+ser mais jovem e com mais experiencia computacional, talvez esse
+voluntario tivesse expectativas mais altas com o sistema. Ja o no-
+turno, passou de uma experiencia desagradavel para uma agradavel,
+em diferentes intensidades, o que pode ter sido ocasionado pela
+novidade que o sistema lhe causou.
+
+No caso do estudo do sistema de recomendaçao da NetFlix, bus-
+car voluntarios com gostos diferentes, e face-los acessarem a mesma
+conta tornou mais perceptivel a mudança nas recomendaçoes por
+meio dos posteres dos filmes. Essa mudança de padroes pode inter-
+ferir no humor do voluntario, alterando os resultados da avaliaçao
+da experiencia do usuario.
+
+RESULTADOS
+Apos realizadas as avaliacoes com o especialista e com os usuarios,
+e perceptivel que realizar avaliacoes com sistemas de recomendacao
+requer cuidados adicionais dos projetistas.
+A primeira reflexao esta na necessidade de um planejamento
+diferenciado para as avaliacoes. Como o sistema de recomendacao
+e sua IA, em especial neste tipo de sistema, devem ser executados
+com um prazo diferenciado, podendo incluir avaliacoes ao longo
+de varios dias, pode-se realizar um piloto do estudo para prever
+comportamentos e situacoes que possam ocorrer no estudo. Esse
+piloto ajudaria a construir cenarios dos testes. Nesta etapa, tambem devem ser bem selecionados os participantes que possam ter
+disponibilidade diaria para as avaliacoes e que possam observar as
+mudancas do sistema ao longo do tempo. Alem do desafio de ter um
+numero minimo de usuarios, esse monitoramento a medio/longo
+prazo altera as condicoes naturais do ambiente, podendo refletir
+nos testes e no humor dos voluntarios. Ainda, prever possiveis nuances nos testes em funcao do uso em um computador ou em uma
+televisao e importante.
+Considerando essas variaveis e a interferencia da IA nas decisoes
+do usuario, e importante escolher bem o tipo de testes de inspeccao
+e/ou avaliacao que serao realizados. Em uma observacao em laboratorio, por exemplo, o tempo disposto provavelmente nao seria
+viavel para alguma constatacao com relacao ao esperado. Nesta experiencia, em especial, a combinacao de tres tecnicas diferenciadas
+permitiu uma analise mais minusciosa dos resultados.
+Como o planejado reflete no executado, e importante que, na
+execucao, haja comprometimento dos voluntarios com a avaliacao
+diaria, e esforco extra do avaliador para observacao. Ainda, e importante que o voluntario se sinta bem no ambiente e possa estar
+conectado por mais tempo.
+Neste caso, adotou-se a estrategia de usar mais de um usuario em
+uma mesma conta, forcando o sistema de recomendacao a atender
+a gostos e comportamentos diferentes dos voluntarios. Essa colaboracao possui pros e contras, como ja comentado nas discussoes.
+Cabe a equipe que ira realizar os testes escolher o uso que melhor
+atenda aos objetivos do teste. No caso desta avaliacao, percebeu-se
+que o sistema tentou mesclar os gostos dos voluntarios, deixando
+ambos os usuarios satisfeitos com o que era apresentado.
+Como trabalhos futuros, sugere-se a realizacao de testes com
+usuarios utilzando, em conjunto com outros testes, avaliacao de
+comunicabilidade e com cenarios de uso distintos. Pode-se tambem
+propor mais recomendacoes para testes que tenham recursos de
+Inteligencia Artificial, adaptando e expandindo as atuais tecnicas
+existentes.
+
+**CONSIDERACOES FINAIS**
+
+A Inteligencia Artificial desempenha um papel crucial na personalizaçao da experiencia do usuario na NetFlix, mas este estudo demonstra que o sistema de recomendaçao nao e infalivel e requer atençao continua por parte dos projetistas. Os sentimentos dos usuarios podem variar ao longo do tempo, e a avaliaçao da experiencia do usuario deve ser abordada com cuidado, considerando as interaçoes complexas entre o sistema, os usuarios e seus contextos individuais. Este estudo destaca a importancia de se manter uma abordagem centrada no usuario ao se desenvolver e avaliar sistemas de recomendaçao.

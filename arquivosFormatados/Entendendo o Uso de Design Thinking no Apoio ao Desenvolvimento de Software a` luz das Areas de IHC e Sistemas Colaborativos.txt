@@ -1,0 +1,197 @@
+**RESUMO**
+
+O Design Thinking aparece na Engenharia de Software como
+uma abordagem promissora, incentivando a colaboraçao,
+auxiliando no entendimento e consequente especificaçao das
+necessidades do usuario. Inspirado em praticas de Design
+centradas no usuario, a abordagem ainda tem seus beneficios
+pouco conhecidos no apoio ao desenvolvimento de software.
+Assim, este projeto visa identificar como o Design Think-
+ing tem sido usado neste contexto. Propoe-se uma abor-
+dagem empirica de pesquisa baseada em multiplos estudos
+com usuarios e profissionais da industria, bem como es-
+pecialistas no uso da abordagem para explorar o assunto.
+Estes estudos serao conduzidos a luz de conceitos das ar-
+eas de Interaçao Humano-Computador (e.g., design cen-
+trado no usuario, personas) e Sistemas Colaborativos (e.g.,
+colaboraçao), vislumbrando contribuir para a integraçao das
+areas. Um primeiro estudo esta em andamento com instru-
+tores e alunos de academias de musculaçao visando tratar
+a problematica de instrutores e alunos trabalharem distantes
+uns dos outros e em relaçao aos treinos definidos. Resulta-
+dos preliminares do estudo indicam que o Design Thinking
+de fato permite uma melhor compreensao do usuario e suas
+necessidades. Estudos futuros fazem parte da nossa proposta
+de pesquisa para corroborar e expandir estes insights iniciais.
+
+**INTRODUCAO**
+
+A industria de software tornou-se altamente competitiva,
+havendo varios produtos do mesmo dominio de aplicaçoes
+para atender aos usuarios. Um produto precisa destacar-
+seperante os similares, satisfazendo seus usuarios com
+carac- teristicas novas e uteis. Os problemas que
+soluçoes de software tem tratado estao tambem cada vez mais
+complexos, exigindo equipes multidisciplinares e
+proximidade com os envolvidos na questao-os usuarios, para
+auxiliar no seu en- tendimento e proposta de soluçao.
+
+O Design Thinking (DT) surge como um conjunto de praticas
+inspiradas no Design para resoluçao e desenvolvimento de
+problemas, utilizando a empatia, a criatividade e a racionali-
+dade para atender as necessidades dos usuarios e concretizar
+os objetivos. Esta sendo utilizado para facilitar a geraçao
+de diferentes soluçoes para um determinado problema, pois
+combina o foco no usuario final, colaboraçao multidisciplinar
+e melhorias iterativas na criaçao de artefatos.
+
+A abordagem ganhou popularidade por ser vista como um
+novo paradigma para lidar com a resoluçao de problemas
+em areas como Educaçao e Medicina, e nao foi difer-
+ente na area de Tecnologia da Informaçao, em especial no
+desenvolvimento de software. A inspiraçao se deve tambem
+pela busca de profissionais com intuito de aproximar usuarios
+e desenvolvedores. O desenvolvimento agil foi um passo
+neste sentido, mas estudos apontam que empresas de software
+ainda continuam a desenvolver produtos que nao atendem as
+expectativas dos usuarios.
+
+Assim, este projeto visa identificar como a abordagem tem
+sido usada no apoio ao desenvolvimento de software (e.g.,
+praticas de uso, melhorias percebidas pela colaboraçao pro-
+movida, melhoria da qualidade dos requisitos em funçao
+do uso integrado de tecnicas de engenharia e Design, etc).
+Considera-se a investigaçao do uso desta abordagem per-
+tinente a esta trilha de integraçao do Interaçao Humano-
+Computador (IHC) com Sistemas Colaborativos (SC) visto a
+natureza intrinseca colaborativa do desenvolvimento de soft-
+ware, trazendo aspectos da area de SC, e a origem do DT
+ser baseado em principios de Design e ter seu foco centrado
+no usuario, os quais tem suas raizes na area de IHC. Assim,
+este artigo brevemente apresenta o conceito de DT ediscorre
+sobre seu uso no desenvolvimento de software, bem como in-
+troduz a visao geral da investigaçao proposta, incluindo sua
+abordagem metodologica e destacando um estudo inicial em
+realizaçao. Tambem discorre sobre como este topico tem po-
+tencial para integrar nao apenas pesquisadores mas tambem
+as areas de IHC e SC no contexto de desenvolvimento de soft-
+ware.
+
+**DESIGN THINKING**
+
+O termo Design Thinking normalmente e atribuido a Peter
+Rowe, por sua publicaçao intitulada 'Design Thinking', em
+1987, sobre o processo de Design na arquitetura e no planeja-
+mento urbano. Desde entao diversos modelos de Design
+Thinking (DT) emergiram, com base na utilizaçao em difer-
+entes teorias das areas de Design, Psicologia e Educaçao.
+DT e uma abordagem centrada no usuario, composta de um
+conjunto de tecnicas e ferramentas, que utiliza uma visao iter-
+ativa para produzir e analisar de forma criativa soluçoes para
+desafios reais. E vista como uma forma eficaz no desco-
+brimento de informaçoes detalhadas, visando a empatia dos
+usuarios e entendimento do contexto de uso para desenvolver
+uma maior compreensao da necessidade destes usuarios.
+Sucintamente, Brown (2008) destaca tres pontos importantes
+: (i) foca no Design centrado no ser humano, (ii) permite
+a criaçao de soluçoes de projetos viaveis que atendam as ne-
+cessidades dos clientes com valor agregado; e (iii) serve para
+projetar artefatos, portanto, Design eparte integrante do DT.
+
+Dentre os modelos de DT, o modelo de processo de Design
+duplo diamante (Double Diamond Design Process model) e
+um dos mais conhecidos. O modelo e constituido de 4
+etapas, denominadas: Descobrir, Definir, Desenvolver e En-
+tregar, organizadas em estagios divergentes e convergentes do
+processo de Design, conforme ilustrado na Figura 1. Mais es-
+pecificamente, tem-se: (1) Primeira etapa, primeiro diamante,
+representa a parte inicial divergente do projeto: a etapa de
+descoberta, na qual o designer procura novas oportunidades,
+mercados, informaçoes, tendencias e insights []. Tambem
+chamada de imersao preliminar, pois objetiva o entendimento
+inicial do problema. (2) Segunda etapa, primeiro dia-
+mante, marca o estagio de definiçao, um tipo de 'filtro'
+no qual os primeiros insights sao revisados e selecionados. Tambem chamada de imersao em profundidade, pois
+identifica as necessidades e oportunidades para a geraçao de
+soluçoes nas proximas etapas. (3) Terceira, segundo dia-
+mante, representa o periodo de desenvolvimento de potenci-
+ais soluçoes para a etapa anterior. Tambem chamada
+de analise e sintese, pois os envolvidos usam todos os da-
+dos obtidos, agrupando os que sao em comum. Isto faz com
+que os problemas mais recorrentes sejam identificados. E,
+(4) Quarta etapa, segundo diamante, visa a convergencia da
+soluçao e marca a entrega, que por sua vez centra todas as
+etapas com a validaçao do que foi produzido.
+
+Embora haja diversas definiçoes para DT, todas gravitam na
+mesma filosofia que abrange o pensamento criativo, o con-
+hecimento contextual e os cenarios na aplicaçao de uma
+possivel soluçao. Para isto, diversas tecnicas sao uti-
+lizadas, como destacado a seguir. A (a) Pesquisa de Campo
+Inicial visa a obtençao da compreensao do contexto, auxil-
+iando no entendimento de perfis de usuarios e do ambiente
+em que a equipe explorara a possivel soluçao do problema.
+Estas pesquisas objetivam o entendimento geral do contexto
+e suas tendencias. (b) A Pesquisa desk objetiva fazer lev-
+antamentos nas mais variadas fontes sobre o projeto e suas
+tendencias. Esta pesquisa e feita quando existe a necessi-
+dade de aprofundar informaçoes a respeito de questoes sug-
+eridas ao longo do projeto. Tambem chamada de pesquisa
+secundaria e consiste na equipe tentar reunir o maximo de
+informaçoes sobre o contexto. Estas sao capturadas de meios
+como internet, jornais, TV, livros, entre outros. (c) O
+Brainstorming reune pessoas que se concentram em discutir
+um determinado assunto, proporcionando uma dinamica em
+grupo para coletar informaçoes e ideias sob diversas perspec-
+tivas. O objetivo e garantir o debate de diversas ideias
+para escolha futura baseada em criterios de seleçao como de-
+sejo do usuario, viabilidade tecnologica e de negocios.
+(d) A tecnica Persona consiste na elaboraçao de uma pes-
+soa ficticia que sintetiza os comportamentos, representando
+as motivaçoes, desejos, expectativas e necessidades dos en-
+volvidos no uso da soluçao. Ja a (e) Jornada do usuario
+descreve os passos percorridos antes, durante e depois de de-
+terminada atividade do usuario a ser analisada.
+
+Os estudos sobre DT no apoio ao desenvolvimento de soft-
+ware sao ainda limitados. Por exemplo, Souza, Ferreira e
+Conte (2017) identificaram atraves de um mapeamento
+sistematico da literatura que as tecnicas e ferramentas uti-
+lizadas para apoiar o uso de DT neste contexto sao em geral
+definidas baseadas no tipo de problema a ser resolvido, no
+publico-alvo, no tempo de projeto, e entre outros fatores rela-
+cionados ao contexto do problema []. Por sua vez, Vetelli
+et al. (2013) argumentaram que a utilizaçao de DT pode
+auxiliar os processos de engenharia de requisitos visto que
+DT incentiva a identificaçao das necessidades dos clientes,
+mas nao demonstraram a aplicabilidade de sua proposiçao.
+
+**OBJETIVO DA PESQUISA**
+
+Como um primeiro passo para o entendimento de como o De-
+sign Thinking (DT) pode apoiar o desenvolvimento de soft-
+ware, esta pesquisa visa primeiramente caracterizar como a
+abordagem DT tem sido utilizada neste contexto. Mais es-
+pecificamente, visa-se explorar este fenomeno a luz dos con-
+ceitos das area de IHC e Sistemas Colaborativos com o intuito
+de promover a integraçao das area.
+
+Vai-se seguir uma abordagem empirica qualitativa  no
+desenvolvimento da pesquisa visando a aproximaçao com
+profissionais da industria e usuarios bem como especialistas
+no uso de DT para facilitar o entendimento do fenomeno na
+pratica. A pesquisa vai ser realizada baseada em multiplos
+estudos, quais sejam: um estudo com usuarios para identi-
+ficar a aplicabilidade do uso de DT na pratica (em andamento,
+concluindo a etapa de coleta e analise de dados, com resulta-
+dos preliminares a serem apresentados ), um estudo de
+campo baseado em entrevistas com profissionais da indústria
+para identificar como os mesmos tem usado DT em seu dia a dia (planejamento em andamento, com mais de 50 profissionais da industria confirmados como participantes candidatos), e uma survey para corroborar o aprendizado da etapa anterior. O primeiro estudo aplicou 10 tecnicas propostas pelo DT com instrutores e alunos de academias de musculacao para o entendimento de como ambos papeis podem se aproximar e visar a qualificacao dos treinos dos alunos. A situacao problematica foi escolhida baseada na experiencia pessoal de dois dos autores, sendo um deles Bacharel em Educacao Fisica. Como resultados das etapas Descobrir e Definir do modelo Duplo Diamante, identificou-se que o DT de fato promove a interacao com o usuario e o engajamento dos mesmos.
+
+INTERSECCAO COM IHC
+
+O tema de Design Thinking inerentemente utiliza-se de conceitos da area de IHC bem como promove a colaboracao com usuarios, o que caracteriza um dos aspectos investigados pela area de Sistemas Colaborativos. Este tema vai ser explorado no contexto de desenvolvimento de software, que por sua vez apresenta intrinsecamente caracteristicas colaborativas. Desta forma, esta pesquisa aproxima ambas as areas. Os estudos vao seguir uma abordagem empirica qualitativa visando o entendimento do fenomeno na pratica, visando, tambem, identificar as potenciais tecnicas que promovem integracao entre IHC e SC. Estes estudos vao ser conduzidos por uma pesquisadora em fase de doutoramento com experiencia na industria (primeira autora) e duas pesquisadoras seniores que possuem seus interesses de pesquisa nas areas de SC (segunda autora) e IHC (terceira autora) bem como a Engenharia de Software como area de interseccao. Ambas pesquisadoras seniores possuem historico de trabalharem conjuntamente em projetos empiricos e qualitativos, e participam ativamente das areas mencionadas, tendo sido a oportunidade de integracao das areas a razao principal da parceria estabelecida.
+
+**CONSIDERAÇOES FINAIS**
+
+Este artigo buscou apresentar uma reflexao sobre o uso do Design Thinking (DT) no desenvolvimento de software, com foco na integraçao das areas de Interaçao Humano-Computador (IHC) e Sistemas Colaborativos (SC). A abordagem empirica proposta, baseada em multiplos estudos com usuarios, profissionais da industria e especialistas em DT, visa caracterizar como essa abordagem tem sido utilizada e identificar as tecnicas que promovem a integraçao entre IHC e SC. Espera-se que esta pesquisa contribua para uma melhor compreensao do potencial do DT no desenvolvimento de software e para o fortalecimento da colaboraçao entre as areas de IHC e SC.

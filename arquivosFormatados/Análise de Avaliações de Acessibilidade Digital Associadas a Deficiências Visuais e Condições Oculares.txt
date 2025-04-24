@@ -1,0 +1,116 @@
+**RESUMO**
+
+Este artigo mostra a analise de avaliaçoes de aplicativos populares
+da Google Play Store que relatam problemas de acessibilidade que afetam pes-
+soas com deficiencia ou condiçoes oculares. Os resultados mostram que tais
+avaliaçoes sao escassas, mas suficientes para evidenciar barreiras que afetam
+usuarios associados a 36 tipos de deficiencias visuais ou condiçoes oculares.
+
+**INTRODUCAO**
+
+Estudos sobre avaliaçoes feitas por usuarios em lojas de aplicativos sao valiosas fon-
+tes de informaçoes sobre aspectos gerais da qualidade dos aplicativos moveis, in-
+cluindo acessibilidade. Portanto, este artigo apresenta um resumo
+de um trabalho publicado anteriormente, cujo objetivo foi analisar
+barreiras reais com base em avaliaçoes que estao especificamente associadas com usuarios
+com deficiencia visual ou condiçoes oculares. Os principais objetivos desta pesquisa sao:
+(i) mostrar que os problemas relacionados a acessibilidade reportados por usuarios podem
+ser associados a deficiencia visual ou condiçoes oculares; (ii) elencar as principais bar-
+reiras mencionadas pelos usuarios, bem como os recursos tecnologicos envolvidos; (iii)
+Entender como a pontuaçao da avaliaçao do usuario e distribuida na amostra; e (iv) pro-
+ver um conjunto de dados para fomentar pesquisas futuras nesta tematica. As questoes de
+pesquisa que guiaram este trabalho estao apresentadas na Seçao 3.
+
+**PROCEDIMENTOS METODOLOGICOS**
+
+A Figura 1 ilustra o processo de obtençao e analise de dados desta pesquisa. No Passo 1,
+foram coletadas 179.519.598 avaliaçoes de usuarios dos 10 aplicativos mais populares de
+cada uma das 34 categorias da Google Play Store. No Passo 2, uma filtragem baseada
+em 403 palavras-chave relacionadas a deficiencias visuais e condiçoes oculares reduziu
+esse conjunto para 13.239 avaliaçoes. No Passo 3, uma inspeçao manual feita por cinco
+pesquisadores selecionou apenas as 4.999 avaliaçoes que de fato estavam relacionadas a
+acessibilidade da aplicaçao avaliada. Por fim, no Passo 4, foram atribuidos dois rotulos
+a cada uma das 4.999 avaliaçoes de acessibilidade da amostra: i) deficiencia visual ou
+condiçao ocular associada e declarada pelo usuario; e ii) avaliaçao positiva ou negativa.
+
+**RESULTADOS E DISCUSSOES**
+
+Um resumo das respostas as questoes de pesquisa do estudo sao apresentadas a seguir.
+
+QP1 Quantas avaliaçoes de acessibilidade sao associadas com deficiencia visual e
+com condiçoes oculares?
+
+Foram identificadas 4.999 avaliaçoes de acessibilidade que expressam questoes que afe-
+tam usuarios com deficiencia visual ou condiçoes oculares. No total, 936 avaliaçoes
+(18.7%) sao positivas e 4.063 (81.3%) sao negativas. Os dez aplicativos com mais
+avaliaçoes de acessibilidade sao Facebook (376), WhatsApp (233), Amazon Kindle
+(203), Gboard (199), Gmail (196), Google Chrome (187), YouTube (169), Instagram
+(132), Your Version Bible (129) e Twitter (117). As avaliaçoes negativas mostraram-
+se comuns em aplicativos que exploram recursos mais visuais, como em aplicativos de
+midia social; enquanto as positivas sao mais predominantes em aplicativos baseados prin-
+cipalmente por textos, como o aplicativo Amazon Kindle.
+
+QP2 Quais sao as deficiencias visuais e condiçoes oculares relacionadas as
+avaliaçoes de acessibilidade?
+
+As 4.999 avaliaçoes de acessibilidade digital identificadas estao associadas a 36 tipos
+de deficiencias visuais e condiçoes oculares. As mais citadas foram Deficiencia Visual
+(2207), Cegueira (823), Fadiga Ocular (559), Fotofobia (335), Possivel Fotofobia (331),
+Baixa Visao (211), Daltonismo (134), Cegueira Legal (125), Presbiopia (olhos velhos)
+(106), Visao Parcial (85), Cegueira Parcial (44), Catarata (31), Astigmatismo (30), Olhos
+Fracos (28), Miopia (21), Degeneraçao Macular (13), Glaucoma (13), Olho Seco (9), Re-
+tinopatia Diabetica (5), e Fotoceratite (4). A Figura 2 apresenta um mapa de calor com a
+distribuiçao de deficiencias visuais e condiçoes oculares mais citadas entre os 10 aplicati-
+vos mais avaliados. Cada celula indica o numero de avaliaçoes associadas ao aplicativo e
+a deficiencia/condiçao. Por exemplo, o aplicativo Facebook possui 62 avaliaçoes associ-
+adas a fotofobia.Nota-se que algumas condiçoes, tais como fadiga ocular e fotofobia, sao
+comumente listadas em aplicativos em que os usuarios tendem a passar mais tempo, tais
+como Facebook, Kindle, YouTube, WhastsApp Messenger e Gmail.
+
+QP3 Quais componentes de interface sao mais mencionados nas avaliaçoes de
+acessibilidade?
+
+Foram identificados os 20 componentes de interface mais mencionados nas avaliaçoes de
+acessibilidade investigadas Texto (388), Fonte (373), Cor (302), Plano de Fundo (271),
+Botao (229), Imagem (154), Video (146), Audio (119), Rotulo (105), Impressao (81),
+Mapa (67), Menu (64), Icone (60), Layout (57), Notificaçao (53), Lista (45), Link (44),
+Barra (32), Midia (32), e Emoji (25). A Figura 3 mostra a distribuiçao de avaliaçoes
+associadas aos recursos de interface. Para alguns recursos, algumas deficiencias visuais e
+condiçoes oculares sao frequentemente mencionadas pelos usuarios, como por exemplo,
+“Fonte” e “Baixa Visao” (41), “Botao” e “Cegueira” (67), e “Cor” e “Daltonismo” (96).
+Este resultado pode indicar quais componentes precisam ser mais observados enquanto
+na fase de design do produto.
+
+QP4 Quais sao as pontuaçoes emitidas pelos usuarios das avaliaçoes associadas
+com deficiencia visual e com condiçoes oculares?
+
+Apesar de algumas exceçoes, as avaliaçoes positivas estao associadas a pontuaçao elevada
+e as avaliaçoes negativas a pontuaçao baixa. As avaliaçoes negativas estao ligeiramente
+concentradas nas notas 1, e as avaliaçoes positivas estao concentradas nas pontuaçoes
+mais altas 4 ou 5 estrelas. O mesmo padrao nao foi observado em estudos anteriores,
+no qual a pontuaçao de criticas positivas e negativas seguiram quase a
+mesma distribuiçao.
+
+**CONCLUSAO E TRABALHOS FUTUROS**
+
+Este e o maior estudo sobre avaliaçoes de acessibilidade e o primeiro a investigar
+avaliaçoes especificamente associadas a deficiencia visual e condiçoes oculares. Tal
+analise auxilia na identificaçao de barrerias reais e questoes mais urgentes com relaçao
+a acessibilidade dos aplicativos, principalmente por se tratar de relatos feitos com base no
+uso cotidiano de dispositivos moveis e nao em ambientes controlados de avaliaçao.
+
+As principais contribuiçoes deste trabalho sao i) disponibilizaçao dos dados utili-
+zados nesta pesquisa ii) evidencias de que os usuarios enfatizam o quanto os problemas
+de acessibilidade digital afetam pessoas com deficiencia visual ou condiçoes oculares de
+forma especifica iii) identificaçao dos componentes e recursos de interface que constan-
+temente sao menos acessiveis e iv) evidencias de que a falta de acessibilidade faz com
+que os usuarios com deficiencia visual atribuam pontuaçoes mais baixas aos aplicativos.
+
+Em trabalhos futuros, pretende-se realizar analise de conteudo manual para extrair
+informaçoes valiosas da nossa amostra e criar um guia interativo no qual os profissionais
+possam explorar topicos de acessibilidade e navegar por avaliaçoes de acessibilidade para
+entender as evidencias de cada recomendaçao de acessibilidade.
+
+**CONCLUSAO**
+
+Este estudo demonstra a importância de considerar as necessidades de usuários com deficiência visual ou condições oculares ao avaliar a acessibilidade de aplicativos móveis. Ao analisar as avaliações dos usuários, foi possível identificar barreiras específicas e componentes de interface problemáticos, fornecendo insights valiosos para desenvolvedores e designers. Em trabalhos futuros, a análise manual de conteúdo e a criação de um guia interativo podem aprofundar ainda mais a compreensão das necessidades desses usuários e promover a criação de aplicativos mais acessíveis e inclusivos.

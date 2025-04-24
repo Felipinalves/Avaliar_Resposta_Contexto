@@ -1,0 +1,238 @@
+**RESUMO**
+
+Este artigo relata a experiencia da realizaçao de uma disciplina
+sobre acessibilidade e inclusao digital em conjunto com um
+projeto de extensao, para promover a açao entre estudantes e
+comunidades externas na produçao de materiais educacionais
+abertos e acessiveis. A disciplina foi ofertada no primeiro se-
+mestre de 2018 a estudantes dos cursos de Bacharelado em
+Sistemas de Informaçao (BSI) e Engenharia da Computaçao
+(EC) da Universidade Tecnologica Federal do Parana
+(UTFPR). A combinaçao entre disciplina e projeto de extensao
+teve como objetivo apresentar aos estudantes fundamentaçao
+teorica e desafios praticos, e incluiu o envolvimento das co-
+munidades na definiçao e produçao de materiais relacionados
+as necessidades dessas pessoas. Deste modo, a disciplina resul-
+tou no desenvolvimento de Recursos Educacionais Abertos
+(REAs) com temas de demanda dos membros das comunida-
+des. Os REAs foram utilizados em cursos-piloto, ofertados
+pelos(as) estudantes para membros das comunidades externas
+envolvidas nas decisoes do projeto. As açoes resultantes da
+união entre disciplina e projeto de extensao podem ser utiliza-
+das como estudo de caso para pessoas que desejam realizar
+atividades semelhantes as desempenhadas pelas pessoas que
+escreveram este artigo, e que sao discutidas neste trabalho.
+
+**INTRODUCAO**
+
+A disciplina "Acessibilidade e Inclusao Digital", ofertada no
+primeiro semestre de 2018, para seis estudantes dos cursos de
+BSI e onze estudantes do curso de EC, da UTFPR foi baseada
+na estrutura e na proposta da disciplina descrita por Leite e
+Almeida . A disciplina apresentada neste artigo buscou
+apresentar alternativas para as dificuldades indicadas no traba-
+lho de Leite e Almeida, tais como os problemas encontrados
+na relaçao entre universidade e comunidade para a criaçao de
+projetos que envolvessem estudantes e as necessidades da co-
+munidade; e o formato do projeto criado pelos(as) estudantes
+que, por serem caracterizados como prototipos, dificilmente
+seriam utilizados pela comunidade de maneira imediata .
+
+Neste contexto, o presente trabalho tem como objetivo relatar a
+experiencia da disciplina e dos projetos criados pelos(as) estu-
+dantes, com base nos problemas e contribuiçoes de Leite e
+Almeida , assim como as diferenças da disciplina discutida
+neste trabalho em relaçao ao que foi relatado no artigo utiliza-
+do como referencia. Para realizar essas discussoes, o presente
+artigo e dividido nas seguintes seçoes: Organizaçao da Disci-
+plina; Abordagem Pedagogica; Os REAs no Projeto de Exten-
+sao; Resultados; e Consideraçoes Finais.
+
+**ORGANIZAÇAO DA DISCIPLINA**
+
+Dentre os objetivos da disciplina estao a discussao e a compre-
+ensao dos processos de inclusao social, inclusao digital e aces-
+sibilidade, particularmente das pessoas com deficiencia; e o
+entendimento sobre ferramentas para realizar tarefas e/ou de-
+senvolver artefatos que vao em direçao a inclusao social.
+
+Dentre as questoes apresentadas estao aquelas relacionadas ao
+contexto historico das praticas sociais (exclusao social, aten-
+dimento segregado, integraçao social e inclusao social); con-
+ceitos e termos como pessoas com deficiencia, pessoas com
+necessidades especiais e normalizaçao; tecnicas para o envol-
+vimento e a colaboraçao das pessoas interessadas no desenvol-
+vimento de projetos; e a relevancia das diretrizes de acessibili-
+dade. Com base nessas questoes, a disciplina tem como objeti-
+vo apresentar nao somente fundamentaçao teorica para os(as)
+estudantes, mas tambem conhecimento pratico.
+
+Os proximos paragrafos expoem a organizaçao da disciplina.
+
+Carga Horaria
+45 aulas presenciais, distribuidas em 3 aulas semanais, que ocorrem sequencialmente, em um mesmo dia.
+Estrutura Fisica
+A disciplina e realizada em laboratorio de computadores, conectados a internet, para uso individual de cada estudante.
+Pre-requisitos
+Os estudantes precisam ter cursado a disciplina Introducao a Interacao Humano-Computador (ofertada a partir do terceiro periodo nos cursos de BSI e EC) e estarem pelo menos no quarto periodo de seus cursos.
+Objetivo
+Construir com os estudantes uma compreensao plural dos processos de inclusao digital e de acessibilidade por meio do projeto de recursos educacionais abertos e acessiveis, segundo a perspectiva de participacao e respeito a diversidade no projeto, no acesso e no uso de tais materiais.
+Conteudos abordados
+A disciplina relatada neste trabalho tem como topicos de conteudo os mesmos relatados por Leite e Almeida (Acessibilidade e Inclusao Digital; Envolvimento e Colaboracao, Acessibilidade e Usabilidade Web; Tecnologias Assistivas; Acessibilidade para Dispositivos Moveis; Acessibilidade para Desktop; e Acessibilidade para Jogos Digitais), entretanto, modificacoes foram realizadas para atualizar o conteudo eou adequa-lo ao perfil dos estudantes matriculados. A seguir sao apresentadas as descricoes gerais de cada topico, assim como as principais alteracoes propostas em relacao ao trabalho utilizado como base para organizar esta disciplina.
+Acessibilidade e Inclusao Digital (6 aulas)
+Este topico aborda conceitos como acessibilidade, inclusao digital, praticas sociais (exclusao social, atendimento segregado, integracao social e inclusao social), modelos da deficiencia, identidade e diferenca e termos utilizados em discursos sobre as questoes de inclusao e de acessibilidade .
+Envolvimento e colaboracao (3 aulas)
+Este topico aborda questoes relacionadas a tecnicas e motivacoes para o envolvimento das pessoas, que podem se interessar ou ser afetadas por uma tecnologia no desenvolvimento .
+Acessibilidade e Usabilidade Web (9 aulas)
+Este topico, em relacao ao trabalho de Leite e Almeida, sofreu alteracao na quantidade de aulas atribuidas para a discussao de seu conteudo, que foi alterada de 3 para 9 aulas. Em relacao ao conteudo, este topico incluiu como base do material o trabalho de Santana, Almeida e Baranauskas , e mantem as discussoes sobre os conceitos de acessibilidade e de usabilidade no contexto Web, diretrizes de acessibilidade Web, ferramentas para avaliacao e validacao de padroes Web .
+Tecnologias assistivas (3 aulas)
+Este topico aborda as discussoes sobre a relevancia e os atributos das tecnologias assistivas, de hardware e de software, assim como seus conceitos e principais exemplos .
+Acessibilidade para Dispositivos Moveis (3 aulas)
+O conteudo deste topico apresenta as discussoes sobre os aspectos sociais e culturais sobre o desenvolvimento de aplicativos para dispositivos moveis .
+Acessibilidade para Desktop (1,5 aula)
+O conteudo deste topico visa apresentar os conceitos de Application Programming Interface (API) de acessibilidade e as diretrizes de acessibilidade para aplicacoes desktop .
+Acessibilidade para Jogos Digitais (1,5 aula)
+As diretrizes de acessibilidade para jogos digitais e suas caracteristicas, particularmente diretrizes sobre necessidades especificas sao os principais conteudos deste topico .
+
+**ABORDAGEM PEDAGOGICA**
+
+Esta seçao apresenta elementos da abordagem pedagogica da
+disciplina, que e baseada no modelo de Aprendizagem Basea-
+da em Problemas (PBL - do ingles Problem Based Learning).
+
+Distribuicao da Carga Horaria
+Cada encontro semanal e composto por tres aulas, duas reservadas para o conteudo da disciplina e uma para o desenvolvimento do projeto da disciplina. As aulas de conteudo sao caracterizadas como teorico-praticas. Deste modo, o docente faz uma breve exposicao do tema da aula e, em seguida, promove uma discussao com os estudantes, alem de realizar atividades praticas relacionadas ao que foi abordado na aula (e.g. avaliacao da utilizacao de diretrizes em sites; discussoes sobre as caracteristicas das tecnologias assistivas e de como elas podem ser utilizadas).
+Avaliacao
+A disciplina utiliza a abordagem de avaliacao formativa e colaborativa, de modo que os estudantes possam discutir e realizar tarefas em sala, que sao avaliadas pelo docente e tambem pelos colegas, o que propicia a todos a oportunidade de realizarem tarefas praticas e contribuirem com os trabalhos dos colegas. Alem disso sao realizadas duas avaliacoes na disciplina, uma com abordagem teorica e outra teorico-pratica.
+Dinamicas
+A disciplina promove a utilizacao de diferentes dinamicas no decorrer do curso. Existem atividades realizadas em sala pelos estudantes; atividades a ser realizadas fora do horario de aula; e aulas com conteudo expositivo que, sempre que possivel, sao finalizadas com discussoes sobre o conteudo ou atividades praticas em sala de aula.
+Projetos
+A disciplina propoe tambem o desenvolvimento de um projeto pratico. Os projetos criados pelos estudantes serao abordados detalhadamente na proxima secao.
+
+**REAS EM UM PROJETO DE EXTENSAO**
+
+A disciplina esta vinculada a um projeto de extensao, intitulado
+"Desenvolvimento de Projetos Comunitarios sobre Acessibili-
+dade e Inclusao Digital". A integraçao entre disciplina e proje-
+to de extensao, tem como objetivo propiciar a oportunidade de
+os(as) estudantes realizarem atividades contextualizadas sobre
+acessibilidade e inclusao e com isso atender demandas exter-
+nas ao conteudo da disciplina que sejam, tambem, relevantes
+para a comunidade.
+
+Para contornar o problema apontado por Leite e Almeida sobre
+o formato dos projetos, que foram caracterizados como prototi-
+pos , nesta disciplina a relaçao disciplina-projeto de exten-
+sao se deu por meio da produçao e do uso de Recursos Educa-
+cionais Abertos (REAs). Esses recursos tem como principal
+objetivo produzir materiais para atender demandas da comuni-
+dade, interna e/ou externa a universidade, para auxiliar na rea-
+lizaçao de tarefas que envolvem artefatos computacionais.
+
+Sobre os Recursos Educacionais Abertos (REAs)
+Segundo a UNESCO, os REAs sao materiais de ensino, aprendizado e pesquisa em qualquer suporte ou midia, que estao sob dominio publico, ou estao licenciados de maneira aberta, permitindo que sejam utilizados eou adaptados por terceiros. O uso de formatos abertos facilita o acesso, a adaptacao e o reuso potencial dos recursos publicados digitalmente. REAs podem incluir cursos completos, partes de cursos, modulos, livros didaticos, artigos de pesquisa, videos, softwares, e qualquer outra ferramenta, material ou tecnica que possa apoiar o acesso ao conhecimento .
+As vantagens dos REAs para os estudantes e para a sociedade e que oferecem acesso aberto a cursos e programas; tambem, podem ser adaptados a necessidades especificas, uma vez que como materiais abertos, propiciam ajustes por parte das pessoas interessadas em seus conteudos .
+Assim, a adocao de um projeto de REAs mostra-se uma alternativa pertinente na articulacao entre ensino e extensao, ao viabilizar que o conhecimento e a pesquisa feitos em sala de aula tornem-se de acesso aberto, adaptavel e gratuito a toda comunidade. A sociedade se beneficia com os REAs na medida em que eles propiciam o acesso a educacao para quem esta dentro e fora da escola, e incentiva praticas de colaboracao e compartilhamento. A apropriacao de REAs beneficia a sociedade ao incentivar que educadores, estudantes e membros da comunidade sejam reconhecidos como autores, ao propiciar condicoes para que os conhecimentos que ja existem sejam adaptados e apropriados a realidades locais .
+Segundo Ribeiro , dentro das instituicoes de ensino, a relevancia social da extensao e a clareza do compromisso social e uma das principais funcoes da universidade frente aos problemas sociais de seu tempo. Neste sentido, a autora enfatiza que o conhecimento e entendido como a construcao do novo, devendo ser assimilado e colocado a servico do bem comum e da equidade social e, por assim dizer, a servico do desenvolvimento economico e social do pais.
+Considerando a relevancia da extensao e as caracteristicas dos REAs, e possivel estabelecer uma conexao entre elas por meio de acoes de extensao como a relatada neste trabalho. Deste modo, os estudantes sao motivados a atuar na comunidade e concretizam esta acao por meio de materiais que, alem de atender demandas reais da comunidade, sao disponibilizados de maneira aberta. Disponibilizar estes conteudos para que possam ser adequados as realidades locais onde serao utilizados, e uma maneira de criar um intercambio entre o conhecimento produzido nas instituicoes de ensino e a realidade social.
+Caracteristicas do Projeto de Extensao
+Objetivo
+O projeto de extensao registrado na UTFPR tem como objetivo propiciar aos estudantes a realizacao de projetos para o atendimento de demandas reais, propostas pela comunidade externa ou interna a universidade.
+Justificativa
+Para os estudantes e uma oportunidade de, alem de aprender sobre acessibilidade e inclusao digital por meio de aulas e atividades praticas, experimentar o desenvolvimento de um material que sera disponibilizado a toda comunidade, por meio do REA, e atender demandas reais da comunidade.
+Para a comunidade e uma possibilidade de aproximacao com a universidade; o reconhecimento de suas demandas; e sua participacao cidada em questoes que a envolve. Alem disso, os REAs resultantes dos projetos dos estudantes estarao disponiveis para que outras pessoas possam usufruir de seu conteudo e tenham, tambem, suas necessidades atendidas.
+Recursos financeiros, humanos e equipamentos
+O projeto utiliza um servidor de aplicacao web para hospedar o Ambiente Virtual de Aprendizagem (AVA) da disciplina. Os sistemas computacionais que sao empregados para a execucao dos projetos sao software livre ou gratuitos e, portanto, nao implicam em custos para a execucao do projeto de extensao.
+Apos a finalizacao da disciplina e dos REAs produzidos, estes serao disponibilizados em um repositorio institucional.
+A disciplina contou com uma doutoranda em Tecnologia e Sociedade, que atua como estagiaria durante toda a disciplina e dois mestrandos, do mesmo programa, que atuaram como equipe editorial dos REAs, que tem, dentre suas atividades:
+a) A producao de um template editorial, que fornece um padrao de estilo e formatacao para os REAs com foco na acessibilidade dos conteudos;
+b) A elaboracao de um guia o conteudo dos REAs, elaborado com base no trabalho de Lima, Leite e Almeida , que fornece informacoes para consulta dos estudantes, sobre: terminologia para escrita sobre pessoas com deficiencia; a escrita de narrativas direcionadas ao empoderamento das pessoas; e como produzir conteudo web acessivel;
+c) Revisao dos REAs produzidos na disciplina, realizando correcoes quando necessario, para que estes sejam posteriormente publicados no repositorio institucional.
+Metodos e Procedimentos da Acao de Extensao em 2018
+O projeto foi conduzido seguindo cinco etapas realizadas no decorrer do semestre. Tal divisao viabilizou entregas parciais que possibilitaram melhor gerenciamento do tempo e o atendimento aos processos basicos necessarios para a entrega de um projeto: o conhecimento de um problema, o desenvolvimento de uma hipotese e sua posterior validacao. A seguir estao descritas as atividades de cada uma das etapas:
+
+Introducao ao projeto. Inicialmente, o docente apresentou aos estudantes os objetivos da disciplina como parte de um projeto de extensao, de modo que os estudantes compreendessem que o resultado do projeto seria produzir um REA e um curso-piloto, que atendessem a uma demanda interna ou externa a universidade. Os estudantes tambem foram orientados que a producao dos REAs e dos cursos-piloto deveria envolver membros da comunidade interna ou externa a universidade, atividades que caracterizam os resultados obtidos como acoes de extensao. Os estudantes tambem foram informados sobre a existencia da equipe editorial para auxiliar na producao dos REAs.
+
+Definicao da area do conhecimento e publico. Cada grupo selecionou uma area de conhecimento a qual o REA estaria vinculado, com o objetivo de determinar qual publico seria envolvido. Neste momento, o docente explicitou aos estudantes que essas areas de conhecimento poderiam estar relacionadas a temas que eles tivessem previo conhecimento ou sobre os quais acreditassem serem capazes de criar conteudos. A determinacao do publico estava condicionada a um minimo de 5 participantes que nao fossem familiares ou colegas de sala de aula. O objetivo foi, neste caso, estimular os estudantes a engajarem e inserirem seus trabalhos na sociedade, fazendo uma interlocucao entre as demandas da populacao e a universidade. Apos isso, foram definidos os conteudos a serem explorados nos REAs. Este conteudo foi sugerido pelo proprio publico, por meio de dinamicas conduzidas pelas equipes, nas quais os participantes discutiram, negociaram e selecionaram os temas.
+
+Elaboracao de uma versao inicial do REA. A partir das informacoes coletadas na Etapa 2, as equipes elaboraram versoes iniciais dos REAs e dos cursos-piloto. Esta versao inicial dos conteudos foi revisada pelos colegas seguindo criterios apresentados no guia de conteudo produzido pela equipe editorial, com atencao especial a terminologia adequada a conteudos que se referem a pessoas com deficiencia e a recomendacoes para a construcao das narrativas em conteudos textuais. Em sala de aula, os conteudos dos REAs foram revisados e alterados seguindo o feedback das outras equipes e orientacoes do guia editorial. Apos a revisao dos conteudos, o template de estilo e formatacao foi apresentado pela equipe editorial e aplicado aos REAs pelos estudantes em uma atividade pratica. Todos os projetos passaram por uma triagem para verificar a adequacao ao escopo da disciplina.
+
+Execucao do curso-piloto, com posterior coleta de feedback do publico e ajustes conforme resultados coletados. As equipes executaram um curso-piloto, cujo material foi baseado no REA, com o publico escolhido. Foram coletadas fotos, videos e depoimentos dos participantes. O objetivo do curso-piloto foi coletar feedback do publico, detectando problemas que posteriormente foram revisados para melhorar o conteudo e aprimorar o REA. Em sala de aula foram compartilhados com a turma os detalhes da organizacao do processo e os resultados finais do curso-piloto executado e do REA.
+
+Avaliacao dos projetos. Apos realizacao destas etapas, o docente e a equipe editorial realizou avaliacoes dos REAs seguindo os criterios de compatibilidade com o template sugerido, conformidade com as diretrizes de conteudo e adequacao a acessibilidade do codigo. Apos revisao, os materiais criados pelos estudantes, foram organizados e publicados no repositorio de REAs da universidade.
+Os procedimentos descritos, particularmente as etapas 1, 2 e 4 foram elaboradas para contornar o problema da relacao entre comunidade e universidade, apontado por Leite e Almeida .
+Resultados eou produtos esperados
+O principal resultado esperado e o exercicio da acao cidada pelos estudantes e pela comunidade. Dessa maneira, espera-se promover entre estudantes e pessoas da comunidade a compreensao da tecnologia como instrumento para estimular a cidadania. Espera-se reforcar tambem a relevancia da universidade como agente de transformacao da sociedade, ao desenvolver projetos de interesse da comunidade.
+Espera-se que a comunidade compreenda a universidade como um local acessivel, que respeita e tem interesse em suas demandas, sejam elas relacionadas ao ensino ou a criacao e uso de artefatos computacionais.
+Para os estudantes espera-se que eles compreendam a acao cidada como algo que pode relacionar o conteudo aprendido na universidade com acoes que busquem solucoes de problemas reais da comunidade.
+Riscos e Dificuldades
+Os principais riscos e dificuldades sao:
+A falta de interesse da comunidade em participar da definicao e da realizacao dos REAs e dos cursos-piloto. Este risco pode ser reduzido com a devida abordagem dos estudantes com as pessoas, de modo a explicar que elas sao agentes ativos na definicao do conteudo do curso e que este tem como objetivo atender uma demanda de ensino delas;
+A delimitacao do escopo do REA e do curso-piloto. Por se tratar de uma demanda real e participativa das pessoas envolvidas, e necessario que os projetos possam atender essas necessidades e ainda serem finalizados durante o periodo da disciplina. Para tanto, os estudantes sao orientados para estruturar os cursos-piloto, baseados nos REAs criados, que possam ser realizados em poucas horas;
+A nao utilizacao dos REAs por parte da comunidade, particularmente devido a baixa expectativa das pessoas em terem materiais como esses disponibilizados pela universidade. Esse risco pode ser contornado com a ampla divulgacao dos materiais distribuidos e maior proximidade entre universidade e comunidade.
+Uma vez definidos o projeto de extensao e as caracteristicas e conteudos da disciplina, a proxima secao abordara os projetos realizados pelos estudantes durante a disciplina.
+Projetos dos Estudantes
+Os proximos paragrafos apresentam o projeto de cada grupo de estudantes matriculados na disciplina e como os REAs foram criados de modo a propor um conteudo acessivel e que vai em direcao a inclusao.
+Todos os REAs criados possuem uma area que descreve, de maneira sucinta, as caracteristicas do curso, as pessoas envolvidas em sua criacao, seus objetivos e sua relacao com a disciplina e a universidade; e uma area para que as pessoas que acessarem este material, possam entrar em contato com o docente e com a equipe editorial do projeto. Uma vez que sao conteudos semelhantes, estas areas nao serao abordadas detalhadamente na descricao dos cursos realizada a seguir.
+Como utilizar o UBER no seu celular?
+No trabalho deste grupo, composto por quatro estudantes, foi criado um REA sobre como instalar e utilizar um aplicativo de dispositivo movel que auxilie na mobilidade urbana. O aplicativo a ser utilizado foi escolhido com o publico, um grupo de 19 idosos que frequenta a academia da universidade e possuem smartphone. O REA foi planejado para atender as necessidades do publico envolvido, mas nao se restringiu a eles, de modo que possa ser utilizado por qualquer pessoa interessada. O material foi dividido em 5 topicos: (1) instrucoes de como instalar o aplicativo; (2) instrucoes para criar uma conta no aplicativo; (3) detalhamento de itens do menu do aplicativo e sua interface grafica; (4) instrucoes sobre como solicitar uma viagem; e (5) instrucoes sobre como avaliar a corrida realizada.
+Os estudantes relataram a experiencia positiva de realizar o curso-piloto para 1 pessoa, de 7 confirmadas, da comunidade e as modificacoes necessarias em relacao ao curso-piloto e ao REA, como o conteudo do material ser planejado para outros sistemas operacionais e a realizacao do curso-piloto utilizando o proprio REA e nao outros materiais baseados no REA, como, por exemplo, apresentacao de slides. Os estudantes relataram ainda a relevancia da equipe editorial para realizar ajustes no material e as dificuldades de comunicacao com a comunidade, ainda que esta dificuldade nao tenha impedido a elaboracao do REA e realizacao do curso-piloto.
+Desenvolvimento de aplicacoes com o App Inventor
+O objetivo deste curso, criado por quatro estudantes, e auxiliar criancas com altas habilidades a desenvolverem um jogo simples com a ferramenta App Inventor. Essa ferramenta, criada pelo Google e atualmente mantida pelo Massachusetts Institute of Technology (MIT), propicia que pessoas nao familiarizadas com linguagens de programacao possam criar aplicacoes para o sistema operacional Android. A escolha por este tema e o objetivo do curso foi realizada juntamente com as sete criancas as quais o grupo teve contato. Este material foi dividido em duas grandes secoes: (1) Sobre o App Inventor, que apresenta as caracteristicas, interface grafica e requisitos para sua instalacao; e (2) instrucoes sobre como desenvolver um jogo com o App Inventor, com detalhamento sobre os recursos utilizados, movimentacao de elementos na tela e criacao de elementos da interface grafica do jogo.
+O grupo relatou, em aula, que 4 pessoas participaram do curso-piloto, realizado em 2 dias, com carga horaria de 3 horas por dia. Os estudantes utilizaram o proprio REA para a realizacao do curso-piloto que foi bem recebido pelos participantes, cujos depoimentos expressam a utilidade do REA e do curso-piloto e a satisfacao com o que foi ofertado. O grupo relatou tambem as dificuldades de cronograma para criar o REA e realizar o curso, devido a compromissos pessoais, mas que tal problema nao impediu a realizacao do projeto.
+Producao de conteudo acessivel no Portal da Universidade
+O grupo, composto por cinco estudantes, realizou um curso sobre criacao de conteudo acessivel para o portal da universidade. Diferente dos projetos anteriores, este nao discutiu com o publico sobre o conteudo do curso que eles desejavam, entretanto, as pessoas contatadas, servidores da universidade, apresentaram interesse na proposta dos estudantes e se disponibilizaram a participar do curso. O REA possui duas areas: (1) apresentacao da plataforma utilizada pelo portal, chamada Plone, e as caracteristicas de acessibilidade do portal; e (2) instrucoes sobre como utilizar os recursos do portal para inserir conteudos acessiveis como audio, imagens, links e documentos.
+Este grupo relatou que, apesar de ser baseado no REA, o curso-piloto sofreu alteracoes de conteudo durante a sua realizacao, uma vez que o material estava preparado para dar instrucoes e exemplos de como criar materiais acessiveis na plataforma do portal web da universidade, mas o publico presente (4 servidores da universidade) se mostrou interessado em aprender tambem sobre acessibilidade web para utilizarem em outras plataformas, diferentes do portal da universidade. Deste modo, os estudantes utilizaram o material utilizado na disciplina para adequar o curso-piloto as necessidades do publico.
+Segundo relatado, o publico foi participativo durante o curso-piloto que alem de terem suas expectativas atendidas, elogiaram a iniciativa da proposta de cursos e materiais para atender demandas da comunidade interna e externa a universidade.
+Seguranca e utilizacao de aplicativo movel do Banco do Brasil
+O projeto deste grupo, composto por quatro estudantes, teve como objetivo apresentar um curso sobre a utilizacao do aplicativo para dispositivos moveis do Banco do Brasil. Este tema foi selecionado juntamente com o publico, um grupo de aproximadamente 10 idosos que realiza atividades na universidade. Alem de apresentar o aplicativo do banco, o curso tambem oferece dicas sobre seguranca para navegacao web. Este material foi dividido em 6 areas, 5 sobre o aplicativo do Banco do Brasil e 1 sobre Seguranca na Web. Os materiais relacionados ao aplicativo apresentam conteudos sobre (1) configuracao inicial do aplicativo; (2) consulta a saldos e extratos bancarios; (3) instrucoes sobre como realizar pagamentos de faturas; (4) instrucoes sobre a realizacao de transferencias bancarias; e (5) instrucoes sobre como habilitar o recurso de debito autorizado para automatizar o pagamento de faturas.
+O grupo realizou o curso-piloto com 2 pessoas (65 e 82 anos) sobre aplicativos para realizar operacoes bancarias. Os estudantes relataram que o publico nao utilizava nenhum aplicativo com essas funcoes e que apesar de nao desejarem alterar suas rotinas em relacao a operacoes bancarias, como ir a agencia bancaria, pagar faturas no caixa ou retirar duvidas com o gerente, se mostraram interessados em conhecer mais sobre as possibilidades de acoes disponiveis nos aplicativos dos bancos.
+O grupo relatou que o REA nao foi utilizado por terem considerado mais apropriado usarem uma abordagem menos formal para discutir sobre os recursos dos aplicativos bancarios.
+Uma vez apresentados os projetos criados na disciplina para o projeto de extensao, a proxima secao aborda as contribuicoes e as dificuldades encontradas na execucao desta disciplina durante o semestre letivo, alem dos resultados da execucao de uma disciplina juntamente com um projeto de extensao.
+RESULTADOS
+A realizacao de acoes de extensao sao atividades que envolvem a universidade e a comunidade com o objetivo de propor a integracao delas para que juntas gerem praticas, ferramentas e materiais para atender demandas da sociedade. Entretanto, a realizacao dessa integracao pode gerar dificuldades ou imprevistos que precisam ser contornados para que acoes conjuntas continuem ocorrendo. As secoes a seguir apresentam as dificuldades encontradas para a realizacao da acao de extensao relatada neste trabalho, assim como suas contribuicoes.
+Dificuldades Encontradas
+Relacao entre Universidade e Comunidade
+Conforme relatado pelos estudantes, uma das dificuldades encontradas na realizacao da extensao foi o contato com a comunidade interna ou externa, para a elaboracao dos REAs e realizacao dos cursos-piloto. Segundo os estudantes, essa dificuldade pode ser contornada com maior envolvimento do docente nas etapas em que os estudantes entram em contato com a comunidade; inclusao de materiais sobre como tratar e envolver o publico, durante a disciplina; e disponibilizaçao previa do contato de grupos interessados em realizar acoes de extensao em conjunto com a disciplina. Essa dificuldade foi relatada anteriormente , entretanto, a abordagem utilizada nesta disciplina mostrou-se mais proveitosa, uma vez que nao dependia da utilizacao de um repositorio com sugestoes da comunidade para que os estudantes elaborassem os projetos.
+Contribuicoes
+Relevancia da abordagem da disciplina para os estudantes
+Segundo relato dos estudantes da disciplina a realizacao do projeto de extensao para a elaboracao dos REAs, apesar de trabalhoso foi considerado uma experiencia relevante para sua formacao pessoal e profissional, uma vez que promove o contato com pessoas diferentes daquelas do seu convivio diario, propicia maior integracao com a comunidade, valoriza o curriculo academico, exige maior aprofundamento no conhecimento sobre o conteudo que sera abordado no REA e os prepara para realizar acoes com pessoas de realidades e necessidades diferentes das deles. Deste modo, a experiencia propiciada pelo projeto de extensao se mostrou benefica para a formacao cidada, academica e profissional dos estudantes.
+Projetos que serao utilizados pela comunidade
+Assim como a propria proposta dos REAs, os materiais produzidos pelos estudantes serao disponibilizados no repositorio institucional de maneira aberta e gratuita o que torna o resultado do projeto de extensao um legado para a comunidade, que pode se beneficiar deste material para atender suas demandas e necessidades. Esse resultado ratifica a relevancia do projeto de extensao e sua realizacao juntamente a disciplina.
+
+**CONSIDERAÇOES FINAIS**
+
+A realizaçao do projeto de extensao vinculado a uma disciplina
+de graduaçao e os resultados alcançados, dao indicios da rele-
+vancia de açoes conjuntas entre universidade e comunidade,
+para a formaçao cidada dos(as) estudantes e fortalecimento da
+relevancia da universidade para a sociedade, particularmente
+por meio de açoes que promovam a participaçao das pessoas
+em prol do atendimento a suas demandas e necessidades.
+
+Os REAs e os cursos-piloto, criados e realizados durante a
+disciplina, atuam como exemplos de como e possivel realizar
+açoes entre universidade e comunidade, e entre estudantes e
+pessoas de outras realidades, com o objetivo de promover a
+aprendizagem contextualizada e a formaçao cidada e profissi-
+onal. Alem disso, essa experiencia traz contribuiçoes para o
+ensino de IHC ao ultrapassar as barreiras da sala de aula, pro-
+movendo a interaçao dos(as) estudantes com demandas reais
+da sociedade. Essa dinamica de ensino-aprendizagem mostrou-
+se vantajosa ao favorecer experiencias praticas, estimular a
+criatividade e incentivar o protagonismo dos(as) estudantes, ao
+prever que eles(as) estivessem a frente das atividades.
+
+O vinculo entre disciplina e projeto de extensao, se mostra bem
+sucedido ao serem analisados os resultados alcançados, nao
+apenas por meio dos REAs, mas pela formaçao dos(as) estu-
+dantes e do fortalecimento do vinculo entre comunidade e uni-
+versidade. Deste modo, disciplina e projeto de extensao apre-
+sentam-se nao apenas como instrumento para a criaçao de no-
+vos produtos e materiais, mas como meio para promover rela-
+çoes humanas e a formaçao de pessoas mais responsaveis e
+conscientes do seu papel na sociedade.
+
+**CONSIDERACOES FINAIS**
+
+Este artigo descreve uma experiencia bem-sucedida de integraçao entre ensino, pesquisa e extensao no contexto da inclusao digital. A articulaçao entre a disciplina e o projeto de extensao proporcionou aos estudantes uma formaçao mais completa, ao aliarem o conhecimento teorico a aplicaçao pratica em projetos que atendem a demandas reais da comunidade. Os resultados demonstram a relevância da universidade como agente de transformaçao social e a importancia de iniciativas que promovam a participaçao das pessoas em prol do atendimento a suas necessidades.

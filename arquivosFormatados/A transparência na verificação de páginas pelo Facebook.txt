@@ -1,0 +1,144 @@
+**INTRODUCAO**
+
+A popularidade de aplicativos de redes sociais aumentou a
+distribuiçao de informaçoes globalmente. Para um
+individuo, empresa ou instituiçao conseguir se destacar
+neste ecossistema digital, e necessario ser transparente e
+responsavel por suas respectivas açoes. No passado, as
+pessoas, atraves de perfis anonimos na Internet,
+costumavam disseminar conteudo nao confiavel, por meio
+de foruns, chats e outras ferramentas. O anonimato online
+encobriu praticas maliciosas, mas hoje, com a
+predominancia de aplicaçoes com apelo de socializaçao,
+qualquer conteudo publicado nesses sistemas esta associado
+a uma identidade bem definida representada em uma pagina
+ou perfil de usuario. As trocas e interatividade
+intrinsecas das redes sociais fazem com que seus usuarios
+se preocupem em relaçao a maneira como sao vistos por
+outrem neste ambiente, ou seja, o modo individual de lidar
+com a informaçao serve como base para construçao de um
+perfil comportamental dentro da comunidade que utiliza o
+sistema e o receio quanto a tratativa da informaçao parecia
+pouco afetar as empresas mantenedoras das redes sociais.
+Porem, apos uma sequencia de escandalos desqualificando
+a conduta dessas organizaçoes, a exigencia de transparencia
+se tornou uma questao urgente para as mesmas e uma
+reivindicaçao da sociedade.
+
+No centro dessa discussao esta a rede social Facebook, com
+numeros expressivos de usuarios diariamente ativos na
+plataforma, a empresa permitiu que seu sistema fosse
+manipulado e as informaçoes dos usuarios usadas com vies
+dissimulado. Essa manipulaçao da informaçao chegou a
+afetar acontecimentos importantes, como as eleiçoes norte-
+americanas de 2016, atraves da influencia que a rede social
+tinha sobre os usuarios que tiveram seus dados utilizados e
+processados sem respectivo consentimento.
+
+Este artigo resume atualizaçoes face a algumas das
+fragilidades na disponibilizaçao de transparencia para os
+usuarios do Facebook. A necessidade de pesquisar essa
+deficiencia e corroborada, nao so pela maneira como o
+funcionamento das ferramentas do sistema sao ocultadas ou
+mal explicadas, mas tambem pela ampla publicidade de
+casos, como o do uso indevido e nao autorizado de
+informaçoes dos usuarios pela rede social.
+
+**PAGINAS VERIFICADAS E TRANSPARENCIA**
+
+Pessoas com mas intençoes tem se aproveitado da
+incapacidade de alguns usuarios em distinguir identidades
+reais e falsas nas redes sociais, especialmente quando se
+tratam de figuras publicas, marcas e empresas. Neste
+cenario, e possivel manipular as pessoas atraves da
+publicaçoes a partir de paginas falsas.
+
+O Facebook lançou em 2013 uma ferramenta para
+habilitaçao de paginas verificadas visando ajudar seus
+usuarios a encontrarem contas autenticas. As paginas
+verificadas possuem um icone com uma marca de seleçao
+(selo azul) ao lado dos nomes das paginas verificadas e esse
+recurso visual tambem aparece nos resultados de pesquisa,
+linhas de tempo e outras seçoes no sistema.
+
+Inicialmente, para solicitar a verificaçao de uma pagina no
+Facebook era preciso preencher um formulario com as
+informaçoes do requerente, em seguida submeter esses
+dados e aguardar a concessao ou nao do status de
+verificado. Um ano apos sua estreia o formulario de
+solicitaçao foi descontinuado, em contrapartida houve o
+lançamento da aplicaçao movel Facebook Mentions [6],
+destinada a usuarios que ja possuiam paginas verificadas.
+Dentre suas funcionalidades interativas, o Mentions
+permitia novas solicitaçoes de verificaçao de pagina. Essa
+funcionalidade sequer foi promovida e o desconhecimento por parte dos usuarios reforçava a lacuna na capacidade do
+Facebook em fornecer informacao transparente sobre o
+funcionamento da rede social.
+Em 2017, o aplicativo Mentions foi trocado pelo “Facebook
+Creator”. Nesta nova aplicacao, as funcionalidades
+foram totalmente reformuladas, priorizando producao de
+conteudo em video por influenciadores digitais. A
+possibilidade de postular a verificacao de pagina disponivel
+na aplicacao antecessora foi uma das opcoes removidas. O
+Facebook retoma a pratica da verificacao de paginas
+novamente utilizando um formulario de solicitacao e tenta
+combater um fenomeno emergente de comercializacao de
+status de paginas verificadas, observado em plataformas de
+midias sociais asiaticas. Algumas dessas aplicacoes
+permitiam a compra do status de pagina verificada, porem
+ao fazer isso acabam abrindo uma perigosa brecha para a
+atuacao de pessoas com mas intencoes.
+Os negocios fraudulentos chegam a gerar bilhoes de dolares
+em receitas por ano, apenas se valendo de propagacao de
+mensagens enganosas atraves de falsos perfis de empresas e
+figuras publicas no Facebook. Alem da vantagem
+monetaria, algumas destas paginas e perfis falsos procuram
+influenciar os usuarios ideologicamente, o que tem
+suscitado preocupacoes, com destaque para o ambito
+politico.
+A proximidade das eleicoes presidenciais brasileiras de
+2018 fizeram com que o Facebook se preparasse para acoes
+de combate a desinformacao, prestando esclarecimentos
+sobre suas praticas. A decisao de investir mais em
+transparencia e acompanhada pela preponderancia da
+aprovacao da Lei de Protecao de Dados de Usuarios na
+Uniao Europeia. Essa nova legislacao preve punicoes
+mais rigorosas caso sejam descumpridas regras quanto ao
+tratamento de dados dos usuarios e provimento de
+informacoes sobre ferramentas e servicos na Web. A
+promulgacao da lei na Europa impactou outros paises,
+incluindo o Brasil, a aprovarem suas proprias politicas no
+ambito da guarda e da transparencia de informacoes aos
+usuarios na Internet.
+
+**CONSIDERAÇOES FINAIS**
+
+Embora levadas em consideraçao a efemeridade das redes
+sociais e, ainda, o desconhecimento de todos os criterios a
+serem preenchidos para que uma pagina ou perfil sejam
+verificados pelo Facebook, houve uma simplificaçao na
+dinamica de parte do processo para obtençao deste status.
+Empresas e organizaçoes com paginas verificadas sao
+distinguidas com um selo cinza que pode ser obtido de
+forma mais simples, atraves da confirmaçao de um numero
+telefonico valido, permitindo rastreabilidade. As paginas de
+figuras publicas, midias e governo sao elegiveis para
+verificaçao atraves do envio ao Facebook de documentos
+que comprovem sua especialidade e ainda devem justificar
+o motivo da sua requisiçao de verificaçao.
+
+Apesar de novas medidas tomadas para proteger os usuarios
+de acoes mal-intencionadas promovidas por controladores
+de perfis falsos, o Facebook ainda sofre pressão para
+apresentar mais transparencia, melhorar a informacoes
+sobre privacidade e governanca dos dados de seus usuarios.
+Ha ainda iniciativas governamentais que ratificam a
+necessidade das aplicacoes online respeitarem codigos de
+conduta. Futuramente algumas midias sociais, como o
+Twitter, já consideram exigir a verificacao de identidade a
+todos os seus usuarios para evitar a atuacao de robos,
+spammers e golpistas.
+
+**CONSIDERAÇÕES FINAIS**
+
+Em suma, a transparência na verificação de páginas no Facebook é um tema crucial no contexto atual das redes sociais. A empresa tem buscado aprimorar esse processo, mas ainda enfrenta desafios significativos para garantir a autenticidade das informações e proteger os usuários contra ações maliciosas. A necessidade de um debate contínuo sobre transparência e privacidade de dados nas redes sociais é evidente, a fim de promover um ambiente online mais seguro e confiável para todos.

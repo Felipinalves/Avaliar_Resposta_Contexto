@@ -1,0 +1,124 @@
+**Introducao**
+
+Inicialmente concebidos por Alexander para a Arquitetura [Alexander 1977], os conceitos
+de padroes e linguagens de padroes foram posteriormente adotados em diversas outras
+areas. No final dos anos 90, pesquisadores de Interaçao Humano-Computador (IHC)
+atentaram-se para as potenciais aplicaçoes de ambos os conceitos no processo de design
+de interaçao, ao ponto que workshops sobre o assunto tornam-se regulares em congressos
+de IHC. Atualmente, apesar das controvérsias sobre sua utilidade e eficacia, os padroes de
+interaçao sao uma ideia difundida e conhecida pela maioria dos designers, especialistas
+em IHC e profissionais de Experiencia do Usuario.
+
+Apesar da atençao dedicada ao tema nas ultimas duas decadas, poucos estu-
+dos foram realizados com o objetivo de rastrear a evoluçao dos padroes de design de
+interaçao e, consequentemente, entender como esse conceito esta sendo utilizado na co-
+munidade de IHC. Evidencias apontam para baixas taxas de adoçao em projetos reais
+[Dearden and Finlay 2006, Pan and Stolterman 2013], embora a tecnica tenha sido con-
+siderada de interesse pela comunidade cientifica [Kruschitz and Hitz 2010]. Apesar da
+aparente baixa taxa de utilizaçao de padroes de interaçao, poucos estudos foram encon-
+trados visando compreender, formalizar e aprimorar o processo de desenvolvimento de
+padroes em IHC.
+
+A fim de entender melhor como a comunidade de IHC esta aplicando padroes e linguagens de padroes em seus projetos, realizamos um mapeamento sistematico da literatura com foco nos anais de seis series de conferencias da area. Ao restringir o mapeamento para conferencias de IHC, conseguimos obter a visao particular dos pesquisadores dessa area sobre o tema. Alem disso, ao selecionar conferencias de diferentes regioes do mundo foi possivel obter uma visao mais ampla e observar aspectos regionais a partir dos resultados de comunidades distintas. Os resultados do mapeamento permitiram a extracao de informacoes importantes, como terminologia comum e metodos frequentemente utilizados, originando um arcabouco para o desenvolvimento de novos padroes e linguagens de padroes em IHC. Nossa contribuicao pode servir como um auxilio importante para quem busca um melhor processo de identificacao de linguagens de padroes de interacao, potencialmente mitigando as barreiras que ainda impedem uma adocao mais ampla dessa tecnica em projetos reais.
+
+Este artigo apresenta um resumo dos resultados da pesquisa, os quais foram originalmente publicados em lingua inglesa [Da Rosa and Silveira 2022]. O texto e composto por cinco secoes, incluindo esta introducao. O planejamento e a conducao do mapeamento da literatura sao apresentados na Secao 2. A Secao 3 contem os resultados do mapeamento, seguidos pela descricao do arcabouco proposto na Secao 4. Por fim, a Secao 5 apresenta as consideracoes finais e trabalhos futuros.
+
+**Metodo de pesquisa**
+
+Para obter uma visao ampla dos padroes de design no contexto dos estudos primarios de
+IHC, optamos por realizar um mapeamento sistematico da literatura seguindo diretrizes
+estabelecidas [Fernandez et al. 2011, Petersen et al. 2015, Kitchenham et al. 2015]. As
+seguintes atividades foram realizadas para definir o protocolo do mapeamento: estabe-
+lecimento das questoes de pesquisa, definiçao da estrategia de busca, determinaçao da
+estrategia de seleçao e definiçao dos metodos de extraçao e sintese dos dados. Inicial-
+mente, foi definido o seguinte conjunto de questoes de pesquisa: (QP1) Quais sao os ter-
+mos mais utilizados pela comunidade de IHC para se referir a padroes de design? (QP2)
+Quais bibliotecas de padroes de interaçao sao citadas com mais frequencia? (QP3) Com
+que frequencia novos padroes ou linguagens de padroes sao propostos? (QP4) Quais sao
+os metodos de pesquisa usados nos estudos de padroes de IHC? (QP5) Quais atributos
+sao adotados para representar a estrutura dos padroes? (QP6) Em quais dominios de
+aplicaçao os padroes de interaçao estao sendo aplicados?
+
+Para obter a visao dos pesquisadores da area sobre padroes de design, foram de-
+finidas seis series de conferencias de IHC para integrar o mapeamento. A ACM Con-
+ference on Human Factors in Computing Systems (CHI) foi uma escolha obvia por ser
+considerada a principal conferencia internacional da area. Cada uma das outras cinco
+conferencias representa um continente: Australian Conference on Human-Computer In-
+teraction (OzCHI) na Oceania; Brazilian Symposium on Human Factors in Computing
+Systems (IHC) na America do Sul; Nordic Conference on Human-Computer Interaction
+(NordiCHI) na Europa; Indian Conference on Human-Computer Interaction (India HCI)
+na Asia; e African Human-Computer Interaction Conference (AfriCHI) na Africa. Apos
+a definiçao das strings de busca, as bases de dados foram pesquisadas e os artigos foram
+selecionados de acordo com os criterios de inclusao e exclusao. Os resultados obtidos a
+partir da extraçao e sintese dos dados sao resumidos nas seçoes seguintes.
+
+**Resultados**
+
+Um total de 50 artigos chegou a lista final: 27 artigos da CHI (54) e 23 artigos das
+conferencias regionais (46). Com relaçao a distribuiçao dos artigos selecionados ao
+longo dos anos (Fig. 1), e possivel observar que, de 1997 (ano do primeiro workshop na
+CHI) ate 2005, apenas cinco artigos foram publicados. A partir de 2006, pelo menos um
+artigo sobre o tema e publicado a cada ano, sendo que houve um pico de seis artigos em
+2014. Os resultados detalhados do mapeamento, incluindo respostas para as questoes de
+pesquisa podem ser consultados no artigo original [Da Rosa and Silveira 2022].
+
+**Um arcabouço para o desenvolvimento de padroes de IHC**
+
+A analise dos resultados do mapeamento sistematico permitiu identificar etapas e subpro-
+dutos tipicos do processo de desenvolvimento de padroes em IHC, motivando a proposta
+do arcabouço apresentado na Fig. 2. Ao longo da historia dos padroes, especialmente
+entre a comunidade de software, houve algumas tentativas de detalhar o processo de de-
+senvolvimento de linguagens de padroes. No entanto, nao foi possivel encontrar uma
+descriçao satisfatoriamente completa desse processo que fosse especifica para padroes de
+IHC. O arcabouço proposto define um ciclo de vida estruturado composto de estagios, os
+quais sao agrupados em tres fases distintas: Fase de Planejamento, Fase de Descoberta e
+Fase de Pos-descoberta.
+
+Fase de Planejamento. Qualquer processo de desenvolvimento de linguagem
+de padroes começa com uma fase inicial de planejamento que definira a estrategia de
+descoberta. As etapas envolvidas nesta fase incluem um estudo do dominio, uma revisao
+da teoria dos padroes e uma busca por bibliotecas de padroes preexistentes.
+
+Fase de Descoberta. A estrategia resultante da Fase de Planejamento e utilizada
+pelos pesquisadores para iniciar a descoberta dos padroes e da linguagem de padroes. A
+Fase de Descoberta consiste em cinco etapas: identificaçao, classificaçao, organizaçao,
+validaçao e publicaçao dos padroes. Identificaçao e a etapa principal de todo o processo e
+trata-se de observar os padroes (em produtos, processos, literatura, etc.) e descreve-los no
+formato escolhido, produzindo uma coleçao de padroes. A seguir, os padroes podem ser
+classificados de acordo com o seu nivel de confiabilidade e organizados em uma estrutura
+hierarquica formando uma linguagem de padroes. A linguagem pode entao ser validada
+com especialistas ou usuarios finais atraves de criterios e metodos de validaçao. Por
+fim, os padroes podem ser publicados atraves de um website ou livro, produzindo uma
+biblioteca de padroes.
+
+Fase de Pos-Descoberta. Uma vez descobertos os novos padroes, eles estao pron-
+tos para serem utilizados em seu proprio contexto. A analise desse uso pode dar origem
+a um novo arcabouço ou teoria. Eventualmente, uma ferramenta de software pode ser
+criada para facilitar, operacionalizar ou validar a aplicaçao da linguagem. As observaçoes
+da Fase de Pos-Descoberta podem retroalimentar as fases anteriores, iniciando um novo
+ciclo de desenvolvimento.
+
+**Consideraçoes finais**
+
+Apesar das controversias sobre a praticidade dos padroes e da aparente baixa taxa de
+adoçao em projetos reais, o tema continua despertando o interesse da comunidade ci-
+entifica. Neste trabalho, focamos na pesquisa de padroes e linguagens de padroes na
+area de Interaçao Humano-Computador, apresentando os resultados de um mapeamento
+sistematico da literatura. Cinquenta artigos publicados em conferencias de IHC de dife-
+rentes regioes do mundo foram analisados e os resultados serviram de base para a pro-
+posta de um arcabouço para o desenvolvimento de padroes de interaçao. Este arcabouço
+pode servir como uma ferramenta no desenvolvimento de novas linguagens de padroes de
+interaçao, estimulando novos estudos cientificos e fomentando uma utilizaçao mais ampla
+de padroes de design em IHC.
+
+Alguns trabalhos futuros relativos a esta pesquisa incluem a expansao do mapea-
+mento sistematico da literatura, ampliando o numero de artigos selecionados. Outra me-
+lhoria futura seria validar o arcabouço proposto submetendo-o, por exemplo, a avaliaçao
+de especialistas. O desenvolvimento de uma nova linguagem de padroes seguindo as
+etapas do arcabouço tambem pode servir como evidencia da utilidade e praticidade do
+processo. Por fim, o desenvolvimento de ferramentas baseadas no arcabouço, como por
+exemplo um repositorio de padroes, poderia encorajar mais pesquisadores e profissionais
+a desenvolver e publicar suas proprias linguagens de padroes de interaçao.
+
+**CONSIDERACOES FINAIS**
+Em resumo, este artigo abordou a importancia dos padroes de design na Interaçao Humano-Computador (IHC) e apresentou um arcabouço para auxiliar no desenvolvimento de linguagens de padroes. A pesquisa realizada atraves de um mapeamento sistematico da literatura permitiu eliciar boas praticas e identificar etapas e subprodutos tipicos do processo. Espera-se que este trabalho contribua para o avanço da area, estimulando novos estudos e fomentando uma utilizaçao mais ampla de padroes de design em IHC.

@@ -1,0 +1,144 @@
+**INTRODUCAO**
+
+A literatura apresenta evidencias de que videogames
+multimodais baseados em audio e haptica tem grande
+potencial para ajudar pessoas cegas a desenvolver novas
+habilidades . No entanto, e importante destacar que o
+desenvolvimento e o aprimoramento destas habilidades
+cognitivas dependem da capacidade do jogo de traduzir
+informaçoes abstratas em modalidades de interaçao,
+elementos de interface e tipos de feedback perceptiveis e
+significativos para pessoas cegas . Consequentemente,
+as modalidades, controles e feedback do jogo devem ser
+conjugados para permitir uma interpretaçao precisa da
+informaçao abstrata. Caso contrario, usuarios cegos poderao
+interpretar incorretamente os elementos e tarefas do jogo, o
+que os distrairia do objetivo de desenvolver habilidades.
+
+Logo, e necessario assegurar que a interaçao multimodal e
+os elementos da interface se adequem aos propositos
+cognitivos do jogo e que os jogadores possam interagir de
+maneira agradavel e correta. Para conseguir isso, uma
+avaliaçao cuidadosa da usabilidade deve ser realizada
+considerando que a aplicabilidade dos Metodos de
+Avaliaçao de Usabilidade (Usability Evaluation Methods
+UEM) tradicionais para dominios distintos e discutivel  e
+que UEM tradicionais sao projetados principalmente para
+usuarios sem deficiencias.
+
+Visando fortalecer o corpo de conhecimento sobre
+usabilidade e pessoas cegas, alem de compartilhar
+resultados com a comunidade brasileira, o presente artigo
+resume a pesquisa originalmente publicada em . Tal
+pesquisa apresenta duas contribuiçoes principais para a
+literatura atual na area. Primeiro, a discussao detalhada dos
+problemas tipicos que afetam a interaçao de pessoas cegas
+com jogos multimodais baseados em audio e haptica. Os
+problemas de usabilidade mais comuns na interaçao de
+pessoas cegas com jogos multimodais foram organizados
+em uma lista (Standard List of Usability Problems - SLUP
+), a qual visa, primeiro, ajudar designers a evitar
+problemas recorrentes de usabilidade durante o projeto de
+jogos multimodais para pessoas cegas. Segundo, evidencias
+decorrentes de testes com usuarios mostraram que SLUP
+pode ser expandida e usada como base para desenvolver
+instrumentos especificos para avaliaçao de usabilidade
+nesse contexto. Um trabalho posterior  - que e decorrente
+da pesquisa original resumida no presente artigo
+demonstra o uso de SLUP para criar um instrumento de
+usabilidade.
+
+**METODOLOGIA**
+
+Hartson et al. (2001)  propoem a identificaçao de um
+conjunto “padrao" de problemas de usabilidade que
+ocorrem em um sistema alvo, como base para comparaçao
+de UEM. Partindo deste principio, SLUP foi estabelecida
+como um primeiro passo para comparar a adequaçao de
+diferentes UEM para avaliar jogos multimodais projetados
+para desenvolver habilidades cognitivas em pessoas cegas.
+
+Neste trabalho, com o objetivo de tornar os resultados mais
+abrangentes, em vez de escolher uma aplicaçao-alvo, um
+conjunto de cinco videogames multimodais foi escolhido e
+analisado. Devido as diferentes combinaçoes de
+dispositivos de interaçao e tipos feedbacks, a analise dos
+problemas de usabilidade nesses jogos revelou diversos
+tipos de problemas que ocorrem quando os usuarios cegos
+interagem com jogos multimodais. Na analise dos relatorios
+de usabilidade dos cinco jogos, foram identificados 22
+problemas de usabilidade unicos (nao duplicados) relatados
+pelos usuarios e 35 problemas unicos apontados por
+avaliadores.
+Para validar a lista de problemas inicialmente obtida, sete
+especialistas em avaliacao de usabilidade e dois professores
+especializados em pessoas cegas responderam a um
+questionario de 58 itens, no qual puderam avaliar os
+problemas de usabilidade e explicar seu ponto de vista. O
+segundo passo para validar a lista de problemas foi a
+realizacao de sessoes de avaliacao de usabilidade com
+usuarios com diagnosticos oftalmologicos diferentes (todos
+legalmente cegos), em ambiente real.
+
+SLUP VISAO GERAL
+SLUP1 consiste em uma lista estruturada contendo 61
+problemas de usabilidade relacionados a interacao de
+pessoas cegas com jogos multimodais, ao comportamento
+dos usuarios durante o jogo e as caracteristicas dos
+usuarios. Alem dos problemas gerais de usabilidade
+relacionados a facilidade de aprendizado, eficiencia,
+satisfacao e dificuldades para lidar com as diferentes
+modalidades, SLUP detalha problemas relacionados aos
+principais aspectos da interface de jogos multimodais:
+audio, personalizacao, modo de interacao e feedback [3].
+
+Os problemas sao agrupados em cinco subcategorias:
+Audio: 15 problemas que podem afetar sons iconicos,
+espaciais e estereo, alem de earcons abstratos, ou
+sintese de fala e audio falado;
+Personalizacao: 6 problemas que podem ser causados
+pelo tamanho, cores ou contraste de elementos
+graficos, ou ate mesmo pela velocidade e intensidade
+de sons e vozes;
+Usabilidade Geral: 13 problemas relacionados a
+usabilidade geral do jogo, abordando facilidade de
+aprendizado, satisfacao, erros e eficiencia;
+Feedback: 8 problemas que podem ocorrer em
+resposta a interacao do usuario na forma de retorno
+haptico (cinestesico ou tatil), auditivo ou visual; e
+Interacao: 19 problemas que podem estar
+relacionados as tecnicas e dispositivos de interacao e
+que afetam as entradas e saidas do jogo.
+
+Dados foram coletados das sessoes de teste com usuarios
+que incluiram diferentes UEM. A evidencia e que a analise
+da interacao gravada em video pode revelar a maior
+quantidade dos problemas de usabilidade listados na SLUP
+em todas as dimensoes analisadas. A analise mostrou que
+SLUP pode ajudar a identificar, de forma eficaz e rapida,
+problemas gerais de usabilidade, de interacao e feedback
+nesse contexto. Porem, a analise do video e mais eficiente
+para revelar problemas de audio, o que pode ser feito de
+maneira menos demorada se o avaliador utilizar a SLUP
+como heuristicas para identificar problemas.
+
+
+**CONCLUSAO**
+
+Neste artigo foi resumido como os problemas de
+usabilidade mais comuns na interaçao de pessoas cegas com
+jogos multimodais foram organizados em uma lista
+denominada Standard List of Usability Problems (SLUP).
+O objetivo de SLUP e ajudar pesquisadores e profissionais
+de duas maneiras. Primeiro, a evitar problemas recorrentes
+de usabilidade desde primeiros estagios do design desses
+jogos. Segundo, ajudar a identificar e corrigir problemas
+reais que afetam a interaçao multimodal nesses jogos.
+Finalmente, SLUP pode ser expandida pela comunidade de
+IHC para desenvolver novas pesquisas sobre metodos e
+instrumentos para avaliar a interaçao de pessoas cegas com
+diferentes tipos de interfaces.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo demonstra o potencial da lista SLUP para auxiliar no desenvolvimento de jogos multimodais mais acessiveis para pessoas cegas. Ao fornecer um conjunto padronizado de problemas de usabilidade, a SLUP pode orientar os designers a evitar erros comuns e a criar jogos mais envolventes e eficazes.

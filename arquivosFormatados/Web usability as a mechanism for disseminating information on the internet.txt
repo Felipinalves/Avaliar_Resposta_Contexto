@@ -1,0 +1,305 @@
+**RESUMO**
+
+Usar os principios de usabilidade traz beneficios na
+disseminaçao de informaçao em ambientes web
+melhorando os processos cognitivos dos usuarios e ligados a
+tecnicas web responsivas formando interfaces com interatividade mais clara
+e mais eficaz. Este artigo descreve as interligaçoes entre conceitos que corroboram com a
+declaraçao anterior, atraves do redesign do frontend do site
+para o programa de mestrado GESTEC (locus de
+desenvolvimento desta pesquisa). Metodologicamente, a
+pesquisa aplicada e utilizada com uma abordagem de pesquisa-açao para
+avaliaçao e geraçao de resultados. No final da
+processos de construçao do site, considerando os criterios
+e parametros subsidiarios, nota-se que o novo layout
+melhora as caracteristicas de interaçao para os usuarios,
+simplificando o acesso a informaçao.
+
+**INTRODUCAO**
+
+A sociedade contemporanea vive uma Era na qual e
+imprescindivel a busca por informaçao para galgarmos
+progresso coletivo ou individual, nesta linha, Luckesi
+afirma que e atraves da exposiçao de informaçoes ja
+produzidas e apresentadas por seus autores que se torna
+assim uma possivel forma de apropriar-se desta realidade.
+
+O volume informacional produzido atualmente e muito grande,
+a todo o momento, novos conceitos sao inventados e
+surpreende a rapidez que veem acontecendo. Somente pela
+internet, de acordo com o WorldWideWebSize.com , a
+estimativa do numero de paginas indexadas pelos motores de
+busca na web (Google, Bing e Yahoo Search) passa de 38
+bilhoes, uma quantidade imensa de informaçoes disponiveis
+que devem estar organizadas em ambientes que sejam
+ergonomicos¹, garantindo a localizaçao desses dados nos sites
+e suas paginas.
+
+De acordo com Krug , quanto mais importante algo e,
+mais proeminente deve estar, por exemplo, topicos relevantes
+devem ser maiores e mais destacados proximos do topo da
+pagina web. Nessa linha de pensamento, remete-se ao
+conceito da usabilidade, que conforme Nielsen ,
+usabilidade e o atributo de qualidade dos produtos que
+permite aferir se uma interface com o utilizador e facil de
+usar, entao, o segredo para satisfaçao do usuario de internet e
+a simplicidade e objetividade nos sites.
+
+Em funçao dos pontos anteriores que dissertam sobre os
+principios de boas praticas no funcionamento de sites,
+temos o meio de pesquisa deste trabalho, a atual versao do
+site do Mestrado Profissional Gestao e Tecnologias
+Aplicadas a Educaçao (GESTEC)².
+
+A figura 1 apresenta o site vigente do GESTEC, em face
+aos criterios de usabilidade apresentados, este site traz uma
+serie de oposiçoes, que nos proximos capitulos serão
+apresentados, bem como as necessidades levantadas nas
+analise de requisitos e negocio, afim de contemplar
+corretamente a forma de disseminar suas informacoes,
+resolvendo quesitos como carencia na organizacao dos
+conteudos ou ainda ausencia destes, ficando notoria a
+necessidade de uma frontend de site com disposicao de
+informacoes apropriada para corrigir essas questoes.
+Metodologia
+O trabalho embasa-se na Pesquisa Aplicada, partindo do
+objetivo de gerar conhecimentos para aplicacao pratica de
+solucoes em problemas especificos com abordagem da
+pesquisa-acao na qual o pesquisador, em ponderacao da sua
+vivencia profissional, e os participantes representativos do
+Programa estiveram envolvidos em estreita associacao.
+Como a proposta deste artigo e a apresentacao de uma
+metodo para construcao de interface de site em
+conformidade com os principios de usabilidade e a
+experiencia dos stakeholders, ou seja, que atenda as
+expectativas dos usuarios na identificacao, neste caso, do
+Programa GESTEC, sera utilizado o paradigma de
+Prototipacao, que possibilita ao desenvolvedor criar
+prototipos de interfaces que serao construidas, e com isso
+melhorar a percepcao do usuario em relacao sistema.
+
+
+**DISSEMINAÇÃO DE INFORMAÇÕES**
+
+Entenda-se o termo disseminaçao de informaçoes como
+propagaçao de ideias, teorias, e que existe uma relaçao
+intrinseca nos processos de difusao de conhecimento com
+os aspectos cognitivos existentes e desenvolvidos do
+individuo que estara se apropriando neste processo. O fato e
+que o uso de tecnicas, instrumentos, mecanismos
+pedagogicos e agora com avanço tecnologico, e possivel
+alcançar ainda mais o carater difusor da propria condiçao
+humana .
+
+Sales afirma que a difusao implica-se, especialmente,
+em “açoes intencionais e subjetivas que atuam e interferem
+nestes aspectosestruturas a partir de sentidos que os
+sujeitos lhes atribuem", e os principios de usabilidade para
+paginas web veem a dialogar e fomentam exatamente com
+essa afirmativa, segundo Krug : "Fale a lingua do
+usuario isto significa que, tanto quanto for
+humanamente possivel, quando examino uma pagina web
+ela deve ser evidente por si so auto-explicativa.", ou seja,
+nos casos de sites e necessario que ela seja entendivel e
+usavel sem maiores esforços cognitivos, assim o objetivo e
+deixar que cada pagina esteja clara, de forma que os
+usuarios comuns saibam como utiliza-la e encontrem as
+informaçoes sem dificuldades.
+
+USABILIDADE EM PAGINAS WEB
+A usabilidade aplicada em sites, suscita uma consideravel
+melhora em navegacao e acessibilidade, logo reconhecer a
+enfase na usabilidade como promotora de ganhos nas
+interfaces web ficam evidentes e tem melhores resultados se
+focado numa abordagem relacionada ao esforco mental e as
+atitudes do usuario frente ao site.
+A concepcao de Nielsen [2] sobre como criar sites com
+qualidade, faceis de usar e com usabilidade, orienta em ter
+uma navegacao: sem layout rebuscado, sem poluicao visual,
+sem redundancia, com rotulos consistentes e com links de
+identificacao facil. Neste caminho, cabe a este trabalho
+enfatizar algumas dessas recomendacoes de usabilidade e
+aplica-las no desenvolvimento de um novo layout para site,
+amostra deste estudo.
+
+Avaliacao Heuristica
+Para este trabalho, o grupo de stakeholders foi composto
+por este pesquisador, pelo coordenador do Programa, Andre
+Ricardo Magalhaes e pela secretaria academica, Kellen
+Lima Gomes, aonde foi ponderado a compressao do
+dominio que o site se propoe e para verificacao do que
+existe e como funciona considerando se a estrutura atual
+corresponde como simples de uso e com minimo de
+inconsistencias.
+Neste primeiro momento ficou bem claro que o site deveria
+ser o instrumento de insercao social do Programa e que este
+ja vem fazendo este papel com ressalvas, centrado neste
+fato, o grupo estabeleceu uma serie de problemas existentes
+no site, dentre eles foi observado as dificuldades em
+encontrar informacoes importantes em destaque, tais como
+o processo seletivo para aluno regular e especial.
+O site atual dispoe de uma aba em seu menu lateral com o
+link para a secao Processos Seletivos, mas fica pouco
+perceptivel, pois apresenta tambem os processos anteriores
+nesta aba com o mesmo destaque, ficando em um momento
+mais importante, quando existe processo seletivo em aberto,
+precisando ter maior destaque na pagina inicial, isso
+tornaria mais eficaz o processo de divulgacao se existisse
+uma localizacao mais facilitada neste momento.
+Em uma pagina que nao possui uma hierarquia visual clara,
+tudo parece ser igualmente importante [4], fato altamente
+presente no site atual do Programa. Neste quesito, ficou
+entendido que o melhor entao, seria ter banners que
+destacassem em certos momentos, e nao somente para o
+processo seletivo quando estiver aberto, mas outras
+situacoes que precisem de destaque, e para melhor
+organiza-los, estes banners seriam apresentados por um
+slideshow na pagina inicial mais proximo do topo.
+O menu do site na vertical obriga o usuario a ter que descer
+pela barra de rolagem praticamente o site todo, uma
+organizacao que nao segue uma convencao nos sites, na
+web ja existem convencoes na formatacao das paginas, que
+estas nascem de uma ideia que funciona satisfatoriamente
+bem e como outros sites imitam, acaba que um numero
+suficiente de pessoas a veem em um numero suficiente de
+lugares para que nao seja necessaria explicacao sobre ela
+[4]. Neste caso, um numero suficiente de pessoas esta
+familiarizado com menu na horizontal e com sub-menus
+que somente sao apresentados quando o mouse passa por
+cima de uma aba principal, fazendo ocupar menos espaco e
+esta mais bem localizado, ja que nao precisa percorrer o site
+ate o final para ter vistas para as ultimas opcoes. Ainda e
+possivel tornar a estrutura do menu flutuante, ou seja,
+deixa-lo sempre visivel no topo da pagina a medida que e
+feita rolagem do site.
+No restante da pagina inicial devera ter acesso rapido para
+outros pontos importantes que devem estar fixos, tais como
+Noticias Recentes, Trabalhos de Conclusao de Curso,
+Formularios Uteis, Bancas de Qualificacao, Manual do
+Estudante, Calendario Academico e Publicacoes de
+Pesquisa. A navegacao do site deve dizer implicitamente
+quais suas opcoes, estas secoes destacadas sao entendidas
+como mais importantes para o perfil mais geral de usuario.
+Teste com usuarios por questionario
+Durante o processo de avaliacao heuristica dessa pesquisa,
+os relatos trazidos pelos responsaveis pelo Programa,
+acabaram elucidando muito do que seria descoberto com
+entrevista e observacao, foi exposto principalmente
+frustracoes na parte do usuario, ocasionando ligacoes para
+secretaria a fim de saber onde esta tal informacao, ou como
+avancar em alguma tarefa no site. Com esses indicios em
+maos, foi adotada para este trabalho a avaliacao por
+questionario, que alem de aferir a usabilidade do site,
+tambem deve demonstrar o nivel de satisfacao dos usuarios
+em diversos ambitos.
+Baseado no inventario de analise e medicao de sites da
+WAMMI3
+, o questionario deste trabalho foi criado na
+plataforma Google Formularios e encaminhado aos usuarios
+por e-mail, para uma amostra de 30 sujeitos, participantes
+no GESTEC, desde docentes, discentes e colaboradores. A
+pesquisa por via da coleta de dados apreendeu
+perfeitamente os aspectos da realidade que nao podiam ser
+quantificados por outros meios, centrando-se no
+entendimento da usabilidade do site atual do GESTEC e sua
+qualidade enquanto ferramenta de disseminadora de
+informacoes.
+Entre algumas indicacoes feitas nessa investigacao, foi
+questionado “Quais as principais qualidades ou aspectos
+positivos do site atual?”, os participantes responderam,
+dentre outras, com “Informacoes fidedignas”, “A
+informacao necessaria para o bom andamento no/do
+Programa e encontrado no site”, “Disposicao de
+formularios e informacoes, mesmo que algumas
+desatualizadas”, “versatilidade”, e algumas contraditorias
+entre usuarios diferentes, e.g. “Facilidade de acesso” e
+“Nao gosto de navegar pelo site”.
+Fica evidente as indicacoes anteriores a partir do
+questionamento seguinte “Quais os aspectos negativos ou
+principais defeitos do site vigente?”, dentre as respostas: “o
+site poderia ser melhorado nos aspectos do layout,
+organizacao das informacoes”, “Confuso, nao tem uma
+logica para encontrar o que se procura e muita informacao
+da Uneb”, “Dificuldades em encontrar secoes de interesse,
+desatualizacao de informacoes e principalmente parecer
+uma replica das informacoes do site da UNEB”, “Algumas
+informacoes estao disposta em locais que proporciona
+pouca visibilidade e operacionalidade por parte dos
+usuarios”, “nao tem as producoes do grupo”, “A falta de
+abas ou congeneres para difusao dos diversos eventos que
+costumamos receber por e-mail e/ou difusao dos grupos de
+pesquisa e os trabalhos em andamento”.
+Com o cruzamento das respostas, observa-se um usuario
+atento as dificuldades, consideracao ja constatada na
+avaliacao heuristica, demonstrando de fato certa insatisfacao
+quanto a produtividade ao utilizar-se o produto.
+E imprescindivel informar que dos 30 sujeitos da pesquisa,
+houve um retorno de 25 usuarios para o questionario.
+Foi criado – dentre outros – um prototipo para pagina
+inicial do novo site (figura 2) com a ferramenta
+WireframeSketcher4
+, e como primeira pagina a ser exibida,
+deve discorrer sobre os principais conteudos disponiveis no
+site, como uma capa de revista, ou seja, destaque para itens
+mais relevantes, entre todos que foram levantados em
+reuniao e questionario.
+A pagina inicial e responsavel tambem por apresentar o
+padrao que as outras paginas terao, ou seja, trara os
+elementos de topo e rodape do site que serao vistos ao
+longo de todas as paginas, ou seja, deve fixar a estrutura
+hierarquica do site.
+No slideshow adicionado a pagina inicial, os usuarios
+provavelmente nao verao todos os banners, entao os
+primeiros banners devem ser mais relevantes que os
+subsequentes, e o intervalo entre as transicoes devem ser de
+5-7 segundos para artes mais simples, e ate 10 segundos
+para banners com bastante texto [4]. O espaco seguinte vem
+com o uso de textos antecedidos por icones, estes ocupam
+uma area pequena e “facilitam consideravelmente a tarefa
+do usuario, que realiza uma atividade mental de
+reconhecimento” [5].
+O restante da pagina inicial apresenta as ultimas noticias
+exclusivamente do GESTEC com link rapido para o usuario
+poder acessar a secao Noticias e ter vista de publicacoes
+anteriores. No rodape do site e composto pelos links
+realmente importantes para discentes, docentes e demais
+colaboradores do Programa.
+Os prototipos concebidos tornam-se como um embriao para
+o processo de criacao do layout efetivo do sistema web, por
+via de aplicativos de desenho grafico, para este projeto foi
+utilizado Adobe Fireworks e posterior codificacao HTML5,
+CSS3 e biblioteca jQuery (JavaScript).
+A implementacao do layout (figura 3) seguiu exatamente o
+prototipo que, por sua vez, se baseou exatamente nos
+requisitos levantados, inclusive na interface ser responsiva.
+A figura 4 apresenta duas telas da pagina inicial do novo
+site por via do smartphone Apple iPhone 6, aonde pode ser
+observar a formatacao da estrutura de layout adaptando-se
+ao dispositivo movel.
+O site vigente do Programa nao ajusta sua estrutura quando
+acessado por dispositivos moveis, mantendo seu layout de
+exibicao com largura fixa, apresentando fontes minusculas
+e links/botoes clicaveis muito proximos uns dos outros,
+tornando uma navegacao complicada e insatisfatoria, e por
+muitas vezes fazendo com que o usuario desista terminar a
+tarefa e deixe para dar continuidade quando estiver em um
+computador de mesa ou notebook.
+
+**CONCLUSÃO**
+
+O artigo apresentou um metodo descritivo compreendido
+como um processo que se configura atraves da praxis,
+surgido de um trabalho de pesquisa por via da analise
+cognitiva do sujeito consumidor, avaliando empiricamente
+como este sujeito deve ter facilitado a entrega de
+informaçoes em ambientes web. Através dos anos de
+experiencia profissional, aliada a pesquisa teorica, permitiu
+um produto com grandes mudanças que conferem
+estrategias a serem utilizados, que trara mais simplicidade e
+objetividade de acesso e manuseio, findando na oferta de
+um produto para ambiente telematico web, um site, que
+atenda com proeza a entrega das informaçoes.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, este estudo demonstra como a aplicaçao dos principios de usabilidade no design de interfaces web pode melhorar significativamente a experiencia do usuario e a disseminaçao de informaçoes. O redesenho do site GESTEC, baseado nas necessidades dos usuarios e nas melhores praticas de usabilidade, resultou em um sistema mais intuitivo, acessivel e eficiente. Este trabalho serve como um exemplo pratico de como a teoria da usabilidade pode ser aplicada para resolver problemas reais e melhorar a comunicaçao online.

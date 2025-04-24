@@ -1,0 +1,141 @@
+**RESUMO**
+
+O movimento de uma criança pode representar diferentes niveis de
+atençao, agitaçao e interesse. Dentro da sala de aula, a professora nao conse-
+gue sozinha acompanhar o comportamento de cada aluno, mesmo sendo infor-
+mativo. Essa pesquisa visou analisar e selecionar um dispositivo vestivel para
+capturar o movimento e atividades de crianças em sala de aula. Uma tabela
+foi criada para analise comparativa dos dispositivos considerando preço de
+cada um e do seu software, os sensores, frequencia da coleta de dados, memo-
+ria interna, capacidade da bateria e faixa de aceleraçao. O ActiGraph GT9X
+foi considerado a melhor opçao entre 35 dispositivos analisados e sera usado
+para coleta de dados de movimento de criança do Ensino Fundamental I.
+
+**1. Introduçao**
+
+Tecnologias On-body podem contribuir para uma melhor integraçao entre o humano
+e a maquina . E possivel que dispositivos vestiveis, ou wea-
+rables, com sensores capturem e gerem informaçoes sobre o usuario.
+Dessa forma, contribuindo para um melhor funcionamento e adaptaçao dos sistemas.
+ demonstram a necessidade e importancia de fornecer mais
+informaçoes para o sistema sobre o contexto de uso e estado do seu usuario com sensores.
+
+Considerando a area da educaçao, o entendimento de informaçoes objetivas do
+aluno com relaçao aos seus aspectos fisicos (como o movimento) pode auxiliar na melho-
+ria de sistemas de aprendizado virtuais, ou salas de aula inteligentes .
+ sugerem, ainda, a necessidade investigaçao das dimen-
+soes de sistemas ativos considerando tecnologias wearable e o ambiente educacional.
+
+Observa-se, tambem, uma lacuna de pesquisa considerando o contexto da percep-
+çao ativa do comportamento e atividades de uma criança em sala de aula por sensores
+de movimento . Assim, este trabalho visa dar o passo inicial para
+maior exploraçao desses aspectos na escola, com o processo de seleçao de dispositivo
+adequado.
+
+**2. Metodologia**
+
+A metodologia para a escolha do dispositivo foi definida considerando o contexto, publico
+e requisitos do sensor de movimento. A pesquisa base, a qual esta em andamento, tem
+como objetivo entender a relaçao entre movimentos e atividades de crianças na escola,
+com o momento da aula em que se encontra. Espera-se que a observaçao ativa do aluno
+pelo sistema, e a geraçao de respostas em acordo, gere melhorias no processo educacional.
+
+O contexto trata-se de um ambiente de sala de aula presencial do 2o ano do EF.
+Dessa forma, e necessario que o dispositivo nao seja invasivo, nao atrapalhe a aula e a
+concentraçao dos alunos, nao possua luzes e emita sons de qualquer tipo. Deve tambem
+poder realizar a coleta de dados sem estar conectado a tomada. Estas informaçoes foram
+levantadas atraves de conversas com professoras, que trouxeram tais preocupaçoes.
+
+Em relaçao ao publico, que trata-se de crianças com 7 a 10 anos, entende-se que o
+dispositivo deve ser hipoalergenico e nao conter partes que possam arranhar ou machucar
+o usuario. Alem disso, deve ser ajustavel para criança e resistente. Outro fator levado em
+consideraçao foi a impressao que os pais teriam em relaçao ao dispositivo.
+
+Em relaçao ou sensor de movimento, optou-se pelo acelerometro. Os dispositi-
+vos foram analisados conforme os seguintes fatores preço de cada unidade, preço do
+software infraestrutura, os sensores, frequencia da coleta dos dados, memoria interna, ca-
+pacidade de bateria e faixa de aceleraçao . Alem disso, considerou-se
+a possibilidade de reprodutibilidade dos dados e comparaçao.
+
+Apos a definiçao dos criterios para a escolha, foram pesquisados artigos relacio-
+nados ao tema de reconhecimento de atividades humanas (HAR) e acelerometro nas bases
+de dados da IEEE e da ACM. Os 100 artigos mais relevantes de cada base (de acordo com
+a classificaçao de cada uma) foram selecionados. Depois, os dispositivos foram elencados
+e as especificaçoes de cada um foram encontradas nos sites e em contato com as empresas.
+
+Com as informaçoes referentes a cada um dos criterios elencados em uma planilha,
+o dispositivo foi selecionado. Ao final, uma consulta foi feita com professoras para atestar
+a possibilidade de seu uso em sala de aula e adequabilidade ao que foi informado.
+
+**3. Resultados**
+
+Os resultados apresentam a busca e analise de artigos relacionados ao tema, dispositivos
+elencados encontrados, assim como o processo de comunicaçao com empresas, compara-
+çao entre os dispositivos e a escolha final, considerando a pesquisa e contexto propostos.
+
+Do total dos artigos selecionados, 91 artigos informaram o nome do dispositivo usado. Em
+razao na necessidade de durabilidade por se tratarem de crianças, foi preferivel escolher
+dispositivos comerciais. Alem disso, excluiu-se celulares com acelerometros para nao
+ser uma distração na aula. Os nomes dos aparelhos comerciais foram elencados em uma
+tabela, totalizando 35 wearables para analise.
+
+Os dispositivos elencados a partir da busca em artigos relacionados foram: Trigno - Delsys
+Patented, GCDC Miniature 3-axis Accelerometer Data Logger X6-2mini, GCDC 3-axis
+Accelerometer + IMU, GCDC 3-axis Accelerometer + IMU + Altimeter, Tmote Invent,
+Wireless accelerometer marketed by ATR-Promotions, Zephyr Bioharness 3, Chronos
+eZ430 intelligent watch, Microsoft band 2, Micro Medical Device Inc., RF-ECG, Shimmer3 IMU, Shimmer Verisensor, Runscribe™ inertial sensors, Actical, RT6, eSense earable device, LG W110 G Watch, Huawei Watch 2, MotionNode, Tic Watch, Fitbit Versa,
+ActiGraph GT9X, ActiGraph GT3X, Estimote sensor, Withings, SmartBuckle, G-SensorBTS Bioengineering, Opal-APDM Inc., EmpaticaE4, Body-Media Core/Armband, GENEActiv v1, GENEActiv v2, ActivPAL, Apple Watch Series 3, Sable Sense.
+
+A busca sobre os dispositivos foi iniciada a partir dos sites que foram identificados em
+alguns dos artigos lidos. Quando nao havia esta informaçao, o nome do dispositivo foi
+pesquisado no Google. Depois, as informaçoes referentes aos criterios descritos na sessao
+de metodologia foram buscadas. Para obter as informaçoes que nao constavam no site,
+foram enviados e-mails de contato para as empresas. Alem disso, para maiores esclareci-
+mentos, foram feitas reunioes online com 3 empresas. A comunicaçao durou 3 meses.
+
+Ao final, alguns dispositivos foram descartados em razao do nao preenchimento
+dos criterios, tais como a necessidade de estar conectado a tomada e nao gravar os va-
+lores do acelerometro internamente. Alem disso, dispositivos que tinham valor unitario
+superior a 2500 reais nao foram considerados em razao do orçamento disponivel para
+esta pesquisa. Foram selecionados 3 dispositivos que atendiam aos criterios para com-
+paraçao direta, conforme Tabela 1. Optou-se tambem por selecionar um dispositivo que
+tambem possuisse o giroscopio, util na analise de movimento, assim como a possibilidade
+de customizaçao da frequencia de captaçao dos dados.
+
+A melhor opçao encontrada foi o ActiGraph GT9X Link, pois atendia a todos os
+criterios e teve destaque pela apariçao em pesquisas, reputaçao da empresa e atendimento.
+Alem disso, observou-se que o dispositivo poderia ser deixado na casa do usuario para
+utilizaçao durante uma semana sem precisar realizar o carregamento. Observa-se que ha
+necessidade de tambem adquirir o software proprietario da empresa para funcionar, mas a
+licença e vitalicia e fornece, alem da customizaçao da coleta, algumas analises dos dados.
+
+O dispositivo escolhido pode ser utilizado em varias posiçoes, sendo versatil e
+adaptavel ao contexto e ergonomia. Alem disso, tambem e a prova d'agua e de impacto e
+tem tela configuravel. Apos a compra e chegada do dispositivo, ele foi apresentado a pro-
+fessoras da rede publica de ensino, as quais qualificaram o dispositivo como apropriado
+para a pesquisa no contexto e com o publico de crianças.
+
+**4. Discussoes**
+
+A investigaçao da relaçao de sensores com o contexto educacional foi explorada de ma-
+neira preliminar neste trabalho e visa ser um ponto inicial para pesquisa de campo na area.
+O dispositivo sera utilizado para o monitoramento da movimentaçao de crianças em sala
+de aula fisica. Esse movimento sera relacionado com informaçoes sobre a aula e ativi-
+dades do aluno. Como aplicaçao, estas informaçoes podem alimentar sistemas para pais
+e professores mostrando o engajamento individual de cada estudante. Alem disso, pode
+ser util para sistemas de tutores inteligentes e plataformas de ensino integradas conhece-
+rem melhor o usuario e adaptarem-se as suas necessidades de maneira automatica. Dessa
+forma, melhorando a interaçao com o conteudo apresentado.
+
+**5. Conclusao**
+
+Este artigo apresentou a escolha de dispositivo vestivel para captar dados de movimento
+de alunos do Ensino Fundamental I em contexto de sala de aula. Este trabalho apresenta
+o primeiro resultado referente a pesquisa que busca mapear as atividades da aula e dos
+alunos atraves do movimento. As contribuiçoes futuras estao relacionadas ao apoio peda-
+gogico ao professor com tecnologia, referente a area de informatica na educaçao. Alem da
+exploraçao da area de IHC, atraves do entendimento ativo do meio e interaçao do usuario.
+
+**CONCLUSAO**
+
+Este estudo concretizou a seleçao de um dispositivo vestivel promissor para a coleta de dados de movimento de crianças no ambiente escolar. O ActiGraph GT9X Link se destaca como uma ferramenta valiosa para futuras investigaçoes sobre a relaçao entre o movimento, a atençao e o aprendizado dos alunos, abrindo caminho para o desenvolvimento de intervençoes pedagogicas mais personalizadas e eficazes.

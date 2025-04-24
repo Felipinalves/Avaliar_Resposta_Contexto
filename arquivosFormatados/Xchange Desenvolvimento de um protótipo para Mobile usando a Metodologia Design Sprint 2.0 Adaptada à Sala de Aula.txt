@@ -1,0 +1,141 @@
+**RESUMO**
+
+As metodologias ageis sao abordagens utilizadas no
+desenvolvimento de produtos de forma mais rapida e flexivel; e
+estao sendo cada vez mais adotadas por empresas. A adoçao de
+metodologias ageis tambem vem se mostrando eficiente em sala
+de aula, modernizando a execuçao de projetos didaticos e trazendo
+novas experiencias aos alunos e professores. Este trabalho tem
+como objetivo apresentar a prototipaçao de um software com o
+uso do metodo Design Sprint 2.0 e do framework Google Heart
+adaptados ao contexto de sala de aula. Os resultados obtidos
+demonstram que a metodologia pode ser uma ferramenta eficiente
+no contexto de sala de aula.
+
+**INTRODUCAO**
+
+A popularidade dos smartphones e aplicativos moveis (apps) tem
+aumentado nos ultimos anos . Muitos problemas da vida
+moderna sao solucionados com a utilizaçao de aplicativos moveis.
+Os apps podem ser projetados com diferentes metodologias, entre
+elas o Design Sprint 2.0.
+
+No Design Sprint 2.0 o processo de desenvolvimento ocorre em
+quatro dias, e envolve toda a equipe do projeto apenas nos dois
+primeiros dias . No Design Sprint 1.0 eram necessarios cinco
+dias em que todos os integrantes deveriam participar. Apesar das
+condiçoes mais limitadas de sala de aula, estudo previo
+demonstrou que a utilizaçao da versao 1.0 se mostrou
+produtiva .
+
+Neste trabalho, o objetivo foi avaliar o uso do Design Sprint 2.0,
+associado com o Google HEART framework, em sala de aula. Para
+tanto, foi prototipado o Xchange, um app que visa solucionar
+problemas de estoque parado em lojas de confecçoes de pequeno
+porte.
+
+**O DESENVOLVIMENTO DO ESTUDO**
+
+O estudo foi realizado por um grupo com quatro pessoas durante a
+disciplina de Projeto de Interfaces do Programa de Pos-Graduaçao
+em Computaçao Aplicada da Universidade de Passo Fundo. O
+processo levou quatro aulas com duraçao de 100 minutos de cada.
+
+O objetivo foi desenvolver as principais telas do Xchange. Para
+isso, foi elaborada uma soluçao que permite que os responsaveis
+pelo controle do estoque dos estabelecimentos ofereçam e
+visualizem produtos para troca.
+
+**1 Dia 1 - Mapear e Desenhar**
+
+No primeiro dia do Design Sprint 2.0 foi realizado um
+mapeamento, com esboços das principais telas do produto.
+
+A partir do mapeamento do produto a ser prototipado, foram
+entrevistados donos de estabelecimentos com vistas a validar a
+aceitaçao da soluçao. Com a ideia clara, utilizou-se o Google
+HEART Framework. O framework HEART foi criado para avaliar
+a qualidade da experiencia do usuario (UX) .
+
+Cada integrante fez anotaçoes sobre o funcionamento do
+prototipo. Apos, a equipe se reuniu e desenhou o mapa mental,
+que permitiu definir o escopo do projeto. Cada componente da
+equipe desenhou algumas telas, para que depois, o grupo pudesse
+votar nas melhores soluçoes.
+
+**2 Dia 2 - Decisoes e StoryBoard**
+
+No dia 2 toda a equipe definiu o que seria prototipado, a partir de
+duas etapas:
+
+i) Decidir: iniciou-se com o Heatmap, onde os membros da
+equipe colocaram seus votos nas partes dos esboços mais
+inspiradores. Foram dedicados 10 minutos para o Super Voto, que
+consiste na escolha das telas para prototipaçao.
+
+ii) Storyboard: no Design Sprint 2.0 o processo de storyboard se
+tornou mais facil em relaçao a versao 1.0, devido ao chamado
+User Test Flow. Trata-se de uma forma de exercicio de avaliaçao
+e votaçao onde todos projetam seu proprio storyboard e depois
+sao escolhidos um ou dois para a criaçao do prototipo . A
+equipe realizou o User Test Flow individual com 06 posts com
+açoes que indicavam como o usuario deveria percorrer o
+prototipo. Na sequencia, a equipe votou em um storyboard que
+seria prototipado. Definidas as telas, realizou-se a criaçao do
+storyboard (Figura 1).
+
+**Dia 3 - Prototipar**
+
+Para a prototipaçao foi escolhida a ferramenta gratuita Quant-UX
+, que permite a criaçao de telas interativas com uma paleta de
+elementos, testes de usabilidade, opçoes para visualizar como o
+usuario interage com a aplicaçao, entre outras possibilidades.
+
+As telas prototipadas foram a de pesquisa de produto, pagina de
+produto, carrinho, propor troca e negociaçoes .
+
+**4 Dia 4 -Testar**
+
+No Design Sprint 2.0 essa etapa e realizada de forma identica ao
+Design Sprint 1.0, a unica diferença e o dia em que os testes
+ocorrem. Nesta etapa podem ser utilizadas algumas ferramentas de
+avaliaçao e de aceitaçao. A equipe optou por utilizar o System
+Usability Scale (SUS) . E um metodo de escala numerica, onde
+sao avaliados criterios como a efetividade do app e a satisfaçao
+dos usuarios. O SUS e composto por um questionario com dez
+itens que permite fazer uma avaliaçao da usabilidade.
+
+Os dados foram coletados por meio de formulario online via
+Google Docs, em um periodo de 07 dias. Alem do questionario
+SUS, foram submetidas perguntas abertas, obtendo-se tambem
+dados qualitativos. Responderam a esta pesquisa 25 gerentes ou
+donos de loja. Tambem foram analisados dados do Quant-UX.
+
+O Quant-UX contou com 84 interaçoes, obtendo-se indices de
+satisfaçao de 20% a 100%. Ao realizar o calculo da media,
+alcançou-se o resultado de 72,1% de satisfaçao. Bangor et al.
+concluiram que o SUS precisa ter um indice acima de 70%.
+Considerando essa media, o aplicativo Xchange apresentou um
+bom grau de usabilidade, assim como no estudo de , que usou a
+versao 1.0. A  apresenta o mapa de calor do Quant-UX,
+em que e possivel observar as areas mais clicadas nas telas.
+
+As respostas dos usuarios foram satisfatorias, considerando que os
+usuarios relataram facilidade no uso e que nao mudariam nada no
+aplicativo. No entanto, alguns usuarios relataram que nao
+conseguiram navegar ou compreender a forma de busca. Tal fato
+pode ter ocorrido por se tratar de um prototipo, onde o produto e
+versao de um sistema que antecede a principal, geralmente
+reduzida, para ser aperfeiçoada .
+
+**CONCLUSAO**
+
+O aplicativo prototipado alcançou bons resultados, de acordo com
+as avaliaçoes realizadas. Desse modo, concluiu-se que a aplicaçao
+do Design Sprint 2.0, em conjunto com o Google HEART
+framework, mostrou-se uma metodologia viavel para uso em sala
+de aula, mesmo sendo necessarias algumas adaptaçoes.
+
+**CONCLUSAO**
+
+Com este estudo, pode-se concluir que a adaptaçao do Design Sprint 2.0 para o ambiente de sala de aula, com o auxilio do Google HEART framework, apresentou resultados promissores no desenvolvimento de um prototipo de aplicativo movel, proporcionando uma experiencia de aprendizado pratica e eficiente. A metodologia se mostrou viavel e adaptavel, mesmo com as restriçoes de tempo e recursos do ambiente academico.

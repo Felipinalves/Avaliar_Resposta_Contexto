@@ -1,0 +1,260 @@
+**RESUMO**
+
+A presente pesquisa busca trazer uma releitura dos
+trabalhos de Papert na criaçao de uma linguagem de
+programaçao para crianças, a luz da educaçao tecnologica
+(STEM) e das interfaces tangiveis. Propoe a criaçao,
+avaliaçao e adoçao de artefatos fisicos e virtuais no ensino
+de logica e matematica para crianças, adaptadas a diferentes
+perfis de idade, aderentes aos requisitos de ensino da
+realidade escolar brasileira. Busca tambem investigar
+praticas para apoio ao professor na adoçao de tecnologias
+na sala de aula.
+
+**CARACTERIZACAO DO PROBLEMA**
+
+Acompanhamos toda uma tendencia mundial no ensino,
+baseada na adoçao de tecnologias na sala de aula. E o
+chamado ensino STEM - Ciencia (Science), Tecnologia,
+Engenharia e Matematica. Essa tendencia visa tratar a
+educaçao de forma mais pratica e aplicada, desde o ensino
+fundamental ate o superior. Varios estudos , declaram a
+importancia do ensino tecnologico para fomento da
+inovaçao e pesquisa. Dentre elas, estao: o ensino de
+programaçao para idades cada vez menores, a aplicaçao de
+robotica e automaçao para ensino, e a criaçao de
+ferramentas especificas para auxiliar no ensino.
+
+A adoçao de incentivos ao ensino por meio da tecnologia
+para criança aumenta o interesse tambem do publico
+feminino , onde temos que meninas decrescem seu
+interesse nas areas tecnologicas e exatas. Uma dificuldade
+inerente ao ato de ensinar programaçao e o carater abstrato
+da logica . Uma soluçao e a adoçao de praticas para
+'materializar' os conceitos de programaçao , como uso
+da propria tecnologia , programaçao em blocos e
+robotica. Tais abordagens tem mostrado dados promissores,
+principalmente quando adotados em idades menores  e
+para publico feminino .
+
+Pesquisas mostram as vantagens de utilizaçao de interaçao
+tangivel na educaçao, como em Posada e Baranauskas
+que um ambiente socio-construcionista, de baixo custo,
+para a criaçao de estorias pelas crianças.
+
+Estudos da Uniao Europeia  declaram a necessidade de
+se definir uma idade otima de introduçao dos conceitos de
+pensamento computacional, contudo expoem o consenso
+que estas capacidades devem ser introduzidas mesmo para
+crianças muito pequenas.
+
+Soluçoes comerciais para ensino de robotica, como as da
+Lego sao caras mesmo para escolas particulares, limitando
+seu uso para grupos especificos de alunos. Para as escolas
+publicas, tal produto tem o custo proibitivo, dado que se
+reflete na Olimpiada Brasileira de Robotica: Na falta de
+uma plataforma melhor para as competiçoes, muitas das
+competiçoes exigem que a escola possua o kit LEGO,
+inviabilizando a ida da grande maioria das escolas .
+
+A presente pesquisa busca o desenvolvimento de objetos
+educacionais interativos e adaptativos para o ensino de
+logica de programaçao e de matematica, por meio de
+interfaces tangiveis, que aportam um carater pratico,
+material, ludico e facil de usar. O publico alvo sao crianças
+iletradas ate adolescentes, de custo acessivel tanto para
+escolas publicas quanto particulares.
+
+Contribuiçoes para a pesquisa em Interaçao Humano
+Computador sao descritas neste texto.
+
+**FUNDAMENTACAO TEORICA**
+
+Os trabalhos de Papert  na decada de 80 sao os
+fundamentos do ensino STEM. O autor e o criador da
+linguagem de programaçao infantil Logo, que utiliza
+comandos simples e conhecidos (para frente, direita,
+esquerda, etc.) das crianças para movimentar uma tartaruga
+robo (fisica ou virtual). A linguagem Logo e utilizada como
+base para uma gama de softwares e plataformas modernos
+de ensino de logica de programaçao .
+
+Interfaces de usuario tangiveis pertencem a area de estudo
+da interaçao humano computador que utiliza artefatos
+tangiveis (fisicos) para representar informaçao .
+Aproveita-se a capacidade humana de multiplos sentidos
+para manipular objetos fisicos que representam informaçao
+virtual, naturalizando a interaçao com dispositivos
+tecnologicos.
+
+**PROPOSTA**
+
+Desenvolver um sistema multi-plataforma via web,
+aplicativo movel e por interaçao tatil, que viabilize o ensino
+de programaçao, sendo a primeira plataforma em formato de
+cursos para formaçao pedagogica e a segunda, chamada
+Code Domino, baseada em artefatos fisicos e pictoricos e no
+uso de um aplicativo movel.
+
+**OBJETIVOS ESPECIFICOS**
+
+Incrementar artefatos fisicos, no formato de peças de
+domino, com codificaçao embutida que seja lido por
+dispositivo computacional;
+Desenvolver uma linguagem de programaçao tangivel
+baseada na linguagem Logo ;
+Desenvolver um mini robo, que leia os artefatos
+fisicos e execute os comandos programados;
+Desenvolver o aplicativo movel que permita a
+manipulaçao de peças virtuais de programaçao;
+Executar testes de usabilidade e de acessibilidade com
+crianças de diferentes faixas etarias entre os diferentes
+artefatos criados; e
+Desenvolver um sistema interativo de formaçao
+pedagogica para professores e alunos.
+
+A metodologia do estudo compoe-se dos seguintes passos:
+
+Realizaçao de uma revisao sistematica sobre objetos
+educacionais tecnologicos, ou de ensino de logica de
+programaçao, buscando analisar as principais abordagens
+academicas e comerciais;
+
+Definiçao de requisitos para o ensino de logica e
+matematica atraves de objetos educacionais tecnologicos.
+Definir tambem uma subcategoria de requisitos para a
+realidade educacional brasileira;
+
+Construçao de artefatos baseados nos requisitos
+levantados, virtuais e tangiveis;
+
+Realizaçao de testes de usabilidade com usuarios
+(crianças, pre-adolescentes e adolescentes), buscando
+avaliar os artefatos (objetos educacionais) na sua eficiencia,
+eficacia e satisfaçao em diferentes faixas de idade. Questoes
+eticas estao sendo tratadas com o apoio da Coetica, setor da
+universidade onde esta pesquisa esta sendo conduzida.
+
+Realizaçao de entrevistas e grupos de trabalho com
+professores, buscando relatar praticas aderentes as atuais
+metodologias pedagogicas que insiram os artefatos na
+realidade do professor.
+
+Os primeiros dois passos ja foram realizados. O projeto esta
+na fase de refinamento e pre-testes dos artefatos interativos.
+
+**REVISAO SISTEMATICA**
+
+A revisao sistematica seguiu o modelo de Nakagawa  para a obtençao e analise dos artigos publicados no periodo
+entre 2000 e 2017, prioritariamente no idioma ingles. O
+objetivo foi adquirir conhecimentos sobre outros projetos
+academicos e cientificos que visassem o ensino de logica de
+programaçao, principalmente para alunos do ensino
+fundamental e medio, com diferentes objetos educacionais,
+nos idiomas Portugues e Ingles.
+
+Sem entrar em detalhes, o resultado do processo de RS
+foram 20 artigos, que trazem diferentes abordagens para o
+ensino tecnologico. Eles podem ser agrupados em:
+
+Interaçao por manipulaçao
+
+A substituiçao dos comandos digitados por blocos de
+comando tem sido uma estrategia para ensino de
+programaçao tanto para crianças quanto adultos. Ao arrastar
+e conectar peças representando comandos e parametros,
+varias caracteristicas ideais de interaçao sao favorecidas ,
+, como visibilidade (organizaçao das peças, uso de
+tabuleiros), reconhecimento ao inves de memorizaçao
+(pelas caracteristicas de design), e restriçoes (as formas dos
+blocos ou peças ja deixam claro que opçoes de combinaçao
+sao viaveis ou nao). Testes com 100 alunos usando
+programaçao em bloco , mostraram que a maioria deles
+conseguia prever, entender e aplicar o comportamento de
+um bloco, mesmo sem nunca te-lo visto.
+
+Feedback ludico e uso de Robos
+
+O ensino de programaçao de adultos inicia-se com
+comandos para saidas logico-matematicas. O aluno e
+capacitado a operar comandos e receber respostas do
+computador. As praticas com crianças tratam as respostas
+de forma ludica, algo mais visivel ou tangivel. Os
+movimentos fisicos ou virtuais, roboticos (de cabeça, de
+corpo, de braços) , tornam os feedback mais
+atrativos para crianças e adolescentes.
+
+Comandos Simples e Pictograficos
+
+O ato de programar um computador e uma interaçao do tipo
+instruçao , digitando comandos previamente definidos,
+em um conjunto de regras de posicionamento do codigo,
+que nao sao similares nem a escrita nem a matematica. Ela
+assim e definida por ser um ambiente que exige a interaçao
+eficiente por parte dos programadores avançados. A
+dificuldade do aluno iniciante em nao saber o que pode
+digitar, nem como organizar esses comandos e o que faz
+com que uma tela de um ambiente para desenvolvimento
+seja uma primeira frustraçao .
+
+Ao substituir os comandos digitados por blocos, fisicos ou
+virtuais, pictograficos, e generalistas em suas funçoes,
+identifica-se o principio de design affordance  definido
+como "um atributo de um objeto que permite que as pessoas
+saibam como utiliza-lo". A manipulaçao de blocos de
+comando, com conectores, traz um affordance similar ao de
+jogos de cartas, quebra-cabeças ou dominos, quebrando a
+barreira da interaçao inicial. Evitam-se com isso erros de
+digitaçao e sintaxe, tao comuns aos iniciantes.
+
+Custo e Propriedade
+
+Soluçoes tangiveis naturalizam a interaçao, porem sao mais
+caras de se adquirir que soluçoes baseadas somente em
+software. A adoçao de tecnologias livres de facil replicaçao
+pelos proprios professores diminuem esse custo, e
+consequentemente facilitam a implementaçao.
+
+REQUISITOS
+
+A elaboracao dos requisitos parte da analise das referencias estudadas no estado da arte, da critica pedagogica dessas referencias, e do estudo empirico dos autores, com experiencia no ensino tecnologico de adolescentes e universitarios. Sao eles:
+
+Apresentar os comandos de programacao nao como texto, mas como blocos de comando, reais ou virtuais;
+
+Iniciar com codigos que gerem ludicidade (movimento, som, luz, etc.), utilizando dispositivos fisicos interativos basicos, enquanto que viabiliza o progresso do aluno, utilizando recursos mais avancados (Comandos condicionais, funcoes, etc.);
+
+Apoiar o professor com planos de ensino com uma metodologia que permita explorar os artefatos (Recursos tangiveis e em diversas plataformas) de forma adaptativa ao plano de ensino.
+
+Realidade Brasileira
+
+Para alem do conjunto de requisitos basicos apresentados, a realidade brasileira das escolas precisa de um subconjunto especifico de requisitos. Isso se da pela pouca estrutura fisica e de laboratorios das escolas brasileiras em geral, e pela falta de formacao dos professores para adocao de tecnologias na sala de aula. Sao eles:
+
+Baixo custo de implantacao, com softwares e hardwares livres (open source) que permitam a interacao virtual com os elementos da proposta, ou uso de materiais de baixo custo para objetos tangiveis, como madeira M.D.F., E.V.A. e papel.
+
+SOLUCOES INTERATIVAS
+
+Solucoes Tangiveis
+
+Foi desenvolvido um robo de baixo custo, capaz de ler uma sequencia de pecas RFID dispostas pelas criancas, representado os comandos (Figura 1). Em seguida o robo executa as instrucoes lidas. Esta modalidade de interacao tangivel (sem uso de telas ou representacoes virtuais) favorece a colaboracao entre as criancas.
+
+Dois conjuntos de pecas de domino foram desenvolvidos (Figura 2), para diferentes faixas de idade: O primeiro traz somente instrucoes concretas de movimentacao do robo (frente, tras, direita, esquerda, etc.), enquanto o segundo traz elementos presentes na logica de programacao (operacoes, parametros, condicionais, funcoes, etc.).
+
+Solucoes Virtuais
+
+Um aplicativo para tablets esta em desenvolvimento buscando trazer novas formas de interacao o projeto. Tambem sao apresentadas duas formas de interacao virtual, para diferentes faixas de idade: Modo desenho, onde a crianca desenha o caminho que o robo deve percorrer, que e depois transformado em pecas virtuais e enviado ao robo para execucao; e modo domino virtual, onde ela manipula pecas de comando virtuais, podendo criar sequencias mais longas que com o domino tangivel.
+
+RESULTADOS PRELIMINARES
+
+Dois conjuntos de pecas de domino (para iletrados e criancas) foram desenvolvidos. Sao formados por pecas em acrilico, contendo uma etiqueta RFID e adesivo impresso com a funcao da peca. O conjunto de pecas para os iletrados contem somente os comandos basicos de movimento do robo. O domino para criancas, alem dos comandos basicos de movimento, inclui os comandos vistos em linguagens de programacao modernas, como estruturas de repeticao, estruturas condicionais, variaveis e funcoes.
+
+Testes pilotos de usabilidade foram realizados com o robo e o domino de programacao com 3 criancas (Figura 3).
+
+Este trabalho visa contribuir para a pesquisa em Interacao Humano Computador a medida que usa os desafios lancados pela comunidade no documento GranDIHC [1], destacando:
+
+Acessibilidade e Inclusao Digital, com o desenvolvimento e inovacao com a tematica de Tecnologias Assistivas, Adaptaveis e Inclusivas [8]. A substituicao dos comandos digitados por blocos de comando contendo objetos interativos educacionais desenvolvidos e a substituicao de plataformas caras e importadas por solucoes de custo menor tem os objetivos de ampliar a capacidade de auxiliar no ensino das areas STEM, e contribuir para a igualdade social e de genero no trabalho;
+
+Ubiquidade, Multiplos Dispositivos e Tangibilidade [9], com, artefatos fisicos de interacao mais acessiveis, e interfaces tangiveis mais contextualizadas as diversas realidades de interacao.
+
+**CONSIDERACOES FINAIS**
+
+A pesquisa busca abordar a necessidade de tornar o ensino de logica mais acessivel e atraente, especialmente para crianças, atraves de interfaces tangiveis e virtuais que se adaptem a diferentes estilos de aprendizagem. Ao combinar elementos fisicos e digitais, o projeto visa oferecer uma experiencia de aprendizado mais intuitiva e colaborativa, com potencial para fomentar o interesse pelas areas STEM desde cedo. Espera-se que os resultados da pesquisa contribuam para o desenvolvimento de novas ferramentas e metodologias que auxiliem os professores na promoçao do pensamento computacional e da criatividade em sala de aula.

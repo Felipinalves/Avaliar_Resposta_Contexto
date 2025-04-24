@@ -1,0 +1,196 @@
+**INTRODUCAO**
+
+O desenvolvimento de habilidades para atuaçao com Design Inclusivo tem tido importante
+crescente, com destaque para esses aspectos em cursos da area de Computaçao. Alem dos
+conteudos abordados em disciplinas de Computaçao e Sociedade sobre acessibilidade,
+disciplinas de Interaçao Humano-Computador (IHC) no Brasil tem abordado frequente-
+mente conteudos sobre Design Inclusivo e Acessibilidade .
+
+Apesar das evidencias de crescimento na abordagem de conceitos basicos de Aces-
+sibilidade e Design Inclusivo em disciplinas de IHC, a area apresenta diversos desafios
+relacionados a compreensao de aspectos sobre a diversidade de pessoas, e como incluir
+pessoas com deficiencia, pessoas mais velhas, pessoas em diferentes espectros de neu-
+rodiversidade, dentre outros grupos. As habilidades necessarias para atuar com Design
+de Interaçao para acessibilidade envolve o conhecimento sobre caracteristicas de grupos
+variados de pessoas, com diferentes caracteristicas, e de recursos de Tecnologia Assis-
+tiva utilizados por essas pessoas. Tambem e importante conhecer tecnicas e padroes que auxiliam no conhecimento sobre problemas comumente encontrados e de solucoes comuns, tais como o Web Content Accessibility Guidelines, do World Wide Web Consortium.
+Alem de conceitos basicos abordados em cursos de Interacao Humano-Computador, Programacao Web, e outros, ha relatos de disciplinas especıficas sobre
+Acessibilidade Digital, normalmente ofertadas como disciplinas eletivas. O relato mais antigo que este autor tem conhecimento e do curso de Acessibilidade e Inclusao Digital, da UNIPAMPA. Tambem ha cursos na area de Computacao na USP em São Carlos e o curso relatado neste artigo. Tambem ha relatos de cursos na area de Ciencia da Informacao dedicados ao tema. 
+Pesquisas sobre ensino de acessibilidade digital tem sido alvo de diversos projetos de pesquisa, tal como o projeto Teaching Accessibility, da Universidade de Southampton, no Reino Unido e outros trabalhos recentes. O desenvolvimento de projetos de grande porte na area reforcam a importancia de pesquisas com aprofundamento sobre o ensino de acessibilidade digital.
+A disciplina “Acessibilidade em Sistemas Computacionais” foi criada no ano de
+2014 na instituicao como eletiva para os cursos de Ciencia da Computacao e Sistemas de Informacao, e teve quatro ofertas desde entao. 
+O presente artigo apresenta reflexoes sobre as ofertas destas disciplinas, com foco sobre o papel do envolvimento de pessoas com deficiencia da comunidade no ensino, criacao de empatia, e sobre o papel dos projetos praticos para a experiencia de discentes no aprendizado sobre acessibilidade digital.
+
+
+**A DISCIPLINA DE ACESSIBILIDADE EM SISTEMAS COMPUTACIONAIS NA
+UNIVERSIDADE FEDERAL DE LAVRAS**
+
+A disciplina GCC223 - Acessibilidade em Sistemas Computacionais e ofertada como
+disciplina eletiva cursos de graduaçao em Ciencia da Computaçao e Sistemas de
+Informaçao da. A disciplina tem como pre-requisito Interaçao Humano-Computador.
+
+A disciplina foi planejada com 4 creditos, equivalentes e 68 horas-aula na
+instituiçao (17 semanas). Ela teve ofertas nos anos semestres 2014/2 (13 discentes),
+2015/2 (8 discentes), 2016/2 (15 discentes) e 2017/2 (11 discentes). Infelizmente, a partir
+de 2018, o docente responsavel nao conseguiu viabilizar outras ofertas, devido a sobre-
+carga didatica e acumulo de carga-horaria em cursos de pos-graduaçao. Entretanto, tem
+havido demanda por discentes, e ha planos para retomada nos proximos semestres.
+
+A ementa cobre os seguintes conceitos:
+
+Acessibilidade em Sistemas Computacionais e a norma ISO 9241-171.
+Legislaçao de acessibilidade e implicaçoes para sistemas computacio-
+nais. Aspectos fisicos e psicologicos de deficiencias fisicas e cognitivas
+e implicaçoes para sistemas computacionais. Recursos computacionais de
+Tecnologia Assistiva para pessoas com deficiencia visual, auditiva, mo-
+tora, intelectual e com dificuldades especificas. Principios de design in-
+clusivo. Tecnicas para design de sistemas computacionais acessiveis e
+avaliaçao da acessibilidade de sistemas computacionais.
+
+A avaliaçao da disciplina foi concentrada no uso de foruns de discussao online
+sobre leitura recomendada e materiais sobre pessoas com deficiencia, e com maior peso
+para atividades praticas e um projeto pratico desenvolvido ao longo da disciplina utili-
+zando principios de Design Inclusivo. Discentes do curso realizaram projetos praticos em
+grupos, que poderia focar no design ou avaliaçao de tecnologia digital visando acessibili-
+dade, ou no design de recursos de Tecnologia Assistiva.
+
+A disciplina envolvia tres partes principais: 1) os conceitos basicos sobre Acessi-
+bilidade Digital, legislaçao sobre acessibilidade digital no Brasil e no mundo, normas e
+padroes tecnicos de acessibilidade; 2) um ciclo de conhecimento sobre caracteristicas
+fisicas e psicologicas de deficiencias fisicas e cognitivas e implicaçoes para sistemas
+computacionais, bem como analise de recursos computacionais de Tecnologia Assistiva
+para pessoas com deficiencia visual, auditiva, motora, intelectual e com dificuldades es-
+pecificas; e 3) tecnicas para design de sistemas computacionais acessiveis e avaliaçao da
+acessibilidade de sistemas computacionais, cobrindo tecnicas para conhecer as necessida-
+des de pessoas com diferentes tipos de deficiencia, padroes na construçao de interfaces e
+tecnicas de inspeçao e testes com usuarios com deficiencia.
+
+As partes 2 e 3 do curso tomavam a maior parte da disciplina, ocupando aproxi-
+madamente 6 semanas cada. Nas proximas seçoes, descrevo as experiencias vivenciadas
+nas ofertas da disciplina, com foco sobre o envolvimento de pessoas com deficiencia,
+familiares e profissionais no ensino, e sobre o papel dos projetos praticos desenvolvidos.
+
+Este relato e feito sob a otica do docente, com mençao a organizaçoes e sem
+mençao a nomes de pessoas. Trata-se de relato e “pesquisa que objetiva o aprofundamento
+teorico de situaçoes que emergem espontanea e contingencialmente na pratica profissio-
+nal, desde que nao revelem dados que possam identificar o sujeito”, prevista na Resoluçao
+CNS 510/2016 como caso que dispensa analise por Comite de Etica em Pesquisas com
+Seres Humanos. Desta forma, todas as reflexoes sao feitas pelo ponto de vista do docente,
+sem informaçoes que possam identificar as demais pessoas que participaram da disciplina.
+
+Na parte 2, a disciplina utilizava em torno de uma semana para cada tipo de deficiencia
+ou grupo de deficiencia. Em cada semana, havia uma aula teorica expositiva-dialogada
+em que o docente apresentava caracteristicas relacionadas aquela deficiencia, recursos de
+Tecnologia Assistiva comumente utilizados e conceitos. Na aula seguinte, havia esforço
+para que pessoas com deficiencia, familiares, ou profissionais que atuem com essas pes-
+soas fizessem uma exposiçao para a turma em sala, ou com visitas a centros e locais de
+apoio. Em situaçoes excepcionais em que nao havia possibilidade de convidar alguma
+pessoa, ou que nao havia disponibilidade de horario, havia exposiçao de videos.
+
+O principal material utilizado foi o livro “The Universal Access Handbook"
+, que tem varios capitulos dedicados a tipos especificos de deficiencia
+e recursos de Tecnologia Assistiva utilizados. O professor fazia adaptaçao dos materiais,
+por estarem em lingua inglesa, e fornecia textos complementares em lingua portuguesa.
+
+Na vivencia do docente nesta disciplina, esta etapa do curso foi fundamental para
+discentes e para possibilitar situaçoes para criarem empatia e conviverem com pessoas
+com deficiencia, familiares e profissionais, e aprender com essas pessoas sobre seu dia-a-
+dia, suas atividades, e como utilizam tecnologias digitais para desempenha-las.
+
+Essas vivencias foram muito importantes, e houve diversos relatos informais de es-
+tudantes que disseram que nunca haviam convivido de perto com pessoas com deficiencia.
+Varias pessoas convidadas eram pessoas com deficiencia que tinham trabalho, estavam
+envolvidas em atividades de pesquisa, tinham alto nivel de formaçao e vida muito inde-
+pendente. Foi importante para discentes que nao tinham conhecimento previo ter contato
+mais proximo com realidades em que pessoas com deficiencia tinham independencia, e
+conhecer como poderiam beneficiar-se de tecnologias com acessibilidade.
+
+Nas aulas, as pessoas convidadas incluiram pessoas cegas com grande experiencia
+em uso de leitores de tela, pessoas Surdas que ensinavam Libras, familiares e profissionais
+que trabalhavam com pessoas com deficiencia intelectual e deficiencias multiplas, estu-
+dantes da propria universidade com deficiencia motora, disturbios neurosensoriais, dentre
+outras. Com o avanço das açoes afirmativas nos cursos de graduaçao, a convivencia com
+estudantes nos proprios cursos com diferentes deficiencias devera tornar mais natural para
+estudantes o conhecimento uma diversidade maior de pessoas.
+
+Houve diversos relatos em que estudantes mostraram surpresa sobre problemas
+basicos que viam nas demonstraçoes de pessoas cegas utilizando leitores de tela, por
+exemplo. Tambem perceberam a importancia de envolver essas pessoas no processo
+de design ao ver, por exemplo, como o modelo mental de uma pessoa cega utilizando
+um leitor de telas era diferente de sua propria experiencia como vidente usando o leitor.
+Nas aulas, tambem foi importante para estudantes conhecerem pessoas com deficiencia
+que gostariam de atender em seus projetos praticos. Em varias situaçoes percebiam, por
+exemplo, grande divisao entre pessoas surdas sobre a aceitaçao ou nao de avatares para
+sinalizar em Libras.
+
+Em duas situaçoes, houve ofertas para visitas tecnicas em organizaçoes da cidade
+que oferecem apoio para pessoas com diferentes tipos de deficiencia (uma para deficiencia
+intelectual e multiplas, e outra instituiçao que atua com deficiencia visual, auditiva, e
+transtorno do espectro autista). As visitas propiciaram uma vivencia muito importante
+para estudantes do curso, e tambem possibilitou contato com pessoas que auxiliaram pos-
+teriormente em seus projetos praticos.
+
+A terceira parte da disciplina correspondia a um projeto pratico, em que discentes pode-
+riam desenvolver em grupo atividade para design e/ou avaliaçao de tecnologias interativas.
+Alguns grupos acabavam por escolher projetos de avaliaçao, mas muitos grupos escolhe-
+ram temas especificos para o design de tecnologia digital acessivel para certas aplicaçoes,
+ou mesmo desenvolvimento de recursos de Tecnologia Assistiva.
+
+Na maioria dos casos, os grupos conseguiram envolver pessoas com deficiencia
+no desenvolvimento de seus projetos. Essa vivencia foi fundamental para que discentes do curso pudessem ter vivencia de Design Inclusivo
+
+Nem todos os projetos tiveram sucesso. Entretanto, as vivencias com projetos
+que nao sairam exatamente como as equipes haviam pensado tambem trouxeram insights
+e experiencias importantes sobre conhecer a diversidade de pessoas, e compreender que
+nem todas as ideias que eles tem serao bem aceitas. Projetos que falharam proporcionaram
+boas oportunidades para diversas pessoas no curso reverem posturas e conceitos sobre
+pessoas com deficiencia, e sentir na pele o lema “nada por nos sem nos”.
+
+Na maioria dos casos em que os projetos “falharam”, discentes descobriram ao
+final do projeto que a proposta elaborada por elas nao era adequada para pessoas com
+deficiencia. Em varias dessas situaçoes, os projetos foram concebidos com a ideia inicial
+que os grupos tiveram, a partir da vivencia deles, de o que as necessidades das pessoas
+com deficiencia seriam. Muitas vezes, os aprendizados das etapas de conhecer as pessoas
+nao eram inteiramente considerados. Por exemplo, tecnologias especificas projetadas para
+pessoas surdas baseadas nos antigos terminais TTY com texto nao tiveram boa aceitaçao,
+ja que as pessoas surdas privilegiavam o uso de comunicaçao por video.
+
+Os projetos envolveram temas diversos. Projetos de avaliaçao versaram sobre
+avaliaçao de acessibilidade com guidelines de grandes portais de noticia, do Ambiente
+Virtual de Aprendizagem da universidade, dentre outros. Em termos de projetos de tecno-
+logias especificas com acessibilidade, diferentes grupos trabalharam com propostas como
+criaçao de blog para pessoas surdas, utilizando recursos de video, aplicaçao movel para
+consulta de informaçoes em supermercado para pessoas cegas, guia digital da universi-
+dade com informaçoes em Libras.
+
+Outros grupos tambem atuaram no desenvolvimento de prototipos de recursos
+de Tecnologia Assistiva, como um prototipo de leitor de telas utilizado no navegador-
+Web, uma extensao de ferramenta para adaptaçao de conteudo para pessoas com disle-
+xia, geraçao de interpretaçao em Libras online utilizando crowdsourcing, identificaçao e
+separaçao de ritmo em musicas para pessoas surdas, recurso para comunicaçao alterna-
+tiva para pessoas com deficiencia intelectual, um prototipo com recursos eletronicos de
+aro magnetico para pessoas que utilizam aparelhos auditivos, dentre outros.
+
+Alem da experiencia pratica no projeto maior, a disciplina tinha diversas praticas
+em laboratorio para aprofundamento em atividades de avaliaçao. Ha relatos na literatura
+de dificuldade no uso do WCAG por iniciantes . Assim, diferente do
+contexto da disciplina de IHC, em que este docente trabalha de forma mais especifica com
+o tema de acessibilidade digital por uma semana, e com uma atividade pratica focada com
+poucas guidelines, na disciplina eletiva de acessibilidade havia tres semanas para trabalhar
+de forma detalhada com avaliaçoes utilizando as WCAG.
+
+Apesar da disponibilidade de diversas pessoas - incluindo as que haviam vindo
+para as demonstraçoes no curso - muitos grupos tiveram dificuldade para envolver pessoas
+com deficiencia. As maiores dificuldades foram com projetos envolvendo pessoas surdas,
+dada a limitaçao de profissionais que atuam com traduçao-interpretaçao Libras.
+
+**CONIDERAÇOES FINAIS**
+
+Este artigo apresentou uma reflexao de um docente sobre sua experiencia com ensino
+de uma disciplina eletiva de Acessibilidade em Sistemas Computacionais para cursos de graduacao em Ciencia da Computacao e Sistemas de Informacao. A reflexao abordou principalmente os aspectos relacionados ao envolvimento de pessoas com deficiencia para possibilitar situacoes para estudantes terem empatia com essas pessoas e conhecerem recursos tecnologicos, e sobre o papel dos projetos praticos desenvolvidos no curso. O tema de ensino de acessibilidade digital tem recebido grande atencao, e ha pesquisas nacionais e internacionais sobre o tema. Destaca-se o projeto Teaching Accessibility, do Reino Unido, que tem coletado experiencias de docentes e profissionais de todo o mundo sobre o ensino de tecnologia digital.
+A partir de outras experiencias ja relatadas sobre o ensino de acessibilidade digital, este artigo retoma discussoes e traz pontos importantes para discutirmos dentro do contexto brasileiro e avancarmos no ensino de Design Inclusivo e Acessibilidade.
+
+
+**CONSIDERACOES FINAIS**
+
+Este artigo procurou demonstrar como o envolvimento de pessoas com deficiencia e o uso de projetos praticos podem enriquecer o ensino e a aprendizagem de acessibilidade digital em cursos de computaçao. As experiencias relatadas reforçam a importancia de promover a empatia, a compreensao da diversidade e a aplicaçao pratica dos conceitos aprendidos, preparando os alunos para criar soluçoes mais inclusivas e responsaveis.

@@ -1,0 +1,177 @@
+**RESUMO**
+
+A Diplomacia de Dados consiste na difusao de informaçoes e
+conhecimentos especializados sobre dados nas relaçoes entre Estados ou outras
+entidades. O acesso aos atos e acordos internacionais do setor energetico, a partir
+do uso de IA e visualizaçao de dados, e um diferencial para tomada de decisao
+oferecido pela plataforma Enetrix. Esta prove registro, monitoramento e analise da
+diplomacia energetica brasileira a partir de dados oficiais e confiaveis. Para
+aprimoramento da Enetrix, sob a perspectiva de pessoas potenciais usuarias da
+plataforma, a pratica de Grupo Focal foi conduzida. Os resultados foram
+consolidados em 55 itens para o backlog do produto, incluindo funcionalidades e
+aspectos de IHC.
+
+**INTRODUCAO**
+
+Os paises buscam atender a demanda interna e externa por recursos energeticos. Esta
+realidade, em certa medida, exige de seus governos o estabelecimento de acordos
+internacionais com outros paises e organizaçoes transnacionais para suprir necessidades
+energeticas, presentes e futuras. Os acordos (ou atos) internacionais compoem a trajetoria
+da diplomacia energetica governamental de um pais. Estes se configuram como as açoes
+de Estado em busca da segurança energetica por meio de atos formalmente constituidos
+na esfera internacional. O objetivo e de garantir o acesso aos recursos energeticos
+necessarios, para promover o desenvolvimento continuo das capacidades nacionais, alem
+do desempenho economico e crescimento .
+
+A Diplomacia de Dados consiste na difusao de informaçoes e conhecimentos
+especializados sobre dados nas relaçoes entre Estados ou outras entidades. Sua aplicaçao
+permite melhores decisoes governamentais e a participaçao de partes interessadas
+. A plataforma Concordia (https://concordia.itamaraty.gov.br/pesquisa-
+avancada), mantida pelo Ministerio das Relaçoes Exteriores do Brasil, e um repositorio a
+partir do qual a populaçao tem acesso a consulta de atos/acordos internacionais para
+diferentes setores, incluindo o energetico. No entanto, a partir da realizaçao previa de
+visitas tecnicas em setores do Ministerios de Minas e Energia, pessoas usuarias da
+Plataforma Concordia, expuseram, de forma livre em reunioes de trabalho, barreiras
+enfrentadas para acessar a informaçao ali disponivel. Dentre as dificuldades os relatos
+indicam que, (i) os mecanismos de busca apresentam limitaçoes de combinaçoes de
+campos de interesse; (ii) o resultado consiste em uma lista com os titulos dos acordos
+encontrados, quando e com quem foi celebrado, status e, quando disponivel, link de
+acesso ao documento original; e (iii) ao selecionar um dos itens e apresentado um breve
+resumo do ato/acordo. A impossibilidade de visualizar a correlaçao dos dados exige que
+a pessoa interessada, para prosseguir com a analise, tenha que extrair as informaçoes de
+cada ato/acordo manualmente apos a busca. Este processo foi mencionado, na ocasiao,
+como oneroso em termos de tempo, alem de mecanico e repetitivo, sendo susceptivel ao
+erro.
+
+Com a area de Inteligencia Artificial e Visualizaçao de Dados, percebe-se a viabilidade
+de prover, a partir dos dados disponiveis na plataforma Concordia, um mapa geopolitico
+da cooperaçao brasileira no setor energetico. A partir deste, e possivel identificar, entre
+outras informaçoes, as fontes de energia envolvidas nos referidos atos internacionais
+contemplados (nuclear, solar, eolica, hidreletrica, petroleo, gas, biocombustiveis, etc.). A
+disponibilidade de uma visualizaçao dinamica e multimedia, que permite a analise
+comparativa entre os resultados das buscas de interesse, se apresenta como uma
+ferramenta util no processo de consulta e decisao na Diplomacia Energetica do pais.
+
+A Plataforma Enetrix (Energy Treaty Matrix; https://enetrix.ufpb.br/) vem sendo
+desenvolvida para prover o registro, monitoramento e analise da diplomacia energetica
+brasileira a partir dos dados oficiais disponibilizados pela plataforma Concordia . Atualmente, em sua versao Beta, dispoe de informaçoes de mais de 447
+acordos/atos internacionais, assinados por mais de 26 paises e 15 organizaçoes
+transnacionais, com 106 parceiros e contemplando 44 tipos de recursos energeticos.
+
+A Plataforma Enetrix tem por objetivo oferecer informaçoes confiaveis, rapidas e com
+tratamento de dados, a partir de mecanismos de busca, que interligam diversos niveis de
+analises. Tais informaçoes sao essenciais no contexto da diplomacia, mas tambem sao
+uteis para pesquisadores, empresas do setor energetico, organizaçoes nacionais e
+internacionais, alem da sociedade civil organizada. Por meio do acesso as informaçoes
+disponibilizadas pela Enetrix, espera-se que seja possivel que diferentes stakeholders
+possam subsidiar o planejamento, as estrategias e as tomadas de decisoes para as
+transiçoes energeticas do pais . Neste sentido, os cenarios de uso da Enetrix
+sao diversos e devem atender as demandas especificas de diferentes beneficiarios.
+
+Cientes da importancia de considerar a perspectiva de potenciais pessoas usuarias sobre
+a plataforma Enetrix em seu estagio atual (versao Beta) e diante da diversidade de perfis
+de uso, a equipe planejou, conduziu e consolidou os resultados de um Grupo Focal
+. O objetivo consistiu na exploraçao da Enetrix, nos modos livre e
+guiado, com representantes dos diferentes setores, seguido de discussao mediada. Esta
+pratica, possibilitou a identificaçao de novos cenarios de uso, funcionalidades,
+preferencias, etc. Ao final, os resultados foram consolidados e catalogados em itens para
+o backlog do produto, contemplando aspectos funcionais, de interface e interaçao.
+
+**OPORTUNIZANDO O GRUPO FOCAL PARA A PLATAFORMA ENETRIX**
+
+A Plataforma Enetrix e uma iniciativa de concepçao do Grupo de Estudos em Segurança
+Energetica (GESENE-UFPB), e atualmente esta sendo aperfeiçoada em parceria com o
+Laboratorio de Aplicaçoes em Inteligencia Artificial (ARIA-UFPB), sendo financiada
+pela Secretaria da Ciencia, Tecnologia, Inovaçao e Ensino Superior (SECTIES) do
+Governo da Paraiba, por meio da Fundaçao de Apoio a Pesquisa do Estado da Paraiba
+(FAPESQ-PB), enquanto projeto de desenvolvimento e inovaçao. Sua execuçao conta
+com uma equipe multidisciplinar composta por mais de vinte integrantes - professores,
+pesquisadores, profissionais e estudantes com atuaçao nas areas de Relaçoes
+Internacionais, Computaçao, Educaçao, Comunicaçao e Midias.
+
+Um dos eixos do projeto consiste na produçao e difusao de conhecimento sobre a
+Plataforma Enetrix, Segurança Energetica e Diplomacia de Dados. As açoes realizadas
+neste eixo estao associadas a um projeto de Extensao da UFPB. Neste contexto, em
+março de 2024 foram realizados dois eventos, a saber: “Conferencia Livre Soluçoes em
+ciencia, tecnologia e inovaçao aplicadas ao desenvolvimento da diplomacia energetica
+brasileira e internacional” e “2 Simposio do Projeto Enetrix Ciencia Tecnologia e
+Inovaçao aplicadas a Diplomacia Energetica Internacional”.
+
+Na ocasiao do Simposio, se fez oportuna a conduçao da pratica de Grupo Focal com as
+pessoas participantes que se dispusessem, de forma voluntaria e anonima, a explorar e
+contribuir com sugestoes de melhorias para a plataforma Enetrix. O planejamento do
+Grupo Focal, no formato presencial, considerou 5 momentos, a saber 1) Apresentaçao da
+Enetrix e suas funcionalidades 2) Exploraçao Livre da Enetrix (40') pelas pessoas
+participantes do evento, enquanto a equipe de desenvolvimento observa e faz anotaçoes
+(dificuldades/duvidas e sugestoes) 3) Exploraçao Guiada da Enetrix (40'), momento no
+qual o publico participante e direcionado a executar tarefas especificas no uso da
+plataforma 4) Discussao Mediada (40') na qual foram exploradas tres vertentes Analise
+de Dados (quais dados adicionais poderiam ser disponibilizados na ferramenta para
+cruzamento), Tecnologica (quais novas funcionalidades seriam interessantes, como seria
+a melhor forma de ter as informaçoes apresentadas, etc.) e Diplomacia de Dados, quais
+seriam as possibilidades de atividade fim (cenarios e caso de uso) e, 5) Consolidaçao dos
+resultados para ampliar o alcance da plataforma contemplando uma visao mais externa,
+de pessoas que seriam potenciais usuarias, em contextos distintos, para atualizaçao do
+backlog do produto em termos de funcionalidades, requisitos nao funcionais, cenarios e
+casos de uso.
+
+**MELHORIAS PARA A PLATAFORMA ENETRIX COMO RESULTADOS DO GRUPO FOCAL**
+
+A equipe Enetrix pode apresentar a plataforma para uma audiencia diversificada
+(professores, pesquisadores, profissionais e estudantes), representantes de empresas do
+setor energetico brasileiro, representantes dos ministerios de Minas e Energia e de
+Relaçoes Exteriores do governo federal, alem de representantes da sociedade civil
+organizada. Participaram do Grupo Focal 14 pessoas, com identificaçao de perfil de
+genero de 57,1% masculino, 35,7% feminino e 7,1% nao binario, predominancia
+(64,28%) de estudantes de graduaçao, seguidos (14,28%) por de graduados e doutores. O
+interesse na tematica (70%) prevalece por integrar projetos de pesquisa sobre o tema.
+
+Percebe-se que as pessoas participantes exploraram a Enetrix em sua totalidade, paginas
+e funcionalidades, sendo as sugestoes feitas transversais a plataforma. A consolidaçao dos
+resultados foi realizada por categoria, podendo um item ser associado a mais de uma
+delas, a saber melhoria de funcionalidade existente; melhoria de requisitos nao
+funcionais (interface/interaçao/conteudo/navegaçao/tempo de resposta, etc.); sugestao de
+novas funcionalidades, e remoçao de funcionalidades existentes. No quantitativo obtido,
+excluindo as repetiçoes, 55 sugestoes foram catalogadas, sendo a maioria (33) relativa
+aos aspectos de interface, interaçao, conteudo, navegaçao, responsividade, tempo de
+resposta; seguida por ajustes de melhoria para funcionalidades ja disponiveis na Enetrix,
+principalmente para filtros e possibilidades distintas de acesso aos resultados de busca
+(12); foi sugerida a remoçao um item de busca (Uniao Monetaria); e 9 novas
+funcionalidades foram propostas.
+
+Os novos itens de backlog de produto, resultantes da consolidaçao, foram priorizados,
+pela equipe de gerenciamento de projetos, em funçao do impacto para o uso da Enetrix,
+custo de alteraçao e frequencia com que foram apontados como uteis por diferentes
+participantes do Grupo Focal. Para exemplificar, citamos alguns exemplos (i) Ampliar
+tipos de filtro tipo de documento, tipo de acordo, instituiçoes mencionadas no acordo,
+infraestrutura (usinas mencionadas), e grupos (G20, Brics, G7, Mercosul), se o acordo foi
+de transferencia tecnologica, eficiencia energetica, planejamento energetico, etc.; (ii)
+Combinar filtros selecionar acordos que envolvam simultaneamente a Argentina, o
+Uruguai e a Venezuela; nas Matrizes Nuclear e Hidrica) (iii) Exportar o resultado de uma
+busca enquanto documento (csv, xls); (iv) Permitir busca em profundidade, apos
+visualizar um acordo de sua matriz energetica, mostrar outros acordos envolvendo o
+mesmo pais e a mesma matriz energetica, assim como, a partir dos itens de um grafico
+acessar os detalhes a partir dos documentos de origem; (v) Fornecer glossario contextual
+a partir do uso de toolkits nos graficos, mapas e quadros; (vi) Tornar a Enetrix responsiva
+com melhor apresentaçao, navegaçao e interaçao para dispositivos moveis (tablets e
+celulares); (vii) melhorar o contraste das cores nos mapas, incluir legenda e titulos nos
+mesmos; (viii) indicar acronimos de grupos e comunidades (Comunidade do Caribe
+CARICOM, Comunidade Europeia da Energia Atomica - EURATOM), etc.
+
+**CONSIDERAÇOES FINAIS**
+
+A pratica do Grupo Focal se mostrou adequada e util para os propositos estabelecidos,
+uma vez que foi possivel, em um curto intervalo de tempo e com baixo custo, compilar
+as perspectivas de uma audiencia diversificada com perfil de uso pertinente a Enetrix
+sendo relevante seu resultado para o aprimoramento da plataforma. O planejamento,
+conduçao e consolidaçao dos resultados, transformando as discussoes em itens de backlog
+de produto permitiu ampliar a perspectiva da equipe de desenvolvimento. Ainda, a pratica
+do Grupo Focal, direcionada para um produto real, proveu, alem dos avanços tecnicos
+para a plataforma, aprendizado para a equipe, no contexto de UX Research. Apos
+refinamentos da Enetrix, a plataforma foi apresentada no evento de lançamento do Data
+Diplomacy Academy, na Organizaçao das Naçoes Unidas (ONU), atraves da iniciativa
+da United Nations Institute for Training and Research (UNITAR), em março de 2023.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, o uso do Grupo Focal se mostrou eficaz para identificar as necessidades e expectativas dos potenciais usuarios da plataforma Enetrix, contribuindo para o seu aprimoramento e para o alcance dos seus objetivos. As sugestoes colhidas no grupo focal, ao serem implementadas, tendem a contribuir para a construcao de uma ferramenta mais completa e util para a diplomacia energetica brasileira e internacional.

@@ -1,0 +1,147 @@
+**RESUMO**
+
+Sao muitos os caminhos que levam a desinformaçao. O acesso cada vez mais
+crescente a dispositivos moveis e aos canais de comunicaçao potencializou a disseminaçao
+de noticias falsas. A sociedade tem se mobilizado em criar soluçoes que amenizem o
+fenomeno das Fake News. Este trabalho propoe o RetificAI, um verificador de noticias
+falsas, composto de um Website e um chatbot, e com base em IA e Aprendizado de
+Maquina, projetado para disponibilizar de maneira facil e guiada um feedback sobre
+noticias veiculadas nos mais diferentes meios. Um estudo previo foi feito em um prototipo
+existente e com base nele um novo produto foi projetado. O intuito desse novo produto e
+ser efetivo, alem de assertivo e facil de usar para diferentes perfis de usuarios, sobretudo
+idosos, que sao reconhecidamente aqueles que mais disseminam noticias falsas no Brasil.
+
+**INTRODUCAO**
+
+As emoçoes e as crenças pessoais, para Myers e Dewall (2017), tem grande impacto na formaçao da percepçao
+que o individuo tem do mundo a sua volta. A percepçao e caracterizada como a "organizaçao e interpretaçao
+de informaçoes sensoriais conscientemente", portanto, nao ha uma unica forma de percepçao, ja que ha varios
+modos de interpretaçao e de relaçao com o repertorio individual de informaçoes ou conhecimentos que cada
+pessoa possui. Essa percepçao, no entanto, pode estar ou nao de acordo com os fatos. Quando nao esta de
+acordo, sao criadas realidades alternativas "que nao se baseiam em fatos, mas sim em emoçoes. Realidades
+alternativas que se baseiam na percepçao, nao em dados" (MEDRAN, 2017). E assim que ocorre as distorçoes
+dos acontecimentos reais (GOMES, PENNA e ARROIO, 2020). De acordo com Pennycook e Rand (2021), o
+mau discernimento da verdade esta associado a falta de uma analise cuidadosa, sondagem e conhecimento
+relevante, e o uso de heuristicas como familiaridade. Alem disso, ha uma desconexao substancial entre o que
+as pessoas acreditam e o que eles compartilham nas redes sociais, por exemplo. Essa dissociaçao e em grande
+parte impulsionada pela desatençao, mais do que pelo compartilhamento proposital de desinformaçao. Assim,
+as intervençoes podem estimular com sucesso os usuarios de midia social a se concentrarem mais na precisao.
+
+O termo fake news ganha a definiçao de noticias falsas quando traduzido para o Portugues, mas, para
+alguns autores, o cenario atual que envolve o termo o coloca em um patamar mais complexo (ZUCKERMAN,
+2017). Zuckerman (2017) faz uma categorizaçao das noticias falsas de tres maneiras: 1) A noticia falsa para
+desviar a atençao do problema real; 2) A propaganda, em que e usada a noticia falsa, em um contexto politico,
+para promover um candidato e denegrir a imagem do outro; 3) E um numero grande de noticias falsas,
+confundindo o leitor pelo excesso de informaçao. A ultima categoria, segundo o autor, e uma maneira de
+desacreditar nos meios de comunicaçao tradicionais e criar o estado de desinformaçao (ZUCKERMAN, 2017).
+Allcott e Gentzkow (2017), por sua vez, traçam uma definiçao mais proxima da traduçao, sendo as fake news
+"[...] artigos ou noticias intencionais para enganar os leitores”, tendo assim um proposito de ludibriar o
+receptor da informaçao.
+
+Este projeto se insere no contexto de disseminaçao de fake news, uma vez que hoje a tecnologia facilita
+muito a disseminaçao de noticias, sendo elas verdadeiras ou nao. Um problema claro a se notar e o aumento de
+fake news, sobretudo em epocas de eleiçao (como o atual momento do Brasil), assim como uma maior
+dificuldade em se caracterizar a veracidade de uma noticia. Verificar a veracidade de um fato ou informaçao
+recebida por diversos meios midiaticos e uma forma de minimizar os efeitos causados pelas fake news. Os autores deste trabalho, inspirados em um prototipo de ferramenta desenvolvido no mesmo instituto de
+pesquisa, realizaram estudos empiricos e analiticos em tal prototipo e, a partir da analise, realizaram o redesign
+da solucao de apoio na identicacao de noticias falsas. O intuito e disseminar tal solucao, de modo que a
+sociedade de maneira geral possa pesquisar, de forma rapida e guiada, se uma noticia e verdadeira ou nao. A
+secao a seguir descreve os procedimentos metodologicos adotados neste trabalho.
+
+
+**METODOLOGIA/PROCESSO**
+
+Para o design da soluçao aqui proposta adotou-se o metodo do Design Thinking (DT) (BROWN, 2009), usado
+para estimular ideaçao ao abordar problemas relacionados a futuras aquisiçoes de informaçoes, analise de
+conhecimento e propostas de soluçoes. O DT combina empatia no contexto de um problema, para colocar as
+pessoas no centro do desenvolvimento de um projeto. Tambem associa a criatividade para geraçao de soluçoes
+e razao para analisar e adaptar as soluçoes para o contexto. O DT e uma abordagem centrada no humano,
+aplicado em 5 etapas, a saber: empatia; definiçao; ideaçao; prototipaçao e teste. A etapa de empatia ou imersao
+sugere um aprofundamento sobre o problema de design, sobre as partes interessadas na soluçao, bem como
+quais sao as ameaças, oportunidades, pontos fortes e pontos fracos do produto em questao. Neste trabalho esta
+etapa foi materializada com o uso de recursos como benchmarking, estudo empirico baseado em observaçao e
+estudo analitico baseado em inspeçao com heuristicas. O benchmarking permitiu avaliar outras ferramentas
+que se propoem a verificar a legitimidade de noticias, tais como: Fake Check, Fake News Detection, Fake
+News BR. No benchmarking foram listadas as principais caracteristicas dos sites. Entre as caracteristicas,
+consideradas aqui como requisitos, elenca-se: oferta de uma descriçao sobre o funcionamento da ferramenta
+com uma breve explicaçao tecnica da logica ou da tecnica utilizada; espaço para colar o texto (caixa de texto),
+escolher o metodo (por palavras ou por classes gramaticais, por exemplo) e avaliar (geralmente um botao de
+enviar). Houve tambem a realizaçao de pesquisas de outros chatbots ja existentes no mercado que realizam a
+verificaçao de noticias pelo aplicativo de celular Whatsapp, como: Fatima e Bot da Agencia Lupa. O
+benchmarking realizado sobre esses chatbots foi feito considerando a analise da escrita (ex.: tempos verbais,
+formalidade e simplicidade) e outros elementos utilizados no aplicativo Whatsapp, como o uso de emojis e
+interaçoes exclusivas (ex.: botoes e menu de opçoes).
+
+Para entender o publico alvo, um conjunto de personas foi criado (PRUITT e ADLIN, 2006). Um
+jovem adulto, formado em jornalismo e com interesse em divulgar noticias e fatos relacionados a politica e
+atualidades. Um idoso, aposentado, que costuma ler jornais diariamente, conhece poucas fontes de informaçao
+na Internet e nao confia em muitas noticias vistas no computador. Gostaria de um meio facil e seguro de checar
+suas noticias pelo celular. Alem disso, tem dificuldades visuais como daltonismo. Uma mulher, de meia-idade,
+que estuda para concurso e procura por sites de confiança e com informaçoes sobre concursos que sejam
+confiaveis e seguros.
+
+Uma avaliaçao de uso junto a idosos de um curso de letramento digital tambem foi conduzida na etapa
+de design. Estudos da literatura apontam que esse e um dos publicos mais susceptiveis a disseminar noticias
+falsas (ESTABEL, LUCE e SANTINI, 2020; YABRUDE et al., 2020). Apos uma aula sobre conscientizaçao e
+compartilhamento de noticias falsas, doze idosos foram convidados a interagir com a ferramenta Fake Check e
+os pesquisadores observaram tal interaçao. Os idosos tinham idade entre 65 e 84 anos, de classe media alta e
+moradores da cidade de Sao Carlos/SP. Notou-se que os idosos tiveram dificuldades sobretudo no tamanho
+das fontes usadas no site, no copiar e colar (usando o celular) trechos da noticia para verificaçao, em identificar
+o local de clicar para solicitar a verificaçao, em visualizar a caixa de texto em que o trecho da noticia deveria
+ser copiado e em visualizar o resultado da checagem, uma vez que tinham que rolar a tela para visualizar, mas
+o site nao apontava que o processo ja tinha sido feito. Alem disso, o site exigia numero alto de palavras para
+garantir a verificaçao e todo o trecho copiado era ilustrado na interface, dificultando o acesso as demais informacoes e funcionalidades da pagina Ressalta-se que essa e uma das atividades previstas para o curso de letramento que tem comite de etica aprovado pelo CEP EACH USP
+Ainda na etapa de empatia duas avaliacoes analiticas de inspecao foram realizadas uma para verificar requisitos de acessibilidade e outra para verificar aspectos de usabilidade A avaliacao heuristica de usabilidade NIELSEN e MOLICH 1990 foi conduzida na ferramenta Fake Check com 3 avaliadores com diferentes niveis de experiencia na conducao dessa atividade A avaliacao apontou problemas como Visibilidade e estado do sistema o site nao indica previamente se o texto que o usuario colocou para checar tem no minimo 100 palavras nao tem indicacao correta sobre o passo a passo a ser conduzido nao oferece um loading eficiente nao tem uma indicacao que o resultado da consulta apareceu apos clicar em enviar nao tem uma indicacao de onde o usuario esta na pagina Relacao entre sistema e mundo real presenca de botoes falsos presenca de elemento com comportamento de botao mas com identidade visual nao compativel Controle e liberdade do usuario nao e possivel cancelar o envio nao e possivel limpar o texto Consistencia e padronizacao repeticao de conteudos em paginas diferentes caixa de texto e pequena e nao aponta o uso de noticias com mais de 100 palavras Prevencao de erros site nao indica previamente se o texto que o usuario colocou tem no minimo 100 palavras noticia inserida se mistura com o texto da descricao caixa de texto nao se destaca Design estetico e minimalista Site e extremamente minimalista a ponto de faltar informacoes e passos Ajuda e documentacao nao tem indicacao correta sobre o passo a passo pouca instrucao para o Modelo de deteccao e nao tem FAQ duvidas suporte A avaliacao heuristica foi conduzida por 4 especialistas
+Avaliacao Simplificada de Acessibilidade WARAU 2022 foi conduzida com 4 avaliadores diferentes daqueles que realizaram a avaliacao de usabilidade com diferentes niveis de experiencia na conducao dessa avaliacao e identificou os seguintes problemas nao havia textos alternativos para as imagens o site nao era completamente responsivo e ao variar a resolucao da tela algum conteudo se perde ao redimensionar a janela da aplicacao para tamanhos menores que o maximo e possivel verificar a rolagem horizontal violacao grave de acessibilidade ao verificar o contraste alguns links e textos nao ficam visiveis nao era possivel acessar todo o conteudo por meio de TAB Enter e setas direcionais
+Finalizada a etapa de empatia a equipe conhecia os principais problemas das ferramentas atuais de deteccao de noticias falsas bem como as principais vulnerabilidades do publico idoso como exemplo Passou-se entao para a etapa de ideacao em que rodadas de brainstorming foram conduzidas com o intuito de idealizar a nova solucao Diversas tecnologias estao disponiveis no mercado tais como smartwatches e Internet das Coisas no entanto esses recursos ainda nao estao disponiveis para a maioria da populacao O objetivo da equipe era projetar uma solucao que pudesse ser facilmente utilizada que empregasse dispositivos ja de adocao da populacao e que de preferencia fosse acessivel para a populacao incluindo a idosa Idealizou-se entao uma pagina Web responsiva e um chatbot para o aplicativo de mensagens Whatsapp que utilizam recursos de Inteligencia Artificial e Aprendizado de Maquina para disponibilizar a usuarios medios a verificacao se as noticias recebidas em suas redes sociais sao ou nao noticias falsas
+Na etapa de prototipacao as solucoes foram desenhadas usando a ferramenta Figma buscando resolver os problemas de usabilidade e acessibilidade identificados na etapa de empatiaimersao Um estudo de cores e contraste foi realizado na interface Tambem foi feita a prototipacao do chatbot do Whatsapp para simular a interacao com uma pessoa mostrando as principais funcionalidades do bot Durante a prototipacao foi realizado ainda um estudo de UX Writing 6 para reformular partes do texto da ferramenta de modo a deixa-la com uma explicacao menos tecnica e mais objetiva Alem disso houve mudancas quanto a abordagem das falas tom e direcionamento das mesmas
+Na etapa de teste por fim a ferramenta com o novo design e funcionalidades foi avaliada de modo analitico em relacao aos aspectos de usabilidade e acessibilidade utilizando os mesmos instrumentos de inspecao e os mesmos avaliadores Esses novos estudos nao apontaram problemas
+
+**JUSTIFICATIVA**
+
+Conforme descrito acima, a equipe deste trabalho acredita que a soluçao pensada e uma soluçao acessivel ao
+publico. Alem disso, a soluçao usa tecnologias ja adotadas e emprega requisitos de design e interaçao
+importantes, tais como boa usabilidade e acessibilidade. O metodo empregado permitiu ter uma ampla visao
+do que seria de fato usado pela populaçao, sobretudo pelos idosos. Os artefatos empregados deram retorno dos
+principais problemas de design existentes em ferramentas ja disponiveis, e confirmaram a lacuna existente
+entre o fenomeno das fake news e os recursos existentes para detecta-las. Estes autores acreditam que a
+soluçao pode ser efetiva na detecçao de noticias falsas, uma vez que usa um corpus ja bastante treinado de IA,
+mas que oferece uma interface de usuario agradavel e mais assertiva que as atualmente disponiveis na Internet.
+
+**SOLUÇAO PROPOSTA E CENARIO DE USO**
+
+Esta equipe apresenta uma soluçao que consiste em 2 artefatos computacionais: uma aplicaçao Web e um
+chatbot para o aplicativo Whatsapp. A aplicaçao Web consiste em 4 etapas que um usuario precisa passar para
+verificar se a noticia e verdadeira ou falsa, sao elas: 1) selecionar o modelo de detecçao, 2) selecionar o modo
+do conteudo, 3) adicionar a noticia e, por fim, 4) receber o resultado apos a checagem da inteligencia artificial.
+Um exemplo de cenario de uso considera uma pessoa idosa navegando pela Internet e fica na duvida se a
+noticia a qual esta lendo e ou nao uma fake news. Assim, acessa o Website do RetificAI e verifica, de maneira
+rapida, a veracidade da informaçao.
+
+O chatbot no Whatsapp, por sua vez, consiste na replicaçao da aplicaçao Web com simplificaçoes,
+principalmente por conta do modelo da plataforma (aplicativo de mensagens para smartphones). O bot inicia a
+conversa se apresentando e instruindo sobre a sua utilizaçao, que consistem em: 1) usuario selecionar o modelo
+de detecçao, 2) inserir a noticia (link ou texto) e 3) informar, apos a checagem da inteligencia artificial, o
+resultado. Um cenario de uso considera um usuario idoso que recebe, de outro usuario ou grupo do Whatsapp,
+uma noticia. Para verificar se ela contem informaçoes verdadeiras ou nao, o idoso manda mensagem para o bot
+do RetificAI e encaminha o link da noticia, recebendo o resultado do bot apos a verificaçao. Imagens de ambos
+os artefatos podem ser vistos no link para o prototipo disponivel na Seçao 6.
+
+**VIABILIDADE**
+
+A escolha de uma soluçao Web para o problema proposto foi devido a ela ja ser uma plataforma bastante
+concretizada no mundo atual, e devido ao fato das pessoas terem facilidade no acesso a computadores e
+aparelhos celulares pessoais, tambem devido as redes de Internet estarem mais acessiveis. Alem disso, a
+utilizaçao de serviços de armazenamento e manipulaçao de dados na nuvem oferecem alta velocidade de
+processamento por um custo baixo. Ja a decisao de desenvolver um chatbot para o Whatsapp se deve ao fato
+desse ser o principal aplicativo de comunicaçao via mensagens instantaneas do Brasil, e tambem por ser um
+dos principais meios de divulgaçao e recebimento de informaçoes para muitas pessoas (PANORAMA, 2022),
+ocasionando no espalhamento de noticias falsas com maior facilidade. Um chatbot de checagem de fatos pode
+ser criado com facilidade devido a existencia de diversas plataformas de bots especificos para o Whatsapp,
+alem de sua API (em Portugues, Interface de Programaçao de Aplicaçoes) ser publica e com valores baixos. E
+intençao do grupo disponibilizar e fazer ampla divulgaçao de ambos os artefatos durante o periodo eleitoral no
+Brasil.
+
+**CONSIDERACOES FINAIS**
+
+O RetificAI, com sua interface amigavel e acessibilidade aprimorada, surge como uma ferramenta promissora no combate as fake news, capacitando a sociedade a discernir informaçoes confiaveis de conteudos enganosos. Ao oferecer tanto uma aplicaçao web quanto um chatbot no WhatsApp, a soluçao busca atingir um publico amplo, incluindo idosos e pessoas com diferentes niveis de conhecimento tecnologico. Com a continua disseminaçao da desinformaçao, a evoluçao e o aprimoramento de ferramentas como o RetificAI tornam-se essenciais para promover um cenario informacional mais transparente e confiavel, fortalecendo a democracia e o bem-estar social.

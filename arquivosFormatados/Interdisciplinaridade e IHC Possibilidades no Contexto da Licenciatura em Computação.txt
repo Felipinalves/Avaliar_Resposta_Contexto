@@ -1,0 +1,222 @@
+**RESUMO**
+
+A interdisciplinaridade e vista cada vez mais como um componente
+fundamental para a educaçao em todos os niveis. Neste artigo,
+analisamos opiniões, motivaçoes e barreiras, percebidas por
+professores, para a disseminaçao de praticas interdisciplinares; e
+apresentamos praticas existentes em nossos cursos de graduaçao na
+area de Computaçao. Em particular, focamos no potencial da
+Interaçao Humano-Computador como uma area de conhecimento
+transversal e em como isso pode ser melhor explorado em cursos
+de Licenciatura em Computaçao. Consideramos os desafios
+inerentes as diferentes possibilidades para promover a
+interdisciplinaridade e a necessidade de repensar a estrutura atual
+da educaçao superior.
+
+**INTRODUCAO**
+
+Partindo-se da perspectiva de que o profissional de Computaçao
+deve ser capaz de resolver problemas de quaisquer areas do
+conhecimento de forma eficaz e eficiente, e necessario tambem que
+este saiba interagir com profissionais de outras areas a fim de
+produzir soluçoes realmente adequadas e completas. Um exemplo
+da industria sao as equipes de desenvolvimento de software, que
+normalmente reunem profissionais de diversas formaçoes.
+
+Logo, se a interdisciplinaridade se faz necessaria para a pratica
+profissional, entao deve ser vivenciada durante a formaçao.
+
+De forma mais ampla, a interdisciplinaridade e citada na Base
+Nacional Comum Curricular entre as açoes necessarias a
+aprendizagem integradora e transversal. Entretanto, implementar a
+interdisciplinaridade nao e um processo simples, dada a propria
+formaçao docente e a organizaçao curricular fragmentadas. Assim,
+para que a interdisciplinaridade seja concretizada nas instituiçoes
+educacionais, e necessario um esforço conjunto de todos os atores
+envolvidos no processo de ensino-aprendizagem .
+
+Em cursos de Computaçao, a disciplina de Interaçao Humano-
+Computador (IHC) possui uma relaçao com varias outras
+disciplinas ligadas ao desenvolvimento de software, tornando-se
+muito propicia a interdisciplinaridade, como e possivel constatar
+analisando-se os anais passados do WEIHC . Percebe-se,
+porem, que as iniciativas apresentadas ainda sao pontuais, e com
+pouco impacto a nivel administrativo ou curricular.
+
+Somando-se ao esforço em promover a interdisciplinaridade no
+ensino superior, com foco na disciplina de IHC no contexto de
+desenvolvimento de software, este artigo apresenta: um breve
+diagnostico da visao dos docentes do Departamento de
+Computaçao da Universidade Federal Rural de Pernambuco
+(UFRPE) acerca da interdisciplinaridade; algumas possibilidades ja
+em andamento em cursos de Computaçao na regiao; uma proposta
+de ementa de referencia de IHC para cursos de licenciatura em
+computaçao (LC); uma proposta interdisciplinar especifica para as
+disciplinas de IHC e Projeto de Desenvolvimento de Software
+Educacional (PDSE), em um curso de LC. O artigo e resultado de
+um trabalho realizado na disciplina de Pratica de Ensino de IHC,
+em que sao discutidos aspectos relacionados a educaçao em IHC.
+
+**Interdisciplinaridade Diagnostico e Desafios**
+
+A interdisciplinaridade prove formaçao e visao mais globais ao
+estudante, que adquire a habilidade de articular e contextualizar os
+conhecimentos ao distanciar-se da fragmentaçao conteudista em
+que tradicionalmente se pautam os curriculos em escolas e
+universidades apud cita tres esferas de interdisciplinaridade: curricular, didatica e pedagogica. A interdisciplinaridade curricular localiza-se no ambito administrativo, definindo curriculos, objetivos e programas das disciplinas. A interdisciplinaridade didatica compreende o planejamento para integrar os conteudos programaticos das disciplinas. A interdisciplinaridade pedagogica trata de como a pratica pedagogica interdisciplinar ocorre na sala de aula. Apesar dos beneficios das abordagens interdisciplinares, ainda ha muitas barreiras no cotidiano das instituicoes educacionais nessas tres esferas . A propria formacao especifica dos docentes, a distancia de linguagem e perspectivas entre disciplinas, e a falta de tempo e espacos para inovar nas instituicoes educacionais sao alguns exemplos dessas dificuldades.
+
+Como constataram , a formacao academica de acordo com uma concepcao fragmentada pode gerar no professor inseguranca em pensar um trabalho coletivo e interdisciplinar. Em pesquisas com professores da educacao basica, identificaram tres categorias de dificuldades enfrentadas por eles para desenvolver atividades interdisciplinares: fragmentacao disciplinar; dialogo com colegas e gestores; problemas de interesse e conhecimento. Tambem em pesquisas com professores, classificaram em tres niveis os impeditivos para a interdisciplinaridade declarados pelos participantes: entendimento da construcao do conhecimento cientifico; organizacao do trabalho coletivo; e pratica pedagogica. Percebe-se que os achados das duas pesquisas sao bastante semelhantes, embora apresentados com palavras distintas.
+
+Diagnostico sobre Interdisciplinaridade no Departamento de Computacao
+
+Dados os resultados relativos a educacao basica, buscamos diagnosticar a pratica da interdisciplinaridade no ensino superior, mais precisamente no Departamento de Computacao da UFRPE, a fim de pensar em propostas para disseminar a interdisciplinaridade da IHC com outras disciplinas dos cursos.
+
+Os questionarios de serviram de base para a composicao de um novo questionario online com escalas Likert de 1 a 5 versando sobre: opinioes acerca da interdisciplinaridade; praticas realizadas; formacao e competencia para praticar a interdisciplinaridade, e dificuldades relacionadas a tempo, trabalho cooperativo e recursos, entre outras.
+
+O questionario foi distribuido online e respondido de maneira anonima por 27 dos 47 docentes do departamento todos com formacao em Computacao. 88 classificaram a importancia da interdisciplinaridade no ensino superior nos niveis 4 e 5 em uma escala de muito baixo a muito alto, porem a pratica da interdisciplinaridade se da em niveis menores, com 66 das respostas nos niveis 3 e 4 numa escala de nao pratico ou pratico muito pouco a pratico muito. Considerando o conteudo das disciplinas que lecionam, 44 consideram que a maior parte do conteudo pode ser trabalhado interdisciplinarmente. Sobre o tempo disponivel para interdisciplinaridade, 77,7 classificaram entre os niveis 3 e 5, enquanto 22,2 classificaram entre os niveis 1 e 2 pouco ou muito pouco tempo. Dados relacionados a formacao academica tambem foram levantados: 81,5 classificaram como pouca ou muito pouca a vivencia da interdisciplinaridade durante a propria formacao academica e 88,9 relataram que a universidade os capacita pouco ou muito pouco a respeito. Apesar disso, 55,6 se consideram medianamente preparados para lidar com a interdisciplinaridade, enquanto 22,2 se consideram muito preparados e 14,8 pouco preparados. Em relacao ao tempo de planejamento para a interdisciplinaridade, 74 classificaram entre os niveis 3 e 5, enquanto 26 classificaram no nivel 2 pouco ou muito pouco tempo. Alem disso, 81,4 acham que faltam recursos adequados. Por fim, a maior parte dos docentes esta muito disposta a cooperar com os colegas para promover a interdisciplinaridade, porem existe uma incompatibilidade razoavel de horarios que impede tal cooperacao.
+
+Percebem-se algumas semelhancas com os achados de , principalmente em termos da dificuldade de se organizar um trabalho coletivo que supere a fragmentacao disciplinar e da falta de formacao para ensinar de maneira interdisciplinar pratica pedagogica. Por outro lado, existe uma boa disposicao e motivacao em se aumentar as praticas interdisciplinares, alem de uma opiniao de que essas praticas sao relevantes e importantes.
+
+Sugestoes dadas pelo docentes em campo aberto incluem: disciplinas oferecidas em conjunto; maior interacao com colegas de outros departamentos que atuam nos cursos de Computacao; formacao pedagogica voltada para a interdisciplinaridade; interdisciplinaridade prevista e considerada no Projeto Pedagogico do Curso e nas ementas das disciplinas; flexibilidade de horarios; conscientizacao dos docentes; reunioes de planejamento; mudanca estrutural do sistema educacional.
+
+Experiencias Interdisciplinares Inspiradoras
+
+Duas experiencias interdisciplinares de destaque nas universidades da regiao tem sido referencia para outras iniciativas, e confirmam o interesse pela interdisciplinaridade.
+
+Tendo a interdisciplinaridade como um dos seus valores, o Centro de Informatica da UFPE formatou a disciplina de Projeto de Desenvolvimento, apelidada de Projetao , para ser ofertada de forma integrada a alunos de Ciencia e Engenharia da Computacao, Psicologia e Design, entre outros cursos interessados. A disciplina tem como objetivo o desenvolvimento de um sistema de computacao que use conceitos aprendidos nos semestres anteriores do curso, representando um marco do fim do ciclo basico, com enfase em empreendedorismo e inovacao. Um dos principais objetivos do Projetao e a integracao e mobilidade entre os cursos. As equipes tem, obrigatoriamente, estudantes de diferentes cursos e sao mentoreadas por seis consultores entre professores e monitores. A disciplina segue metodologias ageis de desenvolvimento de software orientadas a inovacao e baseadas em desafios. As equipes funcionam como startups e apresentam seus produtos em forma de pitch em um demo day. A avaliacao dos estudantes leva em consideracao varios aspectos do desenvolvimento dos projetos e trabalho em equipe. Este formato de disciplina tem motivado os estudantes a buscarem solucionar problemas reais de maneira interdisciplinar e ate mesmo levar adiante as startups nascidas na disciplina.
+
+Na UFRPE, o Projeto TEIA Tecnicas de Educacao Inovadora com Metodologias Ativas propoe a integracao de duas ou mais disciplinas em um mesmo horario e local. As equipes sao necessariamente formadas por alunos matriculados nas diversas disciplinas, e os professores responsaveis atuam juntos como mediadores, porem cada um com sua expertise particular. As aulas expositivas sao reduzidas a um minimo para que os estudantes se dediquem a planejar seus ciclos de desenvolvimento de projeto sprints e as entregas correspondentes pelas quais sao avaliados. A avaliacao de cada estudante e de acordo com os conteudos da disciplina em que esta matriculado. A aprendizagem e baseada em problemas; e os estudantes podem escolher desafios de um amplo conjunto pre-definido pelos professores, que buscam orientar seus alunos a construirem o conhecimento esperado atraves do desenvolvimento de habilidades de autonomia no aprendizado e trabalho em equipe. O Projeto TEIA ja foi executado com as disciplinas de IHC e Desenvolvimento de aplicacoes web; e Empreendedorismo e Inovacao.
+
+As experiencias descritas confirmam o interesse dos docentes em desenvolver a interdisciplinaridade no ensino superior. No entanto, ambas ainda dependem muito das iniciativas e da persistencia dos docentes para superar barreiras burocraticas do sistema educacional baseado em creditos e fragmentado em disciplinas. Um caminho complementar que pode fortalecer tais iniciativas seria trabalhar no nivel institucional, como sugerido por alguns docentes na pesquisa realizada no nosso departamento, ao prever a interdisciplinaridade nas ementas, conteudos programaticos e projetos pedagogicos dos cursos.
+
+Proposta
+
+A proposta aqui apresentada procura trabalhar a interdisciplinaridade no nivel do conteudo programatico das disciplinas. Considerando o escopo da disciplina de Pratica de Ensino de IHC, na qual foi realizado este trabalho, o foco da proposta e na relacao da disciplina de IHC com outras disciplinas do curso de Licenciatura em Computacao da UFRPE. Para fazer tal analise de convergencia entre os conteudos de IHC e outras disciplinas fez-se necessario, primeiramente, ter uma ementa de referencia para IHC em cursos de LC.
+
+Proposta de Ementa de Referencia de IHC para Cursos de LC
+
+A motivacao para esta etapa do trabalho surgiu a partir da analise do artigo Curriculos de IHC no Brasil: Panorama Atual e Perspectivas . O artigo apresenta ementas de IHC para os cursos de Ciencia da Computacao, Sistemas de Informacao e Engenharia da Computacao; resultantes das decisoes de grupos de trabalho formados durante o WEIHC 2014. Nota-se, portanto, que ficou uma lacuna a ser preenchida em relacao ao curso de Licenciatura em Computacao. Descrevemos abaixo as etapas realizadas para preencher essa lacuna.
+
+Inicialmente foi feita uma busca no Cadastro Nacional de Cursos e Instituicoes de Educacao Superior , disponivel no site do Ministerio da Educacao, para identificar instituicoes que ofertam o curso de Licenciatura em Computacao. Depois foi feita a busca pelos projetos pedagogicos dos cursos nos sites das respectivas instituicoes de ensino, de onde foram extraidas as ementas de IHC. Nossa amostra conteve 26 ementas de IHC, sendo 11 de universidades federais, 9 de institutos federais e 6 de universidades estaduais: UFRPE, UFPR, UFERSA, UFBA, UFRA, UFJF, UFRR, UFTO, UFPI, UFPA, UNIVASF, IFPB, IFTM, IFRN, IFBA, IF Sertao-PE, IFPE, IF Farroupilha, IFMS, IFPR, UPE, CESUPA, UESPI, UECE, UENP, UDESC.
+
+As ementas foram lidas em grupo nos encontros da disciplina de Pratica de Ensino de IHC, e os topicos citados e a frequencia com que se repetiam foram registrados em post-its. Em seguida, esses topicos foram agrupados em categorias por similaridade semantica. A selecao dos topicos foi feita com base na frequencia e relevancia dos mesmos, evitando repeticoes e ambiguidades. Dois livros de referencia na area de IHC no Brasil foram consultados para fins validacao e complementacao da ementa: Interacao Humano-Computador ; e Ergonomia e Usabilidade . A ementa de referencia de IHC para cursos de LC no Brasil e apresentada a seguir:
+
+Usabilidade e experiencia do usuario. Ergonomia. Acessibilidade. Estilos e dispositivos de interacao: interfaces graficas e manipulacao; interfaces web; dispositivos moveis; interfaces baseadas em toque e gestos; interfaces por comando de voz. Padroes para interfaces. Diretrizes de design de interfaces. Projeto de Interfaces e Interacao. Processo de design centrado no usuario. Modelagem de tarefas. Modelagem de Interfaces. Ferramentas para construcao de interface. Prototipacao de interfaces. Fatores humanos: aspectos culturais, sociais e eticos; aspectos cognitivos e perceptivos; psicologia cognitiva aplicada. Avaliacao de interfaces: por inspecao e por observacao. Engenharia semiotica. Comunicabilidade.
+
+Percebe-se que a ementa construida a partir de cursos de LC tem topicos muito semelhantes a ementa sugerida por para cursos de Ciencia da Computacao e que, portanto, nao ha questoes particulares relacionadas a licenciatura em termos de ementa. No entanto, o professor deve, de preferencia, relacionar os topicos da ementa com contextos e tecnologias educacionais.
+
+IHC Projeto de Desenvolvimento de Software Educacional
+
+Tendo construido uma ementa de referencia para IHC em cursos de LC, foi realizada uma analise das ementas das demais disciplinas do curso de LC da UFRPE, disponiveis do Projeto Pedagogico do Curso. Nessa analise, surgiu a motivacao de aproximar a IHC da disciplina de Projeto de Desenvolvimento de Software Educacional PDSE, a ser ofertada pela primeira vez no segundo semestre de 2019, como parte da nova matriz do curso. PDSE e uma disciplina derivada da disciplina de Projeto de Desenvolvimento de Software, fortemente baseada em conceitos da Engenharia de Software, porem com um vies pratico e aplicado, objetivando a implementacao de um produto de software. O diferencial de PDSE e a aplicacao do software em contexto educacional. Com isso, torna-se uma disciplina complexa que precisaria levar em conta as necessidades do usuario, heuristicas de interface e heuristicas voltadas a softwares educacionais.
+
+Entretanto, percebeu-se que a ementa transcrita abaixo de PDSE no curso de LC da UFRPE nao contem nenhum topico de IHC ou de Educacao, e apenas menciona superficialmente que a multidisciplinaridade deve ser contemplada:
+
+Instanciacao de um processo de desenvolvimento de software: fluxo, atividades, papeis e produtos de trabalho. Desenvolvimento de projeto multidisciplinar em equipe. Implementacao de um produto de software. Uso de padroes de projeto e de codificacao de software. Realizacao de testes automatizados de software.
+
+Assim, a clara prevalencia da Engenharia de Software pura no decorrer da disciplina de PDSE cria um forte vies que provavelmente influenciara o desenvolvimento do software educacional, possivelmente negligenciando aspectos importantes de IHC e pedagogicos. Percebe-se que os objetivos da disciplina, tambem constantes no Projeto Pedagogico, tampouco contemplam aspectos de IHC:
+
+Prover aos estudantes a oportunidade de desenvolver um programa de software com fins explicitamente educacionais;
+Orientar os estudantes no desenvolvimento de um software de acordo com um processo formal;
+Orientar os estudantes na integracao de questoes didataticas e pedagogicas ao processo de desenvolvimento de software.
+
+Acreditamos que uma abordagem equilibrada interdisciplinar poderia gerar um produto mais adequado, ao mesmo tempo em que proveria uma vivencia mais completa para os estudantes. As atividades tradicionalmente realizadas em disciplinas de projeto de desenvolvimento de software podem ser complementadas e integradas com diversos conceitos e tecnicas fundamentais da IHC. A seguir, cada fase da disciplina de PDSE, comecando pela concepcao da ideia do software ate a ultima fase de testes utilizando a versao final, e apresentada e relacionada com as tecnicas de IHC. As tecnicas foram escolhidas a partir dos topicos da ementa proposta de IHC, mas tambem considerando-se as restricoes de uma disciplina de 60 horaaula e cujo foco principal nao e a IHC. Trata-se, portanto, de um conteudo extenso, aliado a necessidade de desenvolvimento de outras competencias ligadas ao desenvolvimento de software em equipes. Na matriz curricular do curso, a disciplina de IHC e ministrada antes de PDSE. Assim, podemos assumir que os estudantes ja possuem o conhecimento mais amplo de IHC a ser aplicado ao longo do desenvolvimento do software.
+
+Concepcao da Ideia do Projeto. No contexto da disciplina de PDSE, sugerimos o uso de personas para caracterizar o perfil do usuario, tracando cenarios para projetar o software de maneira focada no publico-alvo. Um software educacional tem caracteristicas muito peculiares a depender do seu publico-alvo e, no contexto restrito de uma disciplina, pode ser dificil envolver o usuario no processo, principalmente se forem criancas. O uso de personas e cenarios facilita o design centrado no usuario ao diminuir a necessidade de contato com o mesmo.
+
+Especificacao de Requisitos Funcionais e Nao Funcionais. Nesta fase, podem ser usadas tecnicas de modelagem de tarefas do usuario sugerimos Analise da tarefa. Alem disso, conceitos de IHC devem ser inseridos nas questoes nao funcionais do produto: Considerar os aspectos sociais, eticos, cognitivos e perceptivos dos usuarios, ainda tendo como referencia as personas e cenarios, de acordo com suas necessidades, sempre focando no que e preciso para a melhor adaptacao do usuario a interface proposta; Faz-se necessaria a verificacao dos aspectos educacionais do software, incluindo a abordagem pedagogica sera adotada para desenvolver o conteudo por exemplo, um enfoque behaviorista ou construtivista; Considerar nivel de dificuldade do conteudo educacional do software, a fim de ter uma evolucao cognitiva progressiva do assunto abordado; Procurar conceituar e aplicar progressivamente o conteudo educacional do software, de uma forma que o usuario possa reconhecer as acoes que tenha que fazer e nao as memorizar; Ter em mente quais sao os objetivos em relacao a aprendizagem.
+
+Projeto e Modelagem. Essa fase trata da estrutura que vai servir de guia para todo o projeto. Em termos de IHC, deve-se definir um padrao de projeto relacionado a cores, estilo de fonte, icones, e elementos de interacao e visualizacao. Sugerimos o uso de moodboard para padroes de cores, iluminacao, estilo visual de como deve ser desenvolvido no software e mockups prototipo para estruturar o desenho e o fluxo das telas. E importante fazer uso de elementos multimidia que despertem o interesse pelo conteudo educacional. Alem disso, aplicar heuristicas de interface no momento da concepcao de telas e importante para que no futuro o software possa ser validado cumprindo essas heuristicas. Em se tratando de software educacional, devem ser consideradas, alem das heuristicas de interface como as heuristicas de Nielsen , as heuristicas com foco educacional, como .
+
+Desenvolvimento e Implementacao do Software. Durante a implementacao, verificar se os padroes de IHC estao sendo aplicados. Por exemplo, para garantir a acessibilidade do software, que tem uma importancia ainda maior em se tratando de um software educacional. Alem disso, garantir um tratamento de erros com mensagens adequadas do ponto de vista do usuario, informando o erro em uma linguagem adequada, com a causa, a consequencia e como o usuario pode agir dado o problema apresentado.
+
+Testes do Sistema. Os testes automatizados de software devem ser combinados a avaliacoes de usabilidade para garantir que o produto atenda as necessidades do usuario. Sugerimos uma avaliacao heuristica para verificar se a fase de desenvolvimento e implementacao conseguiu concretizar as heuristicas definidas na fase de projeto e modelagem. De forma complementar, pode-se tambem realizar testes de usabilidade com representantes do publico-alvo. Se preciso, propor um plano de melhorias com base nos testes realizados.
+
+A Tabela 1 apresenta o mapeamento entre as fases do desenvolvimento do software como previsto na disciplina de PDSE, os topicos relacionados da ementa consolidada de IHC na LC, e os aspectos educacionais que devem ser considerados.
+
+E importante destacar que a integracao proposta pode acontecer independentemente da metodologia de desenvolvimento de software adotada. Ou seja, se o professor optar por metodologias ageis, essas fases podem ser executadas iterativamente.
+
+Avaliacao da Proposta
+
+Visto que a disciplina de PDSE ainda nao foi ofertada, a proposta de interdisciplinaridade de IHC com PDSE foi discutida com o professor atualmente responsavel pela disciplina de Projeto de Desenvolvimento de Software, do curso de Bacharelado em Ciencia da Computacao.
+
+Em entrevista, o professor aprovou a proposta, que achou nao somente viavel, mas essencial. Ele relatou sua motivacao em usar a interdisciplinaridade para melhorar a compreensao e aumento de qualidade de desenvolvimento de software com o uso de IHC, principalmente na fase de prototipacao de software. Alem de IHC, o professor acredita que conteudos de inovacao e empreendedorismo devem ser integrados a disciplina de projeto de desenvolvimento de software. De fato, esses aspectos podem ser integrados de diferentes maneiras: incentivando os estudantes a registrarem os produtos; promovendo apresentacoes do produto a empresas da regiao; encorajando a criacao de startups na area de tecnologias educacionais, entre outros.
+
+O professor tambem acredita que o formato da disciplina deve cada vez mais se afastar do tradicional e aproximar-se de experiencias como o Projetao e o Projeto TEIA, relatados na secao 3, com alunos e professores de varias areas de conhecimento trabalhando juntos em um mesmo projeto. Entretanto, ele reconhece que esse formato traz dificuldades praticas pois demanda alinhamento de horarios de disciplinas, cursos, professores, necessidade de espacos maiores e planejamento conjunto.
+
+
+**CONIDERACOES FINAIS**
+
+Cada vez mais, docentes e discentes percebem a importancia da
+abordagem interdisciplinar no ensino superior. As convergencias
+entre disciplinas sao claras em muitos casos, porem a vontade de
+implantar projetos interdisciplinares esbarra na burocracia e nas
+amarras do sistema baseado em creditos e fragmentaçao curricular.
+Por outro lado, os docentes tem pouca formaçao e incentivo
+institucional para implementar a interdisciplinaridade, alem das
+dificuldades mais pragmaticas relacionadas a falta de tempo,
+recursos e necessidade de organizaçao conjunta com colegas.
+
+Apesar de todos esses fatores, e possivel mapear varias iniciativas
+de docentes que tentam superar as barreiras e realizar atividades
+interdisciplinares. A IHC em particular e uma disciplina que
+dialoga com muitas outras em cursos de Computaçao e, portanto, e
+propicia a interaçoes frutiferas. Neste artigo, apresentamos um
+trabalho de pesquisa fruto da disciplina de Pratica de Ensino de
+IHC, que focou nas possibilidades de interdisciplinaridade da IHC
+em cursos de Licenciatura em Computaçao, que tem agregado o
+desafio extra de integrar aspectos educacionais as soluçoes de
+software.
+
+Apresentamos alternativas de interdisciplinaridade que unem
+diferentes cursos em uma unica disciplina de desenvolvimento de
+software, e que unem diferentes disciplinas em um mesmo curso.
+Porem, ao mesmo tempo em que o sucesso dessas iniciativas
+confirma a importancia da interdisciplinaridade, ainda sao
+iniciativas que de alguma forma desviam-se do sistema educacional
+como e formalmente colocado, encontrando caminhos alternativos
+de implementaçao. E importante pensar a interdisciplinaridade
+tambem a partir dos projetos pedagogicos dos cursos, ementas e
+conteudos programaticos das disciplinas. Assim, apresentamos
+neste artigo uma proposta para a disciplina de Projeto de
+Desenvolvimento de Software Educacional (PDSE), que deveria
+contemplar em seu programa nao so aspectos de IHC como tambem
+pedagogicos. Um trabalho semelhante ao feito com IHC e PDSE
+pode ser realizado em todo o projeto pedagogico do curso,
+atualizando os conteudos programaticos das disciplinas para
+indicar pontos de interdisciplinaridade oficialmente.
+
+A interdisciplinaridade nas ementas, por outro lado, gera um
+desafio para os docentes visto que a sua propria formaçao e baseada
+no curriculo fragmentado. Ou seja, um professor de Engenharia de
+Software que ministre PDSE pode nao ter nenhum conhecimento
+de IHC e sentir-se inseguro na disciplina. Isso nos leva novamente
+a questao mais ampla da estrutura dos cursos de graduaçao, com
+disciplinas muito bem separadas e professores com expertises
+correspondentes. No entanto, em cursos de Computaçao, tem sido
+cada vez mais gritante o problema de tal abordagem, visto que o
+desenvolvimento de tecnologias sempre envolve mais de uma
+disciplina. A IHC, em particular, e um conhecimento transversal
+em muitos casos. Nos dias atuais, fica a cargo do aluno conseguir
+unir os conhecimentos fragmentados para construir competencia e
+visao mais globais na sua trajetoria profissional.
+
+O estudo aqui apresentado, portanto, confirma a necessidade de se
+repensar a estrutura dos cursos de graduaçao no Brasil. Começar
+por "institucionalizar a interdisciplinaridade", como apresentado
+neste trabalho, pode ser um gatilho neste sentido. Para a
+comunidade de IHC, fica o desafio de se repensar como a IHC
+deveria figurar em cursos de Computaçao, indo muito alem do
+formato de uma unica disciplina basica nos cursos.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho ressalta a importancia da interdisciplinaridade
+no ensino de IHC em cursos de computaçao, especialmente
+em licenciaturas. A proposta apresentada busca integrar
+conhecimentos de IHC e desenvolvimento de software
+educacional, visando a formaçao de profissionais mais
+completos e adaptados aos desafios do mercado de trabalho.
+Apesar dos desafios existentes, as experiencias
+inspiradoras e as sugestoes dos docentes demonstram o
+potencial transformador da interdisciplinaridade na educaçao
+superior.

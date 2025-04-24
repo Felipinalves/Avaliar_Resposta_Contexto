@@ -1,0 +1,62 @@
+**RESUMO**
+
+Autotestes de HIV sao cruciais no diagnostico no Brasil. No entanto, seu uso e distribuiçao sao complexos e enfrentam estigma e falta de compreensao da populaçao. Este estudo visa abordar essas questoes, buscando compreender a perspectiva dos usuarios por meio de entrevistas qualitativas. Os insights obtidos serao aplicados futuramente em um workshop de design participativo.
+
+
+**INTRODUCAO**
+
+Desde a primeira identificaçao do virus HIV, o Brasil tem enfrentado desafios significativos no controle do que viria a ser uma das maiores crises epidemiologicas da historia moderna. Hoje, o SUS auxilia no tratamento de mais de 600 mil pessoas (Ministerio da Saude, 2021).
+
+Ainda que a epidemia ja nao mais se concentre no que e considerado populaçao chave (homens que fazem sexo com homens, profissionais do sexo, pessoas que usam drogas injetaveis e populaçoes nao-branca), o estigma e a falta de acesso a serviços de saude sao alguns dos principais obstaculos no acesso ao tratamento e prevençao do HIV (Unaids, 2021).
+
+Uma das formas mais promissoras de garantir a quebra da linha de transmissao e o autoteste, podendo ser realizado em casa, com resultado em 20 minutos. Porem, esse tipo de teste requer uma alta necessidade de atençao para seu uso ja que, qualquer erro da pessoa usuaria no seu manuseio ou interpretaçao, pode acabar gerando um resultado falso positivo, falso negativo ou inconclusivo.
+
+Diante disso, e necessario corrigir possiveis problemas de fluxo de uso e curva de aprendizado para garantir sua precisao, inclusive do ponto de vista do design de serviço, que tem como objetivo de construir serviços holisticos, uteis, usaveis, desejaveis, eficazes e eficientes para e com pessoas usuarias (Stickdorn, 2014. p. 33). O presente trabalho visa gerar essas melhorias, partindo de insights vindas de entrevistas qualitativas e que servirao, futuramente, de referencia inicial em um workshop design participativo (Brandt 2013, p. 146).
+
+
+**MATERIAIS E METODOS**
+
+Esse estudo tera como base o metodo de pesquisa indutivo, focando na observaçao e dialogo com a comunidade afetada e dada a natureza delicada do estigma enfrentado pela mesma (Gil, 2008, p.10).
+
+Para contornar o estigma, sera aplicado o esquema de planejamento de pesquisa social definido por Fachin (2005, p. 146), que e dividido em 4 fases: preparaçao (formulaçao de problema, objetivos, hipoteses, metodos e revisao da literatura), construçao do plano (definiçao de variaveis, indicadores, amostras, instrumentos e cronograma), execuçao (coleta de dados, confirmaçao de hipoteses e avaliaçao) e apresentaçao. Isso se da porque, ainda segundo Fachin, a pesquisa em ciencias humanas enfrenta desafios na definiçao de procedimentos metodologicos devido a singularidade e variedade de manifestaçoes individuais. Portanto, o foco, gracas a essa complexidade, e mais pela busca de respostas significativas do que uma soluçao propriamente dita.
+
+
+**JUSTIFICATIVA**
+
+O diagnostico de HIV/AIDS e uma questao crucial de saude publica e o peso se torna ainda mais relevante quando entendemos os compromissos internacionais assumidos pelo governo brasileiro. Os autotestes fazem parte de uma estrategia chave para atingir a meta 95-95-95 (Figura 1), propostas pelo Unaids, da qual o Brasil e signatario.
+
+As diretrizes abrangem distribuiçao e atendimento de profissionais de saude, considerando o teste como suplementar, nao substituto do presencial para acolhimento. Contudo, falta bibliografia oficial sobre a perspectiva do usuario na aplicaçao eficaz do teste.
+
+Do ponto de vista do design, e necessario a inclusao de pessoas usuarias nessas soluçoes e suas subsequentes implementaçoes. Henriques, et. al (2021), afirma que se o conhecimento esta nas pessoas e cresce quando compartilhado, entao, em um lugar onde as pessoas nao se encontrem, nao conversem e, consequentemente, nao convivam, certamente nao havera criaçao e conversao de conhecimento.
+
+
+**ENTREVISTAS**
+
+Para se entender a complexidade do problema e definir insights que serao utilizados futuramente em um processo de design participativo, foi realizada uma entrevista de natureza compreensiva, focando na impessoalidade para extrair dados sensiveis (Kaufmann, 2013, p. 39). O foco foi qualitativo e em modelo semi-estruturado, com perguntas abertas, que questionavam as experiencias dessas pessoas nos testes que ja realizaram, em temas como acolhimento, tempo de espera, anuncio dos resultados, preparaçao do time de saude, etc.
+
+A amostragem foi selecionada por conveniencia (Gil, 2008 p. 94) e dividida da seguinte forma: 2 profissionais de saude do centro de acolhimento (PS), 2 homens homossexuais que vivem com HIV (HHO1+ e HHO2+), 1 homens homossexual que nao vive com HIV, mas faz testes constantemente (HHO3-), 1 mulher heterossexual que vive com HIV (MHT+) e 1 homem heterossexual que nao vive com HIV, mas faz testes constantemente (HHT-). A proposta desse projeto foi aceita pelo comite de etica da Faculdade Frassinetti do Recife (FAFIRE) e todos os entrevistados tiveram acesso ao Termo de Consentimento Livre e Esclarecido (TCLE). As entrevistas foram feitas de forma sincrona, pela plataforma Google Meet em Março de 2023.
+
+
+**ANALISE E SINTESE**
+
+O objetivo da entrevista e identificar e caracterizar diferentes perfis e necessidades desse grupo especifico, gerando insights. Para isto, todas as informaçoes relevantes foram divididas e agrupadas de forma a garantir a obtençao qualitativa das necessidades reais dessas pessoas usuarias (Henriques, et al. p. 244, 2021).
+
+De acordo com a Tabela 1, foram identificadas 6 (seis) problematicas baseada em palavras-chave das falas das pessoas, bem como registro de observaçao de evidencias do problema social ainda encontrado nessa problematica, que interfere no bom uso e objetivo do artefato estudado. Cada problematica esta acompanhada de "aspas", que sao falas vindas diretamente das pessoas entrevistadas, que corroboram e servem como referencia, assim como quais personas trouxeram esses insights.
+
+
+**RESULTADO**
+
+A partir desse material inicial, sera proposto um processo de design participativo, onde as mesmas personas serao convidadas a gerarem alguma soluçao em um workshop. Elas deverao se utilizar dos problemas descritos da Tabela 1 como material inicial.
+
+Esse workshop seguira as etapas descritas por Baxter (2011, p. 104), sendo elas: orientaçao (apresentaçao de contexto sobre HIV e autotestes no Brasil e objetivos do workshop), preparaçao (nivelamento acerca dos autotestes e demonstraçao de uso), analise (entender se os dados foram compreendidos de forma plena), ideiaçao (aplicaçao de uma ideiaçao de escrita criativa onde eles escrevem as ideias de melhorias), incubaçao (debate das soluçoes e agrupamento das similares), sintese (apresentaçao das ideias finais agrupadas) e avaliaçao (grupo ordena as ideias de mais impactantes para menos impactantes).
+
+Os resultados dessas entrevistas, assim como futuros resultados do workshop,
+sao contribuicoes para o aumento da possibilidade de testagens de HIV no Brasil e na
+diminuicao do estigma ainda oriundo dessa tematica. O entendimento que quanto mais
+democratico for a possibilidade de se testar, mais segura estara toda a populacao e mais
+controlada estara a epidemia e essencial para garantir a saude de toda a populacao
+brasileira.
+
+**CONCLUSOES**
+
+Os resultados dessas entrevistas, assim como futuros resultados do workshop, sao contribuiçoes para o aumento da possibilidade de testagens de HIV no Brasil e na diminuiçao do estigma ainda oriundo dessa tematica. O entendimento que quanto mais democratico for a possibilidade de se testar, mais segura estara toda a populaçao e mais controlada estara a epidemia e essencial para garantir a saude de toda a populaçao brasileira.

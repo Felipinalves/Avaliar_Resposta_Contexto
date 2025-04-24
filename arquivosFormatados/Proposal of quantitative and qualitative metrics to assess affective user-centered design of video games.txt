@@ -1,0 +1,97 @@
+**RESUMO**
+
+A experiencia que emerge dos jogos digitais tem, acima de tudo,
+uma natureza emocional, portanto, avaliar a experiencia do usuario
+apenas atraves de fatores objetivos nao parece ser suficiente para a
+analise de um jogo como um produto de entretenimento. Este artigo
+pretende propor um conjunto de metricas que permitam avaliar os
+aspectos afetivos, ou grosseiramente falando, emocionais da
+experiencia do usuario de jogos digitais. As metricas sao aplicadas a
+uma lista, encontrada em um trabalho relacionado, de componentes de
+design de jogos relevantes que afetam a experiencia subjetiva de jogo.
+O experimento pretendido no futuro e uma sessao de jogo de um jogo
+especialmente projetado para incluir um sistema que mede em
+segundo plano, atraves das metricas propostas, as açoes dos jogadores
+na experiencia de jogo. O resultado neste artigo e um conjunto de
+metricas quantitativas e qualitativas que avaliarao as escolhas dos
+jogadores no experimento real e que produzirao resultados numericos,
+mesmo que os fatores analisados sejam subjetivos.
+
+**INTRODUCAO**
+
+Para a industria de jogos, encontrar boas praticas de design
+centrado no usuario e extremamente interessante, pois pode evitar
+custos da adiçao de recursos que os jogadores podem ignorar ou
+mesmo rejeitar. No entanto, quando a experiencia do usuario e
+aplicada em jogos de computador e video, embora sejam produtos
+digitais, a avaliaçao nao pode ser apenas sobre metricas objetivas,
+uma vez que um videogame e um software de entretenimento que
+proporciona uma experiencia subjetiva e afetiva . Para avaliar o
+design afetivo centrado no usuario (AUCD) de jogos digitais, este
+artigo apresenta dois metodos complementares. Para que um deles
+seja realizado, um jogo sera especialmente projetado com diferentes
+recursos para incluir varias metricas que sao o foco deste trabalho.
+
+TRABALHO RELACIONADO
+Os componentes de design de jogos afetivos que serao avaliados ao longo deste experimento estao listados e discutidos de forma abrangente no artigo de pesquisa de Ng et al 1 Apos entrevistas e observacoes de uma sessao de jogo os pesquisadores coletaram feedback para determinar os componentes de design de jogo mais relevantes conforme mostrado na coluna esquerda da Tabela 1 juntamente com outras recomendacoes tambem baseadas na literatura
+Os componentes de design de jogo mencionados acima foram mapeados em relacao a outros cinco trabalhos anteriores Um deles e o artigo de Desurvire et al 2 que fornece um conjunto bastante amplo do que eles chamam de Avaliacao Heuristica para Jogabilidade HEP que sao diretrizes para design de jogos baseadas na literatura da epoca revisadas por um grupo de profissionais de design de jogos Os autores realizaram uma sessao de teste de jogo com quatro participantes que tambem responderam a um questionario de satisfacao Algumas das recomendacoes resultantes sao empregadas neste trabalho como metricas de avaliacao
+
+**METODOS**
+
+A usabilidade e a capacidade de um usuario realizar a tarefa que o
+produto se destina a realizar, ou seja, um atributo objetivo .
+Portanto, para a industria de jogos, a usabilidade e essencial, mas
+nao suficiente para avaliar a experiencia do usuario de um produto
+como um todo, uma vez que trata do prazer e das emoçoes ou, em
+outras palavras, do afeto . Ao observar a lista proposta por Ng et
+al.  mostrada na coluna da esquerda da Tabela 1, e razoavel dizer
+que grande parte da experiencia subjetiva dos jogos e baseada em
+opçoes, ou seja, recursos cujo uso pode ser personalizado ou medido
+de alguma forma. Assim, as escolhas dos jogadores, tanto antes
+quanto durante o jogo, podem ser monitoradas em segundo plano, para
+que nao interrompam o fluxo do jogo. Esse aspecto especial e o que
+este artigo utiliza para propor metricas quantitativas.
+
+Dois tipos de metodos complementares serao realizados com a
+participaçao de usuarios para avaliar sua experiencia de jogo. A
+primeira avaliaçao, para as metricas qualitativas, e uma pesquisa
+eletronica de multipla escolha em busca das principais preferencias
+dos jogadores em conteudo criativo de jogos que sao impraticaveis de
+serem medidos quantitativamente, como estilo e graficos. Para essa
+fase, os usuarios escolherao entre imagens que melhor respondam a
+perguntas sobre preferencias e, em seguida, os resultados serao
+contados. O segundo metodo, para as metricas quantitativas, ocorre
+durante uma sessao de jogo. E um rastreamento automatico em
+segundo plano das açoes e reaçoes dos jogadores em uma experiencia
+de jogo em relaçao a varias opçoes e situaçoes deliberadamente
+adicionadas a ela. A ideia e avaliar dez grupos de cinco individuos,
+divididos por faixa etaria e genero, a fim de aprender os
+comportamentos e preferencias de cada publico sobre os componentes
+de design de jogos afetivos destacados em , por meio de
+indicadores puramente numericos de dentro do videogame, sem
+observaçao humana, como nos trabalhos relacionados, nem
+processamento de bio-sinais. O jogo para o teste ainda nao foi
+projetado, mas devido a limitaçoes artisticas e para compreender as
+metricas propostas aqui, provavelmente sera um curto jogo de
+aventura RPG 2D. Este estilo e apenas conveniente, pois permite
+uma historia e atributos quantificaveis para os personagens.
+
+RESULTADOS E DISCUSSAO
+O objetivo deste artigo e chegar a um conjunto de elementos mecanicos de um jogo digital que permitam uma avaliacao quantitativa dos componentes afetivos do design de jogos proposto em 1 por meio de uma experiencia de jogo especialmente projetada para esse fim Embora uma pesquisa seja reconhecida como uma avaliacao qualitativa uma vez que as respostas dos participantes sao baseadas em seu julgamento subjetivo ela resultara em resultados numericos A proposta final esta na coluna direita da Tabela 1 Algumas metricas sao indicadas como pesquisa As outras no entanto sao consideradas quantitativas porque os numeros serao descobertos medindo automaticamente fatores numericos como frequencia e duracao das acoes no jogo As metricas sao sugestoes baseadas em uma logica simples variaveis que estao aparentemente relacionadas aos componentes de design do jogo e que podem ser monitoradas automaticamente ou caso contrario pesquisadas
+
+
+**CONCLUSÃO**
+
+Na lista de componentes de design de jogos relevantes encontrados
+por Ng et al. , nao havia nenhum item sobre som ou musica na
+experiencia de jogo, portanto, metricas adicionais sobre esse aspecto
+podem ser consideradas em analises futuras. Outras metricas
+certamente serao adicionadas a Tabela 1 ate o momento do
+experimento real. Finalmente, as mediçoes automaticas podem ser
+uma ferramenta extra para a industria avaliar a relevancia de alguns
+recursos dos jogos e garantir mais qualidade aos produtos apos o
+estagio de teste.
+
+**CONSIDERACOES FINAIS**
+
+Este artigo apresenta uma proposta promissora para avaliar de forma mais completa a experiencia do usuario em jogos digitais, considerando tanto aspectos objetivos quanto subjetivos. A combinaçao de metricas quantitativas e qualitativas pode fornecer insights valiosos para os desenvolvedores, permitindo que criem jogos mais envolventes, personalizados e emocionalmente gratificantes. No futuro, sera importante validar essas metricas por meio de experimentos e estudos de caso, a fim de refinar a metodologia e aumentar sua aplicabilidade na industria de jogos.

@@ -1,0 +1,152 @@
+**INTRODUCAO**
+
+Para implementar a acessibilidade em interfaces web, sao necessarios
+esforcos conjuntos de designers, desenvolvedores de software, bem
+como de usuarios finais. Adicionalmente, as interfaces web devem
+ser capazes de acomodar diversos perfis de usuarios, permitindo que
+eles participem ativamente na criaçao de conteudos web, avaliaçao
+e customizaçao. Tal participaçao e fundamental para que as inter-
+faces web funcionem como os usuarios individualmente desejam e
+precisam .
+
+As abordagens atuais para personalizar interfaces web incluem
+soluçoes de metadesign , como sistemas que permitem aos usuarios
+alterar o contraste e as cores de alguns elementos, aumentar o
+tamanho da fonte, optar por layouts responsivos, entre outros .
+No entanto, como esses recursos estao disponiveis em poucas inter-
+faces web, essa flexibilidade ainda e insuficiente quando se trata de
+usuarios com necessidades de interaçao diversas. Essa abordagem
+tambem tem a desvantagem de exigir alteraçoes manuais para cada
+interface individual. Portanto, para se beneficiar das opçoes de per-
+sonalizaçao, os usuarios devem dedicar tempo e esforço para adaptar
+o layout e os conteudos de acordo com seus perfis e preferencias
+individuais.
+
+Como as interfaces devem ser flexiveis para atender as difer-
+entes necessidades e diversidade de usuarios, o usuario deve ter
+disponivel uma abordagem que permita um metadesign fluido. Tal
+conceito permite que os usuarios interajam com uma interface
+web e a interface responda de acordo com suas necessidades, sem
+exigir abordagens demoradas para definir as configuraçoes dessa
+interface para cada customizaçao. As soluçoes de metadesign fluido
+tambem devem orientar os usuarios na escolha de suas preferencias
+de navegaçao.
+
+Para concretizar o conceito de meta-design fluido, implementa-
+mos o UIFlex. UIFlex e uma ferramenta baseada na web que permite
+a personalizaçao de perfis de usuarios individuais. Alem disso, ele
+se baseia em orgaos de padronizaçao, como o W3C, e instituiçoes
+da web, como a Mozilla Developer Network. O UIFlex cria um
+perfil de interaçao para cada usuario. Com base nesse perfil, a ferra-
+menta altera elementos das interfaces de usuario, incluindo mapas
+de cores, destaca o foco de navegaçao, ativa legendas de video
+automaticamente, entre outros. Essas alteraçoes sao aplicadas a
+diferentes interfaces da Web sem exigir que os usuarios definam as
+configuraçoes individualmente.
+
+A implementaçao do meta-design fluido por meio do UIFlex foi
+avaliada com cento e quatro usuarios que interagiram com inter-
+faces web que permitem alterar sua apresentaçao. Foi realizada
+uma analise comparativa com e sem a ferramenta UIFlex. Os re-
+sultados obtidos a partir de estudos com usuarios indicaram que o
+UIFLex melhora aspectos de interaçao como satisfaçao e eficiencia
+das interfaces web. A navegaçao e mais eficiente para as interfaces
+web avaliadas gracas a implementaçao automatica da customizaçao
+em todas as interfaces web acessadas pelo usuario. A eficiencia foi
+alcançada porque os usuarios finais nao precisavam configurar cada
+aplicativo separadamente.
+
+**FERRAMENTA UIFLEX**
+
+A ferramenta UIFlex e uma extensao para o navegador Google
+Chrome, que permite ao usuario criar seu perfil de interaçao a partir
+de duvidas e sugestoes de customizaçao vindas de autoridades como
+W3C, Mozilla Developer Network, Seçao 508, entre outras. A partir
+deste perfil, a ferramenta altera as interfaces web de acordo com as
+preferencias e/ou necessidades de interaçao de cada usuario.
+
+Na primeira etapa da interaçao, o usuario deve preencher seu
+perfil de usuario, informando sobre as principais preferencias e ne-
+cessidades dele. Esta etapa usa o "Who Am I?" , que e uma arquite-
+tura usada para coletar dados de perfil de usuario para computaçao
+ubiqua. A coleta de dados e feita por meio do preenchimento de
+formularios pelo usuario. Os dados provenientes desses formularios
+sao armazenados no navegador e usados posteriormente.
+
+Apos o preenchimento do perfil do usuario, a ferramenta UIFlex
+fara uma solicitaçao a um servidor, onde foram armazenadas as
+regras padrao relacionadas ao comportamento das interfaces. Essas
+regras sao normas e diretrizes que devem ser seguidas na criaçao
+de interfaces e no desenvolvimento de sistemas ubiquos, propostos
+por instituiçoes ou autoridades, como o W3C.
+
+Ao receber as regras de projeto, a ferramenta UIFlex associa tais
+regras ao perfil preenchido pelo usuario e propoe customizaçoes
+para serem aplicadas nas interfaces web acessadas pelo usuario. O
+usuario entao analisa a customizaçao recomendada e escolhe quais
+quer aplicar nas interfaces web em que ele navega. Feito isso, o
+perfil de interaçao e salvo.
+
+Apos, a ferramenta UIFlex ira customizar as interfaces dos sites
+acessados pelos usuarios seguindo o perfil de interaçao gerado na
+etapa anterior. A aplicaçao deste perfil de interaçao nas interfaces
+e realizada por meio da injeçao de codigos JavaScript, Cascading
+Style Sheets (CSS) e em alguns casos codigos HyperText Markup
+Language (HTML).
+
+**AVALIAÇAO**
+
+Para avaliar a abordagem proposta quanto a satisfaçao do usuario
+com as interfaces, eficiencia na interaçao e customizaçao do com-
+portamento do aplicativo aos desejos do usuario, foi realizada uma
+avaliaçao. Na sessao de avaliaçao, 104 usuarios interagiram com tres
+interfaces web que permitiram alteraçoes em sua apresentaçao. Foi
+realizada uma analise comparativa entre a interface customizada
+com a ferramenta UIFlex e sem ela.
+
+Os tres sites escolhidos possuiam recursos de acessibilidade
+que poderiam ser selecionados diretamente pelos usuarios, caso
+quisessem. Como este foi um experimento de design dentro do
+sujeito, todos os participantes foram expostos a todos os estimulos.
+No entanto, para mitigar o efeito de carry-over, metade dos usuarios
+passou a interagir com os tres sites usando o UIFLex e metade deles
+passou a interagir sem ele. Dessa forma, cada usuario interagiu
+duas vezes com cada site.
+
+Quando solicitado, o usuario deve instalar o plugin e definir seu
+perfil. Em cada site o usuario realizava uma determinada tarefa
+para utilizar recursos que eram customizados, exemplos de tare-
+fas incluiam: buscar informaçoes nas paginas ou encontrar algum
+elemento na interface.
+
+Em geral, os resultados indicam que a ferramenta UIFlex traz
+beneficios durante a interaçao dos usuarios com as interfaces web,
+principalmente relacionados a eficiencia gracas a customizaçao
+feita nas interfaces web pela ferramenta UIFlex, sem a necessidade
+de configurar cada site individualmente. Alem disso, conforme
+relatado por alguns usuarios, a ferramenta disponibiliza nas inter-
+faces web opçoes de acessibilidade que todos os sites deveriam ter,
+conforme recomendaçao do W3C.
+
+**CONSIDERAÇOES FINAIS**
+
+A principal contribuiçao deste trabalho e empoderar os usuarios,
+atraves das regras de design presentes na literatura, para que pos-
+sam customizar diferentes interfaces web, com base no conheci-
+mento das autoridades. Para tanto, foi desenvolvida a ferramenta
+UIFlex, que: a) atende a diversidade de usuarios considerando suas
+necessidades e preferencias de interaçao; b) coletar os perfis dos
+usuarios, consultar as regras de projeto extraidas do conhecimento
+das autoridades e gerar o perfil de interaçao; e c) Interfaces web
+flexiveis nas quais os usuarios navegam de acordo com o perfil de
+interaçao deles.
+
+Vale ressaltar que o UIFlex tambem pode customizar as inter-
+faces de usuario de aplicaçoes dinamicas que sao montadas no
+lado do cliente, como React, Angular, VueJS, entre outras. Alem
+disso, o tempo de resposta de adaptaçao e muito baixo seguindo as
+recomendaçoes de manipulaçao direta.
+
+**CONSIDERACOES FINAIS**
+
+O trabalho apresentado destaca a relevancia de sistemas que empoderam os usuarios na customizaçao de interfaces web, permitindo que eles adaptem a experiencia de navegaçao as suas necessidades e preferencias individuais. A ferramenta UIFlex, ao utilizar regras de design baseadas em conhecimento especializado, oferece uma abordagem inovadora para promover acessibilidade e eficiencia na interaçao com a web.

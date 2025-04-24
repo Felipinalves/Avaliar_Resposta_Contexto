@@ -1,0 +1,126 @@
+**RESUMO**
+
+Designers podem selecionar midia a partir de tags geradas por
+usuarios em redes sociais, para melhorar seu design com o objetivo
+de evocar determinadas emoçoes. No entanto, eles podem confiar
+nas classificaçoes realizadas Sera que os usuarios sentem as
+mesmas emoçoes que aquelas associadas a midia Este trabalho
+tem como objetivo auxiliar a tomada de decisao de designers,
+explorando as emoçoes de observadores em imagens classificadas
+por tags. Um estudo empirico online foi realizado com 410
+voluntarios, que classificaram imagens do Flickr que tinham sido
+relacionadas pelos usuarios da plataforma as cinco emoçoes basicas
+e a tag "neutro". Os resultados sugerem que existem diferenças
+entre tags e emoçoes sentidas por este grupo de pessoas em
+emoçoes especificas. Por outro lado, as descobertas indicam que a
+seleçao de imagens para nojo e raiva precisam de criterio adicional.
+
+
+**Introduçao**
+
+As emoçoes vem continuamente chamando a atençao dos
+pesquisadores. Elas podem ser encontradas em toda interaçao
+humana: informaçao instantanea sobre as situaçoes, elas modelam
+a tomada de decisao e respostas a estimulos .
+Independente do seu conteudo, quando elementos de interface de
+usuario provocam emoçoes nos observadores, eles sao chamados
+"carregados de emoçao" .
+
+Midias sociais e um tema que esta em pesquisa com relaçao ao
+design com intençao emocional envolvendo principalmente a
+tomada de decisao de elementos de interface de usuario. No caso
+das imagens, o designer pode se basear em termos relacionados a
+emoçoes escritas em tags por usuarios. Em vista disso, o objetivo
+principal deste artigo e analisar se os designers deveriam selecionar
+imagens a partir de tags geradas por usuarios, e fazer
+recomendaçoes.
+
+Independentemente de os indexadores terem sentido ou nao as
+emoçoes, entende-se que de alguma forma decidiram relaciona-las
+as imagens, o que pode ser utilizado pelos designers com o
+proposito de evocar emoçoes. Neste caso, eles devem confiar nas
+emoçoes indexadas Os usuarios sentirao as mesmas emoçoes que
+foram associadas aquela mídia?
+
+**Consideraçoes teoricas**
+
+Existem algumas abordagens para as emoçoes, dentre as quais a
+categorica (ou discreta)  foi a utilizada nesta pesquisa. Esta
+classificaçao fornece uma visao aprofundada de uma lista de
+emoçoes basicas, quando comparada a outras abordagens. Alem
+disso, ela inclui cenarios para a avaliaçao que estao integrados com
+o desenvolvimento geral do eu.
+
+A proposta assume cinco emoçoes basicas relacionadas a uma
+combinaçao de objetivos e planos: i) felicidade bem sucedido; ii)
+tristeza falha ou perda; iii) raiva frustaçao; iv) medo ameaça;
+v) nojo repulsao .
+
+Indexaçao coletiva e uma forma alternativa de fazer a indexaçao de
+imagens e torna-las acessivel, e e tambem chamada como
+tagueamento social ou indexaçao cooperativa . Hastings et al.
+ afirma que os individuos nao sao apenas usuarios mas tambem
+criadores e indexadores de informaçoes multimidia".
+
+**Metodos**
+
+Uma pesquisa online foi realizada, a qual 410 pessoas completaram
+e submeteram o formulario. A amostra do estudo inclui apenas
+aquelas que completaram a pesquisa. No final, os respondentes
+foram 215 mulheres e 195 homens, com uma idade media de 28.2
+variando de 14 a 86 anos e com mediana de 25 anos. A variancia
+da idade dos participantes foi aproximadamente 113. A pesquisa
+foi realizada em Portugues e, por isso, os respondentes eram
+majoritariamente brasileiros.
+
+Estimulo
+
+Alem da adocao das cinco emocoes basicas, tambem foi incluido o
+estado neutro, que neste estudo foi considerado a ausencia das
+emocoes basicas nao sendo assumido como ausencia de emocoes.
+Cada emocao citada foi buscada no Flickr, um website de
+compartilhamento de imagens, assim como a tag neutro,
+claramente escrita pelos usuarios.
+Uma selecao manual foi realizada para reduzir o risco de tags
+incluidas como uma piada e para garantir que uma ampla variedade
+de contextos de uma mesma emocao fosse apresentada para os
+participantes (e.g., natureza, pessoas, animais, objetos). Foram
+selecionadas cinco imagens de cada emocao e do estado neutro,
+totalizando 30 imagens. Cada uma foi apresentada seguida de cinco
+barras uma para cada emocao, variando de 1 a 10, como mostrado
+na Figura 1.
+
+Analise e resultados
+
+Algumas imagens resultaram em mais de uma emocao sentida.
+Todas as imagens de felicidade alcancaram esta emocao como
+sentida. Apenas uma em cinco imagens foi relacionada a raiva.
+Dentre as imagens para tristeza, tres foram associadas a esta
+emocao, enquanto uma resultou tanto em felicidade quanto em
+tristeza e outra apenas em felicidade. As imagens indexadas com a
+emocao nojo teve o seguinte resultado: duas nojo, uma felicidade e
+nojo, uma felicidade, e outra tristeza. Todas as imagens indexadas
+como medo coincidiram, tendo uma delas sido combinada tambem
+com tristeza
+
+**CONCLUSAO**
+
+A analise estatistica revelou que as pessoas tendem a claramente
+distinguir felicidade e medo. Em outras palavras, os participantes
+sentiram estas emoçoes quando observaram imagens indexadas
+com tags correspondentes. A maioria das imagens de tristeza
+resultou nesta emoçao. Por outro lado, pode ser necessario utilizar
+outros criterios para a seleçao de imagens de nojo e raiva. A
+primeira foi sentida apenas em duas imagens com a tag
+correspondente. Ainda, apenas uma imagem atingiu raiva,
+confirmando a literatura com relaçao a dificuldade de evocar esta
+emoçao usando imagens ao inves de eventos sociais . As
+recomendaçoes resumidas sao apresentadas na Figura 2.
+
+Um exemplo de design que leva a felicidade pode ser visto em sites
+de entretenimento, como, por exemplo, de turismo [1].
+
+
+**CONCLUSAO**
+
+Em suma, este estudo explorou a relaçao entre as emoçoes indexadas por usuarios e as emoçoes sentidas por observadores ao verem as mesmas imagens. Os resultados sugerem que, embora haja alguma correspondencia entre tags e emoçoes, existem diferenças importantes, especialmente para nojo e raiva, indicando que os designers devem ser cautelosos ao selecionar imagens baseadas apenas em tags geradas por usuarios. E fundamental considerar outros fatores e criterios para garantir que as imagens escolhidas evoquem as emoçoes desejadas no publico-alvo.

@@ -1,0 +1,1434 @@
+Contextualizacao
+No Brasil, conforme o Instituto Brasileiro de Geografia e Estatistica, 8.9% das pessoas
+com mais de dois anos possuem alguma deficiencia [Brasil, 2023a]. Essas pessoas
+frequentemente enfrentam obstaculos que dificultam ou impossibilitam seu acesso a
+conteudos digitais, inclusive nas midias sociais, tornando essencial a implementacao de
+praticas de acessibilidade digital para promover a inclusao [Brasil, 2023c].
+
+Especificamente para pessoas com deficiencia visual (cegas ou com baixa visao), e
+necessario adotar praticas que viabilizem uma comunicacao digital acessivel, como um
+bom contraste de cores, tamanho e estilo adequados nos textos, descricao de imagens,
+entre outras. Logo, e fundamental que a comunidade de Interacao Humano-Computador
+(IHC) conheca mais sobre a pessoa com deficiencia visual, sobre os conceitos teoricos e
+praticos relacionados a acessibilidade, bem como sobre a legislacao e Tecnologias
+Assistivas disponiveis. E preciso conhecer ainda os recursos e requisitos de
+acessibilidade digital necessarios para a inclusao desse publico nas midias sociais.
+
+Este capitulo reune os conceitos mencionados e apresenta um conjunto de boas praticas
+para tornar essas midias mais acessiveis ao publico com deficiencia visual. Este
+conteudo foi compartilhado no minicurso realizado em Brasilia-DF durante o XXIII
+Simposio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC 2024),
+intitulado de forma homonima a este capitulo.
+
+Conceitos Fundamentais
+Acessibilidade Digital
+Segundo a Lei Brasileira de Inclusao (2015) Acessibilidade e a condicao essencial para
+que pessoas com deficiencia ou mobilidade reduzida possam utilizar os diversos
+espacos, servicos e tecnologias disponiveis na sociedade, incluindo os meios de
+comunicacao e informacao, com seguranca e autonomia, de forma que nao existam
+barreiras que impecam a sua participacao social e nem o exercicio dos seus direitos.
+
+Acessibilidade digital, por sua vez, e a eliminacao de barreiras em recursos digitais,
+incluindo a Internet. Essas barreiras podem ser superadas a partir da construcao de
+espacos digitais que permitam a percepcao, o entendimento, a navegacao, a interacao e a
+contribuicao de pessoas com deficiencia. Ao proporcionar acessibilidade digital, nao
+apenas pessoas com deficiencia podem usufruir de produtos e servicos ofertados na
+Web, mas tambem pessoas idosas, com baixo letramento ou dificuldades momentaneas
+[W3C Brasil 2013].
+
+A acessibilidade digital no Brasil e regulamentada por legislacoes que estabelecem a
+obrigatoriedade de tornar os meios digitais inclusivos para pessoas com deficiencia. O
+Decreto 5.296/2004 definiu a necessidade de acessibilidade nos portais eletronicos e
+sites da administracao publica, com foco exclusivo em atender pessoas com deficiencia
+visual [Brasil 2004]. Posteriormente, a Lei 13.146/2015 (Estatuto da Pessoa com
+Deficiencia) ampliou essa obrigacao, determinando que sites mantidos por empresas
+com sede ou representacao comercial no Brasil, alem de orgaos governamentais, devem
+garantir acessibilidade, promovendo a inclusao digital para um publico diverso [Brasil
+2015].
+
+Deficiencia Visual
+Entre as pessoas que demandam acessibilidade estao aquelas que possuem deficiencia
+visual. A deficiencia visual existe de diversas formas, desde a ausencia completa da
+visao (cegueira), ate a presenca de residuo visual que permita enxergar o ambiente, mas
+sem alcancar a capacidade visual plena (baixa visao). Ha ainda a visao monocular,
+considerada deficiencia para todos os efeitos legais a partir de 2021.
+
+Para o diagnostico da deficiencia visual sao avaliados aspectos como acuidade visual
+(capacidade de distincao de formas e detalhes) e campo visual (area abrangida pela
+visao sem a necessidade de movimentar a cabeca) [Brasil 2004]. O diagnostico da
+deficiencia visual tambem pode considerar as formas de percepcao [Nunes e Lomonaco
+2010]. Esses diagnosticos sao descritos a seguir.
+
+Cegueira
+Uma pessoa e considerada cega quando possui acuidade visual igual ou inferior a 0,05.
+Alem disso, e considerada deficiencia visual casos em que a soma da medida do campo
+visual em ambos os olhos e igual ou inferior a 60° [Brasil, 2004].
+
+Considerando as formas de percepcao, a pessoa e considerada cega quando ela apreende
+o mundo por meio do tato, olfato, cinestesia, etc., sem conseguir se utilizar do residuo
+visual de forma satisfatoria, ainda que possua algum [Nunes e Lomonaco 2010].
+
+A cegueira tambem e classificada por congenita, quando a perda da visao acontece antes
+dos cinco anos, e adquirida, quando a perda da visao ocorre apos essa idade [Nunes e
+Lomonaco 2010].
+
+Baixa visao
+A baixa visao e considerada quando a acuidade visual esta entre 0,3 е 0,05,
+considerando o melhor olho, com a melhor correcao optica possivel (lentes, oculos, etc.)
+[Brasil, 2004].
+
+A baixa visao pode ser resultante de doencas, lesoes ou disfuncoes no sistema visual,
+resultando em reducao da acuidade visual, dificuldades para enxergar de perto ou de
+longe, campo visual limitado, problemas na identificacao de contraste e percepcao de
+cores, entre outras alteracoes visuais. Esse comprometimento visual afeta ambos os
+olhos e nao pode ser corrigido com oculos convencionais, lentes de contato ou cirurgias
+oftalmologicas [Domingues et al. 2010].
+
+Visao monocular
+A visao monocular e a condicao em que a pessoa consegue enxergar com apenas um dos
+olhos. Segundo a Lei 14.126, sancionada em 22 de marco de 2021, a visao monocular
+passou a ser reconhecida como uma deficiencia sensorial do tipo visual. Para todos os
+efeitos legais, pessoas com visao monocular tem seus direitos garantidos da mesma
+forma que as pessoas com outras deficiencias visuais, assegurando-lhes o acesso a
+politicas publicas de inclusao e recursos de acessibilidade [Brasil, 2021].
+
+Tecnologia Assistiva
+Tecnologia Assistiva (TA) e o conjunto de dispositivos, recursos, metodos, estrategias,
+praticas e servicos desenvolvidos visando promover a autonomia, a independencia, a
+qualidade de vida e a inclusao social das pessoas com deficiencia ou com mobilidade
+reduzida [Brasil, 2015].
+
+Os recursos de TA ajudam a superar obstaculos impostos pela deficiencia nas atividades
+cotidianas, possibilitando que pessoas com deficiencia ou mobilidade reduzida interajam
+com o ambiente fisico, ou digital ao seu redor. Diversos sao os recursos de Tecnologia
+Assistiva utilizados por pessoas com deficiencia visual. Esses podem ser uteis tanto em
+ambiente fisico, quanto no virtual.
+
+Alguns exemplos de TA para o ambiente fisico sao: bengala, lupa, cao-guia e o Sistema
+Braille (atualmente tambem utilizado atraves da linha Braille) - sistema de escrita e
+leitura tatil formado por pontos em relevo, criado pelo frances cego Louis Braille. Para o
+contexto virtual, especialmente das midias sociais, se destacam os seguintes recursos:
+
+Display braille: tambem conhecido como linha braile, e um dispositivo que converte
+em caracteres do Sistema Braille, as informacoes textuais exibidas na tela de um
+computador. Os caracteres braille sao apresentados ao usuario com deficiencia visual a
+partir de pinos que se movimentam verticalmente e estao dispostos em uma placa
+[Cerqueira e Ferreira 2000], conforme ilustra a Figura 1.
+
+Ampliadores de tela: ferramentas que permitem a ampliacao de imagens e textos,
+facilitando a interacao de pessoas com baixa visao com esses elementos. Os ampliadores
+de tela, em geral, sao fornecidos pelos proprios sistemas operacionais e navegadores, e
+permitem ajustar o tamanho de elementos imageticos e textuais exibidos em tela,
+proporcionando uma configuracao mais confortavel para as pessoas com baixa visao. A
+Figura 2 ilustra um smartphone com recurso de zoom aplicado a tela.
+
+Sistema DosVox: DosVox (ver Figura 3) e um sistema operacional, desenvolvido pelo
+Instituto Tercio Pacitti de Aplicacoes e Pesquisas Computacionais da Universidade
+Federal do Rio de Janeiro (UFRJ), que permite a pessoas com deficiencia visual
+utilizarem o computador por meio da sintese de voz para desempenhar uma serie de
+tarefas, como ler e-mails, acessar videos do YouTube, entre muitas outras atividades
+[Brasil 2002].
+
+Softwares leitores de tela: sao programas que transformam o que esta na tela em audio
+com voz sintetizada, permitindo que as informacoes sejam ouvidas pelas pessoas com
+deficiencia visual. Os leitores de tela podem ser instalados nos computadores ou, em
+smartphones, e podem ser ativados nas configuracoes do dispositivo. A Figura 4 ilustra
+uma pessoa criada com IA usando um smartphone com leitor de telas.
+
+Audiodescricao: e um recurso de acessibilidade comunicacional que consiste na
+traducao de imagens em palavras, utilizando tecnicas que ampliam a compreensao de
+conteudos visuais [ABNT 2016]. Em videos, o objetivo da audiodescricao e descrever
+fatos relevantes nos intervalos das falas, permitindo que pessoas com deficiencia visual
+compreendam o que esta acontecendo, incluindo caracteristicas fisicas dos personagens
+e elementos do cenario [Motta e Romeu Filho 2010]. A tecnica tambem pode ser
+aplicada a imagens estaticas. A audiodescricao requer formacao especializada e
+geralmente envolve uma equipe composta por: Audiodescritor (roteirista) - pessoa sem
+deficiencia visual responsavel pelo roteiro; Consultor: pessoa com deficiencia visual que
+valida as escolhas do roteiro; Revisor: responsavel por verificar a precisao e qualidade
+do texto descritivo; Locutor: profissional que realiza a narracao da descricao elaborada,
+no caso da mesma ser fornecida em audio. A Figura 5 ilustra o consumo da
+audiodescricao.
+
+Acessibilidade nas Midias Sociais
+As midias sociais transformaram a maneira como as pessoas interagem e se comunicam
+na sociedade atual. Plataformas como Instagram, Facebook, X, YouTube, entre outras,
+cada uma com seu foco especifico, nao apenas facilitam a criacao e compartilhamento
+de conteudo pelos usuarios, como constroem novas formas de relacionamento [TV
+Brasil 2017].
+
+Segundo a Pesquisa Nacional por Amostra de Domicilios Continua (PNAD Continua)
+de 2023, 83.5% dos usuarios acessam a Internet para utilizar redes sociais [Brasil
+2023b]. Isso demonstra o quanto esses espacos sao importantes no cotidiano da
+populacao brasileira, incluindo pessoas com deficiencia visual, que tambem utilizam
+com frequencia tais redes [Nardi, 2021].
+
+Nas midias sociais ha uma predominancia de conteudos visuais como imagens, videos,
+animacoes e graficos. Esses conteudos sao distribuidos diariamente com frequencia na
+casa dos bilhoes. A Meta, empresa desenvolvedora de algumas das principais midias
+sociais da atualidade, indicou que um bilhao de stories conteudo formado
+essencialmente por imagens - sao compartilhados no Facebook, Messenger, Instagram e
+WhatsApp todos os dias ao redor do mundo [Meta 2024].
+
+Considerando as midias sociais como um espaco colaborativo, em que o conteudo e
+produzido pelos proprios usuarios, e relevante a adocao de boas praticas para producao
+de conteudo que seja acessivel as pessoas com deficiencia visual.
+
+Como sao muitos os tipos de imagens presentes nas midias sociais, no minicurso
+ministrado se escolheu trabalhar com cards. Cards sao um tipo de imagem que combina
+textos com fotografias ou ilustracoes e sao bastante populares nas midias sociais
+brasileiras, inclusive para promover eventos.
+
+As proximas subsecoes apresentam orientacoes que envolvem desde o planejamento ate
+a publicacao de cards acessiveis nas midias sociais.
+
+Planejamento e Producao de Cards para Midias Sociais com Acessibilidade
+Ao planejar e produzir cards para midias sociais com foco em acessibilidade, e essencial
+considerar aspectos que garantam o acesso a todas as pessoas.
+
+Por exemplo, ao confeccionar cards para divulgacao de eventos, e fundamental se
+atentar para que informacoes visuais, como as logomarcas do evento ou da instituicao, a
+fotografia do palestrante e o tema que o card esta divulgando sejam apresentadas de
+forma nitida e acessivel. Caso esses itens contenham informacoes importantes, eles nao
+devem ser pequenos ou desproporcionais.
+
+Alem disso, e necessario constatar se as imagens tem contraste adequado e se a
+organizacao dos elementos no card esta harmonica, evitando sobreposicao de fotos e logotipos. Essas acoes permitirao que uma pessoa com baixa visao compreenda o
+conteudo do card de forma autonoma.
+
+Alguns aspectos importantes para serem levados em consideracao:
+Escolha do contraste de cores: o contraste entre o texto e o fundo deve ser
+suficiente para garantir legibilidade. O contraste minimo recomendado e de
+4.5:1, e o ideal e 7:1.
+
+Utilizar ferramentas como a Colour Contrast Checker¹ ou a Contrast Checker²
+pode ajudar a verificar se as cores escolhidas atendem a esses criterios e se sao
+acessiveis para pessoas com deficiencia visual.
+
+A Figura 6 ilustra um exemplo de card que apresenta problemas de contraste
+(lado esquerdo) e sem problemas (lado direito). Uma pessoa com baixa visao
+avaliou a imagem da esquerda e relatou problemas para ler o texto abaixo de
+“resumo das mudancas”, bem como nao conseguiu ver os icones dentro dos
+cards internos e nem as suas labels em frente. Na imagem da direita foram feitos
+ajustes na cor de fundo e retirados os icones, tornando a imagem com maior
+contraste.
+
+Escolha de fontes: fontes sem serifa sao as mais recomendadas para garantir
+boa legibilidade. Fontes com serifa, quando ampliadas, podem ser dificeis de ler.
+Algumas sugestoes de fontes com serifas incluem Tahoma, Trebuchet, Verdana e
+Helvetica. A Figura 7 ilustra a diferenca entre fontes com e sem serifa.
+
+E importante se atentar para o uso de fontes como Arial ou Calibri, que, apesar de
+populares, podem apresentar dificuldades para pessoas com baixa visao, pois o “I”
+maiusculo pode ser confundido com o “l” minusculo.
+
+Tamanho e espacamento das fontes: e fundamental escolher um tamanho de
+fonte adequado para facilitar a leitura. O tamanho recomendado em telas e de
+14px, com um espacamento entre linhas de 1.5. Alem disso, em alguns casos,
+pode ser necessario utilizar o negrito para destacar palavras ou informacoes,
+garantindo que o conteudo seja acessivel e compreensivel.
+
+Publicacao e Interacao com Cards Acessiveis nas Midias Sociais
+Somado a escolha de contraste de cores, de fontes, espacamento de linhas (a
+acessibilidade visual dos cards), e necessario se atentar para informacoes nao visuais,
+que serao acessadas por pessoas que fazem uso softwares leitores de tela. Dessa forma,
+e importante levar em consideracao diferentes formas de descricao de imagens,
+incluindo:
+
+Texto aberto: sao descricoes visiveis que permitem que qualquer pessoa acesse
+o conteudo de imagem diretamente. Esse tipo de descricao e comum em
+campanhas de acessibilidade, como as hashtags #PraCegoVer e
+#PraTodos Verem, que fornece informacoes detalhadas sobre o que a imagem
+representa, para que pessoas com deficiencia visual compreendam o conteudo.
+As Figuras 8 e 9 ilustram posts no Twitter (atualmente chamada de X) e no
+Instagram, respectivamente, com a estrategia de descricao aberta.
+
+Texto fechado (texto alternativo): o texto alternativo, tambem conhecido como
+"alt", e uma descricao curta que “substitui” a imagem em que nao seja possivel
+visualiza-la. Este texto e acessivel por meio de leitores de tela.
+
+A descricao no “alt” deve ser clara, concisa e suficiente para transmitir a ideia
+principal da imagem. As Figura 10 e 11 ilustram exemplos de texto alternativo
+incluido em uma foto e em um card de divulgacao, respectivamente, publicadas
+no Instagram. Na Figura 11, os aspectos graficos foram mais detalhados na
+descricao. Contudo, esse detalhamento e opcional.
+
+Em audio: outra forma de tornar o conteudo acessivel e por meio de descricoes
+em audio, mais comuns em aplicativos de mensagens como o whatsapp, mas que
+tambem podem ser incorporados em videos publicados nas redes sociais, para
+descrever as cenas do video. Nesses casos, a descricao da imagem e fornecida
+em formato de audio, permitindo que a pessoa compreenda o conteudo sem
+utilizar o leitor de tela;
+
+Siglas: Ao descrever siglas, e importante considerar se a palavra, ao ser dita,
+exige que as letras sejam soletradas individualmente. Por exemplo, a sigla IHC e
+dita com as letras soletradas pelo leitor de tela, logo sera necessario separar as
+letras da sigla na descricao. Se isso nao for feito, o leitor de telas ira ler “Iqui”. O
+mesmo nao acontece com a sigla IA (de Inteligencia Artificial) ou WiPlay, que
+sao corretamente faladas pelo leitor, sem necessidade de separar as letras.
+
+E importante destacar que algumas redes sociais como Facebook e Instagram tem
+algoritmos que descrevem automaticamente a imagem postada. Assim como existem
+ferramentas de Inteligencia Artificial generativa e recursos nos smartphones que se
+propoem a realizar a tarefa de descrever imagens. No entanto, essas ferramentas ainda
+precisam evoluir, pois nem sempre as descricoes geradas sao confiaveis: em algumas
+situacoes elas podem apresentar descricoes superficiais ou mesmo incorretas
+[Sacramento e Leal Ferreira 2022].
+
+Diretrizes gerais para descricao de imagens
+A descricao de imagens e fundamental para assegurar que pessoas com deficiencia
+visual tenham acesso as informacoes visuais. Seguir orientacoes praticas para elaborar
+descricoes acessiveis e indispensavel, pois permite criar uma experiencia imagetica
+significativa com base em principios claros e objetivos. Embora essas orientacoes nao
+substituam a audiodescricao profissional, elas servem como ponto de partida para
+proporcionar um nivel basico de acessibilidade.
+
+Principios fundamentais:
+Seja objetivo: descreva apenas o que e visivel, sem interpretacoes subjetivas ou
+inferencias. Prefira frases curtas e linguagem clara;
+
+Organize a descricao: adote uma abordagem sistematica para organizar os
+elementos visuais:
+Padrao direcional: comece de cima para baixo e da esquerda para a
+direita, salvo quando o foco estiver em outra area.
+Profundidade: em imagens tridimensionais, inicie pelo primeiro plano,
+passando pelo plano intermediario e terminando no plano de fundo,
+respeitando o foco principal da imagem.
+
+Evite pronomes possessivos: para evitar ambiguidades, nao utilize palavras
+como "seu, sua, seus e suas";
+
+Use linguagem vivida e precisa: use poucas palavras, mas bem escolhidas.
+Prefira descricoes que tragam clareza e proporcionem ao leitor elementos
+suficientes para formar uma imagem mental;
+
+Entenda que o contexto e essencial: a escolha entre uma descricao simples ou
+detalhada deve considerar o contexto em que a imagem sera apresentada e o
+publico-alvo.
+
+Aspectos tecnicos e diretrizes especificas:
+Descricao de pessoas: para descrever pessoas, siga a sequencia logica a seguir,
+conforme recomendado pela norma ABNT NBR 16452 [ABNT 2016]:
+Genero;
+Faixa etaria;
+Etnia;
+Cor de pele;
+Estatura;
+Compleicao fisica;
+Detalhes faciais como olhos e cabelos;
+Caracteristicas marcantes adicionais.
+
+Cores: mencione as cores de maneira simplificada, considerando a relevancia
+delas para o entendimento da imagem;
+
+Descricao de texto em imagens: informe de forma clara o conteudo textual que
+aparece na imagem;
+
+Foco e elementos relevantes: identifique o que mais chama atencao na imagem
+e selecione o que e crucial para a comunicacao da mensagem.
+
+Fontes e recursos adicionais
+Para aqueles que desejam se aprofundar na pratica da descricao e audiodescricao, e
+recomendado consultar documentos tecnicos como:
+ABNT NBR 16452 [Brasil 2016];
+
+ISO/IEC 20071-11:2019 [ISO/IEC 2019];
+
+Materiais do movimento Web para todos [MWPT 2024] e iniciativas
+governamentais sobre acessibilidade digital [Brasil 2024].
+
+Consideracoes Finais
+A cultura da participacao estimulada pelas midias sociais resultou em demandas (como
+a acessibilidade digital) necessitando de estrategias inovadoras para oferecer uma
+comunicacao acessivel para todas as pessoas. Nesse sentido, e importante compreender
+que a acessibilidade nas midias sociais pode contribuir para uma ampliacao na
+recomendacao de produtos e servicos. Logo, as autoras deste capitulo entendem que
+promover experiencias positivas nas midias sociais pode ser considerada um diferencial
+no mercado competitivo de aplicacoes digitais, proporcionando a fidelizacao de clientes
+a marcas a partir da construcao de valor. A adocao de boas praticas nas midias sociais
+precisa ser adotada em todas as fases da elaboracao de cards para midias sociais (do
+planejamento a publicacao) em todas as areas do conhecimento (divulgacao cientifica,
+setor governamental, etc.), no intuito de oportunizar uma comunicacao digital acessivel.
+
+Por fim, e importante destacar que as autoras deste capitulo nao pretendem esgotar o
+tema neste texto e objetivam incentivar pesquisadores da area de Interacao
+Humano-Computador e demais areas da Computacao, a refletirem sobre suas praticas de
+publicacao nas midias sociais. Destaca-se, por fim, que as estrategias apresentadas neste
+capitulo nao sao limitadas ao uso em midias sociais, podendo, portanto, serem adotadas
+em qualquer midia digital.
+
+
+
+Introducao
+A tecnologia tem assumido um papel central na modelagem de relacoes sociais, na cons-
+trucao de culturas e na formacao de percepcoes sobre a realidade [Boroon et al. 2021],
+[Weinert 2019], [Fink 2021]. Embora tenha se consolidado como um dos principais ve-
+tores de transformacao na sociedade contemporanea, a tecnologia nao e neutra. Suas
+implicacoes extrapolam a solucao de problemas tecnicos, impactando profundamente os
+contextos sociais, culturais e eticos nos quais e inserida. No entanto, profissionais das
+areas de Computacao sao, tradicionalmente, formados sob um paradigma tecnico que
+raramente contempla tais implicacoes [Malik and Malik 2021]. Essa abordagem limi-
+tada ignora o fato de que sistemas tecnologicos operam como ecossistemas sociotecnicos
+complexos, onde interacoes humanas, normas sociais e aspectos tecnicos se entrelacam,
+gerando consequencias muitas vezes imprevisiveis.
+
+Essa desconexao entre o desenvolvimento tecnico e a consideracao de aspectos
+sociais e culturais resulta em consequencias alarmantes. Algoritmos de Inteligencia Ar-
+tificial (IA), por exemplo, ao serem treinados com dados enviesados, perpetuam desi-
+gualdades e reforcam estereotipos, contribuindo para o que pesquisadores denominam
+“colonialismo digital” [Munn 2023]. Paralelamente, tecnologias invasivas, como siste-
+mas de vigilancia e plataformas de redes sociais, moldam comportamentos e intensificam
+a polarizacao, enquanto plataformas de apostas exploram vulnerabilidades humanas, cau-
+sando impactos sociais e financeiros negativos. Quando o desenvolvimento tecnologico e
+guiado exclusivamente pela busca por eficiencia e desempenho tecnico, aspectos eticos e
+de justica social sao negligenciados, evidenciando a necessidade urgente de abordagens
+que integrem dimensoes criticas ao processo de criacao tecnologica.
+
+Nesse contexto, a incorporacao de perspectivas sociais e culturais no design de
+solucoes tecnologicas e essencial para prevenir que os avancos tecnologicos resultem em
+problemas de longo prazo. E nesse cenario que o design especulativo emerge como uma
+abordagem promissora. Ele permite explorar futuros possiveis e avaliar as implicacoes
+das tecnologias antes de sua implementacao [Dunne and Raby 2013]. Essa abordagem
+nao apenas rompe com uma visao antropocentrica tradicional [Blok and Jensen 2019],
+mas tambem engaja-se com questoes ecologicas, destacando a interdependencia entre tec-
+nologia, meio ambiente e seres vivos [Wakkary et al. 2022]. Ao desafiar normas conven-
+cionais, o design especulativo convida profissionais a refletirem sobre dimensoes eticas,
+ecologicas e sociais, promovendo praticas mais inclusivas e sustentaveis. Em vez de tra-
+tar os impactos tecnologicos como meros efeitos colaterais, ele incentiva o planejamento
+proativo e responsavel, oferecendo ferramentas estrategicas para mitigar desigualdades e
+estimular inovacoes com impacto positivo.
+
+Reconhecendo o potencial transformador do design especulativo, diversas insti-
+tuicoes de ensino tem incorporado essa abordagem em seus curriculos. Para compreender
+melhor a complexidade das relacoes entre sociedade e natureza no Antropoceno, univer-
+sidades como a OCAD University, o California College of the Arts e a Universidade
+de Ciencias Aplicadas de Potsdam estao progressivamente adotando estudos de futuro
+com design especulativo em programas de pos-graduacao [Ollenburg 2019]. Esses cur-
+sos transcendem os limites da educacao convencional, funcionando como laboratorios de
+pensamento avancado onde o design e reconhecido nao apenas como criacao, mas como
+uma poderosa heuristica para investigar e moldar cenarios futuros ainda nao revelados
+[Candy and Dunagan 2017, Ollenburg 2018].
+
+Este minicurso foi influenciado por essas experiencias positivas nas instituicoes
+de ensino de renome internacional, buscando adaptar as praticas e reflexoes inovadoras
+para o contexto local, promovendo uma abordagem etica, inclusiva e socialmente res-
+ponsavel no design de solucoes tecnologicas. A estrutura do trabalho esta organizada da
+seguinte forma: a secao 2.2 apresenta os conceitos fundamentais que embasaram o con-
+teudo do minicurso; na secao 2.3, detalhamos as etapas do minicurso alinhadas ao modelo
+de design especulativo empregado; na secao 2.4, sao discutidos as impressoes gerais das
+especulacoes realizadas, sem nos aprofundarmos em detalhes; e, por fim, a secao 2.5 traz
+as conclusoes gerais sobre o impacto e as contribuicoes do minicurso.
+
+Fundamentacao Teorica
+Para compreender o design especulativo, e importante definir alguns conceitos fundamen-
+tais que sustentam essa pratica. A seguir, destacam-se os principais conceitos necessarios
+para o entendimento dessa abordagem.
+
+Design Orientado para o Futuro
+O design orientado para o futuro e uma postura que vai alem da simples satisfacao de ne-
+cessidades presentes, projetando cenarios especulativos que estimulam a reflexao critica,
+desafiam normas estabelecidas e incentivam a inovacao [Mozuni and Jonas 2017]. Nesse
+campo em constante transformacao, emergem metodologias e instrumentos interconec-
+tados que abrangem um espectro de abordagens, desde as pragmaticas ate as provocati-
+vas, e do imaginativo ao critico, oferecendo ferramentas para moldar futuros possiveis
+[Blauvelt 2019]. Essa diversidade de praticas nao apenas amplia as possibilidades de in-
+tervencao no futuro, mas tambem revela a complexidade inerente ao design orientado para
+o futuro, que e intensificada pela ausencia de delimitacoes claras entre elas. Cada pratica
+enriquece e informa as demais, criando uma paisagem de constante metamorfose, mar-
+cada pela reavaliacao continua de seus papeis, objetivos e metodos [Mitrovic et al. 2021].
+
+A figura 2.1 ilustra a interconexao entre diferentes abordagens de design orientadas para o futuro. Areas como Estudos do Futuro, Ficcao Cientifica, Arte, Estrategia e
+Design Especulativo convergem em um espaço multidisciplinar voltado para a exploracao
+de realidades alternativas e futuros possiveis. Nesse contexto, a Ficcao Cientifica oferece
+narrativas imaginativas que desafiam as percepcoes do presente e ampliam os horizontes
+do que pode ser concebido, enquanto a Arte adiciona expressividade e provoca questionamentos que estimulam reflexao e dialogo [Wakkary et al. 2022]. Os Estudos do Futuro
+estruturam essas visoes, sistematizando-as em arcaboucos compreensiveis, enquanto a Estrategia conecta essas exploracoes a objetivos concretos e planos de acao pragmaticos. O
+Design Especulativo, por sua vez, materializa essas possibilidades em objetos, interfaces
+e experiencias, permitindo a interacao e o engajamento com futuros especulados.
+
+Design Especulativo
+O design especulativo tem raizes em praticas historicas que compartilham semelhancas
+com abordagens voltadas para imaginar futuros, criticar a tecnologia ou criar novos mun-
+dos. Uma analise historica rigorosa ajuda a entender como esses imaginarios especula-
+tivos sao construidos e a identificar as agendas sociais, culturais e politicas que os mo-
+tivam. Configuracoes alternativas do mundo tem sido criadas com diversos objetivos,
+frequentemente extrapolando um aspecto da realidade para propor versoes modificadas
+do mundo. Essas especulacoes, impulsionadas por interesses especificos, buscam mol-
+dar o futuro, mas sao mais eficazes quando esticam, em vez de romper, as coordenadas
+da realidade, mantendo a plausibilidade e provocando reacoes significativas no publico
+[Mitrovic et al. 2021].
+
+Neste contexto, o design especulativo e uma abordagem inovadora e critica que
+utiliza tecnicas de extrapolacao e imaginacao para criar cenarios futuristicos e alternati-
+vos, explorando futuros possiveis, questionando o presente e refletindo sobre as impli-
+cacoes eticas, sociais e politicas das escolhas tecnologicas, com o objetivo de estimular
+debates e ampliar a compreensao do papel do design na sociedade [Lindley 2016]. De
+fato, Dunne e Raby [2013] ressaltam que a utilizacao de ficcoes e narrativas no design
+especulativo e uma poderosa ferramenta para desafiar percepcoes atuais, oferecer novas
+perspectivas sobre o desenvolvimento tecnologico e seu impacto sociocultural, alem de
+explorar os efeitos inesperados das inovacoes na sociedade [Lindley et al. 2014]. Essa
+abordagem tambem redefine o papel dos designers, posicionando-os como catalisadores
+de reflexao critica e agentes de mudanca social [Johannessen et al. 2019].
+
+O design especulativo nao se contenta em remediar problemas imediatos como o
+design tradicional; ele ousa desbravar o desconhecido. Em vez de apenas solucionar pro-
+blemas de curto prazo, ele estica as fronteiras do presente, projetando futuros possiveis
+muitas vezes perturbadores ou distopicos – para explorar nao so o que pode ser, mas tam-
+bem para confrontar o que ja e. Utilizando cenarios provocativos, narrativas intrigantes
+e objetos contrafactuais, o design especulativo questiona certezas e expoe as fragilidades
+do presente, jogando luz sobre as consequencias das escolhas que fizemos no passado
+[Mitrovic et al. 2021].
+
+Contudo, um dos desafios no campo do design especulativo e sua natureza fre-
+quentemente inversa: uma pratica que desbrava terrenos antes mesmo que a teoria os
+consolide [Bardzell and Bardzell 2013]. Essa lacuna, longe de ser apenas um problema,
+e tambem um terreno fertil para a experimentacao. Chivukula et al. [2021] revelam
+essa riqueza metodologica ao mapear mais de 63 metodos aplicaveis no design especula-
+tivo, evidenciando nao apenas a diversidade de abordagens, mas tambem a efervescencia
+criativa que caracteriza esse campo.
+
+Toolkits de Design Especulativo
+A pratica do design especulativo tem sido cada vez mais apoiada por toolkits desenvolvi-
+dos para orientar designers em processos especulativos. Esses toolkits variam em aborda-
+gem e aplicacao, oferecendo uma ampla variedade de recursos que ajudam a explorar e
+projetar cenarios futuros. Dado o vasto numero de metodos disponiveis no campo do de-
+sign, os toolkits podem ser descritos como compilacoes selecionadas e organizadas desses
+metodos, com o proposito de atender a objetivos especificos.
+
+Alguns toolkits destacam-se por sua flexibilidade e adaptabilidade, permitindo que
+os designers explorem possibilidades de maneira independente. Exemplos incluem as
+"Discovery Sessions”, que utilizam cartoes de imagem para identificar desafios e opor-
+tunidades, promovendo uma visao criativa do futuro. A ferramenta “Cover Story” in-
+centiva a criacao de capas ficticias de revistas para visualizar futuros ideais e explorar
+metas de longo prazo. Ja a “Futures Wheel” facilita o mapeamento das consequencias
+em cadeia de inovacoes tecnologicas. O “Envisioning Radar" mapeia inovacoes tecno-
+logicas e seus impactos, promovendo a compreensao das interconexoes entre tecnologias.
+
+Ja o “The Digital Ethics Compass" atua como uma bussola etica para ajudar designers
+a formular perguntas criticas e evitar armadilhas comuns no processo de design. Outras
+ferramentas sao apresentadas no formato de cartas, como o "Tarot Cards of Tech", que
+estimula reflexoes criticas sobre os impactos eticos e sociais da tecnologia. Ja as “Trend
+Cards" ajudam a mapear tendencias e forcas que moldam cenarios futuros.
+
+Alem dessas ferramentas amplamente aplicaveis, existem toolkits concebidos para
+contextos especificos que oferecem diretrizes detalhadas para situacoes particulares. Por
+exemplo, o “Future Vision Generating Toolkits”[Fu and Zhu 2020] e voltado para o de-
+senvolvimento de cenarios especulativos em cidades inteligentes, enquanto o “PDIA To-
+olkit (Problem-Driven Iterative Adaptation)”[SAMJI and KAPOOR 2022] apresenta uma
+abordagem iterativa voltada para capacitar profissionais que atuam em governos a identi-
+ficar e adaptar solucoes para desafios especificos, promovendo a implementacao de politi-
+cas e reformas mais eficazes e impactantes. Esse metodo busca superar os resultados limi-
+tados de iniciativas anteriores, oferecendo uma estrutura pratica e adaptavel para enfrentar
+problemas complexos no setor publico. O “Building Utopias Toolkit” [Bray et al. 2022],
+com um foco afrofuturista, apoia praticas de design lideradas por comunidades margi-
+nalizadas, e o modelo SITT (Social is the Thing)[Wahlin and Blomkamp 2022] adapta
+metodos de Design Thinking e Co-Design para o planejamento estrategico em governos
+locais, promovendo maior participacao comunitaria.
+
+Com o avanco da IA generativa, o design especulativo ganhou um leque de possi-
+bilidades revolucionarias para imaginar futuros alternativos e explorar cenarios comple-
+xos. Ferramentas como o Future Scenario Maker permitem criar cenarios especulativos
+estruturados com base em parametros especificos, como tendencias sociais, tecnologicas
+ou climaticas. Alem disso, plataformas como ChatGPT e GPT-4 podem gerar narrativas
+em texto altamente detalhadas, simulando contextos futuros que refletem dilemas eticos
+ou sociais, enquanto ferramentas de video como Runway Gen-2 produzem visualizacoes
+de realidades alternativas, dando vida a mundos imaginados em videos curtos e dinami-
+cos.
+
+Essas tecnologias sao especialmente uteis no design de TI. Por exemplo, uma IA
+generativa pode criar narrativas interativas para explorar como um sistema de inteligen-
+cia artificial poderia operar em um futuro distopico, identificando riscos e possibilidades
+antes mesmo da implementacao. Tambem e possivel usar IA para simular interacoes
+em interfaces futuristas, projetando como os usuarios poderiam interagir com tecnolo-
+gias ainda inexistentes, como interfaces baseadas em hologramas ou assistentes virtuais
+hiperinteligentes.
+
+Outro exemplo e a utilizacao de IA generativa em projetos urbanos de TI: ao criar
+cidades ficticias e simular a interacao entre sistemas inteligentes, infraestrutura urbana e
+sociedade, os designers podem prever como novas tecnologias – como redes 6G ou trans-
+porte autonomo – afetariam a vida cotidiana. Alem disso, ferramentas como DALL-E
+podem gerar imagens conceituais de dispositivos tecnologicos inovadores, auxiliando na
+visualizacao de prototipos especulativos. Um exemplo disso sao as imagens de cenarios
+especulados apresentadas na Figura 2.2, que foram utilizadas no minicurso para ilustrar e
+reforcar a definicao de design especulativo.
+
+Por fim, os toolkits nao apenas auxiliam no desenvolvimento de solucoes praticas,
+mas tambem contribuem para a sistematizacao de abordagens, reduzindo a lacuna entre
+teoria e pratica no design especulativo.
+
+Sinais e Tendencias
+De acordo com Celi e Colombi [2020], Sinais e Tendencias sao conceitos fundamentais
+no ambito do design especulativo, oferecendo suporte a compreensao de transformacoes
+culturais, sociais e tecnologicas e viabilizando praticas projetuais que dialogam com fu-
+turos possiveis.
+
+Os “sinais”, muitas vezes referidos como “sinais fracos”, representam fenome-
+nos emergentes que indicam mudancas potenciais. Esses elementos sao caracterizados
+por sua fragilidade e baixa visibilidade, frequentemente escapando de analises superfici-
+ais. Ainda assim, sua importancia reside no fato de funcionarem como indicadores de
+mudanca, apontando para movimentos iniciais que, com o tempo, podem ganhar forca
+e moldar valores, comportamentos e sistemas sociais. Alem disso, os sinais sao sempre
+contextualizados, ou seja, estao intimamente relacionados ao ambiente cultural e social no
+qual emergem, funcionando como guias para antecipar e explorar transformacoes futuras.
+
+Ja as “tendencias”, por outro lado, referem-se a padroes mais estruturados que
+emergem a partir da observacao e analise de multiplos sinais. Enquanto os sinais podem
+ser incipientes e localizados, as tendencias ganham maior visibilidade e robustez, ofere-
+cendo uma visao consolidada de mudancas mais amplas. Elas tem o potencial de impac-
+tar o design em diversas dimensoes, seja no campo estetico, funcional ou tecnologico.
+As tendencias tambem possuem uma dimensao temporal, podendo ser transitorias ou de
+longo prazo, influenciando tanto a formulacao de respostas imediatas quanto a projecao
+de futuros mais distantes.
+
+A interacao entre sinais e tendencias e um processo dinamico e essencial na pratica
+de design, conforme ilustrado na Figura 2.3. Nessa representacao, os sinais, simbolizados
+por pontos, atuam como indicadores iniciais de transformacoes emergentes. Eles revelam
+mudancas potenciais que, isoladamente, podem parecer dispersas ou pouco significativas.
+Por outro lado, as tendencias, representadas por areas abrangentes, desempenham o papel
+de organizar e estruturar esses sinais, consolidando-os em padroes que podem ser com-
+preendidos e aplicados. Essas areas simbolizam uma agregacao que conecta os sinais a
+contextos mais amplos, permitindo interpretacoes que orientam decisoes estrategicas.
+
+O movimento continuo entre sinais e tendencias reflete a relacao entre o emer-
+gente e o consolidado, possibilitando uma abordagem projetual capaz de lidar com a
+complexidade do presente enquanto projeta futuros plausiveis, possiveis e preferiveis. No
+contexto do design especulativo, esse processo nao se limita a reagir as condicoes atuais,
+mas adota uma postura ativa e proativa na configuracao de cenarios futuros. Ao transfor-
+mar sinais em tendencias e tendencias em estrategias, o design especulativo promove uma
+visao integrada e prospectiva, essencial para a antecipacao de desafios e a exploracao de
+oportunidades.
+
+Ao mesmo tempo, o mapeamento de sinais e tendencias requer um equilibrio en-
+tre a analise do presente e a projecao do futuro, integrando ferramentas qualitativas e
+quantitativas que conectam contextos socioculturais, tecnologicos e economicos. Assim,
+o design nao apenas reflete as mudancas em curso, mas contribui ativamente para a cons-
+trucao de futuros mais eticos, inclusivos e sustentaveis.
+
+Teoria da Mediacao Tecnologica
+A relacao entre tecnologia e sociedade tem sido um dos temas mais debatidos na filo-
+sofia contemporanea, especialmente em virtude do papel crescente dos artefatos tecno-
+logicos na modelagem das praticas sociais, culturais e individuais. Tradicionalmente, as
+tecnologias eram vistas como ferramentas neutras, empregadas apenas como meios para
+alcancar objetivos humanos. No entanto, abordagens mais recentes na filosofia da tec-
+nologia, como a Teoria da Mediacao Tecnologica (TMT) [Verbeek 2005], desafiam essa
+visao simplista ao propor que os artefatos tecnologicos desempenham um papel ativo na
+constituicao das experiencias humanas e das relacoes sociais.
+
+A base dessa discussao encontra suas raizes na fenomenologia, particularmente
+nos trabalhos de Martin Heidegger, que introduziu conceitos fundamentais para a compre-
+ensao da interacao humano-tecnologica. Heidegger descreveu os artefatos como “prontos-
+para-o-uso" (ready-to-hand), ou seja, objetos que se tornam invisiveis quando estao em
+funcionamento adequado, pois a atencao do usuario se concentra na tarefa realizada, e
+nao na ferramenta. Quando esses artefatos apresentam falhas, tornam-se “presentes-a-
+mao" (present-at-hand), exigindo um foco consciente. Essa distincao revelou a capaci-
+dade dos artefatos de moldar a maneira como os seres humanos percebem e interagem
+com o mundo [Nunes 2002].
+
+Posteriormente, Don Ihde [1990] expandiu essas ideias, categorizando as relacoes
+humano-tecnologicas em dois tipos principais. As relacoes de incorporacao, nas quais a
+tecnologia atua como uma extensao do corpo humano, como no caso de oculos ou ben-
+galas, e as relacoes hermeneuticas, em que a tecnologia oferece representacoes do mundo
+que demandam interpretacao, como termometros ou mapas [Ihde 1990]. Ambas as formas
+ilustram como as tecnologias nao sao neutras, mas sim mediadoras ativas, amplificando
+ou reduzindo certos aspectos da realidade e transformando as interacoes humanas.
+
+Alem disso, os estudos de Latour [1992] e Akrich [2014] sobre os "scripts" dos
+artefatos tecnologicos contribiram significativamente para a compreensao do papel ativo
+das tecnologias. Segundo esses autores, os artefatos contem scripts que prescrevem ou
+influenciam comportamentos humanos. Por exemplo, um redutor de velocidade “instrui”
+motoristas a desacelerar, enquanto um copo descartavel sugere seu descarte apos o uso.
+Esses scripts refletem a intencao dos designers ao inscreverem normas e valores nos arte-
+fatos tecnologicos, moldando praticas sociais e individuais.
+
+Nesse contexto, Verbeek [2005] desenvolveu a Teoria da Mediacao Tecnologica
+(TMT), um marco na filosofia da tecnologia e nos Estudos de Ciencias-Tecnologias-
+Sociedades (CTS). A TMT expande as ideias de Heidegger, Ihde, Latour e Akrich, ex-
+plorando como os artefatos tecnologicos nao apenas influenciam as acoes humanas, mas
+tambem moldam percepcoes, intencoes e decisoes morais. Essa abordagem oferece uma
+estrutura analitica robusta para compreender as complexas relacoes entre humanos, tec-
+nologia e o mundo, superando as limitacoes das perspectivas instrumentalistas e determi-
+nistas.
+
+A TMT propoe dois conceitos-chave: intencionalidade tecnologica e multiestabi-
+lidade. A intencionalidade tecnologica refere-se ao papel ativo das tecnologias na con-
+figuracao das relacoes humano-mundo, enquanto a multiestabilidade descreve como as
+tecnologias podem assumir diferentes significados e usos dependendo do contexto. Por
+exemplo, um smartphone pode ser usado tanto como ferramenta de comunicacao quanto
+como dispositivo de entretenimento, dependendo do contexto de uso [Verbeek 2005].
+
+Essas ideias possuem implicacoes eticas significativas, pois as tecnologias nao
+apenas moldam comportamentos, mas tambem carregam valores e normas eticas que
+influenciam decisoes humanas. A Figura 2.4 ilustra o esquema geral da TMT, desta-
+cando como as tecnologias atuam como mediadoras entre humanos e o mundo, ampli-
+ficando ou reduzindo certos aspectos da realidade e atribuindo novos significados a ela
+[Hauser et al. 2018].
+
+No eixo entre humano e tecnologia, a mediacao e marcada pela subjetividade, o
+que significa que as tecnologias afetam a maneira como os humanos percebem e expe-
+rienciam o mundo. Esse efeito e descrito pelos processos de amplificacao e reducao: as
+tecnologias amplificam certos aspectos da realidade, enquanto reduzem outros. Por exem-
+plo, uma camera fotografica amplifica nossa capacidade de capturar detalhes a distancia,
+mas reduz o contexto amplo do campo de visao natural.
+
+Ja no eixo entre tecnologia e mundo, a mediacao e caracterizada pela objetivi-
+dade. As tecnologias nao apenas apresentam o mundo aos humanos, mas tambem es-
+truturam como ele e acessado e interpretado. Nesse contexto, os artefatos tecnologicos
+podem “convidar” ou “inibir” certas acoes. Por exemplo, um sistema de escadas rolantes
+convida as pessoas a economizar esforco fisico ao subir, enquanto um portao de acesso
+bloqueado inibe a passagem de individuos nao autorizados.
+
+A parte superior da Figura 2.4 foca na mediacao da percepcao e experiencia, indi-
+cando que as tecnologias transformam a forma como os humanos interpretam e vivenciam
+o mundo ao seu redor. Essa transformacao pode ser vista em ferramentas como termome-
+tros, que permitem visualizar e interpretar fenomenos antes invisiveis. Ja a parte inferior
+da mesma figura ressalta a mediacao da acao e das praticas humanas, mostrando como
+as tecnologias influenciam diretamente os comportamentos e as interacoes com o mundo.
+Esse aspecto e central no conceito de “delegacao”, no qual os artefatos tecnologicos car-
+regam scripts que direcionam ou condicionam as escolhas e os comportamentos humanos.
+
+Para estruturar a analise das complexas interacoes entre humanos e tecnologia,
+Verbeek identificou sete tipos de mediacao tecnologica [Verbeek 2005]. Esses tipos, apre-
+sentadas na Tabela 2.1, fornecem uma estrutura para entender como as tecnologias me-
+diam nossa relacao com o mundo, afetando desde a percepcao ate a interacao direta. Essa
+estrutura permite mapear as diversas formas pelas quais a tecnologia molda a realidade
+humana e como essas relacoes influenciam e sao influenciadas por praticas humanas e
+sociais.
+
+Metodo
+O minicurso, com duracao total de 6 horas, foi organizado em quatro etapas principais,
+cujas descricoes sao apresentadas nas subsecoes a seguir.
+
+Definicao, Conceitos e Estado da Arte
+O minicurso iniciou com uma breve apresentacao e comparacao de conceitos relacionados
+aos metodos de design tradicional, design orientado para o futuro e design especulativo
+que foram discutidos na secao 2.2 deste artigo.
+
+Para contextualizar os participantes, foram apresentados dois estudos de caso re-
+alizados por outros autores, que ilustravam a aplicacao do design especulativo em di-
+ferentes cenarios [Edwards and Pettersen 2023], [Zhu et al. 2024]. Esses estudos foram
+explorados em detalhe, abordando seus objetivos, metodos, resultados e aspectos especifi-
+cos que dialogavam diretamente com a proposta do minicurso, facilitando a compreensao
+dos participantes.
+
+Apos a contextualizacao inicial, foi apresentado um exemplo pratico para que os
+alunos refletissem e conectassem os conceitos e abordagens do design especulativo a pra-
+tica. O cenario escolhido foi “transporte por aplicativo”, explorando aspectos fundamen-
+tais como o conceito de “ecossistemas sociotecnicos”. Nessa analise, foram destacadas as
+complexas inter-relacoes entre atores humanos, nao humanos, tecnologias e instituicoes,
+enfatizando como a tecnologia nos molda enquanto nos tambem moldamos a tecnolo-
+gia, em uma abordagem pos-fenomenologica das redes sociotecnicas, incorporando os
+conceitos da TMT.
+
+Alem disso, foi trabalhada a diferenca e a importancia de identificar “sinais" e
+“tendencias” como elementos propulsores na construcao de futuros possiveis. A Figura
+2.5 ilustra visualmente como esses elementos se conectam e se influenciam mutuamente,
+formando uma rede dinamica de interacoes que molda tanto a sociedade quanto os avan-
+cos tecnologicos no contexto do cenario proposto.
+
+Em seguida, foram discutidas as possiveis implicacoes dessas tendencias caso se
+concretizem no futuro, estimulando uma reflexao critica sobre seus potenciais impactos
+nos ecossistemas sociotecnicos. A discussao destacou a importancia de avaliar tanto os
+aspectos positivos quanto os negativos dessas transformacoes, considerando multiplas di-
+mensoes, como etica, social e ambiental. Esse momento reforcou o papel do Design
+Especulativo como uma ferramenta poderosa para explorar futuros possiveis e propor
+intervencoes que minimizem impactos adversos e maximizem os beneficios para a socie-
+dade.
+
+Os participantes foram entao instigados com a seguinte questao central: e se fosse
+possivel reconfigurar esse ecossistema futuro utilizando uma solucao tecnologica inova-
+dora? Essa questao teve o objetivo de despertar a curiosidade dos alunos e prepara-los
+para a etapa seguinte.
+
+Modelo de Design Especulativo e Ferramentas
+Esses conceitos formaram a base para a apresentacao do “Modelo de Design Especula-
+tivo" do minicurso, preparando os participantes para aplicar o conhecimento adquirido
+na construcao de cenarios futuros e na proposicao de solucoes inovadoras e eticas. O
+desenho geral do modelo esta apresentado na Figura 2.6.
+
+O modelo apresenta uma abordagem para explorar o design especulativo e suas
+ferramentas associadas.
+
+Apos a introducao do modelo de design especulativo, os participantes foram orga-
+nizados em quatro grupos de trabalho e foi apresentado o sequenciamento das atividades
+praticas, conforme ilustrado na Figura 2.7.
+
+Com isso, os participantes tiveram uma visao clara das atividades que seriam reali-
+zadas, da duracao planejada para cada atividade e uma compreensao geral das ferramentas
+que seriam utilizadas para apoiar a realizacao de cada uma delas.
+
+Cada grupo escolheu um tema e mapeou o ecossistema sociotecnico relacionado
+ao tema selecionado, identificando os atores humanos e nao humanos que o compunham,
+as relacoes entre eles e os fenomenos emergentes dessas interacoes. Alem disso, os grupos
+analisaram sinais e tendencias associados ao contexto, buscando compreender possiveis
+direcoes de evolucao.
+
+Os grupos conduziram uma analise critica do cenario, empregando ferramentas
+especificas para avaliar as implicacoes positivas e negativas caso as tendencias identifi-
+cadas se concretizassem no futuro. Essa analise incluiu reflexoes sobre a magnitude e os
+desdobramentos dos possiveis futuros, considerando as implicacoes no ecossistema soci-
+otecnico especulado, promovendo uma compreensao mais aprofundada dos potenciais
+impactos e cenarios resultantes.
+
+Com base nessa analise, os grupos projetaram uma solucao intervencionista de
+TI voltada para o cenario futuro. O objetivo dessa solucao foi mitigar as implicacoes
+negativas e potencializar as positivas, contribuindo para a criacao de um futuro mais etico
+e equilibrado. Ferramentas especificas foram utilizadas para apoiar o desenvolvimento
+dessa intervencao.
+
+Por fim, os grupos elaboraram narrativas futuras que incluiram a criacao de perso-
+nas representativas do cenario projetado, alem de quadros de responsabilidades que deta-
+lharam o papel de cada ator na nova configuracao sociotecnica. Essa etapa final enfatizou
+as implicacoes eticas do cenario futuro, estimulando reflexoes sobre como as solucoes
+propostas reconfiguravam as dinamicas e responsabilidades entre os atores envolvidos.
+
+Um conjunto de ferramentas foi utilizado para clarificar e detalhar as discussoes
+dos participantes, sendo complementado pelo uso de cadernos. Esses cadernos, projetados
+como artefatos de apoio, serviram para organizar e registrar as ideias geradas durante a
+aplicacao das ferramentas. A tabela 2.2 apresenta as ferramentas e os cadernos de apoio
+utilizados no minicurso, destacando como cada elemento contribuiu para as atividades
+realizadas.
+
+Foram utilizados cinco cadernos de apoio durante as atividades praticas:
+Caderno 1: apresenta um conjunto de cenarios pre-definidos, permitindo que cada
+grupo escolha aquele que deseja trabalhar.
+
+Caderno 2: utilizado para registrar informacoes relacionadas a “Roda de Impli-
+cacoes Sociotecnicas” e a “Roda de Possibilidades”. Nele, os participantes ano-
+tam as principais implicacoes oriundas das tendencias previamente identificadas na
+"Lousa Sociotecnica”. Alem disso, cada implicacao e classificada como positiva,
+negativa ou neutra, e sua magnitude e avaliada como baixa, media ou alta. Essas
+classificacoes fornecem uma base para o planejamento de prioridades, permitindo
+organizar as implicacoes de forma estrategica. O objetivo e identificar quais im-
+plicacoes negativas devem ser mitigadas e quais implicacoes positivas devem ser
+potencializadas, alinhando essas decisoes ao mapeamento realizado na "Roda de
+Possibilidades".
+
+Caderno 3: tem como objetivo registrar os resultados obtidos com a ferramenta
+“Cartas de Mediacao Tecnologica”. Este conjunto de cartas foi desenvolvido para
+auxiliar os participantes a especular sobre as possiveis relacoes entre humanos e tec-
+nologias, fundamentando-se nos sete tipos de mediacao tecnologica descritos por
+Verbeek [2005]. Por meio das cartas, os participantes sao estimulados a imaginar
+novas caracteristicas para o artefato, explorando ideias inovadoras e superando con-
+cepcoes previas. Ao longo do processo, o Caderno 3 e utilizado para documentar
+reflexoes detalhadas sobre as caracteristicas especuladas para o artefato. A estru-
+tura do caderno e organizada em secoes especificas para cada um dos sete tipos de
+relacao, permitindo que os insights e analises gerados sejam registrados de maneira
+clara e sistematica, promovendo um entendimento aprofundado das possibilidades
+exploradas.
+
+Caderno 4: projetado para apoiar a criacao de narrativas especulativas sob a pers-
+pectiva de personas e/ou nao humanos inseridos no ecossistema futuro onde a solu-
+cao de TI foi projetada. Seu principal objetivo e orientar os participantes na cons-
+trucao de historias que explorem cenarios especulativos, destacando as interacoes
+entre atores humanos e nao humanos, bem como as implicacoes eticas, sociais e
+tecnologicas das solucoes propostas. Organizado em etapas estruturadas, o caderno
+guia os participantes na identificacao de novos atores, na analise de suas relacoes
+com as tecnologias e no desenvolvimento de narrativas detalhadas que contextuali-
+zem o futuro imaginado. Ele promove a reflexao critica ao considerar os impactos
+positivos e negativos das mudancas projetadas, enquanto incentiva a criatividade ao
+apresentar as historias a partir do ponto de vista de personas especificas.
+
+Caderno 5: e um artefato projetado para auxiliar na atribuicao de responsabilidades
+dentro do contexto das narrativas futuras e de todo o processo desenvolvido pelos
+designers. Seu objetivo principal vincular as implicacoes previamente identificadas
+as responsabilidades especificas dos atores envolvidos, sejam eles humanos ou nao
+humanos. As informacoes sao organizadas em um quadro estruturado, no qual cada
+implicacao possui uma descricao detalhada das responsabilidades atribuidas a cada
+ator.
+
+Etapa de Apresentacao e Discussao das Especulacoes
+Ao termino das atividades praticas, cada grupo teve aproximadamente 10 minutos para
+compartilhar sua experiencia com o processo de design especulativo, apresentando o con-
+texto trabalhado e a narrativa futura desenvolvida. Essa etapa permitiu que os partici-
+pantes detallassem o cenario sociotecnico projetado e explicassem a solucao tecnologica
+concebida para intervir nesse futuro especulado.
+
+A discussao coletiva que se seguiu proporcionou um espaco rico para a troca de
+ideias e reflexoes. Os participantes discutiram tanto o processo de design especulativo
+que desenvolveram quanto as possibilidades de aplicar essa abordagem em suas vidas
+cotidianas e areas de atuacao profissional.
+
+Esse momento foi essencial para aprofundar a analise das implicacoes das espe-
+culacoes realizadas, promovendo um debate critico sobre os impactos sociais, eticos e
+tecnologicos das solucoes projetadas. Alem disso, a interacao entre os grupos favoreceu a
+construcao de perspectivas mais amplas e multidisciplinares, enriquecendo o aprendizado
+e destacando a relevancia do design especulativo como uma abordagem etica e responsa-
+vel para imaginar e moldar futuros desejaveis.
+
+Consideracoes Finais
+Encerramos o minicurso com um momento de sintese e reflexao, destacando os principais
+aprendizados adquiridos ao longo das atividades. Ressaltamos as teorias que fundamenta-
+ram as praticas realizadas, como a importancia de transcender um design centrado exclu-
+sivamente nos humanos para adotar uma abordagem mais ampla e relacional. Discutimos
+como o design precisa englobar a complexa interacao entre humanos e nao humanos,
+reconhecendo-os como parte de uma intricada rede sociotecnica, onde as relacoes entre
+os atores sao tao significativas quanto os proprios elementos que a compoem.
+
+Essa conclusao enfatizou a urgencia de repensar o papel do design em um mundo
+cada vez mais mediado por tecnologias e interdependencias. Um design relacional, alem de criar solucoes inovadoras, promove uma visao etica e inclusiva, na qual responsabilidades e impactos sao distribuidos entre todos os atores da rede. Esse fechamento buscou inspirar os participantes a aplicar essas ideias em seus proprios contextos, expandindo as fronteiras tradicionais do design e imaginando futuros mais integrados e sustentaveis.
+
+Impressoes Gerais das Esculacoes Realizadas
+As solucoes especulativas apresentadas pelos quatro grupos destacaram perspectivas criativas e inovadoras sobre o futuro, explorando tecnologias emergentes e suas possiveis aplicacoes em diferentes contextos. A seguir, apresenta-se um resumo de cada proposta desenvolvida:
+
+O primeiro grupo abordou o futuro dos aplicativos de relacionamento. Eles projetaram um aplicativo potencializado por IA, capaz de promover interacoes com usuarios de diversas culturas, linguas e localizacoes. O aplicativo integra dispositivos inteligentes no ambiente do usuario, oferecendo experiencias sensoriais avancadas, como controle de sons, luzes, cheiros e sensacoes fisicas. Com suporte de dispositivos de realidade virtual (RV), o app proporciona encontros imersivos no "mundo da Matrix". Alem disso, a IA monitora sinais quimicos, biologicos e comportamentais dos usuarios, oferecendo suporte psicoemocional e ajustando o ambiente via IoT conforme necessario.
+
+O segundo grupo focou nas plataformas de streaming do futuro, propondo um "Streaming Imersivo-Sensorial para 2030". Este servico foi concebido para dispositivos imersivos-sensoriais, captando e influenciando aspectos sensoriais e emocionais dos usuarios (incluindo humanos e ate pets). A tecnologia permite o controle de temperatura, iluminacao, sons e ventos no ambiente, criando uma experiencia sensorial personalizada. Os usuarios podem customizar o servico, restringindo as opcoes oferecidas pela tecnologia, de forma a garantir uma experiencia adaptada as suas preferencias.
+
+O terceiro grupo desenvolveu uma solucao de "Animacao Personalizada via Streaming", permitindo que usuarios criem narrativas transformadas em animacoes. Por exemplo, um pai poderia elaborar uma historia educativa e divertida para sua filha, incluindo personagens favoritos e licoes de moral. A plataforma tambem permite que amigos e familiares sejam incorporados as historias, promovendo uma experiencia criativa, interativa e compartilhavel.
+
+O quarto grupo explorou a tematica das apostas online, propondo uma solucao de "Monitoramento de Apostas com Smartwatch". Essa plataforma monitora os gastos em apostas e os sinais vitais dos usuarios por meio de smartwatches. Quando detecta gastos excessivos em um curto periodo, o sistema emite alertas sonoros e visuais, auxiliando no controle financeiro e emocional do apostador, promovendo maior responsabilidade no uso da plataforma.
+
+E relevante destacar que essas especulacoes foram fundamentadas em dados do presente, bem como em sinais e tendencias que possuem potencial de se concretizar no futuro. Todo o processo incentivou os participantes a nao apenas desenvolverem solucoes tecnologicas, mas tambem a refletirem criticamente sobre o futuro especulado e as implicacoes dessas solucoes no contexto projetado. Essa abordagem promoveu um exercicio de reflexao que transcendeu a mera criacao de artefatos, integrando uma analise etica e sociotecnica das possiveis transformacoes futuras.
+
+Conclusoes
+Por muito tempo, a Computacao seguiu uma logica em que o progresso tecnologico era exaltado sem grandes questionamentos, com velocidade e inovacao vistos como os principais indicadores de sucesso. Contudo, essa abordagem tem mostrado suas limitacoes, deixando-nos despreparados para lidar com os desafios eticos e ecologicos atuais. Em vez de fomentar uma visao critica e integrada das tecnologias que criamos, essa corrida pelo progresso tem afastado a Computacao das questoes sociais e ambientais que exigem atencao imediata.
+
+Para mudar esse cenario, a area de IHC precisa enfrentar as crises do presente de forma consciente, tratando a tecnologia nao como um fim, mas como uma ferramenta para repensar e enfrentar os desafios globais. Nesse contexto, o design especulativo, alinhado a uma visao pos-antropocentrica, surge como um elemento chave para transformar as praticas educacionais em IHC e Computacao, promovendo a integracao entre o tecnico e o social.
+
+
+
+Resumo
+Este capitulo aborda a avaliacao de usabilidade e experiencia do usuario (UX) em tec-
+nologias de Realidade Aumentada (RA) e Realidade Virtual (RV), destacando suas espe-
+cificidades e desafios. RA e RV oferecem experiencias imersivas que integram elementos
+virtuais ao mundo real ou criam ambientes digitais completos. O texto explora conceitos
+fundamentais, como imersao, presenca e fatores tecnicos que moldam a UX, alem de dis-
+cutir metodos de avaliacao, como testes com usuarios, inspecoes por especialistas e ques-
+tionarios, adaptados para sistemas imersivos. Sao apresentados desafios como a doenca
+do movimento e a variabilidade de dispositivos, assim como praticas para planejamento
+e execucao de testes com usuarios. O capitulo propoe combinar metodos quantitativos e
+qualitativos para avaliar melhor a experiencia dos usuarios e aprimorar solucoes imer-
+sivas.
+
+Introducao
+Com o avanco acelerado das tecnologias imersivas, a Realidade Aumentada (RA) e a
+Realidade Virtual (RV) tornaram-se ferramentas cada vez mais relevantes em uma ampla
+gama de setores, desde entretenimento ate educacao, saude e industria. Ambas as tecnolo-
+gias oferecem novos paradigmas de interacao, proporcionando experiencias envolventes e
+altamente interativas, onde os usuarios podem interagir com elementos virtuais no mundo
+real ou serem transportados para ambientes totalmente digitais. Essas inovacoes, embora
+poderosas, trazem consigo desafios relacionados a usabilidade e a experiencia do usuario
+(User eXperience, UX).
+
+Avaliar adequadamente a usabilidade e a UX em ambientes de RA e RV e essen-
+cial para garantir que essas solucoes sejam eficientes, acessiveis e agradaveis. No entanto,
+os metodos tradicionais de avaliacao de interfaces nem sempre sao suficientes para lidar
+com as especificidades das interacoes em RA e RV, que envolvem novos tipos de disposi-
+tivos, formas de interacao e a necessidade de captar dimensoes como imersao e presenca.
+Neste capitulo, exploramos os conceitos fundamentais de RA e RV, a relacao entre usa-
+bilidade e UX nesses contextos, os metodos e desafios para sua avaliacao, e sugerimos
+um processo detalhado para conduzir testes com usuarios, adaptado as particularidades
+dessas tecnologias.
+
+Introducao a Realidade Aumentada e Realidade Virtual
+A RA e RV revolucionam como os seres humanos interagem com ambientes digitais,
+oferecendo experiencias imersivas e interativas. Enquanto a RV cria ambientes totalmente
+digitais, nos quais os usuarios sao transportados para realidades sinteticas, a RA sobrepoe
+elementos virtuais ao ambiente fisico em tempo real, permitindo que ambos coexistam.
+Cada uma dessas tecnologias oferece distintas possibilidades de interacao e e amplamente
+utilizada em diferentes setores, como educacao, entretenimento, saude e industria.
+
+Definicao de Realidade Aumentada
+A RA pode ser definida como um sistema interativo que combina o mundo real com
+elementos virtuais gerados por computador, proporcionando uma experiencia visual e
+interativa em tempo real [Azuma et al. 2001]. A principal caracteristica da RA e a ca-
+pacidade de alinhar e integrar esses elementos virtuais precisamente no ambiente fisico,
+criando uma percepcao de que os objetos digitais fazem parte do mundo real conforme
+apresentado por [Milgram and Kishino 1994]. Essa tecnologia e amplamente aplicada
+em dispositivos moveis, como smartphones e tablets, alem de smartglasses e headsets
+dedicados, permitindo que os usuarios interajam com informacoes digitais de maneira
+intuitiva e natural.
+
+Um exemplo notavel da aplicacao de RA e o uso de filtros interativos em aplica-
+tivos de redes sociais, onde o ambiente fisico do usuario e ampliado com sobreposicoes
+graficas, criando uma interacao unica entre o virtual e o real. Alem disso, a RA tem sido
+amplamente utilizada em areas como a educacao e o marketing, oferecendo solucoes que
+aumentam o engajamento e a compreensao dos usuarios [Cipresso et al. 2018].
+
+Definicao de Realidade Virtual
+A RV, por outro lado, e uma tecnologia que proporciona uma imersao completa em um
+ambiente digital, eliminando a percepcao do mundo real. Em ambientes de RV, o usuario
+e colocado em um cenario totalmente sintetico, que responde em tempo real as suas acoes
+[Burdea and Coiffet 2024]. Isso cria uma forte sensacao de presenca, na qual os usuarios
+sentem que estao fisicamente presentes no ambiente virtual, um conceito conhecido como
+"telepresenca" [Slater and Wilbur 1997].
+
+A RV e frequentemente utilizada em jogos, simuladores de treinamento e aplica-
+coes educacionais, proporcionando experiencias intensas e realistas que seriam dificeis
+de replicar no mundo fisico. Por exemplo, simuladores de voo e de cirurgias medicas per-
+mitem que os usuarios pratiquem em ambientes controlados e seguros, melhorando suas
+habilidades sem os riscos envolvidos em atividades reais.
+
+Diferencas entre RA e RV
+Embora RA e RV compartilhem o objetivo de proporcionar experiencias digitais imersi-
+vas, suas abordagens e impactos no usuario diferem significativamente. A RA comple-
+menta o mundo fisico ao adicionar informacoes digitais, enquanto a RV substitui com-
+pletamente o ambiente fisico por um cenario digital. Na RA, o usuario continua ciente
+do mundo ao seu redor, pois elementos digitais sao sobrepostos a realidade. Na RV, no
+entanto, o ambiente fisico e totalmente substituido, transportando o usuario para um am-
+biente virtual que pode ou nao se assemelhar a realidade.
+
+A distincao entre RA e RV e importante na escolha de uma aplicacao para determi-
+nado uso. Por exemplo, na educacao, a RA pode ser usada para enriquecer o aprendizado
+com informacoes adicionais em tempo real [Sahin et al. 2018, Singh et al. 2023], como
+no estudo de anatomia, onde modelos 3D podem ser sobrepostos ao corpo humano para
+uma melhor compreensao. Por outro lado, a RV pode ser mais eficaz em simulacoes onde
+e necessario criar um ambiente completamente controlado e imersivo, como em treina-
+mentos militares ou medicos [Elliman et al. 2016, Basdogan et al. 2007].
+
+Realidade Misturada e o Continuo de Milgram
+Entre os conceitos de RA e RV, existe a Realidade Misturada (RM), ou Realidade Mista,
+uma tecnologia que combina de forma mais intensa elementos virtuais e fisicos, per-
+mitindo uma integracao ainda mais profunda entre o digital e o real. De acordo com
+Milgram e Kishino [1994], a RM se encontra em um ponto intermediario no “Continuo
+de Realidade-Virtualidade” (Figura 3.1), que varia do ambiente completamente real ao
+ambiente completamente virtual. A RM permite que o usuario interaja com objetos digi-
+tais como se fossem parte integrante do ambiente fisico, criando experiencias altamente
+interativas e imersivas [Parveau and Adda 2018].
+
+Esse continuo descreve as varias formas de integracao entre os mundos fisico e
+virtual, destacando como as tecnologias de RA, RM e RV podem ser usadas em dife-
+rentes graus para criar experiencias digitais que variam de uma simples sobreposicao de
+informacoes a imersao total em um ambiente virtual.
+
+Novas interpretações das realidades digitalizadas atualizam o modelo de Milgram
+e Kishino [1994], destacando o papel da experiencia e percepcao do usuario em vez de
+se basear apenas no tipo de tecnologia. Skarbez et al. [2021] propoem que toda RV, em
+algum nivel, e uma forma de RM, pois mesmo em ambientes virtuais imersivos, estimulos
+reais, como percepcoes corporais internas, continuam a influenciar a experiencia (Figura
+3.2).
+
+Ja Rauschnabel et al. [2022] apresentam um modelo com dois continuos (Figura
+3.3): a RA, que varia de realidade assistida a misturada, e a RV, que vai de experiencias
+atomisticas a holisticas, redefinindo a XR como "XReality", adaptavel a diferentes graus
+de imersao e interacao. Alem disso, Rauschnabel et al. [2022] destacam que a RA se
+adequa melhor a interacoes sociais continuas e causa menos desconforto por movimento
+(motion sickness), enquanto a RV oferece experiencias mais temporarias, geralmente aplicadas em locais especificos. Os autores abordam ainda o conceito de realidade diminuida,
+em que elementos reais sao ocultados para intensificar a experiencia virtual, expandindo
+o entendimento das possibilidades de integracao entre mundos fisico e digital.
+
+Por fim, a UX em RA, RM e RV e moldada por dimensoes fundamentais como
+Extensao do Conhecimento de Mundo (ECM), Imersao e Coerencia, que juntas sustentam
+a sensacao de presenca [Skarbez et al. 2021b, Skarbez et al. 2022]. ECM reflete a capacidade do sistema de entender o ambiente fisico; Imersao, a profundidade das interacoes
+sensoriais e motoras; e Coerencia, a consistencia dessas interacoes. A integracao dessas dimensoes contribui para criar experiencias digitais que vao alem da separacao entre fisico e virtual, conectando ambos os mundos de forma fluida e convincente.
+
+Aplicacoes e Potencial Futuro
+O potencial da RA, RV e RM vai alem do entretenimento e da educacao. Areas como
+a saude, a industria e o varejo tem explorado essas tecnologias para melhorar processos,
+aumentar a seguranca e proporcionar experiencias mais envolventes.
+
+Na industria, por exemplo, a RA e utilizada para auxiliar em processos de manu-
+tencao e montagem, permitindo que trabalhadores visualizem informacoes criticas direta-
+mente em seu campo de visao [Havard et al. 2021]. RA também pode ser aplicada em exi-
+bicoes e museus [Spadoni et al. 2022, Chen and Mokmin 2024], tarefas de navegacao e
+orientacao geografica [Lu et al. 2024] e apoio a procedimentos medicos [Touati et al. 2021,
+Li et al. 2024], por exemplo.
+
+Ja a RV tem sido fundamental em treinamentos e simulacoes, proporcionando
+ambientes de aprendizado controlados e realistas. RV também pode ser usada para o
+proposito de turismo virtual [Ciliberti et al. 2023], design e prototipagem de produtos [Min et al. 2019] ou de projetos de engenharia e arquitetura [Strzalkowski et al. 2024,
+R et al. 2023], ou ainda em atividades de reabilitacao e terapia [Pereira et al. 2020, Jha et al. 2024],
+por exemplo.
+
+Com o avanco das tecnologias e a popularizacao de dispositivos mais acessiveis,
+espera-se que o uso de RA, RV e RM continue a crescer, trazendo inovacoes e solucoes cada vez mais imersivas e interativas.
+
+Usabilidade e Experiencia do Usuario em RA e RV
+Dando continuidade a exploracao dos conceitos fundamentais, e importante compreender
+como essas tecnologias afetam diretamente a interacao do usuario com os sistemas e o
+ambiente. Para avaliar a qualidade dessa interacao, torna-se essencial o estudo de dois
+conceitos centrais: a usabilidade e a experiencia do usuario (UX). Ambos sao criticos
+para garantir que as solucoes em RA e RV sejam eficazes, eficientes e agradaveis para
+quem as utiliza.
+
+Definicao de Usabilidade
+Usabilidade refere-se a facilidade de uso de um sistema por parte dos usuarios, com foco
+em tres aspectos principais: eficacia, eficiencia e satisfacao. Conforme as normas ISO
+9241-11 e ISO 9241-210, a usabilidade e a capacidade de um produto ser utilizado por
+usuarios especificos para alcancar objetivos definidos de forma eficaz, eficiente e com
+satisfacao, em um determinado contexto de uso [ISO 2018, ISO 2019]. Na pratica, a
+usabilidade visa garantir que o sistema ou produto atenda as necessidades do usuario com
+o minimo de esforco e maxima produtividade.
+
+Em solucoes de RA e RV, a usabilidade ganha um papel ainda mais importante
+devido a natureza imersiva dessas tecnologias. A maneira como o usuario interage com
+o ambiente virtual ou aumentado pode influenciar significativamente sua percepcao de
+eficacia e controle sobre o sistema. Elementos como o tempo de resposta, a facilidade de
+interacao com objetos virtuais e o conforto ao utilizar dispositivos de visualizacao, como
+headsets, sao fatores criticos que influenciam a usabilidade nessas plataformas.
+
+Definicao de Experiencia do Usuario
+A UX vai alem da usabilidade, abrangendo todos os aspectos da interacao de uma pessoa
+com um produto ou sistema, desde o design ate as respostas emocionais e psicologicas
+resultantes dessa interacao [Hassenzahl 2011]. A UX considera nao apenas a facilidade
+de uso de um sistema, mas também a satisfacao e o prazer que o usuario sente ao utilizá-
+lo. Fatores como motivacao, estetica, percepcao de valor e atratividade sao componentes
+centrais da UX.
+
+Em contextos de RA e RV, a UX e ainda mais complexa, por envolver a percepcao
+de presenca. Solucoes em RA e RV devem conseguir oferecer uma UX positiva, equili-
+brando aspectos tecnicos, como qualidade grafica e interatividade, com fatores subjetivos,
+como o engajamento emocional e o prazer da experiencia.
+
+Dimensões da Usabilidade e da UX
+A usabilidade em RA e RV pode ser avaliada por meio de diversas dimensoes que buscam
+capturar diferentes aspectos da interacao do usuario com o sistema. Entre as principais
+dimensões estão:
+Eficacia: Avalia se o usuario consegue realizar as tarefas propostas de maneira cor-
+reta e completa. Em RA e RV, isso envolve a precisao dos movimentos e interacoes
+do usuario com o ambiente digital.
+
+Eficiencia: Refere-se ao tempo e esforco necessarios para realizar as tarefas. Em
+solucoes imersivas, a eficiencia esta fortemente ligada a rapidez de resposta do
+sistema.
+
+Satisfacao: Mede em que grau a solucao atende as expectativas do usuario. Em
+RA e RV, a satisfacao pode ser impactada pela qualidade da imersao e pela fluidez
+das interacoes.
+
+“Aprendibilidade” (learnability): Em RA e RV, e fundamental que os usuarios
+consigam aprender rapidamente como interagir com o sistema, especialmente em
+casos onde os gestos e controles diferem dos metodos de interacao tradicionais.
+
+Conforto: O uso prolongado de dispositivos de RA e RV pode causar desconforto
+fisico, como fadiga visual ou dor de cabeca. Avaliar o conforto e essencial para
+garantir uma experiencia positiva a longo prazo [Cummings and Bailenson 2016].
+
+Por outro lado, a UX em RA e RV inclui dimensoes que abordam tanto os aspectos
+pragmaticos da interacao quanto os hedonicos, ou seja, aqueles relacionados ao prazer e
+as emocoes que o sistema proporciona. Hassenzal [2011] propoe um modelo de UX que
+inclui dimensoes como:
+Motivacao: Refere-se a capacidade do sistema de despertar o interesse e manter o
+usuario engajado.
+
+Desejabilidade: Avalia o quanto o usuario se sente atraido pelo sistema e como
+essa percepcao influencia sua intencao de continuar usando a tecnologia.
+
+Prazer e Diversão: Sao dimensoes que avaliam o quao agradavel e divertida foi a
+experiencia para o usuario, contribuindo para uma percepcao positiva da tecnologia.
+
+Imersao e Presenca em RA e RV
+Imersao e comumente entendida como o envolvimento profundo em uma atividade ou nar-
+rativa, que pode ser sensorial, cognitiva, emocional ou social [Murray 1998, Ryan 2010,
+Brown and Cairns 2004]. As diferentes formas de imersao proporcionam experiencias di-
+versas, desde o engajamento emocional e mental em historias e atividades ate a sensacao
+fisica de presenca [Murray 1998, Ryan 2010, Slater and Wilbur 1997, Calleja 2011]. Em
+RV e RA, Imersao e Presenca sao conceitos interligados e fundamentais para a quali-
+dade da experiencia. Sao conceitos discutidos em termos de objetividade e subjetividade
+[Slater and Wilbur 1997, Steuer 1992, Skarbez et al. 2017, Murphy and Skarbez 2022].
+
+Imersao e a qualidade tecnica de um sistema que gera a sensacao de estar “imerso”
+em um ambiente virtual ou aumentado [Berkman and Akan 2019]. Na RV, a imersao de-
+pende de como o sistema envolve os sentidos do usuario, como visao, audicao e tato, para
+criar uma experiencia convincente [Steuer 1992], levando a telepresenca. Quanto mais
+rica e interativa for a capacidade tecnica do sistema, maior sera a sensacao de presenca (Figura 3.4). Ela e medida por fatores como campo de visao, fidelidade grafica, interatividade e complexidade dos estimulos sensoriais [Rauschnabel et al. 2022]. Na RA,
+imersao e a capacidade de integracao dos elementos virtuais ao ambiente fisico, fazendo-os parecer parte do mundo real [Skarbez et al. 2021a]. A imersao impacta a usabilidade,
+ao promover um envolvimento profundo, facilitando a interacao e aumentando o engajamento do usuario [Rauschnabel et al. 2022].
+
+A Presenca, por sua vez, esta relacionada a percepcao subjetiva do usuario. Na
+RV, presenca e a sensacao de “estar la”, onde o usuario se sente transportado para um ambiente virtual diferente do mundo real, um conceito chamado telepresenca [Steuer 1992,
+Slater 1999]. Na RA, presenca e a percepcao de que os elementos virtuais estao integrados ao mundo real, como se realmente existissem ali [Skarbez et al. 2022]. A sensacao de
+presenca e influenciada pela credibilidade do ambiente ou elementos virtuais, o nivel de
+envolvimento e a capacidade de interacao natural do usuario [Murphy and Skarbez 2022,
+Skarbez et al. 2017]. A presenca aumenta a satisfacao, ao oferecer um ambiente virtual
+ou aumentado autentico e responsivo [Steuer 1992, Skarbez et al. 2017].
+
+Avaliar a usabilidade e a UX em RA e RV, considerando imersao e presenca,
+ajuda a identificar melhorias que tornam os ambientes mais cativantes e realistas e e,
+portanto, um processo essencial para o desenvolvimento de solucoes que proporcionem
+experiencias agradaveis e eficazes.
+
+Metodos e Desafios de Avaliacao de Usabilidade e UX em RA e RV
+Avaliar a usabilidade e a UX em ambientes imersivos requer abordagens que vao alem dos
+metodos tradicionais, devido as particularidades da interacao com esses sistemas. Nesta
+secao, discutiremos os principais desafios enfrentados ao avaliar a usabilidade e UX em
+RA e RV, bem como os metodos disponiveis para essa avaliacao.
+
+Tradicionalmente, os metodos de avaliacao de usabilidade e UX costumam ser
+classificados em testes com usuarios, inspecao por especialistas, feedback de usuarios e
+modelagem ou simulacao [Ivory and Hearst 2001, Roto et al. 2009]. Sendo os tres pri-
+meiros, os metodos mais comuns.
+
+Testes com Usuarios
+Os testes com usuarios oferecem informacoes detalhadas sobre a experiencia real dos
+usuarios, permitindo a coleta de diversos tipos de dados. Alem da observacao do com-
+portamento, e possivel registrar informacoes sobre o que o usuario esta enxergando e
+ouvindo, bem como detalhes da interacao, movimento e posicionamento, e dados fisiolo-
+gicos. Informacoes relativas a interacao, como icones, menus, objetos e outros elementos
+de interface acessados, incluindo tempo, frequencia e quantidade, também podem ser co-
+letadas utilizando o proprio sistema testado ou plugins embutidos.
+
+Sensores integrados ao equipamento ou estrategicamente posicionados no ambi-
+ente permitem o registro de movimentos da cabeca, mãos e corpo, incluindo gestos. Mo-
+vimentos da cabeca e do corpo sao essenciais para entender a interacao dos usuarios com o
+ambiente, mas podem exigir configuracoes especificas no sistema para serem capturados
+corretamente [Satkowski et al. 2021]. Dados fisiologicos, como batimentos cardiacos,
+rastreamento ocular, frequencia de piscadas, dilatacao das pupilas e variacoes de tempe-
+ratura corporal, podem ser obtidos por meio de dispositivos vestiveis, cameras e sensores
+de biofeedback.
+
+Nos testes de RA e RV, e necessario considerar o ambiente fisico onde o teste
+ocorre. Por exemplo, um ambiente real muito quente pode prejudicar a sensacao de pre-
+senca em um cenario de RV que simula uma visita a Antartida. Em sistemas de RA, o
+contexto fisico também pode influenciar a experiencia, devido as condicoes de ilumina-
+cao, interferencias externas ou a presenca de moveis e pessoas no local.
+
+Observar em tempo real a experiencia do usuario pode ser desafiador, especial-
+mente em RA e RV, devido a dificuldade de acompanhar sua visao em uma tela separada,
+aumentando a complexidade e o custo da configuracao dos testes. Alem disso, monito-
+rar a visao do usuario ou capturar certos dados pode demandar alto processamento do
+sistema, impactando o desempenho da solucao testada. Fatores ambientais, como a ilu-
+minacao, podem afetar a precisao dos dados registrados. Outra desvantagem dos testes
+com usuarios e que eles exigem tempo, recursos e planejamento cuidadoso para simular
+adequadamente o ambiente de uso. Manter a consistencia do ambiente fisico em diferen-
+tes sessoes de teste e lidar com a variabilidade de dispositivos sao desafios adicionais a
+serem considerados [Derby and Chaparro 2021].
+
+Outro aspecto importante e o uso do protocolo Think Aloud, no qual os usuarios
+verbalizam seus pensamentos enquanto realizam as tarefas. Embora esse metodo seja util para identificar problemas de usabilidade, ele pode interferir na imersao dos participantes
+em ambientes de RA e RV, devendo, portanto, ser aplicado com cautela.
+
+Inspecao por Especialistas
+A inspecao por especialistas e um metodo mais rapido e economico para identificar pro-
+blemas de usabilidade, pois nao requer participacao de usuarios finais. Os especialistas
+avaliam o sistema com base em heuristicas de usabilidade ou listas de verificacao especí-
+ficas. No entanto, esse metodo pode falhar em capturar a experiencia subjetiva do usuario,
+especialmente em aspectos como diversao e presenca.
+
+Tradicionalmente, as heuristicas de usabilidade, como as propostas por Nielsen
+[2012], não sao suficientes para ambientes imersivos de RA e RV. E necessario adaptar ou
+desenvolver novas heuristicas que considerem a especificidade dessas tecnologias, como
+a presenca de interacoes naturais, o uso do espaco tridimensional e a integracao entre o
+real e o virtual [Derby and Chaparro 2021].
+
+Outra dificuldade e realizar a tarefa de inspecionar o ambiente imersivo sem estar
+experienciando-o ao mesmo tempo. Por exemplo, ao inspecionar um aplicativo de dis-
+positivo movel ou software de computador, o especialista consegue enxergar e manipular
+o sistema em uma tela enquanto registra problemas em uma planilha ou caderno. Para
+inspecionar ambientes imersivos, entretanto, ele precisa recorrer a sua memoria ou fre-
+quentemente entrar/sair do ambiente para realizar a inspecao, e isso prejudica o resultado.
+
+Modelagem Analítica e Simulação
+A modelagem analítica pode ser utilizada para prever problemas de usabilidade em siste-
+mas. Essa abordagem envolve o uso de modelos teoricos ou simulacoes computacionais
+para antecipar o comportamento do usuario e identificar potenciais barreiras de usabili-
+dade [Ivory and Hearst 2001].
+
+Em sistemas complexos de RA e RV, a simulacao da interacao pode ajudar a prever
+como os usuarios irão responder a diferentes estimulos visuais e interativos, permitindo
+ajustes antes mesmo da realizacao de testes com usuarios. Embora promissor, esse me-
+todo ainda enfrenta desafios, como a necessidade de modelos precisos que capturem toda
+a complexidade das interacoes imersivas.
+
+Um exemplo pratico dessa abordagem foi apresentado por Sutcliffe e Kaur [2000],
+que desenvolveram um metodo de avaliacao de interfaces de RV baseado em uma exten-
+sao do modelo de acao de Norman. Por um processo de walkthrough analítico, o estudo
+propos a simulacao de ciclos de interacao com tarefas especificas em um ambiente virtual,
+identificando problemas de usabilidade como desorientacao espacial e dificuldades na ma-
+nipulacao de objetos. A aplicacao desse modelo permitiu prever e diagnosticar barreiras
+de interacao antes da implementacao completa do sistema, demonstrando a eficacia da
+modelagem teorica para antecipar comportamentos de usuarios em ambientes imersivos.
+
+Feedback de Usuarios
+Os feedbacks de usuarios sao realizados principalmente por meio do preenchimento de
+questionarios ou realizacao de entrevistas e sao otimos para coletar dados subjetivos sobre a percepcao dos usuarios em relacao a satisfacao, conforto, opiniões e sentimentos, por
+exemplo. Em relacao ao uso de questionarios, costuma-se usar escalas Likert, de diferen-
+cial semantico, numericas ou mesmo questões com respostas abertas. As escalas facilitam
+a analise quantitativa dos dados, enquanto as respostas abertas e entrevistas demandarão
+analises qualitativas.
+
+Existem inumeros questionarios para avaliar a usabilidade e a UX de sistemas
+interativos, como o System Usability Scale (SUS) [Brooke 1996], o Usefulness, Satis-
+faction and Ease of Use (USE) [Lund 2001], o User Experience Questionnaire (UEQ)
+[Laugwitz et al. 2008] e o NASA Task Load Index (NASA-TLX) [Hart and Staveland 1988].
+Entretanto, estes questionarios não foram projetados para experiencias RA/RV e podem
+deixar passar algumas dimensões importantes para a avaliacao.
+
+Alguns questionarios foram criados para avaliar algumas dimensões da experi-
+encia em RA e RV. Alguns avaliam apenas a doenca do movimento, como o Simulator
+Sickness Questionnaire (SSQ) [Kennedy et al. 1993] e o Motion Sickness Assessment
+Questionnaire (MSAQ) [Gianaros et al. 2001]. Outros focam nas dimensões de imersao
+e presenca, como Slater-Usoh-Steed Inventory (SUS) [Slater et al. 1994], Presence Ques-
+tionnaire (PQ) [Witmer and Singer 1998], Immersive Tendencies Questionnaire (ITQ)
+[Witmer and Singer 1998], o Measurement, Effects, Conditions - Spatial Presence Ques-
+tionnaire (MEC-SPQ) [Vorderer et al. 2004] e o Igroup Presence Questionnaire (IPQ)
+[Schubert et al. 2001].
+
+Ha questionarios criados para avaliar solucoes em RV ou RA de forma mais abran-
+gente, tentando cobrir o maximo de aspectos relacionados, como o VR Usability Diag-
+nostic Tool (VRUSE) [Kalawsky 1999], o índice de Experiencia de Usuario em Realidade
+Virtual (iUXRV) [Cheiran et al. 2022], o Handheld Augmented Reality Usability Scale
+(HARUS) [Santos et al. 2014] e o Usability and User Experience Evaluation in Toucha-
+ble Hologram (UUXE-ToH) [Campos et al. 2024, Prado De Campos et al. 2024].
+
+A avaliacao por feedback de usuarios deve considerar que as respostas podem
+ser influenciadas por fatores emocionais ou pela ultima parte da experiencia, resultando
+em vieses de recencia [Hartson and Pyla 2012]. O efeito da novidade e a complexi-
+dade da tecnologia podem resultar em respostas exageradamente positivas ou negativas
+[Sharples et al. 2008]. Com relacao aos questionarios, os usuarios podem ter dificulda-
+des em compreender termos especificos. Alem disso, a falta de padronizacao nas mé-
+tricas, principalmente quando se usam questionarios adhoc, cria um desafio significativo
+para comparar resultados entre diferentes pesquisas [Merino et al. 2020]. Incorporar os
+questionarios no proprio ambiente RA/RV pode interromper a experiencia imersiva e ser
+desconfortavel, afetando a precisao das respostas [Cummings and Bailenson 2016].
+
+Outros Desafios de Avaliação
+A avaliacao da usabilidade e da UX em RA e RV apresenta desafios unicos em relacao
+a outras tecnologias interativas. Esses desafios surgem principalmente devido a com-
+plexidade das interacoes imersivas, a variedade de dispositivos e a natureza subjetiva da
+experiencia dos usuarios.
+
+Interacao Imersiva: Em ambientes de RA e RV, os usuarios interagem de ma-
+neira imersiva com objetos virtuais, o que pode envolver gestos manuais, movimentos de
+cabeca, controle por voz e ate a movimentacao física no espaco. Essa riqueza de intera-
+coes, embora positiva para a experiencia do usuario, dificulta capturar e medir objetiva-
+mente a usabilidade e a UX. O uso de diferentes dispositivos de interacao, como controla-
+dores manuais ou sistemas de rastreamento ocular, também pode introduzir variações sig-
+nificativas na maneira como os usuarios interagem com o ambiente [Merino et al. 2020].
+
+Imersao e Presença: A imersao e a presenca, como discutido na secao anterior,
+são fatores críticos para a experiencia do usuario em RA e RV. No entanto, avaliá-los de
+maneira quantitativa pode ser desafiador, principalmente em relacao a presenca, uma vez
+que são experiencias subjetivas e podem variar significativamente entre os usuarios.
+
+Motion Sickness (Cinetose): A cinetose induzida virtualmente, também conhe-
+cida como cybersickness, e um desafio comum em experiencias de RV. Ela ocorre quando
+ha um descompasso entre os estimulos visuais e o que o corpo do usuario percebe em
+termos de movimento e equilibrio. Esse desconforto pode afetar significativamente a ex-
+periencia e, consequentemente, a usabilidade e UX do sistema [Bos 2017]. Em contextos
+de avaliacao, e importante monitorar e mitigar a ocorrencia de cinetose, por poder influ-
+enciar negativamente os resultados.
+
+Variação entre Dispositivos: RA e RV envolvem uma ampla gama de dispositi-
+vos, desde smartphones e tablets ate headsets sofisticados, como o Microsoft HoloLens
+e o Meta Quest. Cada dispositivo oferece diferentes níveis de qualidade visual, fideli-
+dade de interacao e conforto, o que pode resultar em variações na experiencia do usuario
+[Derby and Chaparro 2021]. Alem disso, a qualidade do hardware, como a resolução das
+telas e a taxa de atualização, pode impactar diretamente na imersao e no desconforto fisico
+dos usuarios.
+
+Considerações Finais sobre Metodos de Avaliação
+A escolha do metodo de avaliacao depende diretamente do objetivo do estudo e dos re-
+cursos disponíveis. Para uma avaliacao completa de usabilidade e UX em ambientes de
+RA e RV, a combinação de varios metodos, como testes com usuarios, questionarios es-
+pecificos e inspecões por especialistas, e essencial [Pranoto et al. 2017, Rhiu et al. 2020,
+Zhang et al. 2020]. A utilizacao de metricas objetivas (como tempo de tarefa e precisao)
+junto a avaliações subjetivas (via questionarios como NASA-TLX e SSQ) proporciona
+uma visão mais holística da interacao do usuario com o sistema [Frata Furlan Peres et al. 2024].
+Essa abordagem multidimensional e fundamental para capturar tanto os aspectos tecnicos
+quanto as percepções e reacoes dos usuarios, garantindo que o sistema não apenas funci-
+one corretamente, mas também atenda de maneira eficaz e satisfatoria as necessidades e
+expectativas dos usuarios.
+
+Processo de Avaliação com Usuarios em RA e RV
+Apos discutir os metodos e desafios para a avaliacao de usabilidade e UX em ambientes
+de RA e RV, e necessario detalhar o processo de avaliacao com usuarios, o qual e a
+base para coletar dados empíricos e entender como os usuarios interagem e respondem
+às tecnologias imersivas. A seguir, exploraremos o processo de planejamento, preparação
+e execucao de testes com usuarios nesses ambientes, considerando as particularidades envolvidas.
+
+Planejamento e Preparação
+A primeira etapa para a conducao de uma avaliacao eficaz e o planejamento. Este envolve
+definir o escopo do estudo, as questões de pesquisa, o público-alvo e os metodos que serão
+usados para coletar dados. Um planejamento cuidadoso e essencial para garantir que o
+processo de avaliacao seja conduzido de forma a capturar as nuances da experiencia dos
+usuarios com essas tecnologias imersivas.
+
+Escopo e Objetivos
+Definir o escopo e os objetivos da avaliacao e o ponto de partida. O escopo inclui o
+sistema ou solucao a ser avaliado e as questões que a pesquisa pretende responder. Por
+exemplo, um estudo de avaliacao de uma solucao de RA pode focar em questões como a
+facilidade de navegacao no ambiente aumentado ou o impacto dos elementos virtuais na
+compreensao de informacoes pelo usuario. Ja um estudo com RV pode abordar aspectos
+como a sensacao de presenca e o conforto durante a utilizacao prolongada do sistema
+(Bowman et al., 2005; Slater, 2009).
+
+E fundamental considerar como a integracao entre o mundo real e o ambiente vir-
+tual afetara as metricas de usabilidade e UX. Questões como a precisão dos movimentos
+do usuario, a latencia entre acoes e respostas, e o nível de conforto proporcionado pelos
+dispositivos precisam ser incorporadas aos objetivos da avaliacao.
+
+Equipamentos e Configurações Tecnicas
+
+A escolha dos equipamentos a serem utilizados e um passo crucial no planejamento, es-
+pecialmente devido a diversidade de dispositivos de RA e RV disponíveis no mercado.
+Para garantir a eficacia dos testes, e importante selecionar dispositivos que ofereçam uma
+experiencia fluida e confortavel aos participantes. Um fator a ser considerado e a taxa de
+atualizacao dos dispositivos de visualizacao, que deve ser de pelo menos 90 Hz para evi-
+tar atrasos perceptíveis que podem causar desconforto, como motion sickness (Kennedy
+et al., 1993).
+
+Alem disso, a resolução grafica deve ser suficientemente alta para proporcionar
+uma experiencia visual imersiva sem comprometer o desempenho do sistema. Em tes-
+tes de RV, dispositivos como o Meta Quest 2 ou PlayStation VR2 sao opcões populares,
+enquanto na RA, smartglasses como o Microsoft HoloLens ou o Magic Leap 2 sao am-
+plamente utilizados.
+
+Ambiente e Contexto de Uso
+
+O ambiente onde a avaliacao sera realizada desempenha um papel importante, porque o
+contexto fisico influencia diretamente a experiencia do usuario. A iluminacao, os ruí-
+dos ambientais e o espaco fisico disponível devem ser cuidadosamente planejados para garantir que a interacao entre o real e o virtual ocorra adequadamente.
+
+No caso da RA, o ambiente deve ser suficientemente variado para permitir que os
+usuarios experimentem diferentes contextos, como ambientes internos e externos. Isso
+ajuda a avaliar como as condições físicas afetam a percepcao dos elementos virtuais e a
+capacidade do usuario de interagir com eles de forma eficiente (Satkowski et al., 2021).
+
+Metodos de Interação e Procedimentos
+
+Os metodos de interacao com o sistema devem ser definidos conforme as caracteristicas
+do dispositivo e do sistema avaliados. Em RA e RV, os usuarios podem interagir por
+meio de gestos manuais, movimentos da cabeca, comandos de voz ou controles manuais
+(joystick). A escolha do metodo de interacao impacta diretamente a usabilidade e a UX,
+e deve ser considerada durante a preparação dos testes.
+
+Outro ponto a ser considerado e o tipo de procedimento de experimentacao, que
+pode seguir um formato between-subjects ou within-subjects. No primeiro, diferentes
+grupos de usuarios testam diferentes condicoes, enquanto no segundo, os mesmos usuá-
+rios testam todas as condicoes. Cada abordagem tem suas vantagens, mas em RA e RV,
+o metodo within-subjects pode ser interessante para avaliar como os usuarios se adaptam
+ao ambiente imersivo ao longo do tempo.
+
+Recrutamento de Participantes
+O recrutamento de participantes deve seguir criterios específicos, considerando o público-
+alvo da solucao. Fatores como experiencia previa com tecnologias imersivas, familiari-
+dade com o tipo de interacao e preferencias pessoais podem influenciar os resultados e,
+portanto, devem ser bem documentados. Alem disso, e importante garantir a diversidade
+na amostra, incluindo participantes de diferentes faixas etarias, gêneros e níveis de experiencia com RA e RV.
+
+Os criterios de inclusao e exclusao devem ser estabelecidos com antecedencia.
+Por exemplo, pessoas suscetiveis a cinetose podem ser excluídas de testes prolongados de RV, uma vez que essa condicao pode influenciar negativamente a experiencia do usuario e os resultados do teste (Bos, 2017).
+
+Execucao e Coleta de Dados
+Com o planejamento concluido, a proxima etapa e a execucao dos testes e a coleta de dados. A execucao precisa seguir um protocolo bem estruturado para garantir que todos os participantes passem pelas mesmas etapas e que os dados coletados sejam consistentes e comparaveis.
+
+Estudo Piloto
+Antes de iniciar a coleta de dados com todos os participantes, e recomendavel realizar um estudo piloto com um grupo reduzido de usuarios. Esse estudo possibilita validar os procedimentos, testar os equipamentos e verificar se os metodos de coleta de dados estao funcionando conforme o esperado. Alem disso, o piloto permite identificar problemas potenciais que podem afetar a qualidade dos dados, como falhas tecnicas ou dificuldades na interacao com o sistema.
+
+Protocolos de Coleta de Dados
+A coleta de dados em testes de usabilidade e UX em RA e RV pode envolver uma variedade de metodos, dependendo do que se pretende avaliar [Barbosa et al. 2021]. Alguns dos metodos mais comuns incluem:
+
+Protocolo Think Aloud: Como mencionado anteriormente, esse protocolo pode ser usado para captar os pensamentos dos usuarios enquanto interagem com o sistema [Ericsson and Simon 1993]. No entanto, em ambientes imersivos, esse metodo deve ser usado com cuidado para nao interferir na experiencia de imersao.
+
+Gravacoes e Observacoes: Em RA e RV, e util capturar tanto a visao do participante quanto a visao de um observador externo. Isso ajuda a entender melhor os movimentos do corpo e da cabeca, as interacoes com o ambiente e o comportamento do usuario durante a experiencia.
+
+Questionarios Pos-Teste: Questionarios aplicados logo apos a conclusao da tarefa sao uma maneira eficaz de coletar feedback sobre a experiencia do usuario. E importante que esses questionarios incluam itens que avaliem imersao, presenca e satisfacao com a interface.
+
+Dados Fisiologicos: Em alguns casos, pode ser interessante monitorar dados fisiologicos, como batimentos cardiacos, movimentos oculares e temperatura corporal, para medir o nivel de estresse ou imersao do usuario. Dispositivos de biofeedback e cameras de rastreamento ocular sao frequentemente usados para esse fim (Hart, 2006).
+
+Materiais e Equipamentos Necessarios
+A preparacao dos materiais e equipamentos para a execucao do teste e uma etapa importante. Isso inclui garantir que todos os dispositivos estejam funcionando corretamente, com bateria suficiente para as sessoes de teste, que os questionarios estejam prontos para serem aplicados e que o ambiente de teste esteja configurado de maneira adequada. Equipamentos como tablets, computadores e cameras para gravacao sao essenciais, assim como itens de conforto para os participantes, como cadeiras ergonomicas e material de higiene para a desinfeccao de dispositivos compartilhados (Kennedy et al., 1993).
+
+Consideracoes Eticas e Privacidade
+Durante o processo de avaliacao, e fundamental seguir diretrizes eticas rigorosas para proteger a privacidade e o bem-estar dos participantes. Isso inclui garantir que os dados coletados sejam mantidos confidencialmente e que os participantes estejam cientes de como suas informacoes serao usadas. O uso de termo de consentimento livre e esclarecido (TCLE) e obrigatorio, e as diretrizes do Comite de Etica em Pesquisa (CEP) devem ser seguidas rigorosamente.
+
+Alem disso, e importante considerar o desconforto fisico que pode ser causado pelo uso prolongado de dispositivos de RA e RV. O planejamento deve incluir medidas para mitigar esses desconfortos, como pausas durante a sessao e a disponibilizacao de suporte tecnico ou medico, caso necessario.
+
+Conclusao
+A Realidade Aumentada e a Realidade Virtual transformaram o modo como interagimos com sistemas e ambientes digitais, criando experiencias imersivas que oferecem novas oportunidades, mas tambem novos desafios. Para garantir que essas tecnologias proporcionem experiencias de alta qualidade, e fundamental realizar avaliacoes rigorosas de usabilidade e UX, que considerem nao apenas os aspectos tecnicos, mas tambem a experiencia subjetiva dos usuarios. Conceitos como imersao e presenca sao centrais nesse contexto e precisam ser integrados aos processos de avaliacao adequadamente.
+
+Os desafios inerentes a avaliacao de sistemas imersivos, como a complexidade das interacoes, o desconforto fisico potencial (como a cinecitose) e a variabilidade de dispositivos, exigem uma combinacao de metodos quantitativos e qualitativos para capturar com precisao a experiencia do usuario. Testes com usuarios, questionarios especificos, analises de dados fisiologicos e a inspecao por especialistas sao algumas das abordagens discutidas que podem ser utilizadas combinadamente para obter percepcoes valiosas.
+
+O conteudo apresentado neste capitulo nao deve limitar a compreensao do tema. Mais informacoes sobre metodos e caracteristicas das avaliacoes de usabilidade ou UX em ambientes RA e RV podem ser obtidas em revisoes e mapeamentos da literatura especificos [Swan and Gabbard 2005, Dunser et al. 2008, Dunser and Billinghurst 2011, Bai and Blackwell 2012, Merino et al. 2020, Veriscimo et al. 2020, Campos et al. 2023, Frata Furlan Peres et al. 2024]. Do mesmo modo, ha obras que apresentam um maior aprofundamento sobre metodos e processos de realizacao de uma avaliacao, como, por exemplo, em Barbosa et al. [2021] e em Rubin e Chisnell [2008].
+
+Conforme as tecnologias de RA e RV continuam a evoluir, e provavel que os metodos de avaliacao tambem precisem se adaptar e se aprimorar, de modo a acompanhar as novas formas de interacao e garantir que os sistemas oferecam nao apenas usabilidade, mas tambem experiencias ricas e satisfatorias. A capacidade de avaliar e melhorar continuamente a experiencia do usuario sera decisiva para o sucesso das tecnologias imersivas em sua crescente integracao no dia a dia das pessoas e no mercado.

@@ -1,0 +1,114 @@
+**INTRODUCAO**
+
+Com o avanço tecnologico, tanto a criaçao quanto a disseminaçao de obras artisticas e
+literarias digitais tem crescido consideravelmente . Neste cenario,
+em que papel e tinta sao substituidos por publicaçoes em plataformas de redes sociais,
+como Instagram e TikTok, ha tambem desafios a serem superados. Ao mesmo tempo em
+que tais plataformas possibilitam um maior alcance das produçoes artisticas, extrapolando
+limites fisicos de museus e galerias tradicionais, as plataformas tambem propiciam uma
+maior propensao do usuario a distraçao, por meio da sugestao de conteudos diversos e a
+intercalaçao das obras com materiais publicitarios.
+
+Sob outra perspectiva, ha tambem um segundo desafio a ser considerado: a ca-
+talogaçao com fins de preservaçao desses recursos, uma vez que os materiais passam a
+ser disponibilizados de forma dispersa em diferentes perfis. Para mitigar esse desafio, os
+acervos digitais surgem como uma soluçao essencial . Analogos aos museus
+tradicionais, eles reunem e organizam obras artisticas de forma a facilitar sua preservação e consulta. Alem de contribuirem para preservacao da arte, os acervos digitais oferecem
+um meio estruturado de exploracao, contrastando com a efemeridade das postagens em
+redes sociais.
+
+Tradicionalmente, a interaçao com esses acervos digitais ocorre por meio de web-
+sites que oferecem uma interface relativamente estatica e limitada. Ha, portanto, para
+se explorar novos recursos de interaçao com esses conteudos. Nesse sentido, este tra-
+balho descreve um ambiente virtual interativo bidimensional como uma abordagem pro-
+missora para a exploraçao de acervos. Ao proporcionar uma experiencia de navegaçao
+mais imersiva, ao mesmo tempo simples e executavel em dispositivos de diferentes ti-
+pos, esse formato permite que os usuarios explorem as obras de maneira mais envolvente,
+potencializando a descoberta e o engajamento com o acervo.
+
+**ACERVOS DIGITAIS**
+
+A criaçao de acervos digitais e a digitalizaçao de acervos artisticos sao essenciais para
+a preservaçao cultural, permitindo que obras de arte e literatura sejam acessiveis global-
+mente . Um exemplo notavel e a coleçao digital do Metropolitan Museum
+of Art, que abriga mais de 490 mil obras catalogadas, acessiveis online. No Brasil, o
+Acervo da Literatura Digital Mato-Grossense (ADLMT) emerge como um recurso vali-
+oso para pesquisadores e entusiastas da literatura regional , com 328 obras
+cadastradas em apenas seis meses de levantamento.
+
+Nos acervos digitais, as obras podem ser catalogadas em diversos formatos. En-
+quanto a digitalizaçao de acervos geralmente envolve arquivos de imagens, o ADLMT se
+destaca ao catalogar tambem publicaçoes feitas pelos autores em suas redes sociais. Essa
+abordagem facilita o acesso a informaçoes complementares e contextuais, enriquecendo
+a compreensao de cada obra e permitindo contato direto com os autores.
+
+Alem disso, os acervos digitais superam as limitaçoes fisicas dos museus e expo-
+siçoes presenciais, possibilitando o armazenamento de vastas quantidades de produçoes
+artisticas. No entanto, a interaçao com essas ferramentas pode ser dispendiosa para os
+usuarios. Por outro lado, ha oportunidades para novas investigaçoes, como explorar se a
+experiencia do usuario em acervos digitais pode ser aprimorada pela facilidade de nave-
+gaçao e pesquisa.
+
+Com o objetivo de facilitar o contato dos usuarios com as obras artisticas do catalogo
+Acervo de Literatura Digital Mato-Grossense (ALDMT), foi desenvolvido o ADL2D, um
+ambiente virtual bidimensional, ilustrado na Figura 1.
+
+**DEFINIÇAO**
+
+Ao iniciar a aplicaçao, o usuario e imerso em um ambiente virtual que adota a estetica de
+um museu, remetendo aos acervos tradicionais, em que se pode ter contato com diferentes
+obras por meio da exploraçao do ambiente. Na versao atual, o percurso se inicia com o
+usuario na bilheteria. Ao aproximar-se do funcionario, e exibido um indicativo visual de
+que deve haver uma interaçao entre eles. Ao clicar no personagem, o usuario e instruido
+sobre como navegar e interagir com as obras ao longo do ambiente, assim como a passa-
+gem pela catraca da bilheteria e liberada. Deve-se destacar que, alem das mensagens do
+funcionario que incentivam a exploraçao, o proprio design do ambiente virtual estimula
+o usuario a explorar os diferentes espaços, ja que a renderizaçao sugere a existencia de
+outras areas com diversos elementos.
+
+Ao explorar o ambiente, o usuario encontrara personagens que desencadeiam a
+exibiçao de diferentes obras. Ao interagir com um desses personagens, a obra associada
+e exibida na tela de maneira direta e intuitiva, com a incorporaçao da publicaçao do arista
+na rede social de origem. Alem de manter a estrategia adotada na
+versao tradicional do ALDMT, essa abordagem possibilita que o usuario entre em contato
+com o artista e com outras pessoas que tiveram contato com aquela obra.
+
+Cada execuçao do ambiente virtual possibilita a interaçao com ate 20 obras, selecionadas
+a partir de 50 obras que integram o ALDMT. Essa abordagem nao apenas diversifica as
+interaçoes, mas tambem incentiva visitas recorrentes, enriquecendo a experiencia global
+da aplicaçao.
+
+A seleçao das obras para a aplicaçao considerou a diversidade e a representativi-
+dade do acervo, buscando incluir exemplos significativos de diferentes generos e estilos.
+Entretanto, este e um campo dinamico, em que novas obras sao produzidas diariamente
+em diversas plataformas. Desta forma, novas obras podem ser incorporadas ao acervo,
+em suas diferentes formas de exploraçao.
+
+Embora algumas soluçoes tenham sido testadas, decidiu-se pelo desenvolvimento de uma
+aplicaçao propria, fazendo uso da engine de jogos Construct 3. Optou-se por uma so-
+luçao web devido a necessidade de compatibilidade multiplataforma, garantindo suporte tanto para computadores quanto para dispositivos moveis, sem comprometer a fluidez da
+experiencia do usuario. Isso visa alcançar um publico mais amplo e diverso, permitindo
+o acesso por diferentes dispositivos e em variados ambientes.
+
+Este trabalho busca contribuir significativamente para os acervos digitais interativos, explorando novas formas de interacao e suas implicacoes. A pesquisa tem como objetivo
+explorar abordagens inspiradas em tecnologias de jogos e ambientes virtuais podem impactar a usabilidade e o engajamento dos usuarios. Pretende-se demonstrar que a adocao
+de ambientes virtuais bidimensionais pode aumentar a imersao e o interesse, resultando
+em um contato mais significativo e de mediacao cultural mais rica com as obras artisticas
+e literarias presentes nos acervos digitais.
+Alem disso, busca-se identificar as particularidades deste cenario que exigem novas abordagens de Interacao Humano-Computador (IHC), como a necessidade de interfaces intuitivas e acessiveis para um publico diversificado e a importancia de garantir uma
+experiencia de mediacao cultural digital em diferentes dispositivos e plataformas.
+
+**CONSIDERAÇOES FINAIS**
+
+Este trabalho apresenta a proposiçao e o desenvolvimento do ALD2D, ambiente virtual
+que visa a favorecer o contato dos usuarios com obras de literatura digital disponibilizadas
+em redes sociais. Alem de atuar como um acervo digital, a ferramenta proposta evidencia
+o protagonismo do usuario na interaçao e exploraçao das obras que integram este acervo.
+Por estar integrado as redes sociais, a soluçao tambem possibilita que o usuario interaja
+com o autor da publicaçao e outros leitores. Como continuidade desta pesquisa, espera-
+se avaliar os impactos da soluçao na experiencia dos usuarios e explorar sua aplicaçao
+em contextos didaticos e culturais. Tambem se planeja implementar novas funcionalida-
+des, como recursos de jogabilidade, alem de outras que possam surgir das avaliaçoes dos
+usuarios.
+
+A criaçao do ambiente virtual interativo ADL2D, para exploraçao do Acervo de Literatura Digital Mato-Grossense, representa um avanço significativo na mediaçao cultural digital. A ferramenta nao apenas preserva e divulga a produçao literaria regional, mas tambem promove um engajamento mais imersivo e significativo dos usuarios com as obras. Ao transpor a experiencia de um museu tradicional para o ambiente virtual, o projeto valoriza a interaçao e a descoberta, abrindo novas perspectivas para a disseminaçao e apreciaçao da arte literaria na era digital.

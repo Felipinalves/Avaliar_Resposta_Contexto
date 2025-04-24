@@ -1,0 +1,122 @@
+**Resumo**
+
+Este trabalho descreve o processo de criaçao e gestao continuada do
+Design System (DS) da Enacom, uma empresa mineira que verificou as poten-
+cialidades de definir um padrao na forma de criar interfaces mais intuitivas,
+centrado no ser humano, a fim de obter maior escalabilidade no desenvolvi-
+mento de seus produtos e melhorar a usabilidade de seus sistemas. O trabalho
+tambem discute as liçoes aprendidas e trabalhos futuros.
+
+**1. Descriçao do Problema**
+
+A demanda por produtos de alta qualidade e baixo custo, num breve espaço de tempo,
+exige de pesquisadores e industria a buscar estrategias eficazes de desenvolvimento de
+produtos. O bom design dos sistemas interativos, centrado no ser humano, tem sido
+visto como um diferencial competitivo pois contribui para: (i) aumentar a produtividade
+dos usuarios, (ii) reduzir o numero e a gravidade dos erros cometidos pelos usuarios,
+(iii) reduzir o custo de treinamento e (iv) aumentar as vendas e a fidelidade do cliente .
+
+Neste cenario, exige-se que o time de design assuma mais projetos, ofereça maior
+qualidade aos sistemas e faça entregas mais rapidas e num curto espaço de tempo. Como
+fazer isso num contexto onde nao ha uma padronizaçao na construçao dos artefatos? Com
+isso, a concepçao do design system - DS permite que as equipes criem produtos melhores
+e com mais agilidade, tornando o design mais escalar. Design system e, portanto, uma
+coleçao de elementos documentados que incorporam os principios e regras de design de
+uma organizaçao , . Ele inclui uma biblioteca de com-
+ponentes e padroes reutilizaveis (tipografia, paletas de cores, elementos de formulario,
+etc.) que designers e desenvolvedores podem usar para criar com eficiencia interfaces de
+usuario (IUs) uniformes e consistentes em todo o conjunto de produtos digitais de uma
+organizaçao. Neste artigo, sera apresentado o processo para construçao e gestao continu-
+ada do design system da Enacom, bem como os beneficios e desafios identificados.
+
+**2. Criaçao do Design System**
+
+A Enacom e uma empresa especialista em desenvolver soluçoes de alto valor agregado
+que geram resultados reais para seus clientes em cinco segmentos da industria: energia,
+siderurgia, logistica, saude e sustentabilidade. Atualmente, a equipe composta por mais de
+180 colaboradores esta espalhada em mais de 60 cidades do Brasil, de norte a sul. Neste
+contexto, desenvolver sistemas especialistas em diferentes segmentos e desafiador. Alem
+disso, prezamos pela aplicaçao de boas praticas de desenvolvimento de software, aliando
+inovaçao e qualidade nos processos, por meio da utilizaçao de metodos ageis com um
+time de trabalho remoto, em diferentes partes do pais. O time de Experiencia de Usuario
+(UX - User Experience), composto atualmente por oito (8) pessoas, que sao especialistas
+em UX, e responsavel pela criaçao e validaçao de todas as telas que os usuarios finais
+utilizarao nos diferentes projetos e segmentos da industria.
+
+Para isso, todo o processo de criaçao de software envolve uma equipe multidis-
+ciplinar. Em geral, no inicio de cada projeto temos um time formado por: 1 pessoa de
+requisitos, 1 pessoa de UX, 1 Product Owner e 1 Scrum Master. A partir do levanta-
+mento de requisitos e validaçao dos prototipos de alta fidelidade, a equipe aumenta, com
+a participaçao dos times de desenvolvimento front e back end e qualidade.
+
+Como desenvolvemos sistemas complexos e unicos, o desafio inicial e compreen-
+der as necessidades do cliente e seu contexto de uso. Por isso, o designer e envolvido em
+todas as etapas, para que ele possa entender em profundidade os requisitos do cliente, as
+regras do negocio e criar prototipos alinhados as necessidades do usuario, gerando valor
+para o cliente. Assim, ainda nas etapas iniciais, e possivel validar os requisitos por meio
+dos prototipos de baixa fidelidade.
+
+Com o objetivo de padronizar e melhorar a qualidade dos nossos produtos, cri-
+amos o nosso design system. Esta criaçao considerou as diretrizes da WCAG¹, que sao
+as Diretrizes de Acessibilidade para o Conteudo da Web, que e um documento com os
+padroes de acessibilidade digital que devem ser seguidos pelos sites. Dentre os beneficios
+observados com esta implementaçao, destacam-se:
+Eficiencia para a equipe: ao inves de criar componentes do zero, designers e
+desenvolvedores podem reutilizar itens existentes e criar novas telas com mais
+eficiencia e velocidade. Assim, eles poderao concentrar esforços em problemas
+mais complexos, como por exemplo, a melhoria da experiencia do usuario.
+Padronizaçao para os usuarios: cria consistencia visual entre produtos e, con-
+sequentemente, entre as telas de um mesmo produto, contribuindo para melhor
+experiencia do usuario no sistema e, consequentemente, melhor usabilidade.
+Maior escalabilidade do produto: contribui para replicar designs rapidamente,
+usando uma biblioteca de componentes e elementos pre fabricados. As equipes
+continuam a usar os mesmos elementos repetidamente, reduzindo a necessidade
+de reinventa-los.
+Como o nosso design system (DS) e um produto, ele esta em constante evoluçao.
+Atualmente, temos pessoas do times de UX e front end responsaveis por cuidar e manter
+o nosso DS. Para isso, criamos um processo de trabalho que orienta a criaçao de novos
+componentes, conforme pode-se observar na Figura 1. As sugestoes de novos componen-
+tes surgem ao longo do processo de desenvolvimento do sistema e podem partir tanto do
+cliente, quanto dos times de UX ou front end. Essas demandas sao analisadas e, caso seja
+necessario criar um novo componente, entram em uma fila de prioridades. Semanalmente,
+os times de UX e front-end se reunem para alinhar sobre o desenvolvimento dos novos
+componentes.
+
+Segundo [Barbosa et al. 2021], fornecer visibilidade do estado do sistema e cru-
+cial para o sucesso de qualquer sistema. Neste sentido, todo o DS foi reformulado para
+assegurar o feedback adequado e no tempo certo aos usuarios, como pode-se observar na
+Figura 2 (lado direito), num cenario em que o usuario pode fazer o download de uma
+planilha. Conforme a quantidade de dados, ela pode ser gerada rapidamente, ou nao.
+
+Entao, este feedback da visibilidade ao usuario e ele sabe que nao e uma situacao em que o sistema travou ou parou de funcionar.
+
+Para melhorias no DS, as sugestoes dos times de front-end e UX, bem como os
+feedbacks dos usuarios sao levados em consideracao. Um exemplo de componente alterado, apos a percepcao do time de UX, foi melhoria na acessibilidade (Link, Figura 2,
+lado esquerdo). Antes, ele era sinalizado com a mudanca de cor na fonte. Foi adicionado
+um underline para melhorar a acessibilidade, tornando mais clara a diferenca do Link
+para um texto comum. Alem disso, tambem e possıvel incluir um ıcone para, quando
+possıvel, antecipar a acao que sera gerada com o clique, como apresentado na Figura 2 
+(lado esquerdo), para um redirecionamento externo.
+
+**3. Liçoes Aprendidas**
+
+Com o aumento do numero de projetos, foi necessario criar uma padronizaçao dos
+sistemas desenvolvidos pela Enacom. Mesmo com os beneficios observados na
+implementaçao do DS, alguns desafios devem ser considerados, como:
+Mobilizaçao orçamentaria: e necessario investimento financeiro nesta tarefa, uma
+vez que precisa de pessoas alocadas para trabalhar nas melhorias e implementaçao
+do DS. Os gestores precisam compreender os beneficios e o valor gerado com a
+implantaçao do DS, para fazer os investimentos necessarios.
+Capacitaçao do time: este e um ponto de atençao, pois cada novo colaborador
+traz novas contribuiçoes, mas tambem precisam conhecer sobre os componentes
+e biblioteca existente. Entao, investir em treinamento e importante para alinhar o
+conhecimento do time sobre as possibilidades de implementaçao.
+Continuidade na evoluçao do DS, como o DS e um produto em constante
+evoluçao, e necessario que a gestao esteja ciente disso, para que o produto evolua
+e traga sempre melhorias para o time e seus usuarios.
+Como proximos passos, espera-se realizar testes de usabilidade com a participaçao
+de usuarios finais, para verificar se a criaçao do nosso DS foi bem aceita.
+
+**Consideraçoes Finais**
+
+Este estudo de caso da Enacom demonstra a importancia e os beneficios da implementaçao de um Design System para empresas que buscam escalabilidade, eficiencia e usabilidade em seus produtos digitais. Ao padronizar a forma de criar interfaces, a Enacom conseguiu otimizar o trabalho de seus designers e desenvolvedores, reduzir custos e garantir uma experiencia consistente para seus usuarios. As liçoes aprendidas nesse processo podem servir de guia para outras organizaçoes que desejam seguir o mesmo caminho.

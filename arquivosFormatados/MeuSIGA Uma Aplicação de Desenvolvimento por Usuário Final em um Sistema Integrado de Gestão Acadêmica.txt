@@ -1,0 +1,137 @@
+**RESUMO**
+
+A abordagem end-user development (EUD), ou desenvolvi-
+mento por usuario-final, vem sendo cada vez mais utilizada,
+uma vez que tem intensificado o numero de pessoas, com
+diferentes niveis de conhecimento em computaçao, que de-
+senvolvem software para apoia-las na realizaçao de tarefas
+especificas. Neste contexto, o presente trabalho apresenta uma
+ferramenta de programaçao visual de apoio ao EUD, base-
+ada nos resultados de uma Revisao Sistematica da Literatura
+(SLR). Tal ferramenta se propoe a oferecer aos alunos da Uni-
+versidade Federal do Vales do Jequitinhonha Mucuri (UFVJM)
+a possibilidade de customizar a interface do modulo ensino do
+se Sistema Integrado de Gestao Academica (SIGA), de forma
+a ajusta-la aos seus interesses.
+
+**INTRODUCAO**
+
+O uso de aplicaçoes de software em diferentes contextos, seja
+para a realizaçao de tarefas de trabalho ou para fins de entrete-
+nimento, tornou-se uma tendencia nos ultimos anos . Nesse
+sentido, tem-se intensificado o numero de pessoas, com pouco
+ou nenhum conhecimento em programaçao, que personalizam
+os softwares para apoia-las na realizaçao de tarefas especificas,
+tornando-se assim designers de suas proprias aplicaçoes .
+
+Tal fato caracteriza a abordagem de desenvolvimento denomi-
+nada End-User Development (EUD), ou Desenvolvimento por
+Usuario Final. Esta abordagem pode ser definida como um
+conjunto de metodos, tecnicas e ferramentas que possibilitam
+aos usuarios nao profissionais atuarem como desenvolvedores
+de software, criando, modificando ou ampliando softwares
+para atingirem um objetivo .
+
+Neste contexto, e proposta uma ferramenta que utiliza a abor-
+dagem de EUD, denominada MeuSIGA. Tal ferramenta possi-
+bilita que o usuario personalize o Sistema Integrado de Gestao
+Academica (SIGA), da Universidade Federal dos Vales do
+Jequitinhonha e Mucuri (UFVJM). A motivaçao para o de-
+senvolvimento da referida ferramenta e que o SIGA possui
+um grande numero de funcionalidades em sua interface, que
+nem sempre sao utilizadas pelos seus usuarios, podendo assim
+tornar ineficiente a sua interaçao com o sistema.
+
+**A PROPOSTA DO MEUSIGA**
+
+O MeuSIGA consiste em uma soluçao de EUD voltada para
+dominio especifico de gestao academica, utilizando o estilo de
+interaçao de programaçao visual. Tal soluçao destina-se aos
+discentes da UFVJM e possibilita a personalizaçao da inter-
+face do modulo Ensino do seu Sistema Integrado de Gestao
+Academica (SIGA), de forma a ajusta-la aos interesses dos
+seus usuarios.
+
+Em razao de limitaçoes quanto a estrutura tecnologica da
+instituiçao, que atualmente nao possibilita que sites sejam hos-
+pedados em seu dominio, a ferramenta foi desenvolvida para
+o ambiente desktop. Dessa forma, o MeuSIGA consiste numa
+extensao para o navegador Google Chrome, e foi desenvolvido
+utilizando as linguagens Javascript, HTML e CSS. Tal aplica-
+çao permite que os alunos atuem como designers do sistema
+academico SIGA, adequando-o as suas necessidades.
+
+O delineamento das funcionalidades que compoem o Meu-
+SIGA se deu a partir de um mapeamento que inicialmente
+identificou as funcionalidades principais do SIGA. Em um
+segundo momento, para cada uma dessas funcionalidades, fo-
+ram identificadas as sub-funcionalidades e seus respectivos
+links (responsavel pelo redirecionamento do usuario da Meu-
+SIGA para o sistema SIGA). A partir dessas informaçoes, foi
+elaborada uma tabela que contem os caminhos possiveis que
+o usuario consegue percorrer no sistema. Esse material foi
+utilizado como guia para a construçao dos elementos presentes
+na interface do MeuSIGA.
+
+Com o objetivo de facilitar a interaçao do usuario com o sis-
+tema, o design da interface do MeuSIGA foi desenvolvido para
+oferecer maior visibilidade das opçoes disponiveis para uso
+do aluno, bem como reduzir os caminhos de interaçao entre o
+estado atual e o objetivo do usuario no sistema. Dessa forma,
+as funcionalidades foram dispostas em abas em sua interface,
+onde estao presentes as sub-funcionalidades associadas a cada
+uma delas como ilustrada na Figura 1. Assim os usuarios conseguem visualizar todas as opcoes existentes com mais facilidade e a um custo de interacao menor navegando pelas abas disponíveis.
+
+Como pode ser visto na Figura 1 a interface do MeuSIGA e composta por caixas de selecao com valores pre determinados referentes as sub funcionalidades disponiveis no SIGA Ensino permitindo entao que o usuario exerca o papel de designer sobre o sistema aplicando se entao tecnicas de programacao visual Desse modo para personalizar a interface do sistema o usuario escolhe dentre as opcoes disponiveis as que sao necessarias para cumprir seus objetivos Em seguida as opcoes que nao foram selecionadas sao ocultadas da interface uma vez que o MeuSIGA interpreta o conjunto de valores escolhidos como sendo as unicas opcoes que o usuario gostaria de visualizar no sistema Essas opcoes sao oferecidas como icones como apresentado na Figura 2 que atuam como gatilhos para que o usuario acesse a funcionalidades especificas do SIGA
+
+
+**AVALIAÇAO**
+
+A preocupaçao com a qualidade de uso do MeuSIGA esteve
+presente durante o seu design, ao buscar uma interface sim-
+ples, seguindo diretrizes de usabilidade . Assim, a fim
+de verificar fatores de usabilidade e experiencia de uso, foi
+realizada uma avaliaçao com oito usuarios, refletindo os perfis
+dos discentes da UFVJM.
+
+Com base na analise dos dados levantados durante os testes
+com usuarios, foi possivel concluir que o MeuSIGA atendeu
+ao proposito para que foi desenvolvido, ou seja permitir que
+os discentes personalizem o sistema academico de acordo com
+suas necessidades, melhorando seu desempenho quanto ao uso
+da mesma.
+
+Embora os participantes tenham apresentado dificuldades du-
+rante a realizaçao de algumas tarefas, os problemas identi-
+ficados possuem um baixo nivel de gravidade e podem ser
+facilmente superados pelo usuario a medida que for utilizando
+a ferramenta. No sentindo de facilitar a interaçao, foi desen-
+volvido um tutorial, em atendimento a sugestao dada por um
+dos participantes.
+
+**CONCLUSAO E TRABALHOS FUTUROS**
+
+A motivaçao para o desenvolvimento da MeuSIGA se deu ao
+identificar que a interface atual do SIGA Ensino oferecia aos
+usuarios um grande numero de informaçoes, em sua maioria
+desnecessarias, o que tornava sua interaçao ineficiente.
+
+Assim, o MeuSIGA consiste em uma ferramenta de apoio
+ao EUD, que se apresenta na forma de uma extensao para
+navegadores, permitindo que seus usuarios atuem como desig-
+ners do SIGA Ensino da UFVJM, personalizando-o de acordo
+com suas necessidades. Os resultados da avaliaçao com usuá-
+rios do MeuSIGA mostraram que ele atendeu o seu principal
+objetivo de tornar mais facil a interaçao do usuario com o
+sistema de gestao academica da universidade, refletindo assim
+no aumento da sua eficiencia de uso. Como proximo passo
+do trabalho, pretende-se fazer uma avaliaçao mais ampla da
+ferramenta, abordando outras qualidades de uso. Alem disso,
+pretende-se estudar a viabilidade de integrar tal ferramenta
+ao sistema academico utilizado pela universidade, permitindo
+assim que as escolhas dos usuarios sejam feitas pela propria
+ferramenta, com base no historico de uso dos alunos.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, este trabalho apresenta o MeuSIGA, uma ferramenta de desenvolvimento por usuario final que permite aos alunos da UFVJM personalizar a interface do SIGA Ensino. Os resultados da avaliaçao com usuarios indicam que o MeuSIGA atende ao seu proposito de facilitar a interaçao com o sistema. Espera-se que este trabalho contribua para a discussao sobre a importancia do EUD e suas aplicaçoes no contexto academico.

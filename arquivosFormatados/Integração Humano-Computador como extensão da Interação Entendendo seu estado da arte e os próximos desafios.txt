@@ -1,0 +1,168 @@
+**RESUMO**
+
+Este artigo apresenta um panorama do estado da arte, bem como dos
+desafios da Integraçao Humano-Computador (HInt) na perspectiva da area de
+IHC. Assim, este trabalho fornece insights uteis para expandir o conhecimento
+e direcionar a Comunidade de IHC para os proximos passos da interaçao com
+uma lente na integraçao, no sentido de parceria, entre humanos e tecnologias.
+
+
+**Introduçao**
+
+A popularizaçao das tecnologias autonomas (e.g., alarmes inteligentes, veiculos semi-
+autonomos e assistentes virtuais inteligentes) esta modificando a relaçao entre humanos
+e tecnologias de modo que, a “Era” da interaçao esta se estendendo para a “Era” da
+integraçao humano-computador. Diferente da relaçao de estimulo-resposta que ocorre
+na tradicional interaçao de IHC, na “Era” da integraçao, usuarios e tecnologias se in-
+tegram fisicamente e/ou conceitualmente e se tornam parceiros que estabelecem uma
+relaçao simbiotica para atingir objetivos em comum .
+
+Para acompanhar essa evoluçao, pesquisadores de IHC definiram e caracterizaram
+um novo paradigma de interaçao, a Integraçao Humano-Computador (HInt) - (do ingles
+Human-Computer Integration tambem referenciado pela sigla: HInt) -, que estende o foco
+da area de IHC para abranger essa nova relaçao de parceria entre humanos e tecnologias
+. Como a HInt e um topico emergente,
+existe a demanda por iniciativas que ajudem a: (1) disseminar o conhecimento sobre esse
+novo paradigma e seus desafios em aberto para a IHC e (2) direcionar a Comunidade de
+IHC para os proximos passos em direçao a consolidaçao e evoluçao da IHC com uma
+lente na HInt .
+
+Diante desse contexto, o objetivo deste trabalho e caracterizar como a HInt estende
+a tradicional interaçao de IHC e apresentar um panorama do estado atual do conhecimento
+e das lacunas de pesquisa acerca da HInt no ambito da IHC. Para alcançar este objetivo, foi
+conduzida uma revisao sistematica da literatura (do ingles, Systematic Literature Review
+(SLR)) , que nos permitiu apresentar: (1) a
+definiçao da HInt e sua relaçao com a IHC, (2) uma caracterizaçao das iniciativas que
+tem adotado e explorado esse novo paradigma e (3) uma lista consolidada dos desafios e
+oportunidades da HInt para profissionais e/ou pesquisadores de IHC.
+
+Assim, este trabalho contribui para o avanço no conhecimento e a evoluçao da
+IHC com uma lente na integraçao e na parceria entre humanos e tecnologias. Os re-
+sultados apresentados fornecem insights e reflexoes que podem ajudar os profissionais e
+pesquisadores de IHC a: (1) expandir seu conhecimento sobre o estado da arte e os desa-
+fios da IHC com uma lente na HInt e (2) situar suas pesquisas e/ou aplicaçoes dentro da
+agenda de desafios da HInt no ambito da IHC.
+
+**2. Metodologia da Pesquisa**
+
+Para atingir o proposito deste trabalho, foi conduzida uma revisao sistematica da literatura
+(SLR) que nos permitiu investigar a seguinte questao de pesquisa: (QP) Qual o estado
+atual de conhecimento e quais sao os novos desafios da Integraçao Humano-Computador
+(HInt) na perspectiva da area de Interaçao Humano-Computador (IHC)?. O escopo da
+SLR foi delimitado para a seleçao e analise de artigos completos ou curtos disponiveis
+em anais de eventos e em periodicos, alem de relatorios tecnicos e capitulos de livros
+internacionais e nacionais, publicados no periodo entre 2015 e 2021. As buscas foram
+realizadas nas bibliotecas digitais ACM Digital Library, IEEE Xplore Digital Library,
+Springer e Science Direct, bem como no Google Scholar .
+
+A metodologia para execuçao da SLR consistiu em uma abordagem dividida em 5
+etapas: (1) Pesquisa Inicial; (2) Seleçao por titulo e resumo; (3) Seleçao por leitura diago-
+nal; (4) Leitura completa para coleta dos dados e (5) Extraçao dos dados. Na etapa inicial,
+foram realizadas buscas automaticas nos repositorios online, considerando o periodo da
+SLR e a seguinte string de busca: “Human-Computer Integration” OR “Human Compu-
+ter Integration” OR “Integraçao Humano-Computador” OR “Integraçao Humano Com-
+putador". Nas Etapa 2 e Etapa 3 foram adotados criterios de inclusao/exclusao (e.g.,
+excluir publicaçoes nao aderentes ao escopo da SLR) para selecionar os artigos a partir
+do resumo e leitura diagonal. Na Etapa 4, foi realizada a leitura completa das publicaçoes
+selecionadas na etapa anterior e cada publicaçao foi avaliada de acordo com um conjunto
+de criterios de qualidade. Para avançar para a etapa de extraçao de dados, a publicaçao de-
+veria atender, no minimo, 70% de aprovaçao nos criterios avaliados .
+
+Sendo assim, 20 publicaçoes que exploram a HInt no ambito da IHC foram se-
+lecionadas para a extraçao e analise dos dados. Os dados extraidos foram analisados a
+partir de uma Analise Tematica , que nos permitiu gerar uma
+caracterizaçao do estado atual de conhecimento sobre a HInt, em termos: (1) da sua
+definiçao e relaçao com a area de IHC, (2) das iniciativas que estao abordando esse para-
+digma emergente e (3) dos desafios e oportunidades que HInt oferece para IHC.
+
+**3. Panorama do Estado da Arte e dos Desafios da HInt no ambito da IHC**
+
+Os resultados desta SLR mostraram que, atualmente, HInt e definida como um para-
+digma emergente que estende a area de IHC e caracteriza a relaçao entre humanos e
+tecnologias como uma parceria. Na HInt, usuarios e tecnologias tornam-se parceiros
+codependentes com algum nivel de autonomia para cooperar e colaborar entre si para
+alcançar objetivos comuns ou complementares. Assim, a HInt pode ser caracterizada
+em relaçao ao: (1) Agente no controle da HInt (i.e., Controle majoritariamente hu-
+mano; Controle igualmente compartilhado ou Controle majoritariamente tecnologico);
+(2) Nivel da HInt (i.e., Social, Individual ou Orgao); (3) Tipo de HInt (Fusao e/ou
+Simbiose) e (4) Tipo de Acoplamento Fisico (i.e., In-Body, On-Body ou Off-Body)
+.
+
+Por se tratar de um paradigma emergente, a HInt esta ganhando visibilidade nos
+meios cientificos de IHC. Os resultados desta SLR indicam que e crescente a quantidade
+de publicaçoes que apresentam e discutem o conceito e as implicaçoes desse novo para-
+digma de interaçao. Para melhor compreender o estado da arte e as lacunas de pesquisa da
+HInt no ambito da IHC, as publicaçoes analisadas nesta SLR foram caracterizadas quanto:
+(1) ao foco/objetivo, (2) os tipos de contribuiçoes e (3) os tipos de desafios da HInt que
+elas mencionaram. A Figura 1 fornece uma visao geral dessa caracterizaçao.
+
+Conforme apresentado na Figura 1, as iniciativas que estao explorando a HInt na
+perspectiva de IHC se dividem em: (1) Trabalhos que abordam a HInt em uma perspectiva
+ampla, independente do tipo de integraçao e/ou dominio/contexto de aplicaçao e (2) Tra-
+balhos que abordam a HInt a partir de um cenario especifico, como: (a) uma tecnologia
+(e.g., Smart eBike), (b) um dominio (e.g., Smart Cities) ou (c) um contexto de uso (e.g.,
+Aumento Humano) .
+
+As publicaçoes que exploram a HInt em uma abordagem ampla visam contribuir
+com insights e reflexoes (e.g., Agenda de desafios e oportunidades) para direcionar as fu-
+turas iniciativas relacionadas a HInt no ambito da IHC. Por sua vez, os estudos que abor-
+dam a HInt em um cenario especifico fornecem recomendaçoes (e.g., Estrategias de De-
+sign) para auxiliar no futuro design e avaliaçao de tecnologias parceiras (i.e., tecnologias
+de HInt) que se aplicam aos contextos/dominios de uso estudados .
+
+Em relaçao as lacunas de pesquisa, as publicaçoes analisadas nesta SLR menci-
+onaram quatro tipos de desafios da HInt para a area de IHC. Sao eles: (1) Impactos da
+HInt nos Humanos; (2) Desafios de Design; (3) Desafios de Avaliaçao e (4) Demandas
+por novas Teorias e/ou Metodos .
+
+As demandas relacionadas aos Impactos da HInt nos Humanos correspondem aos
+desafios em aberto de identificar e explorar os fenomenos e os efeitos da HInt no in-
+dividuo, na sociedade e no ambiente. A partir dessas percepçoes sera possivel promover
+a integraçao, alem da interaçao, levando em consideraçao as demandas e preferencias dos
+usuarios acerca dessa parceria entre humano e tecnologias. Por sua vez, os Desafios de
+Design, Desafios de Avaliaçao e as Demandas por novas Teorias e/ou Metodos referem-se
+as demandas em aberto de revisar e propor abordagens empiricas e teoricas (e.g., metodos,
+tecnicas e ferramentas) para que o design e a avaliaçao das tecnologias parceiras sejam
+centrados tanto na interaçao, quanto na integraçao humano-computador, considerando os
+valores humanos, culturais, sociais e eticos dos usuarios .
+
+Considerando o exposto, os principais resultados desta SLR: (1) organizam a pes-
+quisa e o conhecimento existentes sobre HInt na perspectiva de IHC e (2) direcionam os
+proximos passos para a consolidaçao e evoluçao da HInt como um paradigma de IHC. As-
+sim, este estudo amplia as contribuiçoes de trabalhos anteriores porque fornece insights
+uteis para que a Comunidade de IHC e outros grupos de interesse possam conhecer e
+explorar essa nova relaçao de integraçao (i.e., parceria) entre humanos e tecnologias.
+
+**4. Consideraçoes Finais**
+
+Este trabalho caracterizou e apresentou um panorama do paradigma emergente da HInt,
+em termos da sua definiçao e implicaçoes para a area de IHC. Por meio de uma SLR
+foi possivel: (1) apresentar a definiçao de HInt e sua relaçao com a IHC, (2) mapear as
+publicaçoes que tem adotado e explorado esse novo paradigma e (3) sumarizar os desafios
+e as oportunidades que a HInt oferece para a area.
+
+Os resultados apresentados revelam que a HInt e um paradigma de IHC em as-
+censao, que se tornou um tema de interesse em eventos e forums relevantes para a comuni-
+dade cientifica (e.g., ACM CHI). Ate o momento, as iniciativas relacionadas a esse novo
+paradigma se concentram em conceitualiza-la, bem como levantar reflexoes e questoes
+(e.g., agenda de desafios) para direcionar futuras iniciativas acerca da HInt no ambito de
+IHC. Portanto, ainda ha um grande espaço para estudos que contribuam com a evoluçao
+e explorem a aplicabilidade e as limitaçoes da IHC com uma lente na HInt.
+
+Assim, esta pesquisa contribui para que os pesquisadores e profissionais de IHC
+possam avançar no conhecimento sobre a existencia e as implicaçoes que o paradigma
+da HInt oferece para a area de IHC. Alem disso, os resultados apresentados fornecem
+insights uteis para que a Comunidade de IHC no Brasil possa identificar oportunidades de
+pesquisas que resultem em contribuiçoes para a IHC focada na integraçao e na parceria
+entre humanos e tecnologias.
+
+Como trabalhos futuros, e indicado que a Comunidade de IHC explore os desafios
+da HInt tanto na perspectiva da area, quanto em uma perspectiva multidisciplinar. Pode
+ser interessante promover grupos de discussao e iniciativas colaborativas entre instituiçoes
+academicas, institutos de pesquisa e a industria, para que os pesquisadores e profissio-
+nais de IHC, bem como outros grupos de interesse, possam contribuir com a evoluçao e
+inovaçao da parceria entre humanos e tecnologias no cenario global.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo destaca a evoluçao da interaçao humano-computador para a integraçao, enfatizando a parceria entre humanos e tecnologias autonomas. A definiçao clara do novo paradigma, juntamente com a identificaçao de desafios e oportunidades, fornece um roteiro valioso para pesquisadores e profissionais da area, impulsionando a inovaçao e o desenvolvimento de soluçoes mais eficazes e centradas no usuario. Ao explorar o potencial da integraçao, podemos moldar um futuro onde a tecnologia aprimora as capacidades humanas e promove uma simbiose harmoniosa entre ambos.

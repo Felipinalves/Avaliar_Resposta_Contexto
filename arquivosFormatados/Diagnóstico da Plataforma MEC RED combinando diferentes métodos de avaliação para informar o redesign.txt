@@ -1,0 +1,132 @@
+**RESUMO**
+
+A Plataforma MEC RED foi criada em 2015 para centralizar
+recursos digitais produzidos por usuarios cadastrados e disponibilizados por
+portais do Ministerio da Educaçao (MEC). O publico-alvo dessa plataforma e
+qualquer pessoa interessada em educaçao e cultura digital, com foco em
+docentes que atuam na rede de educaçao publica. Quase uma decada apos seu
+lançamento, a plataforma voltou a ter importancia central para o MEC com a
+Estrategia de Escolas Conectadas. Entretanto, para que a plataforma cumpra
+seu proposito e atenda as novas demandas, e necessario atualiza-la para
+melhorar a Experiencia do Usuario (UX) que ela oferece. Este artigo relata a
+experiencia com a aplicaçao de diferentes tecnicas para produzir um
+diagnostico sobre a plataforma atual em termos de funcionalidades,
+usabilidade, acessibilidade e UX. A experiencia produziu um relatorio tecnico
+com 20 pontos a serem considerados no redesign e evoluçao da MEC RED.
+
+**INTRODUCAO**
+
+Criada em 2015, a Plataforma MEC de Recursos Educacionais Digitais (MEC RED)
+reune e disponibiliza conteudos digitais para pessoas interessadas
+em educaçao e cultura digital. A plataforma foi desenvolvida por pesquisadores do
+Centro de Computaçao Cientifica e Software Livre (C3SL) da UFPR, em colaboraçao
+com equipe tecnica do MEC, pesquisadores de outras instituiçoes, e professores da
+Educaçao Basica de diversas regioes do Brasil . Desde a sua criaçao, a plataforma evoluiu de um repositorio de Recursos
+Educacionais Digitais (REDs) para uma rede social que conecta professores e pessoal
+interessado na educaçao, favorecendo o compartilhamento de conteudos e troca de
+experiencias no contexto educacional. A Figura 1 apresenta a tela inicial da plataforma.
+
+Devido a mudanças no cenario politico do pais, açoes para adotar a plataforma
+em escala nacional foram interrompidas e ela passou por um periodo de manutençao
+focada na continuidade de seu funcionamento, sem grandes avanços tecnologicos.
+Quase uma decada apos sua disponibilizaçao, a plataforma voltou a ter importancia para
+o MEC em funçao da Estrategia Nacional de Escolas Conectadas , que
+tem entre seus eixos o oferecimento de REDs e demanda por recursos “alinhados a
+Base Nacional Comum Curricular (BNCC), diversificados e de qualidade, disponiveis
+para as(os) estudantes e professoras(es)”. Essas novas demandas do MEC e de outras
+partes interessadas, explicitaram a necessidade do redesign da plataforma para que ela
+cumpra seu proposito. Isso significa que nao se trata apenas de retomar a plataforma e
+usa-la: e necessario repensar e reestruturar o seu design, sob diferentes enfoques,
+compreendendo aspectos de infraestrutura, apresentaçao e interaçao.
+
+Em dezembro de 2023 o MEC apresentou uma demanda a equipe C3SL:
+atualizar a interface da plataforma para sua apresentaçao do pais no encontro do G20 em
+julho de 2024. Reconhecendo que a interface da plataforma estava datada e com
+problemas de usabilidade e acessibilidade impactando a UX , a
+equipe tinha consciencia de nao era possivel obter resultados satisfatorios se o redesign
+da plataforma nao fosse realizado a partir do diagnostico solido de sua situaçao atual.
+Este diagnostico, porem, deveria ser feito a partir de avaliaçoes por e com especialistas
+em IHC e educaçao participantes do projeto ou integrantes do MEC. Assim, como
+primeira etapa do processo de redesign, a equipe do C3SL realizou tres estudos
+diagnosticos para avaliar a plataforma em termos de funcionalidades e qualidade de uso,
+e identificar pontos de investigaçao e melhorias. Os resultados dos estudos foram
+analisados e produziram um relatorio tecnico  com 20 pontos
+considerados satisfatorios e capazes de informar o redesign e evoluçao da plataforma.
+
+**FICHA TECNICA E RESULTADOS**
+
+O estudo para o diagnostico da MEC RED foi conduzido entre dezembro de 2023 e
+janeiro de 2024, com tres atividades principais: 1. Avaliaçao Heuristica por especialistas
+em IHC; 2. Feedback de Especialistas em Educaçao que ja conheciam e usavam a
+plataforma; e 3. Grupo Focal com participantes das duas atividades anteriores.
+A Tabela 1 apresenta uma visao geral de cada estudo.
+
+
+Na Avaliaçao com Especialistas em IHC, a etapa individual ocorreu de forma
+assincrona durante aproximadamente tres semanas. Os avaliadores foram instruidos a
+utilizarem metodos, guidelines, heuristicas, criterios, leis, etc. de sua maior
+familiaridade, para explorar e avaliar a maior extensao possivel da plataforma. Os
+avaliadores selecionaram diferentes recursos: MeTA , Heuristicas de
+Nielsen , Guidelines do WCAG 2.2  e Percurso Cognitivo
+. Os problemas foram registrados na Planilha de Avaliaçao
+Individual , incluindo informaçoes que ajudassem a reproduzir os
+problemas e possiveis formas de resolve-los. A etapa consolidada ocorreu em uma
+sessao online conduzida por dois especialistas que organizaram as avaliaçoes junto aos
+outros seis. Os participantes listaram e discutiram cada um dos problemas identificados
+nas avaliaçoes individuais, e chegaram a um consenso sobre a relevancia de cada
+problema, o seu grau de severidade, e respectivas sugestoes de adequaçoes.
+
+A atividade para obter o Feedback com Especialistas em Educaçao foi
+conduzida pelos mesmos especialistas que organizaram a atividade anterior, e com a
+colaboraçao de outros dois especialistas da Equipe Tecnica do MEC, contando com a
+participaçao de cinco Especialistas em Educaçao que ja atuam em parceria nas
+atividades do MEC. Os participantes foram orientados a explorar os recursos da
+plataforma (cadastro, publicaçao de recursos, busca, etc.) e a registrar em um
+formulario suas sugestoes, ideias e pontos de investigaçao a serem trabalhados. Como
+resultado, 28 problemas diferentes foram levantados.
+
+Apos as duas atividades, dois especialistas conduziram uma Analise Tematica
+ sobre os problemas e sugestoes de melhorias identificados nas
+duas atividades, e detectaram 19 temas principais que agrupavam os problemas e
+sugestoes. Os temas foram divididos em tres grupos: 1. Correçoes e ajustes
+indicando açoes de maior urgencia para a operaçao da plataforma; 2. Redesign
+indicando pontos a serem aprimorados e que exigirao prototipaçao e avaliaçao para o
+redesign da plataforma; e 3. Novidades indicando novos recursos que demandarao
+esforços maiores de pesquisa e desenvolvimento e que nao entram no escopo do
+redesign mas que devem ser realizados para a ampliaçao futura da plataforma.
+
+O Grupo Focal ocorreu de forma online em duas sessoes viabilizadas pela
+Equipe Tecnica do MEC, tendo como ponto de partida a apresentaçao dos 19 pontos
+resultantes da Analise Tematica, e como foco a discussao sobre o escopo e significancia
+desses pontos e seus possiveis desdobramentos. Um novo ponto foi incluido: “Interaçao
+com outras plataformas”, resultando em 20 pontos. Apos a atividade, os resultados
+foram sumarizados e serviram de base para o refinamento dos pontos, com as
+respectivas recomendaçoes fornecidas pela equipe tecnica.
+
+**DISCUSSAO E CONSIDERACOES**
+
+O diagnostico produzido como resultado das atividades descritas revelou questoes
+criticas de UX, usabilidade e acessibilidade a serem consideradas no redesign da
+plataforma para viabilizar seu acesso e uso por uma ampla diversidade de pessoas,
+tornando-a mais inclusiva e acessivel. Cada ponto de investigaçao esta relacionado a um
+ou mais problemas que precisam ser solucionados ou ate mesmo investigados em
+pesquisas multidisciplinares. Esses pontos nao apenas informarão a correçao de
+problemas e redesign da plataforma, conforme solicitado pelo MEC, mas tambem
+servirao de insumo para evoluçao e continuidade da plataforma.
+
+A combinaçao de metodos utilizada nas avaliaçoes auxiliou os avaliadores a
+constituirem uma visao mais abrangente dos elementos que podem afetar a experiencia
+das pessoas no uso da plataforma. A variedade de avaliadores contribuiu para conduzir
+uma avaliaçao que nao se preocupou somente com questoes tecnicas e criterios de
+qualidade, mas em considerar tambem o valor e proposito da plataforma para a vida das
+pessoas que irão utiliza-la. O Grupo Focal foi relevante para criar um sentido
+compartilhado entre diferentes perfis de avaliadores sobre a maneira como os problemas
+identificados afetam a experiencia de usuario e como a plataforma poderia ser
+redesenhada para garantir acesso e boa experiencia. A partir da discussao, as
+necessidades de correçao foram priorizadas, contribuindo para que os resultados da
+avaliaçao nao sejam apenas uma lista abstrata ou um plano inconcebivel, desprendido da
+realidade do projeto, mas sim uma contribuiçao efetiva para a sua evoluçao.
+
+**CONSIDERACOES FINAIS**
+
+A combinaçao de diferentes metodos de avaliaçao, como a avaliaçao heuristica, o feedback de especialistas em educaçao e o grupo focal, mostrou-se uma abordagem eficaz para diagnosticar e informar o redesign da Plataforma MEC RED. Os resultados obtidos forneceram uma base solida para melhorar a experiencia do usuario, a usabilidade e a acessibilidade da plataforma, garantindo que ela cumpra seu proposito de oferecer recursos educacionais digitais de qualidade para todos.

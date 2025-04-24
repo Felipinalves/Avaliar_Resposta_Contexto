@@ -1,0 +1,162 @@
+**INTRODUCAO**
+
+O uso de tecnologias de casa inteligente tem mostrado potencial
+crescente para melhorar a qualidade de vida de pessoas com alguma
+deficiencia ou limitaçao. Com a utilizaçao de tais recursos, e pos-
+sivel tornar as atividades cotidianas desse grupo de usuarios mais
+acessiveis e, assim, proporcionar maior independencia, autonomia
+e inclusao social.
+
+Em paises em desenvolvimento, como o Brasil, ha carencia de
+aparelhos e aparelhos acessiveis aos usuarios com deficiencia visual,
+fruto de uma legislaçao de acessibilidade mais fraca. Regioes mais
+desenvolvidas, como a Europa Ocidental, tiveram eletrodomesticos
+acessiveis especificos mais disponiveis para pessoas com deficiencia
+visual. No entanto, em paises em desenvolvimento como o Brasil,
+ha comparativamente menos disponibilidade de tais dispositivos
+acessiveis, muitas vezes com custos de importacao impeditivos.
+
+O estudo teve como objetivo investigar os habitos, preferencias,
+expectativas e experiencias de pessoas com deficiencia visual com
+suas atividades diarias em casa e suas expectativas e experiencias
+com tecnologias de casa inteligente, considerando o contexto espe-
+cifico de um pais em desenvolvimento no Brasil. O estudo envolveu
+entrevistas com pessoas com deficiencia visual de diferentes regioes
+do pais e com diferentes origens sociais.
+
+Este artigo e uma sintese de um trabalho publicado por Oliveira
+et al. [2] na revista Behaviour & Information Technology.
+
+
+**METODO**
+
+O projeto contemplou entrevistas com pessoas com deficiencia vi-
+sual de diversas partes do Brasil. Os participantes da entrevista
+foram recrutados por e-mail ou pessoalmente pelos autores. Pes-
+soas com deficiencia visual limitaçao de idade foram convidadas a
+contribuir voluntariamente para este estudo.
+
+A coleta de dados utilizou entrevistas semiestruturadas aplicadas
+por telefone ou pessoalmente com pessoas com deficiencia visual. A
+estrutura da entrevista teve como foco obter mais informaçoes sobre
+as percepçoes desse grupo de usuarios em relaçao as tecnologias
+das casas inteligentes.
+
+Participaram das entrevistas 20 pessoas (5 mulheres e 15 homens)
+com deficiencia visual, com idades entre 25 e 66 anos (media 44,65).
+Entre os participantes, 14 eram cegos (cinco cegos nao congeni-
+tos, nove cegos congenitos) e seis com baixa visao (variando de
+0,05% a 20% de visual residual). A analise dos dados empregou a
+analise tematica  das respostas e comentarios fornecidos pelos
+participantes durante a entrevista.
+
+**RESULTADOS E DISCUSSAO**
+
+O uso de eletrodomesticos eliciado neste estudo esteve intimamente
+relacionado a pessoas com deficiencia visual que moram sozinhas.
+Os usuarios realizavam as mesmas atividades cotidianas que os
+videntes fazem, como limpar, cozinhar, divertir-se em casa (assistir
+TV, ouvir radio, usar a internet), etc. No entanto, algumas atividades
+so sao possiveis devido ao tempo de pratica.
+
+No entanto, existem atividades mais desafiadoras para realizar
+relacionadas a necessidade de auxilios visuais, como limpar e cozi-
+nhar. Um entrevistado chegou a afirmar que repetiu tres vezes suas
+tarefas de limpeza porque nao tem certeza se a casa esta suja ou
+nao. Tambem se dizia que lavar as roupas era complicado, pois era
+preciso separar as roupas para lavar. Alem disso, as maquinas de
+lavar usadas por todos os entrevistados nao tinham acessibilidade
+para pessoas com deficiencia visual usarem totalmente recursos
+especificos (por exemplo, lavagem rapida, roupa pesada e outros).
+
+O artigo contribui com um mapa tematico que abrange um qua-
+dro conceitual de fatores que afetam as necessidades e o contexto
+da casa inteligente para pessoas com deficiencia visual em um pais
+em desenvolvimento.
+
+A analise tematica das entrevistas resultou em 6 temas principais:
+1) como as pessoas vivem suas vidas em casa e ao redor, 2) como
+as pessoas interagem com aparelhos, objetos e ambientes atuais, 3)
+como as pessoas percebem sua atitude em relaçao as tecnologias, 4) a
+Contexto brasileiro de casas inteligentes, 5) o que as pessoas pensam
+que casas inteligentes deveriam fazer e 6) vislumbrar formas de
+interagir com sistemas de casas inteligentes. Cada tema foi dividido
+em subtemas e categorias relacionadas.
+
+O Tema 1 diz respeito a descriçao do que o estudo aprendeu
+com o que pessoas com deficiencia visual fazem para viver suas
+vidas em casa e no entorno de suas casas. O estudo contou com
+uma variedade de participantes em diferentes arranjos de moradia:
+participantes que moravam sozinhos, participantes que moravam
+com companheiros e conjuges, familias com videntes e familias
+apenas com cegos. Este tema teve tres subtemas: coisas dificeis de
+fazer, tarefas que as pessoas fazem e tarefas que as pessoas nao
+realizam.
+
+Tema 2: Como as pessoas interagem com dispositivos, objetos e
+ambientes atuais: Insights para desenvolver tecnologias domesti-
+cas inteligentes aprimoradas para pessoas com deficiencia visual
+precisam considerar como elas interagem com seus eletrodomesti-
+cos, objetos e ambientes que os cercam. Este tema abrangeu dois
+subtemas, descrevendo as dificuldades encontradas com aparelhos,
+objetos e ambientes, e soluçoes alternativas e estrategias que as
+pessoas usam para supera-los.
+
+Tema 3: Como as pessoas percebem suas atitudes em relaçao a
+tecnologia. Neste tema, agrupamos categorias que retratam atitu-
+des em relaçao a tecnologia em geral, que sao importantes para
+compreender as limitaçoes e habilidades dos participantes no uso
+das tecnologias, incluindo as tecnologias de casa inteligente.
+
+Tema 4: O Contexto Brasileiro das Casas Inteligentes. Este tema
+abarcou questoes especificas levantadas pelos participantes que
+mostram particularidades importantes do contexto brasileiro e
+como elas afetam a forma como as pessoas com deficiencia visual
+no Brasil. Os subtemas incluem a disponibilidade de tecnologias no
+mercado, questoes economicas e linguisticas.
+
+Tema 5: O que as pessoas pensam que as casas inteligentes devem
+fazer. O estudo analisou todos os comentarios dos participantes so-
+bre os tipos de recursos que eles gostariam que uma casa inteligente
+tivesse. Todos os participantes afirmaram nunca ter usado nenhum
+sistema de casa inteligente, embora ja tivessem ouvido falar de
+sistemas semelhantes. Os principais motivos de nunca ter utilizado
+tais sistemas foram a dificuldade de encontra-los no mercado e o
+alto custo financeiro para obte-los.
+
+Tema 6: Imaginando maneiras de interagir com sistemas de casa
+inteligente. Durante as entrevistas, pedimos aos participantes que
+nos fornecessem suas opinioes sobre o que eles acreditavam que
+seriam bons modos de interaçao e dispositivos que eles usam, o que
+poderia ajudar a projetar sistemas domesticos inteligentes interati-
+vos. O tema teve dois subtemas principais: 1) Possiveis maneiras
+de interagir com casas inteligentes e 2) Os dispositivos que podem
+ajudar a operar casas inteligentes.
+
+**CONCLUSAO**
+
+Este artigo investigou os habitos e expectativas de pessoas com
+deficiencia visual em relaçao aos sistemas de automaçao residen-
+cial e serviços inteligentes, a fim de aumentar sua independencia
+na vida cotidiana em casa. Foram relatados habitos domesticos e
+dificuldades nas atividades diarias. Vinte pessoas participaram de
+entrevistas para conhecer melhor as necessidades desses usuarios e
+as percepçoes das tecnologias de casa inteligente.
+
+O trabalho abordou os temas 1) "como as pessoas com deficiencia
+visual vivem em suas casas e no entorno", 2) "como as pessoas inte-
+ragem com dispositivos, objetivos e ambientes digitais", 3) "como as
+pessoas percebem suas atitudes em relaçao a tecnologia", 4) "o con-
+texto brasileiro de casas inteligentes", 5) "o que as pessoas pensam
+que as casas inteligentes devem fazer" e 6) "imaginando maneiras
+de interagir com sistemas de casa inteligente".
+
+Como trabalho futuro, planejamos um novo prototipo de ambiente domestico inteligente seguindo as recomendacoes encontradas
+pelo estudo e a avaliacao por usuarios reais. Outro estudo que pode
+ser derivado e o uso de solucoes inteligentes no ambiente externo e
+nao apenas em casa. Tambem planejamos expandir a investigacao
+para outras regioes com menores indices de desenvolvimento.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este estudo qualitativo forneceu insights valiosos sobre as necessidades e expectativas de pessoas com deficiencia visual no Brasil em relaçao as tecnologias de casas inteligentes. Os resultados revelaram a importancia de considerar as particularidades do contexto brasileiro, como a disponibilidade limitada de dispositivos acessiveis e questoes economicas, ao desenvolver soluçoes para esse grupo de usuarios. Ao integrar esses aspectos no design e na implementaçao de tecnologias de casas inteligentes, e possivel promover maior independencia, autonomia e inclusao social para pessoas com deficiencia visual no Brasil.

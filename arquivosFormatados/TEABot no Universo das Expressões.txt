@@ -1,0 +1,124 @@
+**Resumo**
+
+Todos os seres humanos vivenciam emocoes. No entanto, ha individuos
+que enfrentam dificuldades ao expressar, reconhecer, processar e regular suas
+emocoes, um disturbio denominado Alexithymia. O TEABot e um aplicativo ga-
+mificado, utilizado para o treinamento e reconhecimento de expressoes faciais
+emocionais. O app faz uso de inteligencia artificial para identificar a expressao
+facial realizada pelo paciente e personalizar o seu aprendizado, oferecendo uma
+forma mais inteligente e ludica no tratamento da Alexithymia.
+
+**Introducao**
+
+O termo Alexithymia foi apresentado pela primeira vez pelo psiquiatra Peter E. Sif-
+neos, em 1970, para caracterizar um grupo de pacientes com incapacidade para ver-
+balizar suas emocoes [Poquerusse et al. 2018]. A prevalencia da Alexithymia e relati-
+vamente alta em pacientes com transtornos mentais [Leweke et al. 2011] e suas prin-
+cipais caracteristicas inclui a dificuldade em entender e descrever as emocoes dos ou-
+tros [Poquerusse et al. 2018].
+
+O Transtorno do Espectro Autista (TEA) e um disturbio do neurodesenvolvimento,
+caracterizado por dificuldades na comunicacao e interacao social, e por padroes restritos
+ou repetitivos de comportamento ou interesses. O TEA tambem tem sido associado a difi-
+culdades no processamento emocional, especialmente problemas em reconhecer emocoes
+em outras pessoas [Kinnaird et al. 2019]. Estudos indicam que ha uma prevalencia mais
+alta da Alexithymia em pessoas com TEA (49.93%)[Kinnaird et al. 2019]. Para adoles-
+centes com TEA, a taxa e de 55% [Poquerusse et al. 2018].
+
+Este trabalho tem como objetivo apresentar o TEABot, um aplicativo gamificado,
+que faz uso de inteligencia artificial para o treinamento e reconhecimento de expressoes
+faciais emocionais. A Secao 2 apresenta os usuarios, funcionalidades, implementacao e
+gamificacao do TEABot. Na Secao 3, sao apresentadas as consideracoes finais.
+
+**TEABot no universo das expressoes**
+
+O TEABot surgiu em 2018, inicialmente como um robo social assis-
+tivo , por isso o nome "bot", com o objetivo auxiliar nas sessoes
+de terapia para pacientes com Alexithymia atendidos pela Associacao de Pais e Amigos
+do Excepcionais de Serra Talhada (APAEST). Nove participantes, entre 2 e 9 anos, reali-
+zaram Terapia Assistida por Robo, com um total de 42 sessoes, 950 minutos de interacao
+com o robo e mais de 14 mil imagens capturadas . No entanto, em
+2020, com a pandemia de COVID-19, muitos atendidos, por fazerem parte de grupos de
+risco, nao puderam frequentar a APAEST e, por este motivo, o TEABot foi transformado
+em um app, para que os pacientes pudessem continuar o tratamento em casa.
+
+O aplicativo foi criado com o proposito de atender a dois perfis de usuarios: terapeutas
+e pacientes. Os terapeutas poderao utilizar o aplicativo para avaliar e acompanhar o pro-
+gresso dos pacientes, alem de configurar os treinamentos que podem ser realizados tanto
+em casa quanto no consultorio. Os pacientes utilizarao o app para aprender sobre emocoes
+de maneira ludica, atraves de um treinamento personalizado que faz uso de inteligencia
+artificial.
+
+O TEABot oferece aos pacientes dois modulos: Reconhecimento e Treinamento. No modulo de Reconhecimento, os usuarios encontrarao imagens/videos de emocoes
+e devem identificar a emocao apresentada clicando em uma das seis opcoes disponiveis.
+Ja o modulo de Treinamento tem como objetivo treinar os pacientes em cada uma das seis
+emocoes universais , adaptando-se ao desenvolvimento de cada pessoa. O
+software apresenta imagens/videos de emocoes para que o paciente possa imitar. O app
+captura diversas imagens e, com o uso de inteligencia artificial, realiza o reconhecimento
+facial para identificar o desenvolvimento do paciente.
+
+O TEAbot e composto por tres sistemas distintos, que funcionam de forma independente
+e se comunicam por meio de requisicoes via API REST, sendo eles:
+O back-end, desenvolvido em Java utilizando o framework Quarkus.
+O app desenvolvido em Dart utilizando o kit de desenvolvimento Flutter.
+O sistema de inteligencia artificial em nuvem, utilizando a linguagem de
+programacao Python e o microframework Flask.
+
+O modulo de back-end e responsavel por armazenar na nuvem as informacoes
+e as preferencias de cada usuario, os dados coletados durante as sessoes de treina-
+mento/reconhecimento (como seus erros e acertos), e quais sao a emocoes que devem
+ser utilizadas durante as sessao.
+
+O aplicativo e responsavel pela interface com o usuario, e e compativel com
+as plataformas Android e iOS. Por meio da troca de mensagem via API Rest, e feita
+a comunicacao com o sistema de back-end para receber/salvar as preferencias, as
+informacoes do usuario, e gerar relatorios com os dados ja salvos. Durante as sessoes
+de treinamento, o aplicativo realiza capturas do rosto do usuario a cada 0.5 segundos
+e as envia para o sistema em nuvem classifica-las em uma das seis emocoes durante a
+execucao.
+
+O sistema de inteligencia artificial que funciona atraves da computacao em nuvem,
+esta equipado com dois modelos de aprendizado de maquina. Um deles e o sistema de
+reconhecimento facial desenvolvido por Barros, Weber e Wermter (2015), o qual e capaz
+de detectar a intensidade em porcentagem de cada uma das seis expressoes universais e,
+com isso, identificar essas emocoes atraves da expressao facial capturada. Este sistema foi
+escolhido em consequencia de apresentar uma precisao de 72,7% em sua capacidade de
+reconhecimento atraves da face [Barros et al. 2015]. O outro modelo, esta encarregado de
+gerar sequencias personalizadas para cada usuario com as emocoes para serem utilizadas
+durante a sessao de treinamento. Todas essas informacoes transmitidas entre o sistema e
+o aplicativo sao realizadas atraves do microframework o Flask.
+
+[Werbach and Hunter 2012] definiram tres elementos fundamentais que desempenham
+um papel crucial no desenvolvimento da gamificacao: dinamicas, mecanicas e componen-
+tes. Essas categorias sao dispostas em ordem decrescente de abstracao, com mecanicas
+conectadas a uma ou mais dinamicas e componentes vinculados a uma ou mais mecanicas
+ou dinamicas. Para aprimorar a interatividade e diversao do usuario, o TEABot foi desen-
+volvido com base nesses elementos, abrangendo as Dinamicas (como emocoes, narrativa
+e progressao), as Mecanicas (incluindo avaliacao, cooperacao, competicao, desafios e re-
+compensas) e os Elementos (como colecoes, conquistas, emblemas/medalhas, missoes,
+niveis e pontos) [Costa and Marchiori 2015].
+
+No jogo, o desafio dos jogadores e auxiliar o TEABot a aprimorar
+suas habilidades de expressao das emocoes em cada planeta, visto que ele esta imerso no
+universo das expressoes. Sao 10 planetas para serem explorados em cada modulo e as
+recompensas sao dadas por licao, por ofensiva, pontuacao e planetas concluidos. Assim,
+o jogador vai completando o seu inventario.
+
+**Consideracoes Finais**
+
+A busca por solucoes que auxiliem individuos com o disturbio da alexitimia traz um im-
+pacto positivo significativo em suas vidas, promovendo o desenvolvimento da consciencia
+emocional e a melhoria da interacao social. O TEABot, na versao de um robo, foi bem
+aceito pelo publico e apresentou resultados positivos, quando utilizado em terapias. No
+entanto, e de extrema importancia realizar testes e validacoes do aplicativo antes de dis-
+ponibiliza-lo em plataformas digitais para uso da populacao.
+
+Para trabalhos futuros, serao conduzidos teste de usabilidade e acessibili-
+dade [Aguiar et al. 2022]. Por fim, para avaliar o aplicativo como recurso terapeutico,
+sera realizada uma analise comparativa em que um grupo de pacientes sera submetido ao
+treinamento das emocoes por meio de metodos tradicionais, enquanto outro grupo utili-
+zara o aplicativo.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o TEABot representa uma ferramenta promissora para o treinamento e reconhecimento de expressoes faciais emocionais, especialmente para individuos com alexitimia. Ao combinar elementos de gamificaçao e inteligencia artificial, o aplicativo oferece uma abordagem ludica e personalizada para o desenvolvimento da consciencia emocional e a melhoria da interacao social. No entanto, e fundamental realizar testes e validaçoes rigorosas antes de disponibilizar o TEABot para o publico, garantindo sua usabilidade, acessibilidade e eficacia como recurso terapeutico.

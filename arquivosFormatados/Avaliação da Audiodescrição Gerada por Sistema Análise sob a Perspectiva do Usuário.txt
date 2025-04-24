@@ -1,0 +1,217 @@
+**RESUMO**
+
+A audiodescriçao (conhecida como AD) e uma faixa de audio
+narrativa que auxilia as pessoas com deficiencia visual na
+compreensao de conteudos audiovisuais. O profissional
+responsavel por gerar a AD e o audiodescritor. Este tem como
+tarefa transformar as informaçoes visuais de videos ou
+apresentaçoes em audio para os espectadores. Este processo de
+transformaçao exige tempo e possui um alto custo. Como suporte
+para estes profissionais, tendo em vista a reduçao de tempo e
+custo para realizaçao das audiodescriçoes, sistemas automaticos
+geradores de audiodescriçao tem sido desenvolvidos. O objetivo
+deste trabalho de pesquisa consiste em avaliar um sistema gerador
+automatico de audiodescriçao de filmes. A metodologia proposta
+avalia a qualidade da AD gerada sob a perspectiva do usuario
+deficiente visual. O nivel de acessibilidade da AD gerada
+automaticamente, a partir de dois modelos distintos, e de uma AD
+gerada por um audiodescritor foi avaliado a partir da aplicaçao de
+questionario sobre a compreensao dos videos exibidos. Os
+resultados mostraram que o modelo de AD automatica baseado
+em roteiro cinematografico apresentou resultados mais proximos a
+AD humana, enquanto o modelo baseado em reconhecimento de
+objetos contribuiu de forma minima a compreensao, com
+resultados inferiores ao cenario sem audiodescriçao.
+
+**INTRODUCAO**
+
+Em 2000 o governo brasileiro decretou a lei 10.098/2000 para
+promoçao da acessibilidade a partir de normas e criterios de
+acessibilidade para as Pessoas com Deficiencia (PcD) . No
+Brasil, segundo o ultimo Censo Demografico , sao 6,5 milhoes
+de pessoas com deficiencia visual, sendo 582 mil cegas e 6
+milhoes com baixa visao. Esta parte expressiva da populaçao
+enfrenta diversas dificuldades em seu cotidiano. O acesso a
+informaçao e uma barreira real quando o conteudo nao e
+apresentado de forma acessivel (Braille e/ou ledor) - que atinge a
+vida das pessoas com deficiencia visual em diferentes segmentos
+da sociedade (comunicaçao, educaçao, lazer, cultura, etc.).
+Para suprir esta necessidade, o capitulo VII da lei 10.098/2000
+compromete a eliminaçao de barreiras na comunicaçao e
+estabelece mecanismos para tornar acessiveis os sistemas de
+comunicaçao, garantindo as pessoas com deficiencia o direito de
+acesso a informaçao, a comunicaçao, a educaçao, a cultura, ao
+esporte e ao lazer .
+Um dos meios de possibilitar o acesso as informaçoes
+audiovisuais e atraves da audiodescriçao (AD), que consiste no
+detalhamento e apresentaçao de informaçoes visuais relevantes na
+forma de audios descritivos . Ao decorrer do video (ou de uma
+apresentaçao) a AD auxilia o espectador a compreender o
+ambiente, as açoes e a historia em que a cena esta inserida. Assim,
+pessoas cegas ou com baixa visao podem ir ao cinema e teatros
+com a oportunidade de ampliar o conhecimento advindo do
+conteudo das imagens ou cenas ali apresentadas .
+O processo de criaçao da AD e tradicionalmente realizado por
+um profissional, o audiodescritor. Segundo , a produçao
+manual da AD de um longa-metragem de 2 horas de duraçao pode
+demandar 60 horas de trabalho. Ja em relaçao ao custo, um roteiro
+de AD fica em torno de 40 reais por minuto de video no Brasil
+ . Levando em consideraçao uma emissora de televisao com
+uma grade de conteudos atualizada diariamente ou um cinema
+com uma variedade rotativa de filme, o custo e tempo necessarios
+para desenvolvimento e disponibilizaçao de acessibilidade para os
+conteudos sao altos.
+
+Uma das alternativas para diminuir o tempo e custo de
+produçao de AD e sua geraçao automatica por sistemas
+computacionais. Neste caso, o sistema gera automaticamente a
+AD e a introduz no contexto do video. Esta audiodescriçao deve
+possibilitar a compreensao dos conteudos em videos de forma
+semelhante (proxima) a descriçao realizada por um audiodescritor
+humano. Vale salientar que este tipo de sistema nao exclui o papel
+do audiodescritor humano do processo de criaçao de AD. Este
+profissional, essencial no processo de descriçao, utiliza a soluçao
+computacional para otimizar seu trabalho. Ao ser liberado da
+carga total de trabalho, o audiodescritor assume a funçao de
+ajustar a versao gerada pelo sistema e realizar melhorias na
+mesma.
+
+No entanto, para que este cenario seja efetivo, e necessario que
+os sistemas gerem AD de qualidade. Portanto, a definiçao de
+diretrizes para criaçao de audiodescriçao, assim como a avaliaçao
+da AD gerada automaticamente, pode potencializar o uso das
+soluçoes automaticas (ou semiautomaticas). Dessa forma, o
+escopo desta pesquisa envolve a identificaçao e a definiçao de um
+conjunto de diretrizes para apoiar o desenvolvimento e a avaliaçao
+de audiodescriçao gerada por sistema, a partir da perspectiva do
+usuario com deficiencia visual.
+
+**TRABALHOS RELACIONADOS**
+
+Determinadas pesquisas tem como objetivo desenvolver sistemas
+geradores de audiodescriçao e avaliar a qualidade da AD gerada.
+O desenvolvimento de um sistema automatico gerador de
+audiodescriçao cujo objetivo e auxiliar na descriçao das imagens
+em videos voltados a vigilancia e descrito em . Tal sistema
+recebe o video a ser descrito, realiza a detecçao de objetos e
+pessoas nas cenas, e por fim disponibiliza a AD gerada em
+formato de audio. Para verificar a qualidade da AD gerada, os
+autores adotaram um metodo de avaliaçao automatico atraves de
+script. Os elementos verificados foram: quantidade de detecçoes
+de objetos e pessoas que o sistema realizou; a taxa de acerto;
+numero de objetos relatados nas descriçoes; tamanho da frase e
+tempo de narraçao. A partir dessas metricas, foi avaliado se a AD
+gerada corresponde ao esperado ou nao.
+
+Uma revisao sistematica de literatura sobre as tecnicas de
+geraçao automatica e semiautomatica de audiodescriçao foi
+realizada por . Investigou-se quais tecnicas de desenvolvimento
+estao sendo relatados na literatura, quais estrategias de avaliaçao
+estao sendo adotadas para analisar a qualidade de AD geradas
+automaticamente. O autor selecionou 13 artigos e identificou que
+8/13 artigos possuem audiodescriçao automatizadas, apenas um
+artigo apresenta semiautomatizada e os outros 4/13 sao manuais
+ou nao especificado. No quesito relacionado a avaliaçao destes
+sistemas, foi detectado que 10/13 artigos selecionados coletaram
+feedback sobre as ADs atraves de testes com usuarios. Apenas um
+artigo realizou testes automaticos e 2/13 trabalhos nao
+especificaram como foram feitas as avaliaçoes. No fim, o autor
+ressalta a importancia de realizar os testes com usuarios para
+coletar informaçoes relevantes sobre como melhorar as AD
+geradas por sistemas.
+
+**SOLUCAO PRETENDIDA**
+
+A diversidade de vertentes encontradas na literatura para avaliar a
+qualidade da audiodescriçao gerada por sistema, impossibilita
+realizaçao de cruzamento de testes distintos para averiguar qual
+sistema proporciona a qualidade esperada pelo publico alvo.
+Diante disto, esta pesquisa tem como objetivo principal definir um
+conjunto de diretrizes para guiar a avaliaçao da qualidade da
+audiodescriçao gerada (semi) automaticamente a partir da
+perspectiva de usuarios reais (pessoas com deficiencia visual) no
+contexto de Testes de Usabilidade.
+
+**METODOLOGIA**
+
+A metodologia adotada compreende quatro etapas: (i) definiçao do
+sistema gerador e AD e seus modelos de geraçao; (ii) design do
+experimento para realizaçao da avaliaçao da qualidade de AD a
+partir de testes de usabilidade com usuarios com deficiencia visual
+para comparar o nivel de compreensao dos participantes quando
+videos sao exibidos em cenarios distintos de acessibilidade; (iii)
+execuçao do experimento para avaliar se as ADs geradas auxiliam
+na compreensao audiovisual; e, (iv) analise dos resultados para
+definiçao do conjunto de diretrizes.
+
+Atualmente a pesquisa se encontra na primeira versao dos
+testes experimentais, onde sao feitas as analises dos dados
+coletados para realizar o levantamento das melhorias no design do
+experimento e na AD gerada pelo sistema selecionado. A pesquisa
+foi aprovada pelo Comite de Etica e Pesquisa da Universidade
+Federal da Paraiba, atraves do Processo N°11355218.4.0000.5188
+
+**Definiçao do sistema e dos modelos de AD**
+
+A soluçao selecionada para esta pesquisa foi o CineAD, que e um
+sistema desenvolvido pelo Nucleo de Pesquisa e Extensao LAVID
+(Laboratorio de Aplicaçoes de Video Digital) da Universidade
+Federal da Paraiba. O CineAD tem como objetivo, atraves da
+geraçao automatica da AD, reduzir as barreiras enfrentadas pelas
+pessoas com deficiencia visual em relaçao a acessibilidade de
+filmes cinematograficos .
+
+O CineAD possui dois formatos de captaçao para geraçao de
+audiodescriçao automatica. O modelo I utiliza 0 roteiro
+cinematografico como base para geraçao da AD, onde descreve
+personagens, açoes, ambientes e objetos. O modelo II, utiliza
+como base a identificaçao de objetos nas cenas apresentadas no
+video, cuja AD descreve apenas objetos em cena. Neste projeto
+foram analisados os dois modelos disponibilizados pelo CineAD.
+
+Design do experimento
+Os protocolos de usabilidade determinam as etapas, processos e atividades que devem ser planejadas e conduzidas durante a avaliação baseada na observação da interação do usuário 10. Considerando o tipo de produto sob avaliação solução de audiodescrição e o público de usuário com deficiência visual, se faz necessário adaptar protocolo normalmente utilizado em testes de usabilidade de produtos de software genéricos.
+
+Como também todo o material utilizado no experimento seja acessível fichas, questionário, roteiros de teste, termo de consentimento, etc para os usuários com deficiência visual. Além disso, o ambiente onde será realizado o experimento deve ter uma acústica que minimize o barulho externo, evitando interferência por ruído durante a exibição do vídeo e respectiva AD.
+
+O Protocolo Experimental de Observação da Interação PEOI 11, adaptado para esta pesquisa, tem como propósito auxiliar na investigação da relação entre as característica de um indivíduo, sua percepção da situação e o seu desempenho na realização de tarefas durante a realização de testes de usabilidade. A de PEOI se justifica pela possibilidade de adaptação do mesmo para contextos de acessibilidade, como anteriormente realizado para deficientes visuais 1 e para pessoas com Síndrome de Down 10.
+
+Para tornar possível a análise do impacto da audiodescrição gerada pelo CineAD, para ambos os modelos, na compreensão de conteúdos audiovisuais, mais especificamente filmes, os participantes do teste assistiram a um conjunto de curta metragem. Os participantes foram agrupados em 4 grupos A, B, C e D e os vídeos foram disponibilizados considerando 4 cenários
+
+AD H Vídeo com audiodescrição humana
+AD R Vídeo com audiodescrição automática baseada em roteiro cinematográfico via CineAD Modelo I
+AD O Vídeo com audiodescrição automática baseada em reconhecimento de objetos via CineAD Modelo II
+S AD Vídeo sem audiodescrição S AD
+A escolha destes cenários foi idealizada para analisar se as ADs automáticas do CineAD baseada em roteiros e a baseada em identificação de objetos favorecem a compreensão dos conteúdos das mídias de vídeos quando comparadas aos cenários extremos ausência de solução de audiodescrição pior cenário e solução de audiodescrição humana cenário ideal. Para tornar isto possível, os voluntários selecionados foram separados em quatro grupos com quatro participantes cada. Cada grupo de voluntário possui acesso a cada um dos cenários apenas uma vez. O objetivo desta regra é evitar que apenas um grupo avalie um determinado cenário de acessibilidade. Portanto, definiu se uma rotação para a apresentação dos vídeos nos respectivos cenários definidos e para os diferentes grupos Tabela 1.
+
+Os grupos de voluntários formados são constituídos de maneira homogênea em relação à idade, nível de cegueira, escolaridade e experiência prévia com AD. A formação dos grupos foi sistematizada a partir de um questionário pré teste aplicado com os voluntários, a partir do qual foi possível definir a alocação destes nos grupos correspondentes. Os vídeos selecionados são curta metragens, com duração máxima de 10 minutos. Esta configuração se justifica pelo fato do conteúdo abordar uma situação autocontida, com início, meio e fim. A duração máxima de 10 minutos é importante para manter a concentração e o foco dos participantes durante as sessões de teste. Detalhes sobre o perfil dos participantes podem ser acessadas no link http bit.ly 2ZtcN0L
+
+Execução do experimento
+Participaram do experimento 16 voluntários com deficiência visual ou baixa visão, recrutados no Instituto dos Cegos da Paraíba Adalgisa Cunha e na Fundação Centro Integrado de Apoio à Pessoa com Deficiência da Paraíba FUNAD PB, local de realização dos testes. Os participantes assinaram o Termo de Consentimento Livre e Esclarecido. As sessões de teste foram individuais e não paralelas, conduzidas por dois avaliadores e com duração média de 30 minutos.
+
+A coleta de dados foi realizada a partir da aplicação de uma entrevista semiestruturada com os participantes. Esta ocorreu após a exibição de cada vídeo, de forma individual e não paralela. Foram coletadas informações sobre a compreensão dos vídeos história, cenário e objetos dos vídeos para os diferentes cenários considerados. A entrevista foi organizada de forma a contemplar dois objetivos macro. O primeiro relativo ao nível de compreensão dos conteúdos exibidos e respectiva AD, incluindo aspectos de compreensão geral do vídeo, objetos do cenário presentes, características e ou comportamentos dos personagens. As quatro questões apresentadas foram objetivas, a exemplo de
+
+Onde o casal está conversando
+a em casa b no clube c no parque d não sei informar
+
+A compreensão do vídeo é avaliado de acordo com a taxa média de acerto das questões objetivas. Em seguida, questões subjetivas foram apresentadas para os participantes exporem suas considerações e sugestões de melhoria para as ADs exibidas. O acesso ao roteiro da entrevista semiestruturada e as respostas podem ser acessados na íntegra a partir do link http bit.ly 2UdeMp1
+
+Estas perguntas foram realizadas até mesmo para os filmes que não possuem AD, a fim de não induzir o usuário a identificar qual vídeo tem ou não o recurso de acessibilidade de AD.
+
+RESULTADOS PARCIAIS
+A partir dos dados coletados durante o experimento foi possível realizar a análise da taxa média de acertos das questões objetivas de cada cenário proposto. Com o Gráfico 1, é possível identificar que o cenário com a AD baseada em Roteiros possui a taxa de acertos 45.83 mais próxima da AD humana 54.17, que é a considerada como cenário ideal. Já a AD baseada na identificação de objetos ficou próxima da taxa de acertos 25.00 do cenário sem AD, sendo assim uma contribuição mínima na compreensão dos vídeos.
+
+Durante a entrevista semiestruturada alguns voluntários sugeriram melhorias para as ADs geradas pelo CineAD. Os participantes evidenciaram a importância de descrever uma quantidade maior de cenas e detalhar aspectos que auxiliam o ouvinte na compreensão do contexto da cena. Em específico, para o CineAD Modelo II baseado em identificação de objetos, deve descrever ambientes, personagens e ações, não apenas objetos.
+
+Os voluntários também identificaram que, em certos momentos do vídeo, a voz da audiodescrição sobrepõe às dos personagens, sendo difícil de compreender o que era fala e o que era descrição. Como também apontam a semelhança da narração ou dos personagens com a voz sintetizada. As soluções propostas para resolver essas questões são, configurar a sincronização da AD e selecionar um tom de voz distinto do áudio original.
+
+Durante a aplicação do questionário pré teste realizado para descrever o perfil dos voluntários e separá los em grupos, quando perguntado se Você tem acesso a audiodescrição, a resposta se tornou vaga porque os usuários consideravam uma única experiência com AD, como sendo acesso habitual à audiodescrição. Sendo assim, não foi possível avaliar se a familiaridade com o recurso auxilia na compreensão dos vídeos com audiodescrição. A solução proposta seria reformular a pergunta para Com que frequência você tem acesso a AD e as alternativas da resposta para Nunca tive acesso, Raramente, Regularmente, Com frequência e No dia a dia.
+
+Após as implantações das melhorias recomendadas será realizado uma nova rodada de experimento com novos voluntários, com o objetivo de analisar se os pontos identificados neste experimento foram solucionados e se a AD gerada pelo CineAD aumentou o nível de compreensão dos usuários.
+
+CONTRIBUIÇÕES ESPERADAS
+Este trabalho apresentou uma metodologia de avaliação de qualidade de audiodescrição gerada automaticamente por sistemas, especificamente CineAD, sob o ponto de vista de pessoas com deficiência visual. Quando concluída a fase de análise da perspectiva do usuário, será desenvolvida uma metodologia de testes computacionais para avaliação da AD automática sem a presença de usuários. Para isso, práticas e métricas serão identificadas, além de métodos automáticos de avaliação de audiodescrição. A partir desses dois parâmetros com ou sem usuário espera se ser capaz de criar um conjunto de diretrizes que permita avaliar a audiodescrição gerada por um sistema.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho destaca a importancia de considerar a perspectiva do usuario na avaliaçao de sistemas de audiodescriçao automatica. Os resultados parciais obtidos demonstram que a AD baseada em roteiro cinematografico apresenta um desempenho superior a AD baseada em reconhecimento de objetos, indicando que o contexto e a narrativa sao elementos cruciais para a compreensao de conteudos audiovisuais por pessoas com deficiencia visual. A metodologia proposta neste trabalho podera contribuir para o desenvolvimento de diretrizes mais eficazes para a criaçao de sistemas de audiodescriçao que promovam uma experiencia mais rica e acessivel para todos.

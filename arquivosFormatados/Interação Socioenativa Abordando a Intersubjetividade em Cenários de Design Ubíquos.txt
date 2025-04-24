@@ -1,0 +1,139 @@
+**RESUMO**
+
+A complexidade de cenarios de computaçao ubiqua e pervasiva con-
+vidam outras formas de considerar a interaçao humano-tecnologia. A aborda-
+gem enativa da cogniçao, centrada na experiencia humana no ambiente, tem se
+mostrado como uma possibilidade para compreender a interaçao nesses novos
+cenarios. Neste artigo apresentamos uma visao de interaçao, denominada soci-
+oenativa, para explicar nossa relaçao com as tecnologias computacionais con-
+temporaneas em cenarios de sistemas ubiquos e pervasivos, entendida a partir
+da perspectiva enativista. A interaçao socioenativa e ilustrada em tres cenarios
+praticos (escola, museu e hospital). As implicaçoes do estudo sao discutidas le-
+vando a aspectos a serem considerados no design de interaçoes socioenativas.
+
+**INTRODUCAO**
+
+A medida que a tecnologia se infiltra na vida das pessoas, o design de interaçao exige
+uma reformulaçao continua dos seus fundamentos e da sua pratica cientifica, reconcei-
+tuando as relaçoes entre os humanos e os seus mundos digitais. Na decada de 1990,
+apresentou o conceito de “computaçao ubiqua”, que coloca a tecnologia
+em segundo plano, permitindo que as pessoas sejam mais conscientes de outras pessoas
+no mesmo local. No cenario da ubiquidade, portanto, nao se trata de deslocar a intera-
+çao de um para varios computadores no ambiente, mas de compreender como a interaçao
+pode ocorrer por meio da açao e interaçao social do corpo inteiro. Neste novo cenario, ο
+humano vive num interespaço com artefatos, tecnologias e outras pessoas, trazendo toda
+a sua vida para a situaçao, sua cultura, valores, emoçao e experiencia.
+
+Assim, baseamos nosso trabalho na abordagem enativa, que encontrou em
+sua principal referencia. A abordagem enativa entende a relaçao
+mente-corpo como o fenomeno da propria vida e da existencia .
+Visto de uma perspectiva enativa, os seres vivos nao apenas traduzem informaçao do am-
+biente em representaçoes internas para serem processadas e fornecerem um resultado;
+pelo contrario, existe uma relaçao bidirecional entre o ser cognitivo e o seu mundo,
+resultante da sua atividade de construçao de significado enquanto atua no ambiente. As ideias do paradigma enativista sao promissoras para
+a compreensao das relacoes de coexistencia e especificacao mutua entre humanos e computadores, como tambem apontado por [Kaipainen et al. 2011]. Desse modo, abordamos
+a seguinte questao de pesquisa:
+Pergunta de Pesquisa: Como compreender e projetar para o efeito mutuo
+entre a acao humana e o ambiente constituido pela tecnologia ubiqua e
+pelas pessoas, nos seus aspectos relacionais?
+Neste resumo expandido
+, apresentamos uma visao de interacao denominada socioenativa para esbocar uma explicacao para nossa relacao com as tecnologias computacionais contemporaneas. O “socio” em socioenativo indica um reconhecimento dos aspectos
+intersubjetivos da interacao em sistemas entendidos a partir da perspectiva enativista.
+
+
+**SISTEMAS SOCIOENATIVOS**
+
+Numa compreensao enativa, o ambiente fisico e o agente humano corporificado consti-
+tuem um sistema unico. Alem disso, o agente humano muitas vezes nao esta sozinho. As
+relaçoes intersubjetivas neste ambiente, tais como atençao e açao conjuntas, e coordena-
+çao, contribuem para a construçao participativa de significado. A atençao conjunta sobre
+um objeto de interesse pode levar a uma açao conjunta de duas ou mais pessoas sobre
+ele, que por sua vez pode envolver a coordenaçao de movimentos e praticas comunicati-
+vas (por exemplo, gestos, expressoes faciais) em contextos situados que tambem incluem
+tecnologia.
+ilustra a relaçao humano-tecnologia de modo a enquadrar nossa
+compreensao de interaçao em um sistema socioenativo, envolvendo a interaçao entre hu-
+manos e com elementos fisicos (F, na figura) presentes no ambiente, incluindo tecnologia
+e elementos digitais (D, na figura), com influencias bidirecionais e tambem proprias.
+
+**TRES CENARIOS SOCIOENATIVOS**
+
+A abordagem socioenativa da interaçao foi proposta e investigada em um projeto de pes-
+quisa que estudou o design da interaçao em cenarios de tecnologia ubiqua sob uma pers-
+pectiva fenomenologica. Cenarios constituidos com diferentes configuraçoes do acopla-
+mento social-fisico-digital foram realizadas em tres contextos: escola, museu e hospital.
+
+O estudo envolveu oficinas semioparticipativas
+realizadas nas dependencias dos parceiros por meio de diferentes artefatos. Os partici-
+pantes das oficinas incluem crianças, seus familiares, pesquisadores, e pessoal do local
+(medicos, professores ou monitores, a depender do cenario). Diferentes artefatos foram
+co-projetados e explorados, por exemplo, instalaçoes interativas , pe-
+lucias abraçaveis e visualizaçoes , objetos tangiveis em mesa intera-
+tiva , e robos interativos .
+ilustra momentos do uso de alguns artefatos em oficinas realizadas nos tres
+cenarios.
+
+Investigando os aspectos apreensiveis da
+intersubjetividade,
+oferecem um metodo para desdobrar sistematicamente a
+experiencia interativa, baseado em tres elementos envolvidos na percepçao: sensaçao
+(sensing), sentimento (feeling), e pensamento (thinking). No cenario da escola, as
+crianças brincam com o robo e a tarefa de direciona-lo para um alvo, agindo com seus
+corpos e suas botas. Conforme o robo reage, elas expressam diferentes sentimentos,
+como alegria e entusiasmo por controla-la juntos e correr riscos. Direcionar o robo ate o
+alvo envolve colaboraçao e construçao participativa de significado. No cenario do museu,
+por sua vez, ha um contato direto mao-artefato sentido pela tangibilidade da instalaçao.
+A curiosidade leva ao comportamento ludico de tocar os tambores de diferentes formas
+e ritmos. As crianças muitas vezes apontam para elementos da instalaçao e imagens
+exibidas, falam sobre o que estao fazendo e o que estao percebendo, e compartilham o
+controle sobre o artefato. No cenario do hospital, por fim, as crianças se sentam em um
+circulo para compartilhar as pelucias enquanto as abraçam e ouvem a sua resposta. Sao
+perceptiveis aconchego, conforto, uniao, carinho e alegria (sentimentos pouco comuns
+em visitas medicas). Durante a atividade, as crianças observam mudanças, apontam,
+conversam, e associam suas açoes a açoes do sistema.
+
+**INTERACAO SOCIOENATIVA**
+
+Para responder nossa pergunta de pesquisa, “Como compreender e projetar para o efeito
+mutuo entre a açao humana e o ambiente constituido pela tecnologia ubiqua e pelas pes-
+soas, nos seus aspectos relacionais?”, propusemos o conceito de interaçao socioenativa e
+ilustramos a sua pratica em tres diferentes cenarios.
+
+Para o conceito de interacao socioenativa, recorremos a perspectiva enativista, que
+entende o nosso ser no mundo como o resultado da construcao participativa de significado
+das pessoas e do seu ambiente. Argumentamos que a relacao humano-tecnologia pode ser
+entendida como uma especificacao mutua no e com o ambiente. Alem disso, tambem
+somos no mundo por meio de outros; assim, os aspectos intersubjetivos da interacao devem ser considerados na concepcao de ambientes ubiquos. Nossa interacao socioenativa
+com a tecnologia computacional contemporanea envolve todo o corpo em seus aspectos
+fisicos, emocionais e sociais. O design de interacao socioenativa, portanto, pressupoe
+um acoplamento tripartido social-fisico-digital, conforme ilustrado na Figura 1. Desse
+modo, sistemas socioenativos foram materializados em diferentes cenarios, destacando
+seu acoplamento tripartido e relacoes intersubjetivas (atencao conjunta, acao conjunta,
+coordenacao). Embora os diferentes cenarios evoquem experiencias diferentes em termos
+de sensacoes, sentimentos, pensamento e acoes, a ambientacao, os artefatos e os acoplamentos que constituem os cenarios levaram a narrativas envolventes, capazes de sustentar
+circularmente as relacoes intersubjetivas das criancas nos seus processos individuais e
+participativos de construcao de significado.
+
+**CONCLUSAO**
+
+Temos experimentado limites cada vez mais confusos para a relaçao humano-tecnologia,
+com a tecnologia onipresente no plano de fundo. Nesse contexto, pouco se tem discutido
+sobre o papel do “outro” e das relaçoes intersubjetivas nestes novos cenarios. Recor-
+rendo a uma perspectiva enativista, apresentamos o conceito de interaçao socioenativa.
+Ao acentuar o “socio”, enfatizamos as facetas intersubjetivas da interaçao que precisam
+de foco no design de sistemas ubiquos e pervasivos. Tal abordagem mostrou sua versati-
+lidade, sendo ilustrada em diferentes cenarios de design para contextos de escola, museu
+e hospital. As configuraçoes, os artefatos e os acoplamentos que constituem os cenarios
+ambientais levaram a diferentes experiencias de sensaçao, sentimento, pensamento e açao
+em narrativas com construçao participativa de significado.
+
+Estabelecido o conceito de interaçao socioenativa, novas pesquisas devem se apro-
+fundar em linhas de investigaçao especificas, como ensino-aprendizagem, jogos e o fenô-
+meno de jogar/brincar (play), e computaçao afetiva e emocional. A abordagem que propo-
+mos leva a implicaçoes praticas na forma como projetamos maneiras de viver no mundo,
+incluindo os significados para o corpo, para outros corpos, e as nossas diferenças na rela-
+çao acoplada com ambientes aprimorados por tecnologia.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, este artigo propoe uma abordagem inovadora para o design de interaçoes em cenarios de computaçao ubiqua e pervasiva, enfatizando a importancia das relaçoes intersubjetivas e da construçao participativa de significado. Ao destacar o papel do “outro” e ao reconhecer a influencia do contexto social, fisico e digital, a interaçao socioenativa oferece um caminho promissor para o desenvolvimento de sistemas mais humanos, responsivos e adaptados as necessidades das pessoas.

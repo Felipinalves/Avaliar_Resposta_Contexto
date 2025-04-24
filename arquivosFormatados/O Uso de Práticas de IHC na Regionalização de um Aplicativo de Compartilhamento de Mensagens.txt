@@ -1,0 +1,222 @@
+**RESUMO**
+
+O WhatsApp e um aplicativo que permite o
+compartilhamento de mensagens, sendo amplamente
+utilizado no Brasil e no mundo. Devido a
+internacionalizaçao do seu publico-alvo, o WhatsApp nao
+abrange caracteristicas de uma regiao especifica em seu
+design de interaçao. A partir dessa premissa, foi proposta na
+disciplina de Interaçao Humano-Computador (IHC) do
+curso de Sistemas de Informaçao da Universidade Federal
+do Para, cidade de Cameta-PA, a regionalizaçao desse
+aplicativo. Essa disciplina considerou aspectos culturais da
+cidade onde o curso e ofertado e estimulou a criatividade
+dos alunos, a partir da aplicaçao das praticas de IHC na
+customizaçao da interface do WhatsApp. Posteriormente,
+solicitou-se que os alunos avaliassem a usabilidade das
+interfaces propostas seguindo a norma ISOIEC 9126.
+Espera-se, a partir desse relato, que outros professores
+possam replicar esta experiencia didatica no ensino de IHC.
+
+**INTRODUCAO**
+
+Cada vez mais aplicativos fazem parte do nosso cotidiano e
+moldam nossas interaçoes e comportamentos sociais. Um
+exemplo desses e o WhatsApp, aplicativo que permite o
+compartilhamento de mensagens, atraves de textos, audios e
+videos . Esse aplicativo e amplamente utilizado no
+Brasil e em mais de 180 paises, para comunicaçao pessoal e
+ate a profissional. No entanto, devido mesmo a
+internacionalizaçao do seu publico-alvo, o WhatsApp nao
+abrange caracteristicas de uma regiao especifica em seu
+design de interaçao, o que poderia potencializar a
+experiencia dos seus usuarios.
+
+Segundo Preece, Rogers e Sharp , grande parte dos
+sistemas interativos foram criados somente com a intençao
+de atender aos requisitos funcionais do cliente, nao se
+preocupando com o usuario e a forma como o mesmo iria
+interagir com a aplicaçao. Os autores afirmam, ainda, que
+do ponto de vista da Engenharia de Software, o sistema
+pode funcionar corretamente. Entretanto, no que diz
+respeito a Interaçao Humano-Computador (IHC), seu uso
+pode ser dificultado, fazendo com que o usuario tenha que
+se adaptar ao sistema, quando deveria ocorrer o inverso.
+
+No que diz respeito a IHC em ambito educacional, pode ser
+definida como uma area interdisciplinar que possui um
+conjunto de processos, dialogos, e açoes atraves dos quais o
+usuario humano interage com um computador. Ela faz parte
+da grade curricular dos cursos de graduaçao em computaçao
+e informatica, recomendadas nas diretrizes curriculares da
+Sociedade Brasileira de Computaçao (SBC) .
+
+Na Universidade Federal do Para, situada na cidade de
+Cameta, a disciplina de IHC e ministrada no 6o semestre,
+englobando temas relevantes e essenciais para o
+desenvolvimento de softwares interativos para as diversas
+plataformas, como por exemplo: Padroes de Interface,
+Design Centrado no Usuario, Usabilidade, entre outros.
+
+A partir do contexto apresentado, foi proposta em duas
+ofertas da disciplina de IHC, no segundo semestre de 2017
+e no primeiro de 2018, do curso de Sistemas de Informaçao
+da Universidade Federal do Para, atividades avaliativas que
+consistiram na regionalizaçao do aplicativo de
+compartilhamento de mensagens WhatsApp. Dessa forma,
+solicitou-se aos alunos que customizassem a interface desse
+aplicativo a partir do uso das praticas de IHC apresentadas
+na disciplina. Posteriormente, os alunos avaliaram as
+interfaces propostas a partir das caracteristicas de
+usabilidade da norma ISO/IEC 9126 .
+
+Este artigo apresenta o relato das atividades avaliativas
+conduzidas nessa disciplina, focando no impacto da cultura
+regional e da criatividade dos alunos no resultado do design
+proposto para o aplicativo. Esse relato e descrito a partir do
+ponto de vista do professor (didatica de ensino).
+
+Alem desta secao introdutoria, na Secao 2 sao abordados conceitos de Interacao Humano-Computador e Usabilidade, alem das praticas de IHC utilizadas nesta pesquisa. Ja na Secao 3 sao apresentadas atividades avaliativas relacionadas a regionalizacao da interface do WhatsApp, alem das metodologias de ensino adotadas. A Secao 4 relata os resultados obtidos, a partir das atividades realizadas e do atendimento das praticas de IHC. Por fim, a Secao 5 apresenta as conclusoes do artigo, as dificuldades encontradas, alem dos trabalhos futuros desta pesquisa.
+
+REFERENCIAL TEORICO
+
+De acordo com Preece e Rombach, a disciplina de IHC esta relacionada ao projeto, implementacao e avaliacao de sistemas computacionais interativos para uso humano, juntamente com os fenomenos relacionados a esse uso. Nesse sentido, a IHC se refere as formas com que o homem interage com o computador, bem como as teorias e tecnicas de projeto utilizadas para tornar o sistema interativo. De maneira complementar, Barbosa et al. definem a IHC como o conjunto de processos, dialogos e acoes atraves dos quais o usuario humano interage com um computador. Dessa forma, a aplicacao de IHC deve ser evidenciada pelos desenvolvedores desde a concepcao (considerando aspectos culturais e modelos mentais dos usuarios) ate o nivel mais alto (abrangendo a interface do usuario) do processo de criacao de software.
+
+A interface de usuario e um fator determinante para o sucesso ou fracasso de um sistema computacional, seja esse comercial, cientifico, de apoio a tomada de decisao ou educacional. A preferencia dos usuarios e usufruir de um sistema que seja facil, agradavel e confortavel quanto ao uso, o que acaba por gerar boa aceitacao de determinado software. Contudo, o que acontece na maioria das vezes sao sistemas com muitas funcionalidades e grande complexidade de uso. Esses fatores contribuem para o fracasso ou ma aceitacao de produtos de softwares.
+
+O uso das praticas adequadas de IHC permite desenvolver sistemas com uma boa usabilidade. A usabilidade e definida pela norma ISOIEC 9126 como a capacidade de um produto de software de ser compreendido, aprendido, operado, e atraente ao usuario, quando utilizado sob condicoes especificas. Assim, essa norma define como atributos de qualidade as seguintes caracteristicas: Inteligibilidade, Apreensibilidade, Operacionalidade e Atratividade.
+
+A Inteligibilidade consiste na capacidade de o sistema possibilitar ao usuario compreender se o mesmo e apropriado e como pode ser usado para tarefas e condicoes de uso especificas. Ja a Apreensibilidade define a capacidade de o sistema possibilitar ao usuario aprender sua aplicacao facilmente. Adicionalmente a Operacionalidade consiste na capacidade de o sistema possibilitar ao usuario opera-lo e controla-lo. Por fim, a Atratividade define a capacidade do produto de software de ser atraente ao usuario.
+
+Para contribuir com o processo de interacao entre usuario e aplicacao, e consequentemente, torna-la satisfatoria, os projetistas e desenvolvedores de aplicacoes podem adotar as seguintes praticas (P) de IHC:
+
+P1 - Analise e Modelagem de Usuario: diz respeito ao conhecimento de fatores humanos, onde sao analisados fatores cognitivos da interacao entre pessoas, maquinas e ambiente de trabalho. E necessario entender como os usuarios agem, pensam e como estao realizando suas atividades;
+
+P2 - Analise e Modelagem das Tarefas: apos a coleta de dados dos usuarios e do sistema, faz-se necessario a estruturacao dessas informacoes para analise e registro das especificacoes do software;
+
+P3 - Conhecimento do Hardware e Software: e necessario que se conhecam as caracteristicas tanto do hardware quanto do software no que se refere ao ambiente onde o sistema sera implantado.
+
+Um conceito implementado nos aplicativos atuais e o design participativo, onde usuarios e equipe de desenvolvimento estao em constante contato para que se possa suprir o maximo possivel dos requisitos e o produto final saia como desejado. Geralmente, esta interacao se da atraves da utilizacao de prototipos (funcionais ou nao). Dessa forma, os problemas identificados durante a avaliacao podem ser corrigidos antes que o produto final seja entregue.
+
+Com base nos requisitos identificados junto aos usuarios e a participacao dos mesmos no processo de avaliacao, ainda durante o processo de desenvolvimento, criam-se designs para atender as demandas. Para o desenvolvimento desses designs pode-se utilizar as seguintes praticas da IHC:
+
+P4 - Estilos de Interacao: representam as maneiras como os usuarios interagem ou se comunicam com o sistema, seja por meio de um toque na tela ou por outras formas de interacao;
+
+P5 - Paradigmas de Interacao: e a ordem com que os usuarios acionam os elementos dispostos na aplicacao a fim de resolver uma tarefa;
+
+P6 - Tipos de Interface: refere-se ao desenvolvimento de uma interface confortavel, segura, amigavel e que repasse sensacao de bem-estar aos usuarios;
+
+P7 - Principios de Usabilidade: analisa os criterios de usabilidade do sistema para aprimorar o desempenho do usuario ao interagir com a aplicacao;
+
+P8 - Avaliacao Heuristica: sao regras que descrevem as propriedades de usabilidade das interfaces graficas e avaliam o design utilizado.
+
+PROPOSTA DE REGIONALIZACAO
+
+Inicialmente, o professor analisou a ementa da disciplina, que abordava: design centrado no usuario; fatores humanos em software interativo; padroes para interface; e usabilidade (definicao e metodos para avaliacao).
+
+A disciplina possui carga horaria de 68 horas, sendo 36 teoricas e 32 praticas. A metodologia de ensino, que anteriormente era tradicional, ou seja, consistia em aulas teoricas expositivas, foi alterada para aulas praticas a fim de que os alunos pudessem aplicar os conceitos e praticas (apresentadas na Secao 2) em laboratorios de informatica e, consequentemente, realizassem as atividades avaliativas. Adicionalmente, solicitou-se que os alunos fizessem a exposicao dos resultados dos seus projetos.
+
+Quanto a avaliacao, que anteriormente consistia em provas escritas, foi alterada pelo professor a fim de fazer com que os alunos aplicassem, em grupo, os topicos abordados nas aulas teoricas no desenvolvimento de um projeto pratico. Assim, apresentou o seguinte desafio: Criar um prototipo de interface do WhatsApp Paraense (Cametaense). Esse desafio objetivou analisar como a cultura influencia a criatividade dos alunos na regionalizacao de um aplicativo de grande aceitacao no mercado.
+
+A cidade de Cametá, situada no estado do Pará, regiao da Amazonia-Tocantina, possui uma grande riqueza cultural. A populacao cametaense e marcada pela mistura de varias etnias: indigena, francesa, portuguesa, e tais influencias sao nitidamente visiveis. Por exemplo, a forma de falar possui grande influencia do frances e a culinaria apresenta influencia de pratos tipicamente indigenas, como o peixe mapara e o acai, consumidos quase que diariamente pela populacao local. No geral, o cametaense demonstra um grande orgulho por suas origens e cultura.
+
+Dessa forma, a primeira atividade avaliativa consistiu na definicao da interface e design do aplicativo, a partir da criacao da logo, definicao dos icones e cores, estilos e paradigmas de interacao. O professor sugeriu que os alunos escolhessem uma palavra regional para nomear o aplicativo proposto que remetesse a dialogo, semelhante ao trocadilho do WhatsApp com Whats Up (e ai ou o que ta pegando). De maneira complementar, recomendou usar cores que remetessem a bandeira da cidade ou estado, bem como usar palavras comuns do vocabulario da regiao nos menus e mensagens de feedback.
+
+Para atender ao criterio de Inteligibilidade, o professor sugeriu o uso de icones e cores significativas, dentre outros que permitam gerar um bom entendimento aos usuarios. Quanto a Apreensibilidade, recomendou usar analogias e metaforas nos icones do sistema. Um exemplo dado foi o uso do icone de lixeira como uma analogia a exclusao e o formulario como uma metafora ao cadastro em ficha de papel. A Operacionalidade envolve aspectos de adequacao, adaptabilidade, capacidade para ser instalado e tolerancia a erros. Dessa forma, o professor recomendou que essa deveria ser implementada atraves de tratamento de erros, correcao ortografica, uso de mascaras de entrada, dentre outras funcionalidades que auxiliassem o usuario em suas operacoes. Por fim, para a Atratividade, recomendou o uso harmonizado de cores na interface do sistema (a natureza do projeto grafico) e a adequacao das informacoes prestadas para o usuario.
+
+A segunda atividade implicou na criacao do prototipo funcional da interface regionalizada do WhatsApp atraves da ferramenta JustinMind (www.justinmind.com). Por fim, na terceira atividade, o professor solicitou que cada grupo avaliasse as demais propostas de interface, seguindo a norma ISOIEC 9126.
+
+RESULTADOS OBTIDOS
+
+Esta secao descreve os prototipos de aplicativos que foram melhores avaliados nas duas ofertas da disciplina de IHC. Dessa forma, selecionaram-se os resultados de 4 (quatro) equipes. Primeiramente, o professor descreve esses resultados de acordo com as atividades avaliativas propostas. Em seguida, relacionam-se tais atividades com o seguimento das praticas de IHC relatadas na Secao 2.
+
+Realizacao das Atividades Avaliativas
+
+Na primeira atividade avaliativa, destacaram-se as propostas apresentadas na Figura 1.
+
+A primeira equipe, DuPará (Do Pará), destacou o estado tanto no nome quanto na logo, a partir da representacao da sua bandeira dentro de um balao de fala. A segunda equipe, Ispia (Veja ou Olhe), tambem destacou a bandeira, na forma de um olho, a fim de reforcar o nome do aplicativo. No entanto, usou a cor roxa, fazendo uma referencia ao acai, fruta preferida da populacao de Cametá. A terceira equipe, Nem te conto (expressao usada no Pará antes de se contar algo a alguem ou que demonstra que voce quer contar alguma coisa a alguem) transformou um caroco de acai num balao de fala. Por fim, a quarta equipe, denominada FalaParente (representa um costume do cametaense em chamar qualquer um de parente), inseriu um caroco de acai, segurando um telefone, dentro de um balao de fala. Ambas, essas duas ultimas equipes usaram as cores roxa e verde (folha do acai).
+
+Na segunda atividade, a equipe DuPará nao foi muito criativa nos prototipos de tela, apresentado na Figura 2, tendo basicamente aplicado o padrao de cores recomendado pelo professor: vermelho e branco.
+
+Ja o destaque criativo da equipe Nem te conto foi a customizacao dos emojins, na tela de comunicacao do aplicativo, para carocos de acai na cor roxa, conforme mostra a Figura 3.
+
+A equipe Ispia foi mais proativa, na medida em que considerou necessaria a insercao de um dicionario paraense no aplicativo, a fim de elucidar as expressoes regionais. Adicionalmente, inseriu um mapa de turismo no estado, conforme destaca a Figura 4.
+
+Por fim, a equipe FalaParente props a insercao de uma funcionalidade que permitiu facilitar o uso de expressoes paraenses, conforme mostra a Figura 5. Assim, basta o usuario clicar no icone de (mais) e escolher a palavra que deseja usar na conversa. O destaque fica para a expressao Egua!!!, cujo significado muda dependendo do contexto e da entonacao da voz, podendo representar admiracao, surpresa, felicidade, espanto ou raiva. O fundo da janela das expressoes apresenta, em cinza, tracos marajoaras, tipicos de ceramicas indigenas encontradas no Pará.
+
+Destaca-se, ainda, que essa equipe customizou as mensagens de dialogo, usando expressoes cotidianas do cametaense. Essa caixa de dialogo (confirmacao), apresentada na Figura 6, e exibida quando o usuario clica em Sair do aplicativo (Logout). Piqueno e como os pais costumam chamar os filhos e esse habito acaba permanecendo, pois, muitos adultos se tratam dessa forma em Cametá. Como opcoes, apresentam-se Num Vo (Nao Vou) e Ja Vu (Ja Vou), ambas expressoes cametaenses pronunciadas com um sotaque que lembra em muito o frances, reflexo do tempo de dominio desse povo na regiao.
+
+Ao final da disciplina, durante a terceira atividade, o professor pediu para que cada equipe avaliasse os prototipos umas das outras. Dessa forma, foi elaborado um formulario de avaliacao, apresentado na Tabela 1, baseado nos criterios da norma ISOIEC 9126.
+
+Esse formulario possuia 4 (quatro) perguntas, cada uma relacionada a um atributo de qualidade da norma. Para cada questao, havia opcoes de respostas, na escala Likert, e um campo adicional para os avaliadores inserirem suas consideracoes, alem de um parecer final da avaliacao realizada e aderencia a ISOIEC 9126.
+
+O aplicativo melhor avaliado pela turma, na primeira oferta da disciplina foi o Nem te conto e na segunda o FalaParente. Ambos aplicativos foram considerados Largamente Aderentes a ISOIEC 9126. O professor destacou que essas equipes foram efetivas na adocao das praticas de IHC, principalmente no que diz respeito aos estilos de interacao e principios de usabilidade adotados. Adicionalmente, citou que os diferenciais dessas equipes foram as novas funcionalidades propostas e a criatividade na criacao da identidade visual dos aplicativos.
+
+Uso das Praticas de IHC
+
+A pratica P1 foi aplicada a partir da consideracao dos fatores cognitivos da interacao entre os cametaenses, mais especificamente no que diz respeito a comunicacao. Nesse sentido, considerou-se em alguns dos aplicativos o uso de expressoes regionais, tanto na troca de mensagens (vide Figura 5) quanto na caixa de confirmacao (vide Figura 6). Dessa forma, o usuario poderia, inconscientemente, replicar um bate-papo do seu dia a dia durante o uso do aplicativo.
+
+A P2 foi realizada a partir da coleta de dados dos usuarios, na medida em que os alunos levantaram quais caracteristicas regionais poderiam ser incorporadas no aplicativo. Essas caracteristicas foram registradas a partir de prototipos navegáveis de tela, que permitem documentar o design da aplicacao de forma interativa.
+
+O conhecimento do hardware e software (P3) foi necessario na criacao dos prototipos para a plataforma Android, que possui kernel (nucleo) em Linux, bibliotecas nativas em CC nativas e Application Programming Interface (API) Java que disponibiliza as bibliotecas de programacao.
+
+O principal estilo de interacao (P4) foi o touchscreen, ou seja, as funcionalidades sao ativadas por meio de um toque na tela. Quanto ao paradigma de interacao (P5), adotou-se o objetoacao, pois o usuario seleciona inicialmente a opcao (como na Figura 3, Escreva sua mensagem), e em seguida a operacao que deseja realizar sobre ela (Enviar). No entanto, tambem se observou a adocao do paradigma acaoobjeto, na Figura 5, onde inicialmente seleciona-se a acao Adicionar palavra, a partir do icone de (mais), e, em seguida, o objeto (a palavra) a ser adicionada.
+
+Os alunos foram orientados a desenvolver um tipo de interface amigavel (P6), a partir do uso adequado de cores, como na Figura 2, e icones que facam o uso de analogias, como a lupa no canto superior da Figura 4, que representa a busca. Dessa forma, buscou-se repassar uma sensacao de bem-estar aos usuarios.
+
+Quanto aos principios de usabilidade (P7), os alunos buscaram incorporar esses ao aplicativo desde a sua concepcao, pois ja haviam assistido a aula teorica sobre Usabilidade e tinham acesso a ISOIEC 9126. Por fim, a avaliacao heuristica (P8) foi feita a partir da aplicacao do questionario apresentado na Tabela 1, que descreve os atributos de usabilidade, atraves de perguntas, e fornece uma escala Likert (de 0 a 4 pontos) para avaliar as interfaces graficas dos aplicativos propostos.
+
+**CONSIDERACOES FINAIS**
+
+Este artigo apresentou um relato de experiencia das
+atividades avaliativas de uma disciplina de IHC cujo foco
+foi avaliar o impacto da cultura regional e da criatividade
+dos alunos na regionalizaçao do aplicativo de
+compartilhamento de mensagens WhatsApp. Inicialmente,
+descreveram-se as atividades adotadas para a avaliaçao dos
+alunos, que consistiram na definiçao da interface e design
+do aplicativo, desenvolvimento dos prototipos e avaliaçao
+desses. Em seguida, o professor descreveu a relaçao dessas
+atividades com as praticas de IHC ministradas nas aulas
+teoricas.
+
+O principal desafio, na opiniao do professor, foi estabelecer
+uma abordagem didatica que permitisse explorar os
+principais conceitos da ementa da disciplina e, ao mesmo
+tempo, aplicar as praticas de IHC lecionadas nas aulas
+teoricas expositivas. Adicionalmente, o professor destacou
+que esse planejamento da disciplina exigiu mais da sua
+criatividade do que a aquisiçao de recursos materiais.
+
+As principais dificuldades foram relacionadas ao estimulo
+da criatividade e comprometimento dos alunos. Quanto a
+criatividade, nem todos os alunos possuem essa habilidade,
+sendo dificil desenvolve-la no tempo de uma disciplina.
+Alguns relataram que nao possuem perfil para a area.
+Mesmo assim, com o trabalho em equipe, o resultado foi
+bastante satisfatorio, conforme relatado na Seçao 4.
+
+No que diz respeito ao comprometimento, a proxima etapa
+desta pesquisa sera a reoferta da disciplina, no segundo
+semestre de 2018, onde se pretende adicionar elementos de
+gamificaçao, que segundo a literatura, permitem aumentar o
+engajamento e a motivaçao dos alunos. Dessa forma, serao
+definidas estrategias para aplicaçao de praticas de
+gamificaçao no ensino-aprendizagem de IHC, com enfase
+na regionalizaçao de aplicativos.
+
+Durante essa reoferta, sera analisado o impacto da aplicaçao
+da gamificaçao na motivaçao e engajamento e,
+consequentemente, no estimulo a criatividade desses. Por
+fim, serao realizadas as mesmas atividades avaliativas, a
+fim de comparar os resultados obtidos na reoferta com os
+das duas turmas aqui relatadas.
+
+Espera-se, a partir deste relato, que outros professores
+possam replicar esta experiencia didatica no ensino de IHC,
+customizando as atividades avaliativas de acordo com a
+ementa de seus cursos e a cultura de suas regioes.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo demonstra o potencial de integrar aspectos culturais e regionais no design de aplicativos, enriquecendo a experiencia do usuario e promovendo a identidade local. A regionalizaçao do WhatsApp, proposta pelos alunos, revelou a importancia de considerar as particularidades de cada comunidade no desenvolvimento de sistemas interativos, valorizando a diversidade e a criatividade.

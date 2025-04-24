@@ -1,0 +1,171 @@
+**RESUMO**
+
+Visto que as informaçoes circulam de forma instantanea entre as pessoas
+nos dias atuais e dada a importancia de se combater as fake news nas redes sociais, o
+presente trabalho tem como objetivo contribuir para que haja uma diminuiçao de
+noticias falsas disseminadas na rede, atraves da proposta de criaçao de uma
+aplicaçao web chamada LieDetector. Assim, por meio dessa aplicaçao, os usuarios
+de redes sociais poderao confirmar a veracidade de noticias compartilhadas e
+originadas na plataforma on-line Twitter.
+
+**INTRODUÇAO**
+
+A facilidade de acesso as redes sociais tornou-se um importante recurso nos ultimos
+anos. E eminente as mudanças em como os individuos se comunicam e interagem, e a
+utilidade dessas plataformas para diversos fins, tais como, marketing, comercio, lazer e,
+consequentemente, para a disseminaçao de informaçoes verdadeiras e falsas
+(PEREZ-DASILVA, et al., 2020; PIZARRO, 2020).
+
+Com o decorrer dos anos, as redes sociais foram se popularizando e expandindo
+cada vez mais o numero de usuarios. Tal como o Twitter que possuia uma media de 330
+milhoes de usuarios ativos mensais no primeiro trimestre de 2019 e vem sendo
+considerado uma das plataformas que desempenham um papel de destaque na
+propagaçao de informaçoes, principalmente relacionadas a saude (PEREZ-DASILVA, et
+al., 2020; PIZARRO, 2020).
+
+Desse modo, com o aumento da popularidade e facil acesso as redes sociais, este
+veiculo vem sendo frequentemente utilizado para dissipar tambem informaçoes
+inveridicas, rumores ou dados nao comprovados por meio de estudos cientificos. Dessa
+forma, muitas entidades e organizaçoes tem se privilegiado desse ato falho
+(PEREZ-DASILVA, et al., 2020; PIZARRO, 2020).
+
+Grande parte da propagaçao de informaçoes inveridicas nas redes sociais,
+tambem conhecidas como fake news, podem ser impulsionadas por diversas taticas
+poderosas em manipular a opiniao publica e fomentar confusao entre os leitores. O uso
+de bots, por exemplo, tem como principal motivaçao a monetizaçao por meio de
+propagandas que induzem os usuarios a acessar um determinado perfil ou site. Para isso
+sao criados textos que possuem palavras-chave populares, mesmo que seu conteudo nao
+faça sentido algum (MARUMO, 2018; PEREZ-DASILVA, et al., 2020; PIZARRO,
+2020).
+
+Alem do uso de bots, outros fatores tambem podem influenciar a disseminaçao
+de mensagens falsas, como a sua origem, o grau de credibilidade dos usuarios que a
+disseminaram ou que a endossaram (digital influencers) (CARVALHO; KANFFER,
+2018), bem como pela grande quantidade de usuarios das redes que compartilham as
+informaçoes sem ao menos utilizar do pensamento critico para ajuiza-las (BAKIR;
+MCSTAY, 2018).
+
+O compartilhamento de informaçoes relacionadas a saude publica nao deixam
+de seguir essa estrutura, dependendo da forma que sao propagadas podem levar a
+impactos tanto bons quanto ruins para a populaçao (SOUSA; COSTA, 2020). A titulo de
+exemplo, temos os novos casos de Variola dos Macacos que a medida que sao
+identificados em paises onde a doença nao e endemica, tambem cresce o temor publico
+intensificado atraves do uso da Internet. Os usuarios das redes socias expressam
+preocupaçoes sobre a origem do surto da doença e compartilham supostos meios de
+prevençao e tratamentos.
+
+**METODOLOGIA**
+
+Para amenizar o processo de disseminaçao de informaçoes inveridicas, em especial,
+informaçoes relacionadas aos novos casos da doença Variola dos Macacos, utiliza-se
+como fonte das informaçoes a rede social Twitter. A postagem (tweet) especifica a ser
+analisada e proveniente da seleçao realizada pelo usuario e inserida na aplicaçao
+LieDetector. A analise da informaçao pode ser realizada na propria aplicaçao sendo que,
+por meio do uso de tecnicas de processamento de linguagem natural e web crawler ela:
+(1) abstrai palavras repetidas, girias, preposiçoes e abreviaçoes; (2) pesquisa em
+plataformas on-line, le e armazena os links das noticias relacionadas com as
+palavras-chave presentes no tweet; (3) direciona as noticias que melhor atendem ao
+assunto pesquisado; (4) separa o conteudo armazenado em categorias principais; e (5)
+retorna para o usuario uma estimativa se a informaçao e verdadeira ou falsa. A
+metodologia utilizada para o desenvolvimento do design da soluçao proposta foi a User
+Centered Design (USD). Essa abordagem metodologica propoe a compreensao das
+principais necessidades dos usuarios. Para que assim, seja possivel a idealizaçao da
+interaçao, em que a soluçao proposta responda de modo objetivo e pratico (RANOYA,
+2017).
+
+**JUSTIFICATIVA**
+
+As redes sociais sao muito utilizadas para comunicaçao e trafego de informaçoes. No
+entanto, essas redes tambem acabam sendo uma forma de divulgaçao de informaçoes
+falsas. O compartilhamento das fake news podem ter diversas consequencias, inclusive
+no contexto da saude publica, contribuindo para automedicaçao, nao tomando medidas
+corretivas e preventivas (DE FREITAS, 2021; PEREZ-DASILVA, et al., 2020). Dessa
+forma, evidencia-se a importancia de combater as fake news, por isso torna-se
+importante a realizaçao de modelos que possam contribuir para o controle da circulaçao
+de informaçoes confiaveis.
+
+A Variola dos Macacos, transmitida pelo virus monkeypox, e uma doença ja
+conhecida e endemica em alguns paises africanos (BBC, 2022), mas que, recentemente,
+foi registrada em paises que nao tem casos da doença, assim, alarmando o mundo pela
+possibilidade de se ter uma epidemia ou pandemia (SAMPAIO, 2022). Por esse motivo,
+assim como a covid-19, a partir de 8 de junho, apos a confirmaçao do primeiro caso
+registrado no Brasil, a Variola dos Macacos vem sendo alvo de fake news nas redes
+sociais. Visto que este e um assunto recente e preocupante, as fake news se espalham de
+forma rapida, devido ao fato de apresentarem uma natureza atraente (HUANG;
+CARLEY, 2020; PEREZ-DASILVA, et al., 2020). Portanto, o desenvolvimento de
+plataformas com intuito de conscientizar o usuario por meio da possibilidade de
+verificar/validar informaçoes divulgadas em redes sociais tem se tornado cada vez mais
+necessario.
+
+**SOLUÇAO PROPOSTA**
+
+Para que se possa atender aos requisitos da Competiçao de Design - IHC 2022, a
+soluçao proposta consiste em uma aplicaçao web que promove a verificaçao de noticias
+originadas e compartilhadas no Twitter. Enquanto sao validadas as informaçoes
+inseridas pelo usuario, ele se entretem respondendo perguntas simples e rapidas sobre a
+Variola dos Macacos. As respostas podem ser encontradas em uma seçao da propria
+aplicaçao que permite com que os usuarios possam se instruir com informaçoes basicas
+a respeito da doença. Para divulgaçao da aplicaçao web, propoe-se o acesso gratuito e
+download pelo usuario de uma peça grafica contendo um breve texto explicativo sobre a
+doença em destaque e um QR Code que permite o facil acesso ao LieDetector.
+
+Ao acessar o LieDetector, no inicio da pagina o usuario encontra o campo para inserir o
+link do tweet que deseja verificar a veracidade da informaçao. Esse processo e iniciado
+quando o botao Validar e clicado. Em seguida, aparece na tela um quiz sobre a Variola
+dos Macacos com o objetivo de divertir o usuario. Ao final do processo de validaçao das
+informaçoes presentes na postagem, e exibido na tela se elas sao verdadeiras ou falsas.
+E, por ser uma aplicaçao web, a soluçao apresentada torna-se de facil acesso, permitindo
+com que diferentes tipos de usuarios a utilizem por meio de varios dispositivos
+diferentes.
+
+As manifestaçoes fisicas serao realizadas a partir de divulgaçao de cartazes, tamanho
+A4, contendo uma breve explicaçao sobre a doença Variola dos Macacos pela cidade de
+Diamantina, inicialmente. Eles tambem poderao ser utilizados para acessar o
+LieDetector atraves da leitura de um QR Code que direciona os usuarios para a
+aplicaçao web, atraves da leitura feita pelo seu dispositivo movel.
+
+Disponibilidade de Informacoes
+Na pagina inicial da aplicacao web tambem estao dispostos os icones relacionados a
+breves informacoes da Variola dos Macacos, tais como, sobre a doenca, principais
+sintomas e prevencao. Quando clicados, cada icone direciona o usuario para uma pagina
+informativa especica com o intuito de facilitar a visualizacao das informacoes e
+permitir o compartilhamento. Ainda, e possivel a visualizacao das principais noticias
+relacionadas a doenca e publicadas pelos veiculos de comunicacao brasileiros. Por fim,
+quando o usuario clicar no icone relacionado a peca grafica, ele conseguira visualizar a
+peca, e, se for do seu interesse, tambem baixa-la gratuitamente e imprimir.
+
+Cenario de uso
+Joao, um cidadao diamantinense, ao aguardar o transporte publico no ponto de onibus se
+depara com um cartaz descrevendo os principais sintomas da doenca Variola dos
+Macacos. Ele acha interessante a breve descricao e decide realizar a leitura do QR Code,
+disponivel no rodape do cartaz, para saber um pouco mais sobre a doenca e verificar a
+veracidade de uma informacao sobre transmissao da doenca que viu no Twitter
+recentemente. Ao acessar a aplicacao web LieDetector, Joao insere o link do tweet lido
+no inicio da pagina e, ao clicar no botao Validar ele e informado de que a validacao
+da informacao foi iniciada e que ele podera se divertir enquanto isso respondendo um
+quiz. Em seguida, ele e direcionado a pagina com o resultado de que a informacao
+inserida e falsa. Mais que depressa, ele compartilha o resultado obtido no grupo da
+familia Silva por meio dos icones de compartilhamento das redes sociais. Ao retornar a
+aplicacao, Joao aproveita para ler algumas noticias que lhe foram recomendadas
+enquanto o onibus nao chega. Apos clicar em Leia outras noticias e ser direcionado a
+secao de principais noticias sobre a doenca no Brasil na pagina inicial, Joao tambem
+aproveita para se cadastrar e receber SMS em seu celular com informacoes da doenca,
+tais como sobre as formas de prevencao. Joao nao ve a hora de chegar em casa e poder
+ensinar para toda a sua familia como utilizar o LieDetector no combate das fake news.
+
+Viabilidade
+As ferramentas utilizadas para realizar a verificacao da veracidade das informacoes
+sao de codigo aberto, simples de implementar, compreensiveis e podem se integrar com
+qualquer framework. O aplicativo para elaboracao do design da solucao proposta possui
+recursos gratuitos, baixa curva de aprendizado e interface amigavel. Ainda, os custos de
+desenvolvimento e implementacao da presente solucao seriam: custo de
+desenvolvimento (mao de obra), custo de hospedagem e dominio, custo de manutencao
+e custo de impressao grafica.
+
+**CONSIDERACOES FINAIS**
+
+A aplicaçao web LieDetector surge como uma iniciativa relevante e oportuna para combater a desinformaçao sobre a Variola dos Macacos no Twitter. Ao proporcionar aos usuarios uma ferramenta para verificar a veracidade das noticias, a soluçao contribui para a promoçao de um ambiente online mais confiavel e para a conscientizaçao da populaçao sobre a doença.
+
+O design da interface, com elementos ludicos como o quiz, torna a experiencia mais agradavel e envolvente. A iniciativa de divulgaçao por meio de cartazes com QR Code facilita o acesso a aplicaçao e amplia seu alcance.
+
+Em suma, o LieDetector representa um passo importante para o combate as fake news e para a promoçao da saude publica. A aplicaçao tem potencial para ser adaptada a outras tematicas e plataformas, contribuindo para um cenario informacional mais seguro e responsavel.

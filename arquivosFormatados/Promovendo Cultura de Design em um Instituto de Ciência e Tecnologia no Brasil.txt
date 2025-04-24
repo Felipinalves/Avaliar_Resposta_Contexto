@@ -1,0 +1,169 @@
+**INTRODUCAO**
+
+Nos ultimos anos, organizaçoes tem investido e utilizado cada vez mais processos
+orientados ao Design. No mundo atual, em que todos estao conectados e em que ha uma
+alta competitividade especialmente quando se trata de aplicativos e sistemas
+computacionais, o Design torna-se nao apenas um mero diferencial, mas cada vez mais
+essencial para se destacar na multidao . Um relatorio divulgado
+pela McKinsey sobre o valor do Design para os negocios revelou, dentre outras
+descobertas, uma correlaçao direta entre Design e desempenho empresarial, indicando
+que empresas que possuem um Design mais forte apresentaram receitas e retornos aos
+seus acionistas substancialmente mais rapidas do que as demais .
+
+Mesmo em organizaçoes menores e com menos tempo de vida, o Design tem sido
+visto como uma chave para o sucesso, como e o caso de startups que apostam no Design
+muito alem da estetica, mas sim como uma estrategia para contribuir para o entendimento
+de problemas complexos e, por conseguinte, na criaçao de soluçoes inovadoras
+. Todavia, para que uma organizaçao possa usufruir do maximo
+potencial que o Design tem a oferecer, ele precisa ser integrado em um nivel estrategico,
+indo alem de apenas estilos ou uma ferramenta focada em produtos .
+Como identificado em uma pesquisa de Doherty et al. (2014), quando se fala em Design
+e se pensa apenas em design de produtos, parece que algo nao esta completo. Portanto,
+trabalhar o amadurecimento cultural, de acordo com a InVision (2018), significa ter o
+Design na vanguarda de tudo que a organizaçao faz, da estrategia a execuçao. Isso
+tambem significa que todos entendem o valor do Design, utilizando-o para impulsionar o
+usuario em direçao a uma boa experiencia.
+
+Sabendo da importancia do Design para qualquer organizaçao e principalmente
+para as que diretamente atuam na area de tecnologia da informaçao, este artigo descreve
+os processos de promoçao de uma cultura de Design no Instituto de Pesquisas
+ELDORADO, um Instituto de Ciencia e Tecnologia (ICT) no Brasil. Um ICT e uma
+instituiçao cuja administraçao pode ser publica ou privada, sem fins lucrativos, que tem
+como objetivo fundamental a busca por soluçoes inovadoras para problemas enfrentados
+pela sociedade por meio de pesquisas cientificas e tecnologicas .
+
+O Instituto de Pesquisas ELDORADO e um ICT privado, fundado em 1999, e que
+atua em projetos de software, hardware, microeletronica, ensaios e testes, educaçao e
+consultoria, contando com parcerias com empresas das areas de comunicaçao,
+informatica, energia, automotiva, entre outras, com unidades em Brasilia, Campinas,
+Manaus e Porto Alegre e com mais de 1.500 funcionarios.
+
+**Abordagem**
+
+Com a popularizaçao do Design Thinking como uma ferramenta poderosa e essencial no
+campo da inovaçao, tornou-se viavel dar o primeiro passo em um plano abrangente com
+foco na democratizaçao do Design. O processo de promoçao do aculturamento no
+ELDORADO iniciou-se em 2019, a partir de uma iniciativa para identificar o nivel de
+maturidade em Design da organizaçao. Para isto, foi utilizada a Design Ladder, modelo
+proposto originalmente pelo Danish Design Centre .
+
+A hipotese do modelo e que, quanto mais engajada for a utilizaçao dos metodos
+de Design por uma organizaçao nas etapas iniciais de desenvolvimento, e quanto maior
+for o papel dos designers na estrategia geral de negocios, maior sera o retorno. Os quatro
+degraus da Design Ladder foram utilizados para tipificar o uso do Design no Instituto,
+sendo o primeiro degrau categorizado como “nao Design”, isto e, o design nao e aplicado
+sistematicamente. No segundo degrau, “Design como estilo”, o Design e utilizado como
+acabamento ou apenas forma de novos produtos ou serviços. Ja no terceiro degrau,
+"Design como processo”, o design e visto como elemento integrado ao processo de
+desenvolvimento. Por fim, o quarto e ultimo degrau e o “Design como estrategia”, ou
+seja, o Design como uma peça fundamental no modelo de negocio das organizaçoes.
+
+Em um primeiro momento, foi realizado um grupo focal com todos os designers
+do Instituto, a fim de identificar em qual degrau da Design Ladder se encontrava a
+organizaçao. Nesta analise, um dos maiores desafios foi a diversidade de projetos. Notou-
+se diferentes niveis de maturidade em Design, variando, na Design Ladder entre os tres
+primeiros degraus. Por fim, o grupo chegou ao consenso de que a organizaçao como um
+todo estaria no segundo Design como estilo.
+
+A partir da constataçao de que o nivel de maturidade em Design poderia ser
+elevado, iniciou-se uma promoçao de açoes em todos os niveis organizacionais, desde
+equipes de desenvolvimento a lideranças e gestores. Tornou-se indispensavel o suporte
+institucional, de figuras de nivel tecnico a executivo, alem de uma abordagem estruturada
+para começar a cultivar uma cultura de Design. Para isto, foi formado um grupo composto
+pelos designers mais seniores do Instituto para planejar, organizar e executar estas açoes.
+Dentre as açoes realizadas, encontram-se:
+
+Entrevistas com lideranças e gestores para mapeamento da percepçao sobre
+Design e sua importancia como processo e modelo mental, a fim de estabelecer
+compreensao e percepçao sobre as medidas que deveriam ser tomadas;
+
+Workshops internos sobre Design e Design Thinking, para colaboradores de todos
+os niveis, com foco na democratizaçao do Design e seus processos como uma
+disciplina capaz de facilitar o entendimento de problemas, as necessidades dos
+usuarios e a proposiçao soluçoes inovadoras, efetivas e adequadas aos usuarios;
+
+Reunioes periodicas com os lideres para estabelecer uma conexao permanente
+para um melhor entendimento das “dores” dos designers, que nem sempre eram
+as mesmas das equipes tecnicas;
+
+Participaçao de designers durante todo processo do projeto, desde a sua proposta
+e concepçao ate sua entrega;
+
+Estruturaçao de processos de design e guias de boas praticas em assuntos variados,
+desde responsividade ate acessibilidade e LGPD;
+
+Valorizaçao do design tanto interna quanto externamente por parceiros do
+Instituto atraves de reconhecimentos, promoçoes e premiaçoes internas;
+
+Vale ressaltar que estas açoes tem sido realizadas desde 2019 em todas as 4
+unidades do Instituto, de maneira continua, para fortalecer o pensamento sistemico em
+Design por toda organizaçao e, tambem, integrar novos colaboradores a esta cultura.
+
+**Resultados**
+
+Os efeitos das açoes de promoçao da cultura de Design em toda a organizaçao podem ser
+observados atraves de significativas mudanças que ocorreram ao longo dos anos.
+Inicialmente, a grande maioria dos designers tinham como principal responsabilidade
+apenas projetar telas. Com uma visao cada vez mais aprofundada do Design, os projetos
+na organizaçao passaram a demandar açoes em direçao da experiencia do usuario e dos
+processos como um todo. Assim, ve-se atualmente aplicaçao de pesquisas, testes com
+usuarios e projetos adotando o Diamante Duplo (British Design Council, 2005).
+
+O aculturamento em Design das lideranças tambem e notado atualmente, sendo
+que os proprios lideres entendem as fases do Design e sua importancia, buscando pela
+participaçao de designers em projetos ate mesmo antes de seu inicio ao planejar os
+projetos ja alocando designers na etapa de construçao da proposta comercial e tecnica.
+Outra mudança que pode ser observada foi em relaçao ao numero de designers no
+Instituto. No inicio das açoes de promoçao da cultura de Design em 2019, havia 10
+designers no total. Ate o momento da escrita deste artigo (julho de 2024), ja sao 75
+designers distribuidos nas 4 unidades, atuando em uma grande diversidade de projetos.
+
+Dentro das açoes estruturais e sistemicas do Instituto, o Design tambem tem se
+consolidado. Uma dessas açoes foi o programa de “Assinatura de Software" para
+promover boas praticas no desenvolvimento de software em todos os projetos do Instituto.
+Desde o seu inicio, a iniciativa conta com uma seçao de Design, recomendando a adoçao
+do Diamante Duplo em todos os projetos, por exemplo, entre outras recomendaçoes de
+processos focados em padronizaçao e aumento de produtividade.
+
+Do lado das empresas parceiras, tambem foi notorio que o valor das entregas
+realizadas dos projetos tem sido maior desde o processo de promoçao de cultura de
+Design no Instituto, com soluçoes satisfazem todos os stakeholders e validadas por meio
+de feedbacks e pesquisas de avaliaçoes institucionais.
+
+Atualmente, o portfolio do ELDORADO em Design esta expandido, oferecendo
+projetos que nascem e terminam com entregas fundamentadas e exclusivas de Design,
+sejam elas puramente de pesquisa ou que contemplam prototipaçao de alta fidelidade.
+
+Por fim, ao realizar em 2023 um novo grupo focal com os designers seniores do
+Instituto e lideranças em design para deliberar sobre qual degrau da Design Ladder se
+encontra a organizaçao e todos os seus projetos, chegou-se ao consenso de que o Instituto
+chegou no terceiro degrau Design como processo.
+
+**Desafios e liçoes aprendidas**
+
+Ainda que as açoes de promoçao de uma cultura de Design tenham tido resultados
+positivos no Instituto, existem desafios. Um deles e justamente as diferenças entre
+departamentos e projetos, com demandas, desafios e orçamentos diferentes, o que torna
+complexa a adoçao de praticas de design de forma homogenea. Ainda assim, a promoçao
+das açoes e o engajamento com as lideranças se mostrou efetiva em expandir a visao do
+Design para alem do estilo.
+
+Outro desafio e conciliar os processos de Design com os das empresas parceiras.
+Neste caso, a busca e sempre por um senso comum a fim de satisfazer plenamente as
+necessidades do projeto e uma soluçao viavel que melhor atenda seus usuarios.
+
+**Conclusoes**
+
+Este artigo apresentou algumas das açoes realizadas para promover design como cultura
+organizacional em um ICT no Brasil. Entre os desafios encarados estao a grande
+diversidade de projetos, de areas distintas como energia, comunicaçao, educaçao, entre
+outros, e em 4 localidades do Brasil. A necessidade de açoes continuas tambem se fez
+necessario nao apenas como uma forma de reciclar os conhecimentos e reforçar a
+importancia do Design para a organizaçao, mas tambem para abranger novos
+colaboradores que iniciam nos projetos do Instituto. Com as açoes realizadas, foi notado
+um avanço na Design Ladder, do nivel 2 (Design como estilo) para o nivel 3 (Design
+como processo).
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este artigo demonstrou a relevancia de promover uma cultura de Design em institutos de ciencia e tecnologia, destacando o caso do Instituto ELDORADO. As açoes implementadas, desde a democratizaçao do conhecimento sobre Design ate a consolidaçao de processos focados no usuario, resultaram em avanços significativos na maturidade da organizaçao e na qualidade dos projetos entregues. A superaçao dos desafios e a continua busca por aprimoramento sao essenciais para que o Design se consolide como uma vantagem competitiva e um diferencial na oferta de soluçoes inovadoras para a sociedade.

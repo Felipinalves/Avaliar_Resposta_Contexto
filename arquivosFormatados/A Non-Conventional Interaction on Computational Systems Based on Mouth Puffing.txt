@@ -1,0 +1,117 @@
+**INTRODUCAO**
+
+Este trabalho apresenta um interruptor baseado em sopro de boca que
+foi configurado para atuar como o botao esquerdo do mouse para
+clicar, o qual foi entao comparado ao metodo de tempo de
+permanencia para avaliacao. O tempo de permanencia e um dos
+metodos alternativos de clique mais comumente usados e usa um
+tempo predeterminado no qual o ponteiro esta sobre uma regiao para
+realizar o evento de clique. O sopro de boca como um metodo de
+interacao foi escolhido porque e uma acao que pode ser realizada
+por pessoas com diferentes perfis de deficiencia.
+
+O disco piezoeletrico tem sido usado como um sensor de pressao
+em um circuito de hardware que e colocado perto da boca do
+usuario. O projeto foi desenhado para ser de baixo custo, entao um
+driver de software tambem foi construido para permitir que o
+dispositivo se comunique com o computador via interface de conector
+de audio P2 atraves de um cabo auxiliar, que e na verdade mais
+barato que USB. Adicionalmente, para integrar o sensor baseado em
+sopro em um sistema completo similar a um mouse, o recurso de
+rastreamento de cabeca fornecido pelo software eViacam foi usado,
+permitindo que o usuario movimente o cursor do mouse com
+movimentos da cabeca.
+
+Encontrar pesquisa academica que use interruptores AT de sopro de boca
+como um metodo alternativo de clique e muito dificil. Apenas
+FlipMouse foi encontrado nas buscas realizadas. No entanto, bem
+como os outros trabalhos em interruptores AT, detalhes sobre o
+desenvolvimento desta ferramenta nao sao apresentados, o que torna
+a possibilidade de construir o proprio prototipo uma tarefa dificil.
+
+**O INTERRUPTOR BASEADO EM SOPRO PROPOSTO**
+
+O dispositivo baseado em sopro foi construido com a intencao de
+ser de codigo aberto e de baixo custo, de modo que mais pessoas
+possam eventualmente adquirir uma ferramenta que possa ser usada
+como um metodo alternativo para clicar com o mouse. O prototipo
+desenvolvido neste trabalho e mostrado na Figura 1.
+
+A acao de soprar e percebida por um disco piezo acoplado sobre o
+dispositivo, o qual converte energia mecanica em eletricidade
+atraves do efeito piezoeletrico. Um conector de audio TRS foi
+usado para comunicar o dispositivo com sistemas computacionais. As
+bibliotecas PortAudio e Xlib foram usadas para capturar os sinais
+do disco piezo sob sistemas operacionais UNIX e traduzi-los em
+cliques do mouse, respectivamente.
+
+**RESULTADOS E DISCUSSAO**
+
+O estudo foi conduzido com sete homens e tres mulheres, um total de
+10 participantes com idades variando de 21 a 28 anos. Todos eles
+sao estudantes de graduacao ou pos-graduacao da Universidade
+Federal do Para. Cada participante realizou uma rotina pre-
+estabelecida de cliques nos sites YouTube e G1, primeiro usando o
+metodo de sopro proposto neste trabalho e entao usando o metodo de
+tempo de permanencia. O interruptor baseado em sopro foi comparado
+ao metodo de tempo de permanencia com respeito a i) o numero total
+de erros de clique cometidos em ambos os sites; ii) o tempo levado
+para completar as tarefas.
+
+A Figura 2 mostra a quantidade de erros de clique cometidos por
+participantes em ambos os sites. No YouTube, o numero de erros
+foi muito similar em ambos os metodos de clique. A maioria dos
+erros do metodo de sopro ocorreu devido a cliques nao bem sucedidos
+quando os participantes nao estavam soprando com a intensidade
+correta para que um clique ocorresse. Com o tempo de permanencia,
+houve mais cliques nao intencionais devido a erros no eViacam ao
+rastrear a face do usuario.
+
+Na tarefa G1, o tempo de permanencia foi o metodo que apresentou
+mais erros. Isso aconteceu porque os itens do menu neste site sao
+muito proximos um do outro, e isso forcou o usuario a mover o
+cursor mais lentamente, o que frequentemente era tempo suficiente
+para que o clique ocorresse.
+
+A Figura 3 mostra o tempo de execucao de cada tarefa. Na tarefa do
+Youtube, o tempo de permanencia foi melhor que o metodo baseado em
+sopro. Isso aconteceu porque a tarefa do YouTube foi executada primeiro
+usando o metodo baseado em sopro. Quando os participantes realizaram
+a mesma tarefa com o tempo de permanencia, eles estavam mais
+acostumados com as rotinas a serem realizadas.
+
+Por outro lado, na tarefa G1, o metodo baseado em sopro foi
+melhor que o tempo de permanencia, uma vez que os participantes
+cometeram muitos erros de clique usando o tempo de permanencia. Isso
+aconteceu porque a tarefa do G1 foi mais problematica de ser
+executada devido a proximidade dos itens do menu do site que
+acabaram influenciando o aumento consideravel no tempo de
+execucao.
+
+E importante mencionar que os participantes foram solicitados a
+dar sugestoes sobre a ferramenta baseada em sopro e eles sugeriram
+a possibilidade de tres niveis de sensibilidade do dispositivo para
+melhorar a eficiencia do dispositivo proposto.
+
+**CONCLUSAO**
+
+O metodo proposto neste trabalho provou ser bastante eficiente para
+ser usado como um metodo alternativo de clique. Em sites que nao
+tem itens clicaveis muito proximos uns dos outros, o metodo de tempo
+de permanencia foi ligeiramente melhor, como visto nos tempos de
+execucao e numero de erros de clique menores que o metodo baseado
+em sopro. No entanto, no caso de sites que tem itens proximos uns
+dos outros, como o G1, o metodo baseado em sopro provou ser uma
+solucao melhor que o tempo de permanencia.
+
+O dispositivo proposto tambem pode ser usado como um interruptor AT
+de proposito geral, uma vez que ele tem como saida a interface de
+audio P2 Jack. Adicionalmente, com o software que captura sinais
+de audio e os converte em eventos de clique, e ate mesmo possivel
+conectar qualquer interruptor que tenha a interface P2 Jack para ser
+usado como um metodo alternativo de clique tambem.
+
+**CONCLUSAO**
+
+Em resumo, este estudo demonstra o desenvolvimento e a avaliacao de um dispositivo de entrada alternativo baseado em sopro de boca para sistemas computacionais. Os resultados mostram que o dispositivo proposto e uma alternativa viavel ao metodo de tempo de permanencia, especialmente em interfaces com elementos proximos. Alem disso, a natureza de baixo custo e de codigo aberto do dispositivo o torna acessivel a um publico mais amplo.
+```

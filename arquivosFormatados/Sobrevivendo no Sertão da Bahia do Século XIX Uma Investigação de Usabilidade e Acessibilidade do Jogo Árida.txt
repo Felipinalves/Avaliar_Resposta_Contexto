@@ -1,0 +1,392 @@
+**INTRODUCAO**
+
+De modo a preservar e valorizar a historia e a cultura humana,
+diversas aplicaçoes tecnologicas tem surgido, cada vez mais preocu-
+padas em oferecer uma experiencia unica e personalizada para cada
+usuario. Dentre essas aplicaçoes tecnologicas, temos os jogos digi-
+tais, uma das formas de entretenimento mais populares da Historia
+, que atraem pessoas de todas as idades no mundo todo.
+
+Os jogos digitais, alem do entretenimento, exercem papel funda-
+mental como forma de valorizaçao historica e cultural. Para Silva
+, os jogos surgem como possibilidade de efetiva aplicaçao de
+elementos chave para o resgate da cultura popular de forma contex-
+tualizada e mais proxima ao jogador. Dessa forma, o jogo se torna
+uma tecnologia na comunicaçao menos invasiva, "respeitando as
+peculiaridades culturais do meio em que estao inseridos" .
+
+Para alem de questoes culturais e historicas, tem de se pensar na
+acessibilidade em jogos, ou seja, na necessidade de evitar barreiras
+desnecessarias que impeçam pessoas de jogar. Alem disso, a criaçao
+de jogos acessiveis deve incluir todos os tipos de jogadores com
+diferentes niveis de habilidade e preferencias .
+
+Para Pinelle et al. , uma vez que a maioria dos jogos exige inte-
+raçao constante, os desenvolvedores devem prestar muita atençao
+as questoes de usabilidade. A falha em projetar interfaces de jogo
+com usabilidade pode ter um efeito negativo na qualidade geral e
+na experiencia de participaçao do jogador no jogo .
+
+Nossa avaliaçao investigou problemas de acessibilidade e usabi-
+lidade do jogo brasileiro Arida O Despertar do Sertao . Para isso,
+utilizamos as heuristicas de usabilidade em jogos PLAY , as dire-
+trizes de acessibilidade em jogos ou Game Accessibility Guidelines
+(GAG) , os operadores de leitura da narrativa  e as analises
+dos usuarios da Steam. Escolhemos as PLAY e as GAG para uma
+avaliaçao heuristica por serem especificas para a avaliaçao de jogos
+e, assim, permitem uma avaliaçao focada nos aspectos inerentes a
+este tipo de aplicaçao, o que nao e possivel na adoçao de diretri-
+zes, heuristicas ou checklists de carater geral. Tambem, porque elas
+abrangem questoes relacionadas a experiencia do jogador.
+
+Este trabalho esta organizado da seguinte forma na seçao 2
+apresentamos os conceitos necessarios para o entendimento deste
+trabalho. Na seçao 3 e apresentada a metodologia adotada. Na seçao
+4 sao apresentados os resultados obtidos por meio da avaliaçao e
+analise de Arida e suas respectivas discussoes. Por fim, na seção
+5 sao apresentadas as conclusoes deste estudo, suas limitacoes e
+trabalhos futuros.
+
+**FUNDAMENTAÇÃO**
+
+Nesta seçao abordaremos os assuntos que fundamentam este traba-
+lho o jogo Arida O Despertar do Sertao Avaliaçao em IHC Game
+Accessibility Guidelines (GAG) Game Usability Heuristics (PLAY)
+e Operadores da Leitura de Narrativa.
+
+**Arida O Despertar do Sertão**
+
+Arida O Despertar do Sertao e um jogo de sobrevivencia e aventura
+singleplayer, lançado em 2019 na plataforma Steam  pela Aoca
+Game Lab. Cicero e a personagem principal de Arida, uma menina
+de 13 anos que enfrenta os desafios de viver no sertao Nordestino
+do seculo XIX, no ano de 1895. Seus pais partiram em busca de
+melhores condiçoes de vida rumo a Canudos, deixando-a sob os
+cuidados de seu avo, Tiao.
+
+Guiada pelo avo e por vizinhos, Cicero enfrenta muitos desafios
+em busca de agua e comida para sobreviver. Os vizinhos sao Dona
+Firmina, moradora que decidiu continuar no lugar onde nasceu e
+cresceu mesmo com a seca severa Dona Almira, que devido ao
+albinismo nao pode ir caminhar sob o sol forte e Padre Olavo, que
+cuida da igreja e dos poucos fieis que ainda estao na vila Uaua.
+A Figura 1 apresenta as ilustraçoes dos personagens de Arida.
+
+A escolha do jogo se deu pelo fato deste trazer uma representa-
+çao da cultura e da historia nordestina, seu povo e sua religiosidade.
+Baseada em fatos historicos, a narrativa de Arida tem potencial de
+estimular a curiosidade dos jogadores e quebrar estereotipos sobre
+o Nordeste. E tambem uma forma de apoiar os desenvolvedores bra-
+sileiros, assim como apontar aspectos importantes de acessibilidade
+e inclusao que devem ser incorporados nos jogos.
+
+Para Silva , o jogo Arida e como um folhetim de cordel audi-
+ovisual, e tem grande potencial de valorizaçao das culturas e dos
+regionalismos brasileiros, ressaltando a importancia de fomentar
+mais jogos relacionados a esta tematica. Arida pode ainda contri-
+buir com a aprendizagem de conteudos escolares. Pinheiro et al.
+apontam que na disciplina de Lingua Portuguesa e possivel, por
+exemplo, discutir a narrativa do jogo considerando os versos de
+cordel, reescrever a historia apresentada, e relacionar o jogo a obras
+literarias da mesma tematica. Para a disciplina de Historia, Pinheiro
+et al. [9] sugerem abordar o contexto social e politico do periodo, e
+tambem discutir questoes sobre a religiosidade, fome e miseria.
+
+**Avaliação em IHC**
+
+A avaliaçao em Interaçao Humano-Computador (IHC) e uma ativi-
+dade fundamental para a produçao de um sistema com alta quali-
+dade de uso . Os criterios de usabilidade e de acessibilidade sao
+comuns quando se avalia a qualidade do ponto de vista do usuario
+final de um sistema.
+
+A usabilidade foi definida por Nielsen , e esta relacionada a
+quao bem um usuario pode utilizar um sistema. A usabilidade inclui
+aspectos de facilidade de aprendizado, facilidade de recordaçao,
+eficiencia no uso, segurança no uso, e satisfaçao do usuario. Ja a
+acessibilidade e a capacidade do usuario acessar o sistema e interagir
+com ele sem enfrentar obstaculos na interface . Quando se trata
+de acessibilidade, devem ser consideradas todas as limitaçoes que o
+usuario possa ter, sejam fisicas, mentais, ou de aprendizado.
+
+Na avaliaçao de IHC por meio da inspeçao, como explica Barbosa
+e Silva , o avaliador tenta antecipar possiveis problemas de uso
+em um sistema. O metodo de avaliaçao selecionado e o de avaliaçao
+heuristica, no qual um conjunto de heuristicas deve ser selecionado
+de acordo com o contexto do sistema a ser avaliado, neste caso
+heuristicas relacionadas a jogos.
+
+**Game Accessibility Guidelines**
+
+As Game Accessibility Guidelines (GAG), ou Diretrizes de Acessi-
+bilidade em Jogos, servem como referencia para o design de jogos
+inclusivos . As GAG oferecem orientaçao e exemplos de como
+atender a jogadores com deficiencia, e abrangem aspectos motores,
+cognitivos, de visao, de audiçao e de fala. Criadas em 2012, as GAG
+continuam sendo atualizadas ate os dias de hoje com os feedbacks
+de desenvolvedores e designers de jogos.
+
+As GAG sao divididas por nivel de dificuldade de implementa-
+çao basico, diretrizes que sao faceis de implementar e aplicaveis
+em quase todos os jogos intermediario, diretrizes que requerem
+certo planejamento adicional e avançado, que inclui adaptaçoes
+complexas para nichos especificos.
+
+Optamos pela utilizaçao das GAG por serem diretrizes reco-
+nhecidas pela industria de jogos desde 2012 , alem de bastante
+abrangentes, ideais para o nosso contexto. Na avaliaçao de Arida
+utilizamos a modalidade basica, com 29 diretrizes, por ser mais
+viavel para equipes de desenvolvimento menores. As diretrizes da
+GAG que utilizamos sao apresentadas, traduzidas, na Tabela 1.
+
+**Game Usability Heuristics**
+
+Para avaliar tanto os aspectos de usabilidade do jogo quanto a expe-
+riencia do jogador, foram utilizadas as heuristicas PLAY. Segundo
+Desurvire e Wiberg , elas podem ser aplicadas mais durante o de-
+senvolvimento do jogo, ajudando os desenvolvedores em pesquisas
+formais de usabilidade/jogabilidade.
+
+Optamos pela utilizaçao das PLAY pela sua abrangencia de aspec-
+tos, considerando mecanicas, interface, jogabilidade e experiencia
+do jogador. As PLAY sao divididas em 3 categorias I) Gameplay, que
+abrange aspectos da jogabilidade e como ela engaja o jogador II)
+Diversao/Entretenimento/Humor/Imersao Emocional, que abrange
+aspectos da experiencia do jogador; e III) Usabilidade e Mecanicas
+de Jogo, que inclui caracteristicas da interface e mecanicas do jogo
+sob a otica da usabilidade. Suas 46 heuristicas sao apresentadas, traduzidas, nas Tabelas 2, 3 e 4. Nao inserimos nessa lista as heuristicas
+D da Categoria III por repetirem os mesmos pontos apresentados
+nas heuristicas D da Categoria I.
+
+**Operadores da Leitura de Narrativa**
+
+Dado que a narraçao e a ambientaçao exercem um papel fundamen-
+tal em Arida, por contextualizar as açoes do jogador e dar destaque
+para a cultura e historia do Nordeste brasileiro, optamos por de-
+senvolver uma analise interpretativa da narrativa de Arida para
+complementar as avaliaçoes alcançadas a partir das PLAY e das
+GAG.
+
+As diretrizes GAG e as heuristicas PLAY possibilitam uma avalia-
+çao profunda da acessibilidade, usabilidade de um jogo, mas deixam
+de lado aspectos narrativos. Por isso, a analise narrativa desenvol-
+vida neste artigo toma como base conceitos advindos do dominio
+dos estudos literarios, recorrendo, especificamente, aos operadores
+de leitura narrativa descritos por Junior .
+
+Junior 5 define uma serie de conceitos-chave para a analise e interpretacao de textos narrativos. Destes conceitos-chave, chamados de operadores de leitura da narrativa, consideramos os conceitos de: I personagens, classificados segundo sua importancia para a narrativa personagem secundaria ou principal e segundo o seu grau de aprofundamento psicologico personagem plana, plana tendendo a redonda ou redonda; II tema, o assunto central da narrativa; III espaco, conjunto de elementos que caracterizam o espaco fisico em que a narrativa se passa; e IV tempo, que engloba tanto a cronologia da narrativa quanto as distorcoes temporais decorrentes da forma como os eventos da historia sao narrados.
+
+A classificacao das personagens do jogo, o estudo da composicao do espaco e do tempo do jogo em suas extensoes denotativa e conotativa, serviram como os tres principais eixos de analise a partir dos quais a presente interpretacao de Arida foi desenvolvida.
+
+METODOLOGIA
+
+A metodologia seguiu as atividades elencadas por Barbosa e Silva 2 para a avaliacao heuristica com a preparacao, coleta de dados, interpretacao, consolidacao, e relato dos resultados.
+
+Na atividade de preparacao, por um levantamento bibliografico sobre tecnicas de avaliacao de acessibilidade e usabilidade em jogos, selecionamos as diretrizes GAG 4 e as heuristicas PLAY 3 para avaliar o jogo Arida. Ambas foram escolhidas pela sua simplicidade, abrangencia e por levantarem aspectos de diversidade e inclusao. Dessa forma, Arida foi avaliado sob a otica das 29 diretrizes basicas GAG e das 46 heuristicas PLAY. Nesta atividade definimos que toda a porcao da interface de Arida seria avaliada, ou seja, seu menu, suas configuracoes, sua HUD heads-up display e mecanicas. Foram considerados seus aspectos de acessibilidade, usabilidade, jogabilidade, experiencia do jogador, narrativa, diversidade e imersao.
+
+A coleta de dados e a interpretacao foram realizadas individualmente. Participaram da avaliacao os autores deste artigo, 4 estudantes especialistas, supervisionados por uma professora orientadora. Possuimos graduacao na area de Computacao e estamos cursando pos-graduacao Strictu Sensu, 2 mestrandos e 2 doutorandas. Possuimos experiencia de ao menos 2 anos com usabilidade e acessibilidade, sendo que 2 de nos possuem experiencia em analise de jogos e 1 de nos possui experiencia com linguistica.
+
+Realizamos a inspecao com 4 computadores com o sistema operacional Microsoft Windows 10. Esses computadores possuíam os requisitos minimos para jogar Arida, sendo eles: sistema operacional Microsoft Windows 7 ou superior; processador Dual Core 2.6 GHz ou superior; memoria de 4 GB de RAM; placa de video GeForce GTX560 2GB ou superior; DirectX na versao 11; e com pelo menos 2 GB de espaco de armazenamento disponivel. Dois avaliadores jogaram Arida pelo teclado do computador e os outros dois intercalaram entre o teclado e o joystick.
+
+Jogamos individualmente Arida ate o final, por pelo menos 4h. Durante a gameplay, anotamos pontos relacionados ao jogo que achamos importantes. Apos essa etapa, fizemos duas avaliacoes individuais, uma utilizando as diretrizes GAG e outra utilizando as heuristicas PLAY.
+
+Os dados foram coletados e organizados em duas planilhas, uma para as diretrizes GAG e outra para as heuristicas PLAY. A planilha das GAG foi uma adaptacao da checklist disponibilizada pelo site das GAG 4. Essas planilhas consistem de 5 colunas: I diretriz GAG ou heuristica PLAY; II relevancia para a mecanica; III implementado no jogo; IV grau de severidade do problema, descrito em Barbosa and Silva 2; e V comentarios gerais.
+
+Apos as avaliacoes individuais, nos 4 fizemos duas reunioes de consolidacao dos resultados, de modo a apresentarmos problemas encontrados individualmente e discutir sua relevancia e gravidade em conjunto. A consolidacao totalizou aproximadamente 4h. Alem disso, propusemos sugestoes de melhoria para cada diretrizheuristica violada. As tabelas de consolidacao seguem o mesmo padrao das anteriores, com a adicao de uma coluna para sugestoes de melhoria. Apos a consolidacao da inspecao, acessamos as análises publicadas pelos jogadores na pagina do jogo na Steam, de forma manual. Revisamos as análises negativas publicadas ate 10 de junho de 2021, em todos os idiomas. Todas as análises negativas foram quantificadas para uma comparacao com os resultados da inspecao. Decidimos fazer esta revisao a fim de confirmar se nossa avaliacao corrobora com os problemas encontrados pelos usuarios.
+
+Devido a importancia dos aspectos narrativos de Arida para a contextualizacao da experiencia de jogo, realizamos uma analise da narrativa 5 em grupo. Nossa analise foi conduzida a partir de 3 eixos principais: analise dos personagens, do espaco e do tempo do jogo. Iniciamos a analise da narrativa de Arida levantando conjuntamente as principais carateristicas das personagens do jogo e classificando-as como personagens principais ou secundarias e de acordo com seu grau de complexidade psicologica. Ao analisar o espaco do jogo, conjuntamente, identificamos os diferentes ambientes presentes no jogo e os elementos do cenario que os caracterizavam. Tambem analisamos a maneira como o tempo se faz presente na narrativa de Arida, identificando o contexto historico em que a narrativa do jogo se embasa e o papel que a passagem do tempo desempenha para a progressao das mecanicas e da narrativa de Arida. Finalmente, buscamos estabelecer relacoes entre as carateristicas das personagens, os elementos que constituem o espaco do jogo e a utilizacao do tempo na narrativa. Por meio das relacoes identificadas entre esses tres eixos de analise construimos conjuntamente uma interpretacao do jogo descrita em detalhes na secao 4.2.
+
+Os resultados obtidos na avaliacao foram apresentados para os desenvolvedores do Aoca Game Lab. Eles participaram de uma reuniao com duracao de 1h, em que apresentamos os resultados e buscamos entender mais sobre Arida, ouvindo seus relatos sobre o processo de desenvolvimento. Aproveitamos o momento para ouvir um retorno sobre nossas sugestoes. Participaram 7 membros da equipe de desenvolvedores. Todos eles assinaram um Termo de Consentimento Livre e Esclarecido TCLE3 . O relato dos resultados encontrados e feito na Secao 4.
+
+RESULTADOS OBTIDOS
+
+Nesta secao abordaremos os resultados obtidos neste trabalho: Inspecao com a GAG e a PLAY; Analise da Narrativa; Comentarios da Steam; Reuniao com a Aoca Game Lab; e Discussoes.
+
+Inspecao sob GAG e PLAY
+
+Por meio das análises, identificamos um total de 38 problemas dos quais 26 foram descobertos com a PLAY e 17 com GAG, sendo que 21 aparecem exclusivamente com a PLAY e 12 com a GAG, evidenciando pouca sobreposicao ou repeticao de problemas com os conjuntos de heuristicas e diretrizes. As tabelas completas com a avaliacao utilizando as GAG e PLAY estao disponiveis em documentos digitais4 .
+
+Arida contempla a maioria dos itens abrangidos pelas tecnicas de avaliacao adotadas. Das 46 Heuristicas PLAY, apenas 6 13,04 nao foram atendidas. Quanto as 29 diretrizes GAG, apenas 5 17,24 nao foram implementadas. A maioria das heuristicas e diretrizes foram atendidas, mesmo que parcialmente, conforme a Figura 2.
+
+Para cada diretrizheuristica foi atribuido um grau de severidade por avaliador, e posteriormente, em conjunto, foi definida a severidade final no processo de consolidacao. O grau de severidade 2, problema pequeno baixa prioridade na correcao teve maior ocorrencia por meio das heuristicas PLAY enquanto pelas GAG a severidade de grau 1 problema cosmetico corrigir se houver tempo extra teve mais ocorrencia. Entretanto, e importante notar que em nenhuma heuristicadiretriz recebeu o grau 4 de severidade que caracteriza problema catastrofico correcao obrigatoria para entrega do produto, conforme indicado na Figura 3.
+
+Apos a analise dos dados da avaliacao, os problemas identificados e as sugestoes de melhoria foram agrupados em: I Problemas de Jogabilidade, que interferem com a experiencia do jogador; II Problemas Informativos, relacionados a forma como a informacao e apresentada; III Problemas de Personalizacao, referente ao grau de personalizacao dos elementos do jogo; e IV Problemas Gerais, com problemas e sugestoes que nao se enquadram nos grupos anteriores.
+
+Problemas de Jogabilidade: A Tabela 5 apresenta a sumarizacao dos problemas de jogabilidade. Podemos encontrar esses problemas nas missoes as quais Cicero e requisitada pelo avo ou pelos vizinhos e ao final, como recompensa, recebe ferramentas, receitas ou alguma orientacao importante para sobreviver no sertao. Dado que as missoes nao fogem desse padrao, inferimos que a estrutura das missoes do jogo e um problema 1. O problema e evidenciado na Figura 4, que representa algumas missoes que sao oferecidas ao longo da gameplay. A recomendacao consolidada e inserir missoes variadas, tais como quebra-cabecas e minijogos.
+
+Apos sucumbir a sede e a fome, o jogador tem sua vida restaurada no ultimo oratorio em que salvou o jogo, com agua e comida cheios. Nenhuma outra medida e tomada para que o jogador nao cometa os mesmos erros e volte a morrer 2. Elaboramos duas alternativas para sanar este problema: dar ao jogador dez segundos sem perder agua e comida depois da saida do oratorio ou diminuir a velocidade de queda na barra de fome e de sede.
+
+Alem disso, quatro outros problemas receberam a mesma recomendacao para sua solucao: 3 a velocidade que a barra de fome e de sede diminui e muito alta; 4 a falta de equilibrio ocorre tambem quando o jogo aumenta a dificuldade; 5 os personagens e os objetos nao se adaptam ao contexto do jogador, e 6 o jogo nao oferece opcoes de niveis de dificuldade. A recomendacao para estes casos e inserir escolha de niveis de dificuldade ou dificuldade adaptativa.
+
+Outra sugestao de melhoria para a experiencia do jogador e a adicao de niveis de habilidades culinaria, caca, coleta, de modo que o jogador possa, por exemplo, criar suas proprias receitas a partir do que aprendeu. Essa sugestao se mostra interessante, visto que o jogo nao implementa maestria 7, ja que Cicero aprende receitas porem sua habilidade nao evolui a partir disso.
+
+Divergimos ao avaliar o problema 8. Se, por um lado, alguns entre nos discordam de que IA seja importante para a jogabilidade, outros acreditam ser um problema do jogo ja que ha apenas um tipo especifico de tatica para vencer. Assim, a recomendacao relacionada a este item e criar desafios que permitam estrategias diferentes para sobrevivencia no jogo.
+
+Outro fator notado na jogabilidade esta relacionado a falta de mudanca nos dialogos de Cicero com os outros personagens 9, independentemente do que aconteca no jogo. Como sugestao, os desenvolvedores poderiam inserir uma maior variedade de dialogos, de modo a motivar o jogador a le-los.
+
+Outra questao que apontamos e sobre as canastras lacradas estarem disponiveis no cenario para o jogador mesmo antes de adquirir o facao 10, ferramenta necessaria para sua abertura. Como sugestao, propomos que as canastras estejam disponiveis no cenario somente apos Cicero adquirir o facao. Ponderamos, no entanto, que esta pode ter sido uma decisao de design, uma forma de indicar para o jogador que o facao precisa ser adquirido.
+
+O jogo limita de certa forma a agencia narrativa, uma vez que nao permite que as escolhas no jogo tenham impacto na historia 11. Como sugestao, as acoes do jogador poderiam interferir na forma como o jogo acontece ou em como ele termina, para oferecer ao jogador uma sensacao maior de liberdade.
+
+Durante as missoes, o jogo requer que o jogador se lembre de informacoes que foram apresentadas nos dialogos para encontrar os objetivos, nao podendo retornar aos dialogos anteriores 13. Mesmo que o jogador possa conversar novamente com os personagens, nao ha elementos na interface ou nos menus que oferecam essas informacoes. Nao e possivel salvar o estado corrente do jogo a qualquer momento, apenas nos oratorios 14. A recomendacao para estes casos e fornecer mais locais para salvamento do jogo e mais informacoes sobre as missoes no menu.
+
+Problemas Informativos: Os problemas informativos sao resumidos na Tabela 6. O primeiro ponto a ser discutido e que o indicador de objetivo de procurar os brinquedos de Miro, amigo de Cicero que foi para Canudos, nao ficou claro 4. Alem disso, esse objetivo nao e apresentado de forma clara e dificulta o entendimento da tarefa 1. Para resolver e preciso fornecer uma descricao mais detalhada dos indicadores e pistas sobre os objetivos dos desafios. A Figura 5 ilustra esses problemas.
+
+Outro ponto e que para lembar como executar algumas acoes mais complexas, como a de montar a fogueira e de como se locomover no mapa, pode ser preciso ler o tutorial depois de um tempo sem jogar. A documentacao do jogo nao forneceu as informacoes necessarias para saber como interagir com a interface 2. Para lidar
+
+Sob outra perspectiva, o jogo nao permite que voce avance sem fazer o tutorial 3. Algumas mecanicas do jogo nao sao tao faceis de se entender sem passar pelo tutorial como, por exemplo, a tecla C como acesso aos colecionaveis. Neste caso ha duas recomendacoes: permitir que se pule o tutorial, e que as informacoes do tutorial estejam tambem no menu de ajuda.
+
+Ja em relacao aos layouts da interface do menu, eles sao em sua maior parte eficazes, com excecao da navegacao no menu de preparacao 5. Disponibilizar o menu de preparacao como e o de mantimentos, em grade, facilitaria a interacao.
+
+A interface nao e completamente integrada ao mundo do jogo 6, mas tambem nao destoa dele. A sugestao e relacionar ícone de fome ao universo do jogo. Ainda sobre a interface, sentimos dificuldade em nos localizarmos no jogo 7. Dessa forma, e interessante um mapa ou uma bussola para o jogador melhor se situar no jogo.
+
+Adicionalmente, o jogo nao fornece dica no menu de ajuda sobre os principais controles do jogo, entre os quais estao a movimentacao e acesso ao inventario 8. Disponibilizar informacoes de controles no menu de ajuda pode resolver este problema. Em outro ponto, o jogo recorre a termos regionais do nordeste, que pode, no entanto, causar certa confusao em alguns jogadores 9. Para resolver, sugeriu-se fornecer um glossario dos termos regionais no menu.
+
+Alem disso, alguns itens estavam camuflados no cenario, como os brinquedos de Miro ou colecionaveis camuflados no chao por terem cores semelhantes 10. E preciso destacar satisfatoriamente objetos com pouco contraste com o cenario, como pedras e gravetos.
+
+Em relacao ao acesso a informacao, verificamos que nao ha nenhum tipo de mencao a acessibilidade no site do jogo nem loja da Steam11, a nao ser mencao a existencia de legendas. Pode-se disponibilizar uma secao ou pagina com informacoes sobre as caracteristicas de acessibilidade do jogo. Alem disso, o jogo nao pede feedback sobre os seus graus de acessibilidade e usabilidade 12. Como sugestoes de melhoria, os desenvolvedores poderiam disponibilizar email para contato, convidar pessoas com deficiencia para testar o jogo e evidenciar a necessidade de feedback sobre acessibilidade e usabilidade.
+
+Problemas de Personalizacao: No que diz respeito aos problemas que envolvem personalizacao do jogo apresentados na Tabela 7, consideramos que seria interessante que houvesse mais itens personalizaveis para Cicero 1. O jogo oferece configuracoes minimas de controle, como a inversao do eixo da camera. Entretanto, Arida nao permite ao jogador customizar as teclas que serao utilizadas no jogo 2. Recomendamos aos desenvolvedores permitir a personalizacao de todos os controles.
+
+Outra caracteristica importante que desencadeou uma serie de problemas e que podem ser resolvidos com uma unica solucao, diz respeito ao tamanho das fontes do jogo, que em alguns momentos foi de dificil leitura 3. Sugerimos permitir que o jogador personalize o tamanho e cor da fonte do jogo.
+
+Outro ponto e que o jogo nao permite o movimento da camera com o teclado 4 e, quando o controle esta conectado, tambem nao e possivel movimentar a camera com o mouse. O jogo deve oferecer um metodo para movimentar a camera pelo teclado. Alem disso, nao e possivel ajustar uma dead zone para os direcionais analogicos, nem regular a sensibilidade do controle 5. Permitir configurar dead zone e regular a sensibilidade do controle pode ajudar os jogadores a ter uma experiencia de jogo mais agradavel e acessivel.
+
+Em relacao a camera, o campo de visao no jogo e limitado, nao permitindo personalizar o Field Of View FOV 6. Para resolver, pode-se permitir a personalizacao do FOV. Dois dos avaliadores sentiram nauseas ao jogar, portanto e preciso avisar que o jogo pode causar enjoo/nausea na inicializacao do jogo.
+
+Em relacao aos volumes, nao e possivel personalizar os volumes das cinematicas 7. As sugestoes de melhoria que oferecemos sao a criacao de um controle separado para o som das cinematicas/narracao ou a sua associacao com efeitos sonoros. Por ultimo, o jogo nao dispoe de pre-configuracoes de acessibilidade 8. Recomendamos que Arida ofereca pre-configuracoes para diferentes tipos de necessidades cognitivas, motoras, auditivas e visuais.
+
+Problemas Gerais: A Tabela 8 apresenta a sumarizacao dos problemas gerais. Um dos primeiros pontos levantados e que diferentes fontes sao utilizadas no menu de objetivos 1. Para resolver e preciso padroniza-las.
+
+Alem disso, o jogo nao apresenta os indicadores de teclado quando o controle esta conectado, dessa forma o contexto do jogador nao e considerado 2. E necessario identificar se o metodo de entrada e o controle ou o teclado e atualizar a interface de acordo com esse metodo. Adicionalmente, acessar o inventario dentro do jogo nao e trivial. Ha dificuldade na navegacao entre abas, principalmente utilizando um joystick 3. Simplificar o acesso ao inventario, principalmente a troca de abas, pode resolver o problema.
+
+Outro ponto e que os menus nao sao acessiveis via teclado e precisam ser navegados com o mouse 4, dessa forma o jogo nao permite navegar pelas abas do menu apenas com o teclado. A sugestao de melhoria seria oferecer um metodo alternativo para navegar os menus usando o teclado. Em relacao aos checkboxes disponiveis nos menus, o clique precisa ser preciso para acionar o campo 5. Uma solucao possivel e permitir o acionamento com o clique na linha inteira da opcao para os itens de menu com checkbox.
+
+Analise da Narrativa
+
+Com base nos operadores de leitura narrativa 5, desenvolvemos a seguinte interpretacao dos elementos narrativos do jogo Arida.
+
+As personagens secundarias, como o Padre Olavo e Dona Almira, aproximam-se do que Junior 5 chama de personagens planas, ou seja, tendem a ter um baixo aprofundamento psicologico, com uma caracterizacao uniforme que permanece inalterada ao longo do jogo. O avo Tiao e Dona Firmina, entretanto, podem ser lidos como personagens planas tendendo a redondas, ou seja, personagens que apresentam um grau mediano de complexidade psicologica que, apesar de predominantemente simples, nao podem ser reduzidas a previsibilidade 5. Vemos em Dona Firmina uma personagem que vai alem de um reflexo da cultura nordestina e que tambem se define por elementos como o apego a sua terra e pelo apreco que sente por Tiao e por Cicero. No caso de Tiao vemos uma personagem que quase constantemente exerce o papel de avo, mas em uma missao do jogo podemos aprender sobre a importancia que Tiao da a flor de xique-xique, o que sugere uma maior complexidade do personagem.
+
+Cicero, apesar de ser a protagonista do jogo, nao passa por grandes transformacoes. A personagem, caracterizada por uma inocencia infantil e pelo desejo de reencontrar os pais, apos a morte do avo, se encontra profundamente abalada com o seu falecimento e com a necessidade de seguir sua jornada sozinha. Entretanto, a curta duracao do jogo nao permite que a protagonista alcance todo o seu potencial narrativo. Ainda assim e possivel identificar o amadurecimento de Cicero ao longo da historia. Durante o tutorial, o avo Tiao assume a responsabilidade sobre a protagonista, ensinando-lhe acoes necessarias durante o jogo. Nas fases seguintes, Cicero ja ganha mais autonomia ao explorar o mundo do jogo por conta propria, mas mesmo nesta etapa do jogo a personagem continua apenas obedecendo as vontades das outras figuras adultas. Este estagio do desenvolvimento da personagem acaba refletido nas mecanicas de jogabilidade, que dao a liberdade do jogador explorar diferentes estrategias para sobrevivencia, mas nao permite que o jogador faca escolhas sobre como completar missoes. Apenas ao final do jogo, apos a morte de Tiao, Cicero e forcada a desenvolver sua autonomia ao comecar sua jornada em direcao a Canudos.
+
+Outro ponto a ser destacado e a utilizacao simbolica do tempo da narrativa, especificamente a forma em que a passagem do dia para a noite pode ser lida como um reflexo das etapas da historia de Cicero. O jogo se inicia durante o dia, com o ceu azul espelhando a alegria e a inocencia da personagem no inicio da narrativa. Com a morte de Tiao, Cicero alcanca um ponto-chave de sua historia, em que deve decidir se parte sozinha ou nao. Este momento dificil da personagem e tambem mostrado no ceu, que e agora colorido pelo por do sol. A transicao do dia para a noite reflete a passagem do conforto da infancia para as dificuldades da jornada da juventude e da maturidade. Finalmente, embora nao esteja propriamente presente no jogo, a noite aparece em uma cena pos-creditos que mostra a protagonista, no meio de sua viagem em direcao a Canudos.
+
+E por meio de Cicero, protagonista da historia, que o jogador descobre o mundo de Arida. O espaco do jogo e separado em 6 regioes que se tornam visitaveis com o progresso da narrativa. A medida que a personagem explora o mundo do jogo, o jogador pode de aprender mais sobre o sertao da Bahia do seculo XIX.
+
+No jogo, vemos retratada a aridez do sertao durante uma forte seca que desencadeia o inicio da narrativa e tambem justifica as mecanicas de sobrevivencia do jogo. Compondo o ambiente de Arida vemos tambem exemplos de casas tipicas da regiao, assim como plantas e animais locais descritos com seus nomes regionais, como mostra a Figura 6. Esses exemplos de arquitetura, fauna e flora tipicos do sertao baiano demonstram uma preocupacao em se manter fiel a realidade da regiao. As mecanicas de sobrevivencia do jogo ainda permitem que essas plantas e animais sejam coletados e utilizados em receitas tipicas do sertao baiano.
+
+A escolha pela representacao de elementos da cultura nordestina e refletida pela constante presenca dos temas da morte e da religiosidade. Ja nas primeiras missoes do jogo, a protagonista e confrontada com a morte de um dos bodes de dona Firmina. No climax do jogo, na busca por ervas capazes de salvar seu avo Tiao, Cicero e levada a visitar o vale da morte, uma regiao do jogo onde e possivel encontrar animais mortos e lapides.
+
+Contraposta ao tema da morte, a religiosidade surge como uma alternativa. A escolha de manter um padre como um dos personagens, exemplifica a importancia da religiao para a cultura retratada no jogo, que tambem e evidenciada pelo altar atras da casa de Dona Firmina. Tambem se encontram varios oratorios que, alem de dar destaque para a religiosidade local, ainda servem como pontos de salvamento. Antes de partir, Dona Firmina da um banho de ervas em Cicero para protege-la contra os perigos da jornada. A religiosidade tambem retrata um elemento de importancia cultural e, ao representar simbolos cristaos ao lado de simpatias de Dona Firmina, da destaque para o sincretismo religioso tao presente no sertao nordestino do seculo XIX.
+
+O periodo historico do jogo se faz mais presente nas descricoes dos objetos colecionaveis, mostrados na Figura 6, que oferecem ao jogador uma descricao sobre a historia e a cultura do sertao nordestino no seculo XIX. Embora existam dialogos dentro do jogo que sugerem a aproximacao de um conflito que viria a ser chamado de Guerra de Canudos, a curta duracao de Arida, assim como a escolha pelo ano de 1895 como o inicio da narrativa, limitam as referencias a guerra de Canudos, que nao comecaria ate 1896.
+
+Análises dos Usuários da Steam
+
+Apos nossa avaliacao, fizemos uma revisao das análises dos usuarios da Steam. Arida e um jogo que foi bem recepcionado pelo publico da Steam. Das suas 434 resenhas, 389 sao positivas e apenas 45 sao negativas. Dentre suas resenhas negativas, e perceptivel uma recorrencia nas reclamacoes, sendo as principais delas:
+
+O jogo e muito curto e pouco complexo 26 ocorrencias;
+O jogo tem um padrao repetitivo, sem muita diversidade nas missoes 16 ocorrencias;
+As barras de fome e sede descem muito rapido, assim como o fio da enxada e do facao 8 ocorrencias;
+O jogo nao e otimizado, demandando muitos recursos do computador 7 ocorrencias;
+Os controles do jogo nao sao otimizados e nao e possivel personaliza-los 6 ocorrencias;
+A camera do jogo gera nauseas 2 ocorrencias;
+
+De forma geral, os resultados das nossas avaliacoes corroboram com as principais reclamacoes encontradas na Steam.
+
+Reuniao com a Aoca Game Lab
+
+Apresentamos nossos procedimentos e resultados obtidos com a avaliacao de Arida em uma reuniao com os desenvolvedores do Aoca Game Lab. A equipe relatou que Arida surgiu atraves de um processo minucioso de pesquisa, a partir de varias buscas bibliograficas e entrevistas com historiadores. De modo a criar cenarios e personagens mais verossimeis, a equipe passou uma semana no sertao. La tiveram contato com pessoas e com o ambiente sertanejo, que serviram de inspiracao para a narrativa e para a arte de Arida.
+
+Durante a reuniao, os desenvolvedores disseram que desde o inicio do jogo ocorreram discussoes sobre acessibilidade, mas que devido as limitacoes de recursos e a falta de informacao, nao conseguiram dar tanta atencao ao tema como teriam gostado. Entretanto, agora durante a producao da continuacao de Arida, Arida 2: Ascensao da Bravura5 , a equipe esta mais preocupada com aspectos de acessibilidade, devido a relatos de pessoas que queriam jogar e nao conseguiram. Eles disseram que parte dos problemas que identificamos ja estavam sendo discutidos entre a equipe. Alem disso, a equipe ressaltou que agora eles contam com um desenvolvedor PCD Pessoa Com Deficiencia, que tem prestado consultoria sobre diversos aspectos de acessibilidade. Esse feedback serviu como um incentivo para nossa equipe, mostrando que as empresas de jogos independentes brasileiras tem interesse em tornar seus jogos mais inclusivos, oferecendo uma melhor experiencia ao jogador.
+
+Discussao
+
+Arida apresenta um grande potencial educativo e de valorizacao cultural, evidente pela analise da narrativa. A escolha dos desenvolvedores de retratar o periodo da guerra de Canudos, apresenta aos jogadores esse momento da historia brasileira de forma imersiva e ludica e oferece relances sobre a vida cotidiana no sertao no seculo XIX. A pesquisa de campo e a entrevista com historiadores que os desenvolvedores fizeram evidencia sua vontade de retratar o sertao e a cultura sertaneja sem o apelo a estereotipos.
+
+Arida se mostra como um jogo com potencial revolucionario, ao colocar em evidencia a historia e cultura do sertao baiano, trazendo uma maior representatividade. A propria escolha de Cicero como personagem principal e um reflexo disso, uma menina negra de origem humilde se destaca no mundo dos jogos comerciais, dominado por personagens masculinos eurocentricos.
+
+Tambem podemos destacar que houve atencao as questoes ligadas a acessibilidade, usabilidade e experiencia do jogador. Ha um grande conjunto de heuristicas PLAY e diretrizes GAG implementadas por completo ou parcialmente secao 4, e observamos tambem esta preocupacao pela equipe de desenvolvedores. Entretanto, o fato de Arida seguir a maioria das diretrizes nao impacta necessariamente no fato da experiencia dos jogadores ser satisfatoria. E possivel que, como as solucoes foram parcialmente implementadas, a experiencia do jogador possa ainda ser negativamente afetada.
+
+Mesmo cumprindo parcela das PLAY e GAG, Arida apresenta pontos que de certa forma atrapalharam a experiencia do jogador e ainda deixam a desejar. Do ponto de vista da PLAY, os problemas severidade 3 se concentraram em aspectos como missoes repetitivas, falta de dificuldade adaptativa/niveis de dificuldade, inconsistencia na navegacao menus, controles e ausencia de mapa, falta de locais de salvamento e o menu de ajuda incompleto. Ja a GAG evidenciou problemas severidade 3 como ausencia de remapeamento dos controles, nauseas causadas pela movimentacao da camera e falta de niveis de dificuldade. Dessa forma, podemos ver que ha uma sobreposicao entre as GAG e as PLAY, na medida em que ambas evidenciam a necessidade de apresentar dificuldade adaptativa ou niveis de dificuldade, sendo uma questao tanto de acessibilidade quanto de usabilidade.
+
+A combinaçao das GAG e PLAY demonstraram ser efetivas para
+a identificaçao de problemas de usabilidade, experiencia do joga-
+dor e acessibilidade, como e evidenciado pelo alinhamento com os
+comentarios dos usuarios da Steam. Dentre estes pontos, temos
+a falta de personalizaçao dos controles, as missoes repetitivas e a
+ausencia de dificuldade adaptativa. Dessa forma, pode-se inferir que
+a combinaçao da GAG e da PLAY e uma alternativa eficiente para
+avaliaçao de jogos, antecipando problemas e ampliando a qualidade
+de uso e por consequencia as chances de sucesso do jogo.
+
+A analise narrativa tambem apresentou certa correspondencia
+com as avaliaçoes da Steam, ja que um dos problemas encontrados
+e a curta duraçao do jogo, que nao permite um aprofundamento
+maior de Cicero. Dessa forma, a inspeçao heuristica com a analise
+da narrativa se mostrou interessante, visto que foi possivel avaliar
+aspectos de usabilidade, experiencia do usuario, acessibilidade e de
+valorizaçao historica cultural. Essa combinaçao permitiu executar
+uma avaliaçao mais rapidamente do que com uma avaliaçao por
+usuarios, enquanto pudemos averiguar a capacidade de Arida de
+empatizar e ensinar os jogadores.
+
+As PLAY evidenciaram varios problemas de jogabilidade e as
+GAG na interface, nao sendo necessario ter uma grande expertise
+para utiliza-las. Ambas, GAG e PLAY, apresentaram certo grau de
+redundancia e algumas diretrizes, e heuristicas poderiam ser aglu-
+tinadas para torna-las mais concisas. As PLAY ainda apresentam
+outros problemas. Por ser uma lista com 46 heuristicas, utiliza-la
+se torna uma tarefa demorada e cansativa, o que pode atrapalhar
+a avaliaçao. Alem disso, algumas das 46 heuristicas lidam direta-
+mente com questoes relacionadas a experiencia dos jogadores e
+os resultados obtidos podem variar de acordo com a experiencia
+dos avaliadores. As PLAY poderiam oferecer um contexto e exem-
+plos para cada heuristica, facilitando sua utilizaçao. Ja a analise
+da narrativa mostrou a necessidade de um maior aprofundamento
+nas personagens em proximos jogos, de modo que os jogadores se
+conectem ainda mais com o jogo.
+
+Entre as vantagens dessa combinaçao temos a abrangencia de
+criterios, permitindo uma avaliaçao mais completa. Porem, essa
+combinaçao e cansativa, devido a abundancia de heuristicas e dire-
+trizes utilizadas. Alem disso, como so temos um membro da equipe
+com experiencia em linguistica, foi complexo fazer a analise da
+narrativa, devido nossa falta de experiencia. Mesmo assim, se nao
+tivessemos escolhido essa combinaçao, nao teriamos encontrado os
+problemas relacionados a movimentaçao de camera, da falta de um
+mapa e a falta de complexidade de Cicera, por exemplo. Os comentarios dos usuarios finais do jogo se mostraram um bom indicador
+dos problemas mais criticos do jogo e devem ser considerados nas
+avaliacoes sempre que possivel.
+
+**CONCLUSAO**
+
+A inspeçao heuristica nos permitiu encontrar em Arida 38 proble-
+mas, considerando aspectos de acessibilidade, de usabilidade e de
+experiencia do jogador. A utilizaçao das PLAY, das GAG, dos ope-
+radores de narrativa e das analises da Steam nos permitiu ter uma
+visao abrangente de Arida em termos computacionais, educativos,
+historicos e culturais.
+
+Mesmo Arida nao cumprindo com certas heuristicas e diretrizes,
+e possivel perceber que houve preocupaçao por parte dos desen-
+volvedores em melhorar a experiencia do usuario. Pontos princi-
+palmente relacionados a acessibilidade podem ser justificados pela
+falta de informaçao de muitos desenvolvedores independentes em
+relaçao ao assunto. Esperamos que a partir do nosso artigo, tanto
+academicos quanto desenvolvedores de jogos consigam observar a
+importancia de se preocupar com aspectos de acessibilidade e de
+usabilidade nos jogos, e tambem ver que eles nao sao inalcançaveis.
+
+Dentre as limitaçoes do nosso trabalho, temos que um de nossos
+avaliadores nao tinha expertise em jogos e que nao fizemos testes
+com usuarios, apenas especialistas da area de computaçao. Como
+trabalhos futuros, fomos convidados pela Aoca Game Lab a prestar
+consultoria em Arida 2. Alem disso, gostariamos de avaliar Arida
+sob a vivencia de pessoas com deficiencia, a fim de obtermos uma
+avaliaçao mais proxima da universal.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o estudo demonstra a importancia de se considerar a acessibilidade e usabilidade em jogos digitais, especialmente em jogos que buscam representar aspectos culturais e historicos. A combinaçao de diferentes metodologias de avaliaçao e a participaçao dos desenvolvedores no processo de analise podem levar a melhorias significativas na experiencia do jogador.

@@ -1,0 +1,149 @@
+**Resumo.**
+
+Apesar do numero igualitario de pessoas jogadoras dos generos fe-
+minino e masculino, as mulheres tem tido baixa representatividade nos jogos
+digitais. Nesse contexto, este trabalho busca entender a participaçao feminina
+nesse universo, com foco no perfil de mulheres jogadoras brasileiras, suas ex-
+periencias vivenciadas e suas preferencias em relaçao a aspectos da interface
+desses jogos.
+
+**Introduçao**
+
+A industria de jogos digitais tem se tornado cada vez mais relevante na vida cotidiana
+das pessoas. Segundo a Pesquisa Game Brasil, em 2023, 73,9% das pessoas
+brasileiras jogavam ou ja jogaram algum tipo de jogo digital. A pesquisa tambem apon-
+tou que, entre essas pessoas jogadoras, 50,9% se identificavam como mulheres. Apesar
+da consideravel representatividade feminina como jogadoras, estudos tem apontado que
+mulheres possuem uma baixa representatividade em relaçao as personagens dos jogos
+digitais.
+
+Visto a baixa representatividade de mulheres como personagens protagonistas em
+jogos digitais, em contraste com uma importante representatividade delas como consumi-
+doras desses jogos, este trabalho volta o seu foco para essas ultimas, buscando entender
+o cenario da participaçao feminina nesse universo. Para isso, foi realizado um estudo
+exploratorio com mulheres jogadoras, com dados coletados por meio de um questionario
+online. Os resultados trouxeram informaçoes relacionadas ao perfil dessas mulheres, bem
+como suas experiencias vivenciadas enquanto jogadoras e suas preferencias em relaçao a
+caracteristicas presentes nas interfaces de jogos digitais. Com isso, pretende-se contribuir
+para a criaçao de ambientes em jogos digitais mais inclusivos, com os quais as jogadoras
+se identifiquem e se sintam adequadamente representadas.
+
+O restante do artigo esta organizado da seguinte forma: na secao 2 e apresentado
+o detalhamento da metodologia utilizada na pesquisa; na secao 3 sao mostrados os resultados obtidos a luz das questoes de pesquisa definidas, e; por fim, a secao 4 apresenta as
+conclusoes e trabalhos futuros.
+
+**Metodologia**
+
+Considerando o objetivo deste trabalho, foi investigada as seguintes questoes de pesquisa:
+(QP1) Qual e o perfil das jogadoras brasileiras e suas experiencias com jogos digitais? e
+(QP2) Quais sao as preferencias das jogadoras brasileiras em relaçao a jogos digitais e a
+caracteristicas de suas interfaces?.
+
+Para a coleta de dados, foi elaborado um questionario, disponibilizado por meio do
+Google Forms. A divulgaçao ocorreu por meio de redes sociais, como WhatsApp, foruns
+de jogos e Instagram, com as respostas sendo coletadas entre os dias 27 de outubro e 7 de
+novembro de 2023.
+
+A coleta de dados foi conduzida de forma etica, garantindo a privacidade dos partici-
+pantes, com informaçoes tratadas de forma confidencial e anonima. A participaçao foi
+voluntaria, e os participantes foram informados sobre os objetivos da pesquisa atraves
+do Termo de Consentimento Livre e Esclarecido (TCLE), que precisavam aceitar para
+acessar as questoes.
+
+Para a analise dos dados coletados, foi utilizado inicialmente o relatorio gerado pela pro-
+pria plataforma do Google Forms. A partir deste relatorio, foram analisadas as estatisticas
+descritivas das perguntas objetivas e o conteudo das questoes abertas/subjetivas por meio
+de uma analise tematica.
+
+**Resultados**
+
+A pesquisa contou com a participaçao de 72 respondentes. Nas subseçoes a seguir serao
+apresentados os resultados da analise em funçao das respostas as questoes de pesquisa.
+
+Observou-se um perfil de participantes jovens, com mais da metade das respondentes
+(59,7%) possuindo entre 18 e 24 anos. Dentre as restantes, 27,8% possuem entre 25 e
+30 anos e 12,5% apenas acima de 30 anos. Sobre o local de residencia, a grande mai-
+oria das participantes (81,9%) reside na regiao Sudeste do Brasil. Quanto ao nivel de
+escolaridade, mais da metade da amostra (55,6%) possui Ensino Superior Incompleto e
+20,8% das participantes possuem Ensino Superior Completo. Do total de respondentes,
+39% preferem jogar em conjunto com outras jogadores, enquanto que 29% preferem jo-
+gar sozinhas. Ja sobre a frequencia de jogabilidade semanal, houve uma concentraçao
+das respostas nos valores extremos, ou seja, a maior parte joga ou uma vez por semana
+ou quatro ou mais vezes por semana (ambas com 36,1%). A plataforma utilizada pela
+maioria das respondentes (67%) para jogar e o computador.
+
+Alem disso, verificou-se que, 62,5% das respondentes ja vivenciaram situaçoes de
+discriminaçao de genero enquanto jogavam online. Dentre as experiencias de discrimina-
+çao compartilhadas por algumas participantes, observou-se a ocorrencia de xingamentos e
+comentarios pejorativos, que podem ate mesmo afetar a saude mental da jogadora, como
+pode ser visto no seguinte relato de uma das participantes: "Eu nao jogo mais LOL e
+Valorant porque me da ansiedade e nao prazer. No Valorant, ja fui chamada de coisas
+horriveis simplesmente por dar 'oi' no inicio do jogo e eles verem que eu era mulher.".
+Algumas discriminaçoes ocorrem tambem na forma de inferiorizaçao, ao julgarem as
+mulheres como sendo menos capazes que os homens, ou nao tendo o direito de estarem
+presentes e obterem posiçoes de destaque como jogadoras, como pode ser visto no se-
+guinte relato: "Durante partidas de Counter Strike, principalmente, frequentemente fui
+falada que nao estava no lugar certo, que tinha que estar lavando uma louça, que iam
+me dar um kit gamer feminino: materiais de limpeza coloridos".
+
+Dentre os jogos favoritos das respondentes, os que mais se destacaram foram The Sims
+(11,8%), League of Legends (10,3%) e Stardew Valley (7,4%). Sobre os motivos de suas
+preferencias, as participantes justificaram, no caso do The Sims, que e um jogo de simu-
+laçao da vida real, aspectos como a nostalgia vivida, por ser um jogo presente em suas
+infancias, e a possibilidade de personalizaçao, permitindo ao jogador escolher as caracte-
+risticas que melhor se adequam ao seu avatar, como cor do cabelo, cor da pele, penteado
+entre outros. Esse e motivo da preferencia das respondentes tambem pelo Stardew Valley.
+Ja sobre o jogo League of Legends, dentre os principais motivos para a preferencia das
+respondentes, muitos estao ligados principalmente a sua jogabilidade, como, por exemplo,
+a combinaçao de habilidade mecanica e estrategia. Outro motivo citado para a preferencia
+desse jogo e o seu universo em relaçao a historia dos personagens, que tem tratado uma
+grande diversidade de caracteristicas fisicas e culturais.
+
+Quando perguntadas sobre dispositivos preferidos para jogar, 55,6% das respon-
+dentes tem preferencia por utilizar mouse e teclado, enquanto 31,9% preferem utilizar
+controles e, por fim, 12,5% preferem utilizar telas, como dispositivos mobile. Em relaçao
+ao tipo de grafico, pode-se notar que nao existe um tipo especifico preferido pelas joga-
+doras, visto que 50,0% das respondentes afirmaram nao ter preferencia, enquanto 31,9%
+tem preferencia por jogos 3D e 18,1% tem preferencia por jogos 2D.
+
+Quanto a visibilidade dos elementos do jogo, 41,7% das participantes preferem
+ter uma visualizaçao parcial dos elementos do jogo, ou seja, alguns menus sao apresen-
+tados na tela, porem, para acessar outros e necessario acionar uma nova janela. Ja 31,9%
+das respondentes preferem ter uma visualizaçao total, ou seja, de todos os elementos, que
+ocorre quando existem diversos menus na tela, trazendo indicaçoes sobre missoes, habi-
+lidades, entre outros. Outras 22,2% nao tem preferencia, e apenas 4,2% preferem nao ter
+visualizaçao dos elementos na tela, que ocorre quando e necessario acionar novas janelas
+para qualquer açao tomada, como escolher ferramentas e ver missoes ativas.
+
+Por fim, em relaçao a personalizaçao dos elementos da interface, 41,7% das res-
+pondentes preferem ter uma personalizaçao parcial, que ocorre quando alguns elementos
+podem ser alterados, como por exemplo a posiçao, e outras questoes nao. Ja 27,8% das
+respondentes preferem ter uma personalizaçao total, que ocorre quando podem ser mo-
+dificados quaisquer elementos, como cor, tamanho e local, dentre outros. As que nao
+possuem preferencia sao 23,6%, enquanto que 6,9% das respondentes preferem nao ter
+personalizaçao na interface, ou seja, que nao haja elementos que podem ser modificados.
+
+Assim, percebeu-se que as respondentes preferem ter controle sobre o que desejam
+ver na interface do jogo, podendo escolher o nivel de detalhes visiveis na tela. Por outro
+lado, em relaçao a possibilidade de modificar os elementos da interface, elas preferem um
+controle compartilhado com o sistema, ou seja, poder alterar alguns elementos, enquanto
+outros permanecem fixos.
+
+Um resumo do perfil e as preferencias das respondentes em relacao a aspectos da
+interface dos jogos digitais e mostrado na Figura 1.
+
+**Conclusao**
+
+Essa pesquisa proporcionou uma analise do perfil de mulheres jogadoras brasileiras e suas
+preferencias em relaçao a aspectos da interface de jogos digitais. Os resultados sugerem
+que ha margem para melhorias na industria de jogos digitais, visando tornar os jogos mais
+inclusivos e atrativos para as jogadoras. Isso envolve nao apenas uma representaçao mais
+equitativa de personagens femininas, mas tambem consideraçoes sobre aspectos de inter-
+face preferidos pelas jogadoras. Tais constataçoes fornecem insights importantes para a
+industria, ao direcionar o desenvolvimento de conteudo mais alinhado com as expectati-
+vas e preferencias desse publico especifico. Como trabalhos futuros, sugere-se ampliar a
+amostra, buscando maior representatividade de jogadoras de diferentes regioes do Brasil.
+
+**Considerações Finais**
+
+Este estudo destaca a importancia de considerar as preferencias e experiencias das jogadoras brasileiras no design de interfaces de jogos digitais. Ao promover jogos mais inclusivos e representativos, a industria pode atrair e reter um publico feminino cada vez maior, criando um ambiente mais acolhedor e diversificado para todos os jogadores.

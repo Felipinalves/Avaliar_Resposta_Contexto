@@ -1,0 +1,76 @@
+**RESUMO**
+
+A gestao dos hemocomponentes e de extrema importancia para
+garantir o acesso destes insumos a populaçao necessitada. Neste contexto, a
+ciencia de dados vem cada vez mais sendo aplicada, em especial, utilizando
+dashboards, que sao plataformas voltadas para a rapida visualizaçao e
+analise dos dados, de maneira a auxiliar o gestor em decisoes estrategicas.
+Este trabalho tem como objetivo projetar e implementar um dashboard em
+ambiente Web para visualizaçao, analise e previsao de dados de coleta de
+bolsas de sangue e plaqueta, considerando o estudo de caso de um
+hemocentro publico. O dashboard proposto utiliza padroes e boas praticas da
+literatura, prezando pela simplicidade, objetividade e responsividade.
+
+**INTRODUCAO**
+
+A doaçao de sangue e uma açao fundamental e solidaria para com a sociedade, uma vez
+que pode ate mesmo salvar a vida de pessoas necessitadas. O sangue doado auxilia na
+recuperaçao de acidentados, leucemicos, vitimas de hemorragia, dentre outros casos.
+Em alguns casos, pacientes necessitam de hemocomponentes especificos diretamente
+extraidos do sangue, como por exemplo, as plaquetas. Via de regra, no Brasil, os
+hemocentros sao responsaveis por gerir os estoques de sangue e seus hemocomponentes,
+tendo que lidar com a escassez destes insumos tempos em tempos .
+
+Paralelo a isso, a area de ciencia de dados vem sendo amplamente utilizada nas
+empresas e serviços em geral, com a finalidade de melhorar suas atividades e processos.
+No contexto da gestao de sangue e demais hemocomponentes, a area de ciencias de
+dados e capaz de prover ferramentas para uma analise de dados de forma minuciosa,
+visando detectar fenomenos associados a coleta de bolsas de sangue como fatores
+sociais, comportamentais, alem de questoes associadas a oferta e demanda de insumos.
+Dentre as tarefas suportadas pela ciencia de dados, cita-se o suporte a tomada de decisao,
+que pode ser feita baseada nas informaçoes extraidas a partir de dados coletados
+.
+
+O objetivo deste trabalho e desenvolver um dashboard em ambiente Web, com o
+intuito de facilitar tarefas relacionadas a gestao de bolsas de sangue e plaquetas na
+Fundaçao Hemocentro de Brasilia. O dashboard tem carater estrategico e, por meio de
+elementos da estatistica descritiva e tecnicas relacionadas a series temporais, pretende
+dar suporte na tomada de decisao por parte dos gestores da Fundaçao Hemocentro de
+Brasilia.
+
+**METODOLOGIA APLICADA**
+
+Uma etapa previa para o desenvolvimento do dashboard foi uma visita tecnica as
+dependencias do Hemocentro. Apos um dialogo com a gestora, buscou-se construir uma
+interface que respondesse as seguintes perguntas:
+Calculo de estatisticas descritivas: Qual a media, mediana, minimo e maximo de
+bolsas mensais coletadas ao longo do tempo?
+Como vem se comportando a serie historica mensal de doaçoes?
+Quais meses do ano costumam ter mais coleta? E quais costumam ter menos?
+Qual a previsao de bolsas obtidas no periodo dos proximos 24 meses?
+
+Apos este levantamento e compreensao de requisitos, foram realizadas as seguintes
+etapas de desenvolvimento, ilustradas na Figura 1.
+
+A primeira etapa consistiu da obtençao dos dados historicos da quantidade de
+bolsas de sangue e plaquetas, pelo Hemocentro publico de Brasilia, via sistema de
+acesso a informaçao governamental (LAI-007046/2023). A instituiçao forneceu os
+dados em frequencia mensal, relativos ao periodo de janeiro de 2014 a dezembro 2022.
+
+A etapa seguinte consistiu da organizaçao e estruturaçao dos dados, seguida de
+uma analise exploratoria. Nesta etapa, foram utilizadas e calculadas algumas metricas
+tipicas da estatistica descritiva como a media, minimo e maximo coletado. Ja a terceira
+etapa focou na construçao das series temporais para cada tipo de bolsa (sangue e
+plaqueta), analise e concepçao de modelos de previsao de coleta de bolsas a partir de
+tecnicas usualmente utilizadas para este fim (dentre as quais destaca-se ARIMA,
+regressao linear aplicada a series temporais (TSLM), e tecnicas de suavizaçao
+exponencial) utilizando o metodo hold-out [Hyndman and Athanasopoulos 2018]. A
+ideia foi utilizar no dashboard o modelo com o menor indice de erro nas previsoes. Todas as analises e processamentos da segunda e terceira etapas foram geradas por meio da ferramenta Rstudio a partir da linguagem de programacao R. Por fim, na ultima etapa, focou-se no projeto e na criacao do dashboard Web (arquitetura cliente-servidor), utilizando-se a ferramenta Figma para prototipacao, tecnologias Web front-end (HTML, CSS e Bootstrap) para implementacao de um design responsivo, alem do framework Shiny, responsavel por possibilitar a interacao entre os scripts em linguagem R (back-end) e interfaces Web (frond-end).
+
+Resultados preliminares e discussoes
+O dashboard proposto utiliza padroes de interface consolidados na literatura [Bachet al. 2022], como cartoes (cards), graficos em linha, e e dividido em tres partes bem definidas, conforme Figura 2. No inicio do painel (parte superior - 1), sao exibidas as metricas da analise exploratoria dos dados, a saber: menor e maior nivel de coleta (juntamente com os respectivos meses), media, mediana e total de bolsas coletadas das series historicas de sangue (a esquerda) e plaqueta (a direita).
+
+A segunda parte do painel (2) tem como foco a serie temporal (em vermelho) construida a partir dos dados historicos, bem como a extrapolacao (previsao, em azul). Nesta parte, existem componentes graficos de selecao de datas e ampliacao (zoom), na qual pode ser utilizada pelo usuario para customizar o grafico temporal a ser exibido. O intuito desta parte do dashboard e mostrar, de maneira rapida e precisa, o comportamento do numero de bolsas coletadas, em especial, a tendencia das series, alem de exibir uma perspectiva futura de coleta utilizando previsoes. Na terceira parte do painel (3), o foco esta dedicado aos graficos de sazonalidade, que permitem uma visualizacao mais adequada dos meses com alta e baixa coleta, para cada ano da serie historica. Os graficos de sazonalidade permitem ao gestor saber, por exemplo, em que meses do ano costuma ter um baixo nivel de coleta. Esta informacao pode subsidiar uma tomada de decisao que faca frente a este cenario, como o planejamento de uma campanha de doacao de sangue. Ressalta-se que o presente dashboard vem sendo desenvolvido em linha com os aspectos chaves destacados por Few (2006): uma exibicao visual das informacoes necessarias para alcancar um (ou mais) objetivo(s) consolidados e organizados em tela de visao unica (sem necessidade de barra de rolagem), para que tudo possa ser monitorado rapidamente. Alem disso, o design foi customizado conforme as necessidades da gestao do Hemocentro, o que inclui a simplicidade (evitar excesso de dados em tela), a interatividade com os graficos (p. ex. exibicao dos dados ao passar o mouse), e a inclusao de elementos da tematica hemo (p. ex. cores e icones).
+
+Consideracoes Finais e trabalhos futuros
+Este trabalho propoe a criacao de um dashboard interativo com foco na facilidade de uso para auxiliar na tomada de decisao no que concerne a gestao de sangue e plaquetas em um hemocentro publico. O design do prototipo e tematico, responsivo e dividido em tres partes definidas: (i) exibicao de metricas estatistica descritiva; (ii) graficos das series temporais com possibilidade de previsao; (iii) graficos de sazonalidade. Como trabalhos futuros pretende-se dividir e gerar as series temporais e modelos de previsao para cada tipo e fator de sangue, alem da inclusao dos intervalos de confianca para as previsoes feitas. Neste contexto, incluir todas esses novos graficos mantendo o dashboard em tela de visao unica pode representar um desafio de design a ser superado. Estuda-se tambem a possibilidade de se trabalhar com os dados de doadores, inserindo funcionalidades relacionadas a previsao de potenciais doadores de repeticao a partir de modelos construidos por solucoes de aprendizagem de maquina (machine learning).

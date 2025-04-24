@@ -1,0 +1,124 @@
+**RESUMO**
+
+Dispositivos de efeitos multissensoriais estao cada vez mais
+sendo desenvolvidos por grupos de pesquisa e empresas com
+o objetivo de melhorar a qualidade da experiencia (QoE) dos
+usuarios, criando sensaçoes de vibraçao, toque, cheiro, vento
+e assim por diante. Este breve artigo resume os esforços
+recentes de dispositivos tateis, olfativos e gustativos para
+criar experiencias mais imersivas para a interaçao humano-
+computador.
+
+**INTRODUCAO**
+
+Tecnologias e dispositivos inovadores e com custos razoa-
+veis estao permitindo o aparecimento de formas, ate entao
+ineditas, de interaçao. As chamadas aplicaçoes mulsemidia
+adicionam os outros sentidos humanos (olfato, paladar e tato)
+a combinaçao classica visao & audição da multimidia. De fato,
+a interaçao humana e inerentemente multissensorial e en-
+volve aspectos visuais, auditivos, tateis, olfativos e gustativos.
+Assim, as chamadas aplicaçoes mulsemidia representam um
+passo adiante no processo evolutivo das formas de interaçao
+humano-computador. Este artigo traz o estado da arte sobre
+dispositivos para geraçao de efeitos sensoriais, tendo como
+base o artigo de Saleme et al. , que tambem apresenta um
+guia para construçao de ambientes mulsemidia baseados em
+desktop e em ambientes 360° imersivos.
+
+**DISPOSITIVOS DE EFEITOS SENSORIAIS**
+
+Efeito Tatil
+
+ARAIG e um traje de efeito tatil com force feedback que
+provoca estimulos eletricos nos musculos e reproduz sensa-
+çoes de toque, alem da sensaçao de um audio circundando o
+usuario. Tesla e um traje de neoprene de corpo inteiro que
+usa atuadores espalhados pelo corpo para estimular a pele
+por meio de vibraçoes e sensaçoes termicas. Introduzido por
+Carter et al. , Ultrahaptics e outro dispositivo comercial
+para produzir sensaçoes tateis de toque no ar por meio de
+estimulos gerados por ultrasom. VirWind consiste em um
+conjunto de ventiladores para criar uma sensaçao de vento
+3D em ambientes de RV (Realidade Virtual) com o uso de 4
+torres equipadas com ventiladores. Roto VR e uma cadeira
+destinada a RV que gira de acordo com os movimentos da
+cabeça para minimizar efeitos de nausea, alem de produ-
+zir sensaçoes de impacto, como em aceleraçoes bruscas ou
+colisoes.
+
+Efeito Olfativo
+
+Olorama permite integrar odores em ambientes multisen-
+soriais por meio de uma soluçao comercial que combina
+hardware, software e oleos essenciais. Salminen et al.
+apresentaram um prototipo de dispostivo para emitir e de-
+tectar odores. Eles usaram uma mascara inter-cirurgica co-
+nectada a um headset VR que cobre parte do rosto do usuário
+e que e conectado a um recipiente aromatizado por um tubo
+de ventilacao.  Hasegawa et al. [3] descrevem uma tecnica
+para controlar a distribuicao espacial de aromas com o uso
+de ultrasom, guiando o cheiro vaporizado para as narinas do
+usuario. A tecnica tambem foi usada para remover odores em
+experiencias olfativas subsequentes dos autores. Dobbelstein
+et al. [2] apresentam um dispositivo olfativo miniaturizado
+para ser usado como um colar e que permite receber notificacoes pessoais de dispositivos moveis via Bluetooth com
+ate 8 diferentes odores.
+
+Efeito Gustativo
+Vi et al. [10] desenvolveram a TastyFloats, uma maquina
+capaz de levitar acusticamente pequenos pedacos de comida
+e entrega-los na lingua do usuario. Karunanayaka et al. [4]
+criaram uma maquina que produz sensacoes de gosto na
+lingua do usuario a partir da variacao da temperatura em
+pequenos intervalos de atividade. Digital Lollipop [5] e outro prototipo que produz sensacoes de gosto por meio de
+estimulacao eletrica das papilas gustativas.
+
+Efeitos Sensoriais Combinados
+Apesar da maioria dos dispositivos para mulsemidia focar em
+apenas um dos outros sentidos, alem da visao e da audicao, ja
+existem iniciativas de exibicoes que combinam olfato e tato
+para aumentar a sensacao de imersao dos usuarios. Feelreal
+VR7
+e uma mascara de RV que pode ser conectada sem fio
+ou nao a oculos de RV. Ele fornece efeito olfativo atraves de
+sete fragrancias diversas e e equipado com um sistema de
+ionizacao ultrassonico para criar neblina de agua e efeitos
+de frio e calor direcionados para a cabeca do usuario. Ranasinghe et al. [6] apresentam um ambiente que integra um
+sistema de RV vestivel composto de dispositivos olfativos
+e hapticos (termicos e de vento) a um oculos de RV para
+estimular outros sentidos, alem da visao e da audicao.
+
+
+**CONCLUSAO**
+
+Este artigo apresentou um retrato atual das soluçoes para
+geraçao de efeitos em ambientes multissensoriais. Por li-
+darem exclusivamente com fenomenos fisicos (forças e im-
+pulsos eletricos na pele), dispositivos para efeitos tateis se
+sobressaem com um bom numero de soluçoes comerciais
+ja disponiveis. Lidando com fenomenos mais complexos, os
+dispositivos olfativos sao menos usuais, todavia ja existem
+soluçoes comerciais e prototipos academicos disponiveis. De-
+vido a complexidade inerente do processo de percepçao do
+gosto, que envolve tanto aspectos relativos aos alimentos (du-
+reza, viscosidade, mastigabilidade, geometria, temperatura,
+etc.), quanto socio-culturais (veganismo, vegetarianismo, uso
+de especiarias, etc.) os dispositivos gustativos ainda nao são
+uma realidade.
+
+Solucionado a geraçao de efeitos, outro pro-
+blema evidente e como integrar as soluçoes individuais de
+cada dispositivo para se criar um ambiente multissensorial.
+Neste sentido, Saleme et al. propõem um framework a fim
+de endereçar o problema da heterogeneidade dos dispositivos
+e Saleme et al. disponibilizam um tutorial para guiar o
+desenvolvimento de seu proprio ambiente multissensorial.
+Alem disso, a concepçao e coordenaçao dos efeitos nestes
+ambientes e a avaliaçao da efetividade destes efeitos na co-
+municaçao sao alguns dos desafios a serem vencidos nestes
+novos ambientes de interaçao humano-computador.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o campo dos dispositivos multissensoriais para interaçoes humano-computador esta em constante evoluçao. Os dispositivos tateis ja apresentam um bom nivel de desenvolvimento, enquanto os olfativos e gustativos ainda enfrentam desafios. A integraçao dessas tecnologias em um ambiente multissensorial coeso e a avaliaçao de seu impacto na comunicaçao sao areas promissoras para pesquisas futuras.

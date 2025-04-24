@@ -1,0 +1,128 @@
+**RESUMO**
+
+Nas ultimas decadas a sociedade brasileira tem enfrentado
+um grande desafio, que e a interaçao em ambientes
+pensados e planejados para crianças neurotipicas,
+principalmente, o Transtorno do Espectro Autista (TEA)
+. Sabendo que o uso da conhecida metodologia
+TEACCH (Treatment and Education of Autistic and
+Communication Handicapped Children)  vem se
+mostrando eficaz para tranquilizar e orientar crianças com o
+TEA, foi implementada uma aplicaçao movel denominada
+VINI para automatizar o processo de criaçao de atividades
+segundo essa metodologia. Sendo assim, foram aplicados
+metodos e tecnicas para design e avaliaçao da interaçao de
+crianças com esse aplicativo. Ao longo do processo
+avaliativo , ao analisar a experiencia de uso do VINI,
+foram percebidas necessidades de se utilizar metodos que se
+adaptassem aos novos contextos e perfis desses usuarios,
+pois ainda que sejam crianças com autismo em fase escolar,
+suas necessidades especificas sobressaem qualquer perfil
+diagnostico. Dessa forma, foi realizada uma releitura dos
+processos de design e avaliaçao sob o olhar do Processo de
+Design Inclusivo (PDI)  visando identificar falhas no
+processo quanto a possiveis individualizaçoes de contexto
+desde as primeiras fases do design.
+
+**DEFINICAO DO TRABALHO**
+
+O PDI e utilizado neste projeto no desenvolvimento de uma
+aplicaçao denominada VINI, o qual foi projetado seguindo
+os preceitos da metodologia multidisciplinar de
+alfabetizaçao TEACCH, que tem apresentado resultados
+bastante animadores, favorecendo uma compreensao de
+mundo a crianças com TEA .
+
+Durante o processo de avaliaçao da ferramenta , a
+usabilidade apontou falhas no uso que poderiam ser
+evitadas se fossem consideradas as habilidades especificas
+de crianças com autismo. Com isso, surgiu a necessidade de
+reavaliar todo o processo de design e avaliaçao do VINI
+utilizando um olhar de design diferenciado do PDI .
+
+As etapas do PDI foram observadas e simuladas nessa
+releitura e pressupostos levantados para reduzir os erros de
+design no sentido de reprojetar o app de forma que seja
+possivel adapta-lo, desde as primeiras fases do design, as
+necessidades ou habilidades individuais de cada criança e
+professor.
+
+**PROCESSO DE REENGENHARIA**
+
+O aplicativo VINI se apoia na utilizaçao de tecnicas de
+aprendizagem sem valorizaçao do erro, que auxilia a
+criança a perceber o que e possivel ou nao dentro de suas
+açoes no ato de execuçao da atividade.
+
+Sendo assim, nessa mesma perspectiva o app apresenta
+outra caracteristica importante, todos os campos estao
+configurados de forma que acionem dicas de acordo com o
+numero de erros que a criança comete ao realizar uma
+atividade. Alem das dicas, o jogo tambem possui diversos
+objetos e palavras, apresentando tutoriais por todos os
+niveis.
+
+O processo de reconstruçao do design do VINI foi baseado,
+principalmente, no feedback de todos os envolvidos no
+processo de design, pais, crianças com TEA e profissionais.
+Esse feedback foi em forma de questionarios respondidos
+pelos pais, seguindo recomendaçoes de  e do processo de
+design inclusivo , o que gerou uma releitura do
+processo de design para novos artefatos.
+
+A Figura 1 mostra uma das modificacoes desenvolvidas,
+seguindo o feedback dos pais e profissionais que e a
+variabilidade da forma e tamanho dos objetos (uma
+modificacao por vez).
+
+Quanto a releitura seguindo o processo de design inclusivo, foi
+identificada a necessidade de testar pressupostos da
+psicopedagogia que as crianças estavam sendo expostas ja nos
+primeiros prototipos elaborados com a equipe multidisciplinar
+para que fossem inseridos os elementos adaptativos
+gradativamente e ao mesmo tempo capturassem uma maior
+quantidade de perfis cognitivos. Aplicado ao design do VINI, o
+PDI auxilia a evitar falhas de inadequabilidade e ajuste fino no
+app que so foram identificados na fase de avaliaçao, atraves
+dos questionarios respondidos pelos pais e profissionais e
+exploraçao livre pelas crianças com TEA.
+
+Ainda que essa releitura tenha sido realizada sobre o VINI,
+outros artefatos computacionais pensados e projetados para
+crianças com autismo e outras deficiencias intelectuais podem
+se beneficiar. Ainda ha a possibilidade de ampliar o escopo de
+apps assistivos introduzindo os pressupostos de design e
+usabilidade universais, o que ja esta sendo realizado no
+contexto desse app, aplicado a outros artefatos assistivos.
+
+**CONSIDERACOES FINAIS**
+
+O desenvolvimento do VINI, seguindo os preceitos do
+processo de design inclusivo, fortalece uma linha de açao
+dentro de acessibilidade e IHC, em relaçao a como atender
+melhor os propositos terapeuticos e/ou pedagogicos essa
+necessidade de se projetar com e para crianças e
+adolescentes com deficiencia intelectual. Profissionais que
+projetam atividades diariamente para essas crianças e
+adolescentes assim como os familiares possuem uma
+demanda forte por artefatos computacionais que reforcem
+as terapias e conteudo escolar.
+
+Dessa forma, esses artefatos podem ser uteis tambem para
+auxiliar na inclusao de crianças e adolescentes com TEA no
+ensino regular, sendo pensados ja de inicio como um PDI,
+utilizando design e usabilidade universais para que todos de
+uma mesma turma utilizem.
+
+Outra consequencia e o desenvolvimento de tecnologias
+adaptaveis, ou seja, tecnologias que os usuarios possam
+modificar para atender as necessidades de cada individuo
+ou mesmo de um grupo de individuos . Assim, ao
+possibilitar que uma tecnologia possibilite ao profissional,
+que crie atividades personalizadas para todos os seus
+pacientes ou alunos isso contribuira para a inclusao dessas
+pessoas .
+
+**CONSIDERACOES FINAIS**
+
+O projeto VINI e um exemplo promissor de como o design inclusivo pode ser aplicado no desenvolvimento de tecnologias assistivas para crianças com Transtorno do Espectro Autista (TEA). Ao considerar as necessidades individuais dos usuarios desde as primeiras fases do design, e possivel criar aplicativos mais eficazes, adaptaveis e personalizados, que promovam a aprendizagem, o desenvolvimento e a inclusao social dessas crianças.

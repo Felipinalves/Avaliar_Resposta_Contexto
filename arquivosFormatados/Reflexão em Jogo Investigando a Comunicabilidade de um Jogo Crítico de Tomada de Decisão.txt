@@ -1,0 +1,157 @@
+**RESUMO**
+
+Este trabalho apresenta a analise da comunicabilidade de um
+jogo critico de tomada de decisao, fundamentado na Teoria da
+Autodeterminaçao (TDA), visando gerar reflexao sobre as
+consequencias do uso de padroes de design em jogos di-
+gitais. Atraves do Metodo de Avaliaçao de Comunicabilidade (MAC), o estudo
+identificou rupturas de comunicabilidade a partir da perspectiva do receptor
+da mensagem. Os resultados revelaram problemas que impactaram o potencial
+critico do jogo, sinalizando aspectos para melhorar o seu impacto reflexivo.
+
+**INTRODUCAO**
+
+Jogos criticos tem sido amplamente utilizados no campo educacional e no mercado de
+trabalho, aproveitando de sua jogabilidade e mecanicas para comunicar uma perspectiva
+critica atraves do ato de jogar . Este trabalho analisa a comunicabilidade do
+jogo "O Bom Desenvolvedor", um jogo critico mobile de tomada de decisao, baseado na
+Teoria da Autodeterminaçao (TDA) , com o proposito de instigar
+a reflexao sobre as consequencias do uso de Deceptive Patterns no desenvolvimento de
+jogos digitais.
+
+O estudo utiliza o Metodo de Avaliaçao de Comunicabilidade (MAC)
+, fundamentado na Engenharia Semiotica, para avaliar a capacidade
+do jogo de gerar a reflexao pretendida neste caso, sobre as consequencias que o uso de
+padroes enganosos ou manipuladores pode trazer a longo prazo para jogadores. Embora
+os usos tradicionais do MAC sejam focados em avaliar a clareza da comunicaçao da inter-
+face, este estudo identifica seu potencial para avaliar a capacidade do jogo de promover a
+reflexao critica sobre o tema abordado, buscando compreender se o jogo de fato despertou
+a reflexao pretendida, por meio das interaçoes planejadas.
+
+Os resultados identificaram rupturas de comunicaçao na interface do jogo e su-
+gestoes de melhorias, visando garantir que a interface comunique de forma clara e imediata a mensagem pretendida, de modo a expandir o potencial crıtico do jogo em gerar
+reflexoes mais especıficas sore o tema pretendido.
+
+**JOGO CRITICO O BOM DESENVOLVEDOR**
+
+"O Bom Desenvolvedor"e um jogo critico de simulaçao que coloca o jogador no con-
+trole de um desenvolvedor de jogos, permitindo que este tome decisoes que moldam o
+destino do personagem, o sucesso do jogo e a vida dos jogadores. Desenvolvido pelos
+autores deste artigo, o jogo explora o potencial reflexivo da Teoria da Autodeterminaçao
+(TDA) para estimular a reflexao critica sobre o uso de Deceptive Patterns em jogos di-
+gitais. Atraves de decisoes desafiadoras, o jogo funciona como um alerta, revelando as
+consequencias negativas que esses padroes podem ter no bem-estar e na experiencia dos
+jogadores. O objetivo e empoderar os jogadores a reconhecerem praticas manipulado-
+ras, destacando a importancia da satisfaçao das necessidades psicologicas basicas para o
+bem-estar, a motivaçao e o crescimento pessoal.
+
+"O Bom Desenvolvedor"(Figura 1) apresenta seis desafios, cada um focado em
+necessidades cruciais da industria de jogos, como reengajar usuarios, aumentar a rentabi-
+lidade e sustentar o engajamento. Em cada desafio, o jogador enfrenta dilemas de design,
+tendo que escolher, dentre um conjunto de potenciais soluçoes, aquela que melhor atende
+a situaçao, considerando os impactos e consequencias de cada opçao.
+
+Nas fases de decisao, o jogador se depara com diferentes padroes de design, tanto
+positivos quanto negativos, incluindo os Deceptive ou Dark Patterns padroes utilizados
+intencionalmente por desenvolvedores para priorizar os interesses das empresas em de-
+trimento dos usuarios . Implementar esses padroes enganosos pode
+gerar jogos altamente engajadores, mas tambem experiencias negativas para os jogadores
+, especialmente comprometendo seu bem-estar a longo prazo.
+
+**AVALIACAO DE COMUNICABILIDADE DO JOGO CRITICO**
+
+Para identificar os problemas de comunicabilidade do jogo "O Bom Desenvolvedor", fo-
+ram realizados testes com cinco estudantes de graduaçao do genero feminino, da area
+de tecnologia, com idades entre 18 a 24 anos. As participantes, acostumadas a jogos de
+aventura em primeira pessoa, sobrevivencia e MOBA em dispositivos moveis ou compu-
+tadores, ja tinham conhecimento sobre a TDA, mas nao tinham familiaridade com jogos
+criticos.
+
+Os testes foram realizados remotamente, com gravaçoes de voz e interaçao com o
+jogo emulado no Android Studio e compartilhado via AnyDesk. As participantes foram
+conduzidas por um avaliador e dois assistentes que realizaram anotaçoes. Inicialmente,
+os objetivos da pesquisa foram apresentados, e o Termo de Consentimento foi explicado
+e assinado. O teste foi composto por um questionario de perfil, uma sessao de jogo e uma
+entrevista pos-teste.
+
+A sessao de jogo consistiu em jogar uma partida completa, passando pelos seis
+desafios. Durante a sessao, as observaçoes e interaçoes das participantes foram registradas
+para analise posterior de comunicabilidade com o MAC. O MAC, neste contexto, foi
+utilizado nao apenas para identificar problemas de comunicaçao na interface, mas tambem
+para analisar a capacidade do jogo de promover a reflexao critica sobre o tema abordado.
+A analise das etiquetas de ruptura de comunicaçao e a construçao do perfil semiotico
+foram ferramentas essenciais nesse processo.
+
+Na entrevista pos-teste, foram abordados aspectos da interaçao para complementar
+os resultados obtidos da interpretaçao das etiquetas e consolidar a avaliaçao de comunica-
+bilidade na perspectiva do receptor da mensagem. A analise dos videos, juntamente com
+as anotaçoes e entrevistas, foi essencial para avaliar o que nao foi bem interpretado pelos
+usuarios, levando em consideraçao os signos metalinguisticos, estaticos e dinamicos. A
+consolidaçao da avaliaçao permitiu identificar pontos que podem ser ajustados e melho-
+rados para facilitar a compreensao e o processo de interpretaçao do jogador em relaçao a
+mensagem transmitida.
+
+**COMUNICACAO EM JOGO DESAFIOS E OPORTUNIDADES IDENTIFICADOS**
+
+Com os videos de interaçao com o jogo, foram identificadas 12 ocorrencias de etiquetas de
+rupturas de comunicabilidade. A Figura 2 detalha a frequencia de cada tipo de expressao
+observada. Importante destacar que nao foram encontradas falhas que interrompessem
+completamente ou parcialmente a interaçao, indicando que as rupturas identificadas nao
+impediram a continuidade do jogo, sendo elas consideradas como falhas temporarias.
+
+A ocorrencia das etiquetas se concentraram principalmente na Tela (A) (Figura
+1), em que 100% das jogadoras tiveram dificuldade em compreender o contexto e o ob-
+jetivo do jogo. Mesmo com os signos metalinguisticos apresentados no inicio da partida
+e os signos estaticos da Tela (A), as jogadoras nao conseguiram entender claramente o
+que deveriam fazer. Esse problema gerou expressoes de confusao, sendo principalmente:
+"Cade?" (5) e "E agora?" (4). Um exemplo e o comentario de uma participante durante
+a jogatina: "[P03] E, Acho que eu me perdi" . Na entrevista pos-teste, as participantes
+relataram dificuldades semelhantes. Uma participante mencionou: "[P02] eu fiquei cli-
+cando no quarto e em varias coisas no começo, eu nao sabia exatamente o que que era."
+Outra participante comentou: "[P04] eu tava tentando encontrar onde e que começava".
+
+Esses problemas indicam que a apresentaçao inicial do jogo nao foi suficiente-
+mente clara, levando a uma compreensao tardia das mecanicas e objetivos. Alguns rela-
+tos ilustram essa dificuldade: "[P05] a primeira vez beleza, nao sabia que tinha uma
+resposta boa. Ai depois eu comecei a suspeitar, tipo, acho que eu to clicando, tipo esco-
+lhendo essas escolhas malvadas" e "[P01] foi durante o meio do jogo que eu pensei:
+Sera que eu tenho que clicar nas outras pra ver a descriçao delas".
+
+A partir dos resultados do MAC, foi gerado o seguinte perfil semiotico: "Acre-
+dito que o voce seja uma pessoa que possui experiencia em jogar ou desenvolver jogos
+digitais e que se interessa em design e desenvolvimento de jogos. Voce pode encontrar
+dificuldades iniciais para avançar nos desafios e compreender os objetivos do jogo. Em
+alguns momentos, nao entendera completamente como suas escolhas afetam os indica-
+dores de autonomia, competencia, relacionamento e engajamento dos usuarios, e como
+esses indicadores impactam o bem-estar dos usuarios do jogo que voce esta desenvol-
+vendo. Entretanto, com o tempo, ao avançar nos desafios e por meio dos feedbacks
+apresentados, acredito que voce sera capaz de compreender a importancia de praticas de
+design etico e tomar decisoes que promovam o bem-estar e a satisfaçao dos jogadores."
+Esse perfil semiotico evidencia que a reflexao critica idealizada pelo designer quanto as
+consequencias do uso de padroes enganosos poderia ser mais eficiente se o jogador, re-
+ceptor da mensagem, pudesse compreender o papel do seu personagem e o impacto de
+suas decisoes desde o inicio.
+
+As falhas de comunicaçao identificadas, embora nao tenham impedido a pro-
+gressao do jogo, evidenciam a necessidade de aprimorar a clareza da experiencia inicial
+do jogador . Alem de ajustes na interface, especialmente no feedback, o MAC reve-
+lou a necessidade de comunicar mais claramente o papel do jogador e o impacto de suas
+decisoes, as quais sao centrais para o desfecho do jogo e as reflexoes pretendidas. Em
+jogos criticos, ao contrario de jogos puramente de entretenimento em que muitas vezes
+os jogadores costumam "pular"os dialogos o jogador precisa entender o proposito e a
+relevancia das açoes desde o inicio para se engajar na reflexao proposta.
+
+**CONCLUSAO**
+
+Os resultados da aplicaçao do MAC demonstraram que problemas de comunicabilidade
+podem afetar significativamente a forma como os jogadores compreendem os objetivos
+do jogo impactando na eficacia da reflexao pretendida. Com os achados foram destacadas
+areas de melhoria que podem potencializar o impacto critico e reflexivo do jogo. Os re-
+sultados do estudo oferecem direcionamentos do impacto da comunicabilidade no desen-
+volvimentos de jogos reflexivos, mas tambem contribuem para o avanço da compreensao
+sobre a importancia dos aspectos comunicacionais no design para promover reflexao e
+engajamento em contextos digitais.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, a analise da comunicabilidade do jogo critico "O Bom Desenvolvedor" revelou importantes insights sobre como os jogadores compreendem e interagem com a mensagem pretendida. Os resultados demonstram que a clareza na apresentaçao inicial do jogo e a forma como os jogadores percebem o impacto de suas decisoes sao cruciais para promover a reflexao critica sobre o uso de padroes enganosos em jogos digitais. Ao aprimorar a comunicabilidade do jogo, e possivel aumentar o engajamento dos jogadores e fortalecer sua capacidade de tomar decisoes informadas e responsaveis.

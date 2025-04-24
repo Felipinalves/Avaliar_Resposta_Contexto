@@ -1,0 +1,253 @@
+**RESUMO**
+
+Atualmente encontra-se na literatura pesquisas relevantes sobre
+Design Participativo (DP). Contudo, poucos demonstram
+iniciativas envolvendo crianças na tenra idade como parte do
+processo de Design de Interaçao (DI) para desenvolvimento de
+software. Isso torna-se mais dificil quando sao crianças com
+transtornos de neurodesenvolvimento, como autistas, que por nao
+terem habilidades linguisticas suficientes nao participam da fase
+de coleta de dados nem de interaçoes posteriores para validaçao
+de prototipos. Assim, essas crianças ficam impossibilitadas de
+expressar suas preferencias de design no desenvolvimento de
+aplicaçoes criadas exclusivamente para esse mesmo publico.
+Consequentemente, a maioria das aplicaçoes tornam-se de
+propositos gerais e inapropriadas para crianças neurotipicas.
+Atraves do DP e possivel minimizar esses problemas utilizando
+tecnicas para melhorar a compreensao linguistica dessas crianças
+e propor abordagens para desenvolver novas aplicaçoes com
+qualidade e projetadas para suprir suas necessidades. Portanto,
+este trabalho objetiva desenvolver um modelo de interaçao
+especifico para auxilio no DI, atraves de aplicaçoes ludicas
+seguindo os preceitos de DP idealizada para maximizar as
+possibilidades de comunicaçao, inicialmente com crianças
+autistas, ao expressarem, atraves do contexto de design, suas
+representaçoes de preferencias.
+
+**INTRODUCAO**
+
+O processo de DP e um dos principais metodos para entender as
+prioridades de um determinado publico e tem realizado
+importantes contribuiçoes criando soluçoes de alta qualidade e
+formas alternativas de colocar o principal interessado, o usuario
+final, dentro do Processo de Design (PD) e desenvolvimento de
+softwares . Dessa forma, existem na literatura trabalhos que
+demonstram pesquisas relevantes sobre o processo de DP, mas,
+poucos demonstram interesse em envolver crianças como parte do
+PD . O problema torna-se ainda mais dificil quando se trata de
+crianças na tenra idade com problemas de neurodesenvolvimento,
+como e o caso de crianças autistas, que nao possuem condiçoes
+psicologicas para responderem os questionamentos na fase de
+coleta de dados por nao terem capacidade cognitiva e habilidades
+linguisticas suficientes .
+
+Dessa forma, essas crianças ficam impossibilitadas de expressar
+suas preferencias de design nas aplicaçoes para o
+desenvolvimento de ferramentas computacionais criadas
+exclusivamente para pessoas com caracteristicas de interaçao
+semelhante. E com isso, a maioria das aplicaçoes se tornam de
+propositos gerais e inapropriadas para crianças com disturbios
+cognitivos, pois nao se podem obter informaçoes sobre suas
+predileçoes de atividades, sons, cores, formas e design adequado
+para introduzir nos aplicativos . Assim, apesar das
+dificuldades de incluir crianças no PD algumas pesquisas reforçam
+a necessidade do DP para compreender e analisar os dados obtidos
+da analise de requisitos, principalmente envolvendo crianças com
+problemas de neurodesenvolvimento na infancia .
+
+Por meio do processo de DP e possivel minimizar esses problemas
+utilizando tecnicas para melhorar a compreensao linguistica de
+um determinado grupo de usuarios (crianças com autismo no
+caso) e propor abordagens para o desenvolvimento de novas
+aplicaçoes com qualidade e bem projetadas para suprir as suas
+necessidades, auxiliando e promovendo sua independencia,
+aprendizado e qualidade de vida.
+
+Portanto, esta pesquisa objetiva o desenvolvimento de uma
+abordagem atraves de aplicaçoes ludicas seguindo os preceitos de
+DP adaptada e contextualizada para maximizar as possibilidades
+de comunicaçao, inicialmente de crianças autistas, ao
+expressarem, atraves do contexto de design, suas representaçoes
+de preferencias. Pretende-se com os resultados contribuir com os
+designers para adaptar novas formas de introduzir esses usuarios
+no processo de desenvolvimento de software e assim, identificar
+suas necessidades, habilidades, e consequentemente projetar e
+adaptar novas ferramentas computacionais a esse publico.
+
+**FUNDAMENTACAO TEORICA**
+
+Nesta seçao demonstramos os principais conceitos relacionados
+aos objetivos desta pesquisa, catalogados atraves de uma revisao
+sistematica da literatura, consistindo em uma visao geral sobre
+DP, DA e design para crianças autistas.
+
+**PROCESSO DE DESIGN PARTICIPATIVO**
+
+Colocar o usuario dentro do processo de DP e importante para
+entender as suas reais necessidades, principalmente se tratando de
+crianças com disturbios cognitivos, coletando preferencias de
+design e adaptando os modelos por meio dos preceitos de DI .
+Os modelos de DP mostram o desenvolvimento de atividades
+participativas combinando, misturando, reinterpretando e
+adaptando tecnicas e ferramentas de um conjunto de metodos com
+base nas caracteristicas de um determinado grupo de usuario .
+Sendo assim, algumas pesquisas buscam auxiliar crianças com
+deficiencia descrevendo estruturas, como o IDEA, que explora
+parcerias de design inclusivas onde crianças australianas surdas
+ou com deficiencia auditiva sao facilitadas por outros individuos
+em processos de design .
+
+Utilizando abordagens para avaliaçao participativa com crianças
+autistas e possivel incluir esses usuarios em fases de avaliaçao
+dedicadas atraves da co-definiçao de metas e metodos, processos,
+conjuntos de coleta de dados e a co-interpretaçao dos resultados
+. Neste, foi desenvolvido uma abordagem denominada PEACE
+(Avaliaçao Participativa com Crianças Autistas) e os resultados
+apresentados sao promissores. Da mesma forma, algumas
+pesquisas propoem envolver crianças autistas para registrar e
+expressar seus proprios interesses dentro de seus contextos de
+apoio - o lar e a sala de aula, objetivando criar representaçoes com
+lugares em que as crianças convivem diariamente .
+
+Estas pesquisas estao alinhadas aos conceitos propostos neste
+trabalho, na qual, insere o usuario final dentro do processo de
+design, compreendendo suas habilidades e suas necessidades,
+analisando e interpretando suas caracteristicas de preferencias.
+
+**MODELOS DE DESIGN ADAPTAVEL**
+
+Apesar da importancia e da necessidade de desenvolver softwares
+adaptaveis poucos projetos apresentam soluçoes para crianças
+neurotipicas. No entanto, os trabalhos coletados irao dar suporte
+substancial a esse projeto de pesquisa pela qualidade e por
+apresentarem metodos viaveis aos objetivos aqui propostos.
+
+Portanto, e importancia entender as necessidades de individuos
+com TEA para permitir o design de interfaces adaptaveis
+abordando multiplas fontes de heterogeneidade, como habilidades
+pessoais, ambientes de trabalho e contexto de uso, dada sua
+interaçao com as tecnologias . Uma das principais fontes
+atualmente e a web, onde a maioria das crianças tem facilidade de
+acesso por meio de dispositivos moveis. Assim, surge a
+necessidade de trabalhar com modelos de design adaptaveis para
+web, permitindo se adequar as suas necessidades especificas .
+Nessa mesma perspectiva foi desenvolvida uma estrutura baseada
+na compilaçao de padroes de acessibilidade web, tecnologias web
+semanticas. Dessa forma, utilizando padroes de recomendaçoes de
+design para autistas foi possivel adaptar ao contexto de cada
+usuario adequando o sistema as necessidades individuais.
+
+Assim sendo, plataformas adaptativas, como o SPRING: (Smart
+Platform for Research, Intervention and Neurodevelopmental
+Growth), buscam se adequar nao somente as caracteristicas de
+crianças autistas, mas tambem, ao contexto de diferentes tipos de
+crianças com neurodesenvolvimento .
+
+Relatos de experiencias combinando mais de uma abordagem
+mostram que e possivel tornar os artefatos inteligentes o
+suficiente para adaptar nao somente seus elementos de interface,
+como tambem a maneira como eles interagem com crianças
+neurotipicas. Este metodo foi chamado de Principios de Design
+para Interaçao Humano-Computador (IHC): Research Through
+Design (RtD), Participatory Design (PD) e Human Centred Design (HCD).
+
+Algumas abordagens, buscam, atraves de metodos mais simples,
+por meio de representaçoes do dia a dia (e.g. atraves de fotos de
+objetos e locais conhecidos pelo usuario) projetar aplicativos
+flexiveis e adaptaveis, orientadas para o usuario e que possam
+ajudar grupos diversificados a estruturar açoes do cotidiano .
+
+**DESIGN PARA CRIANÇAS COM AUTISMO**
+
+Propostas de design inclusivo, voltados ao publico autista,
+principalmente crianças, tem sido proposto levando em conta,
+principalmente, suas necessidades. Dessa forma, esta pesquisa
+buscou trabalhos para reconhecer, tambem, suas habilidades com
+o proposito de melhorar o processo de comunicaçao desse publico.
+Assim, alguns trabalhos tratam de aspectos sobre preferencias de
+crianças autistas, nesse caso sobre os sons, buscando entender a
+atençao e as emoçoes das mesmas ao ouvir sons diferentes. Os
+resultados podem ser um entendimento de quais sao os sons
+adequadas que podem informar o desenho de aplicaçoes de saude
+generalizadas para essa populaçao .
+
+Para examinar o nivel de deficiencia de crianças autistas
+percebendo emoçoes atraves de expressoes faciais e movimentos
+corporais foi apresentado um estudo atraves de um jogo baseado
+em IoT para ajudar os individuos do NT a "ler” as emoçoes das
+crianças com TEA . Da mesma forma, foi proposto um robo
+integrado para auxiliar na sessao de terapia para aumentar a
+capacidade de coletar dados relevantes, como atençao, afeto,
+direçao do olhar e gestos, alem das medidas convencionais .
+Modelos ergonomicos e inclusivos tambem foram propostos para
+a criaçao de um ambiente grafico para uma aplicaçao educacional
+interativa de crianças com TEA, a fim de ajudar a identifica-las na
+expressao facial e no sentimento que as envolve .
+
+Por sua vez, identificando aspectos sobre preferencias de crianças
+autistas em relaçao aos componentes de interface foi desenvolvido
+um repositorio colaborativo para armazenar recomendaçoes de
+design de interfaces especificas para crianças autistas
+disponibilizando essa base de dados a desenvolvedores e
+profissionais da saude .
+
+Algumas ferramentas tecnologicas, como os ambientes virtuais,
+tambem podem auxiliar na inclusao de autistas fazendo
+representaçao do mundo real, fornecendo as crianças de Alto
+Funcionamento, seus professores e cuidadores, uma ferramenta de
+comunicaçao que os oriente no ensino e na imersao de seus filhos,
+ajudando-os a se tornarem autossuficientes em rotinas
+automatizadas . Devido a isso, utilizando modelos fisicos,
+lugares reais, e possivel auxiliar na compreensao e incorporaçao
+das regras sociais de interaçao com pares por crianças autistas .
+
+Visando maximizar as possibilidades de comunicacao foi desenvolvido um menu organizacional automatico (AOM) para ajudar criancas autistas a melhorar sua capacidade de se expressar e facilitar a solicitacao de ajuda. Seguindo nesta mesma ideia, utilizando metodos de realidade aumentada foi idealizado uma Prancha de Comunicacao Alternativa e Aumentativa apresentando vantagens em relacao a algumas pranchas existentes podendo facilitar a comunicacao e a interacao nao so de autistas, mas tambem de outras criancas com limitacoes na comunicacao. Metodos para auxiliar no desenvolvimento da linguagem tambem se mostra uma tecnica promissora, uma vez que podem estimular as habilidades de construcao narrativas. Assim, foi proposto o LIA, uma aplicacao voltada para o publico autista. Os testes de validacao com o LIA revelaram que se trata de uma aplicacao simples e favoravel ao aprimoramento da comunicacao de autistas.
+
+Metodologia da Pesquisa
+Com o objetivo de alcancar os resultados esperados o processo metodologico sera composto por cinco etapas definidas na Figura 1. Vale ressaltar que o esquema metodologico idealizado faz parte da avaliacao e ainda nao foram totalmente definidos.
+
+Revisao Sistematica da Literatura
+A primeira fase do projeto de pesquisa, uma revisao sistematica da literatura, ja concluida, foi necessario para realizar uma analise das publicacoes cientificas encontradas atualmente na literatura, objetivando a participacao dos usuarios dentro do processo de desenvolvimento de software para a caracterizacao de um modelo de design de interacao acessivel, visando adaptabilidade individualizada nos artefatos computacionais.
+
+Elaboracao da Proposta Tecnologica (Prototipos)
+Atraves dos resultados da primeira fase, foi idealizado um modelo inicial da proposta tecnologica (prototipo) no qual foi desenvolvido um aplicativo mobile para que fosse possivel realizar os primeiros testes e assim, definir os metodos apropriados para utilizar na avaliacao com os usuarios finais. Essa fase, ja concluida, e importante pois estabelece uma direcao a ser seguida na proxima etapa da pesquisa (fase 3).
+
+Estudo Diagnostico nas Entidades Parceiras e Testes Funcionais da Aplicacao
+O estudo diagnostico, fase em andamento, esta sendo realizado em parcerias com tres entidades que trabalham com criancas autistas, criancas com sindrome de down, entre outros. As entidades estao localizadas na cidade de Manaus no estado do Amazonas e sao: Instituto SEMEAR, APAE (Associacao de Pais e Amigos dos Excepcionais), e a Escola Municipal Ana Mota Braga. Dessa forma, ja foram realizadas duas visitas para aplicacao de questionarios e entrevistas aos diretores das entidades, aos profissionais que trabalham diretamente com as criancas e aos cuidadores (pais ou responsaveis das criancas). Apesar das dificuldades, devido a falta de disponibilidade dos profissionais e cuidadores para que sejam realizadas as entrevistas, ja foram aplicados um numero adequado de questionarios para realizar os primeiros testes com o prototipo. Ainda nesta fase, sera realizado os primeiros testes funcionais da aplicacao com criancas autistas.
+
+Avaliacao e Validacao da Proposta com as Partes Interessadas
+Os resultados alcancados com as tres primeiras fases do projeto servirao de base para modelar a proposta tecnologica e apresentar o produto final, baseado principalmente nos modelos catalogados atraves da revisao sistematica e do estudo diagnostico nas entidades parceiras. Ainda que nao esteja definido, se o produto final sera uma aplicacao mobile ou um metodo que sera utilizado atraves de uma ferramenta tecnologica, essa fase ainda sera executada, essa etapa sera importante para definir: i) os instrumentos de avaliacao a serem usados de acordo com os metodos encontrados na literatura e ii) elaboracao de um conjunto de caracteristicas peculiares sobre preferencias de criancas autistas no uso de ferramentas computacionais. Portanto, nesta fase, sera realizada a validacao da proposta de projeto junto as entidades e os usuarios finais. Uma vez que seja aceita a proposta, a pesquisa passa para a sua fase final. Se nao for aceita, a proposta volta novamente pela fase de elaboracao e modelagem do projeto ate que possa ser validada.
+
+Estudo de Impacto da Pesquisa e Analise dos Resultados
+A ultima fase do projeto de trabalho consiste na avaliacao do impacto da implantacao da proposta junto as entidades e dos usuarios finais (criancas autistas). Esta fase e necessaria para constatar se os objetivos e as contribuicoes, inicialmente propostas, foram alcancadas. Vale ressaltar, que dependendo do tipo de proposta a ser realizada, o estudo podera ser aplicado de formas diferentes, ainda a ser definido.
+
+Resultados Parciais
+Os primeiros resultados correspondem a Revisao Sistematica da Literatura, na qual foram consultadas seis bases de dados (IEEE Xplorer, ACM Digital Library, Science Direct, Google Academico, Scopus e Anais do SBIE), utilizando a string em portugues (processo de design inclusivo OR design inclusivo AND design acessivel OR design universal OR design para todos AND processo de design adaptavel OR design adaptativo AND autismo OR autista OR transtorno do espectro do autismo OR transtorno do espectro autista), e em ingles (inclusive design process OR inclusive design AND accessible design OR universal design OR design for all AND adaptive design process OR adaptive design AND autism OR autistic OR autism spectrum disorder OR autistic spectrum disorder). No total, foram retornados 3.402 trabalhos, e ao final das etapas de selecao 46 trabalhos no total foram aceitos.
+
+**CONSIDERAÇOES FINAIS**
+
+Por meio desta pesquisa espera-se contribuir, principalmente, com
+o publico alvo, inicialmente crianças autistas, pois abrem novas
+possibilidades de desenvolvimento de artefatos computacionais
+que irao auxilia-las em atividades da qual dependem diretamente
+de outras pessoas para realizarem e agora podem tornar-se mais
+independente.
+
+Da mesma forma, os resultados possibilitarao aos projetistas de
+design repensarem as formas de integrarem esses tipos de
+usuarios nos projetos de desenvolvimento de softwares,
+colocando-os dentro do processo e, assim, ajudando a criar
+soluçoes tecnologicas para eles proprios. A pesquisa tambem
+contribui para auxiliar na implementaçao de aplicaçoes mais
+autonomas e inteligentes, podendo se adaptar as habilidades ou
+necessidades de cada usuario independentemente, seja ele qual
+caracteristica possuir ou ate mesmo um grupo de usuarios.
+
+Portanto, o projeto de trabalho aqui apresentado fortalece as açoes
+de acessibilidade dentro do processo de design participativo,
+abrindo novas possibilidades de realizar pesquisas dentro do
+campo de IHC (Interface Humano Computador).
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, esta pesquisa busca desenvolver um modelo de interaçao adaptavel para design participativo com crianças com deficiencia intelectual, visando atender as necessidades especificas desse publico e promover sua inclusao no processo de desenvolvimento de softwares. Atualmente, esta pesquisa e de grande valia para este publico.

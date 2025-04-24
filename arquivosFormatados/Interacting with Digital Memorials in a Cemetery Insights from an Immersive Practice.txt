@@ -1,0 +1,158 @@
+**INTRODUCAO**
+
+No escopo de pesquisa em interaçao e dados sobre legado
+digital e pos-morte, tem-se percebido uma mudança nos
+padrões de construçao e manutençao de tumulos em
+cemiterios, bem como na sua visitaçao . Alem dos
+visitantes que buscam rememorar ou homenagear parentes,
+amigos e outras pessoas proximas, nota-se nesses espaços a
+visitaçao voltada para fins turisticos. Ha, por exemplo,
+visitantes interessados na arte tumular contida nestes
+espaços; visitantes que buscam sepulturas de pessoas
+famosas, as quais atuam como instrumento de preservaçao
+da memoria cultural particular e coletiva dos individuos de
+um grupo social, entre outros. Em alguns paises, a visitaçao
+aos cemiterios faz parte do roteiro historico  como por
+exemplo no Pere-Lachaise, em Paris/França, e no cemiterio
+da La Recoleta, em Buenos Aires/Argentina, evidenciando
+oportunidades para o uso de tecnologias computacionais
+interativas para apoiar tais atividades.
+
+A mediaçao tecnologica na visita a esses espaços pode
+permitir experiencias ampliadas para alem da interaçao
+imediata com os objetos fisicos. De posse de simples
+dispositivos moveis pode-se permitir, por exemplo, que o
+visitante do cemiterio acesse informaçoes sobre falecidos ou
+obras de arte tumulares disponibilizadas por meio de
+QRCodes (Quick Response Code, e um codigo visual
+bidimensional que pode ser escaneado por dispositivos
+moveis equipados com camera, sendo convertido em texto,
+endereço URI, numero de telefone, localizaçao, etc. Cann
+argumenta que QRcodes "transferem os mortos do cemiterio
+para o reino dos vivos” ao proporcionarem uma ligaçao das
+pessoas vivas com os falecidos, acessivel de qualquer lugar.
+Em geral, os QRCodes em cemiterios dão acesso a
+memoriais digitais nos quais podem ser encontradas
+informaçoes sobre falecidos, podendo haver uma
+interligaçao entre o mundo fisico (localizaçao do tumulo) e
+o virtual. No Brasil, essa e uma iniciativa ainda muito timida,
+porem em outros paises, como no Japao e na China, o uso de
+QRCodes em cemiterios ja e uma realidade mais difundida.
+
+Memoriais digitais na Web permitem prestar homenagens a
+pessoas falecidas, podendo ser considerados um tipo
+especifico de software que pode ser modelado de diferentes
+maneiras  e que tem atraido a atençao de empresas, em
+especial do ramo funerario. Por ser uma categoria
+relativamente nova e diferenciada de software, estudos sobre
+o uso e impacto de memoriais digitais se fazem necessarios.
+
+Assim, questiona-se: a produçao de tais sistemas tem
+atendido as expectativas dos usuarios? Como os projetistas
+da Interaçao Humano-Computador (IHC) percebem tais
+sistemas? Nesse sentido, esta pesquisa analisa as percepçoes
+de projetistas da IHC enquanto usuarios de memoriais
+digitais interligados a tumulos via tecnologia QRCode. Uma
+pratica imersiva no Cemiterio da Consolaçao de Sao Paulo
+foi conduzida para propiciar aos projetistas a experiencia da
+visita aos tumulos ampliada por uso de QRcode para o acesso
+a memoriais das pessoas ali enterradas. O cemiterio tambem
+disponibiliza totens com QRcode para o visitante se guiar nas
+ruas e ir em direçao aos tumulos, onde, alem de obras de arte
+tumular, podem ser encontradas as lapides de personalidades
+brasileiras famosas, como Tarsila do Amaral, Monteiro
+Lobato, Mario de Andrade e a Marquesa de Santos. De forma
+geral, ao chegar a um tumulo e possivel acessar o perfil do
+falecido, via QRcode, no aplicativo chamado “Memoriall”.
+O perfil dispoe de campos para informacoes como biografia,
+arvore genealogica, fotos, mensagens, videos, obituario etc.
+A pratica imersiva ocorreu durante a setima edicao do
+Workshop sobre Aspectos da IHC para a Web Social
+(WAIHCWS) realizado no Simposio Brasileiro sobre
+Fatores Humanos em Sistemas Computacionais (IHC), em
+Sao Paulo. Tal edicao promoveu o debate sobre as
+oportunidades e os desafios que a Web Social traz para a
+comunidade de pesquisa em IHC no contexto do legado
+digital. Entre outras atividades, os organizadores do
+workshop propuseram a realizacao deste estudo exploratorio
+qualitativo, de forma a articular discussoes teoricas e
+atividades praticas relacionadas ao dominio em foco. Assim,
+21 participantes do workshop deslocaram-se juntamente com
+os 4 organizadores da atividade ate o Cemiterio da
+Consolacao, a fim de participar da pratica. Os resultados
+desta pratica foram publicados no artigo [4], sendo
+analisados os dados coletados via questionarios aplicados ao
+final da pratica, com vistas a discutir a problematica definida.
+
+
+**RESULTADOS E CONSIDERAÇOES FINAIS**
+
+A experiencia permitiu a analise das percepçoes de usuarios,
+experientes em design da interaçao, quanto ao uso de
+memoriais digitais interligados a tumulos via tecnologia
+QRCode. Alem de verificar a satisfaçao desses usuarios com
+o sistema e as possiveis melhorias a este, os resultados
+ofereceram contribuiçoes interessantes a area.
+
+Entre os principais resultados, pode-se identificar que, pelo
+fato de as aplicaçoes thanatosensitivity fazerem parte de uma
+area nova e diferente, o levantamento de requisitos centrados
+no usuario e essencial. Praticas imersivas que permitem a
+coleta de requisitos in loco e usando da computaçao ubiqua
+tendem a possibilitar analises mais profundas e enriquecidas
+pelo entendimento cultural situado da pratica. Essas praticas
+podem ser utilizadas em conjunto com tecnicas para
+elicitaçao de requisitos de maneira a obter melhores
+resultados. No experimento citado, foi realizada uma analise
+semiotica das interfaces do Memoriall.
+
+Entre as liçoes aprendidas esta a necessidade de um
+planejamento cuidadoso do estudo como um todo, uma vez
+que uma pratica realizada em ambiente externo pode sofrer
+influencia de muitos fatores e possuir riscos que precisam ser
+antecipados. A realizaçao de teste piloto da estrategia e
+fundamental para identificar e contornar possiveis
+problemas. A metodologia conduzida neste estudo pode ser
+apontada como um possivel caminho.
+
+Um dos problemas evidenciados foi a falta de informaçoes
+nos perfis dos falecidos. A priori, como eles nao sao
+inseridos colaborativamente e dependem da alimentaçao de
+outrem (familia ou empresa que administra o software), e ha
+falta de informaçoes. Outro problema e a arquitetura da
+informaçao, que prejudica a navegabilidade e o acesso as
+informacoes em dispositivos moveis Certamente testes de
+usabilidade eou comunicabilidade ajudariam na melhoria
+dos problemas existentes Tambem a possibilidade de
+integracao destes sistemas com outras ferramentas poderia
+agregar valor aos memoriais
+Embora os resultados dessa pesquisa oferecam insumos aos
+projetistas de aplicacoes para memoriais digitais na
+elicitacao de requisitos ha necessidade de uma reflexao
+sobre o impacto de tais aplicacoes Nesse sentido o estudo
+das percepcoes dos usuarios bem como de suas praticas e
+costumes em espacos cemiteriais permite um melhor
+entendimento desse dominio com vistas a modelagem de
+solucoes centradas nas necessidades dos usuarios
+Para os pesquisadores entusiastas das tecnologias surge na
+automacao de cemiterios um interessante mercado que
+requer atencao Alem dos dados dos falecidos como
+evidenciado pelos usuarios nesta pesquisa as artes tumulares
+podem ser analisadas Com as possibilidades de cremacao
+eou guarda do corpo fisico por tempo limitado em
+determinados cemiterios ha nos memoriais digitais uma
+maneira de imortalizacao desses falecidos
+Como pesquisas futuras decorrentes deste trabalho ha a
+possibilidade da analise de outras fontes de coletas de dados
+como fotos e audios capturados durante a pratica e a
+realizacao de uma Inspecao Semiotica da ferramenta Esses
+dados podem ser aliados a analise da pratica imersiva
+apresentada neste artigo com vistas a formulacao de um
+conjunto de guidelines ou requisitos uteis a esta area
+Tambem carecem de analise a interface Web do sistema na
+qual se podem contratar os servicos da empresa adquirindo
+uma Tag Memorial e tambem prestar homenagens para
+falecidos como por exemplo acendendo uma vela.
+
+**CONCLUSAO**
+Em conclusao, esta pesquisa explora as percepçoes de projetistas da IHC sobre memoriais digitais em cemiterios, destacando a importancia da analise centrada no usuario, da coleta de requisitos in loco e da integraçao de tecnologia com o contexto cultural e social. Os resultados apontam para a necessidade de melhorar a qualidade e a acessibilidade das informaçoes, bem como a arquitetura da informaçao desses sistemas, a fim de atender as necessidades dos usuarios e garantir a preservaçao da memoria de forma eficaz e significativa.

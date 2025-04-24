@@ -1,0 +1,81 @@
+A Interaçao Humano-Dados desempenha um papel critico em todos os dominios que
+envolvem a transmissao de informaçoes, pois serve como um canal para a aquisiçao
+de conhecimento, conforme descrito na pesquisa realizada por Victorelli e Reis
+. O estudo daqueles autores tambem destaca as contribuiçoes
+de metodos que empregam ferramentas para apoiar o ciclo de vida dos dados
+. Em estudos ambientais, a capacidade de acessar dados de forma
+precisa e concisa e de extrema importancia, principalmente na prevençao e monitoramento
+de acidentes.
+
+As barragens tem recebido grande atençao no meio ambiente brasileiro. O pais
+possui inumeras barragens de agua conectadas a usinas hidreletricas e barragens de re-
+jeitos de mineraçao. Muitos acidentes graves ocorreram em algumas barragens, levando
+a graves impactos ambientais e humanos. No Brasil, a Politica Nacional de Segurança
+de Barragens foi instituida pela Lei 12.334/2010  para salvaguardar vi-
+das e a natureza em caso de acidentes com barragens. A Agencia Nacional de Aguas
+[Agencia Nacional de Aguas e Saneamento Basico ANA 2022] define acidentes com bar-
+ragens como situaçoes em que ha um “comprometimento da integridade estrutural de uma
+barragem, levando a liberaçao descontrolada do conteudo do reservatorio”.
+
+O objetivo desta pesquisa foi avaliar uma plataforma de exploraçao de dados am-
+bientais que visa centralizar informaçoes sobre barragens brasileiras por meio de uma
+combinaçao de dois metodos: 1) testes com usuarios que conhecem as areas ambiental e
+tecnologica e 2) uma avaliaçao heuristica colaborativa conduzida por tres especialistas em
+Interaçao Humano-Computador. A heuristica de usabilidade definida por Nielsen e Mo-
+lich [Nielsen and Molich 1990] e a heuristica de usabilidade especializada para Interaçao
+Humano-Dados definida por Victorelli e Reis  foram utilizadas
+na avaliaçao. Alem de identificar problemas por meio dessas heuristicas, o estudo tambem
+desenvolveu categorias para agrupar os problemas mais significativos para facilitar a me-
+lhoria. Este artigo e uma sintese de um artigo publicado no 19th IFIP TC 13 International
+Conference - INTERACT 2023 .
+
+Este estudo teve como objetivo investigar aspectos da interaçao entre humanos e dados
+na exploraçao de questoes ambientais. A investigaçao empregou tecnicas de teste com
+usuarios e avaliaçao heuristica para avaliar um aplicativo que explora um conjunto de
+dados sobre a segurança de barragens brasileiras.
+
+O orgao fiscalizador responsavel pelo monitoramento das barragens brasileiras
+mantem um banco de dados abrangente contendo todas as informaçoes relevantes relaci-
+onadas a barragens. Este conjunto de dados e utilizado para desenvolver um painel que
+melhora a visualizaçao e compreensao dos dados, contribuindo para o estabelecimento de
+um repositorio nacional de registros sobre barragens brasileiras.
+
+No que diz respeito aos testes de usuario, a pesquisa envolveu 18 participantes
+designados a tarefas especificas para interagir com os dados. Suas percepçoes e opinioes
+foram solicitadas e, apos a conclusao das tarefas, eles foram solicitados a preencher um
+questionario e participar de uma breve entrevista pos-teste.
+
+A avaliaçao heuristica foi realizada por tres especialistas em interaçao humano-
+computador, empregando o metodo de avaliaçao heuristica colaborativa. Essa abordagem
+envolveu os avaliadores realizando as mesmas tarefas que os usuarios e identificando de
+forma colaborativa quaisquer questoes ou problemas encontrados durante o processo de
+avaliaçao.
+
+A avaliaçao heuristica identificou com sucesso 41 problemas simulando a mesma tarefa
+atribuida nos testes do usuario. Dos 41 problemas identificados, 28 nao produziram um
+resultado semelhante no teste do usuario. Entre os problemas criticos, um problema signi-
+ficativo envolveu a compreensao dos dados devido a sua apresentaçao dispersa no painel,
+levando a uma desconexao entre os titulos e os dados correspondentes. Alem disso, a
+interaçao foi dificultada pela utilizaçao de escalas de cores intimamente relacionadas para
+os dados apresentados, muitas vezes impedindo a comparaçao de informaçoes na busca
+de detalhes especificos.
+
+No total, 27 problemas foram encontrados pelos usuarios. Um problema identico
+encontrado por varios usuarios foi consolidado para evitar a duplicaçao da analise do
+problema. No entanto, o numero de usuarios que relataram o problema foi incluido nos
+resultados e examinado.
+
+Os problemas identificados durante os testes com usuarios foram sistematicamente
+categorizados em problemas individuais, com sua frequencia de ocorrencia meticulosa-
+mente registrada, e posteriormente vinculados as heuristicas propostas por Victorelli e
+Reis  e Molich e Nielsen [Nielsen and Molich 1990].
+
+Os resultados alcançados por meio de cada metodo podem ser associados as heuristicas
+e posteriormente submetidos a comparaçao. Para as heuristicas de Victorelli e Reis [Victorelli and Reis 2020], ambos os metodos indicaram o uso da heurıstica 3 - Fornecer feedback visual imediatamente sobre a interacao devido a falta de feedback e confusao causada aos usuarios em determinados momentos da interacao, e 6 - Enriquecer semanticamente a interacao, com foco em seu subitem 6.1 - Enriquecer semanticamente a interacao de busca. Quanto as heurısticas da Nielsen [Nielsen and Molich 1990], os testes de usuario forneceram uma visao principalmente de duas heurısticas: 7 - Flexibilidade
+e eficiencia de uso, e 8 - Design estetico e minimalista, enquanto a avaliacao heurıstica
+destacou, alem das mencionadas , tambem a heurıstica 6. Reconhecimento em vez de
+recordacao.
+
+**CONSDIERAÇOES FINAIS**
+
+Este estudo demonstra a relevancia de combinar diferentes metodos de avaliaçao de usabilidade para obter uma compreensao abrangente dos desafios enfrentados pelos usuarios ao interagir com sistemas complexos de exploraçao de dados. A combinaçao de testes com usuarios e avaliaçao heuristica permitiu identificar uma variedade de problemas e fornecer insights valiosos para o aprimoramento da plataforma de exploraçao de dados ambientais, contribuindo para o avanço da area de Interaçao Humano-Dados e o desenvolvimento de sistemas mais eficazes e usaveis.

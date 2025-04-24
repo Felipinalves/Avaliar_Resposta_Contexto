@@ -1,0 +1,129 @@
+**RESUMO**
+
+Este artigo trata da necessidade de melhorar a qualidade dos dados
+e criar uma interface que potencialize a tomada de decisao, proporcionando
+clareza a Setec/MEC sobre as regras de validaçao dos dados do Sistema
+Nacional de Informaçoes da Educaçao Profissional e Tecnologica (Sistec).
+Tambem aborda a geraçao de relatorios com o uso de ferramentas como o
+Microsoft Power BI. Para isso, foram realizadas entrevistas semiestruturadas e
+prototipagem, como parte do design contextual, para superar dificuldades de
+compreensao e envolver melhor as partes interessadas. O resultado foi um
+painel que organiza as informaçoes em cinco categorias e em conformidade
+com a cartilha de boas praticas do Ministerio da Educaçao (MEC). A equipe
+concluiu que e essencial um processo continuo de avaliaçao da qualidade dos
+dados e que a metodologia proposta e um caminho para essa melhoria.
+
+**INTRODUCAO**
+
+O Sistema Nacional de Informaçoes da Educaçao Profissional e Tecnologica (Sistec) e
+um mecanismo para registro e divulgaçao dos dados da educaçao profissional e
+tecnologica, alem de validar os diplomas de cursos da educaçao profissional tecnica de
+nivel medio. O Sistec foi instituido e implantado pelo Ministerio da Educaçao (MEC)
+em 2009 (Resoluçao CNE/CEB n 3/2009), por intermedio da Secretaria de Educaçao
+Profissional e Tecnologica do Ministerio da Educaçao (Setec/MEC). Por meio dele, as
+instituiçoes de ensino ofertantes de educaçao profissional e tecnologica inserem as
+informaçoes sobre os cursos tecnicos de nivel medio e os cursos de qualificaçao
+profissional, incluindo matricula, frequencia, concluintes, entre outros dados.
+
+Como responsavel pelo Sistec, a Setec/MEC estabeleceu com o Instituto Federal
+de Educaçao, Ciencia e Tecnologia de Brasilia (IFB) uma parceria para desenvolvimento
+de soluçoes tecnologicas para a higienizaçao da base de dados do Sistec . O projeto foi subdividido em produtos com foco na analise de dados e
+visualizaçao da informaçao. A modelagem e a prototipaçao desses produtos envolveram
+muitos desafios: evoluçao da base de dados com a modificaçao do dicionario de dados,
+volume de dados, documentaçao desatualizada e entendimento das regras de negocio.
+
+**PROCESSO DE DESIGN CONTEXTUAL**
+
+Neste cenario, na etapa de avaliaçao da qualidade dos dados foi conduzida uma
+entrevista semiestruturada com os usuarios do sistema, para
+compreender o uso dos dados e suas principais dificuldades. Apos a entrevista, foi
+realizada a prototipaçao como parte do processo de design contextual para superar
+dificuldades de compreensao e envolver as partes interessadas de forma mais efetiva no
+desenvolvimento do painel de dados, que foi implementado via Microsoft Power BI a
+fim de atender as necessidades do projeto e potencializar a tomada de decisao dos
+gestores. Internamente, a equipe utilizou como base a metodologia Scrum para se
+organizar e realizar entregas pontuais e incrementais.
+
+O desenvolvimento do painel foi iniciado a partir da elaboraçao de um prototipo
+com as caracteristicas e funcionalidades demandadas pela equipe tecnica do MEC, que
+incluiam a divisao dos dados por categorias instituicoes, ofertas, cursos e matriculas
+e a possibilidade de realizar filtros dentro de cada uma delas. A partir das entrevistas
+conduzidas com especialistas no Sistec, que tinham como objetivo principal fazer um
+levantamento da qualidade dos dados do sistema, identificou-se a necessidade da criaçao
+de um dicionario de dados, por conta da ausencia de documentaçao do sistema, que
+gerava confusoes no abastecimento e leitura dos dados. Foi entao incorporado ao
+prototipo a proposta de um glossario, posteriormente nomeado dicionario.
+
+A apresentaçao visual do painel iniciou pela prototipaçao das telas mencionadas
+na ferramenta Figma, partindo-se dos principios da Gestalt para a organizaçao dos
+elementos, que considera a simplicidade como a caracteristica formal de padroes visuais
+de facil reconhecimento perceptivo . Optou-se pela utilizaçao da
+Gestalt, pois ela apresenta um importante conceito no que diz respeito ao
+desenvolvimento moderno do estudo da sensaçao e da percepçao das pessoas em relaçao
+ao design, ao visualizar os elementos nao apenas de forma individualizada, mas tambem
+na composiçao como um todo.
+
+Alem disso, traz explicaçoes para a analise da percepçao visual da mente
+humana, que busca formas simples e ordenadas nos objetos. Considera ainda, na
+psicologia da forma, principios como simetria, proximidade, similaridade, continuidade,
+fechamento, regularidade e plenitude, que se apresentam nao apenas no estudo e na
+criaçao de formas bi e tridimensionais, como tambem na organizaçao de objetos em
+espaços .
+
+O primeiro prototipo trazia entao botoes para todos os itens na tela principal, e
+derivacoes com os filtros em cada uma das telas internas (Figura 1), alem de uma
+proposta para apresentacao dos dados no dicionario.
+A partir das reunioes para avaliacao com a equipe tecnica do MEC, foi
+incorporada a tela principal uma quinta categoria – diplomas tecnicos – e criada uma
+tela especifica para ela. Apos essa alteracao, as telas foram implementadas no Microsoft
+Power BI e adaptadas as possibilidades da ferramenta quando necessario.
+
+**RESULTADOS**
+
+Apos as avaliaçoes e adaptaçoes realizadas em conjunto com a equipe tecnica, e a
+adequaçao a Cartilha de boas praticas de identidade visual de paineis de Power BI do
+MEC, fornecida pelo Ministerio, foi desenvolvida a nova versao . Entre as
+alteraçoes incluidas, constam a adiçao da data de atualizaçao do painel e a troca dos
+icones das categorias, a fim de acompanhar aqueles presentes tanto na capa como no
+menu lateral de navegaçao entre as paginas. Foi ainda adicionado um botao do Power
+Automate com o endereço de e-mail da equipe do MEC, com o proposito de encaminhar
+relatorios em formato de arquivo CSV por e-mail.
+
+Em relaçao as telas de cada categoria, foram definidos os filtros principais para
+serem apresentados como graficos, passando os demais a comporem os filtros adicionais
+do painel que sao os mesmos em todas as categorias. Na versao final tambem foi
+implementada uma tela de “sobre” para uma breve apresentaçao do painel, do projeto e
+da equipe que o produziu.
+
+Por padrao, todas as telas das categorias possuem um botao de enviar os dados
+filtrados para o e-mail do usuario, um filtro principal pelo nome e codigo da unidade de
+ensino e filtros adicionais no menu lateral. Alem disso, ha uma barra superior com os
+quantitativos de instituicoes, cursos, ofertas e matriculas. A exceçao e a tela de diplomas
+tecnicos que traz os quantitativos de instituicoes, matriculas e diplomas tecnicos.
+
+**CONCLUSAO E TRABALHOS FUTUROS**
+
+O Sistec e um sistema com mais de 14 anos em funcionamento, que ao longo do tempo
+passou por adequaçoes para atender os normativos da Educaçao Profissional e
+Tecnologica (EPT) e comportar novos programas e iniciativas, como o Pronatec, a Rede
+e-Tec, o Mediotec, entre outros . Estas modificaçoes, juntamente com o aumento do numero
+de usuarios, crescimento de funcionalidades do sistema e volume de dados armazenados
+conduziram a necessidade de analise, higienizaçao e visualizaçao a fim de diminuir
+possiveis inconsistencias nas informaçoes.
+
+Desta forma, a Interaçao Humano-Computador (IHC) implementada em
+PowerBI contribui diretamente para uma analise visual e bem estruturada das
+informaçoes da base de dados, o que permite a alta gestao o acesso a uma ferramenta de
+auxilio a tomada de decisao mais assertiva. Ademais, pode contribuir para a
+transparencia, caso a ferramenta seja disponibilizada a populaçao.
+
+Como possiveis melhorias em futuras implementaçoes, sugere-se (i) criar uma
+ferramenta para automatizar a extraçao da base dados e integraçao com PowerBI; (ii)
+realizar uma avaliaçao de acessibilidade seguindo os preceitos do Design System do
+GovBr [Governo Federal 2014]; (iii) conduzir nova rodada de entrevistas com os
+usuarios do painel para verificar as percepçoes apos o uso; (iv) realizar avaliaçao quanto
+ao uso pelos gestores e necessidades de melhorias evolutivas no painel.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, este trabalho destaca a importancia da utilizaçao de conceitos de Interaçao Humano-Computador (IHC) no desenvolvimento de um painel de dados para o Sistec, visando melhorar a qualidade das informaçoes e potencializar a tomada de decisao. A metodologia de design contextual, aliada aos principios da Gestalt, permitiu criar uma interface visualmente atraente e funcional, que atende as necessidades dos usuarios e facilita o acesso a informaçoes relevantes.

@@ -1,0 +1,468 @@
+**RESUMO**
+
+Cobalto UFPel e um aplicativo gratuito para dispositivos moveis
+que disponibiliza informaçoes pertinentes a vida academica dos
+estudantes da Universidade Federal de Pelotas. Essa plataforma
+e responsavel pela disponibilizaçao de informaçoes de horarios,
+transporte, avaliaçoes, frequencias, historico, entre outros dados
+relevantes para alunos e professores. Este trabalho consiste em uma
+pesquisa de satisfatibilidade dos estudantes usuarios e analise dos
+resultados obtidos. A maioria dos usuarios participantes da pesquisa
+definem o aplicativo Cobalto UFPel como util e de facil usabilidade,
+ainda que apresente diversos erros que afetem seu uso e nao possua
+recursos significativos de acessibilidade.
+
+**INTRODUCAO**
+
+Considerando o avanço das tecnologias e a crescente cultura de
+serviços, aplicativos de dispositivos moveis estao se tornando cada
+vez mais proeminentes no cotidiano das mais diversas atividades .
+Dentre elas e importante destacar a tarefa de transmitir dados
+para os usuarios, que e significativamente diferente em relaçao a
+tarefa de informar, pois diferentes usuarios em distintas circuns-
+tancias recuperam dados particulares e pertinentes a sua situaçao
+especifica. Isso adiciona um certo grau de complexidade a aplicaçao
+por necessitar de um sistema de registro de usuarios, assim como
+tambem sao imprescindiveis mecanismos de segurança para manter
+a consistencia e a privacidade dos dados dos usuarios da plataforma.
+
+A Universidade Federal de Pelotas utiliza seu proprio sistema
+de gerenciamento academico (Cobalto), responsavel pelo registro
+e acesso de informaçoes como codificaçao de disciplinas, cadas-
+tros de curriculos de cursos, historico dos alunos e diversas outras
+funcionalidades .
+
+O Cobalto UFPel e um aplicativo gratuito para dispositivos mo-
+veis que disponibiliza informaçoes do sistema Cobalto pertinentes a
+vida academica dos estudantes da Universidade Federal de Pelotas.
+Sao disponibilizados recursos como: cardapio do RU, localiza-
+çao dos diversos campi da universidade, previsao do tempo, rotas
+do transporte de apoio, alem de permitir o acesso as avaliaçoes,
+frequencia, historico, horarios, matriculas e mensagens do usuario.
+
+O objetivo do presente trabalho e avaliar de forma analitica a
+satisfaçao dos usuarios no que concerne a usabilidade da aplicaçao
+Cobalto UFPel, incluindo aspectos de como a informaçao e apresen-
+tada aos usuarios e a forma como e feita a interaçao dos usuarios
+com o sistema.
+
+A contribuiçao desse trabalho consiste na pesquisa de satisfatibi-
+lidade realizada e na analise dos resultados observaveis para avaliar
+a usabilidade do aplicativo Cobalto UFPel.
+
+A seguir, apontaremos uma introduçao aos atributos visuais do
+aplicativo mobile e sua logica de usabilidade, tais quais aspectos do
+seu publico alvo. Como por exemplo, a interface ao realizar o pri-
+meiro acesso ao executar o software, de acordo com as informaçoes
+fornecidas pelo seu usuário, ilustrado na Figura 1.
+
+**CONTEXTUALIZAÇÃO**
+
+Para executar uma avaliaçao adequada, como descrito na sessao
+anterior, e necessario conhecer os principais detalhes e funciona-
+lidades da interface do aplicativo, ilustradas nas Figuras de 1 a
+9. Da mesma forma que e de extrema importancia examinar as
+caracteristicas dos individuos indicados a utilizaçao do mesmo.
+
+**Aplicativo Cobalto UFPel**
+
+O aplicativo Cobalto da UFPel e um aplicativo mobile de rapido
+acesso as informaçoes do usuario, onde ele pode verificar infor-
+maçoes sobre sua situaçao na universidade, sobre o curso que esta
+matriculado e mais algumas informaçoes uteis sobre a UFPel. Como
+grande parte dos aplicativos mobile, o Cobalto possui versao para o
+sistema Android e para o sistema IOS. A diferença entre as versoes
+esta no design, enquanto que as funcionalidades disponibilizadas se
+mantem as mesmas. Nesta subseçao serao abordadas algumas carac-
+teristicas e funcionalidades do aplicativo. As imagens do aplicativo
+apresentadas no estudo sao da versao para o sistema IOS.
+
+A Figura 1 mostra a tela de login do aplicativo, onde o usuario
+necessita colocar seu CPF e senha cadastrada para obter acesso ao
+aplicativo.
+
+Apos garantir acesso ao Cobalto, o usuario sera redirecionado
+a tela principal da ferramenta, como pode ser visto na Figura 2.
+Nesta tela, sao apresentados alguns dados, como nome do curso e
+periodo letivo. Alem de serem oferecidas opçoes ao usuario, como
+avaliaçoes e notas, cardapio, frequencia, historico escolar, entre
+outras.
+
+Caso este usuario desejar consultar algum outro periodo letivo,
+basta clicar no periodo apresentado a ele e surgira uma janela para
+selecionar o periodo letivo desejado, como mostra a Figura 3.
+
+Uma das opçoes disponiveis ao usuario e o cardapio do restau-
+rante universitario, com ele e possivel ver qual refeiçao sera ofertada
+em cada um dos restaurantes da universidade. Um estudante, por
+exemplo, pode consultar qual sera a refeiçao do Restaurante Uni-
+versitario enquanto esta no transporte da universidade. A tela do
+cardapio pode ser vista pela Figura 4.
+
+Informaçoes relacionadas ao curso tambem sao disponibilizadas
+ao usuario. A Figura 5 mostra a tela de frequencias que o usuario
+possui em cada disciplina matriculada.
+
+Na Figura 6 e apresentado a tela do historico escolar. Nesta parte
+e possivel ver um sumario da situaçao do usuario dentro do curso
+matriculado. O historico mostra a situaçao, a turma e a nota de todas
+as disciplinas matriculadas neste periodo e em periodos anteriores.
+
+Na parte de matricula, e possivel ver informaçoes sobre cada
+disciplina, como a turma e a quantidade de creditos. Um exemplo
+desta parte pode ser visto na Figura 7.
+
+Nos horarios sao apresentados os horarios da semana referentes
+a cada disciplina matriculada naquele periodo, como evidenciado
+na Figura 8.
+
+Alem das funcionalidades citadas acima, o aplicativo Cobalto
+tambem esta servindo como meio de digitalizaçao para a funçao
+do cracha, onde antigamente era feita atraves de um cartao fisico
+com codigo de barras (ainda presente). Hoje em dia, pode ser usado
+atraves do aplicativo que substituiu o codigo de barras por um
+QR Code, permitindo acesso ao usuario ter acesso aos diferentes
+serviços oferecidos como o Restaurante Universitario, bibliotecas,
+e transporte de apoio.
+
+**Publico Alvo**
+
+O publico alvo, como comentado anteriormente, e o estudante. O
+aplicativo e uma forma de facilitar pesquisas rapidas e simples
+sobre a situaçao deste estudante na universidade, alem de permitir
+pesquisar outros tipos de informaçoes relevantes para o dia-a-dia,
+como o cardapio do Restaurante Universitario (RU) por exemplo.
+
+A ideia da criaçao de um aplicativo mobile para o estudante serve
+justamente para facilitar consultas. A grande maioria dos estudan-
+tes hoje possui um smartphone, e desde a criaçao do aplicativo, e
+possivel acessar dados academicos relevantes de qualquer lugar, a
+qualquer momento.
+
+E util conhecer seu publico-alvo para desenvolver soluçoes me-
+lhores assim como aperfeiçoar as ja existentes. E uma forma de
+entender e medir caracteristicas, opinioes, sensaçoes e possiveis
+habitos que eles procuram a fim de alinhar o desenvolvimento de
+produtos para atender as expectativas e a satisfacao dos clientes e
+consumidores [3].
+
+Niveis de Processamento e o Aplicativo
+Cobalto UFPel
+Para a tarefa de design de interfaces e experiencias, e importante
+levar em consideracao os diferentes niveis de processamento de
+informacao: visceral, comportamental e reflexivo 4.
+Segundo 5, o nivel visceral consiste no que tende a ser automatico, com base no que ja esta programado no individuo e e
+responsavel por realizar julgamentos rapidos para determinar se
+algo e positivo ou negativo. No contexto de uma aplicacao, esse
+nivel esta fortemente ligado as primeiras impressoes e sentimentos
+iniciais ao se deparar com o sistema. Um exemplo de atividade que
+gera retorno em um nivel visceral e andar em uma montanha-russa.
+O nivel comportamental e mais proximo da memoria motora e
+de praticas cotidianas, embora que nao de forma consciente. Ele
+esta ligado a artistas, musicistas e outros individuos que praticam
+uma atividade ate que conseguem replica-la em um nivel subconsciente. Em uma aplicacao, o nivel comportamental pode ser visto
+em atividades que geram o retorno durante o uso. Um exemplo de
+atividade que gera retorno em um nivel comportamental e a utilizacao de aplicacoes de lazer, particularmente jogos eletronicos, onde
+o usuario esta focado em melhorar sua pontuacao e habilidades.
+O nivel reflexivo esta usualmente presente nos sentimentos que
+sucedem a atividade, necessitando de estudo e interpretacao. Esse
+nivel e responsavel por contrastar e direcionar o nivel comportamental. Em uma aplicacao, o nivel reflexivo geralmente remete a
+informacoes que o sistema disponibiliza, as quais persistem nos
+pensamentos do usuario, gerando um momento contemplativo apos
+o uso do aplicativo. Um exemplo de atividade que gera um retorno
+contemplativo e a interpretacao de um poema.
+No contexto do aplicativo Cobalto UFPel, podemos identificar
+um sentimento visceral particularmente positivo, evidenciado pela
+facilidade dos usuarios ao acessar o sistema e pela avaliacao do
+primeiro uso. Em um nivel comportamental e um pouco dificil de
+avaliar o aplicativo Cobalto UFPel. Embora o aplicativo possua uma
+avaliacao positiva em sua usabilidade, existem diversos erros de
+sistema que afetam suas funcionalidades, prejudicando a experiencia comportamental. Em um nivel reflexivo, o aplicativo e bem
+visto na avaliacao de utilidade e na satisfacao geral dos usuarios, o
+que tende a ser deliberado pelo usuario apos o momento do uso do
+sistema.
+
+**Design e o Aplicativo Cobalto UFPel**
+
+O trabalho  define que designers profissionais atuam em um papel
+importante de duas formas: realizando design com e realizando
+design para comunidades.
+
+Realizar design com as comunidades significa participar lado a
+lado com outros atores envolvidos no processo criativo da cons-
+truçao da comunidade. Nessa modalidade, designers facilitam a
+convergencia para ideias compartilhadas e potenciais soluçoes.
+
+Realizar design para comunidades significa focar em pontos espe-
+cificos de serviço colaborativo, e apos observar os pontos positivos
+e negativos, intervir no contexto dos serviços para torna-los mais fa-
+voraveis, desenvolvendo soluçoes para aumentar sua acessibilidade,
+eficacia e replicaçao.
+
+No contexto da aplicaçao Cobalto UFPel, ambas as formas des-
+critas podem ser observadas. O design para as comunidades pode
+ser visto nas funcionalidades da aplicaçao, tornando-a util na dis-
+ponibilizaçao de informaçoes academicas de facil acesso, refletindo
+as necessidades dos estudantes da Universidade Federal de Pelotas.
+
+O design com as comunidades e evidente ao observar a evoluçao
+da aplicaçao e suas melhorias, levando em consideraçao as criticas
+e sugestoes dos usuarios. O presente trabalho tambem serve como
+potencial recurso de apoio ao design com a comunidade, tendo em
+vista que ajuda a conhecer mais os usuarios a partir da pesquisa
+realizada no contexto do uso do aplicativo Cobalto UFPel e a partir
+da analise sistematica de suas respostas.
+
+No contexto do aplicativo Cobalto UFPel, podemos identificar
+um sentimento visceral particularmente positivo, evidenciado pela
+facilidade dos usuarios ao acessar o sistema e pela avaliaçao do
+primeiro uso. Em um nivel comportamental e um pouco dificil de
+avaliar o aplicativo Cobalto UFPel. Embora o aplicativo possua uma
+avaliaçao positiva em sua usabilidade, existem diversos erros de
+sistema que afetam suas funcionalidades, prejudicando a experi-
+encia comportamental. Em um nivel reflexivo, o aplicativo e bem
+visto na avaliaçao de utilidade e na satisfaçao geral dos usuarios, o
+que tende a ser deliberado pelo usuario apos o momento do uso do
+sistema.
+
+**METODOLOGIA**
+
+A partir das informaçoes apresentadas anteriormente, temos dados
+que dao uma visualizaçao geral da interface e de metodos que
+tentam transmitir informaçoes uteis aos seus usuarios. Contudo,
+antes de validar o uso de um aplicativo, e preciso se certificar de que
+o mesmo apoia de forma adequada os usuarios, pois quanto mais
+cedo forem encontrados os problemas de interaçao ou de interface,
+menor o custo de se conserta-los .
+
+Quando os usuarios tem varias alternativas de realizar suas ta-
+refas, o fato de escolherem espontaneamente um sistema em es-
+pecifico, dependera em grande parte da qualidade de uso desse
+determinado sistema .
+
+O conceito de qualidade de uso esta intrinsecamente ligado ao
+conceito de usabilidade, que segundo , define a facilidade e efici-
+encia de uso, assim como a satisfaçao do usuario.
+
+O fator facilidade e eficiencia de uso refere-se ao esforço cog-
+nitivo do usuario ao interagir com o sistema e numero de erros
+cometidos durante essa interaçao. Enquanto o satisfaçao tem o obje-
+tivo de fazer uma avaliaçao subjetiva do sistema por seus usuarios,
+incluindo emoçoes que possam surgir durante a interaçao .
+
+**Metodo de Avaliação**
+
+Para fazer determinada avaliaçao em cima de um sistema, e preciso
+levar em conta a escolha de um metodo que justifique analitica-
+mente os aspectos de uma interface. Portanto a partir da colocaçao
+de , metodos de avaliaçao empiricos sao muito uteis para analisar
+dados fornecidos pelos usuarios, com o objetivo de identificar os
+problemas da interface.
+
+**Teste de Usabilidade**
+
+A partir desse contexto, utilizaremos neste trabalho, como me-
+todo de avaliaçao, o teste de usabilidade, que fora sintetizado por
+ como uma metodologia valida para avaliar os pilares que com-
+poem a usabilidade de um software. Entretanto nessa avaliaçao
+priorizaremos os fatores de: facilidade de aprendizado, facilidade
+de uso, eficiencia de uso, satisfaçao do usuario e utilidade.
+
+Atraves desse teste, conseguimos quantificar o desempenho do
+usuario. Para tal, precisamos, segundo , definir um design de
+limites minimos aceitaveis (o pior cenario), limites maximos possi-
+veis (o melhor cenario) e o valor almejado na medida do projeto ou
+aplicativo (o cenario desejavel).
+
+Por outro lado trabalhos na literatura como , dividem as
+questoes do teste a partir de criterios, que simbolizam os fatores
+intimamente ligados a qualidade de uso. Portanto definimos neste
+trabalho, tres criterios relevantes para a avaliaçao dos resultados.
+Sao eles:
+Facilidade de uso: busca questionar se o usuario consegue
+utilizar facilmente o aplicativo, sem o impedimento de muitos
+erros. E se o mesmo e eficiente no auxilio a possiveis duvidas
+do usuario.
+Utilidade: questiona se o usuario consegue criar e encon-
+trar um aviso rapidamente. Tambem indaga a utilidade da
+aplicaçao a comunidade.
+Satisfaçao: tenta questionar o nivel de satisfaçao que usuario
+sente ao interagir com o sistema.
+
+**Instrumento de Avaliação**
+
+Para realizar a avaliaçao da usabilidade do aplicativo mobile Cobalto
+UFPel, foi feita uma pesquisa online de satisfatibilidade com os
+usuarios a partir das definiçoes da metodologia escolhida. Portanto,
+estruturamos em uma tabela (Tabela 1) as caracteristicas do teste
+de usabilidade de acordo com cada pergunta.
+
+A divulgaçao do formulario ocorreu atraves de listas de correio
+eletronico que incluem academicos da Universidade Federal de
+Pelotas. A coleta de respostas durou oito dias, ocorrendo entre os
+dias 22 e 30 de janeiro de 2021. Esse questionario conta com 64
+diferentes respostas de usuarios.
+
+A pesquisa consiste em quinze questoes: em oito delas sao apre-
+sentadas afirmaçoes e os entrevistados respondem o quanto concor-
+dam ou nao, sinalizadas na Tabela 1 pelo metodo "Grau de Concor-
+dancia"; seis questoes sao de multipla escolha (cinco sendo seleçao
+unica e uma sendo seleçao multipla), sinalizadas na Tabela 1 pelo
+metodo "Pergunta Subjetiva"; e por fim um campo livre para comen-
+tarios e sugestoes em relaçao ao aplicativo.
+
+Ao terminar a coleta dos dados, e possivel passar para a etapa
+de avaliaçao dos resultados, observando os cenarios desejaveis e
+discutindo hipoteses dos possiveis motivos das respostas obtidas.
+
+**RESULTADOS DA AVALIAÇÃO**
+
+O primeiro item a ser analisado e a experiencia do usuario na sua
+primeira interaçao com o aplicativo. Com isso, alem de observarmos
+as primeiras impressoes que o aplicativo imprime nos usuarios,
+tambem temos uma ideia se o aplicativo atende as expectativas que
+levaram o usuario a adquiri-lo em primeiro lugar.
+
+Ao observar o grafico , e visto que boa parte dos
+usuarios tiveram uma boa primeira impressao com base no seu pri-
+meiro uso. Muitos usuarios tambem responderam um sentimento
+neutro em relaçao a aplicaçao. Isso pode significar que as funciona-
+lidades principais do sistema (cadastro, acesso e apresentaçao de
+informaçoes basicas) estao operando corretamente, mas que essas
+funcionalidades nao possuem muito alem do minimo necessario ou
+sao confusas em sua utilizaçao. Como resultado, diversos usuarios
+nao se surpreendem com uma performance media e minimamente
+dentro do esperado.
+
+Em relaçao as funcionalidades basicas do sistema, outra variavel
+que influencia diretamente na primeira impressao dos usuarios e a
+facilidade de acessar o sistema pela primeira vez, utilizando suas
+credenciais da universidade. Isso acontece porque no momento que
+um usuario se frustra com alguma funcionalidade basica intrinseca
+do sistema, ele tende a assumir que a utilizaçao dos outros serviços
+do aplicativo tambem irao resultar em algum tipo de insatisfaçao.
+
+No caso do aplicativo Cobalto UFPel, o acesso ao sistema uti-
+lizando as credenciais tende a ser bem sucedido no contexto da
+pesquisa realizada, isso pode ser evidenciado pelo grafico da Fi-
+gura 11. A maior parte dos usuarios conseguir realizar o acesso no
+sistema contribui para a satisfaçao dos usuarios na sua primeira
+utilizaçao do aplicativo, corroborando a hipotese anterior de que as
+funcionalidades basicas da aplicaçao estao funcionando dentro do
+esperado.
+
+E bastante provavel que essa facilidade ao acessar o sistema seja
+proveniente das credenciais utilizadas para o acesso na plataforma.
+Essas credenciais consistem no CPF que identifica o usuario e uma
+senha individual para proteçao da conta. Tais informaçoes sao uni-
+cas e fortemente assertivas, o que em conjunto com a tela limpa e
+minimalista de acesso, conforme pode ser observado na Figura 1,
+contribui para um acesso rapido, evitando potenciais confusoes.
+
+Como foi mencionado anteriormente, o aplicativo Cobalto UFPel
+e uma aplicaçao para dispositivos moveis, fornecendo informaçoes
+relacionadas ao sistema de gerenciamento academico Cobalto. Esse
+sistema tambem possui uma pagina de navegador para o acesso
+de informaçoes e, embora a avaliaçao dessa pagina nao pertença
+ao escopo do presente trabalho, e relevante avaliar a relaçao de
+usabilidade entre a aplicaçao mobile e a pagina de navegador. Tal
+avaliaçao nos permite especular algumas funcionalidades potenci-
+almente relevantes de uma plataforma que nao estao presentes na
+outra.
+
+O grafico da Figura 12 apresenta uma comparaçao das duas ver-
+soes na forma da preferencia dos usuarios em relaçao a qual das
+plataformas utiliza. Podemos observar que a maioria dos usuarios
+ainda prefere utilizar a versao em navegador do sistema. Uma hipo-
+tese para isso e a existencia de algumas funcionalidades na versao
+em navegador que nao estao presentes no aplicativo para dispositi-
+vos moveis. Dentre essas funcionalidades mencionadas podemos
+destacar a escrita e envio de mensagens para professores, a con-
+sulta de endereços eletronicos, a impressao de documentos diversos
+como historicos, comprovantes e atestados.
+
+Outras funcionalidades do sistema Cobalto, no entanto, embora
+presentes em ambas as plataformas, possuem interfaces diferentes
+que apresentam informaçoes em formatos distintos. Um exemplo
+disso e facilmente perceptivel na tarefa onde o usuario verifica sua
+presença. Utilizando o aplicativo movel, a informaçao de presença
+e abstraida para uma porcentagem de frequencia, como pode ser
+visto na Figura 5. Enquanto que a pagina de navegador confere ao
+usuario apenas a informaçao da sua quantidade de ausencias. Esse
+nao e um caso do sistema nao possuir a informaçao, claramente
+o sistema Cobalto possui esses dados, mas ambas as plataformas
+optam por omitir partes da informaçao. Alguns usuarios relataram
+que gostariam de possuir o acesso a toda a informaçao (porcentagem
+de presença, quantidade de creditos da cadeira, numero de ausencias
+e ainda dias individuais de presenças e ausencias).
+
+Um aspecto importante para a usabilidade e o quao facil e a
+interaçao com o sistema. Para analisar a facilidade da usabilidade do
+aplicativo Cobalto UFPel, podemos observar o grafico da Figura 13.
+Com ele podemos inferir que a maior parte dos usuarios consideram
+a usabilidade do aplicativo relativamente simples e facil. No entanto,
+uma quantidade nao negligenciavel de usuarios relataram que, no
+contexto da usabilidade, a aplicaçao possui uma navegaçao um
+pouco confusa no inicio da utilizaçao, antes do usuario se acostumar.
+
+Tambem avaliamos a opiniao dos usuarios em relacao a acessibilidade da aplicacao Cobalto UFPel. Embora uma grande parte
+dos usuarios tenha permanecido neutra, as demais respostas tenderam marginalmente para definir a aplicacao como nao possuinte de
+mecanismos de acessibilidade. Das 64 respostas obtidas, tres delas
+compreendem usuarios com algum tipo de limitacao visual. Desses
+tres usuarios, dois classificaram a aplicacao como nao-acessivel e
+um permaneceu neutro. Vale ressaltar que o retorno de usuarios
+que lidam com quaisquer tipos de limitacao e de suma importancia
+para a evolucao de um sistema acessivel.
+Por se tratar de um programa, tambem e relevante analisarmos
+potenciais problemas de funcionalidade e bugs. O grafico da Figura
+14 denota as respostas dos usuarios em relacao a erros de sistema
+que prejudiquem a usabilidade da aplicacao. A grande maioria dos
+usuarios relata ter experienciado erros afetando a utilizacao do sistema. E possivel que esses erros influenciem tambem na preferencia
+dos usuarios pela versao de navegador do sistema (Figura 12).
+Para uma analise mais profunda desses erros, e tambem analisado a frequencia com que eles ocorrem. Essa informacao e especialmente importante para mensurar o impacto desses erros na
+usabilidade do sistema. O grafico da Figura 15 evidencia que apenas aproximadamente um quinto dos usuarios voluntarios nunca
+experienciou erros no sistema. Sendo a maior parcela aquela dos
+usuarios que se deparam com bugs semanalmente. Tambem nao
+pode ser negligenciada a notavelmente grande parcela de usuarios que experienciam erros diariamente (tambem aproximadamente
+um quinto dos usuarios voluntarios).
+Outro ponto de analise e a utilidade do aplicativo. Essa tende a
+ser uma das caracteristicas mais importantes de um sistema, pois
+reflete o sucesso do mesmo na resolucao do problema o qual a
+aplicacao se dispoe a tratar. Ao analisar o grafico da Figura 16, podese ver que a grande maioria dos usuarios considera o aplicativo
+como significativamente util, mesmo com os problemas descritos
+acima Alem da utilidade da aplicacao, podemos analisar em que momento ela e util. O grafico da Figura 17 denota as respostas dos
+usuarios no contexto de qual o momento do semestre em que a
+aplicacao e mais utilizada por eles. No grafico, e evidente que a
+maioria dos usuarios faz uso do sistema o tempo todo (outra parcela
+tambem utiliza o sistema frequentemente, mas para consultar o
+cardapio do Restaurante Universitario).
+No contexto da interacao de usuarios com um sistema, as emocoes que o sistema e a interface provocam nos usuarios sao um
+importante mecanismo de retorno aos desenvolvedores e designers.
+O grafico da Figura 18 demonstra as diferentes emocoes transmitidas aos usuarios durante o uso do aplicativo. Pode-se observar que a
+grande maioria dos usuario nao sente alguma emocao em particular,
+o que confere ao sistema um carater neutro. Ao analisar somente a
+relacao entre os usuarios que sentem alguma emocao positiva ou
+negativa, temos uma razao de 1.632 de sentimentos positivos para
+negativos. Vale mencionar que essas emocoes podem nao apenas
+ser influenciadas pela interface do sistema, mas tambem pelas informacoes que o sistema disponibiliza (como notas e presencas), o
+que e completamente dependente do individuo usuario aluno.
+Por fim analisamos a satisfacao geral dos usuarios quanto ao aplicativo Cobalto UFPel, verificando se os usuarios recomendariam o
+sistema. As respostas dessa pergunta sao particularmente significativas, funcionando como uma especie de resumo, visto que o usuario
+precisa levar em consideracao todos os aspectos de sua experiencia
+para decidir se recomenda a aplicacao ou nao. Olhando o grafico da
+Figura 19, a maior parte dos usuarios recomenda o sistema (embora
+uma boa porcao tenha se posicionado de forma neutra). Essa e uma
+boa avaliacao, pois apesar dos problemas existentes no sistema, ele
+ainda consegue realizar a tarefa de apresentar informacoes academicas relevantes para os estudantes da Universidade Federal de
+Pelotas.
+
+CONCLUSAO
+Este artigo discutiu a usabilidade com foco em satisfacao da Interface Humano-Computador presente no aplicativo mobile Cobalto
+UFPel, a partir de uma pesquisa com 64 voluntarios. Em linhas
+gerais, nota-se que a maioria dos voluntarios descreve o aplicativo
+como util e de facil usabilidade, entretanto ha uma alta reclamacao por erros semanais e mensais que atrapalham o usufruto da
+aplicacao. Tambem frisamos as diversas opinioes de voluntarios
+que precisam de funcoes e informacoes adicionais que ainda nao
+estao presentes na versao mobile. Por fim, discutimos a ausencia
+e a importancia de ferramentas que possibilitem a acessibilidade
+aqueles que possuem quaisquer limitacoes.

@@ -1,0 +1,123 @@
+**INTRODUCAO**
+
+O Design Centrado no Usuario (DCU) e uma abordagem que coloca os usuarios finais no
+centro do processo de design. Essa filosofia e baseada na ideia de que as necessidades
+dos usuarios podem influenciar de diferentes formas o desenvolvimento de uma solucao
+. No DCU, as principais medidas de sucesso do projeto de design sao
+a facilidade do entendimento do sistema pelos usuarios, como podem utiliza-lo para con-
+cluir suas atividades e a satisfaçao gerada pelo seu uso. Assim, o design deve corresponder
+ao modelo mental do usuario para a tarefa a ser realizada .
+
+No entanto, apesar da importancia e da crescente adoçao do DCU na area de de-
+sign de soluçoes digitais interativas, e comum que os alunos enfrentem dificuldades ao
+aplicar esses principios em seus projetos, principalmente em suas primeiras experiencias
+profissionais no mercado de trabalho . O processo de compreender e
+incorporar as metodologias e abordagens do DCU pode ser desafiador, exigindo conheci-
+mento teorico, pratico e orientaçao adequada.
+
+Foi nesse contexto, com o objetivo de fornecer suporte para estudantes e profissi-
+onais aplicarem as tecnicas do DCU, que surgiu o Orbis. Idealizado por
+o toolkit contem 15 cartas de tecnicas amplamente utilizadas nas etapas do DCU. As car-
+tas fornecem orientaçoes praticas e material complementar para uso no desenvolvimento de projetos. Entretanto, apesar dos benefıcios do uso de cartoes fısicos para facilitar o
+aprendizado e servir de base de consulta rapida e direta [Deng et al. 2014], durante a pandemia da COVID-19 as medidas de restricao de interacao presencial impossibilitaram o uso do toolkit. Essa situacao revelou a necessidade de superar as limitacoes fısicas do Orbis e adaptar essa ferramenta para um toolkit digital interativo, tornando seus conteudos acessıveis a um numero maior de pessoas e garantindo a continuidade do aprendizado das tecnicas do DCU. Nesse contexto, surge o Orbis 2.0, cujo processo e resultado e apresentado neste trabalho.
+
+**PROCESSO DE CRIAÇAO DO ORBIS 2.0**
+
+No trabalho de [Mesquita 2021], foi realizada uma avaliaçao do Orbis com alunos de
+graduaçao interessados em IHC e profissionais de IHCUX que ja atuam no mercado de
+trabalho. Seus resultados foram a base para os direcionamentos iniciais no processo de
+criaçao do Orbis 2.0 (Tabela 1), que iniciou com um questionario online direcionado para
+estudantes de graduaçao, com o objetivo de identificar as necessidades de aprendizado e o
+nivel de experiencia desses aplicando o DCU em projetos. Com base nessas informaçoes,
+foi possivel estabelecer perfis de usuarios que caracterizam o publico-alvo. Alem disso,
+foi realizada uma nova avaliaçao do Orbis fisico baseada em cenarios e tarefas, em que
+os estudantes tiveram a oportunidade de utilizar o Orbis em um cenario de projeto ficticio
+para selecionar as tecnicas mais adequadas para aplicar em um projeto.
+
+A partir dai, foram identificadas: (1) a necessidade de conteudos e recursos mul-
+timidia para complementar as informaçoes do toolkit, (2) um recurso de recomendaçao
+para facilitar a escolha de metodos e (3) a possibilidade de realizar buscas autonomas
+com criterios especificos, como nivel de esforço, tempo de execuçao e etapa do DCU.
+Levando em consideraçao as necessidades identificadas e as funcionalidades a serem im-
+plementadas, foi desenvolvido o modelo conceitual do Orbis 2.0. Nessa fase do projeto,
+foram realizadas analises detalhadas dos requisitos levantados e das melhorias propostas,
+definindo a fluxo de navegaçao do Orbis 2.0.
+
+**ORBIS 2.0 TOOLKIT DE DESIGN CENTRADO NO USUARIO**
+
+O toolkit foi desenvolvido como um website interativo utilizando a biblioteca React com
+Typescript no front-end para o desenvolvimento de interfaces de usuario e no back-end foi
+utilizada a linguagem de programaçao PHP em conjunto com o banco de dados MySQL.
+
+Por meio do website, o usuario pode tanto consultar as informaçoes de forma livre quanto
+utilizar filtros para buscar tecnicas do DCU especificos para suas necessidades.
+
+Orbis 2.0 contempla os mesmos conteudos sobre as 15 tecnicas do DCU conti-
+das na versao original [Mesquita 2021], organizadas em tres categorias: Analisar, Pro-
+jetar e Avaliar. Cada tecnica descrita possui informaçoes sobre o tempo necessario para
+execuçao, o esforço requerido para executa-lo e a quantidade de membros que o metodo
+sugere para ser aplicado, essas informaçoes sao classificadas em uma escala de tres niveis
+que indicam o grau de complexidade e preparo de cada tecnica. Tambem e indicado se
+o metodo foi proveniente da industria ou possui fundamentaçao teorica da academia, o
+que pode fornecer um contexto relevante ao usuario. Cada tecnica e acompanhada de um
+passo a passo, facilitando sua execuçao e permitindo que o aplicador siga um guia para re-
+alizar e concluir as atividades necessarias. As instruçoes de cada tecnica foram
+construidas utilizando como base uma curadoria de fundamentaçoes teoricas provenientes
+das referencias listadas no trabalho de [Mesquita 2021]. Alem disso, sao fornecidas dicas
+adicionais de aplicaçao, bem como materiais extras, videos, links, textos e referencias de
+literaturas, que complementam o conteudo e fornecem recursos adicionais para estudo.
+
+Na versao digital do produto foi projetada a funcionalidade de recomendaçao, na
+qual o usuario responde a um formulario composto por perguntas especificamente rela-
+cionadas as etapas - Analisar, Projetar e Avaliar em que deseja receber orientaçao. Ao
+final, o sistema gera uma recomendaçao de tecnicas baseada na que melhor se alinha com
+as informaçoes fornecidas pelo usuario. Essa abordagem auxilia o usuario a
+tomar decisoes informadas durante o processo de design, direcionando-o para os metodos
+e tecnicas adequados para alcançar seus objetivos.
+
+O Orbis 2.0 foi iterativamente prototipado e as funcionalidades previstas imple-
+mentadas. Apos o desenvolvimento de um prototipo de alta fidelidade, conduziu-se uma
+sessao de Design Critique com 30 participantes. Essa analise foi baseada nas heuristicas
+de Nielsen [Nielsen 1995], que serviram como referencia para identificar possiveis pro-
+blemas de usabilidade e interaçao. Através desse feedback, foi possivel identificar aspec-
+tos importantes a serem aprimorados na aplicaçao, bem como destacar caracteristicas que
+foram elogiadas e expressaram uma visao positiva em relaçao ao toolkit.
+
+Com objetivo de avaliar a efetividade das funcionalidades implementadas na nova
+versao, foi conduzido duas sessoes de uso, na qual foi convidado participantes que se encaixavam nos perfis de usuario tracados no processo de criacao do Orbis 2.0. Durante as
+sessoes, os usuarios foram convidados a explorar o website e elaborar com base em seus
+conteudos um planejamento de avaliacao de um sistema fictıcio. Apos essas atividades, 
+foi realizado uma sessao de grupo focal, para obter feedback em relacao a facilidade de
+uso, utilidade, compressao das informacoes e a atratividade estetica do toolkit. Adicionalmente, o User Experience Questionnaire (UEQ) foi aplicado para avaliar aspectos da
+experiencia do usuario. Os resultados 
+4 provenientes dessa avaliac¸ao constituirao um embasamento significativo para direcionar as proximas etapas de aprimoramento do Orbis
+2.0.
+
+**CONCLUSAO**
+
+Esse trabalho apresenta a adaptaçao do Orbis, um toolkit fisico de tecnicas de De-
+sign Centrado no Usuario, para uma versao digital interativa, que possibilita uma ex-
+periencia dinamica e personalizada para os usuarios, ao integrar recursos de filtragem e
+recomendaçao personalizada, que orientam no uso e na escolha de metodos para execuçao
+do DCU.
+
+A expectativa e que o Orbis 2.0 contribua para o ensino e pratica das tecnicas do
+DCU, sendo utilizando por professores, de modo que, poderao empregar o toolkit como
+material didatico para apresentar o processo do DCU e sua aplicaçao em projetos aos
+alunos. Alem disso, acredita-se que seu uso possa auxiliar estudantes e profissionais da
+industria a adotarem a filosofia do DCU de maneira mais eficaz em seus projetos, pro-
+movendo a importancia de direcionar o processo de design para atender as necessidades
+reais dos usuarios. Em relaçao as perspectivas futuras e necessario ampliar a quanti-
+dade de metodos disponiveis no toolkit, pois atualmente no Orbis 2.0 esta presente os 15
+metodos que foram inicialmente propostos para o toolkit fisico [Mesquita 2021]. Ja que,
+dada a diversidade de abordagens e necessidades existentes na area de IHC e design, e
+desejavel expandir o conjunto disponivel para oferecer uma gama ainda mais ampla de
+opçoes aos usuarios. Assim, a inclusao de novas tecnicas de forma colaborativa permitira
+uma maior aplicabilidade do toolkit, atendendo a um numero maior de cenarios e con-
+textos de projeto. Essa expansao contribuira para enriquecer a experiencia dos usuarios
+ao utilizar o Orbis, fornecendo uma variedade de ferramentas e tecnicas adicionais para
+aprimorar a pratica do Design Centrado no Usuario.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o Orbis 2.0 representa um avanço significativo ao adaptar o toolkit físico de técnicas de Design Centrado no Usuário para uma versão digital interativa. Essa adaptação proporciona aos usuários uma experiência dinâmica e personalizada, com recursos de filtragem e recomendação que facilitam a escolha e a aplicação das técnicas mais adequadas. Espera-se que o Orbis 2.0 contribua para o ensino e a prática do DCU, auxiliando tanto professores quanto estudantes e profissionais da indústria a adotarem essa filosofia em seus projetos. A ampliação da quantidade de métodos disponíveis no toolkit e a inclusão de novas técnicas de forma colaborativa são perspectivas futuras importantes para enriquecer ainda mais a experiência dos usuários e aprimorar a prática do Design Centrado no Usuário.

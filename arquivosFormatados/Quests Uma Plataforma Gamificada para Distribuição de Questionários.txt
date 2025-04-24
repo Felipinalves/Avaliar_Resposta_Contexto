@@ -1,0 +1,154 @@
+**RESUMO**
+
+A coleta de dados e essencial nos processos de Design de Interaçao
+Humano-Computador (IHC). Embora os questionarios sejam amplamente uti-
+lizados nesse contexto, devido a sua facilidade de distribuiçao e obtençao de
+respostas rapidas, eles tambem enfrentam desafios, como atingir metas de res-
+postas, alcançar o publico-alvo e obter respostas de qualidade. Para contornar
+esses problemas, desenvolvemos o Quests, uma plataforma web e mobile que
+utiliza a gamificaçao para engajar os respondentes e facilitar a distribuiçao de
+questionarios de pesquisas cientificas. O objetivo e criar um ambiente colabo-
+rativo em que pesquisadores e respondentes possam contribuir para a ciencia e
+receber recompensas que agreguem valor a sua formaçao.
+
+**INTRODUCAO**
+
+No nosso cotidiano, diversas soluçoes sao criadas para diminuir o impacto das
+adversidades na sociedade. Essas soluçoes envolvem a inserçao de artefatos em situaçoes
+problematicas, seguindo o processo de Design, que consiste nas etapas de analise, sintese
+e avaliaçao . Na area de Interaçao Humano-
+Computador (IHC), a etapa de analise envolve compreender a interaçao entre usuarios e
+tecnologias interativas, seu contexto de uso, caracteristicas fisicas e psicologicas e ex-
+periencias previas . Para isso, a coleta de dados e a forma de identi-
+ficar os problemas enfrentados pelos usuarios e estabelecer requisitos a serem alcançados
+, desempenhando um papel fundamental d=nos processos de design de
+IHC.
+
+Dentre as diversas tecnicas de coleta disponiveis, o questionario e uma das mais
+amplamente utilizada, visto que, apesar de suas limitaçoes (e.g., vies de autopreenchi-
+mento e respostas superficiais ou socialmente desejaveis), ele se caracteriza pela facili-
+dade de divulgaçao e de distribuiçao, permitindo a obtençao rapida de uma grande quan-
+tidade de respostas . No entanto, tais questionarios podem enfrentar
+desafios em sua distribuiçao, como alcançar uma meta de respostas predefinida ou atingir
+um publico-alvo adequado.
+
+Para ajudar a minimizar os problemas na distribuiçao de questionarios para pes-
+quisas com usuarios, desenvolvemos o Quests, uma plataforma para uso web e mobile que
+visa colaborar com as pesquisas cientificas ajudando-as a alcançar um maior numero de
+respondentes e engaja-los no processo de responder questionarios. Com o Quests, busca-
+mos criar um local interativo e colaborativo, onde tanto pesquisadores como respondentes
+possam colaborar com a ciencia ao responder questionarios e receber recompensas que
+possam contribuir para a formaçao de estudantes universitarios, atraves de um processo
+de gamificaçao.
+
+**A PLATAFORMA QUESTS**
+
+O Quests surgiu atraves da demanda de grupos de pesquisas da area de IHC em
+distribuir questionarios eficientemente e obter a quantidade desejada de respostas de um
+perfil especifico de pessoas. Assim, almejamos diminuir os impactos desses problemas
+nao somente para esses grupos, mas tambem para pesquisadores em quaisquer areas que
+estejam interessados em coletar dados de usuarios por meio de questionarios.
+
+Conceito e Funcionamento
+
+O Quests visa ser um meio de distribuiçao e nao de criaçao de questionarios
+que promova a motivaçao e o engajamento dos usuarios em responde-los. Para isso,
+trabalhamos com gamificaçao, que abrange a utilizaçao de elementos tradicionais de jo-
+gos para a resoluçao de problemas e para provomer a motivaçao e o engajamento de um
+determinado publico, resultando em comportamentos positivos para com essas praticas
+.
+
+A gamificaçao para engajar respondentes em questionarios de pesquisa cientifica
+ja e presente na literatura atraves de , [Oliveira and Paula 2020] e
+, em que eles inserem o conceito de gamificaçao durante o ato de
+responder questionarios. Diferente dos autores apresentados, por ser uma aplicaçao de
+distribuiçao, o Quests utiliza a gamificaçao para engajar os usuarios apos a resposta, uma
+abordagem que nao interfere na elaboraçao dos questionarios, mas sim, propoe um au-
+mento de respostas no questionario ao ponto que oferece recompensas ao final da res-
+posta.
+
+A aplicaçao Quests oferece aos usuarios duas opçoes de acesso: cadastrado ou
+visitante. Os visitantes podem acessar a plataforma sem a necessidade de um cadastro,
+mas nao terao acesso as recompensas. Ja os usuarios cadastrados tem a opçao de escolher
+entre dois perfis: pesquisador ou respondente. Ambos os perfis podem armazenar carac-
+teristicas, visualizar historico de questionarios acessados e suas recompensas. Entretanto,
+apenas o perfil de pesquisador pode acompanhar, publicar, remover, editar questionarios
+e acessar o conjunto de respostas geradas por eles.
+
+O perfil de respondente possui um conjunto maior de açoes disponiveis na plata-
+forma. Primeiramente, o perfil do respondente fornece caracteristicas que geram uma lista
+de recomendaçoes de questionarios, o que reduz o problema de encontrar o publico-alvo
+adequado para cada questionario. Os respondentes podem acessar questionarios de duas
+maneiras: por meio de um conjunto de questionarios gerais ou atraves de uma lista de
+recomendados gerados a partir de tags de interesse selecionadas durante o cadastro. Apos
+responderem os questionarios, os respondentes acumulam pontos permitindo o avanço do
+personagem no tabuleiro, o que incorpora o conceito de gamificaçao a aplicaçao.
+
+A medida que o usuario avança no tabuleiro e tem um senso de progresso advindo
+da visualizaçao dele ele passa por casas com e sem recompensas. Nas casas com re-
+compensas o usuario recebe mascotes que acompanham a personagem no tabuleiro ou
+horas complementares que ficam disponiveis para gerar certificado a cada 6 casas. A es-
+colha de tais recompensas foi alinhada com o que e comumente utilizado na gamificaçao
+e com os interesses do publico-alvo apontados durante a coleta de dados para o desen-
+volvimento da plataforma, visto que e importante oferecer recompensas que tenham valor
+para o contexto do publico a que ele se destina .
+
+De acordo com a hierarquia dos elementos de jogos , es-
+sas recompensas trabalham principalmente as categorias de mecanicas e componentes.
+As mecanicas sao processos que estimulam a açao e o engajamento do usuario, e sao
+alcançadas por meio de componentes que representam e sao implementados no sistema.
+Ja os componentes estao relacionados a intençao e ao proposito do sistema, ao grupo-alvo
+de usuarios e as ferramentas envolvidas.
+
+No Quests sao trabalhadas as missoes (responder questionarios especificos e cum-
+prir metas relacionadas) e badges. O elemento da dinamica e trabalhado a partir do seu
+progresso no tabuleiro e na associaçao com recompensas no mundo real. Para o presente
+momento, a recompensa do mundo real esta associada a possibilidade de estudantes uni-
+versitarios receberem comprovaçao de participaçao nas pesquisas relacionadas aos ques-
+tionarios que possam ser "trocadas por certificados de atividades de horas complementa-
+res para uso interno na Universidade e acessorios que sao conquistados atraves do avanço
+no tabuleiro. A dinamica de pontuaçao do quests e a troca do mesmo por recompensas e
+o que leva o usuario a sentir que progrediu no jogo, consequentemente contribuindo com
+a ciencia atraves das respostas em questionarios.
+
+Processo de Desenvolvimento
+
+O processo de desenvolvimento do Quests seguiu as quatro etapas do Design de
+Interaçao . Primeiro, para identificar como melhorar a motivaçao e
+o engajamento das pessoas com questionarios, foi necessario coletar informaçoes sobre
+aqueles envolvidos na distribuiçao e nas respostas desses questionarios. Realizamos essa
+coleta de dados por meio de um questionario que permitiu obter informaçoes sobre a
+experiencia de distribuiçao e participaçao em questionarios.
+
+A partir dessas informaçoes, foram criados perfis e personas, com suas respec-
+tivas principais dificuldades, interesses, motivaçoes e recompensas desejadas ao responder questionarios. Com base nas 108 respostas obtidas atraves do questionario, foram identificados dois perfis respondentes e pesquisadores com necessidades e objetivos especificos que fundamentaram a construcao do modelo conceitual da plataforma Quests 4. Em seguida, foi prototipada iterativamente a arquitetura da informacao e os principais fluxos de interacao 5.
+
+O modelo conceitual demonstra todas as funcionalidades pensadas para ambos os perfis. O prototipo e a implementacao, ate o presente momento, focam no perfil de respondente, para criar uma prova de conceito do funcionamento da plataforma e avaliar sua capacidade de promover engajamento e motivacao. Assim, as funcionalidades implementadas visam gerar motivacao nas pessoas para responder questionarios atraves da gamificacao.
+
+Foram implementadas as funcionalidades referentes ao perfil de respondentes, utilizando o sistema de gerenciamento de banco de dados MySQL, e a linguagem de programacao PHP, no back-end e ja no front-end foram usados a biblioteca de JavaScript React e o framework Bootstrap. Os usuarios podem fazer o cadastro no sistema, acessar seu perfil pessoal, visualizar o registro de recompensas e o progresso no tabuleiro. Eles tambem tem a opcao de gerar certificados de horas complementares, buscar questionarios, acessar links para responder questionarios e receber feedbacks sobre seu progresso no tabuleiro. Alem disso, podem gerar recomendacoes de questionarios e personalizar o personagem 6.
+
+
+Durante o processo de desenvolvimento do Quests, realizamos uma sessao de De-
+sign Critique. No Design Critique, os participantes avaliaram as interfaces da plataforma
+com o objetivo de encontrar pontos positivos e negativos quanto ao uso das 10 heuristicas
+de Nielsen . Os pontos negativos foram incorporados em correçoes para a
+nossa plataforma . Para a avaliaçao do Quests, realizamos o teste de usabilidade, onde
+aplicamos diferentes instrumentos de avaliaçao com os objetivos de identificar se a pla-
+taforma apresenta algum problema que afeta a experiencia do usuario e avaliar a adoçao
+da plataforma por eles. Atraves da analise dos resultados , foi possivel constatar que o
+Quests apresenta boa usabilidade e pode ser adotado pelos usuarios. Alem disso, iden-
+tificamos pontos de oportunidades de melhoria, que podem ser resolvidos em um breve
+redesign da plataforma.
+
+**CONCLUSAO**
+
+Dessa forma, buscamos com o Quests a criaçao de um ambiente interativo que
+colabore com a ciencia atraves do engajamento em respostas de questionario de pesquisa.
+Como trabalhos futuros, alem de trabalharmos na implementaçao do perfil de pesqui-
+sadores, planejamos, tambem, manter a plataforma atualizada atraves de expançoes do
+tabuleiro, novas recompensas que possam ser incorporadas ao mundo real e eventos, de
+uma forma que mantenha o usuario engajado e motivado.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho apresenta o Quests como uma plataforma inovadora e promissora para a distribuiçao de questionarios, que utiliza a gamificaçao como estrategia para aumentar o engajamento dos participantes. Os resultados obtidos ate o momento sao encorajadores, indicando que a plataforma possui boa usabilidade e potencial para ser adotada pelos usuarios. Em trabalhos futuros, a plataforma sera expandida com novas funcionalidades, como o perfil de pesquisadores e recompensas mais concretas, a fim de manter os usuarios engajados e motivados.

@@ -1,0 +1,206 @@
+Com mais de um ano de experiencias no ensino remoto, talvez, o
+questionamento mais recorrente que nos fazemos seja: como promover a
+interacao em nossas aulas remotas?
+Os desafios sao muitos
+e,
+as
+possibilidades, tambem. Neste artigo, apresentamos OS principais desafios que
+enfrentamos em termos de interacao com estudantes e mostramos estrategias e
+recursos que temos utilizado para promover a interacao humano-humano
+mediada por tecnologias computacionais. Nossos desafios sao, possivelmente,
+enfrentados por outras pessoas que estejam trabalhando no ensino remoto e
+nossas estrategias podem servir como ideias para serem aplicadas ou
+adaptadas a outros contextos.
+Quando falamos em educacao, estamos trazendo, em nossa fala, nao apenas os
+entendimentos que desenvolvemos sobre o que significa aprender e ensinar, mas
+tambem o que significa interagir. Esse entendimento de interacao, as vezes implicito,
+molda como organizamos nossas aulas, selecionamos nossas praticas e atividades,
+concebemos e executamos as avaliacoes e, principalmente, o modo como interagimos
+com nossos alunos e alunas.
+Fevereiro de 2020: Mais um semestre a iniciar, como tantos outros antes
+daquele. Os desafios didatico-pedagogicos tradicionais, como sempre, nos
+acompanhavam: como promover a interacao (participacao) dos alunos e alunas em aula,
+como desenvolver as diferentes habilidades (as tao faladas soft skills) que eles tanto
+necessitam em sua formacao , como trabalhar em prol do
+protagonismo desses alunos e alunas em sala de aula? Metodologias ativas [Filatro e
+Cavalcanti 2018; Mattar 2017], como aprendizado em pares, aprendizado baseado em
+projetos e em problemas, uso de jogos e de gamificacao, dentre tantas outras, seguiam
+em discussao e como base para o planejamento de acoes nesse cenario.
+Segunda quinzena de marco de 2020: A pandemia causada pelo COVID-19
+nos levou a um cenario de necessidade de aulas remotas e, com elas, alem dos ja
+mencionados desafios continuarem existindo, muitos deles ficaram ainda mais criticos e
+novos desafios surgiram. A obrigatoriedade do ensino remoto fez com que nossos
+entendimentos sobre o que significa interagir e aprender fossem questionados e
+revisitados e, com eles, que repensassemos todas as nossas estrategias de ensino e de
+atuacao como docentes.
+Mais de um ano depois: Passado mais de um ano de experiencias no ensino
+remoto experimentando diversas estrategias e lidando com problemas de natureza
+variada, talvez o questionamento mais recorrente que ainda nos fazemos seja: como
+promover a interacao em nossas aulas remotas? Este questionamento tem nos feito
+repensar e experimentar, discutir e refletir, e reinventar o modo como fazemos e
+entendemos nosso papel de docente.
+Assim, neste artigo, apresentamos desafios que enfrentamos em termos de
+interacao com estudantes e mostramos estrategias que temos utilizado para promover a
+interacao humano-humano mediada por tecnologias computacionais. Destacamos que
+esses desafios e estrategias sao baseados em nossa experiencia como docentes de
+disciplinas relacionadas a area de Interacao Humano-Computador (IHC), apesar de
+muitos deles, possivelmente, serem relevantes para o ensino remoto em geral.
+Esperamos que nossos apontamentos sirvam como ideias para serem aplicadas ou
+adaptadas a outros contextos ou provocacoes para se refletir sobre este cenario.
+Desde marco de 2021 temos atuado como docentes em disciplinas de IHC no formato
+totalmente remoto. Utilizando o ambiente virtual de aprendizagem (AVA) Moodle como
+uma das principais ferramentas de apoio, no contexto de uma universidade privada e
+uma universidade publica, temos experimentado diferentes formas de promover a
+interacao no ensino remoto. Abaixo, listamos 10 desafios que temos enfrentado:
+“Aparecer” pela primeira vez: discentes que comecam perdidos tendem a continuar
+perdidos ou a gastar muito tempo valioso tentando se situar. E comum que as pessoas
+tenham dificuldades em se localizar no inicio de cada periodo letivo devido a grande
+quantidade de disciplinas, ferramentas, formas de comunicacao e orientacoes de cada
+docente e das coordenacoes de curso. Se a pessoa perde o inicio das atividades, ela
+muito provavelmente enfrentara dificuldades para se situar e acompanhar o curso.
+Participar durante os encontros sincronos: promover a participacao efetiva das
+pessoas, seja por chat, voz, enquetes, etc. Se a participacao efetiva nao e alcancada, o
+encontro sincrono se torna uma sessao de “nick presente” e, potencialmente, uma sessao
+que poderia ser acompanhada pelas pessoas de forma assincrona.
+Ligar a webcam: a tao famosa solidao do docente que fica sozinho falando para uma
+tela. Essa solidao impacta na dinamica da aula, no retorno que o docente consegue obter,
+e nas possibilidades de interacao. Exigir o uso da webcam nem sempre e uma decisao
+possivel ou desejavel. Mas se o encontro sincrono oferece possibilidades para o uso da
+imagem, entao e preciso pensar em como favorecer esse uso.
+Interagir com colegas: conhecer e interagir com colegas da disciplina, nas aulas, em
+trabalhos, etc. Para muitas pessoas, o primeiro contato com outros discentes e docentes
+esta ocorrendo no formato remoto. A socializacao entre as pessoas tem um papel
+essencial para a qualidade da interacao e para o sentimento de pertencimento a um
+grupo, mas ela dificilmente e promovida em dinamicas de aula expositiva.
+Explorar e interagir com o conteudo: todo o conteudo, em grande variedade de
+formas e dinamicas, pode estar disponivel para acesso imediato, e ainda assim nao ser
+utilizado. Do mesmo modo que o conteudo nao sera “absorvido por osmose”, tambem
+nao ha como “maratonar” videos de aulas e nem absorver conteudos de uma grande
+variedade de fontes em pouco tempo.
+Continuar vindo as aulas: depois de aparecer e se ambientar, continuar vindo e
+participando das aulas remotas e um desafio, pois ha estudantes que se perdem no meio
+do caminho. Mesmo quando a participacao nos encontros sincronos nao e obrigatoria,
+ela e essencial para a conducao de aulas colaborativas e para a construcao do
+aprendizado de cada estudante.
+Tornar aulas intensas menos cansativas: aulas que tenham bastante conteudo podem
+se tornar dificeis de serem acompanhadas. Compreender conceitos, conhecer teorias e
+metodos, explorar ferramentas requer tempo e reflexao.
+Evitar plagios e copias: copia de conteudo online, de trabalho de colegas, etc., pode
+ser uma dor de cabeca. Identificar copias pode ser uma tarefa ardua para o docente, e
+penalizar a copia e lidar com o problema quando ele ja ocorreu. E preciso desincentivar
+a copia, torna-la menos interessante ou possivel de ser realizada.
+Acompanhar o andamento e progresso: a falta do contato presencial dificulta o
+acompanhamento e a discussao direta com os estudantes. AVAs oferecem recursos para
+ajudar a manter os compromissos e atividades em dia, para a correcao e feedback, e
+tambem para a analise da interacao do usuario. Mas esses recursos sempre oferecem um
+diagnostico limitado de comportamentos ou pontos especificos. Acompanhar o
+andamento e evolucao de cada estudante ao decorrer da disciplina, seu aprendizado,
+interesse, e as questoes pessoais envolvidas, e especialmente desafiador.
+Limitacoes tecnicas: indisponibilidade de conexao, problemas no computador ou
+celular, etc., sao comuns e dificultam a participacao discente e tambem docente. Parte
+substancial dos encontros sincronos pode ser perdida para realizar ajustes tecnicos,
+configurar sistemas, testar recursos. Frases como “alo, voces estao me ouvindo?” e
+“voces conseguem ver minha tela?” sao marcas da interacao no modo remoto e indicios
+da falta de feedback e awareness sobre a interacao que ocorre. Ao mesmo tempo, o uso
+de diferentes sistemas e recursos de interacao deve levar em conta as limitacoes tecnicas
+de hardware e software que as pessoas podem enfrentar. Se por um lado utilizar recursos
+variados pode promover a interacao e o dinamismo nas aulas, por outro, podem ser
+excludentes para pessoas com limitacoes de acesso.
+Considerando os desafios apresentados na secao anterior, discutimos, a seguir, as
+principais estrategias que temos utilizado, neste periodo, a fim de tentar enfrenta-los.
+Para melhor organizar estas estrategias, elas foram divididas em quatro grandes tópicos (a Figura 1 resume o relacionamento entre os desafios e as estrategias).
+Registro das aulas: tanto relacionado aos desafios de aparecer pela primeira vez,
+participar durante os encontros, e limitacoes tecnicas, o registro das aulas inclui
+diferentes estrategias. Para ambientacao a disciplina, e importante avisar onde (espaco
+virtual) a aula ocorrera (mensagem de boas vindas antes da primeira aula e registro
+perene no ambiente virtual) e video com informacoes de funcionamento da disciplina.
+Videos detalhando o conteudo/atividades de cada aula tambem sao importantes para
+estudantes que nao conseguem participar da aula ou para a retomada de algum ponto.
+Disponibilizar videos, via YouTube, facilita o acesso independente da banda de Internet,
+e o uso de playlists por disciplina organiza o acesso ao conteudo. Registrar as discussoes
+da aula de forma colaborativa pelos alunos presentes utilizando recursos colaborativos
+(documentos, planilhas, slides) e uma forma util de promover a construcao coletiva.
+Alternativas metodologicas: para promover a participacao durante os encontros,
+incentivar a ligar a camera, a interagir com os colegas e com o conteudo, continuar
+vindo as aulas e torna-las menos cansativas, utilizamos estrategias como:
+trabalhos em pequenos grupos: a distribuicao da turma em pequenos grupos,
+durante a aula, para realizacao de pequenas atividades relacionadas ao tema,
+permite nao apenas uma interacao mais proxima entre os estudantes, mas,
+tambem, que eles conhecam mais colegas. Para isso, podem ser utilizados
+recursos como a distribuicao aleatoria de grupos (com uso do breakout rooms do
+Zoom, por exemplo, ou mesmo diretamente via professor) ou a escolha
+“tematica", seja por preferencias pessoais (filmes, series, esportes, etc) ou por
+assunto (tema ou conceito a ser trabalhado), as quais podem ser feitas, por
+exemplo, por ferramentas de apoio .
+diferentes formas de interacao: “chamada” aos alunos a participar, seja apenas
+"levantando a mao virtualmente”, participando de enquetes como o pool do
+Zoom, o Mentimeter, quizzes com uso do Kahoot (este ultimo, em nossa
+experiencia, foi utilizado para revisao e discussao de conceitos, ao final de cada
+unidade programatica), etc.
+uso de dinamicas como painel ou bate-bola, que promovem o protagonismo
+distribuido. Se o objetivo e que os estudantes participem, entao a dinamica deve
+ser participativa, envolvendo a discussao e o trabalho colaborativo durante as
+sessoes sincronas.
+criacoes colaborativas; com uso de ferramentas como Google Docs ou Slides,
+por exemplo, ou uso de Wikis, seja para discussao/construcao acerca de algum
+tema/conceito especifico ou para resumo das discussoes feitas na aula. Uma
+forma utilizada, por exemplo, foi a criacao de textos colaborativos a partir da
+leitura de artigos relacionados ao tema de Etica em IHC.
+jogos: sejam estes criados pelo professor para uso pela turma ou pelos proprios
+alunos e alunas . Por exemplo, o Moodle
+oferece jogos baseados em perguntas e respostas que podem ser criadas pelos
+estudantes e revisadas/refinadas pelo docente.
+cases para discussao e trabalho conjunto on-the-fly: ao falar sobre um metodo de
+avaliacao, por exemplo, aproveitar que todas as pessoas estao conectadas e
+conduzir uma sessao de avaliacao online, registrando os problemas, discutindo
+solucoes etc. O Thinking Aloud, por exemplo, e o famoso “reactions” em que as
+pessoas reagem na medida em que exploram um produto ou sistema, e pode ser
+uma dinamica muito boa para ser conduzida em uma sessao sincrona com os
+alunos. Uma aula sincrona faz sentido quando sua essencia e viver uma
+experiencia unica, que so pode ser experimentada ali, naquele momento, de
+forma sincrona e participativa.
+enunciados: cuidado com a criacao de enunciados de atividades e trabalhos que
+permitam a reflexao do aluno e nao sejam facilmente encontrados em
+("copiaveis" de) outras fontes ou dos proprios colegas. Os trabalhos tambem
+precisam ser elaborados de tal modo que cada estudante desenvolva sua
+experiencia e reflexao. Exemplo: mesmo ao solicitar um resumo de uma leitura,
+esse pode ser discutido em relacao a experiencias vividas pelo estudante.
+Incentivos: diferentes formas de incentivo podem ser utilizadas, alem das alternativas
+metodologicas anteriormente citadas, tanto para promover a participacao durante os
+encontros, incentivar a interagir com os colegas e com o conteudo e a continuar vindo
+as aulas, como:
+incentivar que a turma tenha um canal mais informal de comunicacao (entre
+eles), como grupos de Whatsapp ou Telegram, canal do Discord, etc.
+organizar "cafes” para discussao e conversa sobre temas especificos: convidar
+estudantes para sessoes extras de bate-papo sobre temas especificos (conteudos
+da disciplina, series de ficcao cientifica, leituras, vida na graduacao ou
+pos-graduacao, etc.). Esse tipo de encontro promove a socializacao e a
+participacao que dificilmente ocorre durante as aulas.
+recursos de gamificacao : pontuacao a cada atividade realizada
+para incentivar a participacao continua; leaderboards (nao identificados) para
+registrar os pontos acumulados; transformacao dos pontos em beneficios;
+emblemas tematicos relacionados a diferentes conceitos/topicos, por exemplo.
+Acompanhamento: principalmente com foco em acompanhar o andamento e o
+progresso dos estudantes e, assim, incentivar que continuem vindo as aulas, alem da
+analise da interacao sincrona (participacao durante as aulas), temos utilizado recursos
+que nos permitem acompanhar a trajetoria dos alunos de outras formas. Os relatorios de
+acesso oferecidos pelo Moodle (AVA utilizado por ambos docentes), por exemplo, nos
+permitem acompanhar o acesso aos recursos e atividades, logs de interacao, etc.
+Recursos como leaderboards, no qual registramos as atividades dos alunos, tambem nos
+permitem acompanhar esta participacao e “presenca” na disciplina, mesmo que nao
+sincronamente. Diagnosticada, por exemplo, a ausencia do aluno, formas de contato
+com ele via AVA, via email e outros canais do Curso e da Universidade, sao formas de
+tentar chama-lo a conversar, entender seu contexto atual, pensar conjuntamente em
+formas de apoia-lo, tentando, assim, resgata-lo de volta a disciplina.
+Interacao Humano-Computador. Interacao Humano-Humano, cada vez mais, mediada
+por tecnologias computacionais. Mais de um ano de vivencia do ensino remoto nos
+trouxe muitos desafios e nos permitiu (mesmo que forcados a) experimentar novas
+estrategias para resolver (nao tao) novos desafios.
+Como pode ser visto na secao 3 (e visualmente bastante destacado na Figura 1),
+o maior numero de estrategias esta associado a alternativas
+metodologicas. Repensar
+nosso papel docente e nossas abordagens em sala de aula e essencial para permitir uma
+real presenca e interacao dos estudantes seja conosco, com o conteudo e/ou com os
+colegas. E este e o maior dos desafios atuais da docencia, seja ela remota ou presencial.
+Com o compartilhamento de nossas experiencias, esperamos, principalmente, promover
+uma maior reflexao sobre este cenario.

@@ -1,0 +1,195 @@
+**INTRODUCAO**
+
+A tecnologia ubiqua propoe contribuir com as pessoas no cumprimento nao somente de exigencias
+profissionais, mas tambem tarefas do dia a dia . Weiser idealizou esse paradigma
+quando conceituou uma tecnologia capaz de estar presente na vida do usuario de maneira que ela
+fizesse parte do cotidiano dele naturalmente . Assim, as ideias de conectividade,
+pervasividade e disponibilidade levaram ao que e conhecido hoje como Internet das Coisas (IoT),
+isto e, um conjunto de itens inteligentes que utilizamos no nosso cotidiano e estao conectados a
+internet para oferecer aplicaçoes mais pertinentes .
+
+A ideia basica da IoT e permitir a troca autonoma de informaçoes uteis entre diferentes
+dispositivos do mundo real invisivelmente incorporados e identificaveis de maneira unica ao nosso
+redor para qualquer plataforma virtual existente na infraestrutura da internet .
+Dessa forma, os sensores dos dispositivos IoT desempenham um papel muito importante, visto que eles coletam dados do ambiente, tornando-se necessario capacitar os computadores para coletar informacoes de maneira independente, simulando sentidos como a visao e audicao. 
+
+Na avaliaçao da Experiencia do Usuario (UX) em dispositivos IoT, ha desafios decor-
+rentes da natureza multiplataforma das interaçoes, bem como da interconexao entre dispositi-
+vos, serviços e usuarios . E pre-
+ciso, portanto, considerar suas caracteristicas peculiares na avaliaçao da UX nos dispositivos IoT
+. Na Interaçao Humano-Computador (IHC), existem metodos tradicionais
+de avaliaçao que funcionam bem para esses dispositivos, e outros metodos que foram feitos para
+abordar suas caracteristicas especificas, como a avaliaçao heuristica com heuristicas especificas
+para dispositivos ubiquos e IoT . Ha tambem o CHASE , um
+checklist para facilitar a avaliaçao da UX em cenarios IoT.
+
+O objetivo do presente trabalho e avaliar a usabilidade e experiencia do usuario (UX) do
+Kit Plantinha IoT¹, da marca MarkerHero, uma empresa brasileira que se destaca pela aplicaçao
+da cultura maker, com a combinaçao de eletronica e impressao 3D em seus produtos. O vaso IoT e
+projetado para auxiliar no cuidado das plantas. Por ser baseado em internet das coisas, monitora a
+saude das plantas a partir de tres sensores que mensuram temperatura, luminosidade e umidade do
+solo. As necessidades da planta sao apresentadas em um display LCD com mensagens especificas
+para cada uma delas. Para avaliar a usabilidade e a experiencia de usuario do kit, foram adotados
+os metodos: teste de usabilidade com questionario pos-teste, diario de usuario  e avaliaçao heuristica com as heuristicas de  (Hubis). Combinando esses metodos,
+foi possivel obter uma compreensao abrangente sobre a usabilidade e a experiencia do usuario ao
+interagir com o vaso inteligente.
+
+
+
+**CONCLUSAO**
+
+Este artigo apresentou a avaliaçao da usabilidade e da experiencia do usuario no kit Plantinha
+IoT. Destaca-se a relevancia do uso combinado de metodos de avaliaçao de naturezas distintas
+e complementares, o que viabilizou a analise das particularidades do dispositivo IoT. No caso
+do kit, por exemplo, a combinaçao dos metodos demonstrou eficiencia nao apenas por abordar
+problemas similares, mas principalmente por cada abordagem revelar problemas especificos.
+
+Uma liçao de extrema importancia e considerar a diversidade de contextos de uso. Dis-
+positivos IoT encontram aplicaçao em uma ampla variedade de ambientes e cenarios. E essencial
+contemplar essa multiplicidade ao avaliar a usabilidade, uma vez que as interaçoes podem diferir
+significativamente conforme o contexto especifico. No kit essa diversidade de contextos permi-
+tiu aos avaliadores observarem problemas que so poderiam ser vistos pela mudança natural de
+contexto, como na questao da temperatura e a mudança de ambiente para um climatizado. Ainda
+sobre o contexto, uma limitaçao percebida no teste de usabilidade foi sua imprecisao contextual,
+visto que as situaçoes do teste sao simuladas em um ambiente controlado. No entanto, o diario
+de usuario conseguiu compensar essa simulaçao, pois os usuarios utilizaram o sistema na propria
+vivencia.
+
+Sobre as tecnicas, a equipe notou que o teste de usabilidade mostrou questoes relaciona-
+das nao so a usabilidade, mas tambem a experiencia de usuario, visto que o teste era feito com
+usuarios reais e os pesquisadores perguntavam sobre como se sentiam em determinada resposta
+do dispositivo. Ja a avaliaçao heuristica demonstrou mais problemas relacionados aos sensores
+e o processamento dos dados, o que tambem justificou algumas questoes sobre a experiencia do
+uso observadas no teste de usabilidade. A tarefa mais dificil foi a T1, pois havia um grau de difi-
+culdade em entender o que a planta precisava para se chegar ao estado ideal, e tambem nas outras
+tarefas houve tambem desafios para conclui-las, pois a planta estava mudando constantemente de
+estado, muitas vezes de forma imprevisivel. Em alguns casos, nao era possivel deixa-la no estado
+demandado pela tarefa para que o usuario pudesse completa-la.
+
+Do diario de uso, destacam-se alguns problemas encontrados pelos pesquisadores:
+comunicaçao e visualizaçao de informaçoes; problemas de hardware; falhas de conectividade.
+Os problemas com os sensores, bem como a falta de avisos e feedbacks, dificultam alcançar o
+estado "Feliz"— onde todas as tres condiçoes estao satisfeitas. Isso pode ser o motivo para a difi-
+culdade de completar a T1, evidenciada na avaliaçao heuristica e teste de usabilidade. O fato de a
+planta mudar constantemente de estado pode ser influencia da instabilidade do sensor, que altera
+as informaçoes apresentadas no LCD e na interface do BlynkIoT, dificultando a compreensao do
+estado verdadeiro da planta, problema detectado tambem na T2 do teste de usabilidade. Para uma
+boa experiencia, e fundamental assegurar que os usuarios compreendam o estado e as açoes do
+dispositivo. No kit, a falta de um feedback positivo ao mitigar a necessidade da planta afetou a
+experiencia do usuario, questao tambem identificada pelos pesquisadores durante o uso do diario.
+Ademais, em relaçao ao feedback multissensorial, e importante notar que certos dispositivos IoT
+podem abranger interaçoes que transcendem as interfaces visuais e tateis usuais, abrangendo ele-
+mentos como audio e feedback haptico. Durante a avaliaçao, e crucial considerar como essas
+formas de feedback sao integradas a experiencia do usuario.
+
+Sobre as dificuldades, destaca-se a quantidade de participantes na avaliaçao heuristica, a
+disponibilidade de mais sistemas operacionais diferentes para o aplicativo e a limitaçao na area
+da rede que nao permitia os participantes se locomoverem livremente. Por fim, a configuraçao
+inicial de dispositivos IoT, como ilustrado pelo desafio enfrentado com o kit, por vezes pode se
+tornar intrincada. Avaliar abordagens que possibilitem uma configuraçao mais acessivel e intuitiva
+desempenham um papel fundamental na garantia de uma usabilidade eficiente.
+
+Como resultado das avaliaçoes realizadas, concluiu-se que o Kit Plantinha IoT apre-
+senta muitos problemas de usabilidade, levando a uma experiencia de usuario confusa e frus-
+trante. Foram detectados principalmente problemas de comunicaçao e ausencia de informaçoes
+aos usuarios, o que acaba por ocasionar duvidas e interpretaçoes erroneas. Alem disso, o kit
+tambem apresentou problemas de conectividade, com a rede wi-fi, e sincronizaçao com o aplica-
+tivo BlynkIoT, prejudicando ainda mais a experiencia do usuario.
+
+O kit Plantinha IoT e composto por um vaso de plantas, baseado em Internet das Coisas em conjunto com um aplicativo. O vaso, atraves de sensores de temperatura, luminosidade e umidade, em conjunto com o modulo de WiFi ESP8266 NodeMCU, busca auxiliar os seus usuarios no cuidado com o cultivo de plantas. A ideia geral por tras do kit e comunicar as condicoes da planta, simulando seus possiveis sentimentos. Essas condicoes sao influenciadas por fatores ambientais externos (luminosidade e temperatura) e internos (umidade do solo). O vaso e as reacoes podem ser vistos na Figura 1.
+
+O sensor de umidade do solo e utilizado para auxiliar na rega adequada, o sensor de temperatura busca informar sobre um clima adequado e, por fim, o sensor de luminosidade informa ao usuario quando ajustes na iluminacao sao necessarios. Um display LCD TFT 1,8 mostra informacoes como umidade do solo, temperatura, luminosidade e condicao geral da planta.
+
+Atraves do aplicativo movel BlynkIoT o usuario pode monitorar o vaso inteligente a distancia, proporcionando, teoricamente, um maior controle do estado da planta. Por meio do display LCD e possivel visualizar o estado da planta, sempre representado por uma "carinha" e uma frase. Por exemplo, quando a umidade do solo esta baixa, aparece um rosto com aspecto esbaforido, com a "lingua de fora" e com a frase "Que seeeeeeede! Me da agua?". Sao, ao todo, sete possibilidades de reacoes.
+
+Para alem do suporte ao cultivo de plantas, o kit Plantinha IoT procura proporcionar aqueles que adquirem o produto, de forma pratica, conhecimentos referentes a programacao em Arduino e nas linguagens C/C++, a manipulacao de sensores, exploracao de conceitos de projetos que envolvam sistemas IoT e tecnicas de solda de circuitos eletronicos.
+
+A Figura 2 apresenta a metodologia adotada neste estudo. Ela foi dividida em cinco etapas e serao explicadas mais detalhadamente nas proximas secoes. A ultima etapa e apresentada na secao 4 (Resultados e discussoes).
+
+Para a realizacao das avaliacoes, houve uma configuracao inicial do vaso IoT (Figura 3). A configuracao se deu primeiramente no hardware com o encaixe do sensor de luminosidade alocado no pe direito e o sensor de pressao no pe esquerdo do vaso. O display foi encaixado na parte central da frente do vaso, enquanto a placa de controle foi alocada na parte interna. As conexoes foram feitas com o auxilio de jumpers. Para alocar no vaso, foi adicionada uma tampa para que o circuito fosse coberto, e em seguida foi adicionado um recipiente com a planta selecionada.
+
+A nivel de configuracao de software, o codigo e disponibilizado para ser ajustado na plataforma arduino onde sao configurados o Wi-Fi e o tipo de planta a ser monitorado. Sao disponiveis ate 5 tipos de configuracao para monitoramento das plantas, que sao: Suculentas, Cactos, Rosas, Begonias e Espada de Sao Jorge. Para as avaliacoes nesse estudo, o kit foi configurado para Suculentas.
+
+Foram, entao, escolhidos tres metodos para avaliar o kit Plantinha IoT: a Avaliacao Heuristica; o Diario de usuario e o Teste de Usabilidade, seguido de um questionario.
+
+O objetivo geral e apresentar o que cada metodo identifica de problemas de usabilidade e experiencia do usuario no produto. Alem disso, para garantir a realizacao dos estudos envolvendo usuarios, foram observadas as preocupacoes eticas, seguindo as diretrizes da Resolucao 466/2012, do Conselho Nacional de Saude (CNS), com a apresentacao e assinatura do termo de consentimento.
+
+A avaliacao heuristica foi escolhida pela necessidade, entendida pelo grupo, de ter uma visao geral sobre o dispositivo, almejando adquirir uma maior compreensao do objeto em analise, antes de iniciar os testes com os usuarios.
+
+Para esta avaliacao, considerou-se as 15 heuristicas de [Rocha 2017]. Destas, 10 sao inspiradas nas heuristicas de Nielsen (com os mesmos nomes) e 5 sao especificas para o contexto de sistemas ubiquos. Sao elas: HU11 - Mobilidade e dispositivos, HU12 - Privacidade e seguranca, HU13 - Invisibilidade e transparencia, HU14 - Consciencia de contexto e interfaces adaptativas e HU15 - Sensores e entrada de dados.
+
+Houve a participacao de 5 avaliadores, um utilizou o sistema iOS, e o restante o Android. Todos os avaliadores possuiam experiencia com Avaliacao Heuristica e a inspecao foi realizada por cada um em um periodo minimo de tres dias.
+
+Para guiar a avaliacao heuristica, foram definidas um conjunto de sete tarefas a serem cumpridas: T1 - Verificacao de condicoes ideais; T2 - Atendimento a sede da planta; T3 - Evitar excesso de agua; T4 - Reagir ao calor; T5 - Reagir ao frio; T6 - Lidar com a falta de luz e T7 - Reduzir a luz excessiva. As mesmas tarefas foram adotadas no Diario de usuario e no Teste de usabilidade.
+
+Durante a avaliacao heuristica, percebeu-se a necessidade de registrar as observacoes, obtidas pelos pesquisadores, de forma mais estruturada. Isto posto, foi adotado como tecnica de registro o Diario de Usuario [Preece et al. 1994], um metodo de pesquisa qualitativa, normalmente utilizado para coletar atividades, experiencias e dados comportamentais do usuario ao longo do tempo.
+
+Neste trabalho — de forma inabitual — o diario foi utilizado para registrar as experiencias e descobertas de dois dos pesquisadores, enquanto esses realizavam a avaliacao do Kit Plantinha IoT.
+
+De inicio, definiu-se o tipo de diario que seria utilizado, um conjunto de anotacoes diarias, com duracao de quatro dias, contendo — essencialmente — as seguintes informacoes: as acoes realizadas; a hora de realizacao; o estado inicial informado pelo visor LCD; o estado posterior a acao, tendo ou nao alguma alteracao. Os registros foram feitos em papel, alem de prints da interface do aplicativo BlynkIoT. Ao final das etapas de avaliacao, ocorreu uma sintese das informacoes registradas pelos dois pesquisadores evidenciando problemas de usabilidade durante a utilizacao do produto.
+
+O teste de usabilidade, normalmente utilizado para alcancar resultados quantitativos, foi, neste trabalho, utilizado com uma abordagem qualitativa. O objetivo estabelecido foi avaliar a usabilidade do vaso, mais especificamente a facilidade de aprendizagem, a partir do feedback na tela de LCD e das informacoes no aplicativo. Os usuarios-alvo foram pessoas com idade acima de 18 anos, que cuidam de plantas e se preocupam com a saude delas. As metricas consideradas para a execucao do teste foram: (i) quantidade de tempo para realizar a tarefa; (ii) numero de vezes que o usuario solicitou ajuda; e (iii) quantas tarefas foram completadas.
+
+O planejamento e a execucao do teste seguiram o seguinte roteiro: inicialmente, os pesquisadores se apresentaram para os participantes. Depois, eles explicaram a proposta do vaso inteligente e do aplicativo BlinkIoT, e o objetivo do teste. Em seguida, foi feita a leitura do Termo de Consentimento junto com os participantes, e eles assinaram o termo. Apos isso, o teste foi aplicado, e por ultimo, os participantes responderam um questionario pos-teste.
+
+O teste de usabilidade foi realizado com 10 pessoas, 8 homens e 2 mulheres. Eles foram convidados por conveniencia, e cada participante teve que realizar as mesmas tarefas propostas para a avaliacao heuristica. Para o teste, o aplicativo BlinkIoT foi instalado no proprio aparelho dos participantes, sendo 7 Android e 3 IOS. Nas configuracoes de rede do vaso inteligente utilizou-se o roteador do proprio celular nos testes. A duracao do teste ocorreu em torno de 30 a 40 minutos, dependendo de como a planta reagia.
+
+Depois do teste, foi disponibilizado um questionario pos-teste de forma online, pela plataforma do Google Forms, para coletar as percepoes dos usuarios a respeito do produto, que poderia ser respondido posteriormente. No questionario foram feitas dez perguntas voltadas as impressoes, facilidades e desafios na experiencia com o kit.
+
+Houve um total de 31 problemas de usabilidade identificados, tanto nos sensores, quanto no LCD e aplicativo. 16 desses problemas reportados mencionaram falhas no vazo (sensores e LCD) enquanto 15 mencionaram o aplicativo e 5 apenas os sensores. As heuristicas mais recorrentes foram HU1 (Visibilidade do status do sistema), HU3 (Controle e liberdade do usuario), HU13 (Invisibilidade e Transparencia) e HU15 (Sensores e entradas de dados). O relato de todos os problemas pode ser encontrado no documento suplementar.
+
+Um dos principais motivos de violacao da HU1 foi devido a falta de informacao sobre quais sao os padroes ideais de luminosidade, umidade e temperatura. Outro fator que contribuiu foi que ao suprir uma necessidade da planta, o visor LCD muda a mensagem para o proximo problema a ser resolvido, nao dando nenhum feedback ao usuario se a necessidade anterior foi suprida devidamente, o que pode confundir o usuario. Isso poderia ser solucionado com uma simples mensagem de "Obrigado!". Ja a violacao da HU3 se deu porque o usuario nao consegue ter total controle sobre os efeitos gerados. Devido a falta de informacoes (sinalizacoes) e instabilidade de alguns sensores (umidade), as acoes do usuario nao conseguem ser totalmente livres, o que dificulta, por exemplo, a retomada de valores anteriores, pois e dificil saber quais condicoes levaram a eles.
+
+A justificativa do HU13 e porque seus componentes computacionais estavam expostos, seu sensor de umidade e espetado na terra. E por fim, a frequencia da violacao do HU15 se deu porque seus sensores eram instaveis, o que faziam com que os usuarios nao confiassem no que era apresentado no aplicativo. Por exemplo, o sensor de umidade tem alcance local limitado. O sensor nao detecta a umidade total da terra, isso faz com que os dados sejam constantemente alterados, nao possuindo exatidao na medicao. Esse problema pode levar o usuario a interpretacoes erroneas do estado da planta, visto que a leitura da umidade e facilmente alterada por conta do sensor, dificultando alcancar o seu estado ideal.
+
+O estudo de diario durou 4 dias para cada participantes. Ambos realizaram as avaliacoes em sistemas Android. P1 fez uso apenas de papel para registrar as suas observacoes, enquanto P2 utilizou papel e prints da interface do aplicativo.
+
+As atividades cumpridas para gerar as anotacoes foram reutilizadas da avaliacao heuristica. De modo geral, os resultados obtidos foram negativos. P1 relatou ter dificuldades em acessar o aplicativo Blynk IoT, inicialmente tentou conectar a rede wi-fi manualmente, clicando no botao "conect manually" e, mesmo ja estando conectado, a respostas devolvida foi "conexao falhou, tente conectar manualmente.". P2, ao fazer a atividade, nao detectou problemas ao acessar o app, pois ambas as interfaces — do app e do vaso — responderam de maneira adequada.
+
+P1 destaca ainda que a conexao com a rede wi-fi e confusa e que, devido a isso, pensou que os problemas de conectividade poderiam estar ligadas ao hardware do Kit, trocando partes como o cabo USB, a fonte de energia e o notebook.
+
+Eventualmente, P1 conseguiu acessar o aplicativo e sincroniza-lo com o vaso, aparecendo no visor LCD a mensagem "Que seeeeeeede! Me da agua?", olhando as informacoes do app, a umidade estava em 36%, apresentando condicoes ideais para a atividade 2. Ao tentar cumpri-la, P1 adicionou pequenas quantidades de agua, fazendo a umidade alcancar 52%. A mensagem emitida no LCD, como resposta, foi "Ai! Que calor! esta muito quente". P2, ao deparar-se com situacao semelhante — umidade inicial de 35% — adicionou agua, fazendo a porcentagem chegar em 62%, tendo como resposta no LCD a frase "Argh! Estou enjoada! nao quero mais agua".
+
+P1, ao deparar-se com o aviso de calor, tentou amenizar a temperatura — que encontravase em 35% — adicionando mais agua. Contudo, P1 recebeu como resposta "Argh! Estou enjoada! nao quero mais agua". Chegou-se a conclusao que a temperatura nao e afetada pela adicao, ou nao, de agua no substrato. O aviso de calor tornou a aparecer apos a umidade do solo reduzir.
+
+P1 relata nao ter conseguido resolver o problema com a temperatura, mesmo tendo passado horas desde que o aviso fora emitido, nao sabendo como deixa-la em estado ideal.
+
+P2, com a planta nas condicoes ideais, iniciou a terceira tarefa. Foram feitas alteracoes no local do sensor de umidade, o que acarretou em mudancas na porcentagem apresentada pelo aplicativo. P2 concluiu que quanto mais fundo o sensor e colocado no substrato, maior e a taxa de umidade detectada, que pode ser ocasionada pelo acumulo de agua na base da planta. Notou-se, tambem, que a umidade parece estar ideal quando alcanca niveis entre 40% e 59%.
+
+P1 e P2, ao estarem em locais escuros ou de baixa luminosidade — cerca de 470lx no medidor do aplicativo — receberam o aviso de "Cuidado! Sem luz vou virar uma vampira", dessa forma iniciaram a tarefa 6. Para solucionar o problema, ambos posicionaram o sensor de luminosidade em direcao a uma fonte de luz, o que acarretou em mudancas na porcentagem. Em alguns momentos, a luminosidade alcancou o seu apice (9999lx), todavia o LCD permaneceu inalterado nos dois casos, quando, na verdade, deveria apresentar "Olha esse Sol! Cade o protetor solar?".
+
+A respeito da atividade 1, P1 nao foi capaz de conclui-la, pois nao conseguiu tornar todas as necessidades equilibradas. Por outro lado, P2 conseguiu realiza-la com sucesso, tendo como resposta do vaso a mensagem "Hum! esta tudo perfeito. Obrigada!". E importante relatar que P1, apos a conclusao da atividade, aumentou a quantidade de luz, chegando a 9999lx — atraves de meios artificiais — com o objetivo de alcancar a mensagem "Olha esse Sol! Cade o protetor solar?". Entretanto, a mensagem exibida no LCD nao foi alterada e permaneceu indicando que todas as caracteristicas estavam ideais.
+
+Foram registradas, ao todo, 57 observacoes, revelando cinco principais problemas observados. A ausencia de mensagens de ajuda, prevencoes de erro, dicas ou informacoes complementares ao humor da planta dificultou a capacidade do usuario de atender as necessidades da planta de forma eficaz. Alem disso, a ausencia de feedback positivo ao mitigar alguma das necessidades da planta resultou em uma experiencia menos satisfatoria, pois o usuario nao recebia confirmacao de sucesso em suas acoes.
+
+Outro problema significativo foi a instabilidade no sensor de umidade, que ocasionalmente parecia estar descalibrado, levando a uma coleta e visualizacao de dados duvidosos. Ademais, as dificuldades na sincronizacao do aplicativo BlynkIoT com o vaso do kit complicaram a utilizacao do produto, gerando uma experiencia de uso negativa para os usuarios.
+
+Por fim, a ausencia de marcadores no aplicativo BlynkIoT, que facilitassem a compreensao dos intervalos em que as tres condicoes da planta (luminosidade, temperatura, umidade) estavam com as necessidades satisfeitas, tornou desafiador para os usuarios determinar quando as condicoes ideais para a planta estavam sendo alcancadas. Essas questoes precisam ser abordadas para melhorar a qualidade geral do produto.
+
+A execucao do Teste de Usabilidade ocorreu em ambiente controlado. Para descrever os problemas que ocorreram, foi analisada cada tarefa e como o usuario conseguiu alcancar o objetivo final.
+
+O perfil dos participantes do teste de usabilidade esta descrito na Tabela 1.
+
+Foram encontrados um total de 17 problemas de usabilidade. Na primeira tarefa (T1), o tempo para conclusao foi entre 6 e 20 minutos, pois os usuarios nao conseguiram chegar ao estado no qual o LCD exibe a mensagem de que as condicoes estao ideais. Posteriormente, 3 usuarios alcancaram o estado ideal, porem nao foi na execucao da T1, e sim em outras tarefas. Os usuarios relataram que nao conseguiram enxergar os padroes ideais da planta, e tambem comentaram que o aplicativo poderia ajudar a cuidar da planta dando dicas e principalmente apresentando o intervalo adequado de luminosidade, umidade e temperatura no aplicativo. Isso pode ser relacionado as heuristicas de visibilidade e estado do sistema e prevencao de erros (ja que o usuario pode erroneamente, por exemplo, colocar mais agua do que a planta necessita). Outro ponto em destaque e o aplicativo nao ter nenhum tipo de notificacao, o usuario so consegue ver o que a planta necessita se observar o LCD. Esta foi inclusive uma sugestao dada por alguns dos participantes, de gerar notificacoes no aplicativo quando a planta tiver com alguma necessidade.
+
+Na T2, o tempo medio foi de 2 minutos. Os principais problemas encontrados foram em relacao ao sensor de umidade, pois ele era impreciso e nao capturava a umidade da terra de todo o vaso. Muitos usuarios so conseguiram realizar essa atividade tirando o sensor de umidade do solo ou colocando-o em uma parte seca da terra. Na T3, o tempo medio foi de 2 minutos. O principal problema encontrado foi sobre o sensor de temperatura, pois como estava na parte inferior, estava capturando a temperatura do fundo do vaso, ou seja, sofrendo influencia da superficie sobre a qual o vaso estava, o que poderia nao corresponder a temperatura ambiente, ja que a superficie poderia ter recebido muito Sol, tornando-a mais quente. Todos os usuarios conseguiram realizar a tarefa.
+
+Na T4, o tempo medio foi de 1 minuto. O principal problema encontrado foi sobre a posicao dos sensores de temperatura e luminosidade. Alguns usuarios expuseram a planta ao Sol e perceberam que a luminosidade pode nao ser muito bem capturada se o sensor estiver na sombra. Todos os usuarios conseguiram realizar essa tarefa, houve problemas de sincronizacao da temperatura, principalmente no iOS, pois em alguns casos o aplicativo apontava 85º C (temperatura maxima do sensor), mesmo estando em um ambiente com ar-condicionado. Na T5, o tempo medio foi de 2 minutos. O principal problema encontrado foi a sincronizacao dos sensores com os dados do aplicativo. Isso pode ter acontecido devido a conexao com a internet. Todos os usuarios conseguiram realiza-la, e e possivel associar os problemas com as heuristicas como sincronicidade e sensores e entradas de dados. Todos os usuarios conseguiram completar esta tarefa.
+
+Na T6, o tempo medio foi de 3 minutos, pois o vaso demorava um pouco para reagir a falta de luz. O principal problema encontrado foi sobre o sensor de luz, pois os usuarios conseguiram modificar os parametros de luminosidade do aplicativo utilizando a luz da lanterna do celular diretamente no sensor, o que pode nao ser ideal para a planta, ja que ela deve receber luz do Sol, e nao artificial. Todos os participantes conseguiram realizar a tarefa.
+
+Por fim, na T7, o tempo medio foi de 3 minutos. O principal problema encontrado foi sobre a conexao e a sincronizacao dos dados capturados pelos sensores e apresentados no aplicativo. No dispositivo iOS houve uma demora maior em comparacao com o Android. Alem disso, o LCD do vaso algumas vezes nao apresentava nenhum estado da planta, e isso se dava pela queda de internet. E possivel acessar online a lista completa de problemas identificados com sugestoes de solucao por meio do teste de usabilidade, juntamente com as telas que foram analisadas.
+
+As primeiras impressoes dos usuarios em relacao ao produto indicaram uma combinacao de curiosidade, interesse, duvidas e algumas preocupacoes tecnicas. Como e o caso dos usuarios U1 "Achei interessante ver como um aparelho, aparentemente simples, possui uma funcionalidade tao complexa e permite que o usuario (aquele que cuida da planta) possa entender o que a planta precisa."e U2 "Inicialmente super gostei, a proposta e bem interessante, principalmente por conta das interacoes e feicoes que o sistema apresenta". A proposta de interacoes e expressoes do sistema gerou entusiasmo, despertando o interesse e curiosidade por parte dos usuarios sobre o funcionamento do produto, como declararam os usuarios U6 "Eu achei muito fofinha, e fiquei curioso para saber como funciona", U9 "Tive uma impressao positiva, apesar de ter sido estranha ao primeiro momento, mas fiquei bem curioso de como seria a interacao"e U4 "Curiosidade e duvida"ao responderem a pergunta "Qual foi a sua impressao inicial ao interagir com o Kit Plantinha em IoT e o seu aplicativo?".
+
+Ao se deparar com a pergunta "Durante a interacao com o vaso, voce enfrentou algum problema ou obstaculo? Se sim, por favor, descreva". Alguns usuarios acharam o aplicativo confuso devido a falta de metricas especificas, desejando informacoes claras sobre as condicoes ideais para a planta como relatam os usuarios U1"Devo confessar que eu achei que seria mais simples interagir e cumprir as tarefas do teste com a plantinha. O aplicativo nao me fornecia os parametros adequados para a planta, so me mostrava os niveis em tempo real enquanto o vaso inteligente reclamava sobre a temperatura, umidade e luminosidade. Se o aplicativo indicasse os numeros adequados seria mais facil de encontrar um ambiente ideal para a planta. Fiquei um pouco impaciente"e U5 "Achei o aplicativo um pouco confuso pelas faltas de metricas, tipo: "O ideal de sol e a XXXXX"; "A temperatura ideal e XX°C".
+
+Quando questionados sobre a integracao do Kit Plantinha IoT em suas rotinas, houve uma diversidade de respostas. Dos participantes, 50% concordaram em integra-lo , 25% concordaram totalmente e 12,5% expressaram neutralidade ou discordancia total, o que demonstra uma variedade de experiencias dos usuarios.
+
+Foi identificado que a maior queixa dos usuarios em relacao ao produto esta relacionada a falta de parametros predefinidos para luminosidade, temperatura e umidade. Isso tornou a experiencia dificil para os usuarios oferecerem o ambiente ideal para a planta, resultando em frustracao e esforcos consideraveis para encontrar as configuracoes corretas. Em resumo, os usuarios enfrentaram dificuldades em calibrar o sensor, interpretar feedbacks, visto que eles faziam o que era pedido pelo produto e, principalmente, ajustar as condicoes ideais da planta devido a ausencia de parametros especificos. Essas questoes afetaram a experiencia de interacao com o vaso inteligente e a satisfacao geral dos usuarios.
+
+No geral, os usuarios viram a ideia como boa e util, embora tenham encontrado alguns desafios iniciais na interacao com o aplicativo e o sistema do vaso, causando uma certa frustracao como comenta o usuario U2 "E muito mais intuitivo e mais facil cuidar de uma planta pelo conhecimento popular ou informacao na internet do que com o kit e o app, por mais que ele me de precisao de dados em tempo real sinto que a tela de LED da planta vai sempre reclamar de algo. Eu nao usaria o produto, apesar de ser uma proposta interessante e "divertida", foi mais frustrante mesmo."Embora os usuarios tenham expressado interesse na proposta do Kit Plantinha IoT e visto sua utilidade, as dificuldades em calibrar os sensores, interpretar os dados e ajustar as condicoes ideais para a planta tiveram um impacto significativo na experiencia geral. Isso resultou em uma avaliacao dividida, com 66,7% dos usuarios satisfeitos, 22,2% insatisfeitos e 11,1% neutros. A pesquisa destacou a importancia de melhorar as orientacoes e a usabilidade do produto para otimizar a experiencia dos usuarios.
+
+**CONSIDERACOES FINAIS**
+
+Em suma, a avaliaçao da usabilidade e da experiencia do usuario do kit Plantinha IoT permitiu identificar uma serie de desafios e oportunidades para o aprimoramento do produto. A integraçao de soluçoes para os problemas de comunicaçao, a instabilidade do sensor e a dificuldade de conexao poderao contribuir para uma experiencia mais intuitiva, eficaz e gratificante para os usuarios.

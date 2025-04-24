@@ -1,0 +1,2055 @@
+Introducao
+Em 2024, no contexto do XXIII Simposio Brasileiro sobre Fatores Humanos em
+Sistemas Computacionais (IHC’24), convidamos, toda a comunidade de pesquisa e
+pratica, a elaborar e submeter suas reflexoes, como parte da primeira fase da iniciativa
+do II GranDIHC-BR.
+
+Durante essa fase, recebemos 23 submissoes validas apresentando propostas de desafios
+e descrevendo suas consequencias para a comunidade. Com base nessas reflexoes,
+derivamos 7 grupos tematicos que resultaram nos grandes desafios de pesquisa em IHC
+no pais para os proximos 10 anos.
+
+No entanto, o conteudo trazido nas propostas originais nao necessariamente manteve o
+mesmo teor na proposta final dos grandes desafios, apos seu refinamento nos grupos
+tematicos. Reconhecemos que as propostas originais tambem sao relevantes, sendo
+provenientes de dezenas de profissionais da area, cobrindo diferentes temas e colocando
+em pauta questoes relevantes para a IHC no Brasil. Elas demonstram as reflexoes de
+nossa comunidade, debrucada sobre o futuro da interacao humano-computador no pais,
+e foram o ponto de partida para a construcao dos desafios que nortearao nossas
+pesquisas nos proximos dez anos.
+
+Assim, as secoes seguintes disponibilizam as propostas originais submetidas pelos
+autores, mantendo sua formatacao e conteudo originais, sem nenhuma edicao, de modo
+a preservar as ideias submetidas.
+
+A Inteligencia Artificial (IA) vive atualmente a sua “primavera”, rapidamente
+permeando diversas areas do conhecimento e dominios de pratica. Na Interacao
+Humano-Computador (IHC), nota-se um crescimento vertiginoso no numero de
+publicacoes relacionadas com IA nos ultimos anos. Apesar da grande expectativa de
+aumento de produtividade e novas possibilidades de interacao, e preciso atuar para
+que essa primavera nao se transforme em um rigoroso inverno. O debate entre
+oportunidades e riscos a sociedade e tao antigo quanto a propria IA, estabelecida
+como area de pesquisa academica em 1955 (McCarthy et al., 2006). Entretanto, sua
+recente sofisticacao tecnologica e viabilidade para aplicacoes diversas conferem um
+novo grau de urgencia e necessidade de acao pratica para esse debate.
+
+Na disciplina de IHC, o ser humano, seus interesses e valores, sao o foco da
+atencao. O proprio sistema computacional representa os seres humanos que o
+criaram ao incorporar seus valores, conhecimentos e intencoes no formato de
+hardware e software. O computador pode ser entendido como uma interface para a
+interacao humana, e conceitos como computacao ubiqua, sistemas socioenativos
+ou integracao humano-computador enfatizam um esforco por uma interface
+transparente. No sentido oposto, um recem-surgido IA-centrismo pode tornar a
+interface mais “espessa” e “opaca”. Em uma interacao agenciada por IA,
+complicados modelos matematicos e estatisticos sao colocados entre interacoes
+humanas mediadas por tecnologia, tornando a interface mais complexa e indireta,
+ou “espessa”. Questoes inerentes de falta de transparencia e explicabilidade em IA,
+por sua vez, contribuem para que a interface se torne mais “opaca", pouco
+compreensivel para humanos. Alem disso, de uma perspectiva fenomenologica,
+modelos de IA seguem uma abordagem essencialmente desacoplada de como
+pensamos, percebemos, agimos e existimos no mundo (Dreyfus, 2007).
+
+O trabalho de Hagendorff (2020) ressalta que uma grande quantidade de
+diretrizes de etica em IA nao apresentam a agencia humana como uma
+questao-chave. Entretanto, se a IA assumir um papel de agencia na interacao (em
+detrimento de agencia humana), o seu uso na IHC pode afetar diretamente nossa
+capacidade de intersubjetividade, i.e., de “participar na criacao e transformacao de
+significado em conjunto, entre pessoas que tem cada uma as suas perspectivas [...]
+em evolucao sobre o mundo, uns sobre os outros e sobre si mesmas, por meio da
+acao e da interacao.” (De Jaegher, 2018, traducao livre).
+
+Existem inevitaveis pressoes mercadologicas, academicas e ate mesmo
+sociais em prol do IA-centrismo. Emerge, portanto, o desafio de repensar a IHC a
+partir dos avancos da IA, de maneira a respeitar o papel autonomo da inteligencia
+humana, tanto em seu carater individual quanto em sua manifestacao social. Esse
+esforco, que dialoga com a Filosofia da Tecnologia (Fallman, 2010), atua, em
+essencia, em prol de evitar uma presente e futura “desumanizacao” da IHC. Como
+cenario ilustrativo, imagine um futuro distopico no qual conteudo e gerado de
+forma automatica com um unico comando, mas o excesso de conteudo requer que
+o mesmo seja filtrado e sintetizado, tambem de forma automatica, antes de ser
+consumido. Nas duas extremidades existem avancos tecnologicos substanciais, mas
+o produto desse sistema e apenas um grande esforco para permanecer no mesmo
+lugar, como colocar um robo para correr em uma esteira. Talvez esse possivel
+futuro ja esteja se tornado o presente, veja Byun et al. (2023), e termos como
+“Colaboracao Humano-IA” ainda escondem e retiram o credito do proprio trabalho
+humano por tras da producao de dados para modelos de IA (Sarkar, 2023).
+
+Este e um grande desafio de pesquisa que deve ser abordado pela
+comunidade de IHC no periodo de 2025-2035. Um unico grupo de pesquisa nao
+conseguiria sozinho explorar, investigar, discutir e atuar sobre a influencia
+potencialmente onipresente da IA na IHC. Enfatizamos aqui o termo “onipresente”,
+pois essa influencia tende a se estender em algum grau para possivelmente todos
+os aspectos da area. A producao automatizada de conteudo e/ou codigo-fonte e a
+capacidade de “fazer sentido” de conjuntos de dados complexos podem permear
+desde atividades centrais da area como pesquisa, design, avaliacao etc., ate a
+propria interacao, com intervencoes nao-humanas em tempo real. Esse assunto,
+consequentemente, diz respeito a toda a comunidade de IHC.
+
+Para os esforcos de pesquisa relacionados com este grande desafio, sao
+esperados resultados como:
+Proposicao de principios eticos. Compilacao e discussao pela comunidade
+de IHC, em dialogo com outras comunidades dentro e fora da computacao,
+de principios eticos para criacao e uso socialmente responsavel de sistemas e
+ambientes de interacao baseados em IA.
+Base de experiencias. Documentacao de experiencias de pesquisa e de
+pratica com o uso responsavel de IA na IHC para diversas finalidades e em
+diferentes contextos, enfatizando aspectos levantados neste desafio, como
+qual o impacto da IA na “espessura” e “opacidade” da interface, na
+intersubjetividade da interacao e na agencia humana.
+Proposicao de aplicacoes em processos de design. Proposicoes de uso
+instrumental e responsavel de IA em processos de design, incluindo
+metodos, instrumentos e praticas. A responsabilidade aqui inclui
+comprometimento etico e de propriedade intelectual, e tambem o esforco de
+preservar a autonomia e o discernimento humano das partes interessadas
+envolvidas no processo de design.
+
+Proposicao de aplicacoes na interacao. Proposicoes de modalidades de
+interacao ou elementos de interface apoiados de forma transparente por IA
+(preferencialmente no formato de apoio a atividade humana, somente
+tomando decisoes com a expressa intervencao ou aprovacao humana). A
+transparencia aqui inclui comprometimento etico, explicabilidade de
+comportamento, e a preservacao da intersubjetividade.
+
+Articulacao de bases teoricas. Variadas bases teoricas de diferentes areas
+(Filosofia, Educacao, Psicologia, Biologia, Sociologia, etc.) podem ser
+combinadas e/ou reapropriadas no contexto de IHC e IA para melhor
+entender, discutir e explicar determinados fenomenos, alem de subsidiar a
+proposicao de aplicacoes, e ate mesmo novos modelos de IA.
+
+Proposicao de novos modelos de IA. Com apoio em bases
+teorico-metodologicas nao cognitivistas, e possivel propor modelos e
+algoritmos de IA melhor acoplados com como pensamos, percebemos,
+agimos e existimos no mundo. Esses modelos podem valorizar e ampliar a
+autonomia humana, em vez de “sequestra-la”, ou mesmo favorecer e ampliar
+a intersubjetividade, em vez de impossibilitar que ela exista na interacao.
+
+
+
+O Grande Desafio de Pesquisa na area de Interacao Humano-Computador (IHC),
+proposto neste texto, e a Transparencia no uso de dados pessoais, que segundo Filgueiras et. al.
+(2019) refere-se ao grau no qual as aplicacoes disponibilizam informacoes objetivas,
+compreensiveis e perceptiveis aos individuos e conhecida por Transparencia de dados Pessoais.
+A Transparencia e uma exigencia de regulamentacoes de uso de dados pessoais como a General
+Data Protection Regulation (GDPR), da Uniao Europeia e a Lei Geral de Protecao de Dados (LGPD)
+do Brasil. Esse tema integra uma area de estudos relativamente nova, conhecida por Interacao
+Humano-Dados, que estuda fenomenos de interacao entre pessoas e aplicacoes interativas que
+manipulam dados (Coleti et. al, 2020).
+
+A Transparencia e um imenso desafio uma vez que, com a Inteligencia Artificial (Al) e
+seus algoritmos de Machine Learning (ML), as possibilidades de manipulacao de dados pessoais
+que permitem identificar uma pessoa, seus comportamentos, preferencias e acoes - podem
+gerar infinitas informacoes e inferencias sobre as pessoas, o que faz emergir consideravelmente
+preocupacoes com a privacidade, a segurança e a liberdade das pessoas.
+
+Para Mortier et. al. (2016), compreender como os dados pessoais sao manipulados e
+quais os efeitos desse processo sao fundamentais para que os individuos titulares dos dados
+possam agir para garantir sua privacidade, segurança e liberdade. Entretanto, a Transparencia
+apresenta certos desafios relacionados a area de Interacao Humano-Computador (IHC), sendo
+eles:
+(1) A complexidade dos algoritmos de IA e ML na execucao de suas acoes;
+(2) A necessidade de informar adequadamente os titulares dos dados, que na
+maioria dos casos nao sao especialistas na area de Computacao e nao
+compreendem conceitos, metodos e tecnicas da area, ou seja, a construcao de
+mecanismos de comunicacao eficientes.
+(3) Aspectos sociais e culturais, uma vez que a transparencia tem por objetivo
+informar pessoas (seres humanos), que tem seus costumes, habilidades,
+culturas, leis e preferencias que podem influenciar ou ser influenciadas pela
+qualidade da informacao transmitida.
+
+Considerando os fatores mencionados, em conjunto com a expectativa de evolucao
+constante e acelerada em algoritmos de IA, nas diversas possibilidades de manipulacao de dados
+pessoais e na maior imersao da tecnologia na vida das pessoas, acredita-se que a utilizacao de
+dados pessoais sera uma constante em projetos de sistemas interativos apoiados com a IA, o
+que desperta a preocupacao sobre o quanto a privacidade, segurança e liberdade pode ser
+afetada/comprometida.
+
+Essas caracteristicas colocam a Transparencia como um dos grandes desafios da IHC em
+curto e medio prazo, uma vez que se faz necessaria a atencao da comunidade de IHC em
+pesquisas que possam promover estrategias, metodos, tecnicas e ferramentas para
+comunicacao adequada das acoes de algoritmos de IA na vida das pessoas a fim de garantir
+efetivas possibilidade de fiscalizacao de acoes contra a privacidade, segurança e liberdade de
+individuos.
+
+Ignorar e/ou negligenciar tal questao pode permitir que controlares de aplicacoes de
+software utilizem da falta de recursos e/ou dificuldades de comunicacao de informacoes para
+produzir produtos e serviços que manipulam, de maneira indiscriminada, dados pessoais e assim
+possam afetar a privacidade, segurança e liberdade das pessoas e, esses individuos, nao tenham
+mecanismos apropriados para se defender e exigir que acoes administrativas e legais possam
+ser executadas em sua defesa.
+
+
+
+Proposta
+A proposta e estudar cientificamente o contexto academico-cientifico da computacao bra-
+sileira, um desafio em metaciencia [Peterson e Panofsky 2023]. O contexto cientifico da
+computacao, assim como a Computacao em si, e fundamentado em aspectos ou valo-
+res humanos, sociais e culturais [Ioannidis 2018, Peterson e Panofsky 2023], i.e., mesmo
+que haja uma parcela dita objetiva, exata ou tecnica, a influencia humana e intrinseca
+a Computacao [Connolly 2020]. Nas ultimas decadas e no contexto brasileiro, os fato-
+res humanos em sistemas computacionais, Interacao Humano-Computador (IHC), apre-
+sentaram desafios e problemas mais complexos, pervasivos e significativos, culminando
+nos Grandes Desafios de Pesquisa em IHC no Brasil (GranDIHC-Br) entre 2012 e 2022
+[Baranauskas et al. 2014], incentivado pela ocupacao da computacao em nosso cotidiano.
+Diferente de 2012, hoje a maioria da populacao brasileira carrega “um computador de
+bolso", passando por uma pandemia que forcou uma migracao massiva ao digital. Intera-
+gimos mais com computacao, mais intensamente e sem alternativas em diversos casos.
+
+Em paralelo, estudar, pesquisar e pensar academica-cientificamente a propria
+ciencia tornou-se mais complexo, pervasivo, significativo e necessario [Ziman 2001].
+Hoje, os aspectos sociais, culturais e eticos sao diferentes de 2012, pela instituicao
+social da ciencia computacional brasileira ou pela interacao das pessoas academico-
+cientistas nestes novos paradigmas de interacao, dinamicos e em disputas. Pensar-fazer
+Computacao influencia a computacao e os computadores que, posteriormente, afeta-
+rao a populacao. E o dominio que estuda cientificamente a ciencia e a Metaciencia
+[Ioannidis 2018, Peterson e Panofsky 2023]; e seus aspectos sociais e culturais, alicer-
+cados com propriedade epistemologica, e IHC [Pereira et al. 2015, Rogers 2022].
+
+Alguns exemplos metacientificos estao explicitamente materializados no contexto
+academico-cientifico computacional brasileiro. O workshop Woman in Technology (WIT)
+discute os assuntos relacionados a questoes de genero na computacao, principalmente
+brasileira. Os desafios e problemas de genero na computacao sao metacientificos, em
+2012 o WIT ocupava uma posicao de discussoes, debates e ideias. A partir de 2016, com
+a curadoria de comunicacoes cientificas formais, percebemos a geracao de conhecimen-
+tos academico-cientificos formais sobre genero e computacao no Brasil. A dimensao de genero deixa de ser especulativa, filosofica ou abstrata e passa para um campo de ma-
+terialidade cientifica. Ha conhecimento estruturado e formalizado expondo o cenario da
+realidade de genero no Brasil, i.e., ciencia cobrindo um aspecto social e cultural da Cien-
+cia computacional brasileira.
+
+Outros topicos pertinentes e materializados na pratica profissional de pessoas
+academico-cientistas da computacao e de IHC estao hoje explicitos e facilmente percep-
+tiveis. Mecanismos de divulgacao cientifica questionaveis; aspectos eticos ou morais
+em pesquisa e sua obrigatoriedade normativa [Amorim et al. 2019, Carvalho et al. 2023,
+Jr. et al. 2021], como Comites de Etica em Pesquisa [Brasil 2016, Brasil 2012] na
+pesquisa e ciencia computacionais; aspectos de Ciencia Aberta para solucoes com-
+putacionais, como dados ou algoritmos [Fernandez Pinto 2020, OliveiraJr et al. 2021],
+ou aspectos cientificos, como fomento, participacao de cada pessoa autora na pu-
+blicacao e pesquisa relacionada, publicacao de acesso aberto; aspectos linguisti-
+cos [Carvalho et al. 2024];“internacionalizacao” [Mendonça 2021]; espaços/eventos
+academico-cientificos fechados e bairrismo [Mendonça et al. 2021].
+
+Um debate metacientifico polemico neste inicio de 2024 trata do acesso e reco-
+mendacao de anais dos eventos. Ha pouca informacao e conhecimento estruturado e
+formal acerca, enquanto parte da tomada de decisao e baseada em instinto ou emocao.
+Com a ausencia de evidencias ou dados provenientes de estudos, entidades internacionais
+sao preferidas por motivos informais ou culturalmente enviesados, i.e., simplesmente por
+proveniencia estadunidense ou europeia.
+
+Sendo assim, a proposta deste desafio e estudar a ciencia computacional brasileira,
+aspectos sociais e culturais, atraves de uma perspectiva cientifica. Na epistemologia da
+area, envolve o guarda-chuva de IHC e sociedade, desta vez trazendo as praticas e pessoas
+academico-cientistas para o holofote. Enfatizamos, sem que se limite, a instituicao social
+de IHC no Brasil. Contribuindo para avancos embasados por evidencias estimadas e
+apreciadas em nossa pratica profissional, cientificas.
+
+Uma das principais complicacoes deste desafio e o ambito social e a maturidade de superar
+preconceitos culturais atraves de dados e evidencias. Como [Peterson e Panofsky 2023]
+indicam, sendo a instituicao social da ciencia um movimento social, envolvem disputas,
+interacoes e associacoes sociais. A complexidade e proporcional as dimensoes quantitati-
+vas e qualitativas, e.g., elaborar um manual de evento estruturado e formal para um evento
+isolado comparado a varios ou todos os eventos. Neste sentido, e um esforco participa-
+tivo e conjunto de reconhecimento dos aspectos humanos cientificos e de que abordagens
+cientificas podem trazer melhorias coletivas e gerais, acima dos interesses ou preferencias
+individuais de uns ou outros.
+
+Ademais, estudar, analisar e sintetizar esta categoria de dados ou informacoes e
+incomum a nossa cultura, que enfatiza esforcos de valores primarios e diretos; e relega a
+auto-critica e os estudos secundarios sobre si ao segundo plano.
+
+Uma decada e um prazo curto para este desafio, de carater continuo. Entretanto, ignora-
+lo ou negligencia-lo pode nos trazer consequencias negativas crescentes. Ao antecipar
+estudos no ambito cientifico computacional brasileiro, com uma intencao positiva, es-
+trategica, de avanço moral e tecnico, poderemos prevenir, estruturar e mitigar potenciais
+problemas ou melhorar e solucionar respectivos aspectos sociais e culturais. Por exemplo,
+quanto mais cedo estudarmos o comportamento dos periodicos predatorios ou o dilema de
+repositorios e publicacoes dos eventos, igualmente estruturaremos abordagens para tais.
+
+A ciencia computacional brasileira amadureceu e se desenvolveu, e novos ele-
+mentos surgiram ou foram modificados nesta complexificacao. A sociedade depende e
+demanda da computacao cada vez mais. Como estudiosos deste dominio, cabe a nos estu-
+dar e (nos) analisar para lidar com nossos proprios desafios, dilemas e problemas. Preser-
+vando a sociedade, influenciada pelos nossos serviços e artefatos; e a nos, de potenciais
+danos, prejuizos ou corrupcoes, mesmo que ingenuos ou despropositais.
+
+Ha uma carencia de aspectos eticos ou morais nas pesquisas em computacao no
+Brasil [Carvalho et al. 2022], e.g., ignorando elementos basilares de etica, inclusive em
+pesquisa, quando sao necessarios; e este e um fenomeno que ultrapassa IHC. E sem uma
+visao metacientifica, holistica, pode gerar um desbalanceamento e enviesamento negativo.
+Este tema atravessa a Computacao, mesmo que aspectos eticos e morais sejam tradicio-
+nalmente associados a IHC [Nadeem 2022].
+
+Os resultados sao intuitivos pelo titulo, estudar metacientificamente, com alta
+qualidade, rigor e impacto; a ciencia computacional brasileira, qualitativa ou quantita-
+tivamente, primaria ou secundariamente. Enfatizam-se os aspectos sociais ou culturais,
+embora nao limitados a tais. Descartam-se intencoes colonialistas ou de imperialismo
+normativo, e em primeiro momento visa trazer luz a dados e informacoes pouco estru-
+turados ou informais, que possam materialmente e concretamente avançar este cenario
+positivamente.
+
+
+
+Contextualizacao
+A tecnologia mudou a maneira de acesso as informacoes, a aprendizagem, ao trabalho,
+ao entretenimento e ao relacionamento. As inovacoes tecnologicas oferecem
+experiencias que desafiam os limites entre o fisico e o virtual, expandindo as
+possibilidades de interacao. Essas mudanças influenciaram nao apenas a forma como
+lida-se com a tecnologia, mas tambem como ela molda a identidade, influencia escolhas
+e afeta a espiritualidade.
+
+A correlacao entre computacao e espiritualidade abre uma nova fronteira de
+exploracao, em que a IHC, interdisciplinarmente, pode assumir um papel central.
+Compreender a interacao entre artefatos computacionais interativos e espiritualidade se
+torna ainda mais necessario a medida que as tecnologias digitais se tornam cada vez
+mais ubiquas. Essa combinacao pode oferecer oportunidades inovadoras para fomentar
+o design e o uso de recursos interativos nao apenas como uma ferramentas utilitarias,
+mas como um meio estimulante para o desenvolvimento humano integral e para a
+promocao do bem-estar e da qualidade de vida.
+
+A literatura destaca que a espiritualidade, longe de ser um conceito restrito a
+contextos religiosos, engloba uma busca por significado, conexao, transcendencia e
+proposito na vida (King, 2011; Rahmat et al., 2022). Conforme Rahmat et al. (2022), a
+espiritualidade pode atuar como uma dimensao integradora que potencializa o equilibrio
+das dimensoes do bem-estar. Nesse sentido, o ser humano esta intrinsecamente
+vinculado ao espiritual, uma dimensao cuja importancia e indispensavel, nao passivel de
+ser descartada.
+
+Assim, como Grande Desafio de Pesquisa em Interacao Humano-Computador
+no Brasil, propõem-se explorar como os artefatos computacionais interativos podem ser
+estrategicamente projetados e usados para desenvolver a espiritualidade dos
+brasileiros. Essa proposta nao apenas abrange o impacto dos artefatos computacionais
+interativos na espiritualidade individual, mas tambem busca compreender como elas
+podem ser empregadas para fomentar a espiritualidade em comunidade, podendo
+alcançar as familias, as comunidades, os locais de culto, de trabalho e outros ambientes.
+
+Considera-se espiritualidade como “uma busca multiforme por um significado
+transcendente da vida que os conecta a todos os seres vivos e os coloca em contato com
+Deus ou 'Realidade Suprema'". A espiritualidade e algo relativo a varias esferas da
+vida e da sociedade. Assim, a espiritualidade vai alem da religiao, numa perspectiva
+dialetica e dinamica, haja vista que a religiao concentra-se em espaços
+institucionalizados, enquanto a espiritualidade nao (King, 2011).
+
+A espiritualidade tem sido um tema bastante pesquisado nas areas relacionadas
+ao cuidado (enfermagem, psicologia, medicina, entre outras). Na decada de 1990, a
+exemplo, o tema passou a receber destaque, sendo pela primeira vez considerado pela
+Divisao de Saude Mental da OMS na avaliacao da qualidade de vida. Alem disso,
+nota-se que ha diversos aplicativos moveis para esse fim. Todavia, a espiritualidade nao
+tem sido um topico ao qual os pesquisadores de IHC tem se dedicado amplamente
+(King, 2011; Winiger, 2022; Blythe e Buie, 2021). Portanto, destaca-se que a
+espiritualidade em relacao a interacao humano-computador requer esforcos desta
+comunidade no desenvolvimento de metodos, ferramentas, abordagens e tecnicas que
+contribuam para uma melhor experiencia de vida desses usuarios.
+
+Pesquisadores estrangeiros tem demonstrado interesse pela relacao entre espiritualidade e IHC. Em 2022 foram conduzidos workshops na ACM Coference on Human Factors in Computing Systems e na Nordic Conference on Human-Computer Interaction cujo a tematica central envolvia diretamente a espiritualidade. Ao considerar essas iniciativas, observa-se que a espiritualidade tem chamado a atencao de pesquisadores de IHC 
+
+Considerando o contexto brasileiro de pesquisas de IHC abordando a
+espiritualidade, pode-se exemplificar os artigos publicados por Banni et al. (2020) e por
+Rosa e Damian (2024). Os estudos brasileiros focalizaram em aspectos religiosos e
+contribuem para a investigacao da relacao entre IHC e espiritualidade. Entretanto, nao
+foram encontrados outros artigos cientificos publicados no ambito brasileiro de IHC.
+Isso evidencia que essa tematica tem sido pouco explorada no Brasil.
+
+Dada a relacao entre a espiritualidade com a qualidade de vida e o bem-estar,
+aspectos importantes para a vida em sociedade, e importante compreender diretrizes para o desenvolvimento do design de artefatos que promovem a interacao
+humano-computador no contexto da espiritualidade, alem de metodos e tecnicas que
+contribuem para sua qualidade. Ademais, ela possui uma relevancia cultural e social,
+pois contribui para o desenvolvimento pessoal e comunitario. Por fim, existem
+diferentes dilemas interdisciplinares que, se nao abordados corretamente, podem levar a
+diversos riscos, como: alienacao de grupos culturais e religiosos especificos, negligencia
+de aspectos psicologicos importantes, questoes de privacidade que podem violar a
+confidencialidade das experiencias espirituais, entre outras questoes.
+
+Com os desafios relacionados a se estudar espiritualidade no ambito da IHC, espera-se
+que seja possivel compreender com mais clareza como aspectos espirituais influenciam
+e sao influenciados pela interacao humano-computador, quais pesquisas em andamento
+se relacionam com essa tematica, como por exemplo o legado digital, e quais sao as
+tensoes dessa relacao. Integrar espiritualidade e IHC contribui para a criacao de
+artefatos cada vez mais adequados a necessidade holistica dos humanos, levando em
+consideracao aspectos da constituicao humana que ate entao nao eram tao considerados.
+Alem disso, a compreensao desses aspectos podem levar a criacao de diretrizes de
+design para aplicacoes nesse contexto e no desenvolvimento de metodos que apoiem a
+compreensao de aspectos que influenciam nas experiencias desses usuarios.
+
+Existem questoes levantadas por pesquisadores brasileiros da area que carecem
+de maiores investigacoes e podem servir como norte. No trabalho de Banni et al. (2020)
+sao identificadas demandas de comunidades religiosas, como a necessidade de uma
+plataforma religiosa que pudesse melhorar a interacao entre comunidades de fe. Ja o
+trabalho de Rosa e Damian (2024) apontam outras problematicas, relacionados as
+dimensoes espirituais e emocionais que os fieis experimentam ao usar tecnologias, as
+mudanças na dinâmicas espirituais à medida que a tecnologia se torna mais integrada,
+entre outros aspectos.
+
+A pesquisa nesta area pode abrir portas para que ocorram avancos na criacao de
+tecnologias que respeitam e incorporam dimensoes espirituais, melhorando as interacoes
+e propondo a construcao de aplicacoes interativas que respeitem e incluam outros
+aspectos que sao tao essenciais a existencia.
+
+
+
+O modelo humano-processador [4] foi um paradigma influente na Interacao Humano-Computador (IHC) que concebe a cognicao humana de uma maneira chamada "cognitivista" ou "representacionalista", com foco no cerebro [11, 21]. O cerebro recebe entradas perceptivas do mundo exterior, representa essa informacao como simbolos a serem processados e produz saidas, como comportamentos. Essa visao cognitivista foi criticada na pesquisa em IHC como "presa ao paradigma do processamento de informacao", focando em mentes que executam metodos de design como se fossem programas de computador [5].
+
+Os recentes desenvolvimentos tecnologicos esgotaram os limites das possibilidades dessa visao cognitivista e demandam novas formas de entender a relacao humano-tecnologia alem da computacao de simbolos. A onipresenca da tecnologia ubiqua em nossos espacos fisicos e sociais [15, 22], o corpo inteiro como meio de interacao e a invisibilidade perceptivel da tecnologia [14] envolvem as pessoas como corpos interagindo e co-construindo um mundo social e fisico com a tecnologia. Esses aspectos nao podem ser adequadamente abordados apenas focando na mente, cerebro ou processamento de informacao.
+
+A fenomenologia, como uma investigacao filosofica dos fundamentos da experiencia e acao, preocupa-se com a relacao dos individuos com o contexto (social). Ela foi apresentada no passado como uma alternativa ao paradigma cognitivista da IHC [24]. Em sua abordagem da experiencia como um ser de corpo inteiro e suas relacoes com o ambiente, diversas teorias relacionadas a fenomenologia estao situadas ou sao adequadas para investigacao no campo da IHC [3, 8, 11, 16, 17, 19, 20, 23, 24]. Como exemplos, Winograd e Flores [24] apresentaram um fundo teorico relacionado a fenomenologia para a computacao, enquanto Dourish [8] apresentou sua abordagem de Interacao Incorporada, que reconhece a incorporacao humana como uma caracteristica fundamental da interacao [7]. Alem disso, ha uma diversidade de iniciativas relacionadas a fenomenologia ainda nao totalmente exploradas na IHC. As teorias da mente Incorporada, Enativa, Estendida e Embutida (4E) [3, 20], por exemplo, consideram detalhes biologicos e fisiologicos do corpo humano e a interacao incorporada com o ambiente social.
+
+Alinhados com essas teorias, realizamos uma busca em 1027 artigos do Simposio Brasileiro de IHC, de 2006 a 2022, com termos geralmente relacionados a conceitos de fenomenologia. Analisamos o titulo, resumo e palavras-chave de artigos que envolviam de alguma forma ou incluiam conceitos relacionados a fenomenologia. Dos 231 resultados, apenas 70 trabalhos envolviam conceitos de fenomenologia ou tinham o corpo presente de alguma forma (Figura 1).
+
+Nossa analise dos resumos dos artigos indica que o "corpo" aparece principalmente como uma questao em artigos que tratam de acessibilidade e tecnologia assistiva, exceto por aqueles que exploram uma abordagem socioenativa da interacao [2]. Isso pode ser uma indicacao de que o corpo, essencial nas experiencias das pessoas dentro da fenomenologia, esta presente principalmente na pesquisa brasileira de IHC em tecnologia assistiva, como um contraponto ao "usuario padrao". Alem da tecnologia assistiva, a IHC brasileira parece estar perdendo o corpo para lidar com a interacao com a tecnologia contemporanea, nao mediada apenas pelo cerebro e suas representacoes.
+
+Uma "visao centrada no cerebro dos seres humanos" afeta nosso mundo vivido e muda nossa autocompreensao na vida cotidiana. O resultado e um processo gradual de auto-reificacao a medida que comecamos a nos ver menos como seres humanos tomando decisoes baseadas na razao ou motivos, mas sim como agentes de nossos genes, hormonios e neuronios [11, p. xv]. Mesmo a experiencia pode ser abordada como apenas um fenomeno quantificavel, nao o conceito fenomenologico de experiencia [19], nos desconectando do mundo e nos fazendo esquecer nossa incorporacao [11]. "Usuarios" se tornam outra forma de objeto a ser medido e controlado, e o corpo se torna um mero "muro" para anexar tecnologias. Sem diferentes maneiras de conceber nossa relacao com o mundo, podemos perder de vista os valores, afetos e inter-relacoes corporais que nos fazem humanos.
+
+A fenomenologia propoe uma compreensao mais ampla e holistica dos humanos em espacos de interacao, comparada ao paradigma do processamento de informacao. O grande desafio e repensar a pesquisa em IHC atraves de fundamentos fenomenologicos, envolvendo corpos, experiencias e relacoes com nossos ambientes e com os outros. O desafio exige reformular teorias, metodos e tecnicas de design e avaliacao de IHC para o paradigma fenomenologico, projetando novos ambientes que explorem conceitos fenomenologicos, prestando atencao a fenomenos nao explorados antes e atraves de novas teorias e praticas cientificas. Adotar fundamentos fenomenologicos para a IHC no Brasil pode melhor explicar fenomenos de interacao que sao cada vez mais explorados em contextos de Computacao Ubiqua e que ainda nao foram completamente investigados.
+
+Embora abordagens fenomenologicas estejam presentes, elas representam esforcos fragmentados na IHC, nao tendo um nucleo comum que reuna diferentes propostas. Ainda nao temos artefatos ou metodos consolidados para trazer a pratica a maneira fenomenologica de abordar os fenomenos da IHC. A realidade da tecnologia emergente de hoje apresenta novos desafios e questoes que demandam repensar ou colocar em perspectiva ate mesmo as propostas fenomenologicas de Winograd e Flores [24] e Dourish [8]. Alem disso, essas propostas foram estabelecidas em uma realidade diferente da brasileira e, portanto, precisam ser situadas em nosso ambiente nacional de acordo com a cultura e experiencia brasileiras.
+
+Do ponto de vista da fenomenologia, pessoas, ambientes e relacoes existentes podem ser diferentes de contextos internacionais.
+
+No Brasil, temos o importante trabalho da fenomenologia feito por Alvaro Vieira Pinto [12, 13], e Paulo Freire e sua abordagem situada na questao da educacao libertadora [6, 9, 10, 18]. Freire, por exemplo, pode trazer a fenomenologia para nossos problemas sociais e o valor da inclusao social em nossas investigacoes sobre corpos humanos e seus acoplamentos com ambientes sociais. Como o Design Socialmente Consciente concebe [1], nao ha um ser humano universal, mas cada pessoa e um corpo rico de experiencias. Questoes de alfabetizacao e acesso ao conhecimento podem ser abordadas entendendo as pessoas como seres de experiencia, nao como mentes-sujeitos processando informacao. Brasileiros tem suas proprias caracteristicas culturais que indicam campos ricos e complexos para investigacao em IHC, como praticas religiosas, musicais e de danca. Assim, a pesquisa em IHC pode investigar fenomenos humanos mais em sua integralidade corporal e emocional e menos na cabeca ou mente do sujeito.
+
+
+
+Resumo: O cenario de design atual exige uma visao ampla, considerando o
+humano nas esferas social, ambiental e economico. Sustentabilidade e um termo
+que reúne os esforcos nestas esferas. Mais do que o aspecto ambiental,
+relacionado com solucoes que nao degradem o meio ambiente, a sustentabilidade
+envolve tambem aspectos sociais, relacionados com os direitos humanos, e as
+questoes economicas que colocam o foco no desenvolvimento de solucoes que
+sejam financeiramente viaveis, gerem lucro e apoiem a distribuicao de renda. O
+tema foi mencionado no Desafio 1, do GranDIHC-BR de 2012, mas com enfoque
+nas questoes de interacao mais sustentavel e avancos foram feitos na proposicao
+de diretrizes de design e metodos de avaliacao. No entanto, com os avanços da
+Computacao Ubiqua, Interacao pautada em sensores e Inteligencia Artificial,
+desafios persistem em como envolver o humano e as comunidades nos processos
+de design com foco nas esferas abordadas no conceito de sustentabilidade.
+
+Sustentabilidade e o conceito que se refere a adocao de praticas de consumo
+visando assegurar a disponibilidade de recursos para as geracoes futuras. Alem de
+considerar aspectos ambientais, como a minimizacao da degradacao ambiental
+atraves da reducao do uso de recursos nao renovaveis e o fomento de tecnologias
+energeticas mais eficientes, a sustentabilidade abrange tambem dimensoes sociais
+e economicas. A dimensao social compreende o respeito aos direitos humanos, a
+promocao da diversidade e o incentivo a valores que promovam a coexistencia
+harmoniosa entre as geracoes presente e futuras. A dimensao economica, por sua
+vez, tem enfoque no desenvolvimento de solucoes que sejam economicamente
+viaveis, que promovam a geracao de lucro e contribuam para a equitativa
+distribuicao de recursos financeiros.
+
+As solucoes computacionais representam um item de consumo que influencia
+questoes relacionadas a sustentabilidade, o que requer uma reavaliacao de nossas
+praticas de design, desenvolvimento e descarte. O papel do designer na construcao
+de uma sociedade sustentavel deve envolver a concepcao de produtos, processos e
+servicos que sigam e estimulem comportamentos nessa direcao.
+
+O desafio de promover interacoes mais sustentaveis esta ligado a procura por
+solucoes de interfaces de usuario que conscientizem e habilitem os cidadaos
+brasileiros a melhorar suas relacoes interpessoais e com o meio ambiente. Tais
+sistemas devem nao apenas considerar a viabilidade economica, mas tambem
+refletir valores sociais e tecnologicos, e promover novos paradigmas de
+pensamento, estilo de vida e praticas comerciais.
+
+Em 2012, a comunidade de IHC do Brasil promoveu o GranDIHC-BR, em que o seu
+primeiro desafio versava sobre a sustentabilidade, com enfoque nas questoes de
+interacao mais sustentavel [1][2]. Este desafio implicava na busca por ferramentas,
+metodos, modelos e teorias que incentivassem comportamentos mais sustentaveis
+[3]. Avancos foram feitos na proposicao de diretrizes de design e metodos de
+avaliacao, por exemplo [4].
+
+Em 2017, a comunidade de IHC novamente discutiu sobre os desafios propostos em
+2012 e os avancos em cada um deles. A analise realizada mostrou que o desafio 1,
+sobre sustentabilidade, era um dos menos enfrentados pela comunidade brasileira
+de IHC [5]. A partir dos resultados apresentados uma nova agenda de pesquisa foi
+proposta considerando os proximos 5 anos.
+
+Agora, em 2024, sete anos depois, ao realizar nova analise sobre o tema,
+percebe-se que a sustentabilidade ainda representa um grande desafio, sobretudo
+com os avancos da Computacao Ubiqua, Internet da Coisas (IoT), Interacao
+pautada em sensores e Inteligencia Artificial (IA). Os desafios persistem em como
+envolver o humano e as comunidades nos processos de design com foco nas
+esferas abordadas no conceito de sustentabilidade.
+
+Nao podemos deixar de discutir e descobrir novas abordagens de interacao, que
+ajudem a promover o consumo consciente e praticas mais sustentaveis, tanto nas
+relacoes entre individuos, como no desenvolvimento de novas tecnologias.
+
+Com o avanco nas solucoes mencionadas, entendemos que o design para a
+sustentabilidade ainda e um desafio e que, uma vez enfrentado, podera avancar as
+pesquisas em IHC em diversos aspectos. Assim, uma nova agenda devera retomar
+a agenda proposta em 2017 [5], considerando:
+
+1. O aumento da complexidade da comunicacao humano-computador, inclusive
+em novas profissoes resultantes de novas parcerias entre seres humanos e
+sistemas computacionais;
+2. Interacao com cidades inteligentes, em contextos de uso reais, heterogeneos
+e em escala;
+3. Metodos de design, uso e descarte de solucoes de hardware e software
+considerando aspectos ambientais, sociais e economicos, abordando desde
+materiais utilizados em etapas de design ate impactos trazidos pelo uso de
+sistemas computacionais no que diz respeito ao armazenamento e a
+transferencia de dados.
+
+E propor uma agenda complementar, que considere tambem:
+
+4. Novas formas de avaliacao da interacao, com outros principios, diretivas e
+padroes que considerem, por exemplo, a promocao da paz, da saude e do
+bem-estar, bem como considerem novas tecnologias como loT, sensores e
+IA;
+5. A criacao e implementacao de metodos de ensino e politicas educacionais
+que incluam a sustentabilidade.
+
+
+
+Esta proposta aborda a evolucao da Interacao Humano-Computador (HCI, na sigla em ingles), destacando a transicao de resultados baseados em comandos para resultados baseados em intencoes, impulsionada pelos avancos da Inteligencia Artificial (IA). Essa mudanca representa um foco nos resultados desejados pelos usuarios, em vez dos processos de execucao de tarefas, melhorando a usabilidade e a acessibilidade. Enfatizamos consideracoes eticas e a necessidade de inclusao na HCI, defendendo interfaces de IA que sejam compreensiveis, funcionais e amigaveis. Por fim, defendemos a colaboracao multidisciplinar, integrando Interacao Humano-Dados (HDI) e Experiencia do Usuario (UX) no design de IA, garantindo que as ferramentas de IA sejam desenvolvidas com uma compreensao do comportamento e das necessidades humanas. Esse desafio contribui para o aprimoramento da sociedade, alinhando o avanco tecnologico com os valores e necessidades humanos.
+
+Historicamente, a jornada da Interacao Humano-Computador (HCI) comecou em 1945 com o processamento em lote, caracterizado pela submissao de uma unica tarefa nao interativa (Nielsen, 2023). Apesar de sua natureza inovadora, esse metodo enfrentou desafios significativos de usabilidade, muitas vezes exigindo varias tentativas para alcancar o resultado desejado. A introducao de sistemas de tempo compartilhado por volta de 1964 marcou uma mudanca notavel para a interacao baseada em comandos (Nielsen, 2023). Predominando por mais de seis decadas, esse modelo evoluiu de linhas de comando para terminais de texto em tela cheia e interfaces graficas, aumentando a interatividade ao permitir que os usuarios refinassem suas entradas em resposta ao feedback do computador (Barbosa et al., 2022).
+
+O advento de ferramentas de Inteligencia Artificial (IA) generativa sinaliza uma transicao crucial – o terceiro paradigma, caracterizado pela especificacao de resultados baseados em intencoes (Nielsen, 2023). Essa mudanca representa uma transformacao significativa na HCI, focando nos resultados desejados pelos usuarios, em vez do processo de execucao das tarefas. Nesse novo paradigma, os usuarios articulam seus objetivos, e os sistemas impulsionados por IA interpretam e executam essas diretivas para alcancar os resultados pretendidos. Essa abordagem nao apenas revela novas oportunidades, mas tambem apresenta desafios, particularmente em melhorar a usabilidade e garantir a acessibilidade para diversos usuarios.
+
+Alem disso, essa mudanca de paradigma sugere que a interacao com a tecnologia se tornara cada vez mais continua e integrada a vida diaria (Park et al., 2022). Essa integracao traz consideracoes eticas adicionais, incluindo questoes relacionadas ao acesso socioeconomico e a necessidade de inclusao em varias dimensoes demograficas, como raca, genero e idade. Tsatsou (2011) define a divisao digital como a prontidao (em termos de acesso, habilidades, uso e cultura) das pessoas e da sociedade para se beneficiarem da tecnologia. Abordar essas consideracoes e essencial para garantir que a progressao em direcao a HCI baseada em intencoes nao exacerbe as divisoes digitais existentes.
+
+Esta proposta ressalta o papel vital da UX na formacao das interacoes humano-IA (Stige et al., 2023) e defende pesquisas ambiciosas, porem alcancaveis, dentro de uma decada, com o objetivo de desafiar paradigmas existentes e promover o crescimento socioeconomico e o bem-estar humano. O principal objetivo de nossa pesquisa e pioneirizar o estudo de interfaces de IA para abranger integridade etica e relevancia cultural (Franzke, 2022). Nossa abordagem integra principios eticos profundamente no framework de design de IA, especialmente na HCI. A integridade etica na IA engloba uma estrategia abrangente que protege a privacidade do usuario, garante a seguranca dos dados e promove algoritmos imparciais (Sharma et al., 2023). Alem disso, exige uma compreensao e reconhecimento cuidadosos das diversas necessidades, especificidades culturais e contextos sociais dos usuarios brasileiros (Hofstede et al., 2010). Um aspecto vital desse esforco e a inclusao ativa de grupos subrepresentados no processo de design, cultivando assim um ecossistema de IA que seja inclusivo e equitativo (Isotani et al., 2023; da Silva et al., 2023).
+
+O design de UX para interfaces de IA deve integrar abordagens multidisciplinares que unam inovacao tecnologica com principios de design centrados no ser humano. Para alcancar isso, explorar a Interacao Humano-Dados (HDI) e crucial, pois essa subdisciplina da HCI foca na interacao e interpretacao de dados pelos usuarios (Tanweer et al., 2022), como dentro de sistemas de IA, elementos vitais para a eficacia e acessibilidade dessas interfaces. A confluencia de HDI e UX no design de IA aborda o complexo desafio de tornar sistemas de IA sofisticados compreensiveis e funcionais para uma ampla base de usuarios. Enfatizar a HDI permite a criacao de interfaces de IA que nao sao apenas tecnologicamente sofisticadas, mas tambem intuitivamente amigaveis. Essa estrategia garante que as ferramentas de IA sejam elaboradas com uma compreensao abrangente do comportamento humano, processos de pensamento e necessidades, enriquecendo sua experiencia (Morris et al., 2010; Porto et al., 2023).
+
+Abordar esse desafio e essencial para garantir que o desenvolvimento de IA no Brasil seja inclusivo, equitativo e alinhado com os valores sociais. Negligenciar esses aspectos pode resultar em uma divisao digital ampliada, aumento das desigualdades sociais e crescente desconfianca em relacao as tecnologias de IA, principalmente porque, nos proximos anos, a maioria das profissoes dependera do conhecimento de IA (Isotani et al., 2023). Esperamos que a navegacao bem-sucedida desse desafio produza varios resultados:
+
+Desenvolvimento de interfaces de IA que sejam intuitivamente utilizaveis, eticamente informadas e culturalmente relevantes para diversas comunidades brasileiras, como sistemas de IA que poderiam ajudar a melhorar a equidade na educacao (Portela et al., 2023).
+
+Uma compreensao aprimorada da interacao entre cognicao humana, comportamento e sistemas de IA, levando a interacoes de IA mais empaticas e eficazes, como o potencial imersivo da gamificacao em sistemas educacionais de IA (Palomino et al., 2023).
+
+Criacao de diretrizes e frameworks de design de interfaces de IA eticos que aumentem a transparencia, a responsabilidade e o empoderamento do usuario, como as varias diretrizes de etica em IA analisadas na revisao sistematica de Franke (Franke, 2022).
+
+Fortalecimento da posicao do Brasil como um lider emergente no desenvolvimento de IA centrado no ser humano globalmente, como demonstrado por publicacoes recentes nos campos de HCI e IAED-Inteligencia Artificial na Educacao (Porto et al., 2023; Isotani et al., 2023; Chevtchenko et al., 2023).
+
+Essa mudanca de paradigma na pesquisa e pratica de IA, focando em metodologias centradas no ser humano e fundamentadas eticamente, avancara o conhecimento cientifico e contribuira para o aprimoramento da sociedade, alinhando o avanco tecnologico com os valores e necessidades humanos (da Silva et al., 2023; Isotani et al., 2023). Por meio desse desafio, convidamos pesquisadores, designers, tecnologos e profissionais da area de HCI a colaborar na analise e compreensao dessa mudanca de paradigma. Neste momento crucial, a sabedoria coletiva, as contribuicoes inovadoras e os esforcos colaborativos da comunidade HCI sao fundamentais para desenvolver caminhos em direcao a interfaces de IA mais intuitivas, inclusivas e focadas no ser humano. Encorajamos a comunidade a se unir nesse esforco, buscando cultivar uma relacao mutuamente benefica entre humanos e maquinas que enriqueça nossas interacoes no mundo digital.
+
+
+
+Propoe-se discutir Tecnologias Interativas Integrada ao Cotidiano das pessoas como um
+grande desafio de pesquisa para a area de Interacao Humano-Computador (IHC). A
+humanidade vem vivenciando uma revolucao tecnologica que esta transformando a maneira
+de como se interage com a tecnologia e como se aborda os desafios complexos
+relacionados a IHC [8]. A crescente conectividade, automacao, e capacidade de coleta e
+analise de dados a partir do uso sensores, e/ou infraestruturas inteligentes, tem produzido
+tecnologias capazes de (inter)agir de forma autonoma com as pessoas e seu contexto, para
+trazer melhorias ao cotidiano do ser humano.
+
+Em 2016, Farooq e Grudin [5] indicaram que a interacao com tecnologias autonomas,
+estende o paradigma de interacao humano-computador, baseado em estimulo resposta,
+para uma nova forma de interacao em que pessoas e tecnologias passam a interagir como
+parceiros, propondo o paradigma de integracao humano-computador (em ingles Hint
+acronimo de Human-Computer Integration) [5, 7]. O paradigma de Hint requer que o
+controle da parceria seja compartilhado entre pessoas e tecnologias. Neste desafio,
+consideramos a tecnologia integrada nao apenas aquela cujo o controle e compartilhado,
+mas tambem aquelas que sao totalmente autonomas, mas presentes no cotidiano das
+pessoas, com as quais elas devem interagir, ainda que de forma passiva. Por exemplo,
+sinais de transito inteligentes que determinam o tempo em que ficam abertos ou fechados
+em funcao de dados coletados a partir do monitoramento do transito em tempo real [6].
+
+Na ultima edicao dos GranD-IHC [1] foram discutidos os desafios relacionados a cidades
+inteligentes que tinha como foco repensar os metodos e tecnicas de design voltados para os
+principios de sustentabilidade; e o desafio de ubiquidade que abordava o uso e a interacao
+intensiva com dispositivos. No entanto, o desafio aqui proposto vai alem das questoes
+exploradas nestes desafios. Essas novas oportunidades de cooperacao e colaboracao entre os seres humanos e tecnologias autonomas dentro do ecossistema de uma sociedade
+conectada, estende a visao de interacao usuario-sistema para uma parceria entre eles.
+
+As Tecnologias Interativas Integradas ao Cotidiano envolvem complexas questoes tecnicas
+e sociais. Do ponto de vista tecnico, observa-se que temas transversais sobre
+interoperabilidade de dispositivos, seguranca de dados e uso da inteligencia artificial ja vem
+sendo discutido na literatura [10]. Do ponto de vista social, essa nova relacao de parceria
+inclui novas questoes como a capacidade das pessoas entenderem e confiarem nas
+tecnologias parceiras. Assim, do ponto de vista de IHC os grandes desafios que temos sao
+[2, 9] :
+Novas teorias e abordagens teoricas que contemplem a questao da parceria, alem
+de interacao;
+Design: novos metodos que deem suporte a projetos com tecnologias integradas,
+levando em consideracao aspectos de simbiose (i.e. parceria cognitiva entre
+usuarios e sistemas); de fusao (i.e. parceria em que a tecnologia estende
+fisicamente o corpo do usuario); e social (i.e. parceria em que a tecnologia esta
+integrada nao a uma pessoa especificamente, mas a um grupo ou comunidade);
+Avaliacao: definicao de criterios e propriedades relativos a qualidade das
+tecnologias sendo utilizadas (e.g. privacidade, sustentabilidade, acessibilidade,
+empatia, etc), e da experiencia de uso das pessoas envolvidas (seja como individuo,
+grupo ou sociedade) e proposta de novos metodos capazes de avaliar as
+tecnologias considerando um ou mais destes criterios.
+Impacto de uso: analise dos impactos para individuos, grupos, sociedade e
+meio-ambiente da introducao das tecnologias integradas. Vale ressaltar que os
+desafios de impacto estao relacionados tanto ao uso de tecnicas que permitam
+simular e antecipar os efeitos (e.g. uso de realidade aumentada, mista ou gemeos
+digitais que permitam emular seus estados e comportamentos, fornecendo um
+ambiente de avaliacao, otimizacao e previsao [3]), quanto ao acompanhamento em
+contextos reais do impacto da introducao da tecnologia. Alem disso, e fundamental
+considerar os aspectos eticos, de privacidade, inclusao social na concepcao e
+adequacao dessas solucoes tecnologicas a realidade brasileira.
+
+Cada um destes desafios, apresenta diversas questoes de pesquisa associadas e para
+avancar e necessario que se tenha um investimento nao de um grupo de pesquisa, mas da
+comunidade de IHC como um todo, de forma que possamos produzir avancos cientificos
+significativos, com aplicacoes sociais e tecnologicas.
+
+As tecnologias integradas representam um mercado em pleno crescimento com previsao de
+avanco nos proximos anos em termos de investimentos, agendas globais e metas de
+governo. As tecnologias de base envolvidas (IoT, 5G, Big Data, Analytics, IA, robotica)
+continuam evoluindo e se tornando cada vez mais viaveis de serem incorporadas em
+produtos disponiveis de forma ampla "na prateleira" para a sociedade. Assim, e fundamental
+que o Brasil e a comunidade de computacao participe da producao dessas tecnologias, e
+nao se torne apenas consumidores da tecnologia desenvolvida em outros paises.
+
+Alem disso, e essencial que a comunidade de IHC tenha um protagonismo em pesquisas e
+desenvolvimento de solucoes nesta area [4], devido ao grande impacto que estas
+tecnologias podem ter na vida das pessoas e da sociedade. Atualmente, muitas vezes se
+investe no desafio tecnico do desenvolvimento da tecnologia sem se considerar
+devidamente o seu uso pelas pessoas, introduzindo-se a tecnologia no mundo para entao
+se observar o seu impacto.
+
+Finalmente, as questoes sociais relativas aos criterios relevantes de uso e impactos destas
+tecnologias sao altamente dependentes da realidade, valores culturais e sociais do local e
+comunidade em que a tecnologia esta sendo introduzida. Desta forma, a comunidade de
+IHC do Brasil tem uma grande responsabilidade e desafio de investir nas pesquisas
+relativas a tecnologias integradas ao cotidiano especificas para o contexto brasileiro.
+
+Espera-se que os resultados obtidos nesta linha envolvam pesquisa cientifica,
+desenvolvimento tecnologico e social, e educacionais. Em relacao as contribuicoes
+cientificas espera-se que novas teorias, abordagens teoricas, metodos, modelos e tecnicas
+sejam propostos e consolidados para o contexto especifico de tecnologias integradas. Alem
+disso, espera-se que a pesquisa gere novas tecnologias que possam ser utilizadas,
+trazendo impactos e melhorias para individuos, grupos e sociedade, em especial a
+brasileira. Finalmente, o conhecimento gerado devera ser incluido nos curriculos de
+formacao dos cursos de graduacao na area de tecnologia, para capacitar os profissionais
+sendo formados para lidar com as questoes da area.
+
+
+
+A proposta em tela propoe o desafio "Legado e imortalidade digital: desafios
+sociotecnicos", buscando debater com a comunidade cientifica e tecnologica as
+possibilidades sistemicas para tratamento do legado digital, em especial pelo
+gerenciamento de dados e desenvolvimento de pesquisas no campo da imortalidade
+digital. E inegavel a importancia dos "dados" na vida em sociedade e a necessidade de
+pensarmos neles para alem da vida terrena [1]. E uma responsabilidade social, afinal, a
+morte e um fenomeno social, que afeta a todos tambem na mediacao por tecnologias.
+
+Nesse campo, os Sistemas Gerenciadores de Legado Digital [2,3], que incluem
+aplicacoes como testamento digital, memoriais digitais, cofres digitais, mensageiros
+postumos etc., permitem aos usuarios expressar seus desejos post-mortem, definir seus
+herdeiros ou ate mesmo prestarem homenagens postumas. Sao aplicacoes com
+complexos requisitos a serem definidos e implementados, incluindo requisitos eticos e
+legais, os quais sao afetados pelos tabus e pelo imaginario que o fenomeno da morte
+constela.
+
+Por sua vez, dados legados de usuarios nestes sistemas, bem como em acervos
+pessoais, sao uteis ao desenvolvimento de novas aplicacoes, permitindo questionar
+facetas da imortalidade digital. Com o uso da Inteligencia Artificial, novas oportunidades
+e desafios se abrem, exigindo que uma serie de fatores e valores humanos sejam
+pontuados.
+
+Para caracterizar este como um Grande Desafio de Pesquisa, apontamos um
+pouco da trajetoria do tema e sua discussao. Motivadas por diversos fatores, entre os
+quais o fato de o legado digital ser um dos desafios de pesquisa 2012-2022 em Interacao
+Humano-Computador no Brasil [4,5], varias pesquisas sobre essa tematica foram
+conduzidas nos ultimos anos [6], muitas das quais sao trazidas a baila neste texto.
+
+Atuando no tema deste desafio quase desde quando ele foi lancado em 2012, o
+grupo de pesquisa Dados Alem da Vida (DAVI)¹ tem trabalhado em conjunto com
+diversos pesquisadores e instituicoes, discutindo topicos que incluem:
+sistemas gerenciadores de legado digital;
+memoriais digitais (em sites, nas redes sociais, em jogos e como servicos ligados a
+morte);
+sistemas comunicadores de mensagens postumas;
+imortalidade digital (via software e com tecnicas de Inteligencia Artificial);
+jogos empaticos relacionados ao tema;
+servicos ligados aos rituais da morte (como velorios e tecnologias em cemiterios); e
+educacao na tematica da morte e tecnologias.
+
+Em cada um destes temas, e de forma interligada, ha uma serie de desafios a
+serem trabalhados no campo para o desenvolvimento cientifico e tecnologico. E projetar
+o gerenciamento de dados [2,3] e a interacao postuma [7, 8] nas aplicacoes e um
+desafio.
+
+Na esteira das mudancas com que se defronta esse campo, temos as
+possibilidades que a Inteligencia Artificial traz, em especial no apoio ao gerenciamento
+de bens a serem legados (dados postumos), incluindo memoriais [9,10,11], e a
+imortalidade digital [12]. Outra possibilidade e a exploracao da arte digital interativa [13]
+como abordagem transversal nas tematicas supracitadas, sobretudo para permitir
+outras formas de expressao sobre o tema, menos afetadas pelos tabus da comunicacao
+verbal cotidiana. Cabe ressaltar que questoes relacionadas a colaboracao entre
+usuarios em processos ligados a morte [6] no ambiente digital potencializam os desafios
+tecnicos, eticos, culturais e legais, e e necessario considerar as especificidades do
+contexto cultural brasileiro.
+
+Resumindo as caracteristicas que fazem deste um grande desafio de pesquisa,
+citamos as multiplas possibilidades de atuacao no campo; a interdisciplinaridade
+requerida para avancos; a discussao etica em torno do tema; a perspectiva da inovacao;
+a responsabilidade social e a busca de uma melhor qualidade de vida e bem-estar para
+cidadaos.
+
+E importante direcionar esforcos para superar esses desafios. Diversos fatores
+e valores humanos podem ser explorados neste campo para a criacao ou
+aprimoramento de aplicacoes que possibilitem interacao postuma, motivo pelo qual
+propomos que este tema siga como um desafio da comunidade, agora com novos
+contornos delineados por transformacoes sociais e tecnologicas apos a pandemia do
+COVID-19 e pelas ressignificacoes da morte e da vida nesse novo cenario.
+
+Do ponto de vista do mercado, uma serie de solucoes tem sido desenvolvidas
+nesse dominio. Ohman e Floridi [14] cunharam o termo Digital Afterlife Industry para
+caracterizar servicos e produtos ofertados em decorrencia da morte de um usuario
+online. Todavia, muitas das solucoes adotadas por esses sistemas sao questionaveis,
+ou nao sao transparentes [10,17].
+
+Ainda temos um longo percurso para que os usuarios de sistemas sociais
+entendam a importancia de seus bens e legados digitais, a fim de poderem configurar
+seus desejos de heranca. Ha que se considerar os tabus e crencas sobre a morte, que
+desencorajam as pessoas de utilizar tais sistemas e suas funcionalidades, e limitam
+desenvolvedores de projetar requisitos neste campo. De acordo com Lira et al. [15],
+legado digital e um tema que precisa ser mais bem abordado na sociedade, pois vai
+alem de destinar bens.
+
+Os desafios do tratamento da morte em sistemas sociotecnicos sao muitos e
+potencializados pelo fato de, no Brasil, nao termos leis preparadas para tratar
+especificamente do bem digital, sendo muitas solucoes exclusivas de cada sistema,
+inconsistentes e diferentes entre as empresas e paises [1,16,17]. O processo legal tende
+a ser lento e, muitas vezes, as tecnologias se antecipam as leis. Termos de uso e
+politicas de privacidade das aplicacoes [18] deveriam trazer claramente informacoes
+sobre a destinacao dos bens do usuario e as empresas deveriam aprofundar suas
+solucoes.
+
+Para avancar, e preciso fomentar pesquisas e o desenvolvimento tecnologico no
+campo, consultando usuarios e dialogando com desenvolvedores e empresas do ramo.
+Se nao avancarmos na resolucao deste desafio, estamos deixando de obter uma melhor
+qualidade de vida e o bem-estar da populacao, visto que a morte afeta as pessoas de
+diferentes maneiras e as tecnologias podem apola-las nesta jornada. Para tal, e
+necessario que se tenham sistema sociotecnicos eticos e adequados aos seus
+propositos, protegendo tambem os dados dos usuarios para alem da finitude da vida.
+
+Como principais resultados esperados com o avanco deste desafio, destacam-
+se: potencializacao dos debates em conferencias da area; publicacao de resultados das
+pesquisas; maior atuacao de pesquisadores de forma interdisciplinar e interinstitucional;
+aumento da formacao de cidadaos sobre a tematica; melhoria na formacao e oferta de artefatos para desenvolvedores; estabelecimento de mais parcerias com empresas;
+aumento de sistemas no campo da morte e tecnologias; maiores possibilidades de
+financiamento de projetos no campo; e visibilidade para o tema, apoiando a quebra de
+tabus na sociedade.
+
+
+
+Jogos serios tem recebido cada vez mais atencao na area de Interacao
+Humano-Computador (IHC) como um meio de aprimorar habilidades cognitivas de
+individuos. Esses jogos sao desenvolvidos com objetivos alem do entretenimento,
+incentivando jogadores a aprender um conteudo ou habilidade em diversos campos
+de aplicacao enquanto se divertem [1]. As habilidades desenvolvidas podem ser
+levadas para o contexto real e situacoes cotidianas pelos proprios jogadores [2].
+Assim, eles oferecem ambientes interativos engajadores, e que permitem aos
+usuarios desenvolver e melhorar suas habilidades cognitivas, como memoria,
+resolucao de problemas, tomada de decisoes e atencao [3].
+
+Estudos demonstram que jogos serios empregam uma variedade de modalidades
+de interacao, incluindo sistemas baseados em graficos, feedback haptico,
+rastreamento de movimento, biossensores, fala e interacoes incorporadas para
+melhorar a experiencia do usuario [4][5] em contextos de aprendizagem [6],
+reabilitacao [7] e engajamento [5] e atender a diferentes preferencias e habilidades
+[8]. Os sistemas baseados em interface grafica, por exemplo, permitem experiencias
+visualmente imersivas, enquanto o feedback haptico engaja o sentido do tato,
+aprimorando a experiencia sensorial geral. Os biossensores e as interacoes de fala
+oferecem uma experiencia personalizada e adaptavel aos sinais fisiologicos e
+verbais do individuo. A combinacao adequada de modalidades de interacao a
+narrativa do jogo ajuda a criar uma experiencia mais imersiva e envolvente, o que e
+essencial para manter a motivacao e o interesse nos objetivos serios do jogo [8].
+
+As diversas modalidades de interacao ajudam, ainda, a atender uma ampla gama
+de usuarios, inclusive aqueles com limitacoes fisicas ou cognitivas, tornando-os
+inclusivos e acessiveis a um publico maior. A combinacao de diferentes
+modalidades de interacao em jogos serios amplia a possibilidade de
+desenvolvimento de habilidades cognitivas e as oportunidades de aprendizado
+proporcionadas por esses jogos. Ja no contexto de desenvolvimento de habilidades
+cognitivas especificas e reabilitacao, a combinacao de multiplas modalidades de
+interacao permite uma abordagem mais abrangente e eficaz para alcancar os
+resultados desejados [9][7]. De modo geral, o uso de diversas modalidades de
+interacao em jogos serios cria experiencias dinamicas e adaptaveis que maximizam
+o potencial de acessibilidade, de aprimoramento das habilidades cognitivas e de
+engajamento do usuario.
+
+Embora se espere que os jogos serios multimodais produzam interacoes mais
+naturais e engajadoras, ainda e dificil avaliar a usabilidade e eficacia da combinacao
+das modalidades de interacao [10]. Alem dos desafios inerentes a avaliacao de
+sistemas multimodais, questoes criticas sao frequentemente negligenciadas durante
+a construcao de jogos serios multimodais, como as limitacoes do publico e se as
+modalidades oferecidas apoiam as habilidades cognitivas que se desejam
+desenvolver [11]. Se os jogos serios nao conseguirem combinar adequadamente as
+modalidades de interacao de controles e feedback para representar informacoes
+abstratas em uma modalidade adequada, os jogadores tendem a interpretar
+erroneamente os elementos e objetivos do jogo e, portanto, enfrentar problemas de
+interacao com a interface do jogo que os distrairao do aprendizado [12][13][14].
+
+Portanto, esses jogos devem ter uma interacao multimodal cuidadosamente
+projetada, uma vez que pesquisadores e profissionais considerem que os jogadores
+tem diferentes habilidades e deficiencias, e podem precisar de apoio individual em
+varios niveis para aprender novas habilidades [15][16].
+
+Dada a relevancia do design e avaliacao das interfaces e modalidades de interacao
+para o sucesso de jogos serios, o Grande Desafio proposto e Desenvolver aporte
+teorico e pratico para fundamentar as escolhas de interface e modalidades de
+interacao para fomentar o desenvolvimento de habilidades cognitivas por meio de
+jogos serios de forma adequada as caracteristicas do publico-alvo e contexto de
+uso. Este Grande Desafio busca avancar a criacao de interfaces que apoiem o
+desenvolvimento de habilidades cognitivas por meio de jogos serios em uma
+abordagem multidisciplinar, abordando os aspectos tecnicos e humanos da
+interacao e do aprendizado. Ele deve promover a colaboracao entre diversas areas,
+como Ciencia da Computacao, Psicologia, Educacao e Design de jogos para se
+beneficiar de uma serie de perspectivas, levando a solucoes que atendam a um
+publico amplo e abordem as diversas necessidades e preferencias dos usuarios
+nesse contexto. Essa abordagem vai alem de um projeto de pesquisa unico e e
+fundamental para o sucesso do Grande Desafio, pois permite a integracao do
+conhecimento e da experiencia de diferentes dominios para lidar com questoes
+complexas.
+
+Consideramos, portanto, que e um grande desafio para a comunidade de IHC definir
+uma agenda que inclua o estudo sobre formas de mitigar as questoes pontuadas,
+sobretudo entendendo que e preciso aliar estes aspectos sem afetar o engajamento
+e a adesao do jogador a solucao. Assim, os principais resultados decorrentes da
+resolucao desse desafio incluem:
+
+Desenvolvimento de protocolos e metodos de avaliacao para medir a
+percepcao do usuario em relacao as modalidades sensoriais durante
+interacoes em jogos serios;
+Criacao de ferramentas para analisar a combinacao e impacto de feedbacks
+sonoros, visuais e hapticos nas tarefas do jogo;
+Conducao e publicacao de estudos de caso para investigar a compreensao
+dos usuarios sobre os objetivos, contexto cultural e social do jogo;
+Desenvolvimento de metodologias para incorporar fatores contextuais na
+concepcao de interfaces multimodais para jogos serios;
+Criacao de abordagens que relacionem o desempenho de diferentes
+modalidades de interacao aos objetivos educacionais do jogo;
+Investigacao sobre como os usuarios percebem e distinguem feedbacks
+multisensoriais, associando-os as acoes no jogo;
+Desenvolvimento de algoritmos e tecnicas para otimizar a entrega de
+feedbacks multissensoriais;
+Pesquisas para compreender como os usuarios combinam modalidades
+sensoriais para atingir metas no contexto de jogos serios;
+Desenvolvimento de estrategias de design que incentivem a combinacao
+eficaz de modalidades;
+Desenvolvimento de frameworks de avaliacao para determinar se a
+combinacao de modalidades oferecida pela interface e adequada para as
+tarefas propostas;
+Criacao de diretrizes de design baseadas em evidencias para interfaces de
+jogos serios, considerando como as modalidades escolhidas transmitem
+informacoes relacionadas as tarefas do jogo;
+Desenvolvimento de metricas para avaliar a eficacia da transmissao de
+informacoes em interfaces de jogos serios;
+Desenvolvimento de metricas e metodos para avaliar se e como as
+modalidades facilitam a execucao de tarefas especificas em jogos serios;
+Pesquisas para identificar maneiras de otimizar a usabilidade das interfaces
+de jogos serios.
+
+
+
+A etica na pesquisa e fundamental para a credibilidade e integridade da ciencia. Mesmo
+que um estudo pareca inofensivo, seguir principios eticos e fundamental para garantir a
+confiabilidade dos resultados e o respeito aos direitos dos participantes. E isso deve ser
+feito de modo independente por pessoas capacitadas na analise de protocolos de pesquisa
+que envolve seres humanos. Ao avaliarem e aprovarem um protocolo de pesquisa, es-
+sas pessoas dividem com o pesquisador a responsabilidade pelo envolvimento de seres
+humanos no estudo.
+
+A falta de cuidados com aspectos eticos em pesquisa pode resultar em abusos hediondos,
+violando os principios fundamentais de respeito a dignidade humana e de protecao dos
+direitos individuais [1]. Principios eticos fundamentais, como respeito as pessoas, bene-
+ficencia e justica, ja considerados em outras areas [2], devem ser aplicados a Computacao,
+sobretudo em pesquisas da area de Interacao Humano-Computador (IHC) que envolvam
+seres humanos.
+
+Destaca-se aqui que a etica da pesquisa em Computacao, quando envolve seres humanos,
+e regida por diretrizes que se aplicam a areas como a Saude e Ciencias Sociais, e visam
+proteger os participantes, garantir sua autonomia e garantir que a pesquisa seja conduzida
+de maneira etica e responsavel. Pesquisas em areas como usabilidade e experiencia do usuario, interacao humano-computador e design de sistemas interativos Web e multimedia
+tambem devem priorizar o consentimento voluntario dos participantes, minimizacao de
+riscos e beneficios claros. Alem disso, as questoes eticas na area envolvem preocupacoes
+adicionais, como privacidade e seguranca de dados, especialmente em estudos que cole-
+tam informacoes pessoais dos participantes.
+
+Ainda e um desafio para muitos pesquisadores da Computacao e, principalmente, da area
+de IHC, entender a importancia do aspecto etico e a necessidade de explicitar tal aspecto
+de forma clara e sistematica em suas pesquisas. Para muitos ainda e dificil entender
+quando seu projeto deve ser submetido a um Comite de Etica em Pesquisa (CEP), por
+exemplo, e quais sao os poucos casos em que nao e preciso, como demonstra uma analise
+das tipificacoes [3] estabelecidas na legislacao [4]. Alem disso, existe grande dificuldade
+no tempo de resposta dos CEPs atualmente, o que impacta no tempo total das pesquisas,
+desestimulando muitos pesquisadores na formalizacao da questao etica.
+
+E importante ainda ressaltar a necessidade da participacao de profissionais da Computacao
+e da IHC nos espacos de discussao e decisao sobre a regulamentacao da etica em pesquisa
+no Brasil. Tambem se constitui como desafio analisar formas de engajamento da comu-
+nidade de IHC nos processos de desenho de estudos, considerando aspectos eticos e a
+interlocucao com as estruturas de avaliacao etica vigentes.
+
+Considerando este cenario, a proposta deste Grande Desafio de Pesquisa em IHC para
+o Brasil, no periodo de 2025 a 2035, deve contemplar aspectos como: 1) assegurar
+uma completa aderencia as normas eticas estabelecidas pelas resolucoes atuais (como
+a 466/2012 [5] e a 510/2016 [6]), com a ampliacao para a submissao proativa de pro-
+jetos envolvendo seres humanos aos Comites de Etica em Pesquisa (CEPs); 2) engajar
+a comunidade de IHC nas discussoes sobre a regulamentacao etica; 3) propor e forma-
+lizar adequacao nas resolucoes supracitadas para que essas atendam especificidades das
+pesquisas em Computacao e IHC.
+
+Resultados advindos desse desafio devem promover uma pesquisa responsavel e etica,
+garantindo a protecao dos direitos, da seguranca e do bem-estar dos participantes. Isso in-
+clui reconhecer a aplicabilidade das normas eticas que envolvem seres humanos a todas as
+areas de pesquisa, inclusive IHC, a responsabilidade de planejar a pesquisa considerando
+a necessidade de entender quando e necessario dividir a responsabilidade de envolver se-
+res humanos na pesquisa com um Comite de Etica, considerar os prazos de avaliacao
+pelos CEPs, e de cobrar eficiencia no processo de revisao por partes dos CEPs.
+
+Este desafio e caracterizado por sua complexidade, abrangencia e a necessidade de uma
+mudanca cultural profunda dentro da comunidade de  IHC. Diferencia-se de desafios regulares pela sua capacidade de impactar diretamente a integridade da pesquisa e a confianca
+publica na ciencia.
+Superar este desafio e crıtico para fortalecer a etica em pesquisa, proteger os participantes e assegurar a legitimidade e credibilidade da pesquisa em IHC. Os riscos de nao avancar
+na resolucao deste desafio podem incluir danos potenciais aos participantes da pesquisa,
+perda de confianca da sociedade na ciencia e tecnologia, e a possibilidade de sancoes
+legais e eticas para pesquisadores e instituicoes.
+
+Os principais resultados esperados incluem a consolidacao de uma cultura de pesquisa que prioriza a etica, o desenvolvimento de tecnologias inovadoras e responsaveis que beneficiem toda a sociedade, e o fortalecimento da posicao do Brasil como lider em pesquisa etica em IHC no cenario global. Espera-se tambem uma maior harmonizacao entre os avancos tecnologicos e os valores humanos, garantindo que a pesquisa em IHC contribua positivamente para o bem-estar humano e social.
+Espera-se ainda, um efetivo dialogo e participacao da comunidade nos processos de regulamentacao e analise etica de pesquisas de IHC envolvendo seres humanos.
+Os principais resultados decorrentes da resolucao desse grande desafio incluem:
+Conscientizar a comunidade de IHC sobre a importancia de dividir a responsabilidade etica com orgao reguladores como os CEPs, ao enviar seus projetos para avaliacao dos comites;
+Engajar pesquisadores da comunidade de IHC e da Computacao nas discussoes sobre a regulamentacao etica no Brasil;
+Incentivar a criacao de cursos em eventos cientificos e disciplinas de pos-graduacao que versem sobre o tema da etica em pesquisa;
+Promover a discussao de aspectos especificos sobre etica em pesquisas com seres humanos na computacao em instancias superiores, como a Sociedade Brasileira da Computacao (SBC);
+Incentivar que as comissoes especiais da SBC, sobretudo a Comissao Especial de IHC (CEIHC) e areas irmas (ex.: Sistemas Multimidia e Web, Jogos, Informatica na Educacao, Informatica aplicada a Saude) possam criar mecanismos de conscientizacao junto as suas comunidades sobre os aspectos eticos;
+Sugerir politicas que possam apoiar a manutencao dos comites de etica e incentivar a criacao de novos;
+Aprofundar discussoes sobre aspectos eticos em pesquisas com metodos proprios da area de IHC e suas implicacoes sobre formas de analise etica e aspectos regulatorios.
+
+
+
+Neste artigo, propomos um Grande Desafio na Interacao Humano-Computador (IHC) que visa transcender
+as consideracoes convencionais hedonicas e abracar integralmente o bem-estar eudaimonico. Defendendo
+uma abordagem multidisciplinar ancorada em Psicologia, Etica e Design, nosso desafio busca redefinir os
+processos de concepcao e avaliacao de sistemas interativos. Ao enfatizar as dimensoes hedonicas e
+eudaimonicas, prospectamos uma transformacao substancial na forma como mercado e academia tem
+trabalhado a Experiencia do Usuario (UX) no design e avaliacao de IHC. Desconsiderar esse desafio arrisca
+perpetuar praticas de design prejudiciais, intensificando problemas como o engajamento excessivo e o
+vicio digital, com impacto nas relacoes interpessoais, produtividade e saude mental. Nossos objetivos
+incluem identificar teorias integradoras, aprofundar discussoes teoricas e filosoficas e criar metricas e
+abordagens para avaliar holisticamente o impacto das tecnologias no bem-estar dos usuarios.
+
+Toda tecnologia, intencionalmente ou nao, pode impactar o bem-estar das pessoas [1]. Em um mundo
+digitalmente saturado, garantir a qualidade da interacao vai alem de corrigir erros ou fomentar facilidade e
+prazer. E essencial promover o bem-estar geral dos usuarios e prevenir consequencias negativas que
+afetam suas atividades diarias, comportamentos e qualidade de vida.
+
+A area de Interacao Humano-Computador (IHC) evoluiu em torno de como promover a qualidade da
+interacao para os diferentes contextos, objetivos e necessidades fisicas e psicologicas dos usuarios [2].
+Nesse contexto, a pesquisa em Experiencia do Usuario (UX) se concentra na promocao de emocoes
+positivas e prevencao de emocoes negativas relacionadas ao uso da tecnologia [2,3]. A abordagem
+tradicional de usabilidade e UX inclui aspectos funcionais, esteticos, afetivos e emocionais centrados no
+bem-estar hedonico, associado a busca por prazer, satisfacao e emocoes positivas imediatas [4].
+
+Mas, outra faceta tao relevante quanto esta e o bem-estar eudaimonico [5], que se concentra na realizacao
+do potencial humano, na busca de significado e proposito, e em experiencias que promovem a
+autorrealizacao a longo prazo. Esta faceta raramente e abordada no design e avaliacao de sistemas
+interativos em IHC, ja que a enfase da UX nos aspectos hedonicos obscureceu a importancia dos aspectos
+eudaimonicos do bem-estar [3,6]. E isso tem, por vezes, levado a danos significativos causados pelas
+tecnologias, em diferentes contextos [1,7-11].
+
+Assim, o Grande Desafio proposto e fomentar o desenvolvimento de fundamentos teoricos e praticos
+que permitam a consideracao efetiva dos impactos das tecnologias interativas no bem-estar
+humano de maneira abrangente, enfatizando igualmente aspectos hedonicos e eudaimonicos. Para
+isso, e necessario trabalhar enquanto comunidade para promover uma mudanca de paradigma na IHC e
+integrar novas perspectivas multidisciplinares advindas da Psicologia, Etica e Design, que abordem o bem-
+estar humano de forma mais completa. Com isso, a comunidade de IHC ira sistematicamente desenvolver,
+testar e integrar abordagens que vao alem das tradicionalmente empregadas na pesquisa e pratica de UX
+para considerar, adicionalmente, aspectos eudaimonicos do bem-estar humano durante o design e a
+avaliacao de sistemas interativos. Nesse sentido, por exemplo, a Teoria da Auto Determinacao [12], que
+tem sido investigada na interseccao entre essas areas [1,6,13], tem potencial para se tornar uma das
+teorias integradoras para a pesquisa em IHC, ajudando a considerar o grau em que a tecnologia satisfaz
+necessidades psicologicas basicas e a promover a eudaimonia humana em uma abordagem mais holistica
+da qualidade da interacao.
+
+Este e um Grande Desafio porque propoe uma mudanca de foco para aspectos mais profundos do bem-
+estar humano em relacao as tecnologias digitais, com uma complexidade, amplitude e impacto que o
+diferenciam de desafios regulares. Tambem, propoe uma mudanca paradigmatica ao considerar tanto o
+bem-estar hedonico quanto o eudaimonico, que desafia a forma como a UX tem sido discutida e
+trabalhada na academia e industria nas ultimas decadas. Alem disso, a comunidade brasileira se unira de
+forma ativa e relevante aos esforcos internacionais ao abordar este Grande Desafio. Recentemente, o
+interesse global no tema tem crescido, o que foi evidenciado no workshop "Self-Determination Theory in
+HCI: Shaping a Research Agenda," realizado em 2022 durante a ACM SIGCHI Conference on Human
+Factors in Computing Systems (CHI 2022), que desafiou a comunidade a explorar o design de tecnologias
+que promovam o bem-estar sustentavel a longo prazo [13]. Considerar os efeitos das tecnologias sobre as
+necessidades psicologicas durante o projeto e avaliacao de sistemas interativos nao e trivial. As pesquisas
+atuais nesse sentido permanecem superficiais e parciais [14], tornando crucial um esforco continuo de
+longo prazo.
+
+Caso a comunidade nao aborde esse tema, a tendencia e que as tecnologias desenvolvidas nos proximos
+anos no Brasil perpetuem praticas de design que exploram estrategias prejudiciais a autonomia do usuario,
+que enfocam aspectos hedonicos e desconsideram os eudaimonicos [15,16]. Como consequencia, surgem
+diversos problemas, incluindo o dilema engajamento-vicio [17], ja que o engajamento excessivo pode
+impactar negativamente o bem-estar em diferentes niveis e contextos [18,19]. A Organizacao Mundial de
+Saude (OMS) incluiu dois transtornos associados ao engajamento excessivo na Classificacao Internacional
+de Doencas (CID) (WHO, 2020), a Gaming Disorder, afetando 2% a 3% da populacao mundial [20]; e a
+Screen Dependency Disorder que traz riscos ao desenvolvimento neurologico e bem-estar [21]. Nao
+abordar esse desafio representa um risco substancial para a qualidade de vida em um mundo cada vez
+mais digitalizado. E, pode resultar no aumento do engajamento excessivo e de vicios digitais, impactando
+negativamente a produtividade e as relacoes interpessoais, bem como no agravamento de problemas de
+saude mental, como ansiedade e depressao, especialmente entre grupos mais vulneraveis.
+
+Este e um Grande Desafio com potencial inovador e que impacta a sociedade em diferentes dominios. Os
+resultados esperados envolvem:
+
+Identificar teorias multidisciplinares integradoras para fundamentar bases teoricas do bem estar
+eudaimonico no design e avaliacao de IHC;
+Aprofundar as discussoes teoricas nos conceitos filosoficos relacionados ao bem-estar eudaimonico,
+traduzindo-as em pesquisa e pratica no design e avaliacao de IHC;
+Identificar desafios atuais e futuros relacionados ao bem-estar eudaimonico e os diferentes paradigmas
+de interacao da IHC;
+Desenvolver tecnicas que integrem elementos eudaimonicos e hedonicos no design de aplicacoes
+digitais, promovendo o equilibrio entre engajamento e bem-estar;
+Propor e validar metricas, metodos e ferramentas para investigar e verificar construtos eudaimonicos na
+interacao com sistemas;
+Reformular os metodos de projeto e avaliacao de IHC para incluir o bem estar eudaimonico como parte
+essencial;
+Adotar metodos de coleta e analise de dados que incluam a experiencia eudaimonica em seu esquema
+conceitual;
+Desenvolver estrategias para prevenir consequencias na saude mental e interferencias nas relacoes
+interpessoais causadas por tecnologias interativas;
+Estabelecer metricas e metodologias para avaliar incrementalmente o impacto das tecnologias digitais no
+bem-estar eudaimonico e hedonico dos usuarios ao longo do tempo;
+Conduzir e publicar estudos de caso que fomentem uma cultura de avaliacao formativa do bem-estar
+humano, considerando os efeitos para alem dos aspectos hedonicos;
+Realizar estudos experimentais para analisar fatores fisicos, psicologicos e sociais do bem-estar
+eudaimonico com sistemas interativos;
+Promover a transparencia e a replicacao da pesquisa sobre bem-estar em IHC, disponibilizando os
+artefatos usados ou produzidos nas pesquisas.
+
+
+
+A crescente interdependencia entre as pessoas e a tecnologia tem gerado uma serie de
+desafios eticos, especialmente no que diz respeito a coleta, processamento e utilizacao de
+dados humanos. A responsabilidade no uso desses dados, com um foco particular na
+Interacao Humano-Computador (IHC), tornou-se um campo de estudo crucial, demandando
+uma analise critica e reflexiva sobre praticas emergentes e ja estabelecidas.
+
+O dominio multidisciplinar da IHC incorpora principios de design, psicologia, sociologia e
+ciencia da computacao para criar experiencias de usuario eficazes e significativas [1]. No
+entanto, a eficacia desses sistemas muitas vezes depende da coleta e analise de dados
+pessoais dos usuarios, o que levanta questoes cruciais sobre privacidade, seguranca,
+transparencia e equidade [2] [3].
+
+A etica no uso de dados humanos na IHC tornou-se ainda mais proeminente com o advento
+de tecnologias disruptivas, como inteligencia artificial, aprendizado de maquina e
+computacao em nuvem, que possibilitam a analise de grandes volumes de dados. Enquanto
+essas tecnologias oferecem beneficios significativos, tambem introduzem preocupacoes
+eticas complexas, incluindo vieses algoritmicos, discriminacao algoritmica e falta de
+transparencia nas decisoes automatizadas.
+
+Entende-se como desafio, portanto, examinar criticamente as questoes eticas emergentes
+no uso de dados humanos para treinamento e aplicacao em sistemas computacionais. Para
+isso, comecaremos explorando e mapeando os avancos e protocolos existentes acerca da
+responsabilidade na producao e uso de dados humanos na computacao, destacando as
+principais preocupacoes e debates. A partir disso, sera possivel propor diretrizes e
+estrategias para promover uma abordagem etica com relacao aos dados presentes no
+desenvolvimento e uso de sistemas interativos.
+
+Como um dos importantes topicos nesta discussao, que impactam aspectos cientificos e da
+industria, estao os vieses algoritmicos. Os algoritmos de aprendizado de maquina,
+amplamente utilizados em sistemas de IHC, podem aprender padroes a partir dos dados
+fornecidos. No entanto, se os dados de treinamento forem enviesados, os algoritmos podem
+perpetuar e ate amplificar esses vieses, levando a resultados discriminatorios. Por exemplo,
+em um estudo realizado por Buolamwini e Gebru [4], foi demonstrado que algoritmos de
+reconhecimento facial tendem a apresentar taxas de erro mais altas em individuos de pele
+mais escura e mulheres, devido a falta de diversidade nos conjuntos de dados de
+treinamento. Solucoes para mitigar esse problema incluem tecnicas de pre-processamento
+de dados para detectar e corrigir vieses, bem como o desenvolvimento de conjuntos de
+dados mais diversificados e representativos [4].
+
+Outro desafio etico significativo e a seguranca e protecao dos dados dos usuarios. Com o
+aumento da coleta e armazenamento de dados pessoais, surge a preocupacao com a
+violacao de privacidade e o uso inadequado dessas informacoes. Estrategias para garantir a
+seguranca dos dados incluem a implementacao de tecnicas de criptografia e anonimizacao,
+o controle de acesso rigoroso aos dados sensiveis e a conformidade com regulamentacoes
+de protecao de dados, como a GDPR na Uniao Europeia e a LGPD no Brasil.
+
+A transparencia e explicabilidade dos sistemas de IHC tambem sao preocupacoes eticas
+importantes. Os usuarios devem entender como suas informacoes sao coletadas,
+processadas e utilizadas, bem como compreender as decisoes tomadas pelos algoritmos. A
+falta de transparencia pode levar a uma perda de confianca e aceitacao dos sistemas pelos
+usuarios. Para abordar essa questao, foram propostas diversas solucoes, como a utilizacao
+de tecnicas de interpretabilidade de modelos para tornar os algoritmos mais compreensiveis
+e o desenvolvimento de interfaces de usuario que comuniquem de forma clara e
+transparente as acoes realizadas pelo sistema [5].
+
+A inclusao e acessibilidade tambem sao consideracoes eticas importantes. Os sistemas
+computacionais interativos devem ser projetados levando em conta a diversidade dos
+usuarios, incluindo aqueles com necessidades especiais. Solucoes para promover a
+inclusao incluem o design universal, que visa criar produtos acessiveis a todos os usuarios,
+independentemente de suas habilidades ou caracteristicas individuais [6]. Alem disso, o
+envolvimento dos usuarios finais no processo de design e avaliacao dos sistemas pode
+ajudar a identificar e resolver barreiras a acessibilidade.
+
+Em suma, o uso de dados humanos em sistemas computacionais apresenta uma serie de
+desafios eticos que exigem uma abordagem cuidadosa e multidisciplinar. Neste cenario,
+percebe-se a importancia continua de esforcos da comunidade de IHC em propor solucoes
+praticas de design que fomentem diretrizes claras para o desenvolvimento de estruturas
+eticas solidas, na direcao de mitigar vieses algoritmicos, melhoria da transparencia e
+aprimoramento das praticas de privacidade e seguranca, promocao e fomento da inclusao e
+acessibilidade. Esses avancos tem o potencial de impactar positivamente diversos setores,
+contribuindo para um futuro cientifico e tecnologico mais sustentavel.
+
+
+
+Comunidades e pessoas pesquisadoras
+de Interacao
+Humano-Computador ao redor do mundo tem voltado seus olhares para
+aspectos da relacao entre seres humanos e computadores que extrapolam
+as maquinas e seus aspectos tecnicos (Bodker, 2015; Bardzell & Bardzell,
+2010; Merkle, 2010; Merkle e Amaral, 2013; Blikstein, 2008; Baranauskas e
+Bonacin, 2008; Merkle, 2020; Amaral, Almeida, Oliveira, 2023; Amaral, 2023;
+Almeida, 2023; Amaral, Almeida, Aguiar, Feliciano, Gomes, Machado,
+Santos, 2023; Bordin et al., 2020; Bordin et al., 2023; Silva, 2019; Gonzatto,
+2018; Castelini, 2022; Oliveira, 2020).
+
+Estas pesquisas trazem fundamentos a partir das ciencias sociais
+e humanidades e propiciam as comunidades de IHC refletirem sobre suas
+teorias e praticas com um olhar deslocado dos fundamentos e canones
+que apresentam a area de Computacao sem a devida critica a sua
+neutralidade, linearidade e determinismo (Palacios et al, 2003).
+
+Os estudos em Ciencia, Tecnologia e Sociedade (CTS) trazem
+criticas as visoes tradicionais de Ciencia e Tecnologia (CT), compreendidas
+como neutras, lineares e deterministas (Palacios et al, 2003). A concepcao
+da neutralidade faz com que o desenvolvimento em CT seja compreendido
+como isento de valores socioculturais. A linearidade aponta que CT se
+desenvolvem de forma incremental, positiva, e desconsiderando as
+relacoes de poder. Estes conceitos se relacionam na ideia de que a
+tecnologia determina os rumos da sociedade, criando a concepcao
+determinista da tecnologia (Palacios et al, 2003).
+
+A partir das abordagens humanistas em IHC (Bardzell e Bardzell,
+2015; Merkle, 2010; Merkle e Amaral, 2013; Amaral, Almeida, Oliveira, 2023;
+Bordin et al., 2020; Bordin et al., 2023; Baranauskas, 2021), e dos marcos
+teoricos CTS (Palacios et al, 2003), observa-se que o discurso da
+neutralidade apenas contribui para que a CT nao sejam engajadas em uma
+cultura que valorize participacoes e alteridades (Rosa e Strieder, 2019).
+
+E
+necessario ampliar participacoes no campo do
+desenvolvimento de artefatos e pesquisas em IHC, para compreendermos
+como relacoes interseccionais moldam as interacoes, usos, apropriacoes e
+projetos na area e quais acoes sao necessarias para cessar a marginalizacao
+de grupos sub-representados na producao, apropriacao e uso de
+tecnologias.
+
+Assim, sera possivel, por meio de arcaboucos teoricos e praticos
+pensar uma IHC, no contexto brasileiro, que valorize diferentes saberes,
+fazeres e quereres das comunidades que se apropriam de IHC. Essa
+valorizacao e relevante para termos participacoes plurais nas pesquisas de
+IHC consideradas de maneira genuina e nao instrumental. Isso pode ser
+pautado por categorias de analise do campo CTS, entre elas a
+nao-neutralidade da computacao, ou da IHC, a participacao pautada na
+pluralidade, por meio dos estudos em interseccionalidade (raca, etnia,
+genero, classe, geracao, sexualidade, religiao, cultura e outros marcadores)
+e os saberes situados, que possibilitam entender origens, historias,
+trajetorias e corporificacoes das pessoas envolvidas, sejam essas:
+desenvolvedoras, usuarias ou nao-usuarias ou participantes de
+comunidades.
+
+E importante entender que neste contexto a pluralidade e
+considerada como algo para alem da diversidade. A diversidade pauta a
+existencia de diferencas, ja a pluralidade destaca o compromisso, o
+envolvimento com as pessoas e comunidades, como uma resposta positiva
+ao fato da diversidade existir (Simmer-Brown, 1999, apud hooks, 2003; Silva,
+2014).
+
+Desta forma, este desafio traz a tona os estudos em CTS para
+propor
+a Pluralidade na IHC: valorizando saberes situados,
+participacoes, interseccionalidade por meio da nao-neutralidade da
+Computacao. Considerar a pluralidade em IHC para ultrapassar barreiras
+sociotecnicas e envolver a concepcao nao-neutra da IHC/Computacao, as
+participacoes interseccionais e a valorizacao dos saberes nao academicos
+sao relevantes para ampliar os estudos em IHC sobre a sociedade,
+considerando os diversos cortes que se sobrepoem as pessoas que
+desenvolvem, usam e, por diversos fatores, ainda nao usam tecnologias.
+
+As visoes deterministas sobre a Computacao nao dao o suporte
+necessario para pluralidades presentes quando grupos desenvolvem ou
+interagem com artefatos. Isso ocorre por estarmos em uma sociedade em
+disputas, sejam elas nos espacos sociais, economicos, culturais que
+esbarram nos aspectos computacionais. Ao privilegiarmos uma agenda
+que valoriza saberes situados, interseccionais e participativos, acreditamos
+encaminhar as pesquisas e praticas na area por meio de um processo de
+tomada de consciencia, constituindo bases para a transformacao da
+Computacao.
+
+A agenda citada pode desdobrar em acoes como (AMARAL,
+ALMEIDA, OLIVEIRA, 2023):
+Inserir nas recomendacoes de cursos em computacao conteudos
+sobre Pluralidade na IHC/Computacao para fomentar a educacao
+critica, etica e cidada, para que todas possam projetar, considerando
+diversos formatos de participacoes;
+Destacar no perfil de egressos(as) dos cursos de computacao
+competencias que valorizem trabalhos em comunidades
+interseccionais. Compreender os contextos dessas comunidades,
+com estruturas fluidas, considerando a nao linearidade do
+desenvolvimento de artefatos, pois seus percursos de
+desenvolvimento sao multiplos, desiguais e
+marcados por
+negociacoes entre diferentes grupos sociais.
+Indissociabilidade entre ensino (graduacao), pesquisa (programas de
+pos-graduacao) e extensao (projetos, acoes, curricularizacao) para
+ambientacao discente em comunidades diversas, valorizando
+saberes situados. Manter ativo o desafio de abordar as diferencas
+dentro da diferenca (Crenshaw, 2002).
+Mapear e acompanhar anualmente o ingresso por cotas nos cursos
+de graduacao e pos-graduacao em Computacao;
+Valorizar a Interdisciplinaridade da IHC, com recomendacoes de
+conteudos nos cursos de Computacao, para incorporar elementos
+criticos e reflexivos no desenvolvimento e uso dos artefatos.
+Ampliar forums, tais como WIT e CAPA, que oportunizam discussoes
+envolvendo marcadores interseccionais na computacao.
+
+Assim, entende-se a necessidade de considerar, na area de IHC, o
+Humano de forma plural, para que este H reflita na participacao de pessoas
+que estao situadas, com corpos e interesses, que sofrem exclusoes e
+discriminacoes, que sao privilegiadas e detem o poder de tomada de
+decisao sobre suas vidas e as de outrem, enfim, pessoas em sua
+complexidade e nao somente usuarios operadores. A area de IHC, por meio
+desses Desafios, tem a oportunidade de propor para a area de
+Computacao, com a influencia dos estudos CTS, uma indispensavel
+reflexao critica a respeito da cisao existente entre Computacao e
+Sociedade, que promove uma nocao ingenua sobre a linearidade no
+desenvolvimento computacional, e de que qualquer desenvolvimento
+cientifico e computacional serviria ao bem-comum, sem considerar as
+questoes de poder em que nossa area esta inserida.
+
+
+
+Interacao Humano-Computador (IHC) e uma area focalizada na in-
+teracao humana com/por meio de sistemas computacionais, na qual
+se destacam os estudos tangentes ao design de interacao. Na IHC, o
+design de interacao tem se consolidado como uma pratica com po-
+tencial para apoiar projetos de sistemas interativos. Por outro lado,
+cada vez mais organizacoes tem desenvolvido software com equipes
+geograficamente distribuidas. Embora existam relatos na literatura
+cientifica sobre a realizacao de atividades de design de interacao
+com stakeholders distribuidos geograficamente com a proposicao
+de algumas solucoes, ainda nao ha clareza metodologica, tampouco
+tecnologica nem epistemologica, sobre a realizacao dessas ativida-
+des; sendo, portanto, uma oportunidade de pesquisa em que estude
+os aspectos humanos que envolvem o design e codesign distribuido,
+como tambem a definicao de metodologias, tecnologias e processos
+nesse campo/dominio. Neste artigo propomos o "(co)design de in-
+teracao distribuido: desenvolvimento de tecnologias para o design
+de sistemas interativos com stakeholders distribuidos geografica-
+mente" como um Grande Desafio de Pesquisa em IHC no Brasil
+para 2025-2035. Espera-se, com isso, fomentar pesquisas futuras
+e o desenvolvimento de novas teorias e tecnologias para o design
+de interacao distribuido na fronteira de pesquisa entre Interacao
+Humano-Computador e Sistemas Colaborativos.
+
+Interacao Humano-Computador (IHC) e uma area focalizada nos
+estudos sobre a interacao humana com/por meio de sistemas com-
+putacionais, dentre os quais se destacam os estudos tangentes ao
+design de interacao. Design de interacao e o processo de moldar
+os artefatos digitais para o uso de humanos [23] e uma disciplina
+que aborda como projetar tecnologias computacionais de forma a
+torna-las faceis e agradaveis de usar [14].
+
+Na IHC, o design de interacao tambem tem se consolidado como
+uma pratica com potencial para apoiar projetos de software na
+melhoria da qualidade do produto em relacao a diversos aspectos
+da interacao entre humanos e computadores. Isso inclui envolver
+usuarios no processo de design e desenvolvimento de software
+interativo; reduzir os aspectos negativos da experiencia do usuario;
+e desenvolver produtos interativos acessiveis, faceis e eficazes [26].
+
+O design de interacao e considerado fundamental para todas as
+areas que se preocupam com a pesquisa e o design de sistemas
+computacionais para pessoas [26].
+
+Por outro lado, cada vez mais, organizacoes estao desenvolvendo
+(concebendo, projetando, construindo, testando) software com sta-
+keholders distribuidos geograficamente [13, 15-17, 21, 25, 27, 28].
+O desenvolvimento distribuido de software (DDS) e o desenvolvi-
+mento de artefatos de software em mais de um local [29] e suas
+principais caracteristicas sao a distancia geografica, a diferenca de
+fuso horario e as diferencas culturais [10, 11].
+
+No contexto desta proposta de desafio, utiliza-se “desenvolvi-
+mento distribuido de software" ou "DDS" como um termo gene-
+rico para designar o desenvolvimento de software com membros
+de equipes distribuidos geograficamente, por exemplo, projetos e
+comunidades de free/libre open source software (FLOSS), equipes
+virtuais de desenvolvimento de software, projetos de software com
+colaboradores localizados em varias instituicoes (faculdades, uni-
+versidades, centros de pesquisa) e industria de software, em que
+o desenvolvimento de software e conduzido com stakeholders dis-
+persos geograficamente. Utiliza-se tambem “design de interacao
+distribuido" como um termo generico para designar o design de
+interacao com stakeholders distribuidos geograficamente.
+
+Na perspectiva cientifica, apesar da importancia e dos beneficios
+do design de interacao em projetos de desenvolvimento de software,
+o design de interacao distribuido nao tem sido amplamente abor-
+dado na literatura cientifica de IHC [5, 6, 12, 18, 19]. Esses estudos
+evidenciam que o design de interacao distribuido tem sido pouco
+explorado, mapeado ou estruturado na literatura cientifica. Embora
+na literatura cientifica existam relatos sobre design de interacao
+distribuido e algumas solucoes propostas, ainda nao ha clareza
+metodologica, tecnologica e/ou epistemologica sobre a realizacao
+dessas atividades [6]; sendo, portanto, uma oportunidade de pes-
+quisa em que estude os aspectos humanos que envolvem o design e
+codesign distribuido, como tambem a definicao de metodologias,
+tecnologias e processos nesse campo/dominio.
+
+Em uma perspectiva pratica, a aplicacao de boas praticas de de-
+sign de interacao em projetos de desenvolvimento de software pode
+ter limitacoes com equipes distribuidas geograficamente. Alguns es-
+tudos tem destacado dificuldades e desafios relacionados ao design
+de interacao no contexto de DDS, por exemplo, problemas relaci-
+onados aos criterios de qualidade de uso [1, 7, 12, 22, 30] e a falta
+de tecnologias para o design de interacao distribuido [2, 5]. Alem
+disso, ha desafios para envolver usuarios no desenvolvimento de
+software [4, 8, 24] e a falta de especialistas em IHC e/ou dificuldade
+para envolve-los [8, 18].
+
+Na pandemia do Coronavirus (Covid-19), houve a necessidade
+do isolamento social e a consequente mudanca para o trabalho
+remoto. Isso evidenciou a necessidade de tecnologias para apoiar
+a conducao de atividades de design de interacao quando ocorre
+distribuicao geografica de stakeholders. Segundo Jackson et al. [20],
+a elicitacao de requisitos, o envolvimento de cliente, o design rapido,
+a prototipacao e o gerenciamento do ciclo de vida do software foram
+desafiados por as equipes trabalharem em configuracoes altamente
+distribuidas, mas sem metodos nem tecnologias adequados. Diante
+disso, Jackson et al. [20] destacam a necessidade de evolucao das
+tecnologias de colaboracao para serem bem-sucedidas.
+
+Alves e Matos [2, 3] identificaram, por meio de estudos empiricos,
+que o design de interacao em projetos de DDS tem sido conduzido
+tanto com participantes colocalizados quanto com participantes
+distribuidos geograficamente. Os autores constataram que quando
+o design de interacao ocorreu com participantes distribuidos geo-
+graficamente, ficaram evidentes algumas caracteristicas que tornam
+o processo de design de interacao distribuido diferente do processo
+de design de interacao tradicional (em que os participantes estao
+colocalizados), a saber: stakeholders distribuidos geograficamente,
+necessidade de ferramentas computacionais e alguns aspectos que
+podem interferir na comunicacao/interacao dos stakeholders, como
+idioma, fuso horario e cultura. Alves e Matos [2, 3] tambem apon-
+taram que metodos, tecnicas e praticas participativas de design de
+interacao raramente tem sido utilizados com participantes distri-
+buidos geograficamente. Os autores identificaram a necessidade de
+metodos, tecnicas e recursos tecnologicos para o design de intera-
+cao distribuido; sendo necessario, portanto, o desenvolvimento de
+metodos, tecnicas e recursos tecnologicos para o design de interacao
+distribuido.
+
+O mapeamento sistematico conduzido por Alves et al. [6] for-
+nece uma visao geral sobre os estudos relacionados ao design de
+interacao no contexto do DDS. Os autores apresentam uma ana-
+lise das principais caracteristicas do design de interacao em DDS,
+como o nivel de dispersao dos stakeholders, as solucoes adotadas
+(abordagens, metodos, tecnicas, ferramentas), o envolvimento dos
+usuarios e a atuacao dos designers e especialistas em IHC. Por fim,
+os autores apontaram que o design de interacao no desenvolvi-
+mento distribuido de software tem sido pouco explorado, mapeado
+ou estruturado na literatura cientifica e sugerem que a comunidade
+de IHC apoie projetos de DDS por meio de esforcos de pesquisa
+em design de interacao, considerando as caracteristicas especificas
+desses projetos.
+
+Diante disso, propoe-se o seguinte Grande Desafio de Pesquisa
+em IHC no Brasil para 2025-2035: (Co)Design de Interacao Dis-
+tribuido: desenvolvimento de tecnologias para o design de
+sistemas interativos com stakeholders distribuidos geografi-
+camente.
+
+A principal contribuicao esperada desta proposta de desafio e
+fomentar pesquisas futuras e o desenvolvimento de novas teoria,
+metodos e tecnologias para o design de interacao distribuido na
+fronteira de pesquisa entre Interacao Humano-Computador e Siste-
+mas Colaborativos.
+
+Para contribuir nesse desafio, uma agenda de pesquisa e pro-
+posta considerando tres perspectivas para abordar e incentivar
+pesquisas relacionadas ao design de interacao distribuido: i) teorico-
+metodologica: investigar como resolver problemas e desafios do
+design de interacao distribuido, uma vez que ainda temos uma com-
+preensao limitada sobre como ocorre o design de interacao distri-
+buido; concomitante a isso, e preciso investigar e desenvolver novas
+teorias, metodos e tecnologias para o envolvimento de usuarios
+no design de interacao distribuido. Alem disso, e preciso analisar
+como considerar processos, metodos, tecnicas, praticas, aborda-
+gens, modelos e estrategias tradicionais de design de interacao no
+contexto distribuido; ii) tecnica: desenvolver novas tecnologias (ou
+adaptar tecnologias existentes) para solucionar as dificuldades e
+mitigar os desafios do design de interacao distribuido; iii) social:
+investigar o impacto do design de interacao distribuido e das tecno-
+logias desenvolvidas no comportamento e na vida das pessoas [9],
+principalmente com relacao aos designers, especialistas em IHC e
+usuarios.
+
+Essas perspectivas podem ser concretizadas com as seguintes
+acoes: formacao de grupos de estudo e pesquisa; parcerias entre
+academia e industria de software; incentivo de agencias de fomento;
+insercao de topicos de interesse em chamadas de eventos e rea-
+lizacao de eventos abordando esse topico; e insercao de topicos
+relacionados ao tema nos curriculos de graduacao e pos-graduacao.
+
+
+
+Um dos Grandes Desafios propostos para a comunidade brasileira de Interacao
+Humano-Computador (IHC) em 2012 foi “Acessibilidade e Inclusao Digital" (Furtado et al.,
+2015a), centrado no acesso adequado de todas as pessoas aos sistemas digitais. Mais de
+uma decada depois, existem diretrizes consolidadas (WCAG, 2023; eMAG, 2014) que
+buscam garantir a acessibilidade e a inclusao digital de Pessoas com Deficiencia (PcD).
+Entretanto, a preocupacao permanece extremamente necessaria, visto que muitos sistemas
+ainda sao desenvolvidos sem considerar a diversidade das pessoas usuarias (Partarakis;
+Zabulis, 2024).
+
+Por outro lado, desde que os Grandes Desafios foram pensados em 2012, vivemos grandes
+avancos na ubiquidade dos dispositivos (tambem apresentada como um grande desafio em
+2012 (Furtado et al., 2015b)) e inteligencia artificial (IA), cuja combinacao traz um grande
+potencial para a inclusao nao so digital, mas tambem social. Ainda hoje, as PcD sao
+excluidas das interacoes sociais, seja por falta de acessibilidade arquitetonica, seja por
+dificuldade de comunicacao. A situacao e ainda mais grave para pessoas nao-verbais e
+com multiplas deficiencias, que nao conseguem se comunicar oralmente e tambem podem
+possuir limitacoes motoras, por diversos motivos (autismo, paralisia cerebral, atrofia
+muscular espinhal, esclerose lateral amiotrofica, surdez, etc.). Embora existam tecnologias
+que permitem que essas pessoas controlem uma maquina pelo piscar da palpebra,
+eye-tracking ou ondas cerebrais, a efetiva inclusao delas na sociedade ainda e muito
+limitada, por questoes de custo e portabilidade, sobretudo em ambientes diversos.
+
+Em aplicativos populares de Comunicacao Alternativa e Aumentada baseados em selecao
+de imagens (Picture Exchange Communication System), tipicamente o conteudo e criado
+por uma outra pessoa, o que limita o vocabulario (e consequentemente o poder de
+expressao) da PcD. Ja os modelos usados pelos softwares de comunicacao associados a
+sintetizadores de voz tem evoluido, por exemplo usando tecnicas de processamento de
+linguagem natural (PLN) para predicao de palavras. Entretanto, em ambos os casos
+persiste o problema da lacuna de reciprocidade (tempo de espera entre as falas dos
+interlocutores), que limita o grau de naturalidade em um dialogo. Uma comunicacao que
+permita uma participacao social efetiva precisa ser rapida e exigir pouco esforco, atributos
+de qualidade consolidados em IHC.
+
+Os avancos em IA Gerativa e Interativa (Chang et al., 2024) tem um grande potencial para
+aumentar a autonomia e participacao das PcD, viabilizando sua comunicacao onde quer
+que estejam. O recem-lancado Al Pin, por exemplo, a ser usado como acessorio vestivel,
+atende os pedidos da pessoa sem necessidade de aplicativos, e por meio de interacao
+haptica, gestual, visual e oral, alem de capturar dados do ambiente (Humane, 2024).
+Entretanto, historicamente, as inovacoes tecnologicas surgem com grande apelo no mundo hegemonico daqueles que possuem um desenvolvimento tipico, sem considerar as PcD (exemplos incluem a introducao do mouse e das telas sensiveis ao toque, que inviabilizaram durante um tempo o uso pelas pessoas cegas). A preocupacao com a inclusao costuma vir depois da chegada das grandes transformacoes tecnologicas. Quando o co-fundador da empresa DeepMind, Mustafa Suleyman, afirma que “a conversacao e a futura interface (...) em vez de clicar botoes e digitar, voce vai falar com sua IA, e ela vai tomar acoes para resolver seus problemas e atender suas demandas” (MIT, 2023), ele exclui pessoas nao-verbais. A possibilidade de “conversar” com a IA, seja digitando seja falando, permanece excludente, ignorando uma oportunidade sem precedentes para uma inclusao efetiva de todas as pessoas com deficiencia.
+
+A interacao explicita envolvendo entradas diretas da pessoa usuario, como mouse, teclado ou gestos, tem sido o meio tradicional para comunicacao com um dispositivo tecnologico (Partarakis; Zabulis, 2024). Embora as interfaces ativadas por voz representem um avanco na interacao explicita, atraves da integracao de IA e PLN, permanecem excludentes para uma parcela da populacao. A interacao implicita e definida como “uma acao realizada pelo usuario que nao tem como objetivo principal interagir com um sistema computadorizado, mas que tal sistema entende como entrada” (Schmidt, 2000). Neste tipo de interacao, algoritmos de aprendizado de maquina tornam-se fundamentais no projeto da interface, permitindo ao sistema antecipar acoes e adaptar interfaces em tempo real. Tais recursos permitem que as interfaces se tornem mais personalizadas, empatizando com o usuario e entendendo o contexto de uso, assim como na interacao entre humanos. A fusao de interacao explicita e implicita e evidente no surgimento do design antecipatorio, simplificando fluxos de interacao, oferecendo uma experiencia mais inclusiva e fluida.
+
+Alem de projetar dispositivos e interfaces que respondam a formas alternativas de interacao, outra questao-chave e a producao de conteudo, onde a IA Generativa tem um papel fundamental. Os modelos de IA Generativa sao capazes de criar conteudo, como textos, videos e imagens, a partir da identificacao de padroes em grandes massas de dados, ou a partir de dados contextuais, como geolocalizacao e cena acustica. Assim, a IA Generativa pode aumentar exponencialmente o espaco de escolha na comunicacao da PcD, ampliando o vocabulario. Indo mais alem, podemos pensar em modelos e interfaces que permitam que essas pessoas interajam diretamente com o sistema, criando seus proprios conteudos atraves da IA, sem o auxilio de terceiros.
+
+Assim, queremos propor a comunidade a concepcao de solucoes radicalmente inovadoras, combinando tecnicas de IA a formas alternativas de interacao, que tenham foco na inclusao social das PcD, viabilizando sua comunicacao a partir de criacao de conteudo e assim permitindo sua participacao efetiva e autonoma em contextos educacionais, profissionais e ludicos.
+
+A exclusao social ocorre a partir de um modelo hegemonico que ignora a diversidade humana, e nos leva a pensar que os problemas estao nas pessoas, quando na verdade as barreiras sao criadas pela sociedade, e perpetuadas em discursos de mercado de massa que vendem solucoes claramente excludentes. Em uma era de grandes avancos tecnologicos, queremos propor uma volta ao foco na pessoa, com interacoes que nao sejam ditadas pelas tecnologias, mas viabilizadas por elas. Ja e passada a hora de investir esforcos de pesquisa que usem o poder computacional da IA e as diferentes possibilidades de interacao em prol da inclusao social.
+
+
+
+Os sistemas web interativos sao ferramentas cada vez mais presentes no dia a dia
+das pessoas. Atividades cotidianas como ler noticias, falar com os amigos, consultar o
+saldo em conta bancaria e fazer um pedido de refeicao sao realizadas majoritariamente
+por meio desses sistemas. De acordo Sun et al. (2018), um sistema web interativo e
+caracterizado por fornecer uma interface de usuario intuitiva por meio de um navegador
+comum, podendo armazenar e apresentar diferentes dados relacionados a multiplos
+usuarios sob demanda (e.g. portais web, sites de noticias, sites de conteudo multimedia,
+sites governamentais etc.).
+
+Neste contexto, as organizacoes que mantem esses sistemas tem se preocupado
+cada vez mais com o conceito de Experiencia de Usuario (UX, do ingles User Experience)
+da Interacao Humano-Computador (IHC). Para Norman e Nielsen (1998), a UX abrange
+todos os aspectos da interacao do usuario final com a empresa, seus servicos e produtos.
+A ISO 9241-210 define a UX como as percepcoes e respostas de uma pessoa que resultam
+do uso e/ou uso antecipado de um sistema, produto ou servico (Barbosa et al., 2021).
+Nesse sentido, essas organizacoes tem investido em formas de proporcionar uma UX
+satisfatoria aos usuarios dos seus sistemas para que sejam bem avaliadas por todos os
+publicos, aumentando sua credibilidade, sua confianca e, consequentemente, sua
+produtividade.
+
+A confianca e a credibilidade sao aspectos relacionados a forma como os usuarios
+acessam, percebem e interagem com as informacoes que sao disponibilizadas pelas
+organizacoes por meio dos seus sistemas web interativos. Essa relacao se reflete no
+conceito de transparencia. De acordo com Holzner e Holzner (2006), o conceito de
+transparencia pode ser definido como um fluxo aberto e acessivel de informacoes,
+presumidamente, verdadeiras. Nesse sentido, a maneira como as organizacoes
+disponibilizam e gerenciam as suas informacoes tem gerado discussoes nas areas politica,
+social e organizacional (Albu e Flyverbom, 2019).
+
+No Brasil, as primeiras discussoes sobre o gerenciamento e o fluxo aberto de
+dados e informacoes comecaram com a promulgacao da Lei no 12.527/2011 ou Lei de
+Acesso a Informacao (LAI), que tem incentivado a transparencia ativa e uma
+disponibilidade crescente de informacoes sobre organizacoes publicas em seus sites
+institucionais (Brasil, 2011). Outro marco importante nesse contexto foi promulgacao da
+Lei no 13.709/2018 ou Lei Geral da Protecao de Dados (LGPD), que protege os direitos
+fundamentais de liberdade e de privacidade e controla o uso/tratamento de dados pessoais,
+realizado por pessoa fisica ou juridica, em organizacoes publica e privadas (Brasil, 2018).
+
+A aplicacao dessa legislacao transcende as areas politica, social e organizacional
+e incide sobre os sistemas web interativos, uma vez que, atualmente, muitos processos de
+tratamento e de disponibilizacao de dados e informacoes sao realizados e/ou apoiados por
+esses sistemas. Assim, aplicar a LAI e a LGPG em sistemas web interativos implica em
+realizar adequacoes no projeto de interacao entre usuario e sistema, visando a UX. Ao se
+projetar para a UX, deve-se ter como alicerce o Design Centrado no Usuario, que coloca
+o usuario no centro do processo de design, garantindo que as necessidades, desejos e
+comportamentos do usuario sejam considerados durante o processo de desenvolvimento
+de um produto ou servico (Barbosa et al., 2021). Dessa forma, alinhar os interesses do
+usuario com a necessidade de adequacao de acoes de transparencia nos sistemas web
+interativos se torna uma atividade complexa que pode culminar em acoes de trade-off
+(situacoes de conflito de escolha).
+
+A partir desse contexto, um Grande Desafio de Pesquisa que emerge para a
+comunidade de IHC e a elaboracao de mecanismos, praticas, estrategias ou acoes que
+apoiem a transparencia de dados e informacoes, visando o cumprimento da legislacao
+vigente, e causem o minimo de impacto na UX dos sistemas web interativos. Uma das
+principais motivacoes para a formulacao deste Grande Desafio se da ao seu carater
+transdisciplinar, uma vez que envolve aspectos das areas de direto, tecnologia, psicologia
+e etica.
+
+Outras dificuldades relacionadas a este Grande Desafio estao relacionadas ao grau
+de complexidade existente na execucao de avaliacoes tanto de UX quanto de
+transparencia. No caso da UX, uma das principais dificuldades enfrentadas por
+pesquisadores e/ou designers e conseguir obter maior precisao nos resultados de estudos
+nos diferentes dominios desses sistemas, devido as necessidades especificas de cada
+publico (Barbosa et al, 2021). Quanto a transparencia, ainda ha necessidade de estabelecer
+metricas para a avaliacao desse requisito nos diferentes dominios de sistemas web
+interativos indicando, por exemplo, qual o nivel de transparencia de informacao e
+considerado adequado em determinada situacao (Zacarias et al., 2023). Portanto, esses
+sao alguns exemplos de questoes que ainda precisam ser exploradas para embasar
+potenciais estudos no contexto deste Grande Desafio.
+
+Cabe tambem chamar a atencao da comunidade de IHC para os riscos e problemas
+relacionados a esse Grande Desafio, uma vez que ja existem em nosso cotidiano. Por
+exemplo, a disseminacao de fake news, o uso indevido de dados pessoais, aplicacao de
+golpes criminosos, entre outras questoes que sao consequencias da falta de transparencia
+e desinformacao existentes durante a interacao com os sistemas web interativos, fazendo
+com que os usuarios sofram em tais situacoes, trazendo impactos para a UX. Isso culmina
+na diminuicao da credibilidade e da confianca dos usuarios para com as organizacoes
+detentoras dos sistemas.
+
+Para avancar na resolucao desse Grande Desafio, e esperado que a comunidade de
+IHC: proponha um conjunto de heuristicas e/ou diretrizes para a transparencia da
+informacao em interfaces web; investiguem quais fatores de transparencia que afetam a
+UX; elaborem uma escala de nivel de transparencia da informacao com base em UX; e
+desenvolva tecnicas, instrumentos e ferramentas para avaliacao de transparencia e/ou de
+UX em sistemas web interativos, visando maior precisao na analise dos resultados. Por
+fim, espera-se que essas solucoes contribuam para a efetividade na aplicacao da legislacao
+vigente (LAI e LGPD), sem prejuizo da UX nos sistemas web interativos.
+
+
+
+Em 2012, "Acessibilidade e Inclusao Digital" foi um dos Grandes Desafios propostos para a
+comunidade brasileira de Interacao Humano-Computador (IHC) (Furtado et al., 2015). Este
+desafio levantou questoes sobre a participacao de pessoas com deficiencias em processos
+de design, o que se alinha ao slogan mundialmente conhecido "nada sobre nos sem nos".
+Esta e uma frase que traz dois alertas: (i) projetos de design que nao levam em
+consideracao grupos minoritarios e marginalizados; e (ii) presuncao de designers que,
+quando projetam produtos e servicos para tais grupos, o fazem sem ouvir essas pessoas.
+Na comunidade de IHC, a resposta a essa critica tem vindo principalmente atraves do
+Design Participativo (DP), um conjunto de metodos e teorias que visa partilhar o poder de
+decisao com o publico-alvo, promovendo colaboracao horizontal, dialogo e troca de
+conhecimento e experiencias (Muller; Druin, 2010). O DP, que surgiu de uma luta politica do
+movimento escandinavo pela democracia em ambientes de trabalho (Floyd, 1987), tem
+entre suas caracteristicas o empoderamento de grupos discriminados, excluidos e
+marginalizados (Spinuzzi, 2005). Entretanto, ao longo dos anos, o DP tem se distanciando
+de suas origens politicas, e falhado em verdadeiramente empoderar esses grupos, que
+permanecem a margem dos processos de design e dos espacos de tomada de decisao.
+
+Nos ultimos anos, os termos justica, equidade, diversidade e inclusao passaram a compor
+um framework (popularmente conhecido em ingles pela sigla JEDI) adotado por instituicoes
+de ensino e empresas que buscam "fazer o bem". Entretanto, ha criticas tanto ao acronimo
+JEDI, que remete ao universo pop repleto de estereotipos opressivos da franquia
+estadunidense Guerra nas Estrelas (Star Wars), quanto ao produto que ele se tornou,
+associado ao capital corporativo (Hammond et al., 2021). Em uma linha similar, o Design for
+Good se define como uma alianca sem fins lucrativos de organizacoes globais lideres que
+busca entregar impacto positivo no mundo atraves do "talento criativo" de designers. O
+design centrado no humano (Human-Centered Design - HCD), que advoga por colocar as
+pessoas envolvidas no centro do processo e projetar "para elas", tambem se tornou um
+produto de empresas como a estadunidense IDEO, uma das maiores empresas de design
+e inovacao do mundo. A partir de abordagens como Design Thinking, essa e incalculaveis
+outras consultorias tem foco na construcao de produtos e usuarios; nao na preparacao de
+cidadaos e busca por bem-estar, de forma mais ampla (Dunne; Raby, 2013). Assim, se
+perpetua a logica colonialista - por exemplo, o continente africano e um dos locais que mais
+recebem projetos de HCD da IDEO.
+
+E tambem neste contexto de negocio que padroes de design antietico, antes comumente
+denominados dark patterns (padroes obscuros), e agora conhecidos como deceptive ou
+manipulative patterns (padroes enganosos ou manipulativos) para evitar uma conotacao
+racializada, se multiplicam (sao mais de 15 tipos, somente considerando a taxonomia
+divulgada pelo precursor e entusiasta do tema, o pesquisador Harry Brignull). Padroes
+manipulativos buscam direcionar a tomada de decisao e afetar a autonomia de pessoas
+usuarias em prol dos objetivos da organizacao (em um exemplo simples, o padrao attention
+capture busca obter a atencao de uma usuaria de forma frequente para aumentar o seu
+engajamento em uma rede social, nutrindo-a com mais dados e conteudos postados).
+
+Recentemente, tem-se percebido, principalmente no Sul Global, movimentos de reacao as
+abordagens nortistas e eurocentricas como o JEDI, Design for Good e HCD. A teoria
+decolonial e um campo decorrente de pautas politicas dos movimentos autonomistas na
+America Latina e no continente africano, que argumenta em prol de praticas de resistencia
+ao colonialismo ocidental que ainda hoje marca a nossa sociedade e cultura (Serpa et al.,
+2020). Segundo Bibiana Serpa e colaboradoras, "a importancia de se falar em processos de
+decolonizacao em design emerge da necessidade urgente de superacao dos pressupostos
+da modernidade que ate hoje justificam diversas formas de opressao normalizadas no
+nosso cotidiano, e que se revelam em praticas corriqueiras em design (...) O que pode ser
+diferente, dado o historico do design como campo inserido numa sociedade de disciplina e
+controle, hierarquia e poder?".
+
+Buscando respostas a esse questionamento, o grupo Design & Opressao, fundado em
+2020, objetiva "estabelecer lacos de solidariedade entre todas as lutas contra a opressao
+que passam pelo design como ferramenta, espaco, ou questao a ser transformada". A rede
+tem suas raizes teoricas na tradicao de pensamento critico latino-americano da Educacao,
+Artes e Sociologia para o campo do Design. Van Amstel e colaboradores (2022), membros
+da rede, alegam que se percebe uma tendencia recente, provocada por movimentos
+sociais, que reconhece a cumplicidade do design com diversas formas de opressao. Esse
+reconhecimento e visto como o primeiro passo para ocupar, reivindicar, reparar e restaurar o
+que foi feito pelos opressores, assumindo uma postura construtiva de apresentar novas
+realidades em vez de uma visao fatalista que apenas perpetua as estruturas de poder.
+
+A justica no design tem aparecido em contextos sociais e educacionais, particularmente
+com a crescente popularizacao da Inteligencia Artificial (IA). Por meio desse conceito,
+busca-se refletir, por exemplo, sobre a tomada de decisao com base em resultados
+algoritmicos, quando vieses ja conhecidos levantam discussoes sobre a justica em
+algoritmos (em ingles, usualmente chamada de fairness) e introduzem a ideia de racismo ou
+discriminacao pelos algoritmos (Uttamchandani; Quick, 2022), diretamente ligada ao
+eurocentrismo e hegemonia ocidental. Sasha-Costanza Chock, uma pesquisadora trans
+estadunidense vinculada ao MIT, propos o termo Design Justice para se referir a uma
+abordagem baseada em trabalhos de designers em colaboracao com movimentos sociais.
+Esta abordagem propoe a lideranca por comunidades marginalizadas, desafiando
+desigualdades estruturais para promover reparacoes historicas (Constanza-Chock, 2020).
+
+Percebe-se, portanto, um movimento crescente nao-hegemonico que busca, nao so no
+campo do design, mas tambem nele, libertar-se da dominacao cultural e superar sistemas
+(de software e mais amplos) opressores. Acreditamos que a busca por um design justo e
+decolonial e um grande desafio de pesquisa que precisa estar entre as pautas da
+comunidade brasileira de IHC na proxima decada, especialmente considerando as questoes
+eticas que vem sendo levantadas com a popularizacao da IA e pervasividade tecnologica
+em geral.
+
+
+
+A area de Interacao Humano-Computador (IHC) tem natureza multidisciplinar e implicacoes
+nas diversas esferas da sociedade. A preocupacao central de IHC esta no desenvolvimento
+de interfaces computacionais que atendam requisitos de qualidade centrada no humano e
+no entendimento do impacto do uso de tecnologias na vida de seus usuarios (Barbosa et al.,
+2021). Neste sentido, a interlocucao entre IHC e pesquisas sobre politicas publicas,
+legislacao e regulamentacao do uso, implantacao e fiscalizacao de sistemas interativos e
+fundamental para a area. Tal interlocucao tambem fundamenta o desenvolvimento e avanco
+na utilizacao de sistemas que nao gerem impactos negativos sobre as pessoas e que
+contribuam com o desenvolvimento humano em seu sentido mais amplo.
+
+Existem desafios metodologicos, teoricos e praticos significativos para estabelecer um
+dialogo efetivo entre as pesquisas em Interacao Humano-Computador e as diversas areas
+envolvidas para o desenvolvimento de novas tecnicas para IHC. Nesse contexto, o dialogo
+multidisciplinar em IHC e dificultado pelas diferencas de contextos e terminologias tecnicas
+das diversas areas.
+Tais desenvolvimentos devem contemplar avancos em politicas publicas, legislacao e
+regulamentacao de sistemas interativos, bem como fazer pontes para a utilizacao efetiva de
+tecnicas de IHC ja existentes em diversos contextos em que ainda ha limitacao na
+legislacao e regulamentacao, bem como promocao de politicas publicas.
+
+O efetivo avanco neste desafio demanda dialogo entre pesquisas em IHC e diversas areas
+do conhecimento, como Direito, Administracao Publica, Ciencia Politica, Sociologia, dentre
+outras (Lazar et al., 2015; Preece, 2016). Assim, pesquisadores de IHC tem realizado
+diversas iniciativas em interlocucao com essas demais areas (Grimpe et al., 2014; Lazar et
+al., 2015; Lazar, 2015; Lazar, 2019; Kisselburgh et al., 2020; Manuel e Crivelaro, 2020;
+Shneiderman, 2020). Entretanto, carecemos de avancos que ocasionem impacto sociais a
+curto e medio prazo, e isso depende de esforcos bilaterais entre as areas envolvidas.
+Precisamos levar tecnicas de IHC para influenciar politicas publicas, legislacao e
+regulamentacao, e tambem precisamos avancar em tecnicas de IHC para atendimento de
+demandas de novos avancos e desafios em diversas areas recentes, como Inteligencia
+Artificial (Buiten, 2019), Protecao de Dados, em particular de sujeitos vulneraveis e
+neurodireitos (lenca, 2021), sustentabilidade (Mencarini et al., 2023), dentre outros.
+
+A falta de avanco nos resultados sociais da interlocucao entre IHC e politicas publicas,
+legislacao e regulamentacao traz graves consequencias para a sociedade. Por um lado, no
+contexto da acessibilidade digital, estudos mostram que a falta da adocao de tecnicas ja
+existentes de IHC e sua regulamentacao oficial tem causado impacto negativo na efetiva
+disponibilizacao de sistemas mais acessiveis a pessoas com deficiencia (Mateus et al.,
+2022). Por outro lado, tambem ha desafios significativos para o desenvolvimento de
+tecnicas de IHC que implementem os requisitos legais existentes sobre protecao de dados
+de cidadaos brasileiros, alem de modelos que auxiliem na discussao legal de aspectos
+eticos relacionados, prioritariamente, ao desenvolvimento e adocao de tecnologias de
+Inteligencia Artificial (incluindo o Projeto de Lei no 2338, de 2023, que esta em tramite no
+Senado Federal).
+
+Espera-se que o avanco nos desafios de interlocucao entre IHC e politicas publicas,
+legislacao e regulamentacao resultem em:
+1) Desenvolvimento de tecnicas e metodos de IHC socialmente posicionadas, em dialogo
+com diferentes areas do conhecimento;
+2) Efetivacao da implementacao de pesquisas desenvolvidas pela comunidade brasileira de
+IHC com impacto efetivo na sociedade;
+3) Satisfacao e efetivacao de direitos individuais e coletivos fundamentais a partir do uso de
+tecnologias computacionais;
+4) Equilibrio e adequacao entre instrumentos de regulacao de tecnologias digitais, livre
+iniciativa e sujeitos de direito tutelados;
+5) Efetivo dialogo da comunidade de IHC brasileira no processo de transferencia de
+resultados de pesquisa nos processos de criacao e aperfeicoamento de leis e
+regulamentacoes de tecnologias interativas.
+
+
+
+Os avancos tecnologicos ocorridos nos ultimos 20 anos contribuiram para a
+mudanca de foco na area de Computacao. Ao inves de processos centrados
+nos sistemas, o foco foi deslocado para entender as necessidades dos
+usuarios, no intuito de alcançar a qualidade da interacao e da experiencia [6].
+
+Nesse sentido, acreditamos que o design participativo pode ser uma estrategia
+potente para o design e desenvolvimento tecnologico responsavel, visando
+proporcionar uma qualidade da interacao e da experiencia aos diversos
+usuarios. Entendemos que o design participativo tambem pode contribuir para
+a universalidade da interacao e a geracao de inovacao para a promocao da
+equidade no Brasil [4].
+
+Nesse cenario de constantes modificacoes na sociedade, tambem esta
+presente uma parcela da populacao constituida de pessoas com deficiencia,
+com baixo letramento e idosos que historicamente vem sendo privada dos
+avanços tecnologicos. Alem disso, a Internet contribuiu para um acelerado
+crescimento da circulaçao de dados na sociedade, sendo considerada na
+atualidade a 4ª revoluçao industrial. Vivemos na sociedade da comunicaçao,
+em que a aceleraçao da transformaçao digital evidencia a necessidade da
+integraçao entre ciencia, tecnologia e educaçao para alcançar um
+desenvolvimento sustentavel no pais [3]. Consideramos, assim, que os
+avanços tecnologicos contribuiram para a desigualdade social.
+
+De acordo com os Desafios 4 e 2, propostos respectivamente pela SBC em
+2006 e pela comunidade de IHC em 2012, essas demandas resultantes do
+impacto da tecnologia na sociedade ainda se fazem presentes e necessarias
+de serem mitigadas, a fim de nao ocorrer um agravamento da exclusao digital,
+resultando no crescimento da desigualdade social [1][2].
+
+Apesar dessas proposiçoes e dos avanços em pesquisas relacionadas ao
+Grande Desafio de promover Acessibilidade e Inclusao Digital no periodo de
+2012 a 2022, pesquisas indicam que promover a universalidade da interaçao
+continua sendo um grande desafio na Computaçao, evidenciando a
+necessidade de estrategias para mitigar essa demanda a partir da ampliaçao
+das discussoes com a participaçao de pesquisadores com deficiencia
+[9][5][8][7]. Alem dos desafios que ainda persistem na utilizaçao de forma
+equitativa de tecnologias ja bem consolidadas, como a Web, ainda ha desafios
+significativos para comunidade de IHC para o design responsavel,
+contemplando o avanço tecnologico recente, para possibilitar uso equitativo de
+tecnologias que utilizam realidade mista, tecnologias de Internet das Coisas,
+tecnologias que utilizam Inteligencia Artificial e large language models,
+considerando as particularidades de grupos especificos de pessoas e suas
+necessidades para o design.
+
+Ao considerarmos que a exclusao desse significativo numero de pessoas, que
+fazem parte desta parcela da populaçao, pode representar um risco para o
+desenvolvimento economico do pais na proxima decada, por isso faz-se
+necessaria a colaboraçao entre industria e academia (interligando ensino,
+pesquisa e extensao), para a proposiçao de uma nova agenda de trabalho, no
+intuito de alcançar os desafios antigos e atuais pensando no futuro. Alem da
+abordagem de grupos de pessoas ja abordados em diversas pesquisas, os
+ultimos anos tambem tem trazido diversos desafios com o avanço da
+compreensao sobre grupos especificos e desafios para o design para esses
+grupos. Enquanto pesquisas sobre neurodiversidade avançam em diversos
+campos da ciencia, a area de IHC ainda carece de trabalhos que auxiliem de
+forma mais efetiva no design responsavel, considerando a amplitude e
+diversidade desses grupos. Em anos recentes, tambem tem aumentado a
+compreensao sobre as necessidades de pessoas mais velhas na interaçao
+com diferentes sistemas, mesmo com pessoas que tiveram exposiçao a
+dispositivos tecnologicos antes do processo de envelhecimento.
+
+Neste sentido, pensar o design e o desenvolvimento tecnologico de forma
+responsavel pode ser considerado fundamental para a promoçao da equidade
+na sociedade. Aliado a isso, entendemos que o conhecimento e o fator
+impulsionador da ciencia e da inovaçao na busca pela universalidade da
+interaçao; que, por consequencia, evidencia a importancia da interlocuçao
+entre ciencia, tecnologia e educaçao, no exercicio de repensar o passado para
+projetar um futuro mais equitativo, o qual inclui maior empatia e consciencia na
+geraçao de politicas publicas.
+
+Com o avanço em soluçoes relacionadas a este desafio, espera-se contribuir
+com pesquisas em IHC em diversos aspectos:
+1) Avanço em metodos de design responsavel e avaliaçao da interaçao
+contemplando diferentes grupos de pessoas, incluindo grupos com poucas
+pesquisas no contexto atual;
+2) Avanço na caracterizacao de implicaçoes para o design de novas
+tecnologias ainda pouco exploradas em relaçao à acessibilidade;
+3) A criaçao e implementaçao de metodos de ensino e politicas educacionais
+que incluam pessoas diversas em cursos de ensino superior e pos-graduaçoes,
+possibilitando representatividade nos espaços de construçao do conhecimento;
+4) Pesquisas para o avanço na implementaçao de politicas publicas para a
+transferencia de tecnologias e metodos resultantes de pesquisas em IHC para
+efetivo uso na sociedade.
+
+
+
+Qual é a proposta de Grande Desafio de Pesquisa em IHC no Brasil para 2025-2035?
+As tecnologias digitais modelam a experiencia humana e vice-versa. Em 1986, Winograd e
+Flores afirmaram que "ao projetar ferramentas, projetamos formas de viver" [1]. A area de
+Interacao Humano-Computador (IHC) tem como vocacao a integracao de diferentes
+perspectivas e necessidades humanas no projeto e avaliacao de tecnologias interativas,
+porem vem sendo desafiada pela necessidade de fornecer teorias, metodos e ferramentas
+para a construcao de tecnologias interativas que diminuam as desigualdades sociais e
+economicas perpetuadas digitalmente devido a vieses ligados a estereotipos de genero [23,
+24, 25, 26, 27].
+
+Esse desafio tem como objetivo incentivar o debate e pesquisa para criacao de estrategias
+teoricas, metodologicas e praticas para a Promoção da Equidade de Genero em IHC [12,
+13, 14], em linha com os Objetivos de Desenvolvimento Sustentavel 4 (Educaçao de
+Qualidade), 5 (Igualdade de Genero) e 10 (Reduçao das Desigualdades) [2], estabelecidos
+pela Organizaçao das Naçoes Unidas ate 2030. O desafio tambem dialoga com os esforcos
+de sociedades cientificas sobre diversidade de Genero em Computaçao, como a Sociedade
+Brasileira de Computaçao (SBC), com o Programa Meninas Digitais¹; ACM Diversity, Equity,
+and Inclusion Council²; e as iniciativas relacionadas a genero do British Council.
+
+Quais caracteristicas o tornam um Grande Desafio de Pesquisa (e nao um desafio
+regular)?
+
+O desafio proposto se caracteriza por dialogar principalmente com Educaçao e Atuaçao
+Profissional; Desenvolvimento teorico e metodologico; e Questoes Culturais transversais.
+
+Quanto à Educaçao e Atuaçao Profissional, as constantes mudanças e avanços
+socioculturais, politicos e economicos, aliados à evoluçao tecnologica, exigem a preparaçao
+de profissionais cientes das suas responsabilidades e impactos das suas decisoes sobre o
+contexto onde estamos inseridos, em que a manutençao do machismo estrutural,
+estereotipos de genero e preconceito em IHC traz complexas e profundas implicaçoes.
+Pode-se constatar, por exemplo, a pouca enfase dada nos curriculos dos cursos de
+Computaçao à formaçao de profissionais capazes de lidar com desafios ligados à
+diversidade de genero, tais como os impactos da diversidade entre quem produz e quem
+interage com a tecnologia sobre o projeto de sistemas, ou as oportunidades trazidas por
+essa diversidade [6]. Tambem e preciso discutir e investigar o impacto gerado pela falta de
+equidade e diversidade em quem ensina, pesquisa e desenvolve tecnologia.
+
+Quanto ao Desenvolvimento teorico e metodologico, chamamos atençao para metodos
+como o design inclusivo, contextualizado na Interaçao Interseccional Humano-Computador
+[3]. Ha diferencas na interaçao tecnologica quando se fala de genero, o que impacta na
+percepçao de autoeficacia e pode criar barreiras para o sucesso feminino na utilizaçao de
+certos recursos [4, 5]. Abordagens teoricas como a IHC Feminista [7, 8, 9] e a Teoria Queer
+em IHC [15, 16] fornecem lentes para a pesquisa e pratica de IHC, mas ainda precisamos
+avançar para estrategias que incluam a realidade local, que podem afetar certos generos
+com a manutençao da invisibilidade. Atuar em prol da diversidade de genero implica em
+pensar distintos perfis (idade, raça, genero, orientaçao sexual, habilidades fisicas, etc.)
+
+Quanto às Questoes Culturais associadas à diversidade de genero, os estereotipos de
+genero sao moldados pela sociedade e cultura, frequentemente refletidos, mesmo que de
+forma inconsciente, no processo de design [20]. Os estereotipos sociais que designers
+incorporam na tecnologia podem influenciar as açoes das pessoas que utilizam suas
+criaçoes. Stumpf et al. [20] discutem tres estereotipos de genero ligados à IHC: estetica de
+genero, que se refere à associaçao estereotipada de escolhas esteticas com um genero
+especifico, como preferencias de cores ou elementos de design; genero binario, que
+envolve a assunçao de uma dicotomia estrita entre homem e mulher, negligenciando o
+espectro de identidades e expressoes de genero; e papeis de genero, que trata dos papeis
+e comportamentos tradicionais esperados das pessoas com base no genero atribuido ou
+percebido. Investigar suposiçoes e estereotipos inconscientes e implicitos incorporados à
+tecnologia, alem de encorajar perspectivas diversas e incluir a participaçao de diferentes
+generos no processo de design, tanto na equipe de desenvolvimento quanto no design, e
+necessario [20].
+
+Por que e critico que a comunidade direcione esforcos para supera-lo? Quais os
+riscos se nao avançarmos em sua resoluçao?
+
+A tecnologia pode esconder desigualdades estruturais, tornar os recursos menos inclusivos
+e acessiveis [10, 11] e propagar formas de marginalizaçao da sociedade [12, 13, 14].
+Percebe-se a falta de discussoes mais aprofundadas sobre soluçoes de IHC para os
+desafios e oportunidades trazidos pela diversidade de genero, com contribuiçoes etica,
+social, economica e politica [29].
+
+Da mesma forma, apesar de ja termos pesquisas consolidadas ou em andamento sobre
+decolonialismo [17, 18, 28], feminismo em IHC [19, 21] e teoria queer em IHC [15, 22], entre
+outros, ha que se questionar como tais abordagens tem sido interpretadas e incluidas na
+pesquisa de IHC na America Latina. Precisamos entender de maneira mais aprofundada
+como os metodos e teorias atuais de IHC podem propagar relaçoes historicas de poder e
+padroes de opressao relacionados a genero, para entao pensar em como podemos projetar
+tecnologias interativas com teorias e metodos que sao fundamentalmente decoloniais e
+promovem a equidade de genero. E preciso dar espaço de fala para a diversidade de
+genero em IHC, atuando de forma interseccional [29].
+
+Quais os principais resultados esperados do avanço em sua soluçao?
+
+A criaçao de estrategias teoricas, metodologicas e praticas para a Promoçao da Equidade
+de Genero em IHC tem amplas implicaçoes para a sociedade e conduz a avanços no
+conhecimento, desenvolvimento social, crescimento economico, inovaçao tecnologica e
+bem-estar humano.
+
+Esta proposta de grande desafio, inspirada pela categorizaçao proposta por Salgado e
+Leitao [6], tem a expectativa de avanços em tres niveis: 'consciencia' (awareness);
+'instrumentalizaçao'; e 'intervençao'. Cada um dos niveis apresenta sua propria
+complexidade, e envolve a evoluçao teorica, metodologica e pratica de IHC para a
+passagem para o proximo nivel.
+
+A area de IHC precisa se apoiar em modelos e estrategias mais criticas, eliminando (ou
+diminuindo) praticas atuais enviesadas e estereotipadas. Devemos ampliar a discussao, por
+meio de praticas transformadoras de IHC, incluindo valores humanos, com justica social e
+equidade.
+
+
+
+Esta proposta foca nos desafios de interaçao e aplicaçoes por meio do uso de tecnologias de
+Computaçao Espacial (CE). O termo CE surgiu pela primeira vez em 2003 [6], o qual trata da
+interaçao humana com uma maquina que retem e manipula informaçoes referentes a objetos reais,
+virtuais e espaços. Posteriormente, [14] reforçam o conceito por meio da fusao de diversas
+tecnologias para entendimento do contexto do usuario. A interaçao humana com a CE extrapola as
+telas planas normalmente encontradas em computadores pessoais e dispositivos moveis (tablets e
+smartphones).
+
+A CE permite às pessoas terem a percepçao de que o corpo humano esta imerso e envolvido na
+aplicaçao computacional. A imersao permite a movimentaçao nos seis graus de liberdade possiveis.
+A popularizaçao das tecnologias de Realidade Virtual (RV) e Aumentada (RA) e o conceito de
+"Continuo de Realidade" [12] resgataram o termo CE. Equipamentos com as tecnologias de RV estao
+se tornando mais disponiveis. O mesmo nao ocorre ainda com a RA. Em geral, estes dispositivos
+possuem algumas interfaces de interaçao espacial, permitindo que a interaçao das pessoas seja feita
+por meio de 6 graus de liberdade (frente/tras, cima/baixo, esquerda/direita, guinada, inclinaçao,
+rotaçao).
+
+Interfaces multimodais ja sao exploradas. Podemos encontrar uso de sensores embarcados nos
+equipamentos tais como acelerometro e giroscopio, cameras 3D, captura de audio [10] e interfaces
+cerebro-computador [5,19]. CE requer novas formas de interaçao para tarefas rotineiras. Por
+exemplo, o ato de digitar um texto nao e simples quando precisamos entrar com dados em RV. O
+estudo apresentado em [9] descreve que o uso de teclados virtuais em RV pode se tornar um
+problema apos longo tempo de uso. Os autores concluiram que o uso do teclado virtual combinado
+com fala teve os melhores resultados. Entretanto, temos que considerar que o uso da voz pode ser
+proibitivo em alguns contextos. Este e um dos diversos exemplos de interaçao com CE que
+precisamos redesenhar para que a tecnologia chegue às pessoas.
+
+Imersao e presença sao dois aspectos importantes nesse contexto. Imersao e uma propriedade
+objetiva de um sistema e, sera maior ou menor enquanto um sistema apresenta condiçoes
+sensorio-motoras naturais para percepçao [16]. Portanto, quanto mais e melhores recursos que estimulam a percepcao com objetivo de aproximar-se da experiencia real, maior sera a imersao.
+Presenca e a sensacao subjetiva de uma pessoa de estar presente em outra realidade [2] e e
+comumente definida como algo semelhante a sensacao de “estar la” [15]. Considerando que esses
+dois aspectos sao importantes para uma boa interacao com tecnologias de RA/RV, estudos precisam
+ser feitos para avalia-los em diferentes contextos e com diferentes publicos [20]. Alem disso, poucos
+metodos de avaliacao de usabilidade/UX consideram esses aspectos em suas abordagens [17].
+Diversas areas do conhecimento podem fazer uso destas tecnologias de forma multidisciplinar. Na
+literatura, encontramos trabalhos focados em areas tais como ferramentas para suporte ao processo
+de ensino e aprendizado [1,18], apoio a operacoes industriais [3], treinamento [4], diagnostico [11] e
+tratamento [13].
+
+Apesar de todos beneficios das tecnologias de RA/RV, estudos que explorem aspectos de
+acessibilidade ainda precisam ser desenvolvidos. Por exemplo, os equipamentos de RA/RV em geral
+sao chamados de oculos, provavelmente pelo fato de que a visao e um dos sentidos mais utilizados.
+Segundo Hutmacher [7], o dominio das tecnologias e estudos visuais e reforcado social e
+culturalmente e nao simplesmente uma lei da natureza, o que nos da a oportunidade de dar um
+passo atras e pensar sobre quais ambientes sensoriais queremos criar e quais teorias precisam ser
+criadas. A percepcao que pessoas sem deficiencia possuem sobre o que e realidade e diferente das
+Pessoas com Deficiencia (PCDs). Por exemplo, uma pessoa com deficiencia visual tende a ter os
+sentidos da audicao e tato mais apurados, os quais frequentemente sao ativados para suprir a
+deficiencia visual. A percepcao de realidade que deve ser reproduzida com o conceito de RA/RV para
+PCDs, deve considerar as particularidades de cada pessoa e o tipo de deficiencia. Para a
+comunidade cientifica, estabelece o desafio para uso de metodos empaticos para compreensao e
+design de tecnologias acessiveis. Estes desafios, ainda requerem atencao sobre aspectos eticos e
+de privacidade [8].
+
+Quais caracteristicas o tornam um Grande Desafio de Pesquisa (e nao
+um desafio regular)?
+Investigacao de novos algoritmos e dispositivos para uma Interacao-Humano Computador
+espacial mais natural.
+Nao e facil fazer o usuario se sentir imerso e presente de forma natural.
+Hoje os equipamentos disponiveis nao sao acessiveis para pessoas com deficiencia, em
+especial deficiencia visual (pesquisas ainda sao escassas).
+O feedback tátil ainda e muito incipiente. Interfaces para sentir toque, textura, peso e outras
+sensacoes que nao sao possiveis de experimentar com os equipamentos atuais sao
+necessarias para imersao e presenca.
+Questoes de privacidade, seguranca e etica costumam ter desafios importantes na interacao
+entre pessoas e equipamentos.
+Metodos de avaliacao de usabilidade, UX e acessibilidade atuais nao atendem a todos os
+aspectos relevantes para interacao com esta tecnologia.
+
+Por que e critico que a comunidade direcione esforcos para supera-lo?
+Quais os riscos se nao avançarmos em sua resolucao?
+Para a comunidade brasileira, e de fundamental atencao nesta linha para uso de CE em contextos de
+educacao, saude e bem estar social. E necessario buscar solucoes mais acessiveis a grande massa,
+como temos hoje, com os telefones celulares para a difusao da CE. Ha riscos de nao se tornar
+tecnologia popular, caso nao tenha interacoes mais naturais.
+
+Quais os principais resultados esperados do avanco em sua solucao?
+Espera-se que novas pesquisas, patentes e tecnologias sejam disponibilizadas pela comunidade
+cientifica. Os resultados destes trabalhos devem ser aplicados a sociedade. As solucoes podem
+ajudar tambem na definicao de politicas publicas e sociais.
+
+
+
+Valores humanos foram postulados como grandes desafios de pesquisa de
+Interacao Humano-Computador (IHC) no Brasil no I GrandIHC [1], sendo o desafio
+analisado por Leitao et al. em 2017. A partir deste, a comunidade de IHC no Brasil
+investigou valores em diversos contextos da web. Entretanto, para a proxima
+decada, desafios relacionados aos valores estarao cada vez mais associados com
+tecnologias para alem do paradigma Web e Desktop, envolvendo conceitos de
+Computacao Ubiqua e Inteligencia Artificial (IA), que ainda nao foram investigados
+exaustivamente.
+
+Recentes tecnologias tem provocado diversas violacoes eticas e de valores
+humanos [3, 5, 10, 11, 14, 15, 16, 17]. As violacoes de valores por tecnologias nao
+sao casos isolados e demonstram a capacidade de tecnologias emergentes com
+cada vez maior alcance e impacto perturbarem a vida social. Ainda que avancos
+tenham sido alcancados para fazer com que a tecnologia respeite valores humanos,
+como a legislacao de privacidade [2, 6], a vida humana e repleta de outros valores
+intimamente ligados a nossa cultura, emocao e afeto que podem ser afetados pelas
+tecnologias.
+
+Realizando uma pesquisa nos artigos publicados no “Simposio Brasileiro
+sobre Fatores Humanos em Sistemas Computacionais” (IHC), usando a expressao
+de busca: ("valores humanos" OR "valores sociais" OR "valores eticos" OR "valores
+culturais" OR "valores morais" OR "human values" OR "social values" OR "ethical
+values" OR "cultural values" OR "moral values")1
+. Foram encontrados 84 artigos que
+mencionam valores de alguma maneira. Analisando titulo, resumo e palavras-chave,
+removendo artigos que nao trabalharam com o foco em valores humanos,
+chegamos a 62 artigos.
+
+Analisando as publicacoes, 20 artigos tiveram uma abordagem sem focar em
+um valor especifico. Valores mencionados no desafio original tambem foram
+envolvidos nas pesquisas: privacidade (6 artigos), etica (4 artigos) e legado digital
+(13 artigos). Valores especificos como empatia (4 artigos), cultura (4 artigos) e
+desinformacao (3 artigos) tambem foram investigados. A partir desta analise, ha um
+indicio de que a diversidade existente de valores humanos presente em um
+ambiente social e tecnologico pode ser melhor investigada.
+
+Convidamos a comunidade a ampliar as avaliacoes para valores humanos
+que sao proximos da vida social em um panorama nacional com diversos desafios
+sociais, como a exclusao social e o nao acesso aos direitos humanos basicos. Entre
+os valores, inclui-se os sociais, como carinho, amor; valores esteticos, como beleza,
+sublime; valores eticos, como justica, moral; e valores tecnicos, como legado digital,
+e usabilidade.
+
+Entre as pesquisas mapeadas, encontram-se estudos no contexto de
+softwares sociais (11 artigos), jogos (6 artigos), memoriais digitais (3 artigos) e
+chatbots (2 artigos). Em relacao as tecnologias emergentes, que envolvem sensores
+e atuadores em ambientes fisicos e coletivos, apenas 8 artigos foram identificados:
+1 no contexto de Internet das Coisas, 1 em Human-Computer Integration, 3 em de
+Computacao Ubiqua e 3 no contexto de Sistemas Socioenativos. Estes sao indicios
+de que as novas tecnologias que exploram e afetam dimensoes fisicas e sociais do
+ambiente ainda nao foram exploradas pelos metodos orientados a valor (e.g., [7,
+12]).
+
+Essa lacuna de pesquisa demanda da comunidade de IHC investigacoes de
+valores humanos sobre tecnologias que tem maior potencial em violar e perturbar
+nossa vida cotidiana. Em geral, lidamos com violacoes de valores humanos pela
+tecnologia apenas de forma emergencial, tentando mitigar efeitos depois que os
+problemas ja foram identificados. Devemos nos antecipar e investigar se o nosso
+aparato de valores e suficiente para lidar com as tecnologia emergentes. O que e
+necessario para apoiar os designers na tarefa de imaginar o futuro da simbiose e
+integracao humano-tecnologia? Esse desafio se torna ainda mais complexo ao
+considerarmos a natureza cultural e situada dos valores, o que indica que nem toda
+solucao computacional sera adequada para todo contexto e cultura.
+
+Esse levantamento em relacao aos 62 artigos tambem indica um desafio
+central em superar uma visao instrumental: valores apenas como conceitos mentais,
+aspectos de qualidade ou requisitos nao-funcionais. Valores devem ser abordados
+como um aspecto humano e integral da nossa experiencia no mundo, envolvendo
+aspectos afetivos, emocionais, culturais e intersubjetivos que afetam o design e o
+uso da tecnologia. Valores nao sao apenas aspectos que as pessoas podem falar
+sobre, mas algo que as pessoas socialmente e corporificamente experienciam,
+sentem e compartilham.
+
+Deste modo, Valores Humanos permanecem como um grande desafio da
+Comunidade Brasileira de IHC, colocando a prova nossa habilidade de dar conta do
+design orientado a valor em um novo ambiente tecnologico carregado de dilemas e
+desafios eticos. Valores humanos devem ser abordados como um tema transversal
+das pesquisas, como um aspecto humano, corporificado, emocional e emotivo,
+desenvolvendo na comunidade de IHC cada vez mais uma sensibilidade de valores
+das pessoas pesquisadoras e das participantes em pesquisas.
+
+As profissoes de tecnologia serao cada vez mais exigidas para possuirem
+competencias para lidar com valores nao triviais, dilemas eticos e fazer escolhas
+orientadas para valores para projetar tecnologia. Para isso, precisamos de teorias,
+metodos e instrumentos orientados para o valor, adaptados a um cenario
+diversificado de design tecnologico, lidando com desafios como a diversidade de
+valores de diferentes partes interessadas locais e globais. Com isso, seremos
+capazes de discutir e encontrar solucoes de forma participativa entre um grupo de
+pessoas neste cenario social complexo.
+
+Avancando-se na resolucao deste grande desafio, espera-se que os valores
+humanos sejam uma preocupacao transversal no design e avaliacao de tecnologias,
+munindo designers e stakeholders a projetarem a relacao humano-tecnologia de
+forma socialmente consciente dos impactos e possibilidades da tecnologia. Com
+isso, avanca-se a pratica de IHC orientada a valores [4, 8, 13] para fazer com que o
+desenvolvimento e crescimento tecnologico seja guiado por valores sociais de
+grupos situados. Ainda, e necessario persistir no desenvolvimento de caminhos para
+mitigar o "pensamento isolado e compartimentado que parece estar impedindo que
+a comunidade avance em reflexoes de maior porte, as quais desafiam paradigmas e
+articulam diferentes perspectivas em torno dos grandes desafios" [9].

@@ -1,0 +1,142 @@
+**INTRODUCAO**
+
+O dia a dia de um UX Researcher em uma empresa de consultoria e repleto de desa-
+fios. Manter as boas praticas e tambem a qualidade da pesquisa, no ritmo da metodo-
+logia agil, e talvez o maior deles. A autora [Barbosa et al. 2021], descreve o UX Rese-
+archer como alguem que compreende os usuarios e os criterios de negocio do produto
+construido, ajudando o time a propor uma estrategia de design centrada no usuario,
+certificando-se de que a equipe tenha informaçoes suficientes para tomar decisoes de
+produto baseadas em dados, em vez de suposiçoes. Empresas de consultoria sao aquelas
+que tem por objetivo identificar soluçoes e, a partir disso, recomendar açoes de melhoria
+[Paes and Wood 2008]. No modelo de trabalho de outsourcing, esses serviços especiali-
+zados sao executados na empresa contratante, segundo suas proprias metodologias. Na
+pratica isso significa que o UX Researcher precisa entender o negocio do cliente e res-
+ponder as expectativas usando ferramentas e metodos utilizados na empresa.
+
+Os relatos aqui tratados referem-se ao serviço de prestaçao de consultoria para
+uma companhia de fidelidade de pontos com varios produtos em seu catalogo. O pro-
+dutos sao a forma que os clientes tem para acumular pontos e trocar por beneficios em
+turismo e entretenimento. O publico alvo da empresa e vasto e heterogeneo, porem com
+aderencia maior de Classe Social A e B (aqueles que ganham entre 10.450,01 e R$ 20.900
+e valores superiores). A maior parte da base de clientes e composta por homens, porem o engajamento de compras e maior entre as mulheres. Como a empresa tem um catalogo grande e diverso para comprar e trocar pontos, o publico varia de acordo com cada produto.
+Convem ressaltar que a equipe de pesquisa esta na area de Customer Experience,
+que funciona como um nucleo, atendendo a demanda de outras areas que executam o
+desenvolvimento de produtos digitais (produtos, designer, engenharia, negocios, marketing, etc). Sendo assim, as UX Researchers sao acionadas pelo Product Owne responsavel 
+por um produto especıfico. Ele esta em busca de dados para solucionar algum problema daquele produto. Neste artigo relataremos 4 pesquisas diferentes: Teste de Usabilidade,
+Projeto Tester, Analise de Dados de Avaliacoes do App e Diagnostico de Produto.
+
+
+**TESTE DE USABILIDADE**
+
+A empresa estava em processo de redesign de varios produtos da sua carteira. Nosso time
+tinha entao que coletar dados que ajudassem a equipe de desenvolvimento e design a veri-
+ficar como a nova estetica seria absorvida pelo cliente Para tanto, seguimos os passos da
+metodologia padrao [Barbosa et al. 2021, Prates and Barbosa 2003, Barbosa et al. 2021]:
+preparaçao, coleta de dados, interpretaçao, consolidaçao dos resultados e relatorio final.
+O material usado foi o ambiente de produçao e prototipos de alta finalidade criados em
+Figma ou Protopie pela equipe de design. A partir deles foi possivel desenvolver um
+roteiro com as tarefas para os participantes. A coleta de dados foi realizada por video
+usando a ferramenta Lookback. Os participantes recebiam um tutorial no seu email para
+seguir as instruçoes de instalaçao do plugin do Lookback no Google Chome. No horario
+estabelecido pelo cliente, uma pesquisadora realizava a entrevista, enquanto outras inte-
+ressadas da equipe, assistiam. As analises foram realizadas na ferramenta Dovetail, que
+possibilita o tagueamento de trechos do video, facilitando a analise e o gerenciamento de
+dados de pesquisa. No inicio do encontro foi informado ao participante que o video seria
+gravado e pedido permissao para tal. Quando os fluxos apresentavam falhas de comunica-
+bilidade, usamos a metodologia de Nilsen para categorizar e elencar niveis de gravidade
+[Prates and Barbosa 2003]. O relatorio como resultados finais foram disponibilizados em
+PDF. Realizamos dois testes: Cadastramento de Dados Pessoais e Monte sua Home, que
+serao detalhados a seguir.
+
+Para o teste Cadastramento de Dados Pessoais, tivemos como objetivo entender as
+dificuldades dos clientes na jornada de cadastramento de dados na compras de Passagem,
+cujos passos sao: Entrar na Home - Fazer Login - Busca de passagem - Inserir Dados
+Pagar (Figura 1A). Como objetivos especificos: a) conhecer as necessidades dos clientes
+no momento de inserir os dados; b) coletar as opinioes de usabilidade no preenchimento
+dos campos da jornada; c) investigar a usabilidade dos Serviços Especiais que o produto
+oferece; d) verificar a opiniao dos participantes quanto ao campo de Informaçoes Adicio-
+nais; e) examinar se existe algum nivel de curva de aprendizado na inserçao de dados. Os
+testes foram realizados no ambiente produçao e em prototipo, por grupos diferentes. O
+grupo que interagiu com o Prototipo era formado por 6 clientes que utilizaram o serviço
+nos ultimos 6 meses. Vale destacar que neste grupo uma das participantes foi uma pessoa
+com deficiencia motora. Ja os participantes que interagiram com o ambiente produçao,
+foram 5 clientes que utilizaram o produto nos ultimos 12 meses.
+
+Como principais resultados, podemos destacar que durante a jornada, os momentos que todos os participantes tiveram mais duvida foram em como escolher as passagens, principalmente no momento de selecionar valores de ida e volta e como definir a forma de pagamento. Observamos que para definir as opcoes de pagamento (apenas de ida), o usuario tem que pensar a respeito de 14 condicoes distintas por trecho e cada condicao traz sua complexidade subjetiva, tais como: a) pontos e quantidade de dinheiro; b) dificuldade para identificar se o signo "check" esta selecionado ou nao; c) problemas em identificar se o valor da compra e individual ou se e total (quando compra mais de uma passagem); d) confusao para entender outros produtos ofertados durante a compra de passagens; e) duvida na compreensao do "A partir de". Analisando a complexidade que cada tela tinha, chegamos a seguinte conclusao: o cliente precisa de 10 cliques para concluir a tarefa, porem precisa de considerar 41 elementos de complexidade subjetiva que tornava a acao de compra muito complexa. Desta forma, foi possivel indicar a necessidade de considerar qual e o objetivo do fluxo da jornada, quais os elementos de grande complexidade que sobrecarregava o cliente na compra de passagens e nao fique perdido e desista. Sendo assim, ao final da pesquisa apresentamos um relatorio detalhado com 34 falhas de comunicabilidade hierarquizadas por gravidade e a sua localizacao na jornada (Figura 1B) e foi possivel identificar que os usuarios tiveram mais dificuldade em: a) visualizar as mensagens que ajudam a preencher os campos; b) preencher os campos em tempo habil; c) entender quanto tempo tem para comprar as passagens. Vale destacar que, quanto a usabilidade dos Servicos Especiais, tanto para pessoas com deficiencia quanto para usuarios tipicos, nao houve dificuldade em preencher os campos. Mas sim, segundo a participante com deficiencia, e no atendimento para as pessoas com deficiencia na hora do embarque que o problema acontece, visto que o bilhete nao informa que o passageiro solicitou o servico especial. Trazendo assim dificuldades na hora do embarque, comprometendo a experiencia e com potencial de impedimento de viagem.
+Quando fizemos o teste de usabilidade Monte sua Home, a homepage da empresa passava por reestruturacao estetica e de negocios. Nao havia estudos que demonstrassem dados sobre o entendimento das necessidades dos clientes em relacao a pagina principal. Por isso, nossa equipe decidiu fazer dois testes de usabilidade. Um no ambiente producao, para investigar a percepcao dos usuarios quanto ao sistema que existe e e utilizado. Outro com o prototipo da nova home desconstruido, usando a base conceitual do Card Sort para entender as pessoas para as quais projetamos um produto [Barbosa et al. 2021]. Organizamos os elementos visuais e textuais dispostos em blocos tematicos, conforme Figura 2A). O participante entao, durante a dinamica online, tinha que ver esses elementos e construir a sua propria home do lado esquerdo da tela, como demostrado na Figura 2B. Definimos que o objetivo especifico no teste em producao seria verificar: a) se as informacoes sao acessiveis; b) se a navegacao e adequada; c) maiores interesses na homepage; d) consideracoes sobre o que e mais importante. Ja os objetivos especificos no prototipo foram: a) verificar quais ou assuntos selecionados; b) identificar os produtos mais mencionados; c) observar a disposicao dos elementos escolhidos; d) verificar a organizacao do conteudo; e) verificar se a ordenacao dos elementos escolhidos coincide com o que esta no ambiente producao. Para tanto tivemos uma amostra de 10 clientes. Cinco fizeram cadastro nos ultimos 3 meses e 5 clientes que usaram produtos ha 6 meses.
+Os resultados indicam que os usuarios que montaram sua home, escolheram na maioria, monta-la no eixo horizontal (Figura 3A). O que acendeu um alerta, ja que a home em producao foi projetada no eixo vertical. Alem disso, fizemos uma contagem dos topicos (temas de interesse) escolhidos pelos participantes, comparamos com a home em producao, e percebemos que as escolhas dos clientes nao coincidiam com a adotada pela empresa. Os participantes relataram que havia topicos desinteressantes e que alguns eram retidos. Pedimos a eles que nos indicasse quais, conforme Figura 3B.
+Sobre a reducao de conteudo, demonstram desejo por objetividade. Segundo um deles: "Espero sempre algo especial, alguma oportunidade". Sobre o sistema de busca, todos disseram que a melhor opcao seria digitar em um campo de texto, funcionalidade nao disponivel atualmente. Ainda sobre o tema, os participantes relataram que gostariam nao so de uma busca simples, eles gostariam de sugestoes, como por exemplo: "um campo com uma frase: o que voce procura? Eu digitaria X pontos, por exemplo, e o site me daria cidades proximas, baseado nos meus destinos. Queria tudo no mesmo site". "Queria procurar, por exemplo, quantas garrafas de vinho eu posso levar. Quero uma coisa mais ampla". Por fim, sobre recomendacoes, os clientes dizem estar abertos para novas opcoes de recomendacao personalizadas e topariam preencher um perfil para configuracoes de preferencia, esperando sobretudo que a tecnologia facilite a vida.
+Sendo assim, observou-se que a home e um lugar aberto e pouco explorado pelo cliente, que quer: a) educacao das informacoes repetidas; b) conteudo personalizado, acessivel e objetivo; sistema de busca por palavras-chave e FAQ acessivel; c) tecnologia capaz de reconhecer preferencias; d) valor do clique tem ligacao direta com a promocao personalizada, assim como a navegacao. E pudemos entao recomendar uma revisao de arquitetura da informacao, principalmente quanto as abas, eixo de navegacao e divulgacao
+
+**PROJETO TESTER**
+
+O novo aplicativo da empresa entrou em produçao. Pela necessidade de realizar os primei-
+ros testes no novo app, a liderança de produtos iniciou uma campanha interna para que as
+avaliaçoes fossem executadas pelo colaboradores. O movimento Testers da corporaçao,
+teve por objetivo coletar as principais percepçoes e verificar se: o aplicativo estava ro-
+dando conforme o esperado Ha bugs Como e a experiencia do usuario Sendo assim
+o time de pesquisa, junto com outras areas (produtos, engenharia, design e marketing),
+planejou a melhor maneira de coletar os dados.
+
+Os pesquisadores criaram um roteiro para instruir o colaborador, indicando a jor-
+nada ideal de tarefas: fazer o cadastro, realizar o login, editar o perfil, alterar a senha,
+alterar dados cadastrais e utilizar o sistema de segurança. Para coletar as respostas, usa-
+mos os passos da metodologia padrao de questionario [Barbosa et al. 2021]: preparaçao,
+coleta de dados, interpretaçao, consolidaçao dos resultados e relatorio final. O material
+usado foi o aplicativo em ambiente de produçao na versao beta. Preparamos um roteiro e
+um link com o questionario para que o participante respondesse como foi a experiencia de
+cada tarefa no uso do Novo App. Ele deveria nos enviar os problemas e bugs encontrados
+durante o teste. O resultado foi um levantamento de dados iniciais sobre cadastro, login,
+perfil, senha, cadastro e sistema de segurança implementado. Para cada uma das tarefas,
+o colaborador tinha que enviar um print da tela como evidencia, responder uma escala de
+satisfaçao de 1 a 5 quanto a usabilidade e falar se enfrentou alguma dificuldade e explica-
+las, fosse o caso. Para o recrutamento, foi enviado um email para toda empresa, com o
+objetivo de captar voluntarios. A coleta de dados foi realizada de forma assincrona atraves
+da ferramenta Surveymonkey para disparo do formulario. Os relatorios dos questionarios
+foram distribuidos pela equipe organizadora e encaminhada para os times executores (de-
+sign e engenharia) resolverem os problemas por areas.
+
+**ANALISE DE DADOS DE AVALIACOES DO APP**
+
+A diretoria questionou a equipe de produtos, porque as avaliaçoes do aplicativo estavam
+sempre baixas. A empresa nao tinha a visibilidade detalhada dos problemas do apli-
+cativo. Nossa equipe, composta pela area de produtos e pesquisa deveria investigar as
+razoes e compartilhar os resultados com as demais areas (engenharia, design, produtos,
+negocios e diretoria). A pergunta para essa pesquisa foi direcionada a entender "Porque
+as avaliaçoes do aplicativo estavam baixas”.
+
+Solicitamos a equipe de relacionamento com o cliente, arquivos com os comentarios e notas da loja, em IOS e Androide do ultimo ano. Lido o material, decidimos que utilizariamos os passos da metodologia Codificacao e Analise Tematica [Flick 2009]: familiarizacao com os dados, geracao de codigos iniciais, busca por temas, revisao de temas, definicao e denominacao dos temas. Chegamos ao resultado de 35 problemas recorrentes, tais como: Atualizacao, Usabilidade, Acesso, Impedimento Tecnico, Visualizacao, Cancelamento, Cadastro, etc. Apos a classificacao pudemos relaciona-las com a pontuacao dada na loja, o tipo de problema, o comentario e o mes (Figura 4). As suposicoes antes da pesquisa giravam em suposicoes dos clientes com a tecnologia. O que descobrimos foi que varios outros motivos faziam cair a nota na loja e que elas nao tinham ligacao com o aplicativo em si, mas sim com a satisfacao com outros produtos da empresa. O cliente insatisfeito com um produto especifico, faziam um comentario ruim para o aplicativo1. Isso gera impacto sistemico, ou seja, mancha a imagem da empresa com todo. O que os dados revelaram foi que a experiencia com os produtos da empresa estava comprometendo indices de satisfacao global, evidenciando as causas reais para as baixas pontuacoes do ultimo ano. O processo de analise foi realizado no Microsoft Excel e o relatorio como resultados foram disponibilizados em PDF. Assim conseguimos obter as resposta para que a equipe de produtos e negocios direcionassem esforcos, distribuir as demandas pelas areas da empresa para solucoes estrategicas baseados em dados.
+
+**DIAGNOSTICO DE PRODUTO**
+
+A diretoria da empresa questionou o motivo que um produto especifico nao estava conver-
+tendo em vendas. Nosso objetivo foi investigar o produto de reserva de passagem ofere-
+cido durante a jornada de compra de bilhete aereo. Este produto tem em sua construçao de
+negocio, duas opçoes: na primeira opçao, o cliente reserva a passagem com o preço atual e
+tem 60 dias para decidir. Ja na segunda opçao, ele tem 5 dias para tomar a decisao. Sendo
+assim nossa investigaçao teve o objetivo de identificar quais elementos tem potencial de
+ruptura na comunicabilidade Quais falhas poderiam impedir o cliente de alcançar seus
+objetivos de compra e reserva de passagem Sendo assim, dividimos a pesquisa em 6 etapas: 1. Verificar os testes de usabilidade ja realizados anteriormente em busca de critérios de usabilidade; 2. Busca por palavras chave no site da empresa e no Google; 3. Benchmarking de concorrestes; 4. Inspecao da pagina do produto [Prates and Barbosa 2003]; 5. Verificacao de taxas de acesso do site; 6. Analise da nova versao do produto.
+
+Sobre a experiencia do usuario, identificamos que, nos testes de usabilidade anteriores, quando perguntado se os clientes entendiam o que era e para que serve, todos os participantes pareceram nao entender ou distinguir as opcoes. Sobre a condicao de uso, os clientes disseram que utilizariam a opcao de 60 dias em viagens internacionais ou ferias programadas. A outra opcao seria utilizada em viagem imediata e nacionais, em funcao do prazo curto. Os dados das pesquisas anteriores levantaram a questao que os clientes ficavam confusos quanto as opcoes de reserva, pois elas tinham nomes diferentes e funcoes iguais. Na inspecao do site do produto, busca e inspecao no chatbot, identificamos que tanto o site e o chatbot nao davam as informacoes necessarias ao cliente, como por exemplo: como utilizar, tempo de vigencia, como aderir, etc. Tambem verificamos que, se o usuario saisse do site e fosse realizar a busca no Google em busca de esclarecimento, ele teria acesso as reclamacoes do produto antes da pagina do proprio produto.
+
+Para o benchmarking estavamos interessados em saber como os concorrentes exibiam as informacoes dos produtos similares. Fizemos uma analise em 4 concorrestes de compra de passagens, sendo um deles internacional. Os criterios que utilizamos referia-se a analise da arquitetura da informacao, apresentacao das perspectivas do negocios e quebras nas heuristicas de usabilidade. Descobrimos que um dos concorrentes tinha uma area dedicada so para explicacoes detalhadas dos produtos. O outro concorrente nao tinha area dedicada de informacoes sobre o produto, mas havia algumas referencias em links. Percebemos tambem que nenhuma das empresas apresentava informacoes individuais como valor do servico, reembolso, utilizacao de pontos e condicoes de cancelamento, deixando o usuario sem acesso a dados de importancia.
+
+A inspecao na pagina do produto aponta para ineficiencia da comunicacao, ja que as informacoes, as regras e as condicoes de assinatura nao ficam claras, comprometendo assim a jornada do usuario. Alem disso, quando verificado o numero de acesso da pagina, constatou-se taxas de rejeicao de 89,4 % e duracao media da sessao em 42 segundos. Os dados indicam que o conteudo da pagina nao produz o engajamento necessario ao cliente para navegar ou fazer as transacoes. Sendo assim, propusemos uma revisao do material institucional com foco em orientar mais o usuario, que ele possa se auto informar. No contexto geografico, para acessar o conteudo de interesse, o usuario precisaria utilizar a barra de rolagem e fazer cliques a mais, por isso, recomendamos mudar o conteudo de posicao. Alem disso, foi importante destacar que o lugar que o produto era inserido na jornada de compra de passagens, levava o usuario para outra pagina e que, o clique de curiosidade para o conteudo de interesse o estava tirando do fluxo desejado. Do ponto de vista estrategico, foi recomendado entao que, no momento da compra fosse indicado ao cliente, quais sao as condicoes de uso dos produtos, obedecendo os requisitos minimo da 5W2H: o que sera feito, por que, onde, quando, por quem, como e quanto vai custar.
+
+**CONCLUSAO**
+
+Uma das principais liçoes que aprendemos e discutimos em equipe, e a necessidade de
+ter uma direçao objetiva de onde o produto quer chegar, para que o pesquisador faça uma
+pergunta de pesquisa que responda com satisfaçao a todas das areas de interesse, que
+vao desde negocios a desenvolvimento e design. Sem uma definiçao real do produto, do
+negocio e do usuario, o pesquisador pode criar perguntas que nao fazem tanto sentido ao
+momento. E preciso ter briefing inicial e que a equipe de pesquisa mantenha em contato
+com o time de produtos, negocios, desenvolvimento e design. Essa integraçao mostrou-se
+eficaz e trouxe resultados que supriram as expectativas das pesquisas em questao.
+
+Ressaltamos tambem os beneficios em realizar testes e entrevistas por meios digitais. Antes da pandemia, os testes eram realizados presencialmente e, como as grandes empresas estao concentradas no sudeste, as entrevistas e testes nao eram realizadas em outras regioes como, Amazonia. As ferramentas de gravacao de video favoreceram a heterogeneidade das pesquisas com usuario, tornando-as mais reais e proximas das necessidades dos clientes.
+
+E notorio tambem destacar a necessidade das empresas em se organizarem quanto aos processos de pesquisa e disponibilizacao de dados. E preciso que os dados nao fiquem presos em apresentacoes ou concentrados em areas de pesquisa. Ao contrario, eles precisam ser alem de acessiveis, manipulaveis. Para que as decisoes sejam baseadas em dados, e preciso entender que cada area tera uma perspectiva sobre um dado e, em sendo assim, um grafico apresentado em um relatorio, por exemplo, nao satisfara totalmente a um Product Owner, e um Desenvolvedor e um Design. Mas com dados manipulaveis, pode-se decidir com perspectivas diversas.
+
+Profissionais de pesquisa academica estao cada vez mais migrando para a area de UX. Isso tras para as empresas um ganho expressivo de qualidade de coleta de dados. Os processos da pesquisa academica sao mais aprofundados, pois exigem uma comprovacao cientifica de eficacia. No mercado o que acontece e diferente, precisa-se, de uma comprovacao rapida de mercado, do cliente. Contudo, os profissionais da pesquisa academica tem em sua base de formacao criterios de boas praticas importantíssimos. Alem disso sua experiencia com metodos rigidos, faz com que ele tenha capacidade de escolher com seguranca o metodo, quebra-lo em etapas ou sprints e ainda sim garantir dados de melhor qualidade a equipe. Dados confiaveis.

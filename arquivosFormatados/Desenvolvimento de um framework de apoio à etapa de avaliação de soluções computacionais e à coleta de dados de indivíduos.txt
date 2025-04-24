@@ -1,0 +1,101 @@
+**INTRODUCAO**
+
+Ha diferentes formas de se avaliar um produto, seja ele um bem fisico, serviço prestado
+ou uma soluçao computacional. A Interaçao Humano-Computador (IHC) e uma area de
+pesquisa na qual a etapa de avaliaçao tem grande relevancia. Para realizar uma avaliaçao
+pratica, e fundamental saber como utilizar os diferentes tipos de avaliaçao disponiveis na
+literatura, alem de compreender os pontos positivos e negativos de cada abordagem.
+
+Tendo em vista este contexto, este projeto de doutorado propoe a criaçao de um
+framework para apoiar profissionais de diferentes dominios sobretudo da Computaçao
+na escolha de artefatos adequados para as suas avaliaçoes, considerando a soluçao de-
+senvolvida e o seu contexto de uso. Ressalta-se que o termo framework e utilizado no
+contexto deste estudo no sentido mais amplo como uma estrutura composta por mecanis-
+mos, artefatos e sistemas utilizados no planejamento e na tomada de decisao de avaliaçao
+de software. Portanto, o framework consiste em um conjunto de artefatos materializa-
+dos" sob a forma de um ambiente integrado.
+
+O framework foi idealizado para facilitar a etapa de avaliaçao, oferecendo um
+conjunto de serviços, desde ferramentas, ate diretrizes que podem ser consultadas pe-
+los avaliadores. O framework foi projetado para ter uma interface simples e ade-
+quada para a sua populaçao de interesse, na qual os profissionais tenham facil acesso
+aos resultados de suas avaliaçoes. Os servicos que serao oferecidos sao: instrumentos de avaliacao de autorrelato, leitura e exibicao de dados advindos de sensores fisiologicos, oferta de microsservicos associados instrumentos de autorrelato, oferta de um sistema de recomendacao, oferta de templates flexıveis e oferta do ambiente integrado com internacionalizac¸ao. Al ˜ em dos instrumentos de autorrelato aplicados na area da Computacao, tambem e de interesse deste projeto identificar instrumentos de outros domınios que possam ser disponibilizados no formato digital, com o apoio dos especialistas desses domınios, mas que possam eventualmente ser usados pelos profissionais da
+Computacao na conducao de suas avaliacoes. 
+Uma versao do ambiente integrado ja foi desenvolvida em uma pesquisa anterior
+de mestrado [Santos and Rodrigues 2022, Santos dos Santos et al. 2022]. No entanto, a
+versao anterior contem apenas um dos artefatos do framework. Este projeto busca então expandir o ambiente integrado para englobar instrumentos de avaliacao de Usabilidade, 
+Experiencia do Usuario (UX), Resposta Emocional, Acessibilidade e Experiencia de Jogador (PX). Alem disso, o framework devera oferecer outros artefatos. 
+
+**MOTIVACAO**
+
+A motivaçao para desenvolver esta pesquisa esta em possibilitar que um numero maior de
+profissionais consiga avaliar suas soluçoes fazendo uso de um ambiente digital integrado,
+que apoie, guie, recomende instrumentos ao avaliador. Este ambiente dispoe de diversos
+instrumentos de avaliaçao e serviços associados, que realiza o calculo automatico dos
+instrumentos seguindo as formulas pre-definidas para cada um, e exibe os resultados de
+forma projetada para que a leitura e a interpretaçao sejam simples e intuitivas.
+
+O intuito e permitir que os profissionais tenham um espaço digital para realizar
+e armazenar dados de suas avaliaçoes. O framework devera oferecer artefatos adequadas
+para que profissionais de diferentes dominios possam avaliar suas soluçoes, levando em
+consideraçao as particularidades dos usuarios envolvidos, bem como o contexto de uso e o
+requisito a ser avaliado. Para alem de beneficiar os profissionais da Computaçao, espera-
+se que o framework auxilie os profissionais de outros dominios, sobretudo da Saude, a
+aplicarem seus instrumentos no formato digital e com rapida visualizaçao dos resultados.
+Esses profissionais tambem poderao fazer uso dos instrumentos da Computaçao, caso
+queiram avaliar requisitos como usabilidade elou acessibilidade, em soluçoes usadas nas
+suas praticas clinica ou em pesquisas.
+
+E importante enfatizar que os artefatos do ambiente integrado nao visam avaliar
+apenas um produto" sob a perspectiva da Computaçao, eles tambem podem avaliar as-
+pectos da vida do individuo, como a qualidade de vida e estados de animo.
+
+**QUESTOES DE PESQUISA**
+
+Duas questoes de pesquisa foram formuladas para nortear o desenvolvimento do projeto
+de doutorado:
+Questao 1 A oferta de um ambiente digital pode facilitar a etapa de avaliaçao de uma
+soluçao tanto por especialistas como por nao-especialistas de um dominio especifico?
+Questao 2 Agregar ao framework serviços pode ampliar as possibilidades de avaliaçao
+para os profissionais e, por consequencia, ampliar o grupo de usuarios alvo que usariam a
+soluçao?
+
+**OBJETIVO**
+
+O objetivo deste projeto de doutorado e oferecer um ambiente digital integrado, aqui
+denominado de framework, que apoie profissionais de diferentes dominios na avaliaçao
+de requisitos nao funcionais do software (como usabilidade e acessibilidade), bem como
+na avaliaçao de diferentes aspectos da vida do usuario alvo, que podem afetar o uso da
+soluçao em desenvolvimento. Pretende-se expandir um sistema ja existente para que mais
+funcionalidades sejam disponibilizadas, de forma que possa abranger diferentes perfis de
+especialistas, em diferentes contextos de uso e com diferentes formas de coletas, que nao
+apenas autorrelato.
+
+Base Teorica
+A avaliacao de software implica em avaliar e medir a qualidade e eficacia das aplicacoes de software. Esta e uma etapa importante no processo de desenvolvimento de software, porque determina se o software atende aos padroes e especificacoes exigidos e se e adequado ao proposito pretendido. No entanto, avaliar um software nao e simples. Pressman e Maxim (2020), evidenciam que e dificil ate mesmo definir o que e qualidade de software. No entanto, os autores definem qualidade de software como um processo de software eficaz aplicado de maneira a criar um produto util que forneca valor mensuravel para quem o produz e para quem o utiliza [Pressman and Maxim 2020].
+A IHC e uma area multidisciplinar, que combina as teorias e praticas de uma serie de outras areas, incluindo Ciencia da Computacao, Psicologia cognitiva e comportamental, Antropologia, Sociologia, Ergonomia e diversas outras [Barbosa et al. 2021]. A avaliacao em IHC e a atividade profissional especializada cujo objetivo e julgar a qualidade de interacao que um sistema ou artefato computacional oferece aos seus usuarios.
+
+Metodologia
+Para a construcao do framework, duas metodologias diferentes estao sendo combinadas: o Design Thinking (DT) [Brown 2010] e a metodologia agil Scrum [Schwaber and Sutherland 2011].
+O DT e frequentemente descrito em fases que juntas desenvolvem uma solucao. As fases adotadas no projeto sao: empatizar, definir, idealizar, prototipar e testar. O DT esta sendo adotado neste projeto, pois a partir do seu uso e possivel observar como os usuarios se comportam, e como o contexto da sua experiencia afeta a reacao aos produtos e servicos [Dam and Siang 2021]. A segunda metodologia adotada e o Scrum, uma estrutura agil para desenvolver e sustentar produtos complexos, criada por Schwaber e Sutherland (2011) [Schwaber and Sutherland 2011]. A metodologia Scrum foi adotada devido a sua natureza iterativa e tambem por ser um processo dedicado a desenvolver produtos complexos, como o DT, e uma forma de acompanhar constantemente as atividades de desenvolvimento, sobretudo ao ter mais de uma pessoa participando do processo.
+A Figura 1 ilustra as etapas do DT instanciadas no contexto deste projeto, tanto para atividades ja realizadas, como para aquelas que ainda serao conduzidas.
+
+Procedimentos Eticos
+Um projeto esta sendo elaborado e sera submetido a apreciacao do Comite de Etica em Pesquisa em Seres Humanos, para que avaliacoes envolvendo usuarios possam ser conduzidas. Ate o momento as atividades foram conduzidas pelos pesquisadores envolvidos, nao incluindo etapas de design e avaliacao com seres humanos.
+
+Resultados Esperados
+O resultado esperado deste doutorado inclui a oferta de um ambiente que reune instrumentos que avaliam diferentes aspectos. Espera-se que com o levantamento e disponibilizacao
+de instrumentos de avaliacao de diversos requisitos, os profissionais da Computacao que desenvolvem aplicacoes para diversas outras areas, por exemplo, possam compreender o impacto de suas solucoes e aplicacoes. Para alem do profissional da Computacao, espera-se que a oferta de resultados obtidos por meio de sensores, microsservicos e templates
+flexıveis possa ampliar o publico alvo do sistema, tendo em vista que profissionais de diversos domınios poderao ser beneficiados. 
+Alem do proprio framework, as contribuicoes para a Computacao sao: a) a oferta
+do sistema como um artefato interativo para apoiar o processo de avaliacao em IHC, o 
+que pode facilitar o processo de conduzir uma avaliacao; b) a oferta de microsservicos
+que podem ser consumidos por outros sistemas; c) a oferta de diferentes abordagens (por
+autorrelato, por sensores ou hıbrida) para a realizacao de avaliacoes, o que pode influenciar como as solucoes sao avaliadas e entregues ao usuario.
+
+**CONCLUSOES**
+
+Em conclusao, este projeto de doutorado visa contribuir para a area da Interaçao
+Humano-Computador ao oferecer um framework que facilite a avaliaçao de soluçoes
+computacionais, auxiliando profissionais de diferentes dominios a criar sistemas mais
+usaveis, acessiveis e adequados as necessidades dos usuarios.

@@ -1,0 +1,106 @@
+**INTRODUCAO**
+
+Atividades ludicas como jogar, cantar, desenhar sao utilizadas em hospitais, em alas in-
+fantis, para deixar as crianças mais confortaveis e mais receptivas aos tratamentos aos
+quais estao sendo submetidas . Os jogos serios tem sido utilizados em
+salas de aula, consultorios, hospitais e outros ambientes  para apoiar ati-
+vidades distintas. Esses jogos tem o potencial de aprimorar habilidades dos jogadores e
+tambem apoiar atividades terapeuticas e pedagogicas.
+
+Um desafio alinhado aos objetivos deste trabalho e criar soluçoes computacionais
+ludicas e responsaveis, que apoiem o profissional da Saude nas terapias com crianças
+hospitalizadas e com doenças cronicas, de modo que essas crianças possam se sentir con-
+fortaveis e possam se expressar para os profissionais .
+
+O grupo de pesquisa do qual os autores deste trabalho fazem parte foi convidado a
+desenvolver um jogo de apoio ao tratamento e terapia de crianças com cancer em estagio
+avançado e irreversivel. Para a criaçao dessa soluçao um estudo foi realizado na literatura
+para identificar trabalhos previos e/ou similares. Jogos disponiveis nas lojas de jogos e
+aplicativos tambem foram analisados para ajudar na fase de coleta de requisitos.
+
+Um dos estudos identificados traz o conceito de "Caixa de Ideias"
+. Trata-se de uma atividade desenvolvida de forma manual,
+e nao digital, em que se utiliza de uma caixa fisica com diversos acessorios, em que a
+criança pode escolher itens e ir construindo historias com esses itens. Assim, a criança
+pode contar suas proprias narrativas aos profissionais e expressar seus sentimentos.
+
+O jogo aqui idealizado e baseado nas dinâmicas de desenhos e contações de
+historias. A mecanica escolhida permite que o jogador crie uma historia a partir da es-
+colha de personagens e falas pre-definidos, de modo a conseguir criar uma narrativa se
+expressando sobre determinando tema no qual o profissional da Saude deseja dialogar.
+Esse tipo de terapia costuma ajudar o profissional a iniciar um dialogo com a criança, ja
+que o ato de criar historias pode ser comum no seu dia a dia da criança.
+
+As etapas de design e avaliaçao do jogo foram conduzidos usando a abordagem
+SemTh para a construçao de jogos terapeuticos . A etapa de desen-
+volvimento foi conduzida usando metodologia agil Scrum, com reunioes semanais para
+planejamento e acompanhamento do processo.
+
+O jogo deve ser usado sempre como recurso alternativo em terapias e conduzido
+com o apoio de um profissional especializado. Como diferencial de inovaçao, o jogo ar-
+mazena logs de interaçao e disponibiliza relatorios aos profissionais da Saude, em tempo
+de interaçao. Esse recurso permite que o profissional possa fazer intervençoes no mo-
+mento da terapia, ou em momento posterior. O jogo tambem e customizavel, de modo
+que os elementos escolhidos para o jogador criar a sua historia sao definidos pelo profis-
+sional conduzindo o tratamento. Assim, cada jogador tera a sua disposiçao elementos de
+jogo exclusivos ao seu contexto e podera criar historias exclusivas.
+
+A criaçao da narrativa invertida e feita na plataforma de autoria de jogos digitais
+chamada RUFUS  . A plataforma tem duas interfaces: a
+Web, acessada pelo profissional e na qual ele pode planejar e definir quais jogos e ele-
+mentos de cada jogo o jogador tera acesso; e a interface mobile, um aplicativo em que o
+jogador vai interagir com o jogo criado. Na narrativa invertida, o profissional define as
+imagens para personagens, cenarios, objetos, acessorios e audios que poderao compor a
+historia do jogador. No aplicativo, o jogador escolhe os itens disponibilizados pelo pro-
+fissional e monta a sua historia. Cada item colocado nas cenas da historia informam algo
+ao terapeuta, que pode fazer intervençoes, se necessario.
+
+A Abordagem SemTh , especifica para o design de jogos te-
+rapeuticos, consiste em 4 etapas e busca viabilizar o processo de design de jogos digitais
+considerando atividades de codesign, com a participaçao de diferentes partes interessadas.
+As 4 etapas sugeridas pela SemTh sao: Clarificaçao do Problema de Design, Modela-
+gem de Interaçao, Materializaçao de Design e Avaliaçao.
+
+Durante a etapa de clarificaçao do problema de design se buscou entender o
+proposito pretendido para o jogo, bem como aspectos do seu design e requisitos a se-
+rem implementados. Entre os requisitos idealizados, se destaca: 1) O jogo deve permitir
+que o jogador monte livremente as cenas, da forma que preferir; 2) O jogo pode conter
+imagens, musicas e textos, conforme a vontade e necessidade do criador; 3) O jogo deve
+proporcionar uma forma facil de visualizar a historia, final ou em andamento.
+
+De posse dos requisitos, nesta etapa foi gerado inicialmente um fluxograma das
+interaçoes do jogo que ajudou a entender como oferecer açoes do jogo que sem apro-
+ximassem da Caixa de Ideias, mas ainda nao permitia identificar quais elementos de interface/interacao oferecer em cada tela. Assim, a linguagem de modelagem proposta pela SemTh [Garcia et al. 2016] foi instanciada, seguindo assim a etapa de modelagem.
+Apos elaboracao das telas do jogo na etapa de modelagem, realizada em colaboracao com outros pesquisadores do grupo de pesquisa, foi gerado o primeiro prototipo de media fidelidade do jogo. Apos a materializacao do prototipo, uma avaliacao com duas profissionais da Terapia Ocupacional, parceiras deste projeto, foi conduzida. A avaliadora 1 (A1) e terapeuta ocupacional, pesquisadora e professora da area, e a avaliadora 2 (A2) e estudante de terapia ocupacional. Ambas tem experiencia em terapias envolvendo assuntos sensiveis, como a morte e luto, e ambas realizam atividades com o publico infantil. A avaliacao aconteceu em tres etapas: 1) Explicacao do jogo e assinatura do termo de consentimento livre e esclarecido; 2) Avaliacao do prototipo; 3) Entrevista semiestruturada sobre as impressoes do prototipo.
+A avaliacao aconteceu de forma remota e durou cerca de uma hora. Ambas as avaliadoras fizeram comentarios semelhantes sobre o prototipo, tais como: a) Insercao de uma explicacao inicial de como interagir com o jogo; b) Insercao de um elemento disparador, como frases e audios sobre o assunto que o profissional quer conversar, considerado recurso importante para alguns tratamentos; c) As telas foram consideradas "boas" e "limpas". Ambas as avaliadoras concordaram que o jogo atende as dinamicas usualmente utilizadas em tratamentos com criancas com doencas cronicas e ameacadoras da vida, e declaram que o jogo pode ser usado em outras abordagens terapeuticas, que consideram outros cenarios e tematicas. Elas ressaltaram, ainda, que o jogo pode ser usado como um elemento disparador, que costuma ser utilizado antes do inicio de alguns tratamentos psicologicos, para despertar a discussao sobre o tema que sera tratado.
+Apos as analises fornecidas pelas especialistas ao prototipo, o jogo comecou a ser desenvolvido. Duas interfaces foram pensadas, a interface Web em que o profissional disponibiliza os elementos do jogo e uma interface mobile, em que o jogador interage com esses elementos e constroi a sua narrativa.
+Nas telas na interface Web o profissional da Saude pode definir um nome e uma descricao para o jogo, definir quem sao os jogadores e compartilhar o jogo com outros profissionais. Tambem pode definir se a fonte disponibilizada sera cursiva ou bastao. O profissional deve ainda selecionar imagens para os elementos do jogo a partir do repositorio de imagens disponivel no sistema ou fazendo upload de novas imagens. A Figura 1[a] ilustra partes da tela na interface Web em que e possivel definir quais imagens de fundo, quais personagens e outros elementos serao oferecidos para determinado jogador. Destaca-se que esse formato de implementacao torna essa mecanica de jogo generica e personalizavel, ou seja, pode ser usada no contexto aqui definido, mas tambem pode ser utilizado pelos profissionais da Saude para criar outros jogos, com outros elementos e dialogar sobre outros temas com suas populacoes de interesse, conforme sugestao dada pelas avaliadoras na etapa anterior. A Figura 1[b], por sua vez, ilustra o jogo criado na segunda rodada de materializacao do design. Nas telas e possivel visualizar cenas com fundo, por exemplo, bem como a barra superior em que os icones dos elementos sao disponibilizados. Para interagir, o jogador deve tocar em cada icone e as opcoes de imagens e sons definidas pelo profissional na interface Web estao disponiveis para uso na narrativa.
+Estudantes e profissionais da Computacao foram convidados a jogar o jogo e fornecer as suas impressoes. A amostra foi escolhida por conveniencia e 7 pessoas aceitaram participar. A avaliacao foi composta de 5 etapas, sendo essas: 1) o preenchimento de um questionario demografico e a assinatura do termo de consentimento livre e esclarecido, 2) a interacao com o jogo, 3) preenchimento dos questionarios de autorrelato o SUS - System Usability Scale [Brooke 2013] e SAM - Self-Asessment Manikin [Bradley and Lang 1994], 4) entrevista semiestruturada e 5) agradecimentos.
+Dois avaliadores demonstraram mais dificuldade durante o momento de remover a imagem de fundo e mudar o texto do balao de fala. Nesses dois momentos, foi necessaria a intervencao do pesquisador. A avaliacao do SUS apontou escores variantes. No entanto, os avaliadores avaliaram a interface como "Melhor possivel"(2), "Excelente"(2), "Ok" e "Bom"(1 avaliador cada), somente um avaliador avaliou como "Inaceitavel". Os resultados do SAM, por sua vez, demonstram respostas majoritariamente positivas para os tres dominios analisados: satisfacao, motivacao e sentimento de controle. Essa resposta sugere que os avaliadores estavam satisfeitos e motivados quanto a interacao com o jogo, bem como se sentiram no controle, ou seja, sabiam como manipular os elementos de interface disponibilizados.
+
+**Considetaçoes finais**
+
+O objetivo deste trabalho era o desenvolvimento de um jogo que pudesse auxiliar profissi-
+onais da Saude no apoio ao tratamento de crianças com doenças cronicas e ameaçadoras
+da vida. Um dos grandes desafios para a criaçao do jogo foi encontrar uma mecanica
+de jogo que pudesse ajudar nao so as crianças na expressao dos seus sentimentos, mas
+tambem pudesse apoiar os profissionais da Saude no entendimento das escolhas dos joga-
+dores e como elas impactam o dialogo que se quer estabelecer em terapia.
+
+Outro desafio era construir uma interface simples e intuitiva, tanto para os profis-
+sionais na interface Web, quanto para os jogadores na interface movel. Alem disso, foi
+preciso pensar na oferta de diferentes tipos de letras, uma vez que o publico alvo esperado
+para utilizar o jogo era de crianças com faixa etaria entre 2 e 7 anos, algumas alfabetiza-
+das, outras ainda nao. Como trabalhos futuros, estao previstos testes com os profissionais
+da Saude e crianças, para avaliar tanto a interface Web, quanto a mobile.
+
+O jogo de narrativa invertida e um jogo empatico, que viabiliza o dialogo de te-
+mas sensiveis, que apoia profissionais, fornecendo um recurso ludico, com relatorios da
+interaçao do jogador e que permite a personalizaçao/flexibilizaçao dos elementos de jogo
+para o publico alvo. Essa flexibilidade vai ao encontro de soluçoes criadas no contexto
+de End-User Development (EUD), empoderando profissionais de dominios diferentes da
+Computaçao na criaçao de sua propria instancia de jogo.
+
+**CONSIDERACOES FINAIS**
+
+O jogo Narrativa Invertida demonstra o potencial de jogos terapeuticos baseados em modelos pre-definidos para auxiliar no tratamento de crianças com doenças cronicas. Ao permitir que as crianças criem suas proprias narrativas a partir de elementos pre-disponibilizados, o jogo oferece uma ferramenta ludica para expressar seus sentimentos e dialogar sobre temas sensiveis. A flexibilidade e a personalizaçao do jogo permitem que os profissionais de saude adaptem a experiencia as necessidades individuais de cada criança, tornando-o uma ferramenta valiosa para a terapia infantil.

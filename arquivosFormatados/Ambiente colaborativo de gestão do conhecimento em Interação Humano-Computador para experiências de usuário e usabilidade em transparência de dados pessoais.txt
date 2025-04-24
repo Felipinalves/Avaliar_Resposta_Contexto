@@ -1,0 +1,96 @@
+**INTRODUCAO**
+
+A Transparencia dos Dados Pessoais, neste artigo tratada pelo termo Transparencia, indica
+o grau no qual as aplicaçoes de software informam aos seus usuarios como e por quem os
+dados pessoais sao manipulados .
+
+A preocupaçao com a Transparencia nas aplicaçoes de software aumentou na
+proporçao que a manipulaçao de dados pessoais tornou-se inevitavel  e por
+fatores como: (1) obrigatoriedade imposta por regulamentaçoes de uso de dados como a
+Lei Geral de Proteçao de Dados (LGPD); e (2) aumento do interesse e preocupaçao dos
+usuarios com açoes que possam impactar na sua privacidade, segurança e liberdade.
+
+Iniciativas como as Politicas de Privacidade e Segurança (PPS) e icones es-
+pecificos para privacidade podem ser encontradas, porem, sao ineficientes ou pouco vali-
+dados com usuarios . Essa situaçao e justificavel
+dada a complexidade de transformar eventos e agentes de manipulaçao de dados em
+informaçoes visuais, acessiveis, relevantes e perceptiveis para os individuos.
+
+Assim, e possivel afirmar que existe a necessidade de evoluçao de conceitos e ele-
+mentos de Interaçao Humano-Computador (IHC) e Interaçao Humano-Dados (IHD) para
+dar suporte a Transparencia, de forma que ela possa ser orientada para os individuos e,
+ao mesmo tempo, possa proteger e garantir segredos comerciais dos controladores das
+aplicaçoes . Assume-se que a busca por esse objetivo sera mais efi-
+ciente se feita de maneira colaborativa e com gestao das informaçoes e dos conhecimentos
+dos profissionais.
+
+Portanto, propoe-se neste artigo o Ambiente Colaborativo para Informaçoes e Ar-
+tefatos de Design para Transparencia (AMCI-TR), que tem por objetivo ser um ambiente
+de gestao e compartilhamento de conteudos e conhecimentos de Interaçao Humano-Dados
+(IHD) com foco em Transparencia. Assume-se que, esse ambiente sera fundamental
+para orientar a evoluçao conceitual e tecnologica da IHD para transparencia, de forma
+que empresas controladoras possam fornecer informaçoes confiaveis, compreensiveis e
+acessiveis aos titulares do dados, que por sua vez, tenham insumos para auxiliar no ge-
+renciamento e controle da manipulaçao de seus dados pessoais.
+
+**Ambiente Colaborativo para Informaçoes e Artefatos de design para
+Transparencia**
+
+O AMCI-TR e um ambiente web proposto para o compartilhamento de conhecimentos e
+artefatos de design para Transparencia. O modelo conceitual do AMCI-TR e mostrado na
+Figura 1.
+
+Com o AMCI-TR, designers de IHD poderao criar um Projeto de Transparencia,
+que representara a necessidade de um projeto de software por recursos e/ou conhecimento
+para implementar informaçoes sobre manipulaçao dos dados pessoais para os usuarios.
+As caracteristicas das demandas serao baseadas no conjunto de metadados do TR-Model
+, que especifica quais informaçoes devem ser apresentadas aos in-
+dividuos.
+
+Por artefatos de IHD entende-se todas as informaçoes, documentos ou recur-
+sos aplicaveis em projetos de transparencia, tais como: modelos de interface grafica,
+prototipos e codigo fonte para ambientes web e mobile, comentarios, sugestoes, dis-
+cussoes, diagramas, imagens, audios dentre outros, tratados no texto a partir daqui como
+conteudos. Os conteudos ficarao armazenados em um repositorio e poderao ser inseridos
+pelo usuario ou por colaboradores no momento da criaçao do projeto, ou posteriormente.
+
+Os conteudos serao apresentados e manipulados pelos usuarios com recursos de
+visualizaçao de informaçao (InfoVis), em uma abordagem que se pretende chamar de
+Imagem do Projeto. A Imagem do Projeto realizara a abstraçao dos conteudos para uma
+
+estrategia compreensivel e manipulavel para os designers.
+
+Para garantir a confiabilidade e a rastreabilidade dos conteudos de um projeto sera
+utilizado o conceito de Proveniencia de Dados. A proveniencia e um historico documen-
+tado de um recurso ou informaçao, desde sua criaçao ate seu mais recente proprietario
+ou atualizaçao . Para o AMCI-TR pretende-se aplicar esse conceito
+para permitir uma melhor avaliaçao da qualidade e da relevancia dos conteudos, alem de
+garantir a qualidade das açoes conduzidas no projeto.
+
+Assume-se que, o uso da proveniencia e fundamental para proporcionar
+informaçoes e artefatos confiaveis e apropriados para que os demais designers possam
+utiliza-los em suas demandas. Destaca-se que, a apresentaçao da proveniencia dos proje-
+tos e artefatos e um dos desafios da construçao da Imagem do Projeto.
+
+Por fim, todas as informaçoes dos conteudos ficarao disponiveis para acesso, con-
+sulta e download da comunidade em geral e serao de acesso publico, codigo aberto, com
+permissao de aquisiçao e alteraçao por parte dos demais colaboradores.
+
+**Consideraçoes finais**
+
+Este artigo apresentou a proposta do AMCI-TR, um ambiente colaborativo de gestao de
+conhecimento e de recursos para projetos de IHD com foco em Transparencia de Dados
+Pessoais.
+
+Considerando os aspectos ja citados de Transparencia, este ambiente tem por ob-
+jetivo proporcionar conteudos que possam ser utilizados por designers para produzir in-
+terfaces para Transparencia.
+
+Todo o conhecimento sobre IHD e Transparencia disponibilizado no ambiente
+devera ser publico e acessivel para a comunidade em geral a fim de ser estudado e utili-
+zado de forma adequada por quem precisar. Ainda, espera-se que tambem possa receber
+contribuiçoes e melhorias que colaborem positivamente para a evoluçao dos conceitos
+e tecnicas de Transparencia, da confiabilidade das aplicaçoes e, consequentemente, da
+privacidade dos individuos e da Interaçao Humano-Computador.
+
+Assim, espera-se que a transparencia de dados: um tema que deve ser tratado como o de significativa tamanha responsabilidade e relevancia possa evoluir de forma sustentavel e sistematica pela acao colaborativa de profissionais da Interacao Humano-Dados, Interacao Humano-Computador, Privacidade, dentre outros.

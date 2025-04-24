@@ -1,0 +1,144 @@
+**RESUMO**
+
+A execuçao de testes com usuarios e fundamental para
+detectar e corrigir falhas no desenvolvimento de produtos.
+A fim de auxiliar os avaliadores na execuçao de tais testes,
+foi desenvolvida uma ferramenta que incorpora os metodos
+de avaliaçao de UX existentes, que sao o AttrakDiff e o
+Metodo de Valencia. Este artigo tem como objetivo
+apresentar as principais caracteristicas desta nova
+ferramenta chamada UX enquire".
+
+**INTRODUÇAO**
+
+A avaliaçao da experiencia do usuario (UX) e fundamental
+para que o projeto de um produto atenda aos desejos e as
+necessidades dos usuarios da melhor forma possivel. O
+avaliador de UX deve ser capaz de identificar problemas de
+usabilidade, analisar os dados obtidos pelas pesquisas e
+apresenta-los aos gestores, entender as expectativas e
+dificuldades encontradas pelos usuarios em um produto,
+entre outras. Essas habilidades sao alguns dos pre-requisitos
+adotados na seleçao de avaliadores por grandes empresas.
+
+E imprescindivel que o avaliador de UX seja capaz de
+compreender os impactos da recepçao de um produto a fim
+de definir o metodo mais apropriado para sua avaliaçao.
+Embora existam varios metodos para avaliaçao de UX, as
+ferramentas para aplicaçao destes ainda sao escassas.
+
+O objetivo deste artigo, portanto, e apresentar o
+desenvolvimento de uma ferramenta para o auxilio nas
+aplicaçoes dos metodos de valencia e AttrakDiff em testes
+com usuarios.
+
+**OS METODOS**
+
+No que tange ao metodo de valencia, este tem como pilar o
+modelo de experiencia de usuario de Hassenzahl, que
+assume que cada usuario determine os atributos de um
+produto ou serviço de acordo com o seu uso.
+
+Este metodo consiste em duas etapas A primeira e uma
+etapa de exploraçao, nela os usuarios sao solicitados a
+monitorar continuamente todas as ocorrencias de seus
+sentimentos (positivos ou negativos) no uso de um produto.
+Esse monitoramento e feito com o auxilio de um controle
+remoto que possui dois botoes, por exemplo um botao
+verde para indicar sentimentos positivos e um botao
+vermelho para indicar sentimentos negativos. Os
+pressionamentos de cada botao sao registrados como
+marcadores de valencia em uma filmagem na fase de
+exploraçao que deve durar entre seis e oito minutos. Na
+segunda etapa, e feita uma entrevista retrospectiva.
+
+"Dois aspectos devem ser investigados para cada marcador
+de valencia (1) Qual aspecto do projeto do produto causou
+o estabelecimento do marcador de valencia? (2) Quais sao
+os meios pessoais e as necessidades subjacentes? Os
+usuarios assistem a uma gravaçao de video de sua sessao de
+exploraçao aumentada pelos marcadores de valencia
+apresentados em uma linha do tempo da gravaçao de
+video. A instruçao e assistir a gravaçao, comentar sobre o
+que eles estavam experimentando e fazer uma pausa em
+cada marcador de valencia. O entrevistador entao pergunta
+quais elementos de design e aspectos do design do produto
+causaram a configuraçao do marcador de valencia
+atual. Depois de determinar o aspecto especifico do design
+do produto, o entrevistador determina o significado e as
+necessidades subjacentes aplicando a tecnica laddering"
+. A questao central do laddering e Por que esse atributo
+e positivo ou negativo?. Esse tipo de pergunta e repetido
+ate que a necessidade relacionada ao marcador de valencia
+tenha sido identificada.".
+
+No que se refere ao AttrakDiff, esse e um metodo
+quantitativo com aplicaçoes em serviços web, softwares
+para PCs, softwares moveis, projetos de hardware, entre
+outros. Este metodo faz uso de um questionario, a fim de
+avaliar os sentimentos do usuario sobre o sistema. "No
+questionario AttrakDiff, as dimensoes hedonica e
+pragmatica da experiencia do usuario sao estudadas com
+diferenciais semanticos.".
+
+“Se um produto interativo e adequado para manipular o
+ambiente e e percebido por seus usuarios como tal, ele tem
+qualidade "pragmatica". Um produto interativo, por outro
+lado, expande as possibilidades do usuario atraves de novas
+funcoes, apresenta novos desafios, estimula-os atraves do
+design visual e da inovacao: formas de interacao ou
+comunica uma identidade desejada (por exemplo, sendo
+profissional, legal, moderno, diferente), “qualidade
+hedonica”.” [2]
+
+
+**A FERRAMENTA UX ENQUIRE**
+
+Como descrito anteriormente, o metodo de valencia requer
+um dispositivo para auxiliar nos marcadores da primeira
+etapa e uma filmagem da interaçao dos usuarios, o que pode
+gerar custos elevados. A aquisiçao dos dispositivos e outras
+inviabilidades tambem podem afetar a execuçao dos
+experimentos, comprometendo assim os seus resultados
+finais, como e o caso da filmagem que pode causar
+desconforto nos participantes, bem como a adiçao de
+clausulas de responsabilidade e direitos de imagem nos
+termos de usuarios.
+
+A fim de evitar tais transtornos, foi desenvolvida uma
+ferramenta para auxiliar tanto no metodo de valencia como
+no AttrakDiff, que busca integrar os pontos positivos e
+conciliar os periodos de experiencia demandados pelos
+dois metodos almejando a coleta de resultados mais
+precisos. A entao denominada UX enquire propoe uma
+soluçao em nivel de software que substitui o controle
+remoto por uma janela com dois botoes (verde e vermelho,
+representando likes e unlikes respectivamente), que quando
+acionados capturam prints do software avaliado e os salvam
+em diretorios especificos. Em seguida e apresentado um
+questionario (fazendo uso das tecnicas do AttrakDiff), onde
+os usuarios sao questionados em relaçao as suas açoes na
+etapa anterior, dessa forma substituindo a filmagem e
+proporcionando um ambiente mais confortavel para a
+realizaçao dos testes.
+
+Dessa forma o UX enquire apresenta dois modos (1) Modo
+usuario, que foi descrito anteriormente e (2) Modo
+Administrador, que e de uso restrito aos avaliadores. Para
+este modo sao oferecidos recursos extras como a geraçao de
+graficos por etapa avaliada e graficos gerais de acordo com
+os dados coletados ao fim dos testes realizados com os
+usuarios, bem como a definiçao de itens a serem avaliados
+em etapas pre-testes.
+
+**CONCLUSAO**
+
+Neste artigo foi apresentado o desenvolvimento da
+ferramenta UX enquire com objetivo de auxiliar nas
+avaliaçoes de UX. Como o projeto esta em andamento,
+trabalhos futuros estao sendo planejados envolvendo testes
+com aproximadamente quinze avaliadores de interaçao.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho apresenta uma ferramenta promissora para facilitar a aplicaçao de metodos de avaliaçao de UX. A ferramenta busca integrar os pontos positivos e conciliar os periodos de experiencia demandados pelos metodos de valencia e AttrakDiff, almejando a coleta de resultados mais precisos. Trabalhos futuros buscam envolver testes com aproximadamente quinze avaliadores de interaçao.

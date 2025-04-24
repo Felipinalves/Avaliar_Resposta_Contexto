@@ -1,0 +1,88 @@
+Introducao
+
+As abelhas desempenham um papel essencial na polinizacao, crucial para ecossistemas
+saudaveis e a producao agricola. No entanto, as mudancas climaticas e praticas
+insustentaveis afetam negativamente as populacoes de abelhas e seus servicos de
+polinizacao. Temperaturas elevadas e alteracoes nos padroes de precipitacao expoem as
+abelhas a condicoes estressantes, podendo levar a diminuicao populacional e extincoes
+locais. Alem disso, o uso da terra, especies exoticas e agrotoxicos contribuem para o
+declínio das abelhas, ameacando a producao de alimentos e a manutencao da
+biodiversidade. O projeto Appidae tem como objetivo mitigar esses impactos utilizando
+drones, Inteligencia Artificial (IA) e processamento de imagens para identificar areas
+seguras para a apicultura organica, promovendo a sustentabilidade e resiliencia das
+praticas apicolas .
+
+Metodologia
+
+Foi realizado um Diagnostico Rapido Participativo (DRP) segundo descrito em Souza
+(2009) e em seguida adotou-se o Processo de Desenvolvimento de Produto (PDP) em
+Espiral, segundo descrito em Barbalho (2006), adequando-o em cinco fases principais,
+representado na Figura 1.
+
+O DRP incluiu a aplicacao de um questionario anonimizado
+(https://forms.gle/xPMeVqpWc1r37rDp9) e visitas tecnicas nas regioes de Anapolis
+(GO) e Chapadinha (DF). A coleta permitiu o levantamento de informacoes sobre a
+realidade de comunidades apicolas, a partir do ponto de vista de seus membros. Na
+sequencia, iniciou-se um estudo de cenario, baseado nas coletas do DRP, o que
+proporcionou definir um escopo do produto, levantamento de concorrentes e normas
+vigentes no pais.
+Na fase de especificacao, a partir do estudo de cenario e conforme a engenharia
+de usabilidade de J. Nielsen (1992), visando conhecer o usuario, mapearam-se perfis de
+apicultores, com o Canvas de Persona, e suas necessidades, transformando-as em
+requisitos do sistema.
+Nas fases de concepcao, prototipacao, teste e validacao foram desenvolvidos
+prototipos de baixa, media e alta fidelidade no Figma, visiveis na Figura 2, e diagramas
+de caso de uso. Conforme advogado por Nielsen (1992), realizaram-se testes empiricos
+e design iterativo; adequacao as Diretrizes de Acessibilidade para o Conteudo da Web
+(WCAG) para contraste de cores segundo W3C (2023); e design participativo com
+estudantes do D-Lab do Instituto de Tecnologia de Massachusetts [Barbosa et al. 2021].
+
+Justificativa
+
+O projeto Appidae insere tecnologias avancadas, como IA, mapeamento de imagens
+com drones e um aplicativo movel ao processo de apicultura organica para enfrentar os
+desafios impostos pelas mudancas climaticas e praticas insustentaveis, que ameacam a
+sobrevivencia das abelhas. A iniciativa, apos analise de potenciais impactos sobre a
+Agenda 2030, em especifico os Objetivos de Desenvolvimento Sustentavel (ODS)
+propostos pela Organizacao das Nacoes Unidas (2015), obteve potencial de impacto sob
+15 dos 17 ODS, representado na Figura 3.
+
+Solucao proposta e cenario de uso
+
+Primeiramente, realiza-se o planejamento do voo, em que se delineia a regiao a ser
+sobrevoada com poligonos indicando as areas a serem mapeadas, conforme a Figura
+4(b). Apos o mapeamento por drone, representado na Figura 4(a), procede-se a
+marcacao das imagens, onde se identificam manualmente as vegetacoes especificas (e.g.,
+aroeiras e bananeiras).
+
+Em seguida, a rede neural e treinada utilizando YOLO v8 (2023), modelo de
+deteccao e classificacao de objetos no campo de Visao Computacional (CV), e aplica-se
+tecnicas de aumento de dados como rotacao, ajuste de brilho e saturacao para expandir o
+repertorio de imagens. Com o modelo treinado, e possivel identificar especies vegetais e
+os resultados sao obtidos graficamente e estatisticamente, representado na Figura 4(c).
+Alem dessa identificacao, sao extraidos dados das imagens mapeadas, como dimensoes,
+coordenadas (latitude e longitude), orientacao cardinal, hora, data e altitude.
+
+Os dados processados sao armazenados em um banco de dados e
+disponibilizados por meio de uma Application Programming Interface (API), que o
+aplicativo Appidae consome para exibir as informacoes processadas ao usuario, visivel
+na Figura 4(d), tornando possivel o monitoramento de riscos ao mel organico,
+recomendacao de melhores localizacoes aos apiarios, caso haja algum risco identificado,
+e favorece a preditividade da flora por meio da identificacao da vegetacao. O aparato
+tecnologico e representado visualmente na Figura 4 e um cenario de uso representado
+no Quadro 1.
+
+Viabilidade
+
+O aparato tecnologico, desenvolvimento, equipe de pesquisa e manutencao da solucao
+extrapolariam o orcamento de 1,3 milhoes de reais em 1 ano. Por outro lado, o projeto
+pode ser absorvido pela iniciativa do Governo conhecida como Rotas de Integracao
+Nacional, especificamente a Rota do Mel. Dessa forma, produz-se um modelo que pode
+ser replicado em outras regioes do Brasil e mantido pelo proprio governo, promovendo
+o crescimento da producao apicola, geracao de trabalho e renda, melhora da qualidade
+de vida dos produtores rurais, preservacao ambiental e disseminacao da consciencia
+ambiental como forma de enfrentamento as mudancas climaticas.
+
+Conclusao
+
+A integracao de tecnologias como drones, IA e processamento de imagens oferece uma solucao inovadora para fortalecer a apicultura organica, contribuindo para a preservacao ambiental, o desenvolvimento sustentavel e a resiliencia das comunidades apicolas diante dos desafios impostos pelas mudancas climaticas e praticas insustentaveis.

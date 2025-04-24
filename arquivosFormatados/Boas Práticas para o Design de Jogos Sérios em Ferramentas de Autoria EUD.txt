@@ -1,0 +1,147 @@
+**Introdução**
+
+Jogos serios sao utilizados para desenvolver conhecimentos ou habilidades em diversos
+campos de aplicaçao, incluindo treinamento, publicidade, saude e educaçao, em diferentes
+dispositivos computacionais . Nesse contexto, ferramentas criadas sob
+a perspectiva do End-User Development (EUD), i.e., permitem que usuarios atuem como
+desenvolvedores de software nao especialistas , podem empoderar
+profissionais de diferentes areas a projetar jogos serios.
+
+Porem, profissionais sem conhecimento sobre interfaces e game design podem
+projetar jogos serios sem a jogabilidade adequada, o que pode gerar duvidas quanto
+a interface, personagens ou narrativa. Isso tornaria a experiencia frustrante, especi-
+almente considerando que os usuarios que interagem para fins de aprendizado geral-
+mente se comportam de maneira diferente dos usuarios em geral, pois nao possuem
+experiencia no dominio, sao heterogeneos e podem nao ser intrinsecamente motivados
+.
+
+Assim, e necessario oferecer orientaçao a pessoas interessadas em criar interfaces
+de jogos serios com ferramentas EUD, de forma que suas escolhas para a interface nao se-
+jam propensas a desengajar o jogador. Nesta pesquisa, o foco esta nos elementos esteticos
+relacionados a interface que podem afetar a compreensao da mecanica e narrativa do jogo.
+Propomos um conjunto de boas praticas para a criaçao de interfaces de jogos utilizando
+ferramentas EUD, elaborado a partir de estudos da literatura e da avaliaçao de usabilidade
+de jogos configurados por profissionais de Saude e Educaçao por meio da interface de
+autoria Rufus.
+
+**Metodologia**
+
+Para oferecer direcionamento para pessoas criando jogos serios em ferramentas EUD, a
+pesquisa apresentada foi conduzida em tres etapas. Primeiro, foi realizado um levan-
+tamento bibliografico com enfase na identificaçao de elementos de interfaces mais co-
+mumente usados em jogos serios, seguindo as etapas definidas por Creswell e Creswell
+. Em seguida, foi feita uma avaliaçao de usabilidade de tres jogos cri-
+ados utilizando a plataforma EUD Rufus, para identificar potenciais dificuldades com
+as escolhas dos elementos de interface por profissionais utilizando o Checklist Mobili
+, um instrumento que oferece itens de verificaçao para avaliaçoes
+heuristicas de jogabilidade em jogos e usabilidade em aplicativos para celular. Por fim,
+os dados levantados foram analisados e compilados como um conjunto de boas praticas
+para auxiliar nas escolhas de design nesse dominio. O processo de tabulaçao e analise dos
+dados foram realizados por duas pesquisadoras graduandas, com a participaçao adicional
+de uma especialista da area de IHC.
+
+**Boas praticas para o Design de Jogos Serios em Ferramentas EUD**
+
+A partir da analise do cruzamento de dados obtidos pelo levantamento bibliografico e a
+avaliaçao dos jogos gerados com a plataforma Rufus, estes autores propoem um conjunto
+de boas praticas para a criaçao de interfaces de jogos utilizando ferramentas EUD.
+Forneça o status do jogador o mais claro possivel. O uso de elementos como
+pontos e barras de vida, por exemplo, quando aplicaveis dentro do jogo, auxiliam
+a criança na identificaçao da sua evoluçao dentro do jogo. Elas tambem induzem
+o engajamento e contribuem na disposiçao que a criança tera para a realizaçao da
+conclusao da tarefa. Para estabelecer a clareza desse status, e necessario trabalhar
+o posicionamento, o contraste, as cores e o tamanho, de modo a ser visualmente
+identificavel durante a partida;
+Utilize linguagem de facil entendimento, relacionando-a com metaforas in-
+fantis. O uso de termos do dia-a-dia facilita o entendimento da aplicaçao para
+crianças. Evite termos estrangeiros ou tecnicos que possam ser confusos para os
+jogadores;
+Escolha uma tipografia facil de reconhecer. De preferencia a uma tipografia que
+seja facil de ler, preferencialmente em letra bastao/caixa alta. O tamanho deve ser
+ligeiramente maior do que o normalmente usado em leituras no geral. O uso de
+fontes a partir do tamanho 14 e recomendado;
+Opte por cores solidas e saturadas, especialmente em itens interativos e feed-
+back. O uso deste tipo de cor em um objeto ou acontecimento visual (por exem-
+plo, personagens interativos, feedback de interaçao) o deixa mais expressivo e
+gera uma sensaçao de emoçao. Por isso, sao preferiveis por crianças. Evite o uso
+do degrade, pois pode causar um estranhamento visual e uma percepçao que o
+elemento nao esta preenchido corretamente;
+Forneça feedback perceptivel para todas as interaçoes, independente do grau
+de relevancia delas no jogo. E importante que os feedbacks sejam rapidos, claros
+e precisos, para que situe a criança do que esta ocorrendo no jogo e dos resultados
+de suas açoes. Caso o retorno do sistema nao seja claramente perceptivel, ela
+podera repetir a açao ate que uma resposta seja percebida. Caso haja atraso no
+feedback, alem da repetiçao da açao, a criança tem dificuldade em interpretar o
+seu significado e associa-lo com suas açoes;
+Apresente feedbacks visuais complementares com efeitos visceralmente pra-
+zerosos quando marcos importantes forem atingidos. Esses efeitos maximi-
+zam a recompensa recebida, seja ela uma conclusao de fim de fase, coleta de um
+item, recebimento de distintivo. Desse modo, alem de haver o reforço de avanço
+da criança dentro do jogo ha tambem a sensaçao de prazer em concluir tarefas,
+mantendo-a mais engajada em permanecer no jogo;
+Apresente feedback textual com reforço sonoro sempre que possivel. De
+acordo com a idade e maturidade cognitiva da criança, respostas textuais podem
+nao ser totalmente compreendidas. Portanto, o som funciona como uma forma
+complementar de assimilaçao, para ajudar a interpretar a informaçao que esta
+sendo transmitida;
+Mantenha a consistencia no feedback sonoro e visual. Com a consistencia, a
+criança conseguira reconhecer os padroes de açoes que resultaram naqueles feed-
+backs e conseguira realizar açoes adequadas apos eles;
+Escolha elementos graficos para representar personagens e itens mantendo a
+coerencia entre esses e a narrativa do jogo. Evite realizar relaçoes irreais entre
+personagens, entre personagens e itens e entre esses e o cenario (por exemplo,
+uma agua-viva interagindo com um camelo; um camarao que come queijo; ou uma
+sereia no deserto), a menos que haja uma clara justificativa para essa escolha na
+narrativa do jogo. A escolha incoerente e nao justificada pode afetar a assimilaçao
+de informaçoes, bem como causar confusao, que desvia a criança do proposito
+inicial do jogo ou atividade proposta;
+Diferencie elementos interativos e decorativos por meio da affordance e ma-
+peamento. Os tres tipos de elementos devem ser claramente distinguiveis no jogo.
+Elementos interativos (por exemplo, itens, coletaveis e personagens jogaveis) de-
+vem explicitar claramente sua funçao e se diferenciar de outros que, ainda que vi-
+sualmente semelhantes, sao apenas decorativos (por exemplo, objetos do cenario,
+personagens nao-jogaveis e plataformas);
+Elementos informativos devem ser facilmente reconheciveis. Elementos da in-
+terface que fornecem informaçoes sobre opçoes, personagens, fases ou status do
+jogador devem se destacar dos demais itens, de modo que os jogadores consigam
+facilmente identifica-los. Desse modo, evita-se que seja exigido que a criança
+tenha uma grande curva de aprendizagem ou fique dependente de sua propria
+memoria;
+Simplifique os elementos graficos e favoreça o conforto visual. Elementos
+graficos, incluindo mas nao restritos a personagens, itens, cenarios, menus, caixas
+de texto e Heads-Up Display (HUD) devem utilizar linhas bem definidas, com
+poucos detalhes visuais. E necessario que a forma seja facilmente associada ao
+objeto que representa e nao apresente detalhes excessivos, que podem dificultar o
+reconhecimento do elementos e aumentar a carga cognitiva. Alem disso, e impor-
+tante o uso de espaço negativo - isto e, a area vazia ao redor do elemento principal
+pois causam um conforto visual em crianças, facilitando a percepçao de formas
+e tamanhos;
+Reforce elementos textuais da interface com icones e imagens. O uso de icones
+e imagens complementares ao texto reforça a mensagem a ser passada e torna a
+interaçao mais intuitiva. Interfaces predominantemente textuais podem rapida-
+mente se tornar cansativas. No caso de crianças em fase de alfabetizaçao, ha o
+risco da nao compreensao dos elementos. Desse modo, interfaces que mesclam o
+uso de elementos, tornam-se mais intuitivas;
+Explicite o objetivo e a forma de jogar, em diferentes momentos. No primeiro
+acesso ao jogo, ao começar uma nova fase e quando um novo objetivo surge dentro
+de uma mesma fase e necessario exibir as instruçoes relacionadas, as quais devem
+permanecer facilmente acessiveis em caso de duvida ou esquecimento;
+Mantenha os controles e comandos basicos coerentes entre si. Os controles
+e comandos basicos do jogo devem estar sempre visiveis, acessiveis e na mesma
+posiçao na tela. Por exemplo sair, pausar, salvar ou quaisquer outros comandos de
+uso constante do jogador.
+
+**Consideraçoes Finais**
+
+A interface tem importancia intrinseca para os jogadores, pois o conecta a mecanica do
+jogo e determina o fluxo da experiencia do jogador, permitindo ao mesmo assumir o con-
+trole dos personagens, navegar pelo ambiente, tomar decisoes e realizar tarefas. Desse
+modo, os autores desta proposta acreditam que a inclusao das boas praticas nas ferramen-
+tas EUD direcionam o profissional para a criaçao de um jogo que, dentro das restriçoes
+necessarias, possa comunicar melhor seus objetivos e engajar seus jogadores, por meio de
+uma interface estetica, harmonica e agradavel. Os trabalhos futuros incluem o desenvol-
+vimento de jogos aplicando estas diretrizes e seu refinamento.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo propoe um conjunto de boas praticas para o design de interfaces de jogos serios criados com ferramentas de desenvolvimento de usuario final (EUD), visando a melhorar a usabilidade e o engajamento dos jogadores. A adoçao dessas praticas pode capacitar profissionais nao especializados a criar jogos mais eficazes e envolventes, expandindo o uso de jogos serios em areas como educaçao, saude e treinamento. Trabalhos futuros incluem o desenvolvimento de jogos aplicando estas diretrizes e seu refinamento.

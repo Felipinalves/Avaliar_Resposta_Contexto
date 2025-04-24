@@ -1,0 +1,172 @@
+**RESUMO**
+
+Como a presença de audencia influencia a interaçao social com
+um sistema conversacional em um espaço fisico? Para responder a
+essa questao, esta pesquisa analisou dados de uma exposiçao de
+arte em que os visitantes interagiam em linguagem natural com
+tres chatbots representando personagens de um livro. Foram
+realizados dois estudos para explorar a influencia das audiencias.
+No Estudo 1 o trabalho em campo coletou e analisou de forma
+cruzada a percepçao da interaçao social relatada, as condiçoes da
+audiencia (o visitante esta sozinho, o visitante e observado por
+conhecidos e/ou estranhos) e variaveis de controle, como o genero
+do visitante e a familiaridade com o livro. No Estudo 2 foram
+analisadas mais de 5.000 registros de conversas e gravaçoes de
+video, identificando padroes de dialogo e como eles se
+correlacionaram com as condiçoes do publico. Alguns efeitos
+significativos foram encontrados, sugerindo que sistemas
+conversacionais em espaços fisicos devem ser projetados
+considerando se outras pessoas observam o usuario ou nao.
+
+**Introduçao**
+
+Os sistemas de conversaçao estao sendo cada vez mais
+empregados em espaços fisicos para uso publico e privado. Com
+estes sistemas, ou chatbots, as interaçoes humanas podem
+acontecer na presença de audiencia, seja amigos, familiares ou
+simplesmente estranhos e espectadores.
+
+Estudos relacionados descobriram que os seres humanos
+tendem a mudar seu comportamento normal de conversa quando
+estao na frente dos outros . Entender essas mudanças no
+comportamento e importante porque pode ser necessario projetar
+os sistemas de conversaçao da maquina para lidar com situaçoes
+em que as pessoas mudam seu comportamento habitual para
+acomodar a presença de uma audiencia. A motivaçao para estudar
+esse tipo de mudança de comportamento teve origem nas
+observaçoes iniciais de visitantes que vivenciavam uma exposiçao
+de arte por meio da interaçao com um grupo de chatbots, sozinhos
+ou na presença de conhecidos e/ou estranhos.
+
+Ao reconhecer 0 contexto da audiencia, 0 sistema
+conversacional pode ser projetado para responder
+apropriadamente a interaçao social em grupo, adaptando-se e
+aprimorando a experiencia geral dos usuarios e de seus publicos.
+
+No entanto, essas consideraçoes e estrategias so fazem sentido
+se entendermos se e como os usuarios mudam seu comportamento
+ao conversar com maquinas na frente de outras pessoas. Eles se
+sentem mais envergonhados, poderosos ou mais espertos por um
+publico ao dialogar com uma maquina em vez de com uma
+pessoa? As mudanças sao diferentes se o publico for formado por
+conhecidos ou estranhos? Para esclarecer essas questoes, dois
+estudos no cenario de uma exposiçao de arte interativa e seus
+visitantes foram conduzidos.
+
+Neste cenario um ou varios visitantes conversavam livremente
+em um espaço fisico com tres chatbots baseados em texto
+representando personagens do livro Dom Casmurro de Machado
+de Assis. Um estudo em campo exploratorio foi feito durante as
+ultimas tres semanas de Agosto de 2017 no museu onde a obra de
+arte foi exposta. Nesse periodo 5.100 pessoas interagiram com a
+exposiçao. Esses participantes foram filmados e cerca de 10.000
+perguntas foram registradas. Destes visitantes, 92 foram
+observados durante a interaçao com a exposiçao e convidados a
+participar de uma entrevista semiestruturada. As seguintes
+questoes de pesquisa foram exploradas:
+
+RQ1. Quais sao os efeitos da audiencia nas percepçoes dos
+usuarios durante a interaçao social com os chatbots?
+
+RQ2. A presença de audiencia influencia o tipo e o conteudo das
+perguntas do usuario direcionadas aos chatbots?
+
+No primeiro estudo entrevistas semi-estruturadas e
+observaçoes revelaram um conjunto de temas emergentes que
+ajudaram a criar uma imagem da experiencia dos visitantes com a
+obra de arte: curiosidade e novidade; interesse na trama; respostas
+esperadas dos chatbots; e efeitos da audiencia.
+
+No segundo estudo analisamos um conjunto de dados com
+aproximadamente 5.000 perguntas registradas durante tres
+semanas combinadas com informaçoes extraidas das gravaçoes de
+video das interaçoes. Nessa analise, empregamos ferramentas de
+codificaçao manual e de aprendizado de maquina para analisar o
+conjunto de dados usando uma abordagem semi-supervisionada.
+
+Tanto no Estudo 1 como no Estudo 2 encontramos evidencias
+de efeitos da audiencia sobre como as pessoas interagem com os
+chatbots em espaços publicos.
+
+No Estudo 1, vimos que diferentes condiçoes de audiencia
+produziram efeitos significativos na experiencia do usuario
+reportada pelos usuarios, conforme medido pelo nosso
+questionario. Quando os usuarios eram observados por conhecidos,
+os usuarios sentiam menos que os personagens respondiam as
+suas perguntas do que os usuarios nas outras condiçoes, as vezes
+conversando diretamente com as pessoas que conheciam atraves
+da obra de arte. Por outro lado, os usuarios observados por
+estranhos que esperavam na fila relataram com mais frequencia
+que os personagens estavam conversando com eles na comparaçao
+com os usuarios das outras condiçoes. Uma possivel explicaçao e
+que esses usuarios podem ter tentado se concentrar mais na
+conversa com os chatbots porque se sentiam pressionados por
+pessoas que esperavam por tras deles.
+
+Tambem vimos no Estudo 1 que 0S usuarios com
+conhecimento previo da historia representada na obra de arte
+pareciam ser mais fortemente afetados pelas condiçoes da
+audiencia. Tais usuarios, quando observados por conhecidos,
+discordaram significativamente de que os personagens falavam
+entre si, demonstrando um aumento no sentimento de pertencer a
+conversa. Da mesma forma, usuarios observados por estranhos na
+fila e familiarizados com a trama do livro eram significativamente
+mais propensos a perceber os chatbots conversando com eles, a se
+sentir parte da conversa e a acreditar que os personagens
+respondiam as suas perguntas alem de tender a discordar de que
+os personagens estavam conversando entre si.
+
+Quando os usuarios conheciam o contexto e eram observados
+por estranhos ao redor da mesa houve um aumento significativo
+na percepçao de que os personagens podiam falar sobre qualquer
+assunto. De alguma forma, o conhecimento previo do conteudo
+possivelmente impulsionou o efeito da audiencia na percepçao das
+interaçoes sociais nas situaçoes onde um publico familiar esta ao
+redor os usuarios ou quando os usuarios sao observados por
+estranhos. Tambem vimos que os efeitos da audiencia sobre os
+usuarios foram mais pronunciados quando considerados em
+conjunto com o genero e o tipo de perguntas que homens e
+mulheres enviaram para os chatbots.
+
+No Estudo 1 tambem vimos evidencias de que os efeitos da
+audiencia sao diferentes de acordo com o genero do usuario,
+particularmente considerando a presença de estranhos. As usuarias
+observadas por estranhos na fila sentiram mais que 0S
+personagens conversaram com elas, enquanto os usuarios do sexo
+masculino nao relataram isso. Quando observadas por estranhos
+ao redor da mesa, as usuarias perceberam que os chatbots nao
+falavam sobre outros assuntos em maior extensao e
+significativamente mais do que os usuarios do sexo masculino.
+Nossas evidencias parecem indicar que o genero masculino se
+comportara melhor quando conhecidos nao os observam. Em
+contraste, a analise qualitativa do Estudo 1 mostra que quando os
+homens fazem perguntas fora do escopo, suas sentenças
+intensificam o comportamento de se gabar (showing off) com
+mais frequencia. Resultados semelhantes existem na literatura .
+
+O Estudo 2 revelou outros tipos de efeitos da audiencia
+complementares aos detectados no Estudo 1: as reaçoes dos
+usuarios as falhas do chatbot foram mais comuns quando os
+usuarios foram observados por conhecidos. Tambem vimos que os
+participantes do sexo masculino tinham uma tendencia maior a
+perguntar algo relacionado ao escopo do livro quando estavam
+perto de uma audiencia de estranhos ao redor da mesa.
+
+O Estudo 2 tambem mostrou efeitos da audiencia aprimorados
+quando havia um uma mençao direta ao usuario na resposta do
+chatbot, i.e. o nome do usuario ou o pronome na terceira pessoa
+do singular e citado na resposta. Em geral, descobrimos que a
+mençao direta aumentou a probabilidade de o usuario reagir a uma
+falha do chatbot. No entanto, uma experiencia compartilhada com
+conhecidos combinada com a mençao direta tendeu a reduzir a
+reaçao ao fracasso.
+
+Em resumo, os dois estudos reuniram evidencias suficientes
+para apoiar respostas positivas as duas perguntas de pesquisa RQ1
+e RQ2, e apontam para a necessidade de considerar os efeitos da 
+audiencia ao projetar experiencias de conversacao em espacos
+fisicos. Esses efeitos da audiencia podem ser afetados por muitos
+fatores, tais como: a composicao do publico (conhecidos ou
+estranhos); a existencia de uma fila de espera; o conhecimento do
+contexto da interacao; genero dos usuarios; e uso de mencao
+direta. 

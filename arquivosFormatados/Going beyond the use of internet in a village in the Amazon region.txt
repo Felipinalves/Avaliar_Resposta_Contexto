@@ -1,0 +1,185 @@
+**INTRODUCAO**
+
+Grande parte da regiao Amazonica brasileira e remota e
+desconectada de diversas formas. Quase nao ha estradas pavimentadas
+e o deslocamento e o transporte geralmente acontecem de barco.
+Em 2010, apenas 61,5 por cento da populaçao no Norte do Brasil
+tinha eletricidade em suas casas . Tambem e dificil o acesso a
+serviços basicos de saude, o que se reflete no triste fato de que
+14 por cento das crianças morrem antes de 1 ano de idade . As familias
+sao privadas de tratamento de esgoto, agua potavel e a maioria dos
+serviços publicos. Grande parte da area tambem carece de conectividade
+com as telecomunicaçoes, incluindo o acesso a redes moveis ou
+a internet. Programas governamentais visam aumentar a cobertura de
+eletricidade atraves da energia solar, estradas estao sendo construidas
+(para as quais a floresta precisa ser cortada) e varios projetos
+tambem trazem acesso a TV e telecomunicaçoes. Tudo isso esta
+afetando as praticas e relaçoes locais. Existe uma pressao crescente
+para procurar trabalho e educaçao fora das areas rurais, o que aumenta
+a migraçao para as cidades. Isso enfraquece os laços pessoais entre
+os membros da comunidade, ao mesmo tempo em que torna o uso da
+internet uma necessidade por razoes sociais e economicas.
+
+**OBJETIVO DA PESQUISA E DEFINICAO DO PROBLEMA**
+
+Desde 2015, trabalho em parceria com a Associaçao de Agricultores
+Organicos de Boa Vista (APOBV), uma pequena comunidade rural
+perto da cidade de Belem, cerca de quarenta minutos de barco de
+um pequeno porto local. Boa Vista tem uma estimativa de duzentas
+familias que utilizam a terra em uma economia principalmente informal
+em relaçao com a floresta circundante.
+
+Atraves de nosso trabalho conjunto, testemunhei o dilema em que
+se encontram: presos entre sua forma de vida tradicional e um
+desenvolvimento que inclui o advento de estradas, eletricidade,
+mercados globalizados e a internet. Ao longo dos ultimos anos, varios
+membros expressaram repetidamente o desejo de que suas formas
+tradicionais permaneçam e que sua comunidade seja forte.
+
+Entre outras atividades, desenvolvemos um projeto para trazer
+internet para a comunidade. Acara permanece amplamente desconectada
+e a regiao sofre com cobertura limitada de rede movel com formas
+limitadas de comunicaçao. Um aspecto importante deste trabalho foi
+fornecer acesso e a comunidade ser capaz de governar o acesso a
+internet, bem como as formas como seria utilizada. Seus tres principais
+argumentos para ter sinal de internet eram para chamar socorro,
+proposito educacional para as geraçoes mais jovens e para transaçoes
+comerciais. A associaçao tambem desenvolveu planos de expansao das
+atividades para criar outros arranjos comerciais. Meu trabalho concentra-
+se tanto nos padroes de uso da internet, quanto no desenvolvimento
+conjunto da infraestrutura necessaria para ela. A Figura 1 mostra a
+configuraçao da infraestrutura que a comunidade de Boa Vista do Acara
+e eu desenvolvemos juntamente com o Instituto Tecnologico de
+Aeronautica em Sao Paulo e a Universidade Federal do Para em
+Belem, especificamente seu laboratorio Lasse: um sinal e fornecido
+a partir da cidade de Belem, chegando no porto do outro lado do rio.
+De la, e distribuido a comunidade atraves da floresta circundante por
+meio de uma rede de torres e antenas. Embora tecnologicamente nao
+seja complicado, as condiçoes locais, por exemplo, a natureza e a
+instabilidade da eletricidade interferem no seu funcionamento adequado
+e a manutençao frequente e necessaria. Essa manutençao depende da
+disponibilidade de conhecimento, tempo e motivaçao, que precisam
+ser organizados e e o desafio real.
+
+Neste processo, meus objetivos tambem sao passar pelo dialogo e por
+um processo reflexivo que esteja embutido nas relaçoes sociais que
+temos e feito atraves da compreensao da historia, da cultura e do
+contexto local: quando converso com um membro da comunidade
+sobre aspectos de sua vida, ambos refletimos e mudamos nossa
+compreensao dela. Minhas perguntas servem como uma oportunidade
+para reflexao, assim como suas respostas e perguntas para mim.
+Com base na experiencia de Freire, este processo de reflexao dialogica
+esta capacitando e levando as pessoas a ter maior controle sobre suas
+proprias vidas . Moacir Gadotti, fundador do Instituto Paulo
+Freire, diz que o dialogo nao e apenas o encontro de dois ou mais
+pedaços de conhecimento, mas um encontro que ocorre na praxis
+(açao e reflexao) em um compromisso transformacional social e politico .
+Em consonancia com isso, meu trabalho nao so visa reunir conhecimento
+sobre a comunidade de Acara, mas esta comprometido em estar
+engajado com suas preocupaçoes e em ser um recurso para a comunidade
+e seus membros. Criando um ambiente de processo de aprendizagem para
+ambos.
+
+**TRABALHOS RELACIONADOS - QUANDO A INTERNET E NOVA**
+
+A tecnologia da Internet se expandiu rapidamente e atingiu a maioria
+das regioes do globo. No entanto, muitos cantos ainda permanecem
+desconectados. Inumeras iniciativas e estrategias tem sido implantadas
+para conectar o que esta desconectado, o que me permite olhar para
+tras em uma quantidade significativa de trabalho academico. Uma
+abordagem inicial foi o desenvolvimento dos chamados telecentros ,
+utilizados para educaçao, comunicaçao, atividades economicas ou
+desenvolvimento pessoal . Telecentros foram estabelecidos em
+todo o mundo na America Latina, Asia e Africa. Apesar de sua
+popularidade com os doadores e da tendencia no momento, os tele-
+centros tem sido amplamente um fracasso: as razoes incluem barreiras
+politicas, insustentabilidade financeira, falta de atendimento ao cliente
+e conteudo que nao era relevante para os grupos de usuarios.
+
+Quando se trata de acessar a internet, os telefones moveis tem
+ganhado destaque nos ultimos anos. Na Africa, isso afetou a saude,
+as relaçoes sociais, as praticas economicas  e diminuiu em geral
+a desigualdade . Mesmo que isso tenha sido denominado uma
+revoluçao movel por varios autores e atores, incluindo o Banco
+Mundial , um estudo recente de Csikszentmihaily et al  mostrou
+que os custos de acesso a internet atraves do telefone celular sao
+em muitos paises africanos proibitivamente altos.
+
+Tanto o Google quanto o Facebook lançaram projetos proeminentes
+para melhorar o acesso a internet em regioes do mundo onde a con-
+ectividade e baixa. O Free Basics do Facebook oferece acesso a
+uma parte selecionada da internet atraves de um aplicativo . A
+iniciativa tem sido recebida com uma grande quantidade de criticas por
+violar a neutralidade da rede  e, em resposta, a India se retirou
+do programa . O Google lançou um projeto que visa
+fornecer acesso gratuito na Amazonia atraves de uma rede de
+baloes de alta altitude .
+
+Governos de paises em desenvolvimento tambem tem tomado medidas
+para fornecer acesso a internet para seus cidadaos. Um exemplo in-
+teressante disso e a iniciativa de Cuba para fornecer acesso a WiFi
+de baixa largura de banda em alguns parques selecionados em todo o
+pais . Varias iniciativas em todo o mundo sao iniciadas e lideradas
+por atores civicos, redes de ativistas e ONGs. Um exemplo proem-
+inente disso e a rede Freifunk que fornece acesso gratuito a internet
+via WiFi em varias cidades alemas . Iniciativas para infraestrutura
+de internet existem em outras partes do mundo: Rhizomatica e
+Coolab trabalham para fornecer infraestrutura e treinamento em areas
+remotas .
+
+E no entanto interessante notar que fornecer acesso sozinho em
+alguns casos nao e suficiente: um estudo descobriu que mesmo em tempos
+de acesso movel, os usuarios valorizam espaços fisicos compartilhados,
+como bibliotecas, para acessar a internet para os serviços que fornecem,
+como funcionarios que ajudam os visitantes a fazer pesquisas .
+
+METODOLOGIA
+
+Meu trabalho se baseia tanto na Pesquisa-Ação quanto no Design Participativo. Adotei uma abordagem de Pesquisa-Ação [16] para compreender as práticas de uso da internet em Acara, juntamente com os membros da comunidade. Minhas percepções são baseadas em atividades qualitativas como observações, conversas, entrevistas e interações formais e informais. A pesquisa que fazemos juntos é do interesse da comunidade: elaboramos nossas perguntas de pesquisa em conjunto para obter uma compreensão mais profunda das condições em que a comunidade vive, incluindo o acesso à internet, e as maneiras de alcançar os objetivos propostos pelos habitantes. Os membros da comunidade são co-pesquisadores, e não participantes, nesse processo. Também utilizo metodologias da Teoria Fundamentada, já que meu relacionamento com a comunidade se estende por vários anos, inclui longas estadias e interações frequentes e informais. Embora eu seja de fora de Acara, ao longo dos anos estabelecemos amizades e estamos familiarizados uns com os outros. Coleto e analiso dados simultaneamente, e investigações posteriores são guiadas por temas que emergem das minhas experiências.
+
+O segundo pilar metodológico do meu trabalho é o Design Participativo (DP), conforme articulado por Bjrgvinsson et al. [4] e outros. A postura política do DP de empoderar grupos sociais, como trabalhadores [11] ou jovens urbanos marginalizados [4], é adequada à situação em questão, onde uma comunidade rural não é atendida pelas partes interessadas que fornecem à maior parte do país (por exemplo, empresas de telecomunicações) e tomam medidas por conta própria, em seus próprios termos, de maneiras que se adequam aos seus desejos e sensibilidades culturais específicos.
+
+Na colaboração entre mim e a comunidade de Acara, não buscamos apenas obter uma compreensão profunda da interação entre a tecnologia da internet e a cultura local, mas também formular conjuntamente visões e desejos para futuros possíveis, desenvolver a infraestrutura técnica, como uma rede de torres, antenas e roteadores, e criar práticas específicas que ajudem a alcançar os objetivos. Nosso trabalho conjunto de design assume muitas formas, desde reuniões estruturadas de design até encontros mais informais, e também incorpora workshops onde adquirimos o conhecimento necessário para instalar e manter os componentes da infraestrutura.
+
+Concretamente, coleto dados por meio de observações registradas em notas de campo, entrevistas que gravo diretamente ou anoto posteriormente, dependendo do que a situação permite, e atividades conjuntas, como workshops, que fornecem uma variedade de resultados, desde minhas próprias notas de campo até feedbacks, protótipos e mapas. Os dados são analisados em conjunto com meu orientador e outros colegas para identificar os temas principais.
+
+CONTRIBUIÇÕES ESPERADAS DO TRABALHO
+
+Meu trabalho acadêmico oferece várias contribuições. As observações melhoram nossa compreensão das maneiras pelas quais as tecnologias chegam e são adaptadas em diferentes contextos culturais, mas também nos ajudam a entender como os pesquisadores de IHC podem apoiar essa adaptação às realidades locais. Aqui, já posso apresentar um grande número de descobertas valiosas.
+
+A internet em Acara alavancou transações econômicas, interações sociais e engajamento na aprendizagem nas comunidades: vários membros estabeleceram novas práticas de negócios. Um jovem abriu uma loja de roupas religiosas. Ele usa a internet para encomendar estoque de outro estado e tira fotos de roupas específicas que gostaria de vender, envia para fornecedores para perguntar sobre disponibilidade e preço. Ele também envia fotos de novos produtos para clientes via WhatsApp para anunciar. Um grupo de mulheres vende cosméticos por meio de uma configuração semelhante. Elas tiram fotos da maquiagem (algumas usadas por elas mesmas), publicam em plataformas de mídia social e os clientes da região podem solicitar o produto ou o serviço por meio de mensagens diretas. Como os correios nacionais não operam na região, elas contam com uma rede de pessoas de confiança para entregar os pedidos. A logística organizada pelas mulheres fornece um exemplo de como a cultura local influencia o uso da TI: o comércio eletrônico geralmente depende da existência de infraestrutura específica, como um sistema postal em funcionamento. As realidades locais e a ausência dessa infraestrutura entram em conflito com os requisitos do comércio eletrônico: as casas em Acara não têm endereços específicos, não há caixas de correio e, em geral, os correios não entregam correspondências na vila. Na ausência dessa infraestrutura, as mulheres desenvolveram seu próprio mecanismo de entrega, que se baseia na confiança existente entre os habitantes da região.
+
+O acesso à internet também apoia a organização política da comunidade. A associação frequentemente lida com instituições governamentais, bem como com a empresa de cosméticos que compra seus produtos naturais. Agora, eles usam a internet para verificar, confirmar ou desmascarar informações fornecidas por eles nessas discussões e, assim, melhorar sua posição e poder de influenciar as negociações a seu favor. Além disso, formou-se um grupo de ativistas, que se autodenominam O Grupo da Polêmica, onde informações e opiniões são compartilhadas entre si por meio de mensagens instantâneas e, uma vez por semana, se encontram pessoalmente.
+
+Além dos benefícios observados, a internet é vista como a ponte para preencher a lacuna entre a educação e uma vida melhor. Uma mulher recém-formada em pedagogia diz: “a internet é essencial para meus estudos e trabalho. Nunca paramos de estudar na minha área. É tão essencial que estamos pagando um preço muito alto para tê-la”.
+
+Meu trabalho também fornece insights sobre como podemos estruturar a adaptação de tecnologias por atores locais, para fortalecer as comunidades locais e aumentar a resiliência. Atualmente, estamos nos concentrando em melhorar conjuntamente a infraestrutura de internet de Acara e estamos aprendendo como mantê-la. Em etapas futuras, revisaremos o uso da internet e desenvolveremos práticas que apoiem os desejos expressos anteriormente de maior independência, fortalecimento da cultura local e a capacidade de valorizar a vida dentro da comunidade, sem buscar educação e trabalho em outro lugar. Esse esforço, no entanto, não é simples, e minha pesquisa também lança luz sobre as complexidades e complicações decorrentes desse trabalho: todas as partes interessadas, incluindo a comunidade, o parceiro acadêmico local e eu, trazemos nossos próprios objetivos, posições políticas e habilidades, restrições e lógicas em que operamos para o projeto. Os parceiros acadêmicos, por exemplo, são percebidos como geralmente mais conhecedores, mesmo que sua experiência não se estenda às práticas de uma comunidade local. Essas percepções criam hierarquias e dinâmicas de poder que influenciam (e provavelmente inibem) a participação mútua. Da mesma forma, após 15 anos de experiência em desenvolvimento de software, trago minhas próprias visões políticas sobre as vantagens e desvantagens da tecnologia, que podem nem sempre se alinhar com os objetivos da comunidade. Em meu trabalho, presto atenção à configuração dos parceiros e como os relacionamentos entre eles - não apenas seus conjuntos específicos de conhecimento ou recursos materiais - influenciam o sucesso ou o fracasso de um projeto.
+
+29,6s
+remova os caracteres especiais desse texto
+
+METODOLOGIA
+
+Meu trabalho se baseia tanto na Pesquisa-Acao quanto no Design Participativo. Adotei uma abordagem de Pesquisa-Acao para compreender as praticas de uso da internet em Acara, juntamente com os membros da comunidade. Minhas percepcoes sao baseadas em atividades qualitativas como observacoes, conversas, entrevistas e interacoes formais e informais. A pesquisa que fazemos juntos e do interesse da comunidade: elaboramos nossas perguntas de pesquisa em conjunto para obter uma compreensao mais profunda das condicoes em que a comunidade vive, incluindo o acesso a internet, e as maneiras de alcancar os objetivos propostos pelos habitantes. Os membros da comunidade sao co-pesquisadores, e nao participantes, nesse processo. Tambem utilizo metodologias da Teoria Fundamentada, ja que meu relacionamento com a comunidade se estende por varios anos, inclui longas estadias e interacoes frequentes e informais. Embora eu seja de fora de Acara, ao longo dos anos estabelecemos amizades e estamos familiarizados uns com os outros. Coleto e analiso dados simultaneamente, e investigacoes posteriores sao guiadas por temas que emergem das minhas experiencias.
+
+O segundo pilar metodologico do meu trabalho e o Design Participativo (DP), conforme articulado por Bjrgvinsson et al. e outros. A postura politica do DP de empoderar grupos sociais, como trabalhadores ou jovens urbanos marginalizados e adequada a situacao em questao, onde uma comunidade rural nao e atendida pelas partes interessadas que fornecem a maior parte do pais (por exemplo, empresas de telecomunicacoes) e tomam medidas por conta propria, em seus proprios termos, de maneiras que se adequam aos seus desejos e sensibilidades culturais especificos.
+
+Na colaboracao entre mim e a comunidade de Acara, nao buscamos apenas obter uma compreensao profunda da interacao entre a tecnologia da internet e a cultura local, mas tambem formular conjuntamente visoes e desejos para futuros possiveis, desenvolver a infraestrutura tecnica, como uma rede de torres, antenas e roteadores, e criar praticas especificas que ajudem a alcancar os objetivos. Nosso trabalho conjunto de design assume muitas formas, desde reunioes estruturadas de design ate encontros mais informais, e tambem incorpora workshops onde adquirimos o conhecimento necessario para instalar e manter os componentes da infraestrutura.
+
+Concretamente, coleto dados por meio de observacoes registradas em notas de campo, entrevistas que gravo diretamente ou anoto posteriormente, dependendo do que a situacao permite, e atividades conjuntas, como workshops, que fornecem uma variedade de resultados, desde minhas proprias notas de campo ate feedbacks, prototipos e mapas. Os dados sao analisados em conjunto com meu orientador e outros colegas para identificar os temas principais.
+
+CONTRIBUICOES ESPERADAS DO TRABALHO
+
+Meu trabalho academico oferece varias contribuicoes. As observacoes melhoram nossa compreensao das maneiras pelas quais as tecnologias chegam e sao adaptadas em diferentes contextos culturais, mas tambem nos ajudam a entender como os pesquisadores de IHC podem apoiar essa adaptacao as realidades locais. Aqui, ja posso apresentar um grande numero de descobertas valiosas.
+
+A internet em Acara alavancou transacoes economicas, interacoes sociais e engajamento na aprendizagem nas comunidades: varios membros estabeleceram novas praticas de negocios. Um jovem abriu uma loja de roupas religiosas. Ele usa a internet para encomendar estoque de outro estado e tira fotos de roupas especificas que gostaria de vender, envia para fornecedores para perguntar sobre disponibilidade e preco. Ele tambem envia fotos de novos produtos para clientes via WhatsApp para anunciar. Um grupo de mulheres vende cosmeticos por meio de uma configuracao semelhante. Elas tiram fotos da maquiagem (algumas usadas por elas mesmas), publicam em plataformas de midia social e os clientes da regiao podem solicitar o produto ou o servico por meio de mensagens diretas. Como os correios nacionais nao operam na regiao, elas contam com uma rede de pessoas de confianca para entregar os pedidos. A logistica organizada pelas mulheres fornece um exemplo de como a cultura local influencia o uso da TI: o comercio eletronico geralmente depende da existencia de infraestrutura especifica, como um sistema postal em funcionamento. As realidades locais e a ausencia dessa infraestrutura entram em conflito com os requisitos do comercio eletronico: as casas em Acara nao tem enderecos especificos, nao ha caixas de correio e, em geral, os correios nao entregam correspondencias na vila. Na ausencia dessa infraestrutura, as mulheres desenvolveram seu proprio mecanismo de entrega, que se baseia na confianca existente entre os habitantes da regiao.
+
+O acesso a internet tambem apoia a organizacao politica da comunidade. A associacao frequentemente lida com instituicoes governamentais, bem como com a empresa de cosmeticos que compra seus produtos naturais. Agora, eles usam a internet para verificar, confirmar ou desmascarar informacoes fornecidas por eles nessas discussoes e, assim, melhorar sua posicao e poder de influenciar as negociacoes a seu favor. Alem disso, formou-se um grupo de ativistas, que se autodenominam O Grupo da Polemica, onde informacoes e opinioes sao compartilhadas entre si por meio de mensagens instantaneas e, uma vez por semana, se encontram pessoalmente.
+
+Alem dos beneficios observados, a internet e vista como a ponte para preencher a lacuna entre a educacao e uma vida melhor. Uma mulher recem-formada em pedagogia diz: a internet e essencial para meus estudos e trabalho. Nunca paramos de estudar na minha area. E tao essencial que estamos pagando um preco muito alto para te-la.
+
+Meu trabalho tambem fornece insights sobre como podemos estruturar a adaptacao de tecnologias por atores locais, para fortalecer as comunidades locais e aumentar a resiliencia. Atualmente, estamos nos concentrando em melhorar conjuntamente a infraestrutura de internet de Acara e estamos aprendendo como mante-la. Em etapas futuras, revisaremos o uso da internet e desenvolveremos praticas que apoiem os desejos expressos anteriormente de maior independencia, fortalecimento da cultura local e a capacidade de valorizar a vida dentro da comunidade, sem buscar educacao e trabalho em outro lugar. Esse esforco, no entanto, nao e simples, e minha pesquisa tambem lanca luz sobre as complexidades e complicacoes decorrentes desse trabalho: todas as partes interessadas, incluindo a comunidade, o parceiro academico local e eu, trazemos nossos proprios objetivos, posicoes politicas e habilidades, restricoes e logicas em que operamos para o projeto. Os parceiros academicos, por exemplo, sao percebidos como geralmente mais conhecedores, mesmo que sua experiencia nao se estenda as praticas de uma comunidade local. Essas percepcoes criam hierarquias e dinamicas de poder que influenciam (e provavelmente inibem) a participacao mutua. Da mesma forma, apos 15 anos de experiencia em desenvolvimento de software, trago minhas proprias visoes politicas sobre as vantagens e desvantagens da tecnologia, que podem nem sempre se alinhar com os objetivos da comunidade. Em meu trabalho, presto atencao a configuracao dos parceiros e como os relacionamentos entre eles nao apenas seus conjuntos especificos de conhecimento ou recursos materiais influenciam o sucesso ou o fracasso de um projeto.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho destaca a importancia de compreender as dinamicas sociais e culturais locais ao implementar tecnologias em comunidades remotas. A parceria com a Associaçao de Agricultores Organicos de Boa Vista tem permitido identificar as necessidades e os desejos da comunidade, bem como os desafios e as oportunidades que surgem com o acesso a internet. Os resultados preliminares indicam que a internet tem o potencial de impulsionar o desenvolvimento economico, fortalecer a organizaçao politica e promover o engajamento social nas comunidades remotas. No entanto, e fundamental que o acesso a tecnologia seja acompanhado de iniciativas que promovam a autonomia, a valorizaçao da cultura local e a capacidade de adaptaçao as novas realidades, garantindo assim que a internet seja uma ferramenta para o desenvolvimento sustentavel e inclusivo.

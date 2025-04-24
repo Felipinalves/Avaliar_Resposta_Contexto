@@ -1,0 +1,196 @@
+**RESUMO**
+
+As mudanças na industria e nos modelos de negocios e de gestao
+voltados para a inovaçao tecnologica impulsiona e exige mudanças no meio
+academico. Neste trabalho, investigamos a pratica de projetos integrados en-
+tre um turma de Interaçao Humano-Computador e duas turmas de Engenharia
+de Software do Instituto de Computaçao da Universidade Federal Fluminense.
+Nosso objetivo e avaliar essa abordagem como uma forma de desenvolver as
+habilidades requeridas em disciplinas com enfases diferentes, mas com objeti-
+vos em comum, de forma integrada. Por meio deste estudo foi possivel propor a
+criaçao de um sistema que atua como repositorio de projetos e casos, apoiando
+o docente e suas turmas, assim como a coleta das percepçoes de discentes que
+participaram do estudo e de outros docentes destas disciplinas.
+
+**INTRODUCAO**
+
+Alguns estudos tem sido realizados propondo a integraçao de conceitos e disciplinas como
+forma de aproximar as disciplinas dos cursos de Ciencia da Computaçao (CC), Siste-
+mas de Informaçao (SI) e correlatos, mostrando uma relaçao predisposta das mesmas,
+facilitando a assimilaçao do aprendizado pela pessoa discente . A Univer-
+sidade Federal do Ceara, por exemplo, utiliza disciplinas de projetos integrados onde a
+pessoa, ao cursar uma disciplina, precisa inserir seus conhecimentos em uma disciplina
+onde o aprendizado e integrado no formato de um projeto . Santos e
+Barra  demonstram que a integraçao auxilia na aplicaçao de conhecimentos
+que contribuam com a formaçao de uma visao do todo no decorrer do percurso formativo
+do educando", fazendo com que habilidades sejam aprimoradas no discente e futuro pro-
+fissional do mercado de trabalho. Thiesen  ressalta a importancia que a
+interdisciplinaridade possui de buscar responder a necessidade de superaçao da visao
+fragmentada nos processos de produçao e socializaçao do conhecimento".
+
+Nesse sentido, o objetivo deste trabalho e analisar a inserçao da pratica de projeto
+integrado nas disciplinas de Interaçao Humano-Computador (IHC) e Engenharia de Soft-
+ware (ES) dos cursos de graduaçao do Instituto de Computaçao da Universidade Federal
+Fluminense (UFF). O estudo de caso foi realizado com tres turmas (1 de IHC, 1 de ESI e
+1 de ESII), em um semestre, com a participaçao dos tres respectivos docentes. Neste tra-
+balho apresentamos a metodologia adotada e as percepçoes de discentes que participaram
+do processo e de outros docentes que tambem atuam nestas disciplinas.
+
+Este artigo esta organizado da seguinte maneira: a secao 2 apresenta o desenho do estudo; a secao 3 o contexto do estudo; a secao 4 as percepcoes de discentes envolvidos no estudo; a secao 5 apresenta a avaliacao de outros docentes destas disciplinas. Por fim, a secao 6 apresenta as conclusoes retiradas ao longo do processo e sugestoes para trabalhos futuros.
+
+
+**DESENHO DO ESTUDO**
+
+O estudo foi realizado em cinco etapas analise da situaçao atual com discentes e docen-
+tes aplicaçao da abordagem de projetos integrados em tres turmas avaliaçao dos resul-
+tados com discentes criaçao de um website para disponibilizaçao dos projetos avaliaçao
+dos resultados junto a docentes que nao participaram do processo. Todas as etapas sao
+descritas a seguir, mas apenas o contexto do estudo e as percepçoes dos discentes e do-
+centes serao detalhadas, devido as restriçoes de espaço.
+
+A etapa de analise da situaçao atual consistiu da realizaçao de estudos com do-
+centes e discentes das 3 turmas estudadas. Com os tres docentes realizamos entrevistas
+no inicio do semestre para entendermos os objetivos das disciplinas, como abordariam a
+ementa e quais estrategias de avaliaçao seriam utilizadas. Tambem, nesta entrevista, foi
+investigada a viabilidade da integraçao de disciplinas, como eles pensavam alcança-la ou
+inseri-la no semestre estudado.
+
+O estudo com os discentes foi feito por meio de um questionario no inicio do
+semestre com perguntas sobre a grade, metodologia utilizada e feedback, caso ja tives-
+sem feito algumas das disciplinas abordadas, em outros periodos. Essa coleta teve como
+objetivo analisar as dificuldades e interesses nas materias de IHC e ES, identificar oportu-
+nidades de aproximaçao das duas areas, como forma de melhorar a assimilaçao e pratica
+dos conhecimentos adquiridos em ambas e avaliar as experiencias dos discentes ao longo
+do semestre, assim como suas dificuldades quanto ao curso.
+
+A aplicaçao da abordagem de projetos integrados foi realizada em 1 semestre. As
+tres disciplinas envolvidas possuem carga horaria de quatro horas semanais, totalizando
+60 horas no semestre, e sao oferecidas regulamente no nivel de graduaçao. Nesta aborda-
+gem, os discentes das duas turmas de ES, tiveram a opçao de usar como ponto de partida,
+os projetos de IHC elaborados em semestres anteriores na disciplina de IHC. Os projetos
+poderiam ter sido elaborados pelos proprios discentes ou por outros colegas.
+
+A avaliaçao da adoçao dos projetos integrados ocorreu no final do semestre que
+incluimos as atividades integradas. Foram realizadas entrevistas com sete discentes parti-
+cipantes das disciplinas para investigarmos as experiencias vivenciadas e se os objetivos
+relatados pelos docentes na etapa 1 foram alcançados ao longo do semestre. A entrevista
+foi realizada com 2 discentes que fizeram a disciplina de ES no semestre investigado e ja
+haviam feito a disciplina de IHC 1 discente que fez IHC no periodo investigado e ja tinha
+feito as disciplinas de ES e 4 discentes que cursaram a disciplina de ES II no semestre
+investigado, sendo que 1 discente fez a disciplina de IHC simultaneamente. Entre os alu-
+nos de ES II, um grupo utilizou o Projeto de IHC para a introduçao de seus trabalhos da
+disciplina e o outro nao. Foram consideradas perguntas sobre a primeira impressao dos
+discentes sobre a disciplina, dificuldades encontradas e a relevancia que elas trouxeram
+para as pessoas participantes como profissionais e estudantes. Os audios foram transcritos
+e analisados para identificaçao da percepçao dos discentes. Os resultados obtidos desta
+etapa sao descritos na subseçao 4.
+
+Com base na analise da literatura e dos dados coletados nas entrevistas, a etapa
+seguinte buscou propor uma soluçao para a integraçao de disciplinas, por meio dos pro-
+jetos apresentados pelas mesmas. Para isso, foi desenvolvido um sistema web para atuar
+como repositorio de conhecimento, possuindo os projetos e casos iniciados em uma disci-
+plina e que podem ser continuados em outras disciplinas. Esse sistema web e denominado
+Projetando Conhecimento [de Oliveira 2020].
+
+Finalmente, para validar os resultados do estudo, a ultima etapa realizou uma
+validaçao metodologica, conforme descrito por Duarte (2009). Dessa forma, foram re-
+alizadas entrevistas com outros tres docentes da universidade em questao, que lecionam
+as disciplinas de ES ou IHC e que nao fizeram parte do estudo de caso. As perguntas
+realizadas versavam sobre a opiniao dos entrevistados em relaçao a abordagem de ensino
+proposta no semestre estudado e tambem sobre a utilizaçao, pontos positivos e negativos,
+do sistema web proposto. A entrevista foi gravada e a transcriçao da mesma foi feita para
+categorizaçao das respostas obtidas. Os resultados obtidos desta etapa sao descritos na
+subseçao 5.
+
+**CONTEXTO DO ESTUDO**
+
+Esta seçao apresenta algumas caracteristicas das Disciplinas de IHC, ES e ESII na UFF,
+bem como das turmas que participaram deste estudo. Esses dados foram coletados na
+etapa de analise da situaçao atual (veja seçao 2).
+
+**INTERACAO HUMANO-COMPUTADOR**
+
+A disciplina de IHC e lecionada no sexto periodo no curso de SI e no setimo periodo no
+curso de CC da UFF. Tem como objetivo despertar nos alunos a importancia de projeto
+de tecnologias centradas nos seres humanos, e sao ensinados e praticados os principais
+metodos para o projeto e avaliaçao de IHC.
+
+A principal atividade pratica da disciplina e a elaboraçao de um Projeto de IHC
+dentro de um processo de design baseado em cenarios  com as etapas de
+levantamento das necessidades, sintese de uma soluçao e avaliaçao. Em todas as etapas
+os metodos e conceitos abordados nas aulas (tais como, personas, cenarios, modelagem
+de interaçao e prototipaçao e etc) sao aplicados.
+
+No periodo de aplicaçao desta pesquisa, no ano de 2019, a turma participante era
+composta de 42 discentes e o tema do Projeto Final contemplou o desenvolvimento de
+soluçoes para problemas da area da saude. Foram criados 8 grupos com 4 a 6 alunos
+cada. Para que as pessoas compreendessem o problema, foram realizadas duas sessoes
+com 7 representantes da area da saude. Cada um apresentou em 15 minutos o contexto,
+o problema e as principais necessidades e expectativas de soluçao. Os grupos escolhe-
+ram qual problema gostariam de resolver e iniciaram o projeto seguindo um cronograma
+com 8 etapas definidas pela docente da turma definiçoes iniciais, analise competitiva,
+entrevistas, modelagem de tarefas, modelagem da interaçao, prototipaçao, avaliaçao do
+prototipo e entrega de relatorio final. Durante o projeto, os grupos receberam feedback da
+docente a cada etapa e puderam fazer ajustes nas entregas durante todo o processo. Alem
+disso, eles fizeram apresentaçao em forma de pitch na data de entrega do relatorio final.
+
+**ENGENHARIA DE SOFTWARE**
+
+A disciplina de Engenharia de Software e lecionada no quarto periodo no curso de CC e
+no quinto periodo no curso de SI da UFF.
+
+A disciplina mostra os principais aspectos relacionados a analise e projetos de
+sistemas, incluindo o levantamento de requisitos, a analise, especificaçao e modelagem
+do sistema. Ainda na disciplina, sao fundamentados os estilos arquiteturais de sistema. O
+aluno e motivado a trabalhar todos esses topicos em exercicios praticos atraves de cenarios
+de uso e problemas o mais proximo possivel da realidade.
+
+Um sistema pode ser projetado utilizando diversas estruturas projeto estrutural,
+projeto de interaçao, projeto procedural, sempre com o foco no usuario-final. Assim, para
+a aplicaçao dos diagramas, e importante que sejam trabalhados diferentes pontos de vistas,
+diferentes abordagens em relaçao aquele assunto, favorecendo a praxis da disciplina.
+
+Segundo a pessoa docente participante deste estudo, os projetos integradores sao
+uma excelente maneira de aproveitar trabalhos executados nas disciplinas, melhorando o
+aprendizado das habilidades necessarias para o mercado profissional.
+
+A disciplina e localizada na grade curricular juntamente com outras disciplinas
+que poderiam atuar de forma complementar, como e o caso de IHC. Contudo, na pratica,
+a articulaçao de componentes curriculares entre os docentes ainda acontece de maneira
+muito informal. Por exemplo, em uma conversa ocasional entre professores, pode ser
+identificadas oportunidades de complementaçao. As consequencias disso podem ser no-
+tadas como um grande desperdicio de otimos trabalhos apresentados nas disciplinas e que
+poderiam ser devidamente incentivados a serem continuados de forma mais estrutural ao
+longo da formaçao curricular.
+
+**ENGENHARIA DE SOFTWARE II**
+
+A disciplina de ESII e oferecida no sexto periodo do curso de CC da UFF. Tem como
+foco o ensino de processo de desenvolvimento de software (tradicional e ageis), geren-
+ciamento de projetos, gerenciamento de configuraçao, qualidade e teste de software. O
+objetivo principal e desenvolver nos alunos uma habilidade para planejar todas as etapas
+do projeto, monitorando cada etapa e desenvolve-lo medindo a qualidade do processo e
+do produto.
+
+A dinamica das aulas inclui a disponibilizaçao dos materiais antecipadamente para
+que os discentes sejam estimulados ao estudo previo do conteudo da aula. Para motivar
+esse estudo previo, no inicio de cada aula e aplicado um questionario com questoes objetivas sobre esse conteudo cuja nota vale bonus nas provas. As respostas ao questionario guiam a pessoa docente a reforcar, durante as aulas, os conceitos que os alunos tiveram
+mais dificuldade em responder.
+
+No periodo de aplicacao deste estudo, a turma era composta de 60 alunos e uma das avaliacoes consistiu de um trabalho pratico em grupo de ate 6 alunos, totalizando 11 grupos. Para o trabalho pratico, foi disponibilizado um catalogo contendo o resumo de sete softwares reais e o respectivo contato de uma pessoa, representando o “cliente”, que poderia ser contatado em caso de duvidas dos alunos. Apenas dois desses softwares continham um Projeto de IHC incluso, mas foram escolhidos por sete grupos. Os grupos deveriam realizar duas entregas desse trabalho. Na primeira, eles tiveram que explicar o processo de desenvolvimento adotado, o escopo do projeto e do produto, as estimativas de esforco e custo, o orcamento, o cronograma de desenvolvimento e a analise de riscos para o software escolhido. Na segunda entrega, eles tiveram que reportar como foi utilizado o controle de versoes e de modificacoes do projeto, como foram realizados os testes do software desenvolvido, alem de relatorios de monitoramento e controle do projeto. Para a pessoa docente, ESII complementa ES e pode ser integrada com disciplinas que tratam de desenvolvimento de software, como Desenvolvimento Web, Programacao Orientada a Objetos, alem de Banco de Dados. Alem disso, ela cita que um projeto integrador favorece um melhor entendimento por parte dos alunos de como as disciplinas estao relacionadas entre si.
+4. Percepcao da abordagem pelos discentes
+As pessoas discentes de IHC entrevistadas perceberam que a disciplina as ajudou a compreender a importancia da pessoa usuaria. Alguns fatores foram importantes de serem estudados, como as heuristicas de IHC, prototipacao, as ferramentas utilizadas no mercado e o aprendizado aprofundado de personas. Entretanto, disseram que o mercado de trabalho nao e enfatizado. Com isso, os discentes relataram sobre a importancia de terem uma disciplina focada em IHC para o mercado de trabalho como forma de aproximar os alunos do que e esperado no mundo profissional. As pessoas discentes de ES entrevistadas comentaram sobre a utilizacao do mesmo projeto desenvolvido na disciplina, anteriormente realizada, de IHC, como insumo de seus projetos. O uso do projeto foi destacado como ponto positivo, pois ja tinham feito entrevista com as pessoas usuarias, prototipacao, entre outros pontos que os tornaram antecipados quanto ao foco da propria disciplina. Enquanto outras pessoas discentes precisavam dedicar-se a isso levando mais tempo para suas conclusoes.
+Em relacao a ES II, os alunos que selecionaram softwares sem Projeto de IHC se sentiram prejudicados pela escolha, pois cada membro do grupo tinha uma ideia diferente de como realizar o projeto, o que consistiu na necessidade de realizar um prototipo para alinhar as ideias, perdendo muito mais tempo. Com isso, eles entenderam que IHC da um entendimento melhor do porque as coisas sao como sao. Ja o grupo que selecionou o desenvolvimento de software que ja possuia o Projeto de IHC disse que este ajudou a entender melhor a proposta do aplicativo e compreender os perfis das pessoas usuarias. Todavia, optaram por fazer um aplicativo mais simples que poderia ser entregue ao final do semestre, entao nem todos os requisitos e funcionalidades que foram levantados e prototipados no projeto de IHC foram feitos. A interface tambem nao agradou, mas itens como o logotipo e a paleta de cores foram reutilizadas. Outra dificuldade encontrada foi nao ter acesso ao publico-alvo, para saber como atender as necessidades do projeto e centrar, fazendo com que algumas medidas fossem mais genericas. Alem disso, o cliente mudou de ideia quanto ao que ja tinha sido feito no Projeto de IHC e isso tornou-se uma complicacao adicional.
+5. Percepcao da Abordagem por Outros Docentes
+Sobre a abordagem de integracao, o docente P1 acha que ES, por ser uma area que viabiliza o projeto de sistemas, pode integrar-se com facilidade com disciplinas de Bancos de Dados e Inteligencia Artificial. Entretanto, a pessoa docente afirma: ”a integracao tras um grau a mais de dificuldade que os professores tem que estar alinhados de alguma forma, se for uma integracao concomitante no tempo. Se e uma integracao onde um realiza o trabalho e o outro da continuidade e muito mais facil.”
+Ja o docente P2 relata que em atividades complementares e de extensao e possivel colocar em pratica diversos conhecimentos de forma integrada e, por isso, pode ser um caminho possivel. Ele tambem coloca que a integracao nao envolve apenas conhecimento, mas tambem pessoas.
+A pessoa docente P3 relata que IHC identifica as coisas para as outras areas, eventualmente resolvendo tambem. Isso facilita a integracao de IHC com qualquer outra disciplina. A ideia de integracao da professora P3 e que o ensino fosse todo orientado a projetos mas, segundo ela, a organizacao que existe hoje da interdependencia dificulta com que isso ocorra, assim como, as turmas nao serem as mesmas em todas as disciplinas. Ela entende que o Trabalho de Conclusao de Curso (TCC) poderia ser um piloto onde e lancado um problema e dentro do problema poderiam envolver solucoes de varias areas. Com isso, o discente teria intervencao dos docentes das diversas areas envolvidas no problema dado para realizar seu trabalho. De forma abrangente, os discentes nao se inscreveriam mais em disciplinas, mas em projetos. Nestes projetos desenvolveriam as habilidades necessarias para a conclusao.
+Em relacao a citacao sobre a utilizacao de Projetos de IHC nas disciplinas de ESII, que trouxeram uma melhora nos trabalhos, assim como a reducao de discussoes sobre o design dos sistemas a serem desenvolvidos, o professor P1 diz que: “aqueles grupos que tem um pouco de divergencia, que tem discussao, pra mim e muito bom que isso aconteca porque o que eu quero e que o aluno sinta, num ambiente controlado, o que ele vai sentir possivelmente na vida profissional dele. Entao vai ter muito projeto que ele vai iniciar e nao vai ter prototipo disponivel de IHC.”Com isso ele traz a duvida sobre o quanto a integracao favorece ou pode dificultar a formacao de um discente.
+Apos avaliarmos com os docentes o processo estudado no semestre, foi apresentada a proposta de criacao do website com os projetos realizados nas disciplinas. Os entrevistados mostraram interesse na ideia, conforme apontado por P1: “essa ideia e muito boa de se ter este catalogo de projetos, quem tocou e de repente uma nocao de ate que estagio foi para numa proxima disciplina poder dar continuidade.”
+Uma preocupacao relatada pela professora P3 sobre o repositorio de projetos e em relacao ao “aluno chegue no final e se forme so com um projeto” fazendo com que ele possua”uma visao muito fraca no desenvolvimento de projetos e solucoes porque de certa maneira a solucao ja esta ali, ele so vai adaptando para a necessidade da outra disciplina”. Alem disso, a preocupacao sobre como engajar professores e alunos a utilizarem o sistema possibilitando “a producao de conteudo e a alimentacao de conteudo para que o negocio fique sempre atualizado e nao morra”.
+Como conclusao, os comentarios foram que “eu achei interessante essa ideia porque uma abordagem seria voce tentar impor, essa disciplina faz tal coisa, essa disciplina faz tal outra coisa, muito dificil. Voce teve uma saida muito legal, uma sacacao boa de materializar num site a integracao”. “Alem de disciplinas poderem consumir tambem tem uma ideia legal da gente poder servir para fora da universidade, servico no sentido de um outro professor, de um outro curso que tem uma determinada demanda ele poder cadastrar nesse seu site e em algum momento alguem catar essa sua demanda e executar”. A ideia do site ser institucionalizado tambem e dada como forma do trabalho nao se perder apos a defesa, mas sim, ser disponibilizado e usado pela comunidade. Sugestoes futuras sao de “fazer uma mineracao para descobrir quais disciplinas de fato conseguiram ser integradas atraves de projetos que estao na tua plataforma, fazendo o caminho inverso”. O professor P2 diz que “esse site e um repositorio de conhecimento e projetos que os alunos tanto podem se beneficiar se inspirando nos projetos que estao ali, reutilizando projetos ou pegando ideia para novos projetos”. A ideia dada e que o sistema tenha um repositorio de casos, que possuam casos de sucesso, fracasso, para que ele possa utilizar nas suas disciplinas pois “o meu caso nao e construir mas sim analisar para da´ı propor melhorias a partir da analise, pontos positivos e negativos, licoes aprendidas”. Alem disso, ele demonstra que para ele a computacao nao e apenas construir algo mas analisar e sera que “seria possivel pegar esses casos que voce descreveu e fazer uma reflexao a partir disso dos limites dessa tecnologia? Implicacoes nao esperadas, casos de sucesso e fracasso”. Com isso tambem, “nao so pensar o site como tecnologia mas e entender o que faria os estudantes e as pessoas a se engajar nesse site”. Como o professor P1, ele visa fazer deste site desenvolvido uma propriedade de uso que pensa nao “so no individuo mas na coletividade, o quanto este site seria util nao so para a universidade mas para outras instituicoes. Agregar pessoas para ter uma rotina de uso”.
+
+Conclusao
+Com a realizacao deste estudo concluimos que a integracao das 3 turmas trouxe beneficios para os discentes e docentes envolvidos e que o website Projetando Conhecimento foi bem avaliado por docentes do Instituto. Entretanto, observamos nas sessoes de avaliacao, que novos estudos precisam ser feitos para: identificacao de formas de aumentar o engajamento dos alunos; inclusao de praticas de IHC que aproximem os alunos ao que e usado na industria; aplicacao e avaliacao pratica do uso do website proposto.
+Alem disso, os resultados mostram que pensar em integracao levando em conta outras areas de conhecimento traria novas possibilidades de criacao de solucoes. Por exemplo, alunos de SI enxergam a integracao nas disciplinas de Gerencia de Projetos e Manutencao de Software e Projeto de Aplicacoes Corporativas, pois “ambas desenvolvem um projeto como avaliacao final da disciplina, enquanto uma foca nas tecnologias e negligencia o projeto, a outra estabelece o projeto sem um escopo tecnologico bem definido”. Assim como foi percebida essa interligacao, que pode ser utilizada de forma positiva na difusao de conhecimento, podem haver outras areas a serem discutidas. As limitacoes deste trabalho envolvem o estudo ter sido realizado em apenas um semestre e o envolvimento de apenas as tres disciplinas. Segundo um dos docentes entrevistados, ha necessidade da analise da ementa de outras disciplinas (por exemplo gerenciais) e sua disposicao na grade curricular, pois sao vistas apenas no primeiro e ultimo semestre.
+Como trabalhos futuros, propomos, alem da realizacao do mesmo estudo em outras turmas, a analise da grade curricular para viabilizacao da criacao de ramificacoes da grade, que levam os alunos para uma especializacao em alguma area do conhecimento da Computacao.

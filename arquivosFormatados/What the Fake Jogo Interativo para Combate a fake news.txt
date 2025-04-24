@@ -1,0 +1,119 @@
+**INTRODUCAO**
+
+Este projeto utiliza a ideia de gamificaçao para aumentar o engajamento das pessoas com
+dados e informaçoes, de uma forma leve e descontraida, apresentando as fake news como
+um desafio e nao apenas com uma informaçao avulsa. Esta abordagem permite que o
+individuo se sinta recompensado por saber sobre a veracidade de um fato ou surpreendido
+pela falsa informaçao. Com o uso de ferramentas como jogos web e QRcode, espera-se
+que mais pessoas possam ter acesso a esse recurso por meio de seus smartphones. Como
+resultado principal, as pessoas poderao obter conhecimento sobre os impactos das fake
+news em suas vidas e na sociedade e, em paralelo, serao recompensadas por tokens ou
+pontuaçoes que podem ser convertidas em descontos fornecidos por empresas parceiras e
+patrocinadoras.
+
+**METODOLOGIA/PROCESSO**
+
+Antes de apresentarmos o processo de modelagem da ideia e a metodologia empregada
+esclareceremos alguns pontos referentes ao publico alvo e o objetivo. Primeiramente, de-
+finimos que o publico alvo seria qualquer pessoa, independente de faixa etaria ou genero.
+Porem, isso nos levou a considerar o segundo fator, que seria como atingir todos esse
+publico, de maneira a conciliar a diferença existente entre os perfis. Por exemplo, compre-
+endemos que ha uma maior proatividade de crianças com atividades descontraidas e uma
+seriedade de pessoas mais velhas. Nesse momento, entramos em outro conflito: a neces-
+sidade de educar os mais jovens sobre a seriedade do problema e, ao mesmo tempo, tentar
+corrigir esse fato em pessoas que ja estao convivendo com ele frequentemente, como as
+pessoas que utilizam mais redes sociais, principalmente o Whatsapp .
+
+Nesse momento, a pesquisa se voltou para os metodos de aprendizado e
+conscientizaçao, por tanto, da melhor maneira a funcionar para ambos os grupos men-
+cionados. A partir de estudos do fenomeno de gamificaçao, que deriva diretamente da
+popularizaçao dos games e da sua capacidade intrinseca de motivar a açao, resolver pro-
+blemas e potencializar a aprendizagem nas mais diversas areas , decidimos
+que este seria o melhor metodo para empregar e atingir os nossos objetivos.
+
+Foi pensado diversos modelos, porem, todos esbarravam em requisitos bem defi-
+nidos como a facilidade de desenvolvimento, viabilidade e o principal, o elemento que
+manteria o usuario interessado em utilizar de uma ferramenta educacional. Entao, base-
+ado no projeto Lucky World, desenvolvido pelos alunos da empresa junior de sistemas
+de informaçao da Universidade Federal dos Vales do Jequitinhonha e Mucuri desenvol-
+vido em 2017, que tivemos uma grande contribuiçao na elaboraçao da nossa ideia. Neste
+projeto, os QR codes eram utilizados para identificar lojas com o aplicativo, tanto na
+eventualidade de uma compra que geraria pontos no jogo quanto para registrar a presença
+do usuario em locais especificos (geralmente estabelecimentos), o que tambem gerava
+pontos. No nosso projeto, os QR codes seriam um intermedio de comunicaçao, entre ele-
+mentos do mundo real com o sistema, tanto para acessar perguntas do jogo sobre locais e
+produtos especificos, quanto para fazer transaçoes, explicadas mais a frente.
+
+O jogo em si vai ser tratado mais a frente, mas em resumo temos dois pontos a ci-
+tar ainda, o funcionamento e o modelo de recompensa aplicado. Essas duas caracteristicas
+foram pensadas levando em consideraçao o metodo de gamificaçao, que tem como pon-
+tos a utilizaçao de elementos tradicionalmente encontrados nos games , isso
+inclui um sistema de recompensa e interaçao do usuario e no caso do nosso projeto, ainda
+e mais importante, o aprendizado.
+
+**JUSTIFICATIVA**
+
+Como citado anteriormente, buscamos por meio desse sistema fazer a conciliaçao dos
+usuarios de uma maneira leve, facil, atendendo o maior numero de pessoas possivel e
+de maneira indireta gerando recompensas como meio de incentivo. Desta maneira, ao
+desenvolver um site de facil acesso que pode ser acessado de maneira simples por meio
+de leitura de QRcode e associado ao seu usuario, burlando a necessidade de baixar apli-
+cativos e sem exigir associaçao com localizaçao atraves de um aparelho movel. Outro
+detalhe importante e como esse formato de jogo se assemelha a outros tipos de jogos de
+adivinhaçao que na maioria das vezes sequer dao recompensas, o que tambem e inse-
+rido no nosso modelo como mais uma maneira de incentivar seus jogadores, auxiliando
+indiretamente no objetivo da conscientizaçao atraves do uso do site.
+
+**SOLUÇAO PROPOSTA E CENARIO DE USO**
+
+Decidimos que seria um jogo web e todo o sistema em si recebeu o nome de What the
+fake, que faz alusao a uma giria americana que se refere a algo que causou espanto na
+pessoa. A ideia do jogo e simples, ele utiliza do sistema de diversos games browsers atuais
+que utilizam da gamificaçao para o ensino, isso se expandiu e ja esta presente em outras
+areas como cultura, ciencia e lazer. Nesses Games e necessario que a pessoa descubra
+algo todo dia como palavras, filmes, um pais pela imagem, entre outros. No nosso caso,
+todo dia tera uma noticia nova, o usuario deve adivinhar se e verdadeira ou fake. Apos
+responder, o usuario e devidamente esclarecido com um resumo sobre o tema e um link
+externo para saber mais, direcionado para uma pagina confiavel. A outra parte do projeto
+esta relacionada ao fato de fazer a leitura de QRcodes que serao colocados em pontos es-
+trategicos no qual ao ser lido, o usuario sera direcionado a uma pagina com uma pergunta
+que sera prioritariamente relacionada a este local, de modo a incentivar a pessoa a ter
+curiosidade sobre o local. Essas perguntas dos QRcodes serao atualizadas depois de um
+determinado tempo, e pelo fato de que nem sempre terao a mesma quantidade de pergun-
+tas sobre o mesmo ponto, abre a possibilidade de ter perguntas de um local relacionado a
+outro.
+
+Podemos citar como cenarios de uso publicos ou privados. No caso publico, es-
+tes QRcodes podem ser colocados em locais turisticos das cidades e assim possibilitando
+com que a pessoa entenda mais sobre a historia da mesma. No caso privado e levado
+em consideraçao a visita em parceiros no qual a pessoa tambem tera a oportunidade de
+conhecer mais sobre a historia do estabelecimento, alem de indiretamente fazer com que
+a mesma esteja consumindo produtos e serviços do mesmo. O que vale ressaltar princi-
+palmente e o fato do QRcode ser facil de ser acessado, e caso ainda nao tenha contato
+com o jogo, a pergunta pode acabar incentivando com que o mesmo se inscreva e comece
+a participar do projeto.
+
+**VIABILIDADE**
+
+Para conseguir colocar em pratica essa soluçao nao e necessario grande esforço. Levando
+em consideraçao alguns pontos como; recursos humanos, recursos financeiros e tempo de
+execuçao.
+
+Para o desenvolvimento seria necessario uma equipe de pelos 2 ou 3 pessoas, para elaborar o front-end, envolvendo a elaboracao das interfaces, o back-end para fazer a comunicacao entre as respostas do usuario e acessar informacoes como o perfil e por fim o banco de dados responsavel por gerenciar questoes do usuario como os cards que ele possui e a quantidade de tokens.
+
+A outra parte, que consiste em espalhar os QRcodes por pontos estrategicos, seria necessario tambem uma equipe ou algum metodo especifico para alcancar o maximo de lugares em periodo menor de tempo. Os gastos seriam somente com as impressoes dos codigos e com a locomocao do colaboradores ate o local final.
+
+AUTONOMIA FINANCEIRA
+
+A autonomia financeira e a sustentabilidade do aplicativo, sem a necessidade de investimentos e doacoes de terceiros sem fins lucrativos (ONGs), consideradas mais dificeis de alcancar. No nosso projeto esta autonomia se baseia no desenvolvimento de um mercado interno, considerando dois fatores:
+
+Negociacao de parcerias;
+Moeda de troca propria.
+
+Em relacao ao mercado de parcerias, acreditamos que este pode ser benefico para ambos os lados. No caso dos patrocinadores isso significa exclusividade para algumas linhas de mercados, pois esta se baseia em fatos unicos relacionados a esta empresa que estarao nos QRcodes de seus produtos e/ou estabelecimentos. Para o lado do cliente, ao responder a pergunta, o usuario sera recompensado de forma a conseguir descontos e servicos. Este interesse em conseguir os beneficios induz o jogador a procurar mais QRcodes, se envolvendo mais com os produtos e estabelecimentos patrocinadores e consequentemente utilizando cada vez mais o aplicativo que gera ainda mais a busca pela veracidade dos fatos, mesmo que inconscientemente.
+
+Para manter a sustentabilidade deste mercado de maneira mais facilitada e diminuindo o intermedio de terceiros como empresas bancarias, seria utilizado um token proprio do sistema criado a partir de alguma blockchain ja em funcionamento, como Hathor ou Ethereum. O uso de token facilita transacoes que podem ocorrer pelo proprio aplicativo atraves de leitores de QRcode em estabelecimentos, ou por codigos endereco, eliminando, por exemplo, o uso de cartoes e maquinas, diminuindo assim a burocracia e possibilitando um mercado secundario, quando ocorre a troca de moedas entre os usuarios.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho apresenta uma proposta inovadora para combater as fake news atraves de um jogo interativo que utiliza elementos de gamificaçao e QR codes. A soluçao busca engajar as pessoas de forma leve e descontraida, incentivando o aprendizado e a reflexao critica sobre a veracidade das informaçoes. A viabilidade do projeto e alta, o que o torna uma alternativa promissora para conscientizar a populaçao sobre os perigos da desinformaçao e promover o consumo responsavel de noticias.

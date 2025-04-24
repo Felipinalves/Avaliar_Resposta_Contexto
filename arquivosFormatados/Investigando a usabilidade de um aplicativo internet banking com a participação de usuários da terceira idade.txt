@@ -1,0 +1,137 @@
+**RESUMO**
+
+A popularidade dos smartphones motivou o
+desenvolvimento de aplicativos para facilitar o acesso a
+informaçao. Entre essas aplicaçoes podemos destacar os
+aplicativos de internet banking, que proporcionam
+praticidade e facilidade de acesso as transaçoes bancarias.
+No entanto, esses aplicativos nao sao percebidos da mesma
+maneira por todos os perfis de usuario. Os usuarios idosos
+tem mais dificuldades em utilizar sistemas interativos devido
+a fatores decorrentes da idade, como diminuiçao da
+percepçao de profundidade ou discriminaçao de cores. Este
+artigo apresenta uma pesquisa sobre usabilidade de um
+aplicativo internet banking quando utilizado por idosos.
+
+
+**INTRODUCAO**
+
+O uso dos smartphones pelo publico idoso tornou-se maior
+do que o uso de tecnologias tradicionais e as aplicaçoes
+utilizadas com maior frequencia sao as aplicaçoes voltadas
+para transaçoes bancarias, serviços de transporte individual
+e viagens . A inserçao deste publico no mundo virtual,
+permitiria ampliar o seu relacionamento com os demais
+publicos, promovendo sua inclusao no meio tecnologico e
+estimulando o seu bem-estar mental . Este artigo
+apresenta os resultados de um teste de usabilidade de um
+aplicativo internet banking quando utilizado por idosos. As
+carateristicas dos usuarios e os problemas de usabilidade
+identificados sao apresentados.
+
+**BACKGROUND E TRABALHOS RELACIONADOS**
+
+Papaleo Netto e Carvalho Filho  caracterizam o
+envelhecimento como a fase final do ciclo de vida que
+apresenta manifestaçoes fisicas, psicologicas, sociais e
+debilitantes, como a diminuiçao da capacidade funcional,
+trabalho e resistencia; aparecimento da solidao; e perda dos
+papeis sociais. Tais alteraçoes podem influenciar na
+capacidade de interaçao dos idosos com as novas
+tecnologias. Evelin et al.  abordam sobre os sentimentos
+existentes entre os usuarios da terceira idade e a utilizaçao de
+jogos. Por meio de um estudo feito com o jogo "Viajando
+pelo Mundo" com o publico idoso, os autores obtiveram uma
+visao sobre a satisfaçao dos usuarios quanto ao uso do jogo
+e tambem das dificuldades que os mesmos encontraram
+durante o seu uso. Casare et al.  avaliaram as
+recomendaçoes do WCAG 2.0 direcionadas para sites e
+realizaram uma avaliaçao com o publico idoso para
+identificar dificuldades que tais recomendaçoes nao atendem
+quanto ao acesso a paginas de Web realizada por tablet.
+
+**METODOLOGIA**
+
+As etapas adotadas nesta pesquisa consistiram em: (1)
+seleçao do aplicativo internet banking, (2) seleçao e
+caracterizaçao dos usuarios, (3) conduçao do teste de
+usabilidade, (4) analise dos resultados do teste. O aplicativo
+selecionado para o teste de usabilidade foi o Bradesco
+Banking. Os usuarios da pesquisa foram idosos que realizam
+atividades em um Centro de Convivencia Familiar na cidade
+de Manaus. Para caracterizar o perfil dos usuarios, foi
+conduzida uma entrevista com cada usuario, explorando seu
+perfil demografico e experiencia com tecnologia. Os
+usuarios confirmaram que estavam cientes da pesquisa que
+estavam participando e qual a finalidade por meio de um
+Termo de Conhecimento Livre e Esclarecido (TCLE). A
+execuçao do teste de usabilidade durou uma semana, sendo
+realizada por dois usuarios a cada dia. Para a realizaçao do
+teste de usabilidade, a coordenadora do Centro de
+Convivencia permitiu a utilizaçao do proprio local.
+
+A plataforma utilizada para o experimento foi um
+smartphone de marca Sony com sistema operacional
+Android. Os dados foram coletados por meio de observaçao
+da conclusao das tarefas no aplicativo e anotaçoes feitas pelo
+avaliador durante a execuçao das tarefas. O usuario recebeu
+do avaliador o smartphone contendo o aplicativo Bradesco,
+instalado e com uma conta especifica para a realizaçao das
+tarefas. Em seguida, o usuario executaria: (1) uma consulta
+ao saldo da conta; (2) uma consulta ao extrato da conta e (3)
+uma consulta ao limite do cartao de credito. Durante o teste
+de usabilidade, o avaliador fazia anotaçoes referentes a
+execuçao de cada tarefa e fornecia orientaçoes sobre as
+tarefas a serem realizadas com o aplicativo.
+
+**RESULTADOS DO TESTE DE USABILIDADE**
+
+Ao todo, participaram desta pesquisa 10 usuarios idosos. A
+Figura 1 ilustra a caracterizaçao dos usuarios que
+participaram do teste de usabilidade. Nota-se que 70% dos
+usuarios possuiam smartphone, enquanto 30% nao
+possuiam. Os aplicativos mais utilizados sao os aplicativos
+de redes sociais, como Facebook e Whatsapp, o que reforça
+a importancia da tecnologia para a socializaçao dos idosos.
+Nao foram observados indicativos de que os usuarios
+utilizam aplicativos internet banking, embora tais aplicativos
+possam trazer maior segurança aos idosos para a realizaçao
+de transaçoes bancarias.
+
+A Figura 2 ilustra a porcentagem das tarefas concluidas
+durante o teste. Observa-se que mesmo havendo uma
+porcentagem alta (indicada em azul), de tarefas realizadas
+com sucesso, ha o percentual daquelas que nao foram
+finalizadas (em laranja). Notou-se que os 10 usuarios nao
+identificaram o atalho disponibilizado no menu opçao do
+aplicativo para consultar o saldo.
+
+O avaliador notou que o motivo para os usuarios nao
+identificarem o atalho foi devido ao tamanho da letra e o
+significado da seta em vermelho. Os usuarios tiveram,
+tambem, dificuldades em identificar o icone do saldo pelo
+mesmo motivo. alem de nao identificarem que a imagem do
+icone do saldo e um documento. Outras duas dificuldades
+identificadas foram o nao entendimento da seta voltar que o
+aplicativo disponibiliza e o reconhecimento de mensagem de
+erro/alerta. A primeira foi observada durante a realizaçao da
+tarefa de consultar o saldo do Cartao de Credito. Os usuarios
+relataram que nao sabiam o que aconteceria caso
+pressionassem a seta de voltar do aplicativo.
+
+**CONSIDERACOES FINAIS**
+
+A partir desta pesquisa foi possivel identificar que uma
+simples escolha de imagens, tipo ou tamanho de fonte pode
+tornar aplicaçao mais adequada aos diversos publicos ou
+mais especifica a um determinado grupo de usuarios. Mesmo
+com experiencia previa com outros aplicativos, como
+aplicativos de redes sociais, alguns usuarios sentiram
+dificuldades em realizar transaçoes bancarias em aplicativos
+internet banking. Tais dificuldades podem ser solucionadas
+com decisoes de design sem grande impacto na interaçao do
+aplicativo.
+
+**CONSIDERAÇOES FINAIS**
+
+Em resumo, a pesquisa demonstrou que idosos podem enfrentar desafios de usabilidade ao utilizar aplicativos de internet banking. A atençao ao design, como tamanho de fonte, escolha de icones e clareza nas mensagens, e crucial para tornar esses aplicativos mais acessiveis e inclusivos para esse grupo de usuarios.

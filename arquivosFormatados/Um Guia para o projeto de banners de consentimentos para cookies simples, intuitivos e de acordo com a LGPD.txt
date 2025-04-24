@@ -1,0 +1,127 @@
+**RESUMO**
+
+Cookies sao uma das muitas maneiras de coletar dados pessoais na internet.
+Cookies devem obedecer aos principios da Lei Geral Brasileira de Proteçao de Dados.
+Muitas organizaçoes usam banners de consentimento para informar e coletar o
+consentimento dos usuarios para usar cookies. No entanto, alguns sites utilizam
+estrategias persuasivas em suas interfaces. Este artigo propoe um guia para
+projetar banners de consentimento com base em oito estrategias de comunicaçao que
+atendem aos principios da Lei Geral Brasileira de Proteçao de Dados.
+
+**INTRODUCAO**
+
+De maneira geral, as pessoas estao mais preocupadas com o uso dos seus dados
+pessoais. Cada açao realizada por uma pessoa usuaria no contexto da web
+se resume a um dado, esses dados sao coletados pelas empresas, essa coleta
+pode ser comunicada as pessoas usuarias por meio de cookies. Os cookies
+sao arquivos de texto enviados por um servidor web para o navegador da pessoa usuaria
+quando uma pagina e acessada por ela.
+
+Uma soluçao que tem sido amplamente utilizada sao os banners com um pedido
+de consentimento. Esses banners de consentimento, normalmente, apresentam um aviso
+em texto acerca da utilizaçao de cookies, contendo opçoes para que a pessoa usuaria ex-
+presse sua opiniao quanto a coleta de dados. Porem, argumentam
+que a forma como os banners de consentimento de cookies sao apresentados, em sua
+maioria, nao seguem os principios da LGPD: finalidade, adequaçao, necessidade, livre
+acesso, qualidade dos dados, transparencia, segurança, prevençao da nao discriminaçao e
+responsabilizaçao e prestaçao de contas.
+
+Em virtude desse cenario, propomos a criaçao de um guia para auxiliar designers
+da interaçao e desenvolvedores de websites para gerar uma referencia de praticas e de
+sugestoes para uma comunicaçao mais transparente e adequada aos principios da LGPD
+a respeito da coleta de dados pessoais por meio da interface dos sistemas interativos.
+
+**FUNDAMENTACAO DO GUIA PARA A CONSTRUCAO DE BANNERS DE CONSENTIMENTO**
+
+A construçao do guia esta fundamentada nos resultados de uma pesquisa que investigou a
+comunicabilidade dos pedidos de consentimento para coleta de dados pessoais nos portais
+de noticias Globo e CNN Brasil .
+
+A pesquisa identificou a adoçao de 8 Estrategias de Comunicaçao (EC) associadas
+a principios da LGPD nos dois portais de noticias. A Tabela 1 apresenta essa associaçao.
+Por exemplo: a EC1 se refere aos portais de noticias que usam banners para comunicar as
+pessoas usuarias sobre a coleta de cookies. Tal EC foi associada aos principios da LGPD
+de finalidade (i.e. “a realizaçao do tratamento deve ocorrer para propositos legitimos, es-
+pecificos, explicitos e informados ao(a) titular, sem possibilidade de tratamento posterior
+de forma incompativel com essas finalidades”); e da transparencia (i.e, “a garantia dada
+aos(as) titulares de que terao informaçoes claras, precisas e facilmente acessiveis sobre a
+realizaçao do tratamento e os respectivos agentes de tratamento, observados os segredos
+comercial e industrial") . Este trabalho quer, portanto, oferecer um guia que apresente
+as EC, com exemplos e explicaçoes, para apoiar projetistas no design de interaçao que
+contemple a LGPD.
+
+A proxima secao detalha o prototipo do guia para a inclusao de pedidos de consentimento para uso dos cookies. O objetivo e que o guia seja um meio de democratização e divulgacao do conhecimento sobre a LGPD e estrategias de design com boa comunicabilidade.
+
+
+**PROTOTIPAÇÃO DO GUIA**
+
+No guia, duas checklists sao apresentadas, a primeira indica as diretrizes para um banner
+de consentimento, e a segunda trata de uma extensao do primeira, indicando as obrigaçoes
+de um banner de preferencias. Vale ressaltar que o pedido de consentimento da pessoa
+usuaria para coleta de dados atraves de cookies pode ser realizado de outras formas alem
+de banners. Nessas checklists, as EC foram os pontos de partidas para
+cada item identificado. Abaixo temos a primeira checklist e sua correlacao com as ECs.
+
+EC1, EC3: banner de consentimento sem restringir a navegacao.
+
+EC2: No minimo tres botoes:
+2.1. Recusar todas as opcoes de cookies.
+2.2. Aceitar todas as opcoes de cookies.
+2.3. Gerenciar as preferencias de cookies.
+
+EC4: Informar a pessoa usuaria quais aspectos da LGPD a empresa se propoe a cumprir.
+
+EC5: Indicar qual a finalidade dessa coleta e quais dados sao coletados por meio de textos diretos e simples.
+
+EC6, EC7: Tenha um modal de preferencias de modo a dar escolha a pessoa usuaria sobre quais cookies restringir.
+
+EC8: Evitar apresentar politicas de privacidade com textos longos e com baixa interatividade da pessoa usuaria.
+
+EC2, EC6: Permitir a pessoa usuaria alterar suas escolhas iniciais.
+
+Um dos problemas identificados por [Santos et al. 2023], ressalta como o banner de gerenciamento das preferencias de cookies pode ser implementado de maneira a confundir e corromper a vontade da pessoa usuaria. Atraves de opcoes a serem escolhidas em checkboxes, cujo o nivel de granularidade e excessiva. Essa abordagem gera fadiga no leitor que busca entender do que se trata cada opcao de categoria de cookie abordado nas preferencias [Barbosa and Silva 2010]. Do ponto de vista dos designers, esses banners sao implementados com conteudos desnecessarios que ferem as Heuristicas de Nielsen [Nielsen 1994] e geram trabalhos extras para os desenvolvedores que devem acrescentar camadas e botoes em excesso. Por causa da ma usabilidade dos banners, ha a segunda checklist.
+
+EC6: Modal de preferencias surge ao clicar no botao de gerenciar as opcoes de cookies no banner de consentimento.
+
+EC5: No minimo dois botoes:
+2.1. Recusar todas as opcoes de cookies.
+2.2. Confirmar minhas escolhas.
+
+EC5: Apresentar as categorias de cookies como uma lista expansiva, na qual ao clicar no nome da categoria ela se expande e apresenta uma descricao detalhada, sem omitir informacoes, porem simples.
+
+EC7: Evitar colocar cookies como obrigatorios, portanto cada item da lista deve ter um checkbox para ser selecionado.
+
+O item 1 da segunda checklist existe para que a pessoa usuaria gerencie suas preferencias, isso se relaciona com a EC6. No item 2, o botao, "todas as opcoes de cookies", existe para poupar a pessoa usuaria que preferir limpar suas selecoes se relacionando com a EC5. Com o item 3, existem as categorias, que devem englobar em alto nivel os cookies para nao gerar uma granularidade excessiva, como abordado anteriormente, tambem tem relacao direta com a EC5. No item 4, temos a garantia de cada categoria ser opcional, garantindo o gerneciamento de parte dos cookies utilizados, tem relacao com a EC7. Portanto, essa segunda checklist busca atender as ECs segundo a tabela 1.
+
+O prototipo esta sendo desenvolvido por meio da ferramenta Figma4 e disponivel para acesso no link: https://shorturl.at/frqfa. O prototipo do site tem seu conteudo dividido em 5 partes, organizadas da seguinte forma:
+
+Cookies: o que sao?
+
+LGPD: o que e a LGPD?
+
+Modelo: uma proposta de banner de consentimento.
+
+Preferencias: uma solucao para criacao de um modal de preferencias.
+
+Extra: Pegue um exemplo!
+
+As partes (1) e (2) apresentam, respectivamente, uma descricao dos cookies e a da LGPD. A parte de Modelo (3) apresenta um modelo de banner de pedido de consentimento da pessoa usuaria, em conjunto com a primeira checklist apresentada. Na parte seguinte (4), apresentamos a segunda checklist com um modelo de gerenciamento de preferencias para aceitacao de cookies. A ultima parte (5) consiste em ofertar o prototipo dos modelos apresentados em um projeto do Figma. Alem disso, deve apresentar estes mesmos modelos em suas versoes de codigo, permitindo que desenvolvedores utilizem diretamente em seus projetos. Com isso, objetivamos divulgar conceitos fundamentais para o desenvolvimento e tambem os modelos de banner de consentimento e banner de gerenciamento de preferencias de cookies.
+
+Este artigo compartilha a etapa de prototipacao da proposta. Apos essa etapa, as devidas avaliacoes serao feitas [Lowgren and Stolterman 2007], e por fim, o website sera desenvolvido. Em trabalhos futuros pretendemos avaliar o Guia e os modelos de banners propostos por meio de estudos com projetistas e pessoas usuarias finais. O primeiro estudo tera como publico alvo desenvolvedores web e designers. Sera identificado o conhecimento previo sobre a LGDP e cookies, alem disso, avaliar a utilidade e o impacto do Guia. Para conduzir o segundo estudo, serao apresentados exemplos de websites usando os modelos de banners de coleta de consentimento, conforme proposto em nosso Guia. De forma sincrona e sem mediador, os participantes serao convidados a interagir com esses exemplos, com objetivo de coletar o feedback das pessoas usuarias participantes. A finalidade e avaliar a percepcao das pessoas usuarias finais quanto as solicitacoes de consentimento.
+
+Por fim, com os dois estudos concluidos, a proxima fase e a revisao dos conceitos apresentados, pois com as avaliacoes algumas alteracoes devem ser realizadas, no prototipo do Guia e em seus modelos, para melhor atendimento do publico alvo e das pessoas usuarias. Com a versao final concluida, o site seria de fato desenvolvido e publicado na internet, para que todos possam usufruir do trabalho desenvolvido.
+
+**CONSIDERAÇOES FINAIS**
+
+Esse trabalho apresenta o prototipo de um guia para apoiar projetistas de sistemas inte-
+rativos, sem conhecimento tecnico da LGPD, a incorporar banners de pedido de consen-
+timentos para utilizaçao de cookies. O Guia apresentara os modelos desenvolvidos com
+base nas EC apresentadas e os principios da LGPD . A expectativa e que
+o Guia seja uma referencia relevante e util para profissionais das areas de IHC e Engenha-
+ria de Software que atuem diretamente na construçao e manutençao de sites. Por fim, o
+Guia busca permitir que mais profissionais tenham contato com as EC que visam facilitar
+o entendimento da LGPD.
+
+**CONSIDERACOES FINAIS**
+
+Este artigo apresenta um importante passo na direçao de interfaces mais transparentes e respeitosas com a privacidade dos usuarios, oferecendo um guia pratico para a implementaçao de banners de consentimento que estejam em conformidade com a LGPD. Ao democratizar o conhecimento sobre a lei e incentivar o uso de estrategias de comunicaçao eficazes, este trabalho contribui para um ambiente online mais seguro e confiavel para todos.

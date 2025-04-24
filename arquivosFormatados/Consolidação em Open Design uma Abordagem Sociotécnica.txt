@@ -1,0 +1,144 @@
+Open Design e o projeto de design no qual processo e produto sao
+abertos, acessiveis e reusaiveis. Open Design tem sua inspiraçao no
+Open Source, em que individuos consolidam diversas contribuiçoes
+ao codigo-fonte de software. Esta Consolidaçao significa uma açao
+ou processo intencional de transformar algo em outra coisa mais
+efetiva, coerente, completa ou elaborada. No Open Design, a comple-
+xidade da Consolidaçao e potencializada, pois suas possibilidades
+vao alem de codigo-fonte, incluindo outras etapas e objetos de de-
+sign, como cenarios, prototipos, entre outros. Esta dissertaçao de
+Mestrado investiga a atividade de Consolidaçao em processos de
+design a partir de uma perspectiva sociotecnica e propoe meios
+para apoiar a Consolidaçao em uma plataforma de Open Design.
+
+**INTRODUCAO**
+
+Open Design pode ser entendido como um projeto de design re-
+alizado de maneira aberta e compartilhada por individuos de po-
+tenciais contextos diferentes . Open Design possui inspiraçao
+no modelo Open Source , no qual as contribuiçoes dos indiví-
+duos sao normalmente focadas no codigo-fonte de software, sendo
+posteriormente consolidadas em um unico codigo.
+
+No Open Design, a contribuiçao de um participante pode ocorrer
+em etapas alem da implementaçao e sobre diferentes objetos de
+design, como ideias, modelos conceituais, prototipos, entre outros,
+pois o processo de design e aberto . Deste modo, a complexidade
+de Consolidaçao e potencializada, incluindo produçoes em etapas
+de entendimento de problema, ideaçao e reuso, abrangendo diversos
+objetos do processo de design, envolvendo questoes culturais e so-
+ciais dos participantes, e exigindo ferramental tecnico que viabilize
+o trabalho.
+
+Consolidaçao significa a açao ou processo de fazer algo mais forte
+ou mais solido, ou ainda a açao ou processo de combinar um numero
+de coisas em um todo mais efetivo ou coerente. Portanto, Conso-
+lidaçao envolve uma açao ou processo intencional de combinar,
+integrar ou transformar algo em outra coisa mais efetiva, coerente,
+completa ou elaborada.
+
+Na literatura, a Consolidaçao e vista normalmente como um
+desafio de automaçao na mesclagem de codigos ou modelos, ficando
+restrita apenas aos estagios de modelagem e implementaçao de
+software. Poucos trabalhos investigam a Consolidaçao como um
+desafio do processo de design, composto nao somente de aspectos
+tecnicos (e.g., desempenho), mas tambem de aspectos humanos
+e organizacionais. Um destes trabalhos investiga a Consolidaçao
+de problemas de usabilidade, verificando as decisoes tomadas por
+avaliadores para o merge dos problemas identificados .
+
+A otica da Interaçao Humano-Computador (IHC) nos fornece a
+visao da Consolidaçao enquanto um fenomeno humano que pode ser
+apoiado por ferramentas computacionais . No Open Design, este
+fenomeno de Consolidaçao se realiza em um contexto heterogeneo,
+intermediado por participantes com diversos aspectos formais e
+informais, com realizaçao de atividades predominantemente colabo-
+rativas. Neste contexto, esta pesquisa de Mestrado busca investigar
+a Consolidaçao em Open Design de uma perspectiva sociotecnica e
+propor meios de apoiar esta Consolidaçao.
+
+**PROPOSTA DE TRABALHO**
+
+Entendendo a pesquisa em IHC de uma perspectiva de resoluçao
+de problemas, um problema de pesquisa pode ser a falta de compre-
+ensao sobre algum fenomeno no uso humano da computaçao ou a
+incapacidade declarada de construir uma tecnologia interativa para
+abordar esse fenomeno para fins desejados . Esta pesquisa lida
+com a falta de entendimento sobre a Consolidaçao, tanto de seus
+pontos importantes de analise quanto da produçao de ferramentas
+computacionais de Consolidaçao para um projeto de Open Design.
+
+Diferentes visoes para Consolidaçao podem ser encontradas na
+Literatura. Law e Hvannberg  discutem o conceito de Consolida-
+çao na area de avaliaçao de usabilidade e indicam que a pratica de
+Consolidaçao e aberta e nao estruturada. A Consolidaçao tambem
+e diretamente relacionada a açao de merge. Uchitel e Chechik 
+consideram merge como um processo de compor duas descriçoes
+parciais de um mesmo componente para obter uma versao mais ela-
+borada das descriçoes parciais originais. Rubin e Chechik , por
+sua vez, caracterizam um processo de merge em diferentes estagios
+(compare, match e compose). Outras publicaçoes trazem o conceito
+de merge ou Consolidaçao sem definiçoes ou referenciais teoricos
+sobre o conceito abordado, indicando que nao ha uma definiçao
+dominante ou amplamente adotada na literatura.
+
+Considerando a relevancia e os desafios da Consolidaçao no con-
+texto colaborativo e aberto de Open Design, tem-se como questao
+principal de pesquisa: "Como apoiar a atividade de Consolidaçao
+em Open Design em uma perspectiva sociotecnica?". Como objetivo
+geral esta pesquisa busca investigar a Consolidaçao em Open Design
+de uma perspectiva sociotecnica. Deste objetivo geral, deriva-se
+objetivos especificos: 1) entender as caracteristicas-chave da Conso-
+lidaçao em Open Design; 2) elaborar um Esquema Conceitual para
+entender a Consolidaçao como um bloco basico de Open Design; 3)
+investigar e propor meios de apoiar a Consolidaçao em Open Design
+na perspectiva sociotecnica; 4) identificar a relaçao da Consolidaçao
+com outros blocos basicos de Open Design.
+
+Bloco basico significa uma unidade basica de que algo e construido. Como exemplo tem-se os blocos basicos de software social. Os blocos basicos podem ser compostos de nome, descricao, implicacoes, exemplos ilustrativos e relacoes com outros blocos, empregados em uma narrativa para caracteriza-lo, apresentar ressalvas e para promover reflexoes para algum proposito.
+
+Nesta pesquisa de mestrado, utiliza-se da base teorica da Semiotica Organizacional (SO) para investigar Consolidacao de uma perspectiva sociotecnica e para entende-la como um bloco basico de Open Design. A SO lida com sistemas interativos de forma a balancear aspectos tecnologicos e sociais, em uma realidade construida socialmente, baseada no comportamento governado por signos dos agentes que dela participam. A SO oferece metodos e artefatos para apoiar o entendimento de problema, modelagem semantica e analise de normas, como a Cebola e Escada Semiotica.
+
+A Cebola Semiotica estrutura uma organizacao ou grupo social como um sistema de informacao composto do nivel tecnico (design de tecnologia), formal (leis, regras e procedimentos) e informal (crencas, comportamento, valores) do dominio. A Escada Semiotica, por sua vez, representa seis camadas de significado que devem ser consideradas no design de um sistema, sendo: mundo social (consequencia de uso de signos nas atividades humanas), pragmatica (uso intencional de signos e o comportamento de seus agentes), semantica (relacoes entre um signo e aquilo a que se refere), sintatica (combinacao de signos), empirico (propriedades estaticas dos signos) e mundo fisico (aspectos fisicos dos signos). Por meio destes dois artefatos, pode-se entender o fenomeno de Consolidacao como uma atividade sociotecnica, composta de elementos humanos e tecnicos.
+
+METODOLOGIA
+
+Em uma classificacao de tipos de pesquisa em IHC, a pesquisa Construtiva busca produzir entendimento sobre a construcao de um artefato interativo para algum proposito humano no uso da computacao. Esta pesquisa pode ser classificada como Construtiva, ao investigar a Consolidacao em Open Design de uma perspectiva sociotecnica e propor meios de apoia-la em uma plataforma tecnica. O objetivo nao e a construcao em si, mas as ideias ou principios que ela manifesta. Neste carater construtivo, a pesquisa possui um carater conceitual na medida em que trabalha com dimensoes e conceitos em definicao (Consolidacao e Open Design).
+
+Nesta classificacao Construtiva, a pesquisa assume um carater exploratorio e incremental. A avaliacao da pesquisa deve concentrar no entendimento de dimensoes do fenomeno de Consolidacao a partir de estudos de caso realizados em diferentes contextos, com dados primariamente qualitativos. O entendimento de Consolidacao avanca enquanto a pesquisa e desenvolvida nos estudos de caso e nas atividades construtivas de design da proposta. Ao final do processo, espera-se avancar com a capacidade de entendimento e de producao de solucoes para a atividade humana de Consolidacao em uma perspectiva sociotecnica.
+
+Para a conducao da pesquisa, diferentes tipos de investigacoes e intervencoes serao realizadas, como investigacoes empiricas, construtivas e conceituais. A investigacao conceitual envolve: 1) Mapeamentos Sistematicos de Literatura (MSL): a partir da verificacao dos poucos trabalhos desenvolvidos em Open Design e do campo abrangente de Consolidacao, buscou-se realizar Mapeamentos Sistematicos de Literatura. No MSL em Open Design o objetivo foi conhecer como se apresenta o cenario da pesquisa em Open Design no campo de sistemas computacionais interativos. As bases de pesquisa utilizadas foram ACM Digital Library, IEEE Xplore, Springer e Scopus, selecionando-se publicacoes no idioma Ingles. Como criterio de inclusao, foram considerados artigos que apresentavam pesquisa focada no tema de Open Design. Como criterios de exclusao, foram excluidas pesquisas que nao possuíam foco em Open Design de sistemas computacionais interativos, resumos de conferencias ou editoriais, artigos fora da língua inglesa, artigos nao acessiveis, artigos duplicados e literatura cinzenta (teses, dissertacoes, monografias). A pesquisa retornou 792 publicacoes e 12 destas foram selecionadas para o conjunto final de artigos. No MSL sobre Consolidacao, o objetivo foi conhecer e caracterizar a Consolidacao no processo de design ou de desenvolvimento de software. Utilizou-se da base de pesquisa ACM, com publicacoes na língua inglesa. Como criterio de inclusao, foram considerados artigos que discutiam algum aspecto de Consolidacao no processo de design ou de desenvolvimento de software. Como criterios de exclusao, foram excluídos artigos que nao tratavam de nenhum aspecto de Consolidacao, resumos de conferencias, editoriais ou workshops, artigos fora da língua inglesa, artigos nao acessiveis, duplicados e literatura cinzenta. A busca retornou 433 publicacoes, sendo 19 selecionadas para o conjunto final do mapeamento. 2) Analise qualitativa inspirada por Grounded Theory: para identificar dimensoes de Open Design e Consolidacao, realizou-se a leitura e analise de paragrafos selecionados com aspectos importantes nas publicacoes do MSL. Inspirado pela tecnica de Grounded Theory, os aspectos extraídos foram representados em categorias, relacionados e agrupados em termos mais abrangentes, visando encontrar aspectos que diziam sobre a mesma importancia, ou que tinham recebido denominacoes semelhantes (e.g., cooperacao e colaboracao). Especificamente para a Consolidacao, o proposito foi identificar informacoes que permitissem caracterizar o que era a Consolidacao e qual seu significado enquanto um bloco basico de Open Design. 3) Elaboracao de um Esquema Conceitual: o referencial metodologico da SO deve ser utilizado para apoiar a reflexao e concepcao da Consolidacao enquanto um bloco basico. A Cebola Semiotica contribui com a divisao do fenomeno de Consolidacao, de modo a identificar quais aspectos podem ser operacionalizados (formal) e quais nao sao diretamente operacionalizados, mas sao aspectos humanos (informal) e influenciam no sistema tecnico. A Escada Semiotica pode auxiliar a estruturar o Esquema Conceitual em diferentes camadas de analise, desde os requisitos tecnicos de uma plataforma de Open Design (infraestrutura, armazenamento), ate as estrategias informais para promover a Consolidacao.
+
+A investigacao empirica desta pesquisa de Mestrado e composta de estudos de caso exploratorios, que sao utilizados para explorar qualquer fenomeno nos dados que serve como um ponto de interesse para o pesquisador. Nesta pesquisa, os estudos de caso foram: 1) Oficina Participativa: uma oficina participativa de Design Socialmente Consciente foi realizada para producao de solucoes para um problema socialmente relevante de fonoaudiologia no contexto hospitalar. Foi realizado o preenchimento colaborativo de artefatos da SO para entendimento do dominio do problema e uma etapa de ideacao colaborativa por meio de Brainwriting. Cerca de 10 pessoas participaram da oficina, sendo dois professores e os restantes estudantes de graduacao e pos-graduacao. Foi verificado que a Consolidacao ocorre de maneira incremental, na qual produz-se elementos consolidados que podem ser retomados novamente para Consolidacao em outro momento. Como exemplo de uma pratica especifica de Consolidacao na oficina tem-se a Consolidacao de ideias ao final de um processo de Brainwriting. Cada participante tinha uma lista de ideias produzidas, na qual deveria ser selecionada as ideias mais relevantes ou que chamaram mais sua atencao. Essas ideias eram comunicadas para o grupo para serem discutidas. Um mediador registrava as ideias que eram apresentadas, agrupando ideias semelhantes ou organizando-as por categorias representativas (funcionalidades, narrativas etc). Para cada ideia apontada poderia ocorrer discussao com pros e contras que decidiriam a inclusao da ideia em uma lista consolidada para a solucao. 2) Disciplina de Engenharia de Requisitos (ER): estrategias de Consolidacao foram observadas em um processo de Design Thinking em uma disciplina de ER com cerca de 57 estudantes. O projeto pratico da disciplina possuía atividades colaborativas para construcao de uma solucao computacional. As atividades envolviam trabalhos individuais que deveriam ser consolidados colaborativamente, ou a Consolidacao a partir do reuso. Foram identificadas estrategias como: um processo sistematico de analisar todos os pontos e discuti-los para a composicao do elemento consolidado; hipotetizacao e exploracao para oferecer planos de quais consolidacoes deveriam ser produzidas; apresentar pros e contras, implicando em discussoes e em processo decisorio; adicao, descarte e mescla de producoes; e priorizacao de quais elementos deveriam ser consolidados. Tambem observamos que a Consolidacao pode atuar sob diversos objetos de design como descricoes de ideias de um projeto, prototipos graficos e no reuso de elementos (requisitos, casos de uso etc). A Consolidacao ocorreu tambem em diversas etapas, sejam elas de ideacao (Brainwriting) ou mais ligadas a prototipacao (Braindrawing). 3) Avaliacao com Especialistas: um estudo de caso exploratorio sera conduzido para a avaliacao da proposta do Esquema Conceitual com especialistas de IHC. Estes especialistas estao investigando o conceito de Open Design e propondo uma plataforma tecnica para este conceito no Projeto OpenDesign, do Instituto de Computacao Universidade de Campinas, no qual esta pesquisa de dissertacao esta situada. Os especialistas podem aplicar o Esquema na plataforma, de modo a derivar requisitos de Consolidacao. Por meio da analise do material produzido e de questionarios, pode-se verificar a abrangencia, utilidade e facilidade de uso do Esquema.
+
+RESULTADOS PRELIMINARES E CENARIOS PROSPECTIVOS
+
+No MSL sobre Consolidacao, observa-se que a Consolidacao aparece caracterizada por dois momentos principais: o merge e a negociacao (processo decisorio humano de chegar a um consenso e resolver conflitos). A Consolidacao tambem e caracterizada por aspectos que tratam sobre sua natureza e sobre o entorno de como e realizada (estrategias, negociacao, conflitos e ferramentas). Diversas estrategias de Consolidacao foram apontadas, como match, merge e diff, entre outras. Entretanto, nao foi mencionado na literatura de que maneira todo o processo de Consolidacao deve ser realizado, considerando a Consolidacao de forma completa: desde o objeto a ser consolidado, passando pelas fases de negociacao, de resolucao de conflitos, de producao de rationale e de modificacao ou merge propriamente dito.
+
+A partir do MSL em Open Design, foi elaborada uma caracterizacao para Open Design e a derivacao de seus blocos basicos, como a Consolidacao. Alem da Consolidacao, alguns exemplos destes blocos sao a Comunicacao: responsavel pelo apoio a diferentes modos de comunicacao, com disponibilidade e inclusao; e Compartilhamento: responsavel por determinar mecanismos para disponibilizacao de informacoes e produtos de design de forma transparente, atendendo a diversidade presente em um ambiente Open Design. Estes blocos se propoem a representar um conjunto abrangente de elementos necessarios para viabilizar uma plataforma que apoie a conducao de um Open Design.
+
+E a partir do MSL em Consolidacao e dos estudos de caso exploratorios, foi derivado um conjunto de dimensoes para a caracterizacao da Consolidacao. Enquanto uma atividade, a Consolidacao e suas dimensoes assumiram uma natureza de operacao. Cerca de 7 dimensoes principais foram identificadas e articuladas em um Esquema Conceitual preliminar, ilustrado na Figura 1.
+
+e o elemento manipulado para produzir um objeto final consolidado. As Producoes podem ser criadas e assumir diversas naturezas em um processo de design. Nas bordas da figura estao representadas dimensoes associadas a uma natureza de entendimento ou pratica da Consolidacao. As dimensoes de entendimento sao:
+Proposito da Consolidacao: o ato de Consolidacao normalmente parte de um proposito de consolidar.
+Atributos: a Consolidacao pode possuir atributos para o como deve ser realizada e sobre o que sera consolidado.
+Etapas de Design: a Consolidacao pode ocorrer em determinadas etapas do proprio processo de design. Por exemplo, uma equipe de projeto de design deseja realizar a Consolidacao apenas na etapa de Entendimento de Problema.
+Riscos: a Consolidacao nem sempre pode levar a um resultado mais efetivo, completo ou coerente. Ha riscos (e.g., Inconsistencia, Conflito) que podem levar a atividade de Consolidacao para um resultado nao desejado. Estes riscos devem ser identificados antes do inicio da Consolidacao para que sejam mitigados.
+
+Alem destas quatro dimensoes anteriores de entendimento da Consolidacao, tem-se as dimensoes de pratica, sendo:
+Estrategias: a Consolidacao possui estrategias para organizacao ou modificacao de alguma producao de design. As estrategias de organizacao sao compostas de operacoes como Match (encontrar similaridades entre producoes de design), Diff (encontrar diferencas entre producoes de design), Highlight (destacar algum elemento ou atributo de uma producao de design), Rank (ordenar ou priorizar uma lista de producoes de design) e Filtering (definir criterios para apresentacao de informacoes). A modificacao e constituida de Merge (mesclagem ou unificacao de producoes), Slice (produzir uma versao alternativa do objeto, baseado em criterios) e Override (processo de sobreposicao de alguns elementos em outros no objeto consolidado).
+Etapas de Consolidacao: a propria Consolidacao pode ser vista como constituinte de diversas etapas para sua execucao, sendo: a) Organizacao, b) Selecao, c) Discussao e Negociacao, e d) Modificacao. Organizacao se refere a organizar a informacao envolvida na Consolidacao de modo a colaborar com o entendimento e reduzir o esforco cognitivo envolvido no fazer sentido das producoes de design. Selecao significa selecionar quais producoes de design ou atributos farao parte do objeto final consolidado. A etapa de Discussao e Negociacao representa o ajuste e conciliacao de varias opinioes de design envolvidas na Consolidacao. Por fim, Modificacao significa modificar efetivamente as producoes de design para refletir um estado de Consolidacao planejado.
+
+Estas dimensoes podem ser utilizadas para derivar funcionalidades para uma plataforma de Open Design que ofereça e possibilite a Consolidacao. Ou podem ser utilizadas para apoiar a reflexao, modelagem e avaliacao de solucoes de Consolidacao, ao favorecer sua divisao em 7 dimensoes sobre seu entendimento e pratica.
+Como contribuicoes esperadas, tem-se como principal contribuicao o Esquema Conceitual a ser produzido que articule as dimensoes de Consolidacao em Open Design. Tambem sao contribuicoes as funcionalidades de Consolidacao a serem especificadas e implementadas em uma plataforma de Open Design, na medida em que materializam praticas de Consolidacao que podem ser aplicadas em outras plataformas.
+
+Em um cenario de pratica de design que busca ser mais colaborativo e participativo, a Consolidacao torna-se um processo necessario entre os participantes. O Esquema Conceitual de Consolidacao tem o potencial de auxiliar projetistas a conceberem um ambiente que facilite que diversos individuos mesclem e consolidem suas contribuicoes, em seu contexto situado de Open Design.
+
+Como limitacoes, tem-se o MSL de Open Design que considerou apenas publicacoes no campo de sistemas computacionais interativos. Outras publicacoes podem ter apresentado elementos importantes, mas estas estavam ligadas as areas de Engenharia, Desenvolvimento de Produto e Manufatura e, portanto, nao foram consideradas. O MSL de Consolidacao tem a limitacao de incluir apenas uma base de dados (ACM). Considera-se a base foi suficiente para conhecer a Consolidacao no contexto computacional, pois ACM e a base mais representativa no contexto de Computacao.
+
+O Esquema Conceitual a ser produzido em Consolidacao tambem pode possuir limitacoes. Enquanto a proposta de Esquema Conceitual busca auxiliar na compreensao e producao de funcionalidades de Consolidacao, pode direcionar muito o olhar a determinados pontos, ou deixar outros aspectos de lado. Para reducao desta limitacao, buscamos realizar estudos de caso em contextos diversos de Consolidacao, que aliados aos artefatos da SO, podem oferecer uma visao sistemica e abrangente para o Esquema Conceitual.
+
+CONCLUSAO
+
+Open Design ainda e uma area de pesquisa incipiente no campo de sistemas computacionais interativos. Nos projetos de design que sejam abertos e participativos, a Consolidacao se insere como uma atividade relevante na evolucao do projeto rumo ao seu proposito definido. A Consolidacao tambem pode ser relevante para o reuso, na medida em que pode facilitar o consolidar de producoes de design vindas de outros projetos existentes. Esta pesquisa busca produzir um entendimento sociotecnico de Consolidacao enquanto um bloco basico de Open Design. Este entendimento abrange a producao de funcionalidades e a visao da Consolidacao enquanto uma atividade humana que pode ser apoiada por ferramentas computacionais.
+O Esquema Conceitual a ser proposto pode articular dimensoes para a realizacao e sucesso da Consolidacao. Um projetista poderia entao utilizar este Esquema Conceitual, buscando verificar quais dimensoes fazem sentido e como se comportam em seu contexto situado de Open Design.

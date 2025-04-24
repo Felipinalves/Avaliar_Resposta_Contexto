@@ -1,0 +1,164 @@
+**RESUMO**
+
+Notadamente, as discussoes relacionadas ao ensino de
+programaçao para crianças nao sao recentes e por este
+motivo existe uma ampla gama de recursos relacionados,
+como brinquedos programaveis, brinquedos hibridos, jogos
+digitais, atividades com materiais analogicos, entre outros. O
+presente trabalho relata uma experiencia baseada em jogos
+digitais para o ensino de conceitos de programacao para
+crianças pequenas em fase de letramento. Nosso principal
+objetivo consistiu em investigar como alguns conceitos sao
+apresentados na interface de alguns jogos e qual o impacto
+dos elementos de interaçao na compreensao das crianças
+sobre os conceitos apresentados. Os resultados
+demonstraram uma compreensao adequada de sequencias de
+instruçoes e condicionais, mas indicam alguns desafios no
+que se refere sobretudo aos textos e elementos de interaçao,
+assim como simbolos graficos. Outro ponto importante diz
+respeito ao conceito de repetiçao, considerado
+particularmente dificil de compreender pelas crianças. Sendo
+assim, compreendemos que embora existam diversos
+recursos voltados ao ensino de programacao para crianças,
+ainda nao temos boas soluçoes para representar e abordar
+alguns conceitos para crianças em fase de letramento.
+
+**INTRODUCAO**
+
+Muito embora algumas pesquisas demonstrem que o
+envolvimento das crianças em experiencias de aprendizado
+de programaçao as auxilie a desenvolver habilidades de
+linguagem e numeracia , ainda existem questoes sobre o
+ensino de Ciencia da Computaçao, sobretudo quando se trata
+de crianças pequenas. Segundo Wing , a disseminaçao do
+pensamento computacional especialmente para crianças,
+envolve muitos desafios, como as formas efetivas de
+aprender (ensinar) por (para) crianças; e as melhores formas
+de integrar as diversas ferramentas disponiveis neste
+processo. Ainda nao ha consenso sobre como abordar o
+pensamento computacional com crianças nem sobre quais
+topicos devem ser abordados.
+
+Mediante este contexto, neste trabalho estivemos
+especialmente interessadas em compreender como jogos
+digitais apresentam conceitos de programaçao em sua
+interface e como os elementos de interaçao interferem na
+compreensao destes conceitos pelas crianças em fase de
+letramento. Este trabalho pode ser interessante para
+pesquisadores, educadores, designers e desenvolvedores de
+jogos que estejam interessados em projetar jogos digitais ou
+experiencias baseadas em jogos para crianças pequenas em
+fase de letramento.
+
+**DESIGN DO ESTUDO**
+
+O presente trabalho relata os resultados iniciais de uma
+pesquisa-açao educacional que visa aprimorar o ensino de
+conceitos de programaçao para crianças pequenas por meio
+de jogos digitais. Este trabalho, em particular, busca
+compreender como os conceitos de programaçao sao
+veiculados atraves dos elementos de interaçao da interface
+dos jogos e como esses elementos contribuem para a
+compreensao das crianças. Este trabalho integrou uma
+disciplina de Informatica, lecionada em uma escola
+tradicional de Educaçao Infantil da rede particular em
+Recife, Pernambuco, em que participaram 42 alunos com
+idades entre 5 e 7 anos.
+
+Essas aulas eram ministradas como atividades
+extracurriculares e ocorriam na sala de Informatica da escola,
+com dez computadores desktop conectados a Internet. Na
+falta de uma definiçao de competencias, habilidades e
+conteudos para a disciplina em questao, a professora-
+pesquisadora propos a introduçao de conceitos relacionados
+ao pensamento computacional. Em razao de nao haver um
+curriculo nacional abrangendo Ciencia da Computaçao em
+nivel escolar, optamos pelo curriculo Computing at School
+. Os jogos digitais envolvendo os conceitos a serem
+abordados foram utilizados como ferramentas de ensino.
+
+Em cada aula, as crianças eram convidadas a jogar um jogo
+especifico sem nenhuma explicaçao previa sobre o conteudo
+ou instruçoes sobre como jogar. Eles poderiam pedir a ajuda
+da professora ou de seus colegas a qualquer momento. Apos
+a interaçao, e nas aulas subsequentes, os conceitos
+envolvidos nos jogos foram mais explorados pelo professor,
+esclarecendo as relaçoes entre os conceitos e as situaçoes
+apresentadas nos jogos. Por exemplo, a professor perguntou
+se os alunos notaram diferenças no comportamento dos
+personagens quando a ordem das instruçoes foi modificada,
+ou uma instruçao especifica foi substituida por outra, com o
+objetivo de melhorar a compreensao dos alunos sobre a
+sequencia de instruçoes em um algoritmo (embora tal
+terminologia formal nao tenha sido adotada neste ponto).
+
+**RESULTADOS, DISCUSSOES E CONSIDERACOES FINAIS**
+
+Os resultados apontam uma ampla gama de desafios e
+oportunidades de pesquisa. Uma das principais contribuiçoes
+consiste em servir como um ponto de partida para os
+professores interessados em ensinar conceitos de
+programaçao para crianças pequenas a partir de jogos
+digitais, assim como uma fonte de ideias e desafios de
+design para as diversas comunidades envolvidas no projeto e
+desenvolvimento desses jogos.
+
+Entre os desafios encontrados, realçamos a complexidade da
+linguagem (visual e textual). Encontramos tutoriais, sistemas
+de ajuda e feedback com construçoes textuais complexas em
+alguns dos jogos escolhidos (ex. Code Baymax, LightBot),
+mesmo tendo sido projetados para crianças nesta faixa etaria.
+Este aspecto e especialmente relevante porque as crianças
+pequenas ainda estao aprendendo a ler e tendem a ignorar
+tutoriais e textos de ajuda, mas prestam atençao a
+cinematicas animadas ou interativas. A linguagem visual
+adotada, por sua vez, demonstrou que aparentemente ainda
+nao encontramos maneiras adequadas de representarmos (ex.
+simbolos ou abordagens) alguns conceitos para crianças
+pequenas. Nao consideramos que exista um consenso sobre
+quais conteudos de programaçao deveriam ser ensinados e
+quais deles sao compreendidos adequadamente por crianças
+nesta idade, e muitos curriculos apenas apontam para o
+desenvolvimento do pensamento algoritmico.
+
+Entre os tres conceitos de programaçao abordados
+(sequenciamento de instruçoes, condicionais e repetiçao), a
+repetiçao tem se mostrado de dificil entendimento para as
+crianças. Para ajudar as crianças a compreenderem melhor
+este conceito combinamos atividades de sala de aula,
+exercicios extras e jogos fisicos. Notadamente, estes
+resultados sao consoantes aos trabalhos relacionados (inserir
+referencias), que indicam a necessidade de atividades
+complementares e o apoio significativo do professor para
+ajudar a compreensao das crianças sobre conceitos,
+principalmente repetiçao e giros a direita esquerda. Isso
+mostra que, apesar do crescente numero de jogos digitais
+para programaçao sendo lançados, boas soluçoes para
+transmitir os principais conceitos para crianças pequenas
+ainda nao foram encontrados.
+
+Em suma, a partir dos resultados obtidos neste estudo
+desenvolvido em sala de aula compreendemos que uma
+abordagem para crianças pequenas que seja exclusivamente
+baseado em versoes gratuitas de jogos digitais pode nao ser
+suficientemente adequada para apresentar e explorar os
+conceitos de programaçao propostos. Mediante este
+contexto, deixamos as seguintes recomendaçoes para os
+interessados em utilizarem jogos para abordar conceitos de
+programaçao com crianças desta faixa etaria: (a) combinem
+diferentes maneiras de representar os conceitos
+(particularmente para os mais abstratos), por exemplo,
+combinar jogos digitais que usam diferentes representaçoes
+de um mesmo conceito ou combinar jogos digitais com
+abordagens como jogos fisicos, tarefas em papel, brinquedos
+e outras atividades ludicas); (b) priorizar jogos que envolvam
+narrativas e linguagens visuais; e (c) explorar possibilidades
+de contar historias para apresentar os conceitos usando
+narrativas que se conectam ao contexto das crianças. De um
+modo geral, os jogos analisados compartilham limitaçoes
+semelhantes quanto as particularidades do uso formal nas
+escolas.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, este estudo aponta para a importancia de abordagens combinadas e contextualizadas no ensino de conceitos de programaçao para crianças pequenas, destacando a necessidade de considerar tanto as limitaçoes da linguagem (visual e textual) quanto a dificuldade inerente a alguns conceitos, como a repetiçao. Os resultados enfatizam a relevancia de se explorar a ludicidade e a narraçao de historias como ferramentas para auxiliar a compreensao dos conceitos, alem de se considerar as particularidades do uso formal nas escolas.

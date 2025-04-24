@@ -1,0 +1,122 @@
+**RESUMO**
+
+Este artigo apresenta uma investigaçao que vem sendo
+desenvolvida na Universidade Federal do Amazonas por
+meio de projetos envolvendo conceitos de sistemas
+colaborativos (SC) e interaçao humano-computador (IHC)
+em cenarios de eventos artistico-culturais e de
+entretenimento. No cenario artistico, tem-se projetos
+envolvendo musica e interaçao por meio de sons. No
+cenario de grandes eventos de entretenimento envolvendo
+multidoes, os projetos consideram questoes como
+engajamento, interaçao e colaboraçao. Nestes contextos
+nao convencionais observa-se a importancia da integraçao
+entre as areas de SC e IHC com o objetivo de alcançar
+resultados relevantes para mudança de comportamento do
+publico visando uma postura ativa, participativa e
+interativa no ambito das artes e do entretenimento para
+multidoes.
+
+**APRESENTAÇAO E CONTEXTO**
+
+"Uma das funçoes importantes da obra de arte e ser uma
+maneira de a sociedade se exibir, como um grupo e como
+uma serie de individuos dentro de um grupo. O instrumento
+decisivo com o qual a obra ressoa nao e tanto os individuos
+em si mesmos, cada qual sozinho com seus sentimentos, mas,
+muitos individuos integrados num grupo, pessoas cujos
+sentimentos sao, em grande parte, mobilizados e orientados
+para o fato de estarem juntas. ". A citaçao de Bourdier
+destaca a natureza colaborativa das artes de uma forma
+geral, que e realizada para fazer parte de um sistema
+complexo envolvendo o coletivo, consistindo em uma forma
+de expressao da sociedade. O trabalho criativo e ludico,
+realizado pelas interaçoes da sociedade com o meio
+consistem em um ponto de convergencia entre Ciencias,
+Artes e Educaçao .
+
+Com base nessa convergencia de areas do saber e no fato da
+tecnologia permear e dar suporte transversal a todas essas
+areas, a Faculdade de Artes da Universidade Federal do
+Amazonas (FAARTES/UFAM) realizou uma demanda ao
+Instituto de Computaçao da mesma universidade
+(IComp/UFAM) para realizar pesquisas conjuntas
+envolvendo musica e tecnologia. Dessa parceria, surgiu o
+projeto "Uma abordagem colaborativa na composiçao
+dinamica de musica". O sucesso desse projeto levou os
+pesquisadores a pensar formas ainda maiores de integrar
+pessoas em situaçoes ou instalaçoes artisticas/culturais,
+principalmente aqueles envolvendo multidoes.
+
+O Brasil tem sido palco de grandes eventos esportivos e
+culturais. A realizaçao da copa do mundo e dos ultimos jogos
+olimpicos sao exemplos disso. Outro exemplo e a realizaçao
+de muitos festivais de musica como o Rock in Rio e o
+Lolapalooza. Mais especificamente no cenario cultural da
+regiao Norte do pais, onde a pesquisa tem sido desenvolvida,
+destacam-se diversos festivais folcloricos como, por
+exemplo, o Festival de Parintins, Festival de Cirandas de
+Manacapuru e a Festa do Peixe Ornamental de Barcelos.
+Esses eventos atraem multidoes que, muitas vezes, limitam-
+se a um papel secundario como expectador passivo desses
+eventos.
+
+A necessidade de um maior engajamento em eventos dessa
+natureza e sentida pelo proprio publico que, por iniciativa
+propria, encontra maneiras criativas de participar do
+espetaculo. Vale destacar que essas sao iniciativas
+espontaneas que emergem da multidao e nao sao concebidas
+originalmente pelos organizadores do evento Ha casos ainda em que esse engajamento da audiencia com o espetaculo e pensado e orquestrado pelos proprios organizadores do evento A Figura 1 ilustra o engajamento do publico em eventos de entretenimento como por exemplo uso de pulseiras que piscam ao som da banda Coldplay torcida do Boi Bumba Caprichoso no Festival Folclorico de Parintins fazendo um mosaico com pompons torcida do time de futebol Flamengo montando um mosaico com placas de papel e por ultimo reacao espontanea da audiencia do espetaculo de abertura das Olimpiadas Rio 2016 acendendo as lanternas do celular
+Os exemplos apresentados deixam claro a importancia do engajamento da audiencia nos diferentes tipos de evento Esse engajamento tem potencial de ser cada vez maior quando se tira proveito do poder de processamento dos artefatos digitais que sao utilizados pela maioria das pessoas como por exemplo o smartphone Assim as pesquisas que tem sido realizadas apontam para plataformas tecnologicas para o aumento do engajamento da audiencia em eventos baseados em multidao crowd based events apoiada pelas teorias das dinamicas de multidoes Crowd Dynamics e da computacao e sensoriamento de multidoes Crowd Sensing and Computing
+
+OBJETIVOS
+
+As pesquisas que tem sido realizadas nesses contextos nao convencionais tem por objetivo dar suporte tecnologico a novas formas de expressao artistica e de engajamento publico espetaculoevento Espera se com isso mudar a perspectiva do publico que a partir das interacoes entre si e com o objeto que esta sendo apresentado instalacao artistica concerto evento cultural ou esportivo dentre outros passe para um papel mais ativo e sirva como fonte de retroalimentacao e modificacao do objeto
+Para tanto faz se necessario
+Caracterizar o comportamento das multidoes no contexto do entretenimento com relacao a 1 atividades realizadas pelos grupos de pessoas ii processos e estrategias para atingir o objetivo comum dos grupos de pessoas iii metodos e tecnicas para aumento do engajamento entre as pessoas e os eventos de entretenimento e iv tecnologias utilizadas como suporte a colaboracao entre as pessoas
+Identificar similaridades e diferencas entre as tecnologias utilizadas atualmente para dar suporte a colaboracao entre multidoes considerando os diferentes metodos de colaboracao espontanea ou induzida
+Identificar necessidades e desenvolver tecnologias visando o aumento do engajamento de multidoes em eventos de entretenimento
+Avaliar as tecnologias desenvolvidas atraves avaliacoes funcionais de usabilidade e experiencia de usuario UX e estudos de caso Tais avaliacoes visam verificar a eficacia da aplicacao em aumentar o engajamento ou a sensacao de pertencimento da audiencia de eventos de entretenimento
+
+ASPECTOS DE INTERSECAO DE SISTEMAS COLABORATIVOS E IHC
+
+Os trabalhos que este grupo de pesquisa tem desenvolvido no contexto das artes e eventos de entretenimento esta situado bem na fronteira entre as areas de Sistemas Colaborativos e IHC Nesta secao serao citados alguns trabalhos desenvolvidos e em andamento onde pontos de ambas as areas serao destacados
+O projeto Uma abordagem colaborativa na composicao dinamica de musica realizado em parceria com a FAARTESUFAM teve como objetivo dar suporte tecnologico a criacao de paisagens sonoras colaborativas a partir da interacao das pessoas em um mesmo espaco compartilhado Este projeto resultou em uma dissertacao de mestrado intitulada Composicao Musical Colaborativa Baseada Em Espacializacao Sonora Em Tempo Real Nesse projeto de mestrado desenvolveu se uma plataforma tecnologica que registra e reproduz em tempo real sons selecionados pelos usuarios de um aplicativo especifico o Compomus que interagem livremente em um ambiente delimitado Dessa forma a composicao resultante da interacao e um som que registra e reproduz em diferentes caixas de som o movimento dos usuarios dentro do espaco de interacao Assim foi possivel analisar como os usuarios interagiam uns com os outros gerando sons diferentes a partir dessa interacao O som resultante e o produto da colaboracao desses usuarios no espaco compartilhado A interacao era observada entre os proprios usuarios e entre esses e os sons reproduzidos
+Sobre o engajamento de multidoes o projeto de iniciacao cientifica intitulado Uma plataforma tecnologica para o engajamento de multidoes no contexto de entretenimento propos uma plataforma para possibilitar uma maior interacao de publico de shows e eventos de massa com o espetaculo apresentado na forma de luzes e efeitos visuais atraves de smartphones e tablets A colaboracao neste projeto e conseguida atraves da motivacao do publico em participar ativamente dos espetaculos Os efeitos visuais so sao visualizados em grande escala onde cada usuario colabora sendo um ponto de luz formando um grane painel luminoso vivo Desafios importantes do ponto de vista de IHC surgem como medida do engajamento do publico em eventos de multidoes verificacao da experiencia do usuario no contexto de multidoes verificacao da experiencia da multidao dentre outros O projeto cresceu ganhou visibilidade e foi utilizado no maior festival folclorico da regiao norte o Festival de Parintins tendo repercutido macicamente na midia local O projeto conta atualmente com a colaboracao de mais 1 aluno de doutorado e 2 alunos de iniciacao cientifica
+
+
+**CONSIDERAÇOES FINAIS**
+
+O campo das artes e do entretenimento de multidoes se
+mostra como um nicho de pesquisa a ser amplamente
+explorado. A tecnologia tem um potencial transformador
+com a capacidade de tornar expectadores passivos em
+agentes ativos e criadores/transformadores das artes e
+interaçao com diversas formas de manifestaçoes
+envolvendo multidoes. Para tanto, faz-se necessaria a
+integraçao de diversas areas da computaçao de modo a
+gerar tais tecnologias transformadoras. As areas de Sistemas
+Colaborativos, atraves de seus estudos de como pessoas
+podem colaborar umas com as outras em um espaço
+compartilhado afim de atingir um objetivo comum, e de IHC
+atraves do estudo das relaçoes das interaçoes entre as
+pessoas consistem nas principais responsaveis por viabilizar
+o suporte tecnologico nesse contexto nao convencional.
+
+Assim, desafios envolvendo a interaçao dessas duas
+grandes areas de pesquisa apresentam-se, tais como: Como
+as pessoas devem colaborar no contexto de multidoes? Como
+elas se comunicam ou coordenam suas atividades? Qual
+suporte tecnologico e necessario para viabilizar tal
+colaboraçao? Como se consegue engajamento das multidoes
+com os eventos/instalaçoes artisticas? Como se mede a
+experiencia dessas multidoes (individualmente ou
+coletiva)? Como se projeta sistemas para multidoes?
+
+Estas questoes continuam em abertas e sao convites a
+pesquisadores de ambas as areas para estreitarem laços e
+produzirem resultados inovadores.
+
+**CONSIDERAÇOES FINAIS**
+
+Este artigo explora a interseçao entre sistemas colaborativos e interaçao humano-computador em contextos nao convencionais de arte e entretenimento. As pesquisas desenvolvidas demonstram o potencial da tecnologia para promover o engajamento do publico, transformando-o de espectador passivo em participante ativo. A integraçao entre essas areas de pesquisa e fundamental para o desenvolvimento de soluçoes inovadoras que promovam a colaboraçao e a interaçao em eventos de grande escala, contribuindo para uma experiencia mais imersiva e significativa para o publico.

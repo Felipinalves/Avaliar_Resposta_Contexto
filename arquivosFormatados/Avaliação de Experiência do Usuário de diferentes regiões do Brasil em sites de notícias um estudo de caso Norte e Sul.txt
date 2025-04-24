@@ -1,0 +1,137 @@
+**INTRODUCAO**
+
+Recentes pesquisas tem apontado o protagonismo de sites de noticias entre as formas de
+consumo de informaçao dos brasileiros. De acordo com Poder Data , cerca
+de (41%) dos brasileiros consomem informaçao por veiculos jornalisticos na Internet,
+numero que supera o consumo feito por meio da televisao (25%), jornais/revistas impres-
+sos (13%) e radio (2%). A pandemia da Covid-19 tambem colaborou para o aumento
+do consumo de noticias em veiculos digitais, no Brasil aumentou (65%), afirma pesquisa
+realizada pela Provokers . Atualmente, de acordo com Digitals New
+Report , (83%) dos brasileiros consomem noticias no meio online,
+incluindo sites de midias sociais.
+
+Apesar dos sites de noticias se apresentarem como o principal meio de consumo
+de informaçao no Brasil, a literatura demonstra que ainda existem desafios para se traba-
+lhar com Experiencia do Usuario (do ingles, User Experience) e suas relaçoes estruturais
+em sites de noticias. A Experiencia do Usuario e um conjunto de elementos mais subje-
+tivos que possibilitam a avaliaçao de como o usuario se sente antes, durante e apos o uso
+de um produto, suas experiencias, emoçoes e demais aspectos significativos e preciosos
+.
+
+Arahyi e Schaik  afirmam que existe falta de pes-
+quisas academicas sobre como os sites de noticias podem ser projetados, objetivando
+promover uma experiencia do usuario de alta qualidade. Esta area e subsidiada por estu-
+dos de Jakob Nielsen realizados nos anos 90, que apontam 10 heuristicas para assegurar
+a experiencia de navegaçao, mas de sites em geral .
+
+Aliado ao exposto, alguns sistemas de avaliaçao e monitoramento ja sao capazes
+de coletar dados para analises estatisticas que permitem traçar padroes de uso, tornando-os
+uma referencia para desenvolvimento e melhorias de sites e sistemas. Assim, e possivel
+desenvolver soluçoes capazes de mensurar a atençao do usuario, alem de identificar e
+avaliar o comportamento, permitindo adaptaçoes em tempo real e, consequentemente,
+melhoria na UX.
+
+Em um pais de dimensoes continentais como o Brasil, nao se pode desconside-
+rar as especificidades dos usuarios durante o processo de avaliaçao do comportamento de
+navegaçao em sites de noticias. Inclusive, a Organizaçao das Naçoes Unidas (ONU), por
+meio do Relatorio do Desenvolvimento Humano 2019 , classifica o Brasil
+entre os dez paises mais desiguais do mundo no que diz respeito as condiçoes socioe-
+conomicas. Enquanto o Brasil possui regioes mais desenvolvidas, como a Regiao Sul e
+Sudeste, outras possuem menores indices de desenvolvimento, como a Regiao Norte e
+Nordeste.
+
+Na pratica, esta desigualdade reflete, por exemplo, na taxa de analfabetismo (pes-
+soas de 15 anos ou mais de idade). De acordo com a Pesquisa Nacional por Amostra
+de Domicilios Continua , a Regiao Sul possui, por exemplo, menor indice
+de analfabestismo (3,3%), enquanto a Regiao Norte conta com (7.6%) de sua populaçao
+analfabeta. Este percentual esta diretamente ligado com oportunidades do mercado de
+trabalho e obtençao de renda. Outro exemplo, e o acesso a Internet, ainda de acordo com
+, somente (69,2%) da populaçao da Regiao Norte possui acesso a Internet,
+enquanto a Regiao Sul desponta com (81,8%).
+
+A partir deste contexto, esta pesquisa pretende auxiliar na resposta da seguinte pergunta: como se da a experiencia do usuario em sites de noticias? Relacionando os possiveis contrastes e similaridades encontrados entre usuarios moradores da Regiao Norte e da Regiao Sul do Brasil. Para responder tal pergunta, sera apresentado um estudo de caso realizado com os cinco sites de noticias mais acessados do pais, onde os usuarios realizaram tarefas predefinidas, em ambiente controlado e os dados dessa interacao foram rastreados por meio da ferramenta Tracking Techniques Based User Experience Evaluation Tool (T2-UXT) e comparados as opinioes dos participantes da pesquisa, a partir do Teste QUIS (Adaptado as heuristicas de Renzi [Renzi et al. 2016]).
+
+O artigo sera organizado na seguinte forma: a Secao 2 apresenta trabalhos relevantes sobre avaliacao de UX em sites de noticias, bem como pesquisas apoiadas por ferramentas de rastreios a fim de analisar a interacao de usuarios; a Secao 3 demonstra a metodologia do estudo; a Secao 4 relata o estudo de caso, detalhando o cenario utilizado, a ferramenta de rastreio T2-UXT e o Teste Quis; a Secao 5 contem as contribuicoes esperadas a partir deste estudo; a Secao 6, culmina com as consideracoes finais.
+
+Nesta secao sao apresentados estudos relacionados a avaliacao de UX em sites de noticias e pesquisas que ja utilizaram ferramentas de rastreamento para analise de comportamento de usuarios. Para isso, as bases de dados utilizadas foram: Periodico Capes, Scielo e ResearchGate. O presente estudo apresenta caracteristicas inovadoras quando comparadas a pesquisas de UX voltadas a sites de noticias.
+
+O trabalho de Al-Radaieh et al. [Al-Radaideh et al. 2011], por exemplo, realiza uma avaliacao de sites de jornais online usando duas avaliacoes: usabilidade e conteudo da web. Contudo, o trabalho se limita a uma avaliacao por meio de questionarios baseados na definicao de usabilidade e de conteudo da web.
+
+Outro trabalho que aborda UX e sites de noticias e a pesquisa de Silva e Petrucelli [Silva and Petrucelli 2018], que realiza uma breve analise a partir de um site de noticias da area esportiva. Esse trabalho se concentra em analises teoricas que discutem os conceitos de UX Design com foco na experiencia do usuario durante a navegacao.
+
+O trabalho de Arahyi e Schaik [Aranyi and Van Schaik 2015] tambem objetiva avaliar a experiencia do usuario em sites de noticias. A investigacao identifica as caracteristicas do site, o atendimento de necessidades, reacoes afetivas e construcoes de aceitacao de tecnologia. O instrumento utilizado foi um questionario. Diferente dos trabalhos que se concentraram em avaliar a UX em sites de noticias, por meio de questionarios e analises visuais, o presente estudo apresenta como inovacao o uso de uma ferramenta que permite rastreio das interacoes do usuario em sistemas.
+
+Na literatura, o trabalho de Paulino et al. [Paulino et al. 2021] e o que mais se aproxima do presente estudo. Nele foi realizada uma investigacao que objetivou identificar as interacoes no site transmidia "Debarriosomos", utilizando um sistema quantitativo de rastreamento de interacoes. Apesar de pouquissimos estudos que utilizam ferramentas de rastreio de dados para avaliacao de UX e sites de noticias, diversos trabalhos tem abordado a utilizacao de ferramentas de rastreamento para avaliar a UX, com a finalidade de adaptar e/ou personalizar sistemas interativos, recomendar ou, ate mesmo, predizer conteudos, tais como os trabalhos de Diego-Mas et al.[Diego-Mas et al. 2019], Chen et al.[Chen et al. 2017] e Bastug et al. [Bastug et al. 2018] que utilizam dados de rastreamento ocular e/ou do mouse, para melhoria da UX.
+
+Metodologia
+O presente estudo se classifica como exploratorio em virtude da natureza da investigacao: experiencia do usuario na leitura de sites de noticias, considerando os usuarios moradores da Regiao Norte e Sul do Brasil. A abordagem usada para a analise dos dados foi a quantiqualitativa. Quantitativa devido os tipos de dados numericos obtidos pela ferramenta T2-UXT e qualitativa pelas opinioes subjetivas coletadas por meio do Teste Quis (adaptado a partir de heuristicas de UX). Dessa forma, essa abordagem mista possibilita combinar os principios quanti-qualitativos, cujo objetivo e perceber as opinioes e aferir comprovacao numerica dos dados coletados [Johnson et al. 2007].
+
+O percurso metodologico utilizado e subsidiado nos estudos originalmente propostos por Nielsen e Molich [Nielsen and Molich 1990], alem de trabalhos de Al-Radaiehet al. [Al-Radaideh et al. 2011] e Neto e Campos [Vilar Neto and Campos 2014]. A presente avaliacao da leitura dos sites de noticias e fundamentada a partir de um conjunto de nove heuristicas de UX propostos por Renzi [Renzi et al. 2016], que englobam percepcao cognitiva de interface, interacoes e interoperabilidade entre sistemas.
+
+A Figura 1 demonstra o percurso metodologico utilizado neste estudo. A partir do problema de pesquisa, a Ferramenta T2-UXT e utilizada para rastrear dados, durante a execucacao de um roteiro de tarefas, que permitem construir uma avaliacao da UX na leitura de sites de noticias. Os dados obtidos pela ferramenta de rastreio sao comparados as opinioes dos participantes desta pesquisa, por meio do Teste QUIS.
+
+Estudo de Caso
+Nesta secao, sao apresentados os detalhamentos da pesquisa que ainda esta em desenvolvimento. Sendo mostrado o cenario de investigacao, a ferramenta de rastreio e os metodos utilizados no estudo.
+
+Cenario
+Foram selecionados os cinco sites de noticias mais acessados do Brasil, de acordo com os dados divulgados pelo Ranking Comscore (2021) multiplataforma (Mobile e Desktop) [2021 2021]. Os sites investigados foram respectivamente: G1 (Globo), R7, Metropoles, Uol Noticias e Terra.
+
+A aplicacao desta investigacao foi dividida em dois momentos: No primeiro, por meio de um questionario online, foi levantado o perfil de todos os participantes da pesquisa, no que diz respeito as questoes demograficas, de acesso a internet e de comportamento no que diz respeito a consumo de sites de noticias. No segundo, os participantes tiveram acesso a um roteiro que contem tarefas a serem excetuadas, sendo estas: (I) Buscar materia por um titulo especifico "vacinacao"; (II) Encontrar link a rede social (Facebook); e (III) Assinar a newsletter.
+
+A Tarefa (I) objetivou verificar eficiencia, facilidade de navegacao e acessibilidade na busca pelo termo "vacinacao"; Tarefa (II) buscou analisar questoes como organizacao, legibilidade e interacao com as possiveis midias disponiveis; Tarefa (III) foi pensada para identificar a facilidade de navegacao e disponibilidade de links. As tres tarefas favorecem a compreensao da interacao do usuario, no que diz respeito a aparencia da interface dos sites de noticias.
+
+A pesquisa foi realizada de forma presencial no periodo de abril a maio de 2022, com o total de (20) pessoas, sendo (10) moradores da Regiao Norte e (10) da Regiao Sul do Brasil. Todos possuiam familiaridade na leitura de sites de noticias, com a faixa etaria de vinte a quarenta anos de idade e com ensino superior. Todos assinaram termo de consetimento livre e esclarecido.
+
+Objetivando validar o estudo de caso, os usuarios participantes da pesquisa receberam as instrucoes necessarias antes da realizacao dos testes, para que nao houvessem duvidas ou intervencao durante a execucao das tarefas. Os testes foram realizados em computadores com sistema operacional Microsoft Windows 10 e navegador Google Chrome. Os caminhos que poderiam ser utilizados para cada uma das tarefas sao diversos.
+
+Ferramenta T2-UXT
+A ferramenta de rastreio utilizada para subsidiar este estudo foi a T2-UXT, que ao longo dos ultimos anos vem se adaptando as necessidades da atualidade. Desenvolvida por pesquisadores da Universidade Federal do Para (UFPA), a ferramenta possui os seguintes diferenciais, conforme aponta [Souza et al. 2019]:
+
+(I) Execucao da ferramenta de avaliacao em um navegador (tornando-a extensiva, simples e adaptativa);
+(II) Rastreamento de mouse, teclado, ocular, gravacao de voz e analise de sentimentos;
+(III) Codigo-aberto, de facil implementacao e manuseio;
+(IV) Disponibilizacao de dados que podem ser usados para aplicacao de modelos de inteligencia artificial;
+(V) Possibilidade de aplicacao em ambientes multimidia.
+
+A partir da navegacao do usuario entre as paginas dos sites de noticias/sistemas, buscando as informacoes que os interessam, os rastros por meio do mouse, teclado, olhos, entre outros, vao sendo coletados. Assim, a T2-UXT e composta de tres modulos: SingleView, Heatmap e DataFuzzy, permite a coleta, organizacao e processamento de dados.
+
+A arquitetura da aplicacao sustenta-se em um arranjo de tecnologias que garante flexibilidade por meio do uso de PHP e JavaScript, permitindo a captura, armazenamento de dados independentemente de plataformas especificas, alem do alto desempenho no processamento de dados por meio da utilizacao de C#. Os dados de interacao analisados pela T2-UXT geram como resultados mapas de calor, rastros de todas das diferentes interacoes realizadas, entre outros.
+
+Teste QUIS
+O QUIS foi utilizado neste estudo enquanto uma ferramenta que possibilita a identificacao satisfacao do usuario a partir de criterios pre-selecionados. Este instrumento, que ja foi utilizado em outras pesquisas a respeito de 'UX' e 'Conteudo Jornalistico', foi desenvolvido por uma equipe multidisciplinar de pesquisadores do Human-Computer Interaction Laboratory (HCIL) da University of Maryland, objetivando estimar a satisfacao subjetiva dos usuarios focando aspectos especificos da interface humano-computador [Filardi and Traina 2008].
+
+De acordo com os autores, essa ferramenta utiliza tecnicas de questionamento que envolvem a participacao efetiva do usuario ao perguntar-lhe diretamente sobre a interface e/ou interacao, com o objetivo de descobrir se o site/sistema atende as necessidades esperadas. A Figura 2 demonstra o Teste QUIS adaptado, a partir das 9 heuristicas propostas por Renzi [Renzi et al. 2016], para esta investigacao.
+
+O Teste QUIS foi escolhido por fornecer direcionamentos a respeito da qualidade da interacao do usuario. A Figura 2 apresenta cinco dos onze questionamentos feitos por meio do QUIS, o teste completo esta disponivel no link [Lima 2022].
+
+Neste instrumento, os questionamentos sao apresentados na forma de afirmacoes utilizando as escalas de diferencial semantico, baseando-se por meio de uma faixa de atitudes bipolares representadas por um par de adjetivos. Nesta pesquisa e adotado respostas entre (4) e (5) como de alto nivel de avaliacao e valores entre (1) e (2) de baixo nivel. A resposta (3) e a media, que indica ideia de neutralidade [Junior and Costa 2014]. O 'N/A', nao se aplica, e utilizado caso o participante da pesquisa entenda que naquele ponto em especifico nao e possivel avaliar. O campo 'Outra resposta' pode ser utilizado para preencher com consideracoes/avaliacoes subjetivas.
+
+Resultados Esperados
+A presente pesquisa esta em desenvolvimento, entretanto, foram realizados (entre abril a maio de 2022) os levantamentos bibliograficos a aplicacao da avaliacao com participantes da Regiao Norte e Sul do Brasil. Para ser concluida, restam as analises e interpretacao dos dados, que deverao ser apoiadas com modelos de Inteligencia Artificial, para relacionar os dados obtidos pela ferramenta de rastreio e pelo Teste QUIS.
+
+Espera-se que este estudo favoreca a contextualizacao dos locus de pesquisa, possibilite a construcao de dialogo sobre inclusao digital e a relacao com a Internet destas diferentes regioes do Brasil, bem como sobre o que impacta de forma direta na UX e consumo de noticias do publico brasileiro. Esta pesquisa tambem oportuniza demonstrar de forma concreta o potencial da T2-UXT, enquanto ferramenta aliada a pesquisadores que busquem inovacoes e melhorias na UX de sites de noticias.
+
+Enquanto resultado, ainda se espera que o presente estudo aponte os principais contrastes e similaridades na UX dos publicos pesquisados junto aos sites de noticias. Assim, promovendo discussoes sobre as diferentes realidades sociais brasileiras serem (ou nao) um fator relevante na UX em sites de noticias.
+
+**CONSIDERACOES FINAIS**
+
+Apesar do protagonismo dos sites de noticias entre as formas de consumo de informaçao
+pelos brasileiros, ainda e necessario ampliar e fortalecer as pesquisas cientificas a respeito
+de UX e sites de noticias. Durante a aplicaçao da pesquisa com o publico da Regiao
+Norte e Sul do Brasil, foram aplicadas tres tarefas, que favoreciam na compreensao sobre
+a interface, organizaçao, legibilidade, facilidade de navegaçao, acessibilidade, eficiencia,
+entre outras questoes relativas aos principais sites de noticias brasileiros.
+
+Dessa forma, esse estudo em andamento tem caminhado com o objetivo de com-
+preender como se da a experiencia do usuario em sites de noticias e, principalmente,
+identificar se as diferenças sociais brasileiras interferem nesse processo. O estudo ainda
+apresenta para a comunidade cientifica uma ferramenta de rastreio que possibilita subsi-
+diar e fortalecer diferentes estudos sobre UX e sites de noticias, favorecendo inovaçoes e
+melhorias nesse campo.
+
+Apos os resultados desta investigaçao, poderao ser acrescentados estudos so-
+bre UX em sites de noticias de cada uma das regioes brasileiras e ainda favorecera na
+construçao de um guia sobre consumo de noticias e de melhorias que podem ser feitas
+para aperfeiçoar a UX na leitura destes sites.
+
+Em resumo, a presente pesquisa busca contribuir para uma melhor compreensao da experiencia do usuario em sites de noticias no Brasil, considerando as particularidades das diferentes regioes do pais. Ao identificar contrastes e similaridades na UX entre usuarios do Norte e do Sul, este estudo podera auxiliar no desenvolvimento de sites mais acessiveis e eficientes, promovendo a inclusao digital e o acesso a informaçao de qualidade para todos os brasileiros.

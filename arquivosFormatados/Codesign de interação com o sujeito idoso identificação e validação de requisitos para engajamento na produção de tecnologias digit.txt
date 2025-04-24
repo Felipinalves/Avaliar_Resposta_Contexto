@@ -1,0 +1,307 @@
+**RESUMO**
+
+O numero de pessoas idosas vem aumentando
+consideravelmente. Assim, faz-se necessario desenvolver
+estrategias para ajudar as pessoas a envelhecerem saudaveis e
+manterem a vida ativa. As tecnologias digitais podem
+contribuir para isso. No entanto, essas tecnologias nao sao
+projetadas visando as necessidades e expectativas dos idosos.
+Estimular a participaçao de idosos em processos de codesign
+de interaçao pode ser uma soluçao possivel. Contudo, engajar o
+sujeito idoso no processo de codesign e bastante desafiador.
+Este artigo apresenta nossos esforços atuais para identificar e
+validar requisitos para engajamento do sujeito idoso no
+processo de codesign de interaçao para produçao de tecnologia
+digital. Por meio de um estudo de caso em andamento, os
+primeiros resultados direcionam para uma reflexao acerca dos
+desafios e dificuldades em tornar os sujeitos idosos parceiros
+de design, alem de algumas evidencias que podem favorecer
+um engajamento mais efetivo ao longo de todo o processo.
+
+
+**INTRODUCAO**
+
+Com o envelhecimento populacional ha uma discussao
+mundial, sobre o que pode ser feito para aumentar a qualidade
+de vida dos idosos. Surge, assim, a necessidade de desenvolver
+estrategias para auxiliar pessoas idosas a se manterem
+saudaveis e ativas.
+
+A tecnologia computacional pode contribuir com o
+envelhecimento ativo e saudavel. Contudo, as interfaces de
+usuario, por serem projetadas, geralmente, sem visar as
+necessidades e expectativas do sujeito idoso, tornam a sua
+interaçao com essa tecnologia frustrante .
+
+Uma possivel soluçao para a identificaçao das necessidades da
+populaçao idosa, seria inseri-los no processo de design. Nesse
+contexto, destaca-se o Design Participativo (DP), que visa
+incluir os potenciais usuarios no processo de desenvolvimento
+do produto.
+
+Para Simonsen e Robertson , o DP esta relacionado ao
+envolvimento direto das pessoas no processo de codesign das
+tecnologias que eles usam. Esse processo, envolve nao
+designers, perguntando, ouvindo, aprendendo, comunicando e
+criando soluçoes de design de forma colaborativa . Dessa
+forma, o designer assume o papel de facilitador, sendo um
+componente essencial de um projeto de codesign bem-
+sucedido e os usuarios, sendo "especialistas em suas
+experiencias", podem se tornar parte da equipe de design .
+
+Contudo, encontrar maneiras apropriadas de engajar pessoas
+em atividades participativas se tornou um desafio importante,
+uma vez que nos processos de DP ha o envolvimento de pessoas
+de diferentes origens, experiencias, interesses e funçoes dentro
+do mesmo projeto.
+
+A maioria dos estudos baseados em praticas participativas, nao
+estabelece o envolvimento direto de potenciais usuarios e nem
+fornece diretrizes de como possibilitar tal participaçao,
+principalmente em relaçao aos sujeitos idosos.
+
+Para alguns autores, engajar o sujeito idoso no processo de DP
+ou codesign se torna desafiador . Pois, certos metodos e
+tecnicas de DP nao podem ser usados sem adaptaçoes para esse
+publico , a maioria das tecnicas nao consideram as
+barreiras cognitivas , alem dos desafios relacionados as TIC,
+pois muitos idosos nao confiam nas suas competencias
+relacionadas com as TIC, o que constitui uma forte barreira ao
+seu engajamento em atividades de TI em geral e nos processos
+de desenvolvimento.
+
+Associado a esses fatores, o sujeito idoso, pode nao estar pronto
+para participar de atividades de design sem que haja uma
+preparaçao . Dessa forma, esta pesquisa tem a seguinte
+questao norteadora: Como engajar sujeitos idosos em
+processos de codesign de interaçao? Assim, o objetivo da
+pesquisa e identificar e validar requisitos para o engajamento
+de sujeitos idosos em um processo de codesign de interaçao.
+
+Nas proximas seçoes serao apresentados a base teorica que
+fundamenta a pesquisa, alguns trabalhos relacionados, o
+percurso metodologico da pesquisa, uma descriçao do processo
+de codesign de interaçao proposto, os resultados parciais, as
+contribuiçoes esperadas e as consideraçoes parciais.
+
+**FUNDAMENTAÇAO TEORICA**
+
+Este estudo esta fundamentado nos conceitos relacionados ao
+Design de interaçao (DI), Design for All (D4A), DP, Codesing e
+ao conceito relacionado a Gerontecnologia.
+
+No contexto desta pesquisa, o DI relaciona-se com a visao
+conceitual de Lowgren e Stolmen  que se referem ao DI
+como um processo que combina açoes, escolhas e decisoes que
+afetam a vida das pessoas e as possiveis escolhas de açao, como
+tambem, relaciona-se com a perspectiva social de DI defendida
+por Baranauskas  que aborda o DI como um processo social
+em que o designer deve estar em contato com o grupo social
+que fara uso do sistema.
+
+O D4A, permeia pelo estudo como uma abordagem que visa
+ajudar a lidar com a enorme diversidade de necessidades e
+requisitos no design de tecnologias interativas .
+
+Com relaçao ao DP, este estudo, estabelece a participaçao dos
+potenciais usuarios e outras partes interessadas nas etapas do
+projeto . Assim, os participantes assumem o papel de
+usuario e de designer, tornando-se um codesigner.
+
+Dessa forma, o presente estudo se baseia tambem na
+compreensao de Sanders e Stappers e Burkett, no que
+se referem ao codesign como um processo que esta relacionado
+a criatividade de designers e nao designers, colaborando
+juntos, no processo de desenvolvimento de design.
+
+Quanto a Gerontecnologia, o presente estudo, respalda-se no
+que Graafmans se refere como principio mais importante da
+area, que e compreender que as pessoas sao muito mais do que
+apenas suas deficiencias. Nesse sentido, Harrington e
+Harrington reforçam afirmando que a area de
+Gerontecnologia enfatiza naquilo que as pessoas idosas
+querem e podem fazer, em vez de no que elas nao podem.
+
+**TRABALHOS RELACIONADOS**
+
+Dentre alguns trabalhos de pesquisa que abordam
+engajamento do sujeito idoso em processos de DP, destaca-se o
+trabalho de Lindsay et. al. que propuseram o modelo de
+processo OASIS (Arquitetura aberta para Integraçao e
+Padronizaçao de Serviços Acessiveis) composto de quatro
+etapas, para facilitar a participaçao do usuario e estimular os
+designers a envolverem o sujeito idoso no processo. Apesar dos
+autores apresentarem alguns desafios de engajamento, o OASIS
+e limitado apenas a etapa de geraçao de ideias.
+
+O estudo de Rosseland apresenta diretrizes para envolver
+idosos em DP de tecnologias de bem-estar domiciliar. As
+diretrizes sugerem que o processo de design deve ser adaptado
+as necessidades e habilidades dos participantes, como tambem,
+deve se adaptar a desafios e obstaculos imprevistos.
+
+Muriana e Hornung  tambem discutem sobre os desafios
+encontrados e liçoes aprendidas ao se trabalhar com idosos em
+processos de DP. Entre os desafios, os autores destacam que a
+nao experiencia anterior com tecnologia e o comprometimento
+cognitivo, que nao seja apenas devido a idade, influencia o
+envolvimento dessas pessoas no processo de design.
+
+Ainda que esses trabalhos apresentem diretrizes,
+recomendaçoes e desafios para engajar idosos em processos de
+DP, nenhum deles, propoe um processo de codesign de
+interaçao visando identificar e validar requisitos que podem
+favorecer o engajamento do sujeito idoso e a manutençao desse
+engajamento ao longo de todo o processo, conforme previsto
+neste estudo.
+
+Percurso Metodologico
+Esta pesquisa e conduzida por dois estudos de casos. O
+primeiro denominado estudo de caso piloto, que visa
+identificar requisitos que podem favorecer o engajamento do
+sujeito idoso e, o segundo, denominado apenas de estudo de
+caso, que tem como objetivo validar eou refinar os requisitos
+identificados no estudo-piloto, podendo identificar tambem
+novos requisitos.
+Vale ressaltar que o termo requisitos neste estudo se refere a
+condicoes necessarias para que ocorra o engajamento do
+sujeito idoso e que esse engajamento se mantenha ao longo de
+todo o processo de codesign de interacao.
+A estrutura para a conducao dos estudos de casos, foi elaborada
+com base na proposta de Miguel (Ver Figura 1). O estudo
+em questao foi submetido a Plataforma Brasil e aprovado pelo
+Comite de Etica, CAAE 17517019.2.0000.0055.
+
+Descricao da estrutura para conducao dos estudos de
+casos
+A estrutura para conducao dos estudos de casos e composta de
+oito etapas. A seguir uma breve descricao das etapas:
+
+Definir uma estrutura conceitual teorica nessa etapa
+define-se o referencial conceitual-teorica para toda a pesquisa.
+Assim, foi realizado uma revisao de literatura para identificar
+as teorias e conceitos relevantes para o estudo e um
+mapeamento sistematico que visou identificar processos de DP
+ou codesign realizados com o sujeito idoso.
+
+Planejar os estudos de casos essa etapa refere-se ao
+planejamento dos dois estudos de casos. Nessa etapa,
+seleciona-se a unidade de analise, os metodos e tecnicas de
+coleta e analise de dados.
+Para os dois estudos de casos, foi selecionada como unidade de
+analise, o Grupo de Pesquisa e Extensao em Informatica,
+Educacao e Sociedade Onda Digital, vinculado a Universidade
+Federal da Bahia UFBA e que tem como uma das acoes,
+oferecer cursos de Informatica basica para a comunidade.
+Atualmente, o Grupo Onda Digital, possui duas parcerias com
+Instituicoes que atendem pessoas idosas: O Centro de Atencao
+Psicossocial Alcool e Drogas CAPS AD Gregorio de Matos e a
+Casa Monte Alverne (Casa de Repouso exclusiva para pessoas
+idosas).
+Para o estudo de caso piloto, foi escolhido a turma pertencente
+a Casa Monte Alverne. Essa turma e constituida no total por 08
+pessoas idosas com mais de 80 anos de idade. Para o segundo
+estudo de caso, foi escolhido a turma de pessoas idosas
+atendidas no CAPS AD Gregorio de Matos.
+Quanto as tecnicas de coleta de dados, foi decidido utilizar para
+os dois estudos de casos, as seguintes tecnicas: questionarios,
+entrevistas semiestruturadas, conversas informais, notas de
+campo, gravacoes de audio e grupos focais.
+
+Executar o estudo de caso piloto Essa etapa se refere a
+coleta de dados que, por meio das tecnicas definidas na etapa
+de planejamento, visa identificar requisitos que podem
+favorecer o engajamento do sujeito idoso em um processo de
+codesign de interacao. Esse processo e uma adaptacao da
+ultima versao do SPIDe , que sera utilizado nos dois
+estudos de casos. O SPIDe e um processo de Design de Interacao
+Semioparticipativo que associa tecnicas de DP com a
+fundamentacao teorica conceitual da engenharia Semiotica.
+Inicialmente foi desenvolvido por Rosa e Matos e sua
+ultima versao com algumas alteracoes foi proposto por Zabot
+. Uma breve descricao do processo proposto neste
+trabalho, pode ser verificada na proxima Secao.
+
+Analisar os dados Nessa etapa, os dados coletados serao
+categorizados, tabulados e analisados. Para tanto, sera
+utilizado o metodo de Analise de Conteudo, para ambos os
+estudos de casos.
+
+Gerar relatorio nessa etapa, os dados sao sintetizados em
+um relatorio em que resultados e evidencias sao associados a
+teoria, podendo gerar nova teoria.
+Apos o relatorio gerado do estudo de caso piloto, inicia-se a
+execucao da coleta de dados do segundo estudo de caso, que
+visa, validar eou refinar os requisitos identificados no estudo
+de caso piloto e identificar novos possiveis requisitos. Apos a
+coleta de dados, segue para a etapa de analise, finalizando com
+a geracao de relatorio.
+A estrutura adaptada do SPIDe, consiste de um fluxo de
+processo iterativo, contendo 5 etapas, conforme apresentado
+na Figura 2. Essa versao atual do SPIDe e baseada no design
+para empoderamento do usuario proposto por Ladner . E
+como tal, o usuario participa de todas as etapas do processo. A
+seguir, uma breve descricao das etapas.
+Etapa 1 Empatia Essa etapa visa compreender e entender as
+necessidades, expectativas, pensamentos e sentimentos de
+visao de mundo do sujeito idoso, criando assim, um
+relacionamento interpessoal e construindo lacos de confianca.
+Etapa 2 Preparacao p Codesigner Essa etapa e para
+preparar os sujeitos idosos para as atividades de design de
+interacao. Nessa etapa, os sujeitos idosos recebem treinamento
+de uma tecnologia digital, compreensao do projeto de pesquisa, compreensao de elementos de interface, interacao, entre
+outros.
+Etapa 3 Analise de Contexto Nessa etapa, por meio da
+identificacao de problemas eou necessidades, define-se o
+artefato a ser ideado, alem de, conhecer como os sujeitos idosos
+solucionam problemas e o seu contexto.
+Etapa 4 Engenharia de interface Nessa etapa sao produzidos
+prototipos de design de interacao pelos sujeitos idosos.
+Etapa 5 Avaliacao nessa etapa, o prototipo produzido
+anteriormente e avaliado pelos sujeitos idosos.
+Como foco do estudo, o engajamento do sujeito idoso sera
+analisado e avaliado ao longo de todo o processo, por meio, de
+um instrumento de avaliacao de engajamento.
+
+Resultados Parciais e Contribuicoes
+Um mapeamento sistematico foi conduzido para identificar
+estudos que descrevem etapas de processos de DP realizados
+com idosos. Os resultados desse mapeamento mostraram que:
+i) a maioria dos estudos focalizaram mais no produto gerado
+do que no proprio processo; ii) o engajamento de idosos e
+discutido de forma superficial, com uma discussao direcionada
+aos desafios e licoes aprendidas; iii) algumas recomendacoes
+gerais sao sugeridas para conduzir o processo de DP com
+pessoas idosas e iv) nenhum estudo discutiu como estabelecer
+e manter o engajamento do sujeito idoso no processo de
+codesign de interacao, conforme propoe o presente estudo.
+As etapas iniciais (empatia e preparacao p codesigner) ja
+foram realizadas e a etapa de definicao de artefato esta em
+andamento. Resultados iniciais apontam alguns desafios e
+trazem evidencias da importancia dessas etapas, como
+possibilidades de contribuicao no engajamento do sujeito idoso
+ao longo de todo o processo de codesign de interacao.
+Espera-se que esta pesquisa contribua com: i) Construcao de
+interfaces mais acessiveis, possibilitando sistemas com melhor
+qualidade, aceitacao e maior satisfacao pelo sujeito idoso; ii)
+Discussao sobre engajamento do sujeito idoso em processo de
+codesign de interacao; iii) Requisitos para o engajamento do
+sujeito idoso em processo de codesign de interacao; iv)
+Elementos epistemologicos para desenvolvimento de metodos
+e processos de design de interacao inclusivos.
+
+**CONSIDERAÇOES PARCIAIS**
+
+Neste artigo, apresentou-se um projeto de doutorado em
+desenvolvimento. Acredita-se que os problemas e desafios de
+engajamento do sujeito idoso em um processo de codesign de
+interaçao, possam ser minimizados, por meio de praticas
+participativas que possibilitem ao sujeito idoso, inicialmente,
+melhorar suas habilidades em TIC, a compreensao das etapas e
+percepçao da importancia e relevancia da sua participaçao no
+contexto do processo e o quanto isso pode ressignificar o seu
+projeto de vida, promovendo assim, o seu engajamento.
+
+**CONSIDERACOES PARCIAIS**
+
+Este artigo apresentou os resultados parciais de uma pesquisa de doutorado que busca investigar como engajar idosos em processos de codesign de interacao. Os resultados iniciais indicam que a abordagem CTS pode ser uma estrategia promissora para promover o engajamento e a participaçao ativa dos idosos no desenvolvimento de tecnologias digitais mais adequadas as suas necessidades e expectativas. A pesquisa em andamento busca aprofundar a investigaçao sobre os requisitos para o engajamento e validar as estrategias propostas, contribuindo para a construçao de um processo de codesign mais inclusivo e participativo para a populaçao idosa.

@@ -1,0 +1,377 @@
+**INTRODUCAO**
+
+O avanco tecnologico permitiu o crescimento de uma sociedade cada vez mais conectada, realizando atividades diarias mediadas principalmente por seus dispositivos moveis. As duas principais plataformas digitais que usuarios podem navegar e fazer download de aplicativos, somam, juntas, mais de 5 milhoes de aplicativos ativos para download: mais de 3.5 milhoes na Google Play, de aplicativos Android; e 2.2 milhoes na App Store, de aplicativos iOS.
+
+As aplicacoes sao utilizadas para diversos fins, como atividades de lazer, negocio, educacao e saude, areas estas que possuem cada uma sua propria categoria e aplicativos relacionados na loja da Google Play. A area de saude, por exemplo, possui mais de 100 mil aplicativos disponiveis para download. Todavia, essa grande quantidade de aplicativos nao significa que as funcionalidades e as interacoes projetadas entre usuarios e esses sistemas moveis tem sido de qualidade.
+
+Ao projetar e avaliar essas tecnologias, novos desafios, nao presentes no paradigma tradicional de computacao desktop se fizeram presentes na plataforma movel. Por exemplo, telas menores, conectividade limitada, consumo de bateria elevado e modalidades de entrada de dados limitadas sao alguns destes. Estas propriedades sao barreiras para se projetar aplicativos que sejam uteis e faceis de usar para toda a populacao. Neste sentido, diversas recomendacoes dao suporte ao projetista para avaliar e projetar aplicativos moveis, dando destaque as questoes de usabilidade. Jacob Nielsen definiu usabilidade como um atributo de qualidade que diz quao facil uma interface e de ser utilizada, tambem se referindo aos metodos para aprimorar a facilidade de uso durante o processo de design.
+
+O mundo social, no qual os aplicativos sao utilizados, possui suas complexidades proprias. A relacao entre usuario, sociedade e sistema pode ser unica para cada individuo. No ambiente de saude, aponta-se um paradoxo de tomada de decisao, nos quais individuos sao cada vez mais desafiados a fazerem escolhas saudaveis de estilo de vida, alem de gerenciar sua vida e de familiares por meio de ambientes e sistemas de assistencia medica complexos, mas nao estao preparados ou apoiados bem em lidar com essas tarefas. Este paradoxo contribui para uma chamada crise de literacia em saude, isto e, individuos possuem fraco conhecimento, motivacao e competencias para acessar, compreender, avaliar e aplicar informacoes de saude para fazer julgamentos e tomar decisoes sobre cuidados, prevencao de doencas e promocao de saude.
+
+Neste contexto, caso a aplicacao nao seja projetada para ser util, ou seja, de facil compreensao e utilizacao por uma grande quantidade de pessoas, essa tecnologia pode ser mais um agravante na falta de literacia em saude, alem de proporcionar uma maior exclusao social aos seus beneficios. Dessa forma, o acolhimento, acesso e acessibilidade se configura como um aspecto importante na relacao do individuo e sua saude, no qual pesquisas apontam que e preciso qualificar os trabalhadores para escutar, dialogar, amparar, orientar, negociar, entre outros, de modo a buscar uma relacao acolhedora e humanizada para prover saude nos niveis individuais e coletivos.
+
+Este trabalho investiga os problemas relacionados a
+usabilidade em uma aplicaçao movel de acesso a serviços
+do Sistema Unico de Saude (SUS) brasileiro. Para isso,
+utiliza-se um conjunto de heuristicas composto a partir das
+tecnicas de avaliaçao de usabilidade de inspeçao de
+usabilidade: Heuristicas de Nielsen , Oito Regras
+de Ouro (Golden Rules - GR) de Shneiderman , e as
+Heuristicas de Usabilidade de Smartphones (SMArtphone's
+uSability Heuristics - SMASH) .
+
+Este trabalho esta organizado da seguinte forma: na seçao 2
+apresenta-se
+os fundamentos necessarios para o
+entendimento do contexto de trabalho, como o aplicativo
+movel avaliado e discussao sobre avaliaçao de usabilidade e
+metodos de inspeçao utilizados. Na seçao 3, apresenta-se a
+metodologia de todo o processo de inspeçao de usabilidade,
+como a configuraçao tecnologica, numero de especialistas e
+o percurso teorico. Na seçao 4, apresenta-se os resultados e
+a discussao advindos a partir da inspeçao de usabilidade.
+Por fim, na seçao 5, estao as consideraçoes finais e
+trabalhos futuros, que envolvem a avaliaçao de
+acessibilidade e sob a otica social.
+
+**FUNDAMENTACAO**
+
+Esta seçao apresenta os metodos para a avaliaçao de
+usabilidade do aplicativo movel, 'Saude Ja - Curitiba' e,
+posteriormente, uma breve discussao sobre usabilidade em
+aplicativos moveis e os metodos de avaliaçao existentes.
+
+O aplicativo denominado "Saude Ja Curitiba" foi
+desenvolvido pelo Instituto das Cidades Inteligentes
+visando atender as Unidades Municipais de Saude (UMS)
+da cidade de Curitiba. Este aplicativo foi disponibilizado
+pela Prefeitura Municipal de Curitiba no dia 14 de abril de
+2017 e objetiva permitir aos cidadaos residentes em
+Curitiba, realizar o agendamento de atendimentos como:
+pre cadastramento de alguns dados para agilizar o cadastro
+para o cartao do Sistema Unico de Saude (SUS);
+Agendamento para o Atendimento Clinico e/ou
+Odontologico para o usuario responsavel e dependentes
+(obs: apenas a primeira consulta); visualizaçao de dados
+referentes a carteira de vacinaçao como, vacinas em atraso e
+aplicadas, alem de visualizaçao da Unidade Municipal de
+Saude mais proxima. A Figura 1 apresenta algumas das
+principais interfaces do aplicativo.
+
+O aplicativo esta disponivel para os Sistemas Operacionais SO movel Android na Google Play e iOS na App Store, alem de possuir uma versao web. O aplicativo se encontra atualmente na sua versao 3.0, e possui nota media de 2.6 estrelas (minimo de 0 e maximo de 5) em ambas as plataformas de download de aplicativos, Google Play e App Store, sendo 0 - nao avaliado; 1 - pessimo; 2 - nao gostei; 3 - e satisfatorio; 4 - gostei; e 5 - amei.
+
+E importante ressaltar que o aplicativo Saude Ja - Curitiba possui mais de cem mil downloads na Google Play, contando com aproximadamente 600 avaliacoes, possuindo uma grande concentracao de avaliacoes como 1 estrela e 5 estrelas. Na plataforma da Google Play foi possivel ver que algumas insatisfacoes por parte dos usuarios se repetiam nas avaliacoes, sendo as principais delas:
+
+Nao ter horariosvagas disponiveis;
+Mesmo o aplicativo propondo que voce poderia realizar agendamentos por meio do aplicativo, para muitos usuarios aparecia uma mensagem que pedia que o mesmo fosse na UMS para fazer o agendamento;
+Muitos ficaram insatisfeitos pelo fato do aplicativo so permitir o agendamento de triagem, nao de consulta medica, o que alem de ir contra a expectativa dos usuarios, nao auxilia muito o processo de desburocratizacao das consultas, ja que o paciente e obrigado a esperar presencialmente de qualquer forma na UMS;
+Nao possui cadastro de todas as UMS de Curitiba, o que nao cumpre com a demanda de usuarios;
+A falta de pessoal nas UMS para tirar duvidas referentes ao aplicativo;
+A inutilizacao do aplicativo, pois algumas UMS cadastradas no aplicativo nao estavam utilizando o aplicativo efetivamente.
+Na App Store, haviam apenas 13 avaliacoes, em sua maioria de 1 estrela. O comentario mais frequente foi justamente o aplicativo apenas agendar uma triagem com enfermeira, e nao consulta com medico. Ha alguns outros aplicativos baseados no mesmo modelo do Saude Ja - Curitiba na Google Play, ou seja, agendamentovisualizacao de consultas por meio do cadastro no SUS, sendo eles:
+
+Meu digiSUS (Nacional);
+Saude Ja: Consultas e Exames (Estado do Rio de Janeiro);
+Agenda Facil (Prefeitura-SP);
+De olho na consulta (Jaboatao dos Guarapes);
+PrimeAgenda - Agendamento de Consultas (Nacional);
+Net Consulta (Goiania);
+O aplicativo Saude Ja - Curitiba foi priorizado por ser o aplicativo oficial adotado pelo sistema publico de saude no municipio de Curitiba
+
+Usabilidade, a principio, foi definida por Nielsen em 5
+componentes de qualidade: Aprendizagem - facilidade de
+realizar tarefas basicas na primeira vez que encontram o
+design; Eficiencia - rapidez da execuçao de tarefas apos
+aprendizado do design; Memorabilidade facilidade de
+restabelecimento da proficiencia de uso apos certo periodo
+sem utilizaçao; Erros - severidade dos erros e facilidade de
+recuperaçao dos mesmos; e Satisfaçao - quao agradavel e
+usar o design. A utilidade e um atributo que nao faz parte
+da usabilidade, mas e apontada como igualmente
+importante: a utilidade, isto e, se o design fornece os
+recursos de que voce precisa .
+
+Contudo, esta usabilidade definida por Nielsen foi
+concebida em ambientes desktops, no qual o advento da
+computaçao movel trouxe novos desafios para se pensar
+usabilidade. Baharuddin et al. apontam 10 dimensoes de
+usabilidade no contexto movel, retiradas de uma revisao
+sistematica de trabalhos empiricos de usabilidade movel,
+que devem ser destacadas na concepçao e avaliaçao de um
+produto:
+Eficacia, Eficiencia, Satisfaçao, Utilidade,
+Estetica, Habilidade de Aprendizado, Simplicidade,
+Intuitividade, Compreensibilidade e Atratividade. Por fim,
+aponta 4 fatores contextuais que devem ser entendidos e
+priorizados para determinar quais dimensoes de usabilidade
+serao consideradas no processo de design e avaliaçao de
+produtos: usuario (perfil de usuario e informaçoes
+demograficas), ambiente (tecnologia pode ser utilizada em
+diferentes contextos), tecnologia (fraquezas e beneficios de
+cada dispositivo) e tarefa/atividade.
+
+O trabalho de Harrison et al. tambem identificou em seu
+modelo de usabilidade movel PACMAD (People At the
+Centre of Mobile Application Development), fatores que
+impactam no design de aplicaçoes moveis: usuario
+(experiencia previa, habilidades motoras), tarefa (objetivo
+do usuario e complexidade da tarefa) e contexto de uso
+(ambiente e contexto que usuario utiliza a aplicaçao).
+Harrison et al. tambem apontam 7 atributos que refletem
+a usabilidade da aplicaçao e podem ser utilizados para
+medir a usabilidade de uma aplicaçao: Eficacia, Eficiencia,
+Satisfaçao, Aprendizagem, Memorabilidade, Erros e Carga
+cognitiva.
+
+Os fatores e dimensoes de usabilidade serao considerados
+no desenvolvimento deste trabalho, mais especificamente
+na avaliaçao de usabilidade de um aplicativo movel,
+construindo uma analise que vai alem de problemas
+encontrados e soluçoes sugeridas.
+
+A avaliaçao de usabilidade e importante pois auxilia a
+informar o design em questoes como a identificaçao de
+deficiencias; eliminaçao de problemas de design e
+contribuiçao na melhoria da lucratividade .
+
+Inspeçao de usabilidade e o nome generico para um
+conjunto de metodos baseados em inspeçoes de interfaces
+por meio de avaliadores e tem como objetivo encontrar
+problemas de usabilidade em um projeto, alem de apontar a
+gravidade destes problemas . Estes metodos podem ser a
+avaliaçao heuristica, o percurso cognitivo, inspeçao de
+consistencia e padroes, entre outros . O metodo de
+avaliaçao heuristica foi utilizado neste trabalho pela
+familiaridade dos especialistas com o metodo e pela sua
+eficacia relatada em avaliaçoes encontradas na literatura
+.
+
+A avaliaçao heuristica tambem pode ser entendida como o
+metodo mais informal dentre os metodos de inspeçao, e
+envolve que os especialistas em usabilidade avaliem se cada
+elemento de dialogo segue os principios de usabilidade
+estabelecidos (heuristicas) . A avaliaçao heuristica
+tambem pode ser entendida como a analise de um produto
+ou sistema, por um especialista em usabilidade ou fatores
+humanos com pouco ou nenhum envolvimento com o
+projeto, realizando sua analise de acordo com principios de
+usabilidade ou previa experiencia profissional .
+
+Os metodos de inspeçao descritos abaixo foram utilizados
+no desenvolvimento deste trabalho, e podem ser todos
+caracterizados como metodos de inspeçao de usabilidade:
+NH, GR e SMASH.
+
+Heuristica de Nielsen (HN)
+
+As heuristicas de usabilidade de Nielsen  sao utilizadas
+em uma avaliaçao heuristica, em que a avaliaçao e realizada
+por um conjunto de avaliadores que verificam os aspectos
+de usabilidade de uma interface. Cada avaliador pode
+decidir por conta propria o fluxo de navegaçao no
+aplicativo, porem, e recomendado que passe pela mesma
+interface pelo menos duas vezes. Cada violaçao de
+usabilidade deve ser detalhada, discutida, classificada e
+apresentada uma possivel soluçao.
+
+Sao dez as heuristicas de usabilidade de Nielsen:
+
+1. Visibilidade do estado do sistema. o sistema deve
+manter o usuario informado sobre o que esta
+acontecendo por meio de feedback adequado
+dentro de um tempo razoavel;
+2. Consistencia entre o sistema e o mundo real. o
+sistema deve usar termos familiares ao usuario em
+vez de termos orientados ao sistema. Deve seguir
+convençoes do mundo real de modo que as
+informaçoes sejam disponibilizadas em uma
+ordem sequencial e logica.
+3. Controle do usuario e liberdade. fornecer saidas de
+emergencia para açoes equivocadas dos usuarios
+(como funçoes de fazer e desfazer).
+4. Consistencia e padroes. usuarios nao devem
+adivinhar que diferentes palavras, situaçoes ou
+açoes significam a mesma coisa, como tambem,
+deve seguir uma convençao em todo a plataforma.
+5. Prevençao de Erros. o erro deve ser prevenido
+antes de acontecer, portanto, devem ser eliminadas
+as condiçoes que levem.
+6. Reconhecimento em vez de lembrança. objetos,
+açoes e opçoes devem ser visiveis, assim, o
+usuario nao precisa ficar lembrando informaçoes
+de uma parte do dialogo ou outra. As instruçoes
+devem estar visiveis ou ser facilmente
+recuperaveis sempre que necessario.
+7. Flexibilidade e eficiencia de uso. o sistema deve
+promover meios para usuarios experientes
+acelerem (atalhos) a interaçao, bem como, apoiar
+novos usuarios.
+8. Estetica e design minimalista. dialogos nao devem
+conter informaçoes irrelevantes ou raramente
+necessaria. Portanto, o sistema deve exibir apenas
+as informaçoes que sejam importantes e essenciais.
+9. Ajuda a reconhecer, diagnosticar e recuperar de
+erros. as mensagens de erro devem ser expressas
+com linguagem clara, indicando o problema e
+consecutivamente sugerindo uma soluçao.
+10. Help e documentaçao. e necessario disponibilizar
+help e documentaçao aos usuarios, essas
+informaçoes devem ser de facil acesso, ser
+focalizadas nas tarefas e nao devem ser extensas.
+
+Entretanto, segundo Rocha e Baranauskas  e possivel
+estender o conjunto de heuristicas e incorpora-las a outras
+que sejam especificas ao dominio do sistema avaliado. Essa
+uniao de heuristica e permitida pelo metodo de avaliaçao.
+
+Oito Regras de Ouro (GR)
+Em , Shneiderman propoe uma lista de principios de design que formam as Oito Regras de Ouro de Design de Interfaces. Tais regras fornecem orientacoes sobre como utilizar aspectos intrinsecos a interface de forma adequada para melhorar a usabilidade. Cada principio possui uma breve descricao que explica as suas propriedades, alem de exemplos de como implementa-los. As regras se assemelham as heuristicas de Nielsen, tendo como diferencial a abordagem contextual do uso de dialogos na interface. Os principais dialogos expressam a importancia de fornecer aos usuarios uma sequencia clara de acoes, bem como um feedback adequado quando um grupo de acoes e concluido.
+
+As Oito Regras de Ouro podem ser vistas como heuristicas que servem tanto para o projeto de interfaces, como para avaliar a usabilidade proporcionada pela mesma. As Oito Regras de Ouro de Shneiderman para o design de interfaces sao:
+
+Lute pela consistencia. As mesmas sequencias de acoes devem ser requeridas em situacoes semelhantes dentro do sistema sendo a terminologia usada em dialogos de prompts, menus, telas de ajuda, etc. deve ser identica e padroes de consistencia devem ser empregados por toda parte;
+
+Permitir que usuarios frequentes usem atalhos. A medida que a frequencia de uso aumenta, o usuario tambem deseja reduzir o numero de interacoes e aumentar o ritmo de interacao. Abreviacoes, teclas de funcao, comandos ocultos e recursos de macro sao muito uteis para um usuario experiente;
+
+Oferecer feedback informativo. Para cada acao do operador, deve haver algum feedback do sistema, ja para acoes frequentes e secundarias, a resposta pode ser modesta, enquanto que, para acoes infrequentes e importantes, a resposta deve ser mais substancial;
+
+Projete a caixa de dialogo para gerar o fechamento. Sequencias de acoes devem ser organizadas em grupos com inicio, meio e fim. O feedback informativo na conclusao de um grupo de acoes da aos operadores a satisfacao de realizacao, uma sensacao de alivio, o sinal para descartar planos e opcoes de contingencia de suas mentes e uma indicacao de que o caminho e claro para se preparar para o proximo grupo de acoes;
+
+Oferecer tratamento de erros simples. Tanto quanto possivel, projete o sistema para que o usuario nao cometa erros graves. Se um erro for cometido, o sistema deve ser capaz de detectar o erro e oferecer mecanismos simples e compreensiveis para lidar com o erro;
+
+Permitir reversao facil de acoes. Esse recurso alivia a ansiedade, pois o usuario sabe que os erros podem ser desfeitos; Assim, incentiva a exploracao de opcoes desconhecidas. As unidades de reversibilidade podem ser uma unica acao, uma entrada de dados ou um grupo completo de acoes;
+
+Suporte locus interno de controle. Operadores experientes desejam fortemente a sensacao de que eles sao responsaveis pelo sistema e que o sistema responde as suas acoes. Projete o sistema para tornar os usuarios os iniciadores de acoes, em vez de os respondentes;
+
+Reduza a carga da memoria de curto prazo. A limitacao do processamento de informacoes humanas na memoria de curto prazo requer que as exibicoes sejam mantidas simples, que varias exibicoes de pagina sejam consolidadas, que a frequencia de movimento de janelas seja reduzida e que um tempo de treinamento suficiente seja atribuido a codigos, mnemonicos e sequencias de acoes.
+As 8 regras de ouro nao foram projetadas para aplicacao em dispositivos moveis, porem, as pesquisas realizadas por Gong e Tarasewich sugerem que quatro das diretrizes da Shneiderman se traduzem prontamente em dispositivos moveis, sendo: permitir que usuarios frequentes usem atalhos; oferecendo feedback informativo; projetando dialogos para gerar fechamento e apoiar o locus interno de controle. Sendo assim, as regras propostas por Schneiderman tornam-se atraentes para aplicacao na avaliacao de usabilidade do aplicativo escolhido.
+
+SMASH
+As Heuristicas de Usabilidade de Smartphones (SMArtphones uSability Heuristics - SMASH), sao um conjunto de 12 heuristicas de usabilidade para smartphones e aplicacoes moveis, desenvolvido de forma iterativa por Inostroza et al. . As heuristicas sao padronizadas em sua descricao por meio de identificador, nome, definicao, explicacao, exemplos, beneficios e problemas associados a erros de interpretacao. As heuristicas SMASH sao:
+
+SMASH1: visibilidade do status do sistema: O dispositivo deve manter o usuario informado sobre todos os processos e alteracoes de estado por meio de feedback e em um tempo razoavel;
+
+SMASH2: correspondencia entre o sistema e o mundo real: O dispositivo deve falar o idioma dos usuarios em vez de conceitos e detalhes tecnicos do sistema. O dispositivo deve seguir as convencoes do mundo real e exibir as informacoes em uma ordem logica e natural;
+
+SMASH3: controle de usuario e liberdade: O dispositivo deve permitir que o usuario desfaca e refaca suas acoes, e fornecer saidas de emergencia claramente apontadas para deixar estados. Estas opcoes devem estar disponiveis preferencialmente por meio de um botao ou equivalente;
+
+SMASH4: consistencia e padroes: O dispositivo deve seguir as convencoes estabelecidas, permitindo que o usuario para fazer as coisas de forma familiar, padrao e consistente;
+
+SMASH5: prevencao de erros: O dispositivo deve ocultar ou desativar funcionalidades indisponiveis, avisar os usuarios sobre acoes criticas e fornecer acesso a em formacao;
+
+SMASH6: minimize a carga de memoria do usuario: O dispositivo deve oferecer objetos, acoes e opcoes visiveis para impedir que os usuarios tenham que memorizar informacoes de uma parte do dialogo para outro;
+
+SMASH7: personalizacao e atalhos: O dispositivo deve fornecer opcoes basicas e avancadas de configuracao, permitir a definicao e personalizacao de atalhos para acoes frequentes;
+
+SMASH8: eficiencia de uso e desempenho: O dispositivo deve ser capaz de carregar e exibir as informacoes necessarias em um tempo razoavel e minimizar as etapas necessarias para executar uma tarefa. Animacoes e transicoes devem ser exibidas sem problemas;
+
+SMASH9: design estetico e minimalista: O dispositivo deve evitar exibir informacoes indesejadas sobrecarregando a tela;
+
+SMASH10: ajude os usuarios a reconhecer, diagnosticar e recuperar erros: O dispositivo deve exibir mensagens de erro em um idioma familiar ao usuario, indicando o problema de maneira precisa e sugerindo uma solucao construtiva;
+
+SMASH11: ajuda e documentacao: O dispositivo deve fornecer documentacao e ajuda faceis de encontrar, centrado na tarefa atual do usuario e indicando etapas concretas para seguir;
+
+SMASH12: interacao fisica e ergonomia: O dispositivo deve fornecer botoes fisicos ou equivalentes para principais funcionalidades, localizadas em posicoes reconheciveis pelo usuario, que deve caber a postura natural e alcance da mao dominante do usuario.
+
+As heuristicas SMASH possuem pontos de analise semelhantes ao das heuristicas de Nielsen. No processo de construcao da SMASH, foram realizadas inspecoes para encontrar problemas de usabilidade, verificando quais destes problemas eram associados as heuristicas de Nielsen e quais nao, sendo estes ultimos analisados cuidadosamente para o surgimento da SMASH.
+
+Cada heuristica SMASH possui uma explicacao detalhada especifica do contexto movel, que auxilia na compreensao de problemas alem daquilo que as heuristicas de Nielsen descrevem.
+
+Por exemplo, na heuristica SMASH6: minimize a carga de memoria do usuario, ha uma descricao que vai alem da explicacao da heuristica de Nielsen equivalente (6 - Reconhecimento ao inves de lembranca): Ao falar de dispositivos moveis, o tamanho de tela limitado coloca os designers em uma posicao dificil em relacao a quais elementos da interface devem ser ocultados ou minimizados. Neste sentido, e importante que informacoes sensiveis sejam colocadas em um lugar visivel. Usuarios nao deveriam escrever texto de uma parte do sistema para outra; nesses dispositivos e melhor selecionar e copiar do que escrever.
+
+Apesar dos diversos ciclos de iteracao de avaliacao e verificacao das heuristicas, os autores citam que ha necessidade de mais testes para uma melhor validacao das heuristicas propostas.
+
+
+METODOLOGIA
+
+Apos o levantamento do referencial teorico sobre avaliacao de usabilidade em dispositivos moveis, optou-se pela utilizacao da tecnica de avaliacao heuristica, por ser uma tecnica flexivel, permitindo avaliacoes individuais por especialistas, com baixo tempo e recursos utilizados. Dos trabalhos encontrados no campo de avaliacao heuristica de usabilidade em contextos de saude, verificou-se alguns estudos que utilizavam das heuristicas de Nielsen e as 8 regras de ouro de Shneiderman . No contexto de avaliacao movel, verificou-se a existencia de heuristicas inspiradas e adaptadas daquelas pensadas no contexto desktop .
+
+
+Este trabalho adotou um percurso metodologico inspirado
+nestes trabalhos, a partir da metodologia utilizada por
+Savoy et al. , na medida em que utilizaram uma
+consolidaçao de heuristicas de fontes diferentes (10
+heuristicas de Nielsen e 8 regras de ouro) para encontrar um
+maior numero de problemas. Neste trabalho, utilizou-se
+destas mesmas heuristicas, com adiçao de 12 heuristicas
+especificas do contexto movel - SMASH .
+
+Deste modo, os 3 conjuntos de heuristicas sendo as 10
+heuristicas de Nielsen, 8 regras de ouro de Shneiderman e
+SMASH foram reunidos e discutidos com o grupo
+composto de 5 especialistas, que verificaram equivalencias
+entre as heuristicas e as agruparam de acordo com suas
+semelhancas. As heuristicas que nao obtiveram
+equivalencia tambem foram consideradas para o conjunto
+final. Ao final do processo, definiu-se 14 heuristicas para
+avaliacao de usabilidade em contextos moveis. As
+heuristicas sao compostas por uma descricao especifica e
+consolidada, que principalmente busca apoiar a avaliacao
+de aplicativos moveis. A Figura 2 sintetiza essas heuristicas
+em grupos definidos pela afinidade, bem como uma colecao
+de exemplos, utilizadas nesta avaliacao.
+
+O grau de severidade atribuido as violacoes seguiu as recomendacoes de Nielsen , em que o grau e constituido pela combinacao de tres fatores: frequencia que o problema ocorre, impacto do problema caso ele ocorra e a persistencia do problema.
+
+Deste modo, quando o problema nao ser considerado um problema de usabilidade tem-se Nao concordo que seja um problema de usabilidade, com severidade 0; caso a correcao deva ser realizada apenas se tempo extra e disponivel no projeto, tem-se Problema cosmetico apenas, com severidade 1; no caso de correcao com baixa prioridade, tem-se Problema menor de usabilidade, com severidade 2; importancia de correcao tem-se Problema maior de usabilidade, com severidade 3; e imperativa a correcao antes do lancamento do produto, tem-se Catastrofe de usabilidade, com severidade 4.
+
+Configuracao da Avaliacao
+
+A avaliacao foi conduzida por 5 especialistas, sendo 4 estudantes e 1 professora orientadora, os quais tambem estavam envolvidos na construcao das 14 heuristicas finais. Todos os especialistas possuem graduacao em Ciencia da Computacao e cursam pos-graduacao Strictu Sensu, sendo que 3 estao no Mestrado e 2 no Doutorado (incluindo a professora orientadora).
+
+Destes avaliadores, 3 possuam tempo de experiencia recente (contato menor que 6 meses) na area de usabilidade e avaliacao heuristica. Os avaliadores restantes possuam um tempo de experiencia maior que de 2 anos. A avaliacao foi realizada com 4 smartphones com sistema operacional Android, utilizando o aplicativo da versao da Google Play (versao 3.0); e 1 smartphone com sistema operacional iOS, com aplicativo da versao da App Store (versao 3.0).
+
+Toda a porcao de interfaces do aplicativo foi considerada na avaliacao, isto e, todas as telas da aplicacao foram consideradas para a avaliacao heuristica. Deste modo, os especialistas inspecionaram as telas envolvidas nas funcionalidades de agendamento do Primeiro Atendimento de Enfermagem, Odontologia; Carteira de Vacinacao; Mensagens; Minha Unidade; Consultas/Exames; Editar Perfil; Sobre; e Meus Dependentes.
+
+A avaliacao foi conduzida pelos especialistas nos dias 21 e 22 de abril de 2018, no qual os especialistas realizaram avaliacoes individuais. O tempo efetivo usado por cada especialista se constituiu de duas sessoes de ate 1 hora, no maximo.
+
+Apos, o grupo de especialistas voltou a se reunir e apresentou as falhas encontradas individualmente. Cada especialista apresentou os defeitos encontrados, as heuristicas violadas, o grau de severidade e uma sugestao para a correcao. Em seguida, o grupo era consultado sobre a inclusao ou nao do erro na lista final de violacoes e do grau de severidade, e quando necessario eram realizadas adequacoes. As adequacoes foram realizadas por meio de discussao em grupo sobre o problema ser de fato um problema; sobre qual heuristica o problema se referia; e sobre o valor do grau de severidade do problema.
+
+RESULTADOS E DISCUSSOES
+
+Na Figura 3 e apresentada a quantidade de problemas de usabilidade encontrados pelos 5 avaliadores, no total de 46 problemas de usabilidade no aplicativo Saude Ja - Curitiba. Dentre os 46 problemas, 10 foram encontrados por dois ou mais avaliadores, restando assim 36 problemas que foram encontrados somente por um unico avaliador.
+
+Resumindo os problemas unicos, ou seja, eliminando as repeticoes e considerando apenas os problemas encontrados somente por um avaliador, sao:
+
+AV1: 6 problemas 4 unicos;
+AV2: 9 problemas 5 unicos;
+AV3: 18 problemas 10 unicos;
+AV4: 11 problemas 7 unicos;
+AV5: 16 problemas 10 unicos;
+
+A lista com todos os problemas encontrados, e propostas de solucao encontra-se no link de rodape.
+
+Dentre os 46 problemas de usabilidade foram consolidados entre os avaliadores, as heuristicas que apresentaram maior incidencia de erros foram a H2 (Compatibilidade do sistema com o mundo real), com 16 incidencias, H1 (Visibilidade do status do sistema), com 13 incidencias e H4 (Consistencia e padroes), com 10 incidencias. A Figura 4 apresenta a quantidade de incidencias de erros encontrados por heuristica.
+
+Analisando esses resultados, e possivel inferir que o aplicativo Saude Ja - Curitiba apresentou problemas relacionados a: falta de feedback adequado ao usuario, dificultando a visualizacao e orientacao do usuario, como por exemplo apresentando mensagens de erros numa fonte muito pequena ou botoes/opcoes dificeis de se visualizar, seja pela cor ou pela falta de contraste com o fundo do aplicativo. As mensagens enviadas devem ter fontes maiores e serem interativas ao toque, fazendo com que o sistema fique ao controle do usuario.
+
+Problemas relacionados a falta de padronizacao interna, tambem foram identificados, causando confusao e uma maior incidencia de erros por parte do usuario, como apresentar botoes com a cor preta e outros com a cor cinza, causando confusao sobre a possibilidade de clique, ou inconsistencias entre textos e imagens. A correcao indicada e trocar a cor cinza de alguns botoes que levam as funcionalidades, a fim de promover maior evidencia possibilidade de clique.
+
+Por exemplo, na Figura 5, e possivel verificar a diferenca entre estilos de mensagens dentro do aplicativo, sem manter um padrao, em que a mensagem de Nao existem vacinas aplicadas e de estilo padrao do sistema operacional Android, e a segunda mensagem Informacoes atualizadas com sucesso, e estilo do aplicativo. A correcao indicada e que se utilize o estilo de mensagens padrao do aplicativo, onde ha possibilidade de aumentar o tamanho da fonte e promover maior contraste, bem como ser um modo de interacao com maior controle do usuario, por escolher quando fechar as mensagens.
+
+Em relacao a falta de consistencia com convencoes do mundo real, o aplicativo tem opcoes de design incomuns, gerando interpretacoes incorretas por parte do usuario, como por exemplo o aplicativo nao permitir dar zoom na carteira de vacinacao utilizando os dedos ou apresentando uma barra de rolagem horizontal, o que nao e comum para aplicacoes moveis. A Figura 6 ilustra o exemplo em que e utilizada a cor vermelha para dar destaque a foto do usuario, ao mesmo tempo em que usa a cor azul. A cor vermelha pode dar ideia de que algo esta incorreto, ou que nao foi feito corretamente.
+
+A correcao indicada e fazer a mudanca da utilizacao da cor vermelha no aplicativo, utilizando-as somente em casos onde alguma inconsistencia foi percebida, por exemplo na insercao incorreta de campos de cadastro. No caso desta tela de Agendamentos, trocar a cor vermelha por uma cor neutra, ou retirar totalmente esta cor que circula a foto de perfil.
+
+Os especialistas encontraram problemas referentes a Ajuda e Documentacao, pois falta informacoes adicionais para entendimento do aplicativo, seja uma tela de questoes frequentes, ou um documento referente as principais funcionalidades do aplicativo.
+
+A adicao de Ajuda e Documentacao poderia minimizar a possibilidade de nao realizacao de funcionalidades no aplicativo, por exemplo a opcao de adicao e exclusao de dependentes. A funcionalidade de dependentes no app e de dificil localizacao, ficando oculta no primeiro momento de utilizacao do aplicativo, ilustrada na Figura 7. Esta opcao de adicao e exclusao de dependentes deve tambem ficar em posicao de destaque no aplicativo, acessivel a apenas um toque em tela. Da maneira que esta, pode passar despercebida por usuarios.
+
+Todas as outras heuristicas apresentaram incidencia de erros, apesar de nao apresentarem a mesma quantidade de erros em relacao as H1, H2 e H4. As heuristicas que apresentaram a menor incidencia de erros (apenas 1 erro de usabilidade) foram a H6 (Reconhecimento ao inves de lembranca) e a H12 (Interacao fisica e Ergonomia).
+
+Isso mostra que o aplicativo Saude Ja - Curitiba apresenta uma boa quantidade de objetos/opcoes que evitam que o usuario tenha que gravar informacoes, como descricoes de funcionalidades do aplicativo e apresenta na sua maioria objetos/opcoes alcancaveis pela mao dominante do usuario, um fator crucial para uma boa ergonomia.
+
+Todos os 46 problemas de usabilidades encontrados foram classificados utilizando os graus de severidade de Nielsen. A Figura 8 apresenta o quantitativo de problemas de usabilidade por Grau de Severidade, sendo o GS2 (Problema menor de usabilidade), o que apresenta a maior quantidade de problemas de usabilidade, cerca de 24. Assim sendo, a maior parte dos problemas do aplicativo Saude Ja - Curitiba sao erros pequenos que nao interferem gravemente na usabilidade do mesmo e que nao possuem alta prioridade de correcao. Porem, houveram 8 problemas classificados como GS3 (Problema maior de usabilidade) e 1 erro classificado como GS4 (Catastrofe de usabilidade), sendo erros que afetam gravemente na usabilidade da aplicacao e interferem na experiencia do usuario ao utilizar o aplicativo, exigindo uma imediata correcao.
+
+Alguns problemas (n=2) foram classificados como GS0 (Nao concordo que seja um problema de usabilidade), sendo um destes relacionado a acessibilidade, em um problema de aumento (zoom) da tela, fora do escopo inicial de avaliacao. Entretanto, a acessibilidade e um fator importante a ser considerado, que pode ser verificado em avaliacoes futuras.
+
+Como descrito por Nielsen, foi perceptivel que a escolha de 5 avaliadores foi ideal, pois, de acordo com a Figura 9, poucos problemas foram encontrados por mais de um especialista, nesta avaliacao.
+
+O erro encontrado por 4 avaliadores diferentes foi na Tela de Agendamentos, na qual a mensagem de aviso podia passar facilmente despercebida deixando o usuario confuso. Isso demonstra que esse problema de usabilidade foi algo aparente aos especialistas, e que provavelmente poderia causar muito incomodo para os usuarios em geral. Mesmo apresentando problemas de usabilidade, o aplicativo Saude Ja - Curitiba e um aplicativo que recebeu um feedback positivo de alguns usuarios, que pode melhorar sua qualidade em futuras versoes. O aplicativo vem cumprir com uma necessidade para com a sociedade, que e justamente a demora em filas de espera em UMSs. Uma das maiores demandas dos usuarios e que, em versoes futuras, o aplicativo permita marcar consultas medicas pelo aplicativo, alem de ser abrangente para todas as UMSs da cidade de Curitiba. Por fim, e importante ressaltar a necessidade de correcao e melhora da interface do aplicativo, em cada um dos pontos que tangem cada uma das heuristicas de usabilidade, sempre em harmonia com a necessidade de melhorar a experiencia do usuario e sua acessibilidade ao utilizar aquela aplicacao.
+
+Discussao Metodos
+Ao final de todo o processo, verificou-se que o conjunto de heuristicas permitiu aos avaliadores encontrar violacoes as heuristicas em um contexto de aplicacao movel. Algumas das heuristicas foram apontadas por todos os tres metodos (H1, H3, H4, H5, H7, H8 e H9). No caso de HN e GR, as heuristicas possuem descricoes pensadas no contexto desktop, que tambem auxiliam a encontrar violacoes de usabilidade no ambiente movel. Entretanto, a partir das descricoes e exemplos de SMASH, pode-se tambem pensar em elementos e particularidades somente existentes no ambiente movel, como a falta de recursos computacionais e utilizacao em contextos diversos. Alguns problemas referentes a um ponto especifico do contexto movel, como SMASH8, foram verificados na aplicacao e encontrados pelos especialistas. Verifica-se que, apesar das heuristicas serem semelhantes tanto em Nielsen, Oito Regras de Ouro e SMASH, a diversidade das descricoes e exemplos unicos de cada um tornam a inspecao mais rica. Nos casos em que especialistas para inspecao sao mais experientes, problemas inerentes a natureza movel dos aplicativos podem ser encontrados sem heuristicas especificas ou materiais de apoio. Ao avaliar o aplicativo Saude Ja Curitiba, os especialistas tiveram desempenho diferente no numero de problemas de usabilidade encontrados. Os especialistas mais experientes encontraram um maior numero de problemas. Entretanto, verificou-se que a experimentacao de diferentes heuristicas permitiu aos avaliadores ainda encontrarem problemas de usabilidade, mesmo na falta de experiencia em avaliacao heuristica em contexto desktop ou movel. Na etapa de consolidacao de resultados, a inspecao de usabilidade teve o potencial de fomento de discussoes entre o grupo de especialistas. Na falta de usuarios reais para incluir na discussao sobre a facilidade de uso e utilidade da aplicacao, buscou-se possuir uma visao plural, buscando vestir o sapato de diferentes individuos, indo alem de uma visao individual ou tecnica. Entretanto, para alcancar maior sucesso nesta pratica de colocar-se no papel do usuario, deve-se investigar a utilizacao de artefatos especificos no processo de inspecao de usabilidade, como historia de usuario ou personas. As HN, principalmente, possibilitam evidenciar aspectos de usabilidade apontados por 10, como a eficiencia, memorabilidade, erros e satisfacao. Todavia, a usabilidade, no ambiente movel, possui outros aspectos influenciadores, como a carga cognitiva 4 e fatores contextuais, como o ambiente e contexto de uso 1, 4. Deste modo, ressalta-se a importancia de se utilizar heuristicas especificas do contexto movel na avaliacao de aplicativos.
+
+CONCLUSAO
+A avaliacao de usabilidade permitiu encontrar diversos problemas com niveis de severidade diferentes. A incorporacao das tres diferentes heuristicas em um metodo hibrido permitiu a varredura de uma gama maior de propriedades do design. A atividade possibilitou a experimentacao de um metodo alternativo de avaliacao, bem como evoluiu as habilidades dos especialistas de deteccao e classificacao dos problemas de usabilidade em aplicacoes moveis. Apenas a existencia das solucoes de Tecnologia da Informacao pode nao ser suficiente para se resolver um problema social ou possibilitar um direito social. Se estas nao forem usaveis ou acessiveis, e se os processos nao funcionam realmente, a barreira de utilizacao e acesso ainda pode existir. Problemas foram encontrados no aplicativo, que podem, portanto, afetar sua utilizacao em um contexto social. Muitas das reclamacoes apresentadas pelos usuarios nas plataformas de download do aplicativo Saude Ja Curitiba se devem ao processo organizacional, requisitos de atendimento e recursos indisponiveis no dominio do problema, e nao referentes ao aplicativo propriamente dito. Se as falhas estao no contexto organizacional, a tecnologia pode refletir ou ate mesmo potencializar essas falhas. Se tratando de um trabalho preliminar, tem-se como etapas futuras a execucao de uma avaliacao de acessibilidade e sob a perspectiva social, para maior completude da avaliacao da aplicacao.
+

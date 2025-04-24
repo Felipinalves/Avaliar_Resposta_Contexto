@@ -1,0 +1,160 @@
+**RESUMO**
+
+Estudar as lutas politicas armadas pode colocar em evidencia as
+complexas interaçoes entre cultura, tecnologia, materialidade e
+conflito politico. O presente artigo apresenta um relato da luta
+armada das FARC-EP, um dos guerrilheiros colombianos, com o
+exercito colombiano. Documentamos como a comunicaçao se
+tornou uma infraestrutura de guerra crucial e ambigua, onde a
+subita introduçao de tecnologias de localizaçao pelo exercito
+colombiano representou uma ameaça letal para 0 grupo
+guerrilheiro. Nossos entrevistados relatam um processo de
+aprendizado severo para diminuir esse novo risco, contando com
+uma combinaçao de crenças e compreensao tecnica significativa.
+Nesse estudo, introduzimos o conceito de contraapropriaçao como
+processo forçado de adaptaçao de praticas e apropriaçao de
+tecnologias durante um conflito.
+
+**Introduçao**
+
+Os computadores e as tecnologias de informaçao e comunicaçao
+(TIC) tornaram-se uma componente crucial da infraestrutura de
+conflitos em todo 0 mundo. Neste artigo, relatamos as
+investigaçoes realizadas na Colombia com ex-combatentes do
+conhecido grupo guerrilheiro Forças Armadas Revolucionarias da
+Colombia - Exercito do Povo (FARC-EP). O grupo foi um dos
+principais protagonistas de um conflito que se prolongou por mais
+de 50 anos e envolveu varios grupos rebeldes de esquerda,
+paramilitares de direita, grupos criminosos, o exercito nacional e
+ate mesmo os Estados Unidos atraves do acordo politico
+denominado Plano Colombia.
+
+A guerra custou mais de 200 mil vidas e gerou um dos maiores
+numeros de desabrigados internos do mundo . Apesar do
+acordo de paz ter sido assinado em 2016, final de agosto de 2019,
+ex-combatentes retornaram a luta armada sobre o argumento de
+que o governo nao cumpriu todos os acordos.
+
+A seguir, mostraremos um resumo do doloroso processo de
+aprendizagem que os guerrilheiros tiveram de passar para se
+adaptarem a circunstancias de atrito durante a guerra.
+
+**Metodo de Pesquisa**
+
+O local onde o estudo foi conduzido e uma comunidade de antigos
+guerrilheiros das FARC-EP, chamado Espaço Territorial de
+Treinamento e Reincorporaçao (ETCR). Cerca de 400 ex-
+combatentes vivem no espaço apos o Acordo de Paz de Havana.
+
+Os metodos de pesquisa consistiram em uma analise exploratoria
+de observaçoes e entrevistas nao estruturadas. Essas entrevistas
+permitiram que os entrevistados contassem historias detalhadas
+. A primeira autora esteve no ETCR por 28 dias, o terceiro e
+quinto autor estiveram por sete dias. Durante esse tempo,
+interagiram com os habitantes do acampamento e se envolveram
+em trabalho e atividades sociais. Os dados foram coletados na
+forma de notas de campo - total de 114 paginas - e interaçao com
+mais de 50 pessoas. Todas as interaçoes foram realizadas em
+espanhol e, em algumas ocasiões, apoiadas por um tradutor, que
+mediou entre ingles e espanhol.
+
+**Descobertas**
+
+FARC-EP foi sempre uma organizaçao predominantemente rural
+e sua presença nas cidades foi minima. Isso limitava seu acesso as
+novas tecnologias e, como resultado, a tecnologia de que
+dispunham era simples. A infraestrutura tecnologica em que suas
+operaçoes se apoiavam era principalmente papel e radio e, em um
+estagio bastante tardio, a comunicaçao via radio era auxiliada por
+meio de criptografia computadorizada. As tecnologias mais
+difundidas dos ultimos 20 anos, telefones celulares e internet,
+foram pouco utilizadas e em nenhum momento desempenharam
+papel estrategico em suas operaçoes. Dado que as suas operaçoes
+dependiam da coordenaçao bem-sucedida de um grande numero
+de combatentes divididos em pequenas unidades e distribuidos por
+uma vasta area, a comunicaçao era crucial. E notavel que ela foi
+gerida com recursos extremamente limitados.
+
+Em muitos aspectos, as FARC-EP evitaram a derrota por um
+inimigo tecnologicamente muito mais avançado que gozava do
+apoio do governo e dos militares dos EUA. A disponibilidade de
+infraestrutura tecnologica nesta guerra era radicalmente
+assimetrica: enquanto as FARC dependiam de tecnologias
+bastante simples, o governo colombiano tinha a sua disposiçao
+tecnologia de guerra altamente avançada. O uso de varios tipos de
+tecnologia de localizaçao para realizar 0 bombardeio a
+acampamentos das FARC-EP, colocou a guerrilha sob alta
+pressao . Uma vez que a presença das FARC-EP foi detectada,
+elas eram atacadas atraves de bombardeios direcionados. Com
+base nas caracteristicas das infraestruturas descritas por Star e
+Bowker , a utilizaçao destas tecnologias pelo exercito
+colombiano pode ser descrita como uma "infra-estrutura de
+atrito". Esses dispositivos sociotecnicos consistem em um
+conjunto de açoes e reaçoes incorporadas em outros dispositivos
+materiais ou sociais. Por exemplo, o exercito baseou-se no
+conhecimento de praticas especificas das FARC-EP, tal como
+encomendar suprimentos e bens de consumo nas regioes rurais.
+Dispositivos de localizaçao foram feitos para serem invisiveis
+para as FARC-EP e foram a base para os ataques de bombardeio
+de precisao que o exercito realizou.
+
+As perdas forçaram os guerrilheiros a lidar com estes atritos. Eles
+aprenderam e desenvolveram gradualmente um conjunto de
+estrategias para evitar a localizaçao do exercito, com e muitas
+vezes sem o apoio da tecnologia. De fato, as estrategias
+consistiam muitas vezes em simples praticas de segurança: para
+evitar a localizaçao atraves da detecçao de calor, os combatentes
+começaram a empregar diferentes metodos de cozinhar alimentos
+e a dormir mais dispersos, de modo a emitir menos calor. Para
+escapar de cameras ou sensores, eles usavam diferentes caminhos
+para chegar ao acampamento. Valas foram escavadas em
+diferentes locais para proporcionar oportunidades de abrigo, em
+caso de ataques.
+
+Os dispositivos que nos foram descritos como "microchips" foram
+provavelmente os mais dificeis de serem identificados e
+combatidos. Sem um conhecimento profundo, e dificil adivinhar a
+funçao de um chip eletronico a partir de sua aparencia. Para evitar
+a detecçao do acampamento atraves do chip, foi adotada uma
+estrategia simples: novos suprimentos eram colocados em areas
+distantes do acampamento por um periodo de tempo, para ver se o
+local seria bombardeado. Mais tarde, eles começaram a escanear
+produtos e em outros foram usados choques eletricos para destruir
+quaisquer chips de rastreamento. As estrategias da FARC-EP e o
+desejo de adquirir conhecimento foram provavelmente cruciais.
+
+Alem da tentativa e erro, para entender as tecnologias, eles
+tambem abriam equipamentos e os reconstruiam num desejo de
+entender como a detecçao funcionava e como encontrar formas de
+destruiçao de 'microchips'. O meticuloso processo de
+aprendizagem que os membros das FARC-EP tiveram que passar
+e as mudanças nas praticas para escapar da ameaça dos
+bombardeios e o que caracterizamos como contraapropriaçao.
+Como Stevens e Pipek mencionam: "apropriaçao refere-se ao
+estabelecimento de novas praticas a luz das novas tecnologias" e
+"tais transformaçoes podem ser um processo lento, despercebido,
+silencioso e evoluçionario" . Isto descreve adequadamente o
+doloroso processo de mudança pelo qual passou as FARC-EP para
+mitigar a perda de combatentes e amigos: foi um desenvolvimento
+gradual e lento de novas praticas a luz das novas tecnologias do
+oponente. O que o distingue do conceito estabelecido de
+apropriaçao e o fato de que as tecnologias das quais eles mudaram
+seu comportamento nao eram proprias, mas aquelas usadas por
+outros. O termo "contraapropriaçao" nao e inteiramente novo, ver
+ e . No contexto de CSCW e IHC, usamos o termo para
+descrever um conflito assimetrico, onde um lado e forçado a
+mudar seu comportamento por conta da tecnologia usada pelo
+outro lado, enquanto o funcionamento da tecnologia permanece
+obscuro. A contraapropriaçao pode, mas nao somente, envolver o
+uso da tecnologia e, alem disso, precisa ser entendida como uma
+forma especifica de resistencia mais ampla ao sistema politico,
+economico e social.
+
+
+**CONCLUSAO**
+
+Ao analisar as açoes das FARC-EP em resposta as tecnologias de localizaçao,
+este estudo introduz o conceito de "contraapropriaçao", que descreve adaptaçoes
+forçadas a praticas e tecnologias. Este conceito pode enriquecer a pesquisa em
+CSCW e IHC em contextos de conflito assimetrico, como guerras ou opressoes
+politicas.

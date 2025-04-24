@@ -1,0 +1,93 @@
+**RESUMO**
+
+O desenvolvimento de tecnologias de software direcionadas
+ao auxilio no tratamento do Transtorno do Espectro Autista
+(TEA) intensificou-se nos ultimos anos, possibilitando o
+surgimento de novas formas de tratamento. Embora novas
+tecnologias sejam desenvolvidas, ainda sao poucos os
+estudos que investigam o impacto do uso dessas tecnologias
+no cotidiano dos usuarios autistas. Este artigo apresenta
+resultados preliminares de uma pesquisa com uso de
+questionario online em grupos de redes sociais direcionados
+ao TEA com o intuito de investigar o uso de tecnologias de
+software por pessoas com TEA. Espera-se delinear perfis de
+usuarios autistas, possibilitando o desenvolvimento de novas
+tecnologias de softwares adequadas a esse publico.
+
+
+**INTRODUCAO E CARACTERIZAÇAO DO PROBLEMA**
+
+O Transtorno do Espectro Autista (TEA) caracteriza-se por
+deficits persistentes na comunicaçao e interaçao social, assim
+como padroes restritivos e repetitivos de comportamento ,
+fazendo-se necessaria a busca por formas auxiliares para o
+desenvolvimento desse publico. Por este motivo, a
+tecnologia vem buscando auxiliar cada vez mais no cotidiano
+dessas pessoas . Magaton & Bim  afirmam que para
+desenvolver tecnologias adequadas as necessidades de
+pessoas com limitaçoes cognitivas e necessario investigar
+como esse publico utiliza tecnologias e como sao afetados
+por elas.
+
+Neste sentido, esta pesquisa objetivou investigar se e de que
+maneira as tecnologias de software impactam no cotidiano
+de pessoas com TEA. Para investigar esse impacto, foi
+divulgado um questionario online em grupos de redes sociais
+formados por pais, maes, responsaveis por pessoas com
+TEA. As questoes de pesquisa definidas foram:  Como as
+tecnologias de software vem sendo adotadas por pessoas com
+TEA?  Quais os tipos de tecnologias mais utilizadas? e
+ Qual a percepçao dos pais sobre o impacto do uso das
+tecnologias de software no desenvolvimento e
+comportamento de pessoas com TEA?
+
+**TRABALHOS RELACIONADOS**
+
+Um mapeamento sistematico sobre tecnologias para o ensino
+de crianças com TEA indicou que diversas tecnologias foram
+desenvolvidas, entretanto a maioria nao utiliza nenhuma
+estrategia de ensino como base . Apesar do numero
+representativo de tecnologias propostas para pessoas com
+TEA, poucos sao os relatos que apresentam estudos de caso
+do uso de tecnologias com o publico alvo  e que
+apresentam pesquisas com crianças autistas investigando
+suas preferencias em aplicaçoes . Assim, torna-se
+importante investigar como as tecnologias de software vem
+sendo inseridas no cotidiano de pessoas com TEA e qual a
+percepçao dos pais, maes e responsaveis em relaçao ao
+impacto dessas tecnologias na vida do autista.
+
+**METODOLOGIA DE PESQUISA**
+
+Esta pesquisa e exploratoria e descritiva, sendo constituida
+pelos seguintes passos: 1) imersao em grupos de redes
+sociais voltados a discussao sobre TEA; 2) identificaçao do
+publico-alvo da pesquisa; 3) levantamento de dados sobre o
+uso e impacto da tecnologia de software no cotidiano de
+pessoas com TEA; 4) analise dos dados obtidos.
+
+Esta pesquisa encontra-se em andamento, foram concluidos
+os tres primeiros passos. O passo 1, consistiu em pesquisar
+grupos de usuarios com interesse no dialogo sobre TEA no
+Facebook, possibilitando a inserçao das pesquisadoras em
+grupos privados no Facebook e no WhatsApp. Esses grupos
+sao compostos por neurologistas, psicologos e
+psicopedagogos, pessoas com TEA e, em sua maioria, por
+pais, maes e responsaveis por autistas. No passo 2, as
+pesquisadoras apresentaram-se nos grupos identificados.
+Iniciou-se a criaçao de um questionario direcionado a
+pessoas com TEA ou seus pais, maes e responsaveis. O
+Questionario foi elaborado por duas pesquisadoras e validado juntamente com uma pesquisadora especialista em IHC, sendo estruturado em tres secoes: perfil demografico do respondente; perfil da pessoa com TEA; experiencia do autista com tecnologias de software; e percepcao sobre o uso de tecnologias de software por pessoas com TEA. O questionario foi disponibilizado por meio do GoogleForms e sua divulgacao foi realizada pelas pesquisadoras nos grupos privados das redes sociais.
+
+RESULTADOS PRELIMINARES
+
+A Figura 1 apresenta os principais resultados obtidos durante o periodo de duas semanas de divulgacao do questionario. Os respondentes da pesquisa foram 46 maes, tres pais e sete responsaveis por autistas na faixa etaria entre 2 e 15 anos. Mais de 90% dos respondentes indicam que seus filhos tem acesso a tecnologias de software. Somente 67.9% dos respondentes incentivam o uso das tecnologias. Em relacao a frequencia de uso, 83.1% dos respondentes indicam que seus filhos utilizam tecnologias sempre ou frequentemente. As tecnologias touch (smartphones e tablets) sao os dispositivos mais utilizados. Mais da metade dos usuarios autistas aprenderam sozinhos a interagir com as tecnologias. Sobre a percepcao dos respondentes referente ao uso de tecnologias de software por pessoas com autismo, 83% concordam que o uso de tecnologias apoia no cotidiano, alem de haver uma grande concordancia (79.2%) de que as tecnologias estimulam a comunicacao de pessoas com autismo. E valido ressaltar que 90.5% dos respondentes concordam que as tecnologias podem apoiar o ensino e aprendizagem e 96,2% consideram que o desenvolvimento de pessoas autistas pode ser auxiliado por tecnologias de software. Identificou-se que o numero de respondentes que relatam incentivar o uso de tecnologias e menor, comparado aos resultados da percepcao positiva da tecnologia como auxilio no desenvolvimento de autistas, com isso e possivel determinar onde concentrar mais esforcos para melhorar a proximidade entre o autista e a tecnologia.
+
+CONSIDERACOES FINAIS E TRABALHOS FUTUROS
+
+Esta pesquisa faz parte de um projeto de extensao com o objetivo de desenvolver sistemas acessiveis a pessoas com TEA. Os dados qualitativos do questionario com questoes que investigam as caracteristicas positivas, negativas e de que forma as tecnologias afetam o comportamento dos usuarios com TEA estao sendo analisadas. A partir dos resultados, pretende-se criar personas para representar o perfil dos diferentes usuarios autistas com o objetivo de desenvolver novas tecnologias de software acessiveis, assim como sugerir tecnologias de software existentes e adequadas aos usuarios representados pelas personas.
+
+
+**CONSIDERACOES FINAIS**
+
+Este estudo preliminar fornece insights valiosos sobre o uso e o impacto das tecnologias de software na vida de pessoas com TEA. Os resultados indicam que as tecnologias touch sao amplamente utilizadas e que a maioria dos autistas aprende a interagir com elas de forma independente. A percepçao dos pais e responsaveis sobre o apoio das tecnologias no cotidiano, no ensino e no desenvolvimento dos autistas e extremamente positiva. Esses achados ressaltam a importancia de investir no desenvolvimento de tecnologias acessiveis e personalizadas para atender as necessidades especificas desse publico. A analise qualitativa dos dados e a criaçao de personas serao etapas fundamentais para guiar o desenvolvimento de tecnologias de software ainda mais eficazes e inclusivas para pessoas com TEA.

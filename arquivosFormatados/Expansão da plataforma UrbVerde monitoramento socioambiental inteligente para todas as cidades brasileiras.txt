@@ -1,0 +1,162 @@
+**RESUMO**
+
+Segundo o Painel Intergovernamental sobre Mudanças Climáticas
+(IPCC), as cidades sao vulneraveis aos impactos das mudanças climaticas e
+responsaveis por grande parte das emissoes de gases de efeito estufa. Diante
+disso, a plataforma UrbVerde, desenvolvida em parceria com instituiçoes
+academicas, oferece monitoramento socioambiental gratuito para auxiliar os
+municipios de Sao Paulo na tomada de decisoes. O presente projeto trata da
+reestruturaçao do design e da arquitetura da informaçao, visando solucionar
+problemas de escalabilidade e experiencia do usuario, levantados por meio de
+um completo estudo baseado na metodologia Design Thinking. Com foco no
+uso por gestores publicos, busca-se expandir a analise da plataforma para
+todos os municipios e estados do territorio nacional, adicionando recursos
+como visualizaçao avançada de dados e inteligencia artificial, tornando-a uma
+ferramenta importante para o enfrentamento das crises climaticas e a
+construçao de cidades inteligentes e sustentaveis.
+
+**INTRODUCAO**
+
+A crise climatica global representa um desafio significativo para as areas urbanas, que
+sao vulneraveis a impactos adversos como inundaçoes, secas extremas e ondas de calor.
+Alem disso, essas areas sao responsaveis por grandes emissoes de gases de efeito estufa,
+agravando a problematica. Esses fenomenos ameaçam a infraestrutura urbana e
+exacerbam desigualdades sociais e economicas, afetando as populaçoes urbanas mais
+vulneraveis [IPCC, 2022]. Para enfrentar esses desafios, foram criados os Objetivos de
+Desenvolvimento Sustentavel (ODS), destacando-se o ODS 11, que visa tornar as
+cidades mais inclusivas, seguras, resilientes e sustentaveis, por meio da implementaçao
+de politicas publicas para inclusao, eficiencia dos recursos e resiliencia a desastres
+[ONU, 2018][IPCC, 2022]. Infelizmente, no Brasil, as tecnologias para solucionar esses
+problemas e enfrentar a crise climatica ainda sao escassas [URBVERDE, 2021].
+
+Em 2023, a colaboraçao entre instituiçoes publicas resultou no lançamento da
+plataforma UrbVerde, que fornece dados gratuitos sobre vegetaçao, temperatura,
+parques e praças, correlacionados com dados sociais, para todos os municipios de Sao
+Paulo, por meio de um mapa interativo e da disponibilizaçao de dados estatisticos,
+tornando-se amplamente utilizada no estado [COSTA, 2024]. Atualmente, a UrbVerde
+tem como objetivo se tornar uma ferramenta para enfrentamento as crises climaticas em
+ambito nacional. Para isso, busca expandir seus dados para todos os municipios e
+estados do Brasil, por meio de um acesso gratuito e intuitivo as informaçoes. Alem
+disso, pretende-se inovar com a implementaçao de inteligencia artificial de analise de
+dados, fornecendo uma interpretaçao acessivel a todos os publicos. Para tal fim, a
+plataforma precisou resolver problemas de usabilidade e experiencia do usuario, alem de
+redesenhar seu design e arquitetura da informaçao para suportar as atualizaçoes. A
+expansao visa atender a demanda por dados e analises relevantes, tornando a UrbVerde
+uma ferramenta essencial para a criaçao de politicas publicas socioambientais eficazes
+em escala nacional e contribuir para a construçao de cidades inclusivas e sustentaveis
+em todo o Brasil.
+
+**METODOLOGIA**
+
+Para realizar o presente projeto, foi adotada a metodologia Design Thinking [BROWN,
+2008], centrada no usuario e composta por cinco etapas: empatia, definiçao, ideaçao,
+prototipagem e teste. Essa abordagem permitiu entender os problemas e necessidades
+dos usuarios, gerar ideias e soluçoes inovadoras, criar prototipos tangiveis e testa-los
+com usuarios [NIELSEN NORMAN GROUP, 2016]. A metodologia foi utilizada de
+forma iterativa e adaptada as necessidades da equipe, que promoveu um resultado
+centrado no usuario, alinhado aos objetivos do negocio e do desenvolvimento.
+
+A compreensao detalhada das necessidades dos usuarios finais e essencial para
+que o produto atenda as expectativas e funcione conforme planejado [DUSCHENES et
+al., 2012]. Desenvolveu-se uma pesquisa com gestores publicos do estado de Sao Paulo,
+revelando pouca experiencia em assuntos aprofundados sobre meio ambiente e pouco
+uso de plataformas online de dados [URBVERDE, 2022]. Posteriormente, conduziu-se
+um benchmarking competitivo  analisando os dashboards e os mapas
+interativos da GeoNode, Carto, Global Forest Watch e Monday, com objetivo de
+encontrar possiveis soluçoes para os problemas levantados.
+
+Na sequencia, foi elaborada a primeira versao do wireframe, ou prototipo de
+baixa fidelidade. O wireframe e uma representaçao visual simplificada da estrutura e
+layout de um produto digital, facilitando a visualizaçao do projeto e permitindo ajustes
+antes do desenvolvimento completo [GOTTO, 2016]. Por meio de sessoes de validaçao
+com partes interessadas no projeto, ajustes foram realizados resultando no
+aprimoramento da ideia e no desenvolvimento do prototipo de media fidelidade, para
+ter uma melhor percepçao das ideias e da elaboraçao dos textos.
+
+Realizou-se um teste de usabilidade, baseado na metodologia descrita por
+Loranger (2016), para verificar a intuitividade da navegaçao, com participantes de 18 a
+50 anos, sem conhecimento previo aprofundado em termos tecnicos ambientais,
+utilizando a plataforma Maze e contando com 31 participantes. Esta etapa foi
+fundamental para identificar problemas na estrutura da plataforma. Baseado nisso,
+foram realizadas novas sessoes de desenvolvimento de wireframes, acompanhadas de
+diversas reunioes com partes interessadas no projeto para identificar possiveis pontos de
+melhoria. Conforme a evoluçao dos wireframes, foram incorporados pontos levantados
+pelos usuarios e futuros casos de uso da UrbVerde, abrangendo a utilizaçao da
+plataforma por diversos municipios brasileiros e suas novas atualizaçoes.
+
+Em seguida, foi realizado um estudo de cores e tipografias baseadas nas
+diretrizes do WCAG (2024), para tornar o prototipo acessivel e atender as necessidades
+da marca. Foi realizado tambem um mapeamento aprofundado dos casos de uso da
+plataforma e de sua arquitetura das informaçoes. Com base nos pontos levantados e nas
+ideias dos wireframes, criou-se um prototipo de alta fidelidade, utilizando os
+componentes do Bootstrap (2024) para uma melhor implementaçao e padronizaçao,
+alem de ser fundamentado nas heuristicas de usabilidade de Nielsen (1994) e nas leis da
+psicologia aplicada a experiencia do usuario de Yablonski (2020), promovendo uma
+interface intuitiva, eficiente e centrada no usuario.
+
+**JUSTIFICATIVA**
+
+A relevancia deste projeto reside na sua capacidade de democratizar o acesso a dados
+socioambientais, gerados no ambito academico, e torna-los compreensiveis e utilizaveis
+para a populaçao em geral. Ao abordar as questoes de usabilidade, a plataforma
+UrbVerde, em sua versao expandida para todos os municipios e regioes do Brasil,
+permitira que os cidadaos, gestores publicos e tomadores de decisoes brasileiros
+interpretem os dados de forma mais eficaz, fomentando a tomada de decisoes e a criaçao
+de politicas publicas otimizadas para o enfrentamento das crises climaticas e reduçao da
+desigualdade socioambiental. Alem disso, por meio da utilizaçao de inteligencia
+artificial, para auxiliar na interpretaçao dos dados e indicadores, juntamente com a
+possibilidade de combinaçao de multiplas camadas de analise do mapa interativo,
+pretende-se contribuir para a construçao de cidades mais inteligentes e resilientes.
+
+**SOLUCOES PROPOSTAS E CASOS DE USO**
+
+Primeiramente, foi realizada a reformulaçao da arquitetura das informaçoes da
+plataforma, adaptando os atributos de cada camada a uma determinada localidade, com
+o proposito de promover a escalabilidade, facilitando possiveis adiçoes futuras de novos
+recursos, conforme as necessidades especificas de cada municipio e possibilitando a
+expansao dos dados para o territorio nacional. Em segundo ponto, para tornar a
+plataforma mais intuitiva e acessivel, foram propostas diversas melhorias na usabilidade
+e experiencia do usuario. Uma barra de busca por todos os locais do Brasil, similar a do
+Google Maps, permite que os usuarios encontrem de maneira simplificada seu local de
+analise, alem do fornecimento de buscas mais otimizadas por meio da identificaçao da
+localizaçao do usuario, baseado em recursos de geolocalizaçao. Alem disso, realizou-se
+a reformulaçao teorica das entidades da plataforma para facilitar a assimilaçao do
+usuario, agrupando camadas similares em uma mesma categoria. Ademais, por meio do
+processo do Design Thinking, foi possivel basear a plataforma em padroes de
+dashboards atuais e promover um design minimalista e estetico.
+
+Para auxiliar o processo de analise e interpretaçao de dados socioambientais na
+plataforma, foi incorporado a inteligencia artificial no presente projeto, que gera analises
+automaticas e acessiveis, por meio de um botao integrado aos cards. Alem disso, a
+possivel combinaçao de multiplas camadas no mapa interativo, por meio do botao
+Adicionar camadas e a adiçao de botoes integrados no mapa que fornecem diversos
+recursos de analise, permitem que o usuario realize interpretaçoes mais aprofundadas de
+uma forma simples. Ademais, houve a integraçao da plataforma UrbVerde com a
+UrbVerde Educa, uma pagina ja desenvolvida e que esta no ar, oferecendo
+metodologias, tutoriais e suporte para que os usuarios recuperem-se de possiveis erros e
+conheçam mais sobre temas especificos do projeto. Assim, foi possivel promover uma
+flexibilidade de uso da plataforma, pensando em usuarios leigos e experientes.
+
+Como um possivel caso de uso, um gestor publico de Sao Carlos - SP, utiliza a
+plataforma UrbVerde para analisar a relaçao entre temperatura e cobertura vegetal. Ele
+deve acessar a categoria Clima e a camada Temperatura de Superficie Terrestre,
+adicionando a camada Percentual de Cobertura Vegetal para uma analise comparativa.
+A sobreposiçao das camadas revela areas com um aumento de temperatura que pode ser
+provocado devido a falta de vegetaçao, implicando a necessidade de mais areas verdes.
+Por fim, o usuario pode acessar a seçao Estatisticas e usar a inteligencia artificial da
+plataforma para interpretar os indicadores e planejar estrategias eficazes.
+
+**VIABILIDADE**
+
+A expansao da plataforma UrbVerde e uma oportunidade transformadora e ja em
+andamento, reforçando o compromisso com a ampliaçao dos recursos oferecidos. Com
+infraestrutura tecnica solida e financiamento garantido, a UrbVerde esta pronta para
+levar essa inovaçao a todo o pais. Ao mesmo tempo, os times internos tem gerado dados
+continuos por meio do processamento digital de imagens de satelite, permitindo que as
+metodologias aplicadas em Sao Paulo sejam escaladas para todo o Brasil. Este e um
+projeto nao so viavel e sustentavel, mas tambem dedicado a transformar como
+enfrentamos os desafios socioambientais.
+
+**CONSIDERACOES FINAIS**
+
+Este projeto representa um passo importante para a construçao de cidades mais inteligentes e sustentaveis no Brasil. Ao democratizar o acesso a dados socioambientais e facilitar a sua interpretaçao, a plataforma UrbVerde capacita os cidadaos, gestores publicos e tomadores de decisoes a tomar medidas mais eficazes para enfrentar as crises climaticas e reduzir a desigualdade socioambiental. Espera-se que esta iniciativa inspire outras cidades e paises a adotarem soluçoes semelhantes, promovendo um futuro mais sustentavel para todos.

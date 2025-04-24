@@ -1,0 +1,226 @@
+**RESUMO**
+
+Este artigo descreve as linhas de pesquisa do grupo SCAI
+(Sistemas Colaborativos para Apoio a Idosos) em sistemas
+colaborativos no dominio de vida assistida usando
+dispositivos moveis. Enfatizamos questoes estruturais,
+sociais e tecnologicas da interaçao entre dispositivos
+tecnologicos e os varios atores no cuidado ao idoso. A equipe
+atual de pesquisa e composta por 4 professores e 7 alunos.
+
+**INTRODUCAO**
+
+Dados da ONU mostram que a populaçao mundial esta
+envelhecendo rapidamente. As projeçoes sao de que pessoas
+com 60 anos ou mais serao mais numerosas que crianças (0
+a 9 anos) ate 2030, e superarão os adolescentes e jovens (com
+idade entre 10 e 24 anos) ate 2050. O envelhecimento leva a
+degradaçao sensorial gradual, o que aumenta a dependencia
+de outras pessoas. A medida que a populaçao mundial
+envelhece, aumenta a necessidade de politicas, sistemas e
+tecnologias para apoiar o envelhecimento saudavel.
+
+Envelhecer e um processo gradual que nao se sabe ao certo
+quando se inicia, e nem sempre esta claro quando se precisa
+de ajuda. A tecnologia pode ajudar nesse periodo de
+transiçao, em especial as instaladas em dispositivos moveis,
+por serem artefatos comuns do dia a dia, ja adotados por
+muitos idosos. Alem destes existem ainda dispositivos
+vestiveis ou mesmo aqueles sem contato direto com o idoso.
+
+Manter-se independente e com segurança e um desafio para
+os idosos e uma fonte de preocupaçao para suas familias.
+
+Durante atividades rotineiras, ate mesmo idosos saudaveis
+podem se perder, ficar expostos a calor excessivo ou a baixas
+temperaturas, cair, ficar confusos ou experimentar eventos
+relacionados a saude. Em um ambiente amigavel, onde as
+pessoas conhecem e cuidam umas das outras, o bairro
+ajudaria os idosos em risco, seja chamando um cuidador,
+membro da familia ou ate mesmo uma ambulancia.
+
+Tecnologias de "Ambient Assisted Living" (AAL)
+(Ambientes Assistivos) prolongam a capacidade das pessoas
+de se manterem ativas e independentes mesmo com o
+avançar da idade. No entanto, a maioria das pesquisas em
+AAL enfoca ambientes internos (residenciais), usando
+informaçoes de sensores no ambiente e na pessoa. Porem,
+muitas atividades sao realizadas fora do ambiente domestico,
+expandindo a necessidade de monitoramento e trazendo
+outras preocupaçoes de segurança. Alem disso, muitas
+soluçoes AAL exigem que os idosos realizem açoes
+(pressionar um botao, fazer uma ligaçao, etc.), o que,
+dependendo da situaçao, pode nao ser possivel. Estamos
+explorando o uso de tecnicas AAL em ambientes externos
+para aumentar a independencia e segurança de idosos,
+evitando a necessidade de interaçao com a tecnologia.
+Pesquisas atuais em monitoramento externo utilizam
+exclusivamente dados de sensores.
+
+E neste cenario que desenvolvemos a pesquisa do grupo: o
+objetivo e aumentar a independencia do idoso, provendo
+maior segurança em ambientes internos e externos. A seguir,
+descrevemos nossa, abordagem, a "Vizinhança Segura”
+(VS), seguida da explicaçao das questoes de estudo e da
+apresentaçao da equipe de pesquisa. Concluimos com um
+mapeamento entre as questoes do nosso estudo em sistemas
+colaborativos, com questoes da area de IHC.
+
+**ABORDAGEM VIZINHANÇA SEGURA**
+
+A VS, adota abordagens de inteligencia artificial para
+monitoramento de atividades e inclui uma camada de
+computaçao humana fornecida pela terceirizaçao de tarefas a
+pessoas que se encontram fisicamente proximas ao idoso,
+revisando inferencias computacionais sobre dados
+contextuais e de sensores.
+
+Na VS, um sistema implementado em um dispositivo movel
+e responsavel por detectar possiveis situaçoes de emergencia
+que venham a ocorrer com o idoso, utilizando tecnicas de
+fusao e analise de dados para processar dados obtidos a partir
+de sensores do smartphone, inferindo se o idoso esta em
+situaçao de risco (queda, exposiçao ao calor ou frio
+excessivos ou desorientado.)
+
+Para reduzir a incerteza, essas inferencias sao enviadas para
+as pessoas que estao nas proximidades, para que estas
+confirmem o diagnostico do sistema, e prestem auxilio ao
+idoso caso necessario. Nesse momento, uma pessoa na rua
+(ex jornaleiro, porteiro, lojista, etc.) que tenha visto ou tido
+contato com o idoso pode rapidamente confirmar que ele/a
+esteve em determinado local e se esta em condiçao segura.
+Esses individuos formam uma rede de segurança para o
+idoso, que pode sair de casa desacompanhado pois a
+comunidade estara atenta as suas necessidades.
+
+Alem dos aplicativos para o idoso e para os “vizinhos”, o
+sistema conta com uma interface em back-end que permite a
+um responsavel (familiar e/ou cuidador) monitorar a situaçao
+do idoso, e receber notificaçoes em caso de urgencia. Dados
+sao armazenados em um repositorio centralizado, que e
+acessado por todos os sistemas pertinentes. O esquema
+proposto e ilustrado na Figura 1.
+
+Esta soluçao levanta questionamentos em relaçao a
+privacidade e segurança do idoso (considerando que este e
+presa facil, o envio de um alerta de que uma pessoa esta
+passando mal pode acabar atraindo elementos mal
+intencionados.) Alem de questoes de interaçao (deve ser o
+mais simples possivel, sob risco dos vizinhos nao
+responderem aos alertas/perguntas) e de incentivos a
+participaçao, discutidas em maiores detalhes a seguir.
+
+**QUESTOES DE PESQUISA**
+
+O contexto da Vizinhança Segura envolve questoes de
+pesquisa de natureza diferentes sociais, provenientes da
+interaçao entre os diversos atores considerados na
+abordagem, culturais e eticas provenientes da intrusividade
+do monitoramento direto ou indireto, e tecnologicas,
+provenientes da implementaçao da abordagem.
+
+Estamos em fase de estudo exploratorio para entender
+melhor as oportunidades que as tecnologias de midias sociais
+oferecem para aumentar a inclusao do idosos. Alem disso,
+como ha diversos atores diferentes, com demandas e
+permissoes de acesso a informaçao diferentes, estamos
+interessados em entender como esses atores podem otimizar
+suas tarefas de grupo para dar assistencia ao idoso.
+
+As midias sociais sao importante ferramentas para o
+engajamento e socializaçao de idosos. WhatsApp, Facebook,
+Instagram... sao aliados para acompanhar a vida dos filhos e
+netos. A inclusao previne a depressao em idosos, porem ha
+estudos que evidenciam uma dificuldade dos idosos de
+acompanhar a comunicaçao nesses grupos. A barreira de
+entrada ainda e grande. Estamos focando nossos estudos no
+WhatsApp . Ja fizemos um estudo qualitativo inicial com
+entrevistas e questionarios que nos trouxe constataçoes
+interessantes, em via de publicaçao. Estamos incluindo um
+aluno para participar de um estudo sobre os textos no
+WhatsApp usando etnografia. Especificamente para a
+abordagem de VS, estamos interessados em usar tais midias
+como meio de naturalizar e humanizar o monitoramento.
+
+Existem varios participantes atuando na abordagem de
+Vizinhança Segura: o idoso, parentes, cuidadores, equipe
+medica, e os vizinhos. A comunicaçao direta e indireta entre
+esses atores; a colaboraçao da coletividade; e o
+acompanhamento individual e coletivo do monitoramento
+sao algumas das questoes da nossa investigaçao.
+
+As questoes de estudo envolvem entender como a tecnologia
+assistiva pode auxiliar adultos nas transiçoes entre as tres
+primeiras fases da velhice: pre-aposentadoria; vida
+independente como aposentado; vida dependente precoce
+(com limitaçoes crescentes). Planejamos estudos
+etnograficos para entender melhor os requisitos para o design
+de tecnologias assistivas desta natureza.
+
+Acompanhar a pessoa a medida que ela se torna mais seletiva
+sobre o que faz, mas tambem ajudando-a a escolher seu
+caminho, reconhecendo e apoiando o trabalho de gerenciar o
+envelhecimento, bem como o processo de envelhecimento.
+Esse sera um estudo longitudinal que ainda se encontra em
+fase de planejamento.
+
+Estamos interessados em entender os requisitos de segurança
+das informaçoes gerais, tanto do idoso quanto dos
+participantes da vizinhança, bem como a segurança dos
+registros medicos do idoso. Contudo, o que orienta nossa
+pesquisa e a dicotomia entre prover segurança para a
+independencia do idoso nas atividades atraves do
+monitoramento e violar sua privacidade ao revelar seu
+cotidiano a outros, mesmo seus parentes.
+
+Nos interessa ainda investigar o papel do anonimato dos
+participantes em contraste com a reputaçao da informaçao,
+os incentivos para participaçao e as consequencias pela
+participaçao, e como essas questoes podem fomentar ou
+destruir a proposta da VS.
+
+A abordagem da VS envolve muitas questoes tecnologicas
+de hardware e software que precisam ser resolvidas para
+viabilizar sua implementaçao. A seguir, listamos algumas
+nas quais estaremos trabalhando nos proximos tres anos.
+
+Essas questoes envolvem a formaçao, interaçao e
+manutençao de uma rede social e de assistencia medica de
+apoio ao idoso. Ha tres focos de pesquisa: segurança das
+informaçoes, fusao de dados e usabilidade na interaçao com
+idosos. Ainda estamos em fase de estudo exploratorio com
+um aluno de mestrado criando o ambiente computacional
+para o estudo. Ja temos resultados da fusao de dados .
+
+Questoes incluem a determinaçao dos artefatos para coleta
+de dados, analise dos dados para determinaçao das
+atividades, diagnostico do grau de risco de anomalias com
+idoso. O foco esta na acuracia dos resultados e no tempo de
+resposta. Nao adianta diagnosticar uma situaçao de
+emergencia depois que o idoso morreu. Tecnicas estatisticas
+e de aprendizado de maquina estao sendo estudadas por um
+aluno de doutorado .
+
+Questões envolvem a criaçao de um modelo de incentivo que
+promova a participaçao dos "vizinhos" como "sensores
+vivos". Tambem ha questoes envolvendo a reputaçao das
+informaçoes coletadas e a agregaçao das mesmas .
+
+**CONCLUSAO**
+
+A saude dos idosos e uma questao importante e que merece
+mais atençao. Questoes de acessibilidade, frequentemente
+estudadas em IHC, sao muito pertinentes neste projeto, bem
+como o projeto de usabilidade voltado para simplicidade e
+mecanismos de incentivo que levem os vizinhos a se engajar
+no sistema. Qualquer abordagem que se valha da
+coletividade para auxiliar o idoso e que para tal deve
+distribuir informaçoes sobre eles levanta questoes relativas a
+privacidade e acesso ao sistema. Metodos de pesquisa em
+IHC sao apropriados para este projeto, no qual vemos
+bastante intersecçao entre as areas de IHC e CSCW.
+
+**CONCLUSAO**
+
+A interaçao coletiva inteligente representa uma abordagem promissora para apoiar a vida independente de idosos. Ao integrar tecnologias de monitoramento, computaçao humana e modelos de incentivo, e possivel criar sistemas que promovam a segurança, a inclusao social e a melhoria da qualidade de vida dos idosos, respeitando sua privacidade e autonomia.

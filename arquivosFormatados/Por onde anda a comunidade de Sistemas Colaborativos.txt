@@ -1,0 +1,98 @@
+**INTRODUCAO**
+
+Na reuniao da comunidade de sistemas colaborativos durante
+o Simposio Brasileiro de Sistemas Colaborativos (SBSC), de
+2017, realizado em Sao Paulo, foi decidido que nao haveriam
+novas ediçoes do evento, e que este seria absorvido pela
+comunidade de IHC. A inexistencia de eventos implica
+tambem no fim da Comissao Especial de Sistemas
+Colaborativos (CESC) da SBC.
+
+Acreditamos que existam outras estrategias possiveis para
+reavivar a comunidade antes de efetivamente encerra-la. Para
+verificar essas estrategias, decidimos, com o aval da CESC,
+realizar um levantamento junto a comunidade brasileira de
+Sistemas Colaborativos, para saber a opiniao dos
+pesquisadores da `rea sobre o assunto, incluindo aqueles que
+nao puderam estar presentes na reuniao do SBSC 2017. O
+objetivo desse estudo foi mapear como pensam esses
+pesquisadores, e que possibilidades sao percebidas para a
+CESC, enquanto comunidade, bem como para evento(s)
+associados a mesma, que justificassem sua existencia junto a
+SBC, ou mesmo a outras sociedades fora da Computaçao.
+Com
+esse levantamento, procuramos entender se a
+comunidade realmente se dissolveu, migrou ou se esta
+apatica, e se ha como reanima-la. Esse material serve como
+ponto de partida para uma reflexao do grupo.
+
+Para isso, preparamos um questionario e solicitamos a todos
+que trabalham com temas relacionados a sistemas
+colaborativos (ainda que nao seja sua principal area de
+pesquisa) a responderem. O questionario foi elaborado no
+SurveyMonkey (surveymonkey.com). O questionario foi
+composto de 19 questoes, em sua maioria perguntas fechadas
+com a opçao Outros (especifique)'. Tambem incluimos 2
+questoes abertas para obter percepçoes sobre a possivel uniao
+da comunidade de sistemas colaborativos com outra area e
+obter sugestoes.
+
+O questionario foi disponibilizado durante aproximadamente
+45 dias, no periodo de 14 de Maio a 25 de Junho de 2018.
+Um email com texto explicativo e finalidade da pesquisa foi
+enviado as listas da SBC, CESC, aos participantes do comite
+de programa do SBSC 2017 (52 pessoas), e a pesquisadores
+que trabalham em temas relacionados a area, de
+conhecimento dos autores.
+
+Foram obtidas, no total, 38 respostas ao questionario. As
+respostas vieram lentamente, mas encontramos com pessoas
+em congressos outros que comentaram nao saber do
+questionario, o que indica que a estrategia de distribuiçao
+pode ter sido falha. Porem, acreditamos que, mesmo nao
+obtendo respostas de todos os pesquisadores que, em algum
+momento, participaram da comunidade, o grupo de
+respondentes e representativo das pessoas que se importam
+com a comunidade de Sistemas Colaborativos,
+contemplando as 5 regioes brasileiras.
+
+DEMOGRAFIA DOS RESPONDENTES
+Foram 38 respondentes, dentre eles 30 professorespesquisadores, 7 alunos de pos-graduacao e 1 profissional de mercado. Desses, 21 sao homens e 17 mulheres. Apesar do pequeno numero de respondentes, os participantes estavam bem distribuidos pelo territorio nacional: 18 da regiao sudeste, 11 do nordeste, 4 do sul, 2 do norte, um do centrooeste e 2 vivendo do exterior, como mostrado na Tabela 1.
+A grande maioria, cerca de 32 pessoas estao vinculadas ao servico publico, em especial universidade publica, como ilustrado na Figura 1. Ninguem faz pesquisa puramente quantitativa: 50% dos respondentes faz pesquisa puramente qualitativa e 50% faz quantitativa e qualitativa. A grande maioria faz pesquisa aplicada (79%) e apenas 21% faz pesquisa teorica.
+
+Calculamos o tamanho da comunidade considerando o numero de respondentes (conexao direta) e o numero de orientandos mencionados pelos participantes (conexao indireta). Como as opcoes de respostas sobre o numero de alunos trabalhando na area de sistemas colaborativos eram faixas, consideramos o valor minimo e maximo de cada faixa. Para faixas abertas, por exemplo acima de 5 alunos, o valor maximo foi considerado o valor minimo 1 (uma estimativa conservadora). Com isso chegamos que a comunidade de Sistemas Colaborativos, em 2018, tem um tamanho estimado de 126 a 195 integrantes. Portanto uma comunidade pequena, mas expressiva e espalhada pelo territorio nacional.
+
+ATUACAO DA COMUNIDADE
+Houve pouca adesao da comunidade em 2017. Apenas 16% dos respondentes compareceram ao SBSC2017. Porem, desde 2013, apenas 29% dos respondentes nunca participaram de um SBSC. 71% dos respondentes ja publicaram nos anais do SBSC, 45% ja participaram de comite de programa e 32% ja organizaram algum SBSC e 11% dos respondentes sao novos na comunidade. Os respondentes informaram que publicam seus trabalhos em eventos nacionais e internacionais em outras areas, como ilustrado na Tabela 2.
+
+E O FUTURO?
+Ao se confirmar o termino da CESC e do SBSC, a comunidade restante ira se dissipar em multiplos eventos, nao havendo nenhum espaco agregador. Ha uma percepcao majoritaria entre os respondentes de que o termino da CESC e uma atitude precipitada.
+Talvez a decisao de 2017 tenha exposto uma necessidade de revisao de rumos e objetivos, e criado esta oportunidade. Ha ainda muito interesse em se manter a comunidade ativa. Apenas uma pessoa respondeu que nao ajudaria a manter a CESC ativa, como ilustrado na Figura 2 (e este foi um respondente que julgou que nao poderia ajudar por estar no exterior).
+
+Rumos e Possibilidades
+No questionario apresentamos algumas ideias iniciais de mudancas para a comunidade e o SBSC. Uma das propostas e relativa a periodicidade das conferencias nacionais em sistemas colaborativos (SBSC), mostrado na Figura 3. A alteracao de periodicidade refletiria talvez o tempo de maturacao da pesquisa em sistemas colaborativos, e possivelmente mitigaria a baixa disponibilidade e adesao da comunidade, que teria mais tempo para organizar os eventos e realizar as pesquisas. A opcao de tornar-se um workshop junto a outras conferencias nao foi particularmente bem aceita.
+
+Outra sugestao apresentada foi a aproximacao de sistemas colaborativos com areas afins, como ilustrado na Figura 4. As areas que apareceram de forma mais proeminente foram as ciencias sociais, comunicacao e administracao. Este pode ser um sinal que, a exemplo do que acontece na comunidade de sistemas colaborativos internacional, a area caminha para a computacao social. Ao ser perguntada, a comunidade brasileira respondeu que ve com bons olhos mas foi cautelosa quanto a uma mudanca de rumo na direcao da computacao social, como ilustrado na Figura 5.
+
+As perguntas abertas trouxeram uma variedade de ideias de como podemos manter a comunidade. Tambem indica que a aproximacao com outras areas e bem-vinda, mas sem descaracterizar a nossa identidade. Analisamos e resumimos as sugestoes enviadas, que foram bem diversificadas, como ilustrado no mapa de palavras da Figura 6. Ha um senso comum que podemos nos aproximar de outras areas sem fundir, que precisamos divulgar mais a area e ate mesmo incluir nos curriculos. Devemos fazer eventos co-localizados e alguns acham que devemos ser um ramo dentro de eventos maiores. Os alunos devem ter mais espaco, devendo ser facilitada sua participacao, seja pensando na localizacao dos eventos, nos custos para participacao, ou na participacao da conferencia em si. Tambem ha preocupacao quanto a divulgacao da area e o ensinopreparo dos alunos curricularmente ou com cursos de verao e mini-cursos nas conferencias.
+
+**CONCLUSAO**
+
+Neste artigo apresentamos um resumo executivo da opiniao
+da comunidade sobre o fim do SBSC (e, consequente
+suspensao de atividades da comissao especial de sistemas
+colaborativos), que simboliza o termino de um ponto de
+encontro e parceria. Resta a nos refletir individualmente e
+como grupo, se esgotamos as oportunidades como grupo ou
+se essa e uma grande oportunidade para a comunidade
+refletir, sair do ponto morto e decidir se novos rumos sao
+desejaveis.
+
+**AGRADECIMENTO**
+
+Este artigo e um material para reflexao. So foi possivel pela
+colaboraçao das pessoas da comunidade que devotaram
+tempo para responder o questionario.
+
+**CONSIDERACOES FINAIS**
+Este estudo, ao investigar as percepçoes da comunidade brasileira de Sistemas Colaborativos sobre o fim do SBSC e da CESC, revela um cenário de apreensao e oportunidade. A expressiva maioria dos respondentes manifesta o desejo de manter a comunidade ativa, buscando novas formas de colaboraçao e dialogo. A aproximaçao com areas afins, como a computaçao social, e a valorizaçao do espaço para alunos e pesquisadores em eventos, emergem como caminhos promissores para o futuro da area.

@@ -1,0 +1,100 @@
+**INTRODUCAO**
+
+A integraçao do trabalho de profissionais de UX (User eXperience)
+e de praticas ageis tem sido investigada ha bastante tempo .
+Muitos desafios sao enfrentados para essa integraçao aconteça,
+sendo que a comunicaçao sobre informaçoes de UX se constitui
+em um questao fundamental. No desenvolvimento agil, a comuni-
+caçao ocorre majoritariamente de maneira verbal em cerimonias
+de desenvolvimento de software com o objetivo de alcançar um
+entendimento compartilhado de todo o time. Do lado da UX, a
+comunicaçao e feita tradicionalmente com o uso de artefatos .
+
+Os estudos sobre a integraçao de praticas de UX e agil abordam
+questoes sobre metodos e processos , desafios de comunicaçao
+, entre outros. Observa-se, contudo, que os trabalhos nao in-
+vestigam como as informaçoes de UX e as caracteristicas dessas
+informaçoes sao usadas por times ageis. Considerando esta lacuna,
+o artigo "UX information in the daily work of an agile team: A dis-
+tributed cognition analysis" buscou responder duas questoes de
+pesquisa (QP): (QP1) Que tipo de informaçao de UX os times ageis
+utilizam em seu trabalho diario?; e (QP2) Como as informaçoes de
+UX fluem dentro do sistema cognitivo de um time agil?.
+
+Para responder as questoes acima, foi conduzido um estudo
+etnografico durante tres meses que investigou o trabalho diario
+de uma equipe agil a partir das lentes da cogniçao distribuida e
+dos elementos de UX presente em artefatos usados pelo time. A
+cogniçao distribuida considera que a cogniçao se manifesta em
+nivel sistemico, e nao no nivel cognitivo individual de uma pessoa
+. Ou seja, a aquisiçao e a propagaçao da informaçao ocorrem
+por meio da interaçao das pessoas, seu ambiente e artefatos. E
+que todos eles afetam o trabalho humano . Considerando, os
+aspectos que envolvem a cogniçao distribuida foi desenvolvido o
+estudo etnografico.
+
+A etnografia e um metodo de pesquisa comumente usado para
+se investigar como a cogniçao distribuida se estabelece em estudos
+sobre diamicas que ocorrem em locais de trabalho. A etnografia
+busca a compreensao sobre pessoas e culturas situadas em seus
+ambientes sociais. Neste estudo, o ambiente social e reconhecido
+como o local de trabalho dos profissionais de desenvolvimento de
+software.
+
+Para esse estudo, foi adotado o metodo DiCoT (Distributed Cognition for Teamwork) que e adequado para estudar a cognicao distribuida em equipes pequenas, como comumente se caracterizam times ageis. O DiCoT propoe um conjunto de 22 principios dividido em cinco temas e fornece um conjunto de diretrizes que o pesquisador pode seguir em sua investigacao. Neste estudo, foram considerados tres temas e suas respectivas diretrizes: i artefato explora a estrutura de ferramentas e representacoes e como elas afetam o trabalho na pratica; ii fisico foca no layout do local de trabalho e como isso impacta na propagacao da informacao; e iii fluxo de informacao examina a comunicacao entre os membros da equipe e como a informacao flui e se transforma dentro de um ambiente de trabalho.
+Para explorar em profundida as caracteristicas das informacoes de UX, foram adotados dois modelos. O primeiro foi o modelo de UX orientado a conteudo proposto por Hassenzahl. Este modelo busca orientar o design da UX sob a otica de tres niveis: o nivel why, o mais abstrato, concentra-se no significado que a interacao com o produto traz para os usuarios; o nivel what aborda as funcionalidades que um produto oferece aos usuarios para atender as suas necessidades; e o nivel how aborda acoes concretas dos usuarios para interagir com o produto tangivel. Com o objetivo de explorar em maiores detalhes os elementos que compoem a informacao de UX, foi tambem adotado o framework proposto por Garrett denominado de elementos de UX. O autor descreve cinco planos que apresentam a evolucao da concepcao e desenvolvimento do produto desde a visao estrategica necessidades dos usuarios passando por planos que descrevem a arquitetura da informacao ate chegar nos elementos de interface. Para o estudo conduzido no artigo, foi proposto uma nova perspectiva da informacao de UX combinando as propostas de Hassenzahl e Garrett. Isto possibilitou que a analise sobre as caracteristicas da informacao de UX fosse feita em maiores detalhes.
+A investigacao foi realizada em uma unidade de desenvolvimento de software de uma grande universidade sediada no Reino Unido. O departamento possuia mais de 100 desenvolvedores trabalhando na construcao de produtos para apoiar diferentes areas da universidade, incluindo informacoes de gerenciamento, suporte ao aluno e design de cursos. Os dados qualitativos foram coletados por meio de sessoes de observacao do trabalho diario e reunioes da equipe, entrevistas individuais, e participacao em sessoes de demonstracao e uma oficina sobre melhoria de processo.
+A analise dos dados foi realizada em um processo iterativo. A cada coleta os dados eram consolidados e armazenados na ferramenta NViVo 2. O processo de analise iterativa foi organizado em duas rodadas com a participacao das tres autoras. Na primeira rodada, as autoras procuraram por evidencias explicitas de UX nos dados coletados, tanto em artefatos quanto em dados sobre as cerimonias conduzidas atraves das praticas ageis reunioes diarias, reunioes de planejamento, entre outras. Esta analise auxiliou a responder a PQ1. Quando a evidencia era identificada, eram atribuidos codigos usando os elementos existente no modelo proposto a partir da interconexao da proposta de Hassenzahl e Garrett. Alem disto, anotacoes eram geradas para sumarizar os achados. Durante esta etapa, foi codificada a relacao entre artefatos, pessoas e atividades. Na segunda rodada, o conjunto de dados foi analisado usando os temas DiCoT artefatos, fisico e fluxo da informacao. Esta segunda analise, permitiu compreender como as informacoes de UX se apresentavam e se propagavam no sistema cognitivo, isto e, no ambiente de trabalho do time. Por fim, os dados nos permitiram encontrar falhas de comunicacao que ocorriam no fluxo de informacoes de UX. A segunda rodada, permitiu se responder a PQ2.
+
+**RESULTADOS E CONTRIBUIÇOES**
+
+Os resultados foram descritos atraves dos temas do DiCoT buscando
+responder as perguntas de pesquisa. Nesta sintese sao apresentadas
+de forma sucinta as respostas de cada pergunta de pesquisa. No
+artigo completo e possivel encontrar uma discussao detalhada sobre
+os resultados encontrados e sua comparaçao com a literatura.
+
+Ao responder a PQ1 (Que tipo de informaçao de UX os times ageis
+utilizam em seu trabalho diario?), foi possivel observar que todos os
+niveis de informaçoes de UX (why, what e how) foram mencionados
+em algum grau nas varias cerimonias realizadas pelo time e nas
+interaçoes informais entre os membros. O nivel why foi o menos
+identificado tanto nos artefatos quanto no fluxo de informaçoes,
+embora ocasionalmente fosse mencionado em reunioes. As relativas
+ao nivel how foram as informaçoes de UX mais comuns encontradas
+em artefatos como mock-ups, historias do usuario, entre outras.
+
+Ja para a PQ2 (Como as informaçoes de UX fluem dentro do sis-
+tema cognitivo de um time agil?), foi possivel observar que o sistema
+cognitivo e complexo, sendo composto por diferentes ferramentas
+virtuais, onde, muitas vezes a informaçao fica nao visivel para o
+time. Particularmente informaçoes do tipo why, fluem quase que ex-
+clusivamente atraves da comunicaçao verbal e nao sao capturados
+em artefatos. Isso sugere um aumento do nivel de transformaçao
+desse tipo de informaçao de UX entre pessoas o que pode causar
+problemas de comunicaçao se os entendimentos nao forem suficien-
+temente discutidos e alinhados. Outro ponto e que os membros do
+time sao agentes passivos em relaçao a informaçoes de UX. A falta
+de envolvimento dos desenvolvedores com as primeiras discussoes
+de UX pode comprometer as qualidades tecnicas do produto.
+
+Como contribuiçao pratica, o artigo apresenta um conjunto de
+recomendaçoes para apoiar equipes ageis no melhor uso das infor-
+maçoes de UX com base nas descobertas do estudo. Elas referem-se
+a: tornar mais explicitas e visiveis para os membros do time infor-
+maçoes sobre why e what; aumentar o nivel de engajamento dos membros do time com as informacoes de UX; e diminuir a complexidade com que a informacao de UX é tratada por meio de artefatos,
+permitindo assim um melhor rastreamento dessas informacoes.
+O artigo completo apresenta a discussao das recomendacoes em
+detalhes. A combinacao da etnografia com tres lentes analiticas
+complementares (DiCoT, a proposta de Garrett e de Hassenzahl)
+se constitui em uma contribuicao teorica do artigo. A articulacao
+entre essas teorias permite que sejam investigados o fluxo de informacoes de UX em outros contextos ou equipes que sao se limitam a
+times ageis. Os resultados do artigo podem incentivar a comunidade
+brasileira de IHC (Interacao Humano-Computador) a refletir sobre
+futuras investigacoes de como tornar as informacoes de UX mais
+visiveis e incorporadas ao trabalho de desenvolvimento de software.
+
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, a analise da cogniçao distribuida em equipes ageis revelou insights importantes sobre como as informaçoes de UX sao utilizadas e transmitidas no trabalho diario. A valorizaçao da comunicaçao verbal, o uso de artefatos visuais e o engajamento ativo dos membros da equipe sao fatores-chave para garantir a qualidade e a relevancia das soluçoes de UX em projetos de desenvolvimento de software.

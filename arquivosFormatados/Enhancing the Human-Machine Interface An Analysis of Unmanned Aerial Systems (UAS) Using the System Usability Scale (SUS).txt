@@ -1,0 +1,138 @@
+**RESUMO**
+
+Este estudo avaliou a usabilidade de um Sistema Interativo para
+Sistemas Aereos Nao Tripulados (UAS) utilizando a Escala de
+Usabilidade do Sistema (SUS). Um experimento baseado em simulacao
+envolveu 24 pilotos com niveis de experiencia variados. Os resultados
+mostraram uma pontuaçao SUS media de 67,4, indicando uma percepçao
+de usabilidade razoavelmente positiva. Os participantes sem experiencia
+anterior de pilotagem ou aeronautica tiveram pontuaçao mais baixa,
+enquanto aqueles com conhecimentos militares ou tecnicos tiveram
+pontuaçao mais alta. Essas descobertas destacam a importancia de
+considerar os conhecimentos dos usuarios para um controle eficaz do
+UAS e oferecem insights para melhorias de usabilidade.
+
+**INTRODUCAO**
+
+A adoçao de sistemas nao tripulados, como Veiculos Aereos Nao
+Tripulados (VANTs) e Sistemas Aereos Nao Tripulados (UAS), esta em
+ascensao na industria da aviaçao. Esses sistemas oferecem
+recursos avançados de voo e maior capacidade de carga util. No
+entanto, tem havido uma tendencia a negligenciar a importancia dos
+elementos humanos dentro do sistema, pois o foco tem sido
+principalmente na tecnologia da aeronave . As caracteristicas
+unicas do UAS introduzem fatores humanos nao convencionais que
+diferem das praticas tradicionais de aviaçao .
+
+Contribuiçoes significativas para acidentes e incidentes em operaçoes
+de VANTs tem sido atribuidas a erro humano e deficiencias na
+interface humano-maquina (IHM) . A dependencia excessiva da
+automaçao sem manter a consciencia situacional pode levar a atrasos
+na tomada de decisoes e erros quando ocorrem eventos inesperados .
+
+Este estudo tem como objetivo avaliar a usabilidade do Sistema
+Interativo utilizando o questionario System Usability Scale (SUS).
+Cenarios e tarefas serao definidos utilizando uma interface
+humano-maquina (IHM) prototipo que simula operaçoes de UAS em um
+ambiente de combate. O objetivo e contribuir para o desenvolvimento
+de projetos de IHM otimizados que reduzam a carga cognitiva,
+melhorem a tomada de decisoes e aumentem a consciencia situacional
+em condiçoes operacionais criticas.
+
+As descobertas desta pesquisa terao implicaçoes praticas para o
+controle eficaz e seguro de VANTs em diversas aplicaçoes, incluindo
+vigilancia, busca e salvamento e operaçoes militares. Ao avaliar o
+desempenho humano sob condiçoes operacionais criticas e
+desenvolver soluçoes de IHM otimizadas, o objetivo e aumentar a
+eficacia e a seguranca geral no controle de VANTs.
+
+**METODOLOGIA**
+
+Este estudo envolveu a participaçao de 24 pilotos com diferentes
+niveis de experiencia, com idades variando de 20 a 50 anos. Cada
+operador conduziu dois voos, cada um com duraçao de 30 minutos,
+como parte de um experimento baseado em simulaçao. Ao longo do
+estudo, quatro repetiçoes foram realizadas para os operadores,
+seguindo um processo estruturado para os pilotos.
+
+Para os operadores, os voos foram realizados em tres configuraçoes
+diferentes. Na primeira configuraçao, dois operadores foram designados
+para trabalhar juntos, um assume a navegaçao enquanto o outro opera
+o POD eletro-optico. Na segunda configuraçao, apenas um operador
+foi responsavel por controlar o VANT, permitindo a avaliaçao do
+desempenho individual. Na terceira configuraçao, um operador usou
+comandos de voz para controlar o VANT, investigando o impacto na
+operaçao e na carga mental.
+
+Dados de desempenho (NASA-TLX e ISA), medidas fisiologicas (Eye
+Tracker, GSR e ECG) e questionarios SUS foram coletados durante os
+voos para os operadores, enquanto a coleta de dados dos pilotos
+incluiu medidas fisiologicas, avaliaçoes de carga de trabalho e
+comparaçoes de linha de base. Essa metodologia permitiu uma
+analise detalhada dos efeitos das diferentes configuraçoes na operaçao
+do VANT e forneceu insights valiosos para o desenvolvimento de
+diretrizes e melhores praticas no campo da operaçao de sistemas
+aereos nao tripulados.
+
+O questionario SUS foi escolhido como instrumento de Avaliaçao de
+Usabilidade neste estudo devido a sua rentabilidade e ao pequeno
+numero de perguntas. O SUS, desenvolvido por Brooke (1996), e um
+questionario de 10 perguntas elaborado para medir a usabilidade de
+uma variedade de produtos e serviços.
+
+Ao final de cada teste, o piloto respondeu as seguintes questoes:
+
+Eu acho que gostaria de usar este simulador frequentemente.
+Achei o simulador desnecessariamente complexo.
+Eu achei o simulador facil de usar.
+Eu acho que precisaria do apoio de uma pessoa tecnica para poder
+usar este simulador.
+Eu achei as diversas funçoes neste simulador bem integradas.
+Eu achei que havia muita inconsistencia neste simulador.
+
+Eu imaginaria que a maioria das pessoas aprenderia a usar este simulador muito rapidamente.
+Achei o simulador muito dificil de usar.
+Senti-me muito confiante ao usar o simulador.
+Precisei aprender muitas coisas antes de conseguir comecar a usar este simulador.
+
+As respostas foram avaliadas em uma escala de 1 a 5, da seguinte forma:
+Discordo Totalmente - 1
+Discordo - 2
+Neutro - 3
+Concordo - 4
+Concordo Totalmente - 5
+
+Para calcular a pontuacao SUS (System Usability Scale), primeiro soma-se a contribuicao de cada item. A pontuacao de cada item varia de 0 a 5. Para os itens 1, 3, 5, 7 e 9, a contribuicao e a posicao na escala menos 1. Para os itens 2, 4, 6, 8 e 10, a contribuicao e 5 menos a posicao na escala. Multiplica-se a soma dessas pontuacoes por 2,5 para obter o valor final do SUS.
+
+A pontuacao media da Escala de Usabilidade do Sistema (SUS) e de 68 pontos. Se a pontuacao for inferior a isso, e provavel que o usuario esteja enfrentando problemas de usabilidade com o produto.
+
+Resultados e Discussoes
+Os resultados da SUS sao apresentados na Tabela 1 e na Tabela 2.
+
+Ao analisar os resultados, e evidente que as medias das avaliacoes em ambas as condicoes merecem atencao. Os participantes do grupo Variavel 2, que possuíam experiencia previa, atribuiram notas medias aproximadamente tres pontos superiores as dos participantes do grupo Variavel 1, sugerindo que a experiencia previa pode ter um impacto positivo na percepcao da usabilidade.
+
+Um aspecto interessante diz respeito a dispersao das avaliacoes. O grupo Variavel 1 apresentou uma variacao substancialmente maior do que o grupo Variavel 2. Isso pode indicar que as avaliacoes dos participantes sem experiencia previa foram mais amplamente distribuidas em torno da media, enquanto os participantes com experiencia previa demonstraram maior consistencia em suas avaliacoes, indicando percepcoes mais uniformes sobre a usabilidade.
+
+No entanto, e fundamental considerar cuidadosamente as implicacoes estatisticas desses achados. Ao testar a hipotese de que nao ha uma diferenca significativa na usabilidade entre os dois grupos, os resultados nao forneceram evidencias suficientes para rejeitar a hipotese nula. Isso significa que, com base nos dados disponiveis e nos testes realizados, nao e possivel afirmar com confianca que a experiencia previa resulta em uma usabilidade significativamente melhor.
+
+E importante enfatizar que essa conclusao nao diminui a relevancia da experiencia previa. Os resultados indicam que, no contexto da usabilidade, a experiencia previa pode nao ser o unico fator determinante. Alem disso, e essencial considerar outros aspectos que podem influenciar a percepcao do usuario, como design, interface, funcionalidades e outros elementos contextuais.
+
+**CONCLUSOES PRELIMINARES**
+
+Em resumo, esta pesquisa abordou a questao de se a experiencia
+anterior impacta significativamente a usabilidade, utilizando a System
+Usability Scale (SUS) como ferramenta investigativa. Os resultados
+indicam que, embora os participantes com experiencia anterior (referidos
+como 'Variavel 2') tenham demonstrado pontuaçoes medias
+ligeiramente superiores e menor variancia, as analises estatisticas
+confirmam a ausencia de uma diferença substancial na usabilidade
+quando comparados aos participantes sem experiencia anterior (referidos
+como 'Variavel 1').
+
+Isso sugere que, na avaliacao da usabilidade, a experiencia previa pode nao ser o fator predominante. A consistencia nas percepcoes de usabilidade dentro do grupo Variavel 2 levanta a necessidade de investigacoes adicionais sobre os elementos que influenciam essa uniformidade. Estudos futuros poderiam explorar as interacoes sutis entre diferentes aspectos da experiencia do usuario, familiaridade com o sistema e usabilidade. Os insights obtidos com esse tipo de pesquisa podem contribuir para aprimorar o design e a implementacao de produtos, sistemas e servicos, aumentando a satisfacao e a eficacia dos usuarios. A medida que o campo da experiencia do usuario continua a evoluir, esses achados representam uma contribuicao relevante para o debate continuo sobre a melhoria da usabilidade e a otimizacao das interacoes do usuario.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este estudo contribui para a compreensao da usabilidade de sistemas interativos para UAS, destacando a importancia de considerar a experiencia previa dos usuarios. Embora nao tenha sido encontrada uma diferença significativa na usabilidade entre os grupos com e sem experiencia, os resultados sugerem que a experiencia pode influenciar a percepçao e a consistencia na avaliaçao da usabilidade.
+
+Sao necessarias mais pesquisas para explorar os fatores que contribuem para a usabilidade e para identificar estrategias de projeto que atendam as necessidades de usuarios com diferentes niveis de experiencia. As descobertas deste estudo podem orientar o desenvolvimento de IHMs mais eficazes e seguras para UAS, melhorando a experiencia do usuario e o desempenho geral do sistema.

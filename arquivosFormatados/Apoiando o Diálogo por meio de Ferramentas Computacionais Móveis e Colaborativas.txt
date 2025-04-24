@@ -1,0 +1,185 @@
+**INTRODUCAO**
+
+A comunicaçao, seja ela por meio de fala, escrita, por gestos ou
+imagens, e a principal forma de transmissao de conhecimentos.
+A deficiencia na comunicaçao pode comprometer a interaçao,
+compreensao, aprendizado, bem como compartilhamento de
+ideias e sentimentos .
+
+A dificuldade de comunicaçao pode impedir pessoas de se
+comunicarem. Nesses casos, nao ha uma soluçao unica para
+fazer com que a comunicaçao ocorra . Dentre as pessoas
+com alguma deficiencia na comunicaçao, pode-se citar
+pessoas com Deficiencia Intelectual (DI), Sindrome de Down
+ou Autismo. Nesses casos, a pessoa ainda pode apresentar
+outras dificuldades, tais como problemas cognitivos, memoria
+verbal pobre e dificuldade de aprendizado .
+
+A Comunicaçao Aumentativa e Alternativa (CAA) e uma
+forma de comunicaçao para auxiliar pessoas sem fala ou es-
+crita funcional, ou em defasagem na sua habilidade de falar
+ou escrever . Essa forma de comunicaçao nao se restringe
+a apenas um canal de comunicaçao . A CAA permite a
+combinaçao de varios tipos de comunicaçao como expressoes
+faciais, expressoes corporais, o uso de gestos, sons, imagens,
+textos, entre outras . A CAA tambem pode trabalhar em
+conjunto com dispositivos de alta tecnologia.
+
+Dispositivos de alta tecnologia incluem notebooks, vocal-
+izadores e dispositivos moveis (tais como smartphones e
+tablets) . Dentre eles, os dispositivos moveis sao con-
+siderados os mais intuitivos , portateis e causar menos
+distraçao durante seu uso . Alem disso, eles integram varias
+tecnologias de comunicaçao como WiFi, Bluetooth e 4G .
+Destaca-se que uso de tecnologias para comunicaçao e uma
+das areas que mais crescem na sociedade , dessa forma,
+acredita-se que o uso de dispositivos moveis com a CAA tem
+potencial para apoiar a comunicaçao de pessoas com deficiên-
+cia intelectual.
+
+A Lingua Brasileira de Sinais (Libras), lingua da comunidade
+surda brasileira, tambem pode ser pensada como CAA no
+Brasil. As Tecnologias Assistivas (TAs) potencializam a aces-
+sibilidade comunicacional, possibilitando criar conteudos dig-
+itais com multiplas linguagens e midias a serem utilizadas
+como CAA. A comunicaçao entre surdo e ouvintes e mais
+uma das dificuldades enfrentadas pela pessoa com surdez. De
+um lado da comunicaçao esta o surdo com a Libras, com sua
+Lingua propria e do outro lado da comunicaçao esta o ouvinte,
+que na maioria dos casos nao tem conhecimento da lingua de
+sinais para que exista uma comunicaçao satisfatoria.
+
+As tecnologias computacionais em conjunto com Sistemas Co-
+laborativos (SC) cada vez mais contribuem na acessibilidade
+comunicacional das pessoas e no processo inclusivo. Nesse
+sentido, o objetivo desta pesquisa e apoiar a comunicaçao de
+pessoas com deficiencia intelectual, de pessoas surdas e de
+usuarios de Libras por meio de ferramentas computacionais
+moveis e colaborativas.
+
+
+DEFICIENCIA INTELECTUAL
+Deficiencia Mental ou Deficiencia Intelectual (DI) e caracterizada por uma reducao de compreensao de informacoes novas
+ou complexas, e na capacidade de aplicar esse conhecimento.
+Inicia-se antes da idade adulta e se prolonga pelo resto da vida.
+Pessoas com essa deficiencia caracterizam-se por possuir um
+QI menor que 70 pontos, e ela afeta de 2% a 3% da populacao
+[13].
+As pessoas com DI, muitas vezes, possuem dificuldades em
+se comunicar com as pessoas ao seu redor. A pessoa com DI
+caracteriza-se por deficits em capacidades mentais genericas,
+como raciocinio, solucao de problemas, planejamento, pensamento abstrato, juizo, aprendizagem academica e aprendizagem pela experiencia [1, p.31]. Esses problemas prejudicam
+o individuo na aquisicao da autonomia pessoal a realizacao
+de suas atividades. Ainda de acordo com [1, p.31], esses
+deficits resultam em prejuizos no funcionamento adaptativo,
+de modo que o individuo nao consegue atingir padroes de
+independencia pessoal e responsabilidade social em um ou
+mais aspectos da vida diaria. Essa autonomia na realizacao
+das atividades engloba alguns aspectos como a comunicacao,
+participacao social, funcionamento academico ou profissional
+e independencia pessoal em casa ou na comunidade.
+A DI pode ser classificada de acordo com niveis leve, moderado, grave e profunda [1, p.31]. Nas criancas com DI leve
+existem dificuldades em aprender habilidades academicas que
+envolvam leitura, escrita, matematica, tempo ou dinheiro [1,
+p.34]. As criancas com DI moderada possuem um lento progresso na leitura, na escrita, na matematica e na compreensao
+do tempo e do dinheiro ao longo dos anos escolares [1, p.35].
+Na DI grave existe pouca compreensao da linguagem escrita
+ou de conceitos que envolvam numeros, quantidade, tempo e
+dinheiro [1, p.36]. Na DI profunda as habilidades costumam
+envolver mais o mundo fisico do que os processos simbolicos
+[1, p.36].
+A DI ocorre no periodo do desenvolvimento [1, p.38]. A identificacao da DI pode ocorrer em diversos periodos de crescimento, por exemplo, nos diagnosticos de DI grave atrasos em
+marcos motores, linguisticos e sociais podem ser identificaveis
+nos primeiros dois anos de vida. Por outro lado, diagnosticos
+de DI leve podem nao ser identificados ate a idade escolar,
+quando ficam aparentes as dificuldades de aprendizagem
+academica [1, p.38].
+
+LIBRAS E REALIDADE SURDA
+A Lingua natural dos surdos brasileiros e a Lingua Brasileira
+de Sinais, e a Libras e "uma das siglas para referir a lingua
+brasileira de sinais" [5, p. 8].
+A Libras e uma lingua natural utilizada pela comunidade surda
+de modalidade visual-espacial, articulada por meio das maos,
+das expressoes faciais e do corpo [5, p. 19]. Os tres principais
+parametros da lingua de sinais, conforme [17] sao: a configuracao de mao, movimento e ponto de articulacao. Alem disso,
+estudos em linguistica das linguas de sinais apontam parametros secundarios, como orientacao de mao e marcadores nao
+manuais.
+A surdez implica tanto na perda de audicao e dificuldades
+encontradas na fala, quanto na forma que a pessoa surda esta
+inserida na sociedade, na sua identidade e no seu desenvolvimento [19]. As dificuldades relacionados com a surdez se
+potencializam em contextos, a saber:
+Com a falta de interpretes de Libras/Lingua Portuguesa nas
+escolas e instituicoes;
+O surdo muitas vezes nao compreende satisfatoriamente a
+lingua portuguesa escrita, ocasionando uma exclusao digital,
+pois ele nao entende as paginas que acessa e navega pela
+internet pelo fato de sua lingua materna ser Libras;
+O usuario nao troca informacoes, mensagens e videos com
+outros usuarios;
+Ha surdos que nao sao oralizados;
+O surdo possui mais de um meio de comunicacao, a saber:
+Libras, imagem representativa do termo, escrita na lingua
+portuguesa, escrita de sinais (SignWriting [15]) etc;
+De acordo com [4, 7], principalmente pelo fato de que na
+maioria das vezes o surdo nasce em uma familia de ouvintes,
+se a familia conceber a surdez como doenca tentara
+usar a lingua oral como meio de comunicacao por meio
+da oralizacao do surdo, sem dar acesso a lingua natural da
+comunidade surda brasileira (Libras). Assim, isso faz com
+que o surdo cresca com uma visao de mundo diferente dos
+ouvintes. Nesses casos, a pessoa surda geralmente apresenta dificuldades de estabelecer contatos interpessoais e
+de interacao social devido a privacao linguistica pela qual
+passou.
+
+
+**DISCUSSOES**
+
+Os principais aspectos de interseçao desta pesquisa com a area
+de IHC estao relacionados com as praticas e metodologias de
+desenvolvimento de sistemas com foco no usuario.
+
+Por exemplo, a pesquisa sera norteada por abordagens como
+Design Participativo (DP) e User Centered Design (UCD), que
+possibilitam ter a participaçao do usuario no projeto, assim
+como identificar questoes de acessibilidade, principalmente
+as de comunicaçao e abordagens colaborativas. As aborda-
+gens UCD e DP possuem principios em comum no que se
+refere ao tratamento relacionado com a democracia, partic-
+ipaçao dos usuarios e dos stakeholders no desenvolvimento
+do sistema. Alem disso, ambos utilizam tecnicas de Design
+de Interaçao (DI) de prototipos e workshops, assim como de
+maior aceitaçao, maior usabilidade e acessibilidade do sistema.
+No design de interaçao, o foco e o envolvimento do usuario
+no processo ao utilizar sessoes de avaliaçoes dos prototipos,
+sendo assim e uma abordagem centrada no ser humano. Por-
+tanto, e possivel que as abordagens utilizadas na pesquisa
+contribuam para identificaçao de aprimoramentos, testar al-
+ternativas, experimentar a participaçao do usuario em varias
+atividades e versoes.
+
+Tambem pretende-se avaliar a comunicaçao por meio do Mod-
+elo de Comunicaçao Efetiva (MCE). Algumas das recomen-
+daçoes a serem adotadas estao relacionadas com a realizaçao
+de questionarios na avaliaçao para experiencia de usuario em
+aplicativos moveis, tais como planejar com foco na acessibil-
+idade focar na experiencia de usuario definir papeis para o
+time de avaliaçao elaborar e aplicar questionarios voltados à
+acessibilidade usar tecnologias de suporte à observaçao. Alem
+disso, pretende-se levantar heuristicas, metricas, avaliacoes de comunicabilidade em SC com base nas dimensoes, categorias e etiquetas do Metodo de Avaliacao de Comunicabilidade
+(MAC) e Metodo de Avaliacao de Comunicabilidade para Groupware (MACg). Os participantes do grupo, assim como
+a maneira como eles interagem e os seus objetivos sao transmitidos pela meta mensagem. A aplicabilidade de avaliacao
+de SC pode ainda ser encontrada em metodos fundamentados na engenharia da semiotica, como o Metodo de Inspecao
+Semiotica (MIS) e MACg [14]. No MIS a emissao da meta
+mensagem projetista usuario e analisada de forma a identificar
+os possiveis cenarios de problemas na qualidade de emissao.
+Enquanto o MAC e o MACg analisam a recepcao da meta
+mensagem pelos usuarios do sistema.
+A avaliacao da acessibilidade comunicacional podera ser analisada por meio da interseccao das areas de experiencia de
+usuario, desenho universal e acessibilidade do Design de Interface.
+O processo de avaliacao tambem pretende fazer uso da
+metodologia Single Subject Design [8]. Ela e usada para
+definir principios basicos de comportamento e estabelecer
+praticas baseadas em evidencias.
+
+**CONSIDERACOES FINAIS**

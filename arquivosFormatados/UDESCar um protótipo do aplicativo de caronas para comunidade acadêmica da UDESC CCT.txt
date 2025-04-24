@@ -1,0 +1,122 @@
+**Descricao do problema**
+
+Para os alunos que moram longe do campus, lidar com o tempo de deslocamento pode
+ser um verdadeiro desafio. Passar horas no transito todos os dias nao so consome muito
+do nosso tempo, mas tambem pode deixar os estudantes cansados e estressados. Essa de-
+mora constante pode afetar a concentraçao nas aulas e ate mesmo desempenho academico
+.
+
+Alem disso, as desigualdades de condiçoes entre homens e mulheres na sociedade
+se refletem na mobilidade urbana, impactando diretamente as medidas de segurança que
+as mulheres precisam adotar durante seus trajetos diarios. Embora homens e mulheres en-
+frentam condiçoes de mobilidade semelhantes, as mulheres sao significativamente mais
+propensas a tomar precauçoes de segurança de forma constante ou frequente ao se des-
+locarem para a universidade. Em contraste, a porcentagem de homens que raramente ou
+nunca tomam medidas de segurança e consideravelmente maior .
+
+Este artigo tem como objetivo investigar as dificuldades dos estudantes com os
+meios de transporte para a universidade e propor o desenvolvimento de um prototipo
+de aplicativo de caronas personalizado para comunidade academica da Universidade do
+Estado de Santa Catarina (UDESC) no Centro de Ciencias Tecnologicas(CCT). Inspirado
+em modelos como o BlaBlaCar, o prototipo visa facilitar o compartilhamento de veiculos
+de forma segura, eficiente e economica, oferecendo uma alternativa viavel ao transporte
+publico convencional .
+
+**Metodologia**
+
+Este trabalho foi desenvolvido seguindo os processos de design centrado no usuario
+. Realizamos um brainstorm para identificar os desafios enfrenta-
+dos pela comunidade academica da UDESC-CCT. Apos a definiçao do problema que foi
+trabalhado, elaboramos um questionario estruturado em seçoes para coletar dados rele-
+vantes dos usuarios.
+
+Na primeira seçao do questionario coletamos dados demograficos, horarios de ida
+e volta dos usuarios para a UDESC-CCT e dias da semana em que frequentam a UDESC-
+CCT. Essas informaçoes foram essenciais para identificar padroes de atividade e auxiliar
+no planejamento de rotas adequadas. Na segunda seçao, fizemos perguntas sobre os meios
+de locomoçao utilizados pelos usuarios. Por ultimo, abordamos suas expectativas e pre-
+ferencias em relaçao ao sistema proposto. O questionario foi compartilhado na rede social
+Whatsapp em diversos grupos da comunidade academica, resultando em 81 respostas.
+Para uma melhor visualizaçao e analise dos dados obtidos, criamos um dashboard que
+facilitou a interpretaçao das informaçoes coletadas e filtragem das respostas.
+
+Para os alunos que utilizam onibus como meio de transporte para a universidade
+e passam em media de 1 a 3 horas se deslocando ate o campus, 83,3% acreditam que
+o tempo de deslocamento afeta consideravelmente seu rendimento academico. Entre
+as 81 respostas obtidas, 51,85% dos alunos vao de carro para a universidade. Desses,
+26,2% estao dispostos a oferecer carona, enquanto 47,6% talvez o fariam, considerando a
+remuneraçao pela viagem e o historico do passageiro que solicita a carona. Entre os alu-
+nos que nao utilizam carro para ir a universidade, 71,8% estao dispostos a pegar carona
+e outros 17,9% talvez aceitariam, levando em conta os mesmos fatores considerados por
+aqueles que oferecem a carona. Em relaçao a preferencia pelo genero do motorista, 69%
+das mulheres tem preferencia ou talvez possuam uma preferencia. Apenas 24,1% delas
+se sentem seguras utilizando aplicativos de caronas.
+
+Com os dados analisados, desenvolvemos personas e cenarios que nos ajudaram a
+definir requisitos para o aplicativo. Apos a definiçao das funcionalidades essenciais, cria-
+mos um prototipo de baixa fidelidade do aplicativo de caronas usando a plataforma Figma,
+o que permitiu que nossa equipe colaborasse em tempo real. Quando o prototipo foi con-
+cluido, realizamos testes de usabilidade presenciais com um teste piloto do prototipo e
+do questionario de avaliaçao, envolvendo tres colegas de sala. O objetivo era identificar
+problemas na versao inicial do aplicativo, verificar o tempo necessario para a execuçao
+das tarefas e aprimorar o metodo de aplicaçao do teste. Apos os ajustes realizados no
+teste piloto, aplicamos o teste de usabilidade a comunidade academica, obtendo oito avaliadores voluntarios. Os testes de usabilidade seguiram um roteiro estruturado. Primeiro, o usuario lia o Termo de Consentimento Livre e Esclarecido (TCLE), explicando sobre o projeto para a comunidade. Apos, o usuario explorava o sistema para se familiarizar com o ambiente. Em seguida, apresentamos alguns cenarios de interacao para serem realizados, como fazer o cadastro no sistema e agendar uma carona as 7:00 a.m. Por ultimo, aplicamos o questionario de satisfacao do sistema.
+
+**Funcionamento do aplicativo**
+
+O objetivo principal foi criar uma interface intuitiva e funcional que atendesse as neces-
+sidades dos usuarios, garantindo uma navegaçao facil e segura. Para tal os principios de
+design de Norman e as Heuristicas de Nielsen foram utilizadas como fundamento para
+o desenvolvimento . O prototipo inicial consiste em 20 telas, cada
+uma desempenhando um papel especifico na experiencia do usuario, incluindo telas de
+exceçao com mensagens de erro. Na coleta de dados, recebemos algumas sugestoes de
+segurança como solicitar a matricula e o email institucional no cadastro para garantir que
+a pessoa que va usar o sistema pertence a comunidade academica, ter um perfil do mo-
+torista com avaliaçoes feitas por outros passageiros. Tambem observamos a insegurança
+de algumas mulheres ao pegar/oferecer caronas com pessoas desconhecidas, entao na tela
+de cadastro incluimos a opçao de indicar a preferencia em oferecer/pegar caronas com
+pessoas do mesmo genero.
+
+A construçao do prototipo nos permite visualizar o fluxo de interaçao dos
+usuarios e ajustar as funcionalidades conforme necessario. Dentre suas principais funcionalidades estao: ”Cadastrar usuario”, ”Login”, ”Solicitar carona”, ”Oferecer carona”,
+”Mensagens”, ”Suas viagens”, ”Perfil”, ”Perfil do motorista” e ”Perfil do passageiro”.
+
+**Desafios e liçoes aprendidas**
+
+Com o alto numero de estudantes e servidores que precisam se deslocar diariamente para
+a UDESC-CCT, um aplicativo de caronas especifico para a comunidade academica repre-
+senta uma soluçao inovadora para reduzir o tempo de deslocamento, aliviar o congestiona-
+mento e melhorar a qualidade de vida da comunidade academica. A aplicaçao de metodos
+de design centrado no usuario permitiu a identificaçao das necessidades e expectativas dos
+usuarios, o que foi crucial para a criaçao de um prototipo funcional e intuitivo.
+
+Inicialmente, a utilizaçao de uma unica foto para todos os perfis gerou confusao
+na execuçao das tarefas, dificultando a distinçao entre diferentes usuarios. Observamos,
+ainda, que os usuarios tiveram dificuldade em localizar informaçoes sobre os passageiros
+e o perfil do motorista apos fechar a tela inicial da carona, levantando duvidas sobre a
+eficacia do design da tela "Oferta de Carona"e a clareza das tarefas formuladas. Iden-
+tificamos tambem a necessidade de criar uma tela especifica para que o motorista aceite
+caronas solicitadas, ja que, atualmente, no prototipo, o motorista apenas posta uma carona
+e aguarda.
+
+Em resposta a esses desafios, atualizamos as fotos de perfil para cada usuario e
+consideramos a sugestao de criar uma aba especifica para caronas agendadas e uma aba
+para aceitar carona. Essas mudanças melhoraram a clareza e facilitaram a localizaçao de
+informaçoes, garantindo uma experiencia de usuario mais intuitiva e eficiente. Continua-
+remos a incorporar feedback dos usuarios para aperfeiçoar continuamente a usabilidade e
+funcionalidade do sistema.
+
+O trabalho destaca a identificaçao clara dos problemas relacionados ao tempo de
+deslocamento e a segurança no transporte, alem de uma metodologia detalhada e estrutu-
+rada baseada nos principios de design de Norman e Heuristicas de Nielsen. A aplicaçao
+do metodo de design centrado no usuario permitiu o desenvolvimento de um prototipo
+alinhado as necessidades reais dos usuarios. No entanto, a ausencia de um teste piloto no
+primeiro questionario limitou a inclusao de algumas perguntas importantes, e a amostra
+reduzida nos testes de usabilidade pode nao representar completamente a diversidade da
+comunidade academica, apontando para a necessidade de uma analise mais aprofundada
+dos dados. Embora a questao da segurança seja abordada, seria util incluir mais detalhes
+sobre como o aplicativo lidara com incidentes de segurança.
+
+**CONSIDERACOES FINAIS**
+
+Este projeto demonstra o potencial de um aplicativo de caronas para a comunidade academica da UDESC CCT, oferecendo uma soluçao inovadora para os desafios de transporte enfrentados pelos estudantes. A aplicaçao de metodos de design centrado no usuario foi fundamental para garantir que o prototipo atendesse as necessidades e expectativas dos usuarios, resultando em uma experiencia mais intuitiva e eficiente.

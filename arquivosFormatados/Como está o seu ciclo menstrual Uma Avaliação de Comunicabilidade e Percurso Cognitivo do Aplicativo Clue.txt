@@ -1,0 +1,353 @@
+**RESUMO**
+
+O controle de ciclo menstrual e uma das maiores dores de
+cabeça das mulheres. Saber quando foi a ultima
+menstruaçao, quando iniciou a cartela do anticoncepcional e
+quando e a janela de fertilidade sao algumas das muitas
+preocupaçoes do publico feminino. Hoje, a abrangencia do
+uso de smartphones e a quantidade de aplicativos que
+ajudam a gerenciar atividades diarias, trouxe consigo uma
+soluçao para os anseios das mulheres. Neste contexto, foi
+realizada a avaliaçao do aplicativo Clue, a fim de entender
+como ele auxilia no acompanhamento do ciclo menstrual.
+Para isto, foram utilizados dois metodos de avaliaçao: como
+metodo de inspeçao foi utilizado o Percurso Cognitivo e
+como metodo de observaçao de uso foi utilizada a
+Avaliacao de Comunicabilidade. Foi possivel verificar que
+o aplicativo possui alguns problemas relacionados com a
+comunicaçao, mas que, de maneira geral, os usuarios se
+mostraram satisfeitos com seu uso.
+
+
+**INTRODUCAO**
+
+A popularizaçao dos smartphones tem sido considerada por
+muitos a revoluçao tecnologica de maior impacto nos
+ultimos tempos . Hoje, smartphones sao veiculos de facil
+acesso a internet e oferecem dos mais variados tipos de
+aplicativos . As principais caracteristicas que os
+dispositivos moveis trouxeram consigo sao a mobilidade, a
+portabilidade e a flexibilidade . Junto dessas
+caracteristicas, os smartphones oferecem varias utilidades a
+seus usuarios, dentre elas, o auxilio em atividades diarias,
+lazer, entretenimento e monitoramento da saude, alem de
+poder ser usado como um canal de divulgaçao de produtos
+e/ou serviços .
+
+Neste contexto surgem os aplicativos que tem como
+publico-alvo as mulheres e, dentre eles, alguns exemplos
+sao: Maya, My Pill, Meu Calendario e o Clue. Todos
+estes aplicativos tem como objetivo comum auxiliar no
+cuidado da saude feminina. Como foco de estudo deste
+trabalho, o aplicativo Clue foi escolhido por estar entre os
+10 aplicativos mais bem avaliados na categoria Saude e
+Fitness nas principais lojas de aplicativos hoje utilizadas, a
+Play Store e a Apple Store. Alem disso, o Clue ja era de
+conhecimento dos autores deste trabalho.
+
+O Clue auxilia o publico feminino com questoes intimas do
+seu proprio corpo, como, por exemplo, acompanhamento de
+ciclo menstrual, janela de fertilidade, tensao pre-menstrual
+(TPM), menopausa, sentimentos, gravidez e
+monitoramentos gerais. Ele esta disponivel para pessoas
+que tenham um smartphone tanto na plataforma iOS quanto
+Android.
+
+Inicialmente, apesar da experiencia dos avaliadores no uso
+do aplicativo escolhido, foi realizado um breve estudo sobre
+todas as funcionalidades existentes no mesmo. Apos, a fim
+de avaliar o fator de usabilidade referente a facilidade de
+aprendizagem e, tambem, se existem rupturas de
+comunicaçao que possam impactar a interaçao, dois
+metodos foram aplicados: um metodo de avaliaçao por
+inspeçao (Percurso Cognitivo) e um metodo de avaliaçao
+por observaçao de uso (Avaliacao de Comunicabilidade).
+Ambos os metodos foram aplicados para que fosse possivel
+traçar um comparativo entre os resultados obtidos e assim
+obter um melhor entendimento dos problemas encontrados.
+
+O artigo esta estruturado da seguinte forma: na proxima
+secao e descrita a metodologia utilizada e sua justificativa.
+Na sequencia, os metodos aplicados (Percurso Cognitivo e
+Avaliacao de Comunicabilidade) sao descritos de forma
+detalhada. Nas secoes posteriores sao apresentadas a
+discussao do trabalho e as consideracoes finais.
+
+**METODOLOGIA**
+
+Segundo Barbosa e Silva , existem diversos metodos que
+podem ser aplicados para avaliar a qualidade de uso de um
+sistema, sendo que cada um deles atende melhor a certos
+objetivos de avaliaçao que se deseja alcançar. Para cada
+metodo existente, e orientado quando e onde os dados
+devem ser coletados, como esses dados devem ser
+analisados e quais os criterios de qualidade de uso sao
+propostos em seus escopos, podendo ser focados na
+acessibilidade, comunicabilidade, usabilidade ou
+experiencia de uso. Quanto a classificaçao, os metodos de
+avaliaçao de Interaçao Humano-Computador (IHC) podem
+ser divididos em tres categorias: Metodos de Investigaçao,
+de Observaçao de Uso e de Inspeçao .
+
+De acordo com o objetivo deste trabalho, que e entender
+como o aplicativo Clue auxilia no acompanhamento do
+ciclo menstrual das mulheres, procurou-se avaliar o fator de
+usabilidade referente a facilidade de aprendizagem sobre o
+aplicativo escolhido, e, para isso, utilizou-se o metodo de
+Percurso Cognitivo (MPC) . Tambem procurou-se
+encontrar as possiveis rupturas de comunicaçao que o
+aplicativo poderia possuir, com aplicaçao do metodo de
+Avaliacao de Comunicabilidade (MAC) .
+
+Cada metodo escolhido possui um foco diferente. O MPC
+foi utilizado para prever o comportamento do usuario e as
+dificuldades que este potencialmente encontrara devido a
+problemas de design, enquanto o MAC foi aplicado para
+analisar a comunicaçao designer-usuario e ver se, caso
+rupturas de comunicaçao fossem encontradas, estas
+confirmariam ou nao os achados pela aplicaçao do MPC.
+
+Segundo Barbosa e Silva  como em um metodo de
+inspeçao o envolvimento direto dos usuarios nao existe,
+podem nao ser encontrados problemas que os usuarios
+teriam ou tambem podem ser encontrados pontos
+problematicos que os usuarios nao teriam dificuldades,
+assim resolvemos aplicar o MPC e o MAC para uma
+avaliaçao mais aprofundada do aplicativo e para que uma
+possivel complementaçao de resultados fosse realizada.
+
+Nas proximas secoes sao descritas de forma detalhada a realizacao do MPC e do MAC. Para fins de comparacao, as tarefas definidas para o MPC sao as mesmas utilizadas no MAC.
+
+APLICACAO DO PERCURSO COGNITIVO
+
+Segundo Barbosa e Silva, o MPC e um metodo de inspecao que busca tratar de experiencias de uso potenciais e nao reais, pois normalmente nao envolvem diretamente os usuarios no experimento. Sendo assim, com o uso do MPC, procura-se descobrir se o aplicativo possui uma interface coerente e clara para a utilizacao dos usuarios, atendendo a caracteristica de um software facil sobre o criterio de aprendizagem atraves da exploracao de sua interface. Com o MPC, os proprios avaliadores colocam-se no lugar dos usuarios e percorrem a interface inspecionando as acoes projetadas para os usuarios. De acordo com Barbosa e Silva, os seguintes passos fazem parte do Percurso Cognitivo:
+
+Definicao do perfil de usuarios e das tarefas a serem executadas com foco no objetivo a ser atingido pela avaliacao, assim como as acoes necessarias para a realizacao de cada tarefa.
+Realizacao da analise pelos avaliadores: os avaliadores executam os passos necessarios para cada uma das tarefas estabelecidas anteriormente.
+Consolidacao dos resultados obtidos a partir da analise feita pelos avaliadores.
+Construcao de relatorio com dos resultados com os problemas encontrados.
+
+O intuito desta inspecao e, a partir das tarefas definidas, os avaliadores serem capazes de responder as seguintes questoes:
+
+O usuario vai tentar atingir o efeito correto?
+O usuario vai notar que a acao correta esta disponivel?
+O usuario vai associar a acao correta com o efeito que esta tentando atingir?
+Se a acao for executada corretamente, o usuario vai perceber que esta progredindo na direcao de concluir a tarefa?
+
+Os avaliadores que aplicaram o MPC foram quatro estudantes de pos-graduacao, com conhecimentos iniciais sobre a area, sendo esta a primeira aplicacao do metodo. E importante destacar que o MPC pode ser aplicado por apenas um avaliador, mas, como estrategia, neste estudo, os quatro estudantes participaram da aplicacao do MPC. O intuito era identificar o grau de dificuldade das tarefas definidas e quais seriam as possiveis dificuldades que os usuarios iriam enfrentar.
+
+Alem de descreverem os problemas que acreditavam que os usuarios teriam ao realizar as tarefas, a cada avaliador foram entregues as quatro perguntas (citadas anteriormente) e para cada uma delas, eles deveriam responder S para sim e N para nao.
+
+A seguir serao detalhadas as etapas seguidas bem como os resultados obtidos.
+
+Preparacao (Identificacao do Perfil do Usuario)
+
+Devido ao aplicativo escolhido para este estudo ter como foco principal o publico feminino (ha casos em que o parceiro tambem pode ser usuario da ferramenta), foi possivel tracar o perfil desejado de forma facil, considerando que neste trabalho o foco era o publico principal, as mulheres. Sem mais restricoes, o perfil dos usuarios sao mulheres com o ciclo menstrual ativo e que ja possuem experiencia de uso com smartphones, dado que nao saber usar este tipo de dispositivo traria uma dificuldade a mais que poderia impactar no uso do aplicativo em si.
+
+Detalhamento das Tarefas
+
+Para a aplicacao do MPC, tres tarefas foram criadas e os avaliadores deste estudo percorreram as sequencias de acoes de cada tarefa, colocando-se no contexto de um cenario tipico de uso do aplicativo, para que fosse possivel responder as questoes propostas pelo metodo.
+
+A Tabela 1 mostra os passos detalhados e necessarios para a realizacao de cada uma das tarefas estabelecidas.
+
+A Tarefa I tem como objetivo acessar o aplicativo e informar todos os dados necessarios a respeito do ciclo menstrual da usuaria. Esses dados sao necessarios para que o aplicativo forneca ao usuario informacoes sobre seu ciclo menstrual. Esta tarefa foi criada e estabelecida com o objetivo de verificar se o processo inicial de fornecimento de dados por parte dos usuarios e realizado de forma facil, visto que, todo e qualquer usuario que utiliza o aplicativo, devera obrigatoriamente passar por esta etapa, ou seja, torna-se uma etapa fundamental.
+
+As Figuras 1, 2, 3 e 4, respectivamente, referem-se a todas as telas necessarias para que o usuario consiga completar o percurso da Tarefa I.
+
+Diferente da Tarefa I, as Tarefas II e III nao sao etapas obrigatorias para quem utiliza a aplicacao, no entanto, nao deixam de ter objetivos importantes. Na tarefa II, o objetivo e ativar ao menos tres tipos de lembretes diferentes.
+
+A Figura 5 traz todas as telas necessarias para que o usuario consiga alcancar o objetivo referente a esta segunda tarefa. Nesse caso, tanto nesta tarefa quanto na tarefa seguinte (Tarefa III), o usuario deve partir da tela (a) Configuracao.
+
+Ja na Tarefa III, as opcoes de monitoramento devem ser encontradas e ativadas, e, caso necessario, o usuario pode cadastrar monitoramentos de seu interesse.
+
+A Figura 6 traz as telas que sao necessarias para completar o objetivo referente a Tarefa III. Sao apenas duas telas, a primeira (a) Configuracao para chegar nas opcoes de monitoramento e a propria tela de (b) Opcoes de monitoramento para a selecao de quais opcoes o usuario deseja selecionar.
+
+Resultados
+
+Apos todos os avaliadores finalizarem as tarefas, os resultados foram analisados e consolidados conforme descricao a seguir.
+
+P1. O Usuario vai Tentar Atingir o Efeito Correto?
+
+Para a Tarefa I, todos os avaliadores apontaram que a maior dificuldade que os usuarios enfrentariam seria executar o primeiro passo desta tarefa (Tabela 1).
+
+Na Tarefa II, eles indicaram que talvez o usuario ficasse um tempo navegando entre os menus ate conseguir encontrar a opcao Lembretes - passo 2 da tarefa (Tabela 1).
+
+Como consequencia disto, na Tarefa III os avaliadores disseram que, como o usuario ja teria encontrado o menu Configuracoes no passo 1 da tarefa II (Tabela 1), seria muito facil para eles acharem a opcao Opcoes de monitoramento - passo 2 da Tarefa III.
+
+A Tabela 2 mostra a resposta de todos os avaliadores para esta pergunta.
+
+P2. O Usuario Vai Notar que a Acao Correta Esta Disponivel?
+
+Da mesma forma que a pergunta anterior, os avaliadores apontaram que a maior dificuldade ainda esta no inicio da Tarefa I. Porem, depois que eles conseguem identificar esse passo (Tabela 1), os avaliadores disseram que a sequencia da tarefa e muito intuitiva e o usuario consegue perceber que esta executando os passos corretamente.
+
+Quanto as Tarefas II e III, os avaliadores afirmam que o aplicativo se torna muito intuitivo e que e perceptivel que os passos estao sendo executados corretamente.
+
+A Tabela 3 mostra a resposta de todos os avaliadores para esta pergunta.
+
+P3. O Usuario Vai Associar a Acao Correta Com o Efeito que Esta Tentando Atingir?
+
+Esta pergunta tambem gerou unanimidade para todos os avaliadores nas tres tarefas. Os avaliadores acreditam que os usuarios conseguirao enxergar que a acao realizada esta gerando o efeito desejado. A Tabela 4 mostra a resposta de todos os avaliadores para esta pergunta.
+
+P4. Se a Acao for Executada Corretamente, o Usuario Vai Perceber que Esta Progredindo na Direcao de Concluir a Tarefa?
+
+Para os avaliadores, e possivel que, em alguns casos, o usuario sinta que nao existe um fim para as tarefas. Por exemplo, o avaliador I diz que: ...ao final da primeira tarefa, e possivel que o usuario se sinta perdido, pois logo apos preencher o ultimo passo da tarefa (Passo 10 - Tarefa I: Tabela 1) e exibido o circulo do ciclo menstrual e nao existe nenhuma mensagem avisando ao usuario que ele preencheu as informacoes necessarias para iniciar a utilizacao do aplicativo..
+
+Nas demais tarefas (II e III) houve divergencia entre as respostas. Os avaliadores I e II acreditam que o usuario nao consiga ver o progresso da realizacao das tarefas para a sua conclusao.
+
+A Tabela 5 mostra a resposta de todos os avaliadores para esta pergunta.
+
+APLICACAO DA AVALIACAO DE COMUNICABILIDADE
+
+O MAC tem como objetivo observar os usuarios durante o uso de um determinado sistema interativo, por meio de um ambiente controlado pelo avaliador, onde o mesmo analisa as tarefas do usuario realizadas sobre o sistema, capturando, atraves da observacao, as possiveis rupturas encontradas durante a interacao.
+
+O MAC e composto pelos seguintes passos:
+
+Preparacao preparar todo o material necessario para a realizacao do teste, criacao de cenario das tarefas, elaboracao dos questionarios pre- e pos-teste e do Termo de Consentimento Livre e Esclarecido.
+Coleta de dados aplicacao do teste, incluindo os questionarios de pre- e pos-teste.
+Etiquetagem.
+Interpretacao.
+Elaboracao do perfil semiotico.
+
+Para a realizacao da Avaliacao de Comunicabilidade, um ambiente controlado, como um laboratorio, seria o ideal para a execucao do experimento. Apesar de nao ter sido realizado em um laboratorio, a observacao foi realizada em uma sala de reunioes, reservada para esta finalidade.
+
+Os participantes selecionados foram convidados a realizar um conjunto de tarefas utilizando o aplicativo Clue, sendo as experiencias de uso observadas e registradas. Os avaliadores observaram e realizaram anotacoes durante a interacao dos participantes com o aplicativo e a captura da tela de cada um deles foi registrada em video para uma analise posterior. Essa captura da tela dos participantes em video foi feita por meio de um aplicativo instalado no celular chamado AZ Screen Recorder. O aplicativo foi baixado e configurado apenas para a plataforma Android. Para a plataforma iOS nao foi necessaria a instalacao de um aplicativo para captura, dado que, o sistema operacional ja possui uma funcao para gravacao de tela de forma nativa.
+
+Todos os participantes receberam um smartphone ja com o aplicativo instalado. Foi decidido nao utilizar o smartphone de cada participante para a realizacao do teste pelo fato de precisarmos instalar e configurar o aplicativo para gravacao das telas. Alem disso, por se tratar de um smartphone cuidamos para que nada atrapalhasse o participante durante o experimento, como, por exemplo, a exibicao de notificacoes de outros aplicativos. Cuidou-se para os participantes manterem o foco apenas na realizacao das tarefas.
+
+Participantes
+
+A todos os participantes, antes de mais nada, foi apresentado um Termo de Consentimento Livre e Esclarecido. Estando eles de acordo, um questionario para coleta de dados de perfil foi aplicado antes da interacao com o sistema e, apos a interacao, outro questionario foi aplicado, para obter dados sobre como foi o uso do aplicativo. O perfil dos participantes definido pela equipe para a aplicacao do teste eram pessoas do sexo feminino com o ciclo menstrual ativo que ja possuissem experiencia de uso com smartphone. Este perfil foi definido com base no publico-alvo do aplicativo Clue.
+
+Quanto a quantidade de participantes no experimento, de acordo com de Souza, o estudo deve ser aplicado com no minimo cinco e no maximo dez participantes. Neste estudo o teste foi realizado com oito participantes, que atendem ao perfil estabelecido. Apos o teste com todos eles, uma analise dos videos da interacao de cada participante foi feita, a fim de realizar a etiquetagem. Na Tabela 6 e exibido o perfil dos participantes selecionados.
+
+Cenarios
+
+Todos os participantes receberam uma descricao inicial de um cenario principal. Este cenario foi feito para contextualizar o participante do assunto e, nele, e descrita a importancia de acompanhar o ciclo menstrual. A partir dessa descricao, tres tarefas (as mesmas realizadas pelos avaliadores no MPC) foram distribuidas. As tarefas foram aplicadas de forma sequente e na ordem em que estao listadas a seguir. A primeira delas tem como objetivo fazer com que o participante crie um cadastro no aplicativo e informe dados basicos sem a necessidade de criar uma conta. A segunda tem como objetivo fazer com que o participante ative lembretes do aplicativo. Por ultimo, na tarefa tres, o usuario deve selecionar opcoes de monitoramento.
+
+A seguir sao descritos na sequencia em que foram entregues aos usuarios os cenarios, usados para apresentacao das tarefas:
+
+Ao acessar o aplicativo voce nao deve criar uma conta, mas deve concordar com os termos de servicos. Alguns dados de cadastro devem ser preenchidos para iniciar o monitoramento de sua saude. Esses dados sao importantes para que o aplicativo consiga fornecer com precisao informacoes sobre sua saude e seu ciclo menstrual. Voce deve preencher dados de menstruacao, TPM, duracao do ciclo, data de aniversario e dados de controle de natalidade..
+
+O uso de lembretes de aplicativos e de grande importancia para os esquecimentos do dia-a-dia. Lembretes diarios, por exemplo, para o uso de anticoncepcional sao muito uteis. Agora que os dados iniciais de cadastro foram realizados, voce deve ativar alguns lembretes. Alguns exemplos de lembretes que estao disponiveis no aplicativo Clue sao: Dia da ovulacao, Antes da janela de fertilidade, A pilula, etc. Ative ate 3 tipos diferentes de lembretes..
+
+Voce esta se saindo bem, ja esta com seus dados cadastrados e alguns lembretes ativos. Para finalizar voce deve selecionar tipos de monitoramento para lhe ajudar no seu controle. Com isso, selecione tres tipos de monitoramentos e preencha as informacoes necessarias. Exemplos de monitoramento disponiveis: Sono, Emocoes, Dor, Atividades, etc. Um novo monitoramento pode ser cadastrado por voce, caso o que desejar nao estiver listado no aplicativo..
+
+Para deixar os usuarios mais a vontade optou-se por realizar o teste com cada participante de acordo com a plataforma em que ele ja estava acostumado a usar. Portanto dos oito participantes, sete deles realizaram o experimento na plataforma Android e apenas um em iOS.
+
+Resultado da Etiquetagem
+
+Apos a aplicacao dos questionarios e da gravacao das telas dos participantes durante a interacao com o aplicativo, passou-se para a etapa de etiquetagem e interpretacao. Das 13 etiquetas sugeridas pelo MAC, 9 foram identificadas nesta avaliacao, conforme grafico exibido na Figura 7.
+
+A maior ocorrencia de rupturas de comunicacao foi no processo inicial da Tarefa I, quando o participante nao precisava criar uma conta no aplicativo para comecar a informar seus dados basicos (passo 1). O aplicativo apresenta a opcao Pular criacao de conta no canto superior direito da tela inicial. E importante relatar que das oito interacoes dos participantes, seis receberam etiquetas neste processo inicial. Para tres participantes, a etiqueta Socorro! foi atribuida na interacao e para outros dois, a etiqueta Cade?. Outro participante recebeu as duas etiquetas, sendo primeiro a etiqueta Socorro e logo em seguida a etiqueta Cade?. Todas essas etiquetas foram atribuidas no momento de pular a criacao de conta no aplicativo.
+
+Os participantes demonstraram dificuldades com esta etapa de pular a criacao de conta por considerarem o processo confuso. A etiqueta Socorro! foi atribuida na mesma parte da interacao para quatro dos participantes em funcao de eles nao conseguirem realizar a tarefa atraves da exploracao da interface. Os quatro participantes pediram explicacoes aos avaliadores para conseguir realizar a etapa de pular conta e seguir com a tarefa. Ja a etiqueta Cade? foi atribuida a mesma interacao de dois participantes. Eles sabiam a operacao que deveriam executar, mas nao encontraram de imediato na interface. Identificou-se esta etiqueta pois os usuarios inspecionaram diversos elementos de interface como se estivessem procurando a operacao que deveria ser executada.
+
+Apenas na interacao de um dos participantes foi atribuido a etiqueta Assim nao da!, tres vezes. Esta etiqueta foi atribuida no processo de cadastro dos dados iniciais (passo 5, 6 e 7). O participante comentou que passar por varias telas explicativas era totalmente desnecessario. Alem disso, percebeu que a passagem por elas e obrigatoria.
+
+Ainda na primeira tarefa, a etiqueta Ue, o que houve? e Desisto. foram atribuidas durante a interacao de dois participantes na mesma etapa da tarefa, no momento de informar a data de nascimento (passo 8). Ue, o que houve? foi etiquetada pois o participante repetiu a operacao e comentou que nao sabia se a data informada tinha sido salva ou nao. Ja o Desisto. foi atribuido pois o participante desistiu de informar sua data de nascimento, porem continuou executando os passos seguintes.
+
+A etiqueta E agora? foi identificada durante a finalizacao da Tarefa 1. A etiqueta foi identificada pois mais de um participante ficou vagando entre os menus e nao conseguiu identificar que a tarefa havia sido finalizada.
+
+O restante das etiquetas Cade foi atribuido na segunda tarefa, quando a maioria dos participantes ficou procurando a opcao de lembretes no aplicativo. Neste processo as varias rupturas etiquetadas como Cade? foram identificadas porque os participantes nao conseguiam encontrar, de imediato, a funcionalidade que desejavam. Os participantes executaram caminhos inapropriados, os quais conseguiram de imediato identificar como errados e logo retornaram para o ponto de partida, caracterizando a ruptura da etiqueta Epa!.
+
+A alta frequencia do Cade? indica que escolhas inadequadas de organizacao ou expressao dos signos de interface podem ter sido feitas. Todos os participantes em fases alternadas das Tarefa I e II tiveram rupturas de comunicacao desta natureza. Alguns usuarios relataram, durante o teste, que compreendiam o que precisava ser feito, porem nao conseguiam encontrar de imediato na interface.
+
+Percebeu-se, por meio de comentarios feitos pelos participantes durante a interacao com o aplicativo, que a navegacao entre os menus e pouco intuitiva, o que confirma a grande quantidade da etiqueta Cade?, e a forma de exibicao dos dados e um pouco confusa.
+
+Elaboracao do Perfil Semiotico
+
+Seguindo o MAC, apos a interpretacao das etiquetas, o avaliador deve elaborar o Perfil Semiotico do sistema avaliado. Nesta etapa, o objetivo e identificar e explicar os problemas de comunicabilidade encontrados. O Perfil Semiotico e elaborado atraves da reconstrucao da metamensagem do designer tal como ela foi recebida pelo usuario.
+
+Neste estudo foi tomado como estrategia seguir o modelo de perguntas sugerido por Souza e Leitao para nos guiar nessa elaboracao:
+
+Para deixa-los mais a vontade optou-se por realizar o teste com cada participante de acordo com a plataforma em que ele ja estava acostumado a usar. Portanto dos oito participantes, sete deles realizaram o experimento na plataforma Android e apenas um em iOS. Em meu entendimento, os usuarios do Clue sao pessoas adultas do sexo feminino que ja possuem experiencia com o uso de smartphones e consequentemente ja utilizaram algum tipo de aplicativo.
+
+O que eu aprendi sobre as necessidades e desejos destes usuarios?
+
+Os usuarios desejam conseguir controlar melhor seu ciclo menstrual e informacoes sobre seu corpo. Eles desejam registrar dados sobre si para uma analise posterior, alem disso desejam que lembretes sejam disparados em seu smartphone para evitar possiveis esquecimentos.
+
+No meu entendimento, quais sao as preferencias destes usuarios com respeito a seus desejos e necessidades, e por que?
+
+Os usuarios preferem que o cadastro seja simples, com poucos campos e rapido de concluir. Tambem preferem realizar as configuracoes de notificacoes de seus lembretes e monitoramentos sem a necessidade de navegacao entre varios menus. Eles preferem ver historicos de seu ciclo menstrual e ter um monitoramento sobre informacoes pessoais de seu corpo.
+
+Portanto, qual sistema eu desenhei para estes usuarios, e como eles podem ou devem usa-lo?
+
+Desenhei um aplicativo que auxilia as mulheres no controle de seu ciclo menstrual, com o qual e possivel registrar diversas informacoes sobre seu corpo. E possivel inserir informacoes basicas para comecar a usar o aplicativo, com a possibilidade de criacao de conta ou nao. O aplicativo permite que lembretes de diversos tipos sejam configurados para notificacao ao usuario, alem disso, e possivel ter um historico de ciclos menstruais conforme o preenchimento dos dados.
+
+Qual e a visao do avaliador?
+
+O Clue foi desenvolvido pensando na mulher, para registrar informacoes sobre seu ciclo menstrual e ajudar a monitorar dados sobre seu corpo. Alem dos monitoramentos, o Clue permite que lembretes sejam ativados conforme a necessidade do usuario. A configuracao de lembretes e importante, pois permite que o usuario configure da maneira que ele necessita e tambem permite lembrar as mulheres de tomar a pilula todos os dias no mesmo horario. Apos a realizacao do teste e a aplicacao dos questionarios percebeu-se a necessidade de utilizar telas mais simples para as opcoes do aplicativo, em funcao das varias etiquetas atribuidas as interacoes e tambem pelos comentarios dos participantes durante a realizacao do teste.
+
+Questionario Aplicado Apos a Realizacao do MAC
+
+Apos a observacao dos usuarios, com uso do MAC, os participantes foram convidados a responder a um pequeno questionario, consistindo de quatro questoes.
+
+A primeira questao tratava das dificuldades encontradas no aplicativo para conseguir atingir os objetivos das tarefas. Apenas um dos participantes respondeu que conseguiu realizar todas as tarefas sem dificuldades, ja os outros confirmaram dificuldades durante a interacao.
+
+Em relacao a utilidade do aplicativo no dia-a-dia, na segunda questao, os participantes confirmaram que sim, o uso do Clue e bastante util no dia-a-dia das mulheres, porem, apenas tres dos oito participantes responderam que pretendem seguir utilizando o aplicativo, na questao tres.
+
+Por fim, na ultima questao, foi possivel concluir que de forma geral os participantes se mostraram satisfeitos com o uso do aplicativo. Nesta questao, foi questionado sobre os pontos fortes e os pontos fracos identificados durante a interacao. Em relacao aos pontos fortes, os principais comentarios dos participantes foram: O Clue e autoexplicativo..., Ele tem lembretes, e o que me chama bastante atencao e sobre o periodo de ovulacao, sempre bom saber. , Possui diferentes tipos de monitoramento. , Desenhos de cada monitoramento, facilitando a compreensao; colorido., Facil de usar.. Ja como pontos fracos, os participantes descreveram: Pouco intuitivo, ...me induziu a logar; muitos dados para serem preenchidos para um cadastro sem muita utilizacao, ...para salvar lembretes e opcoes de monitoramento eu demorei para achar o lugar. Textos grandes depois de cada etapa. Me incomodou.. Alguns participantes responderam que nao encontraram pontos fracos durante a interacao.
+
+DISCUSSAO
+
+Conforme de Souza, alem de realizar a classificacao das etiquetas de acordo com os problemas descobertos durante o processo de interacao no MAC, pode-se realizar tambem um alinhamento com outros metodos. Este alinhamento, segundo a autora, pode consideravelmente enriquecer a analise e interpretacao do avaliador. No caso de ambos metodos aplicados neste trabalho, a autora ainda descreve que, os resultados obtidos do Processo Cognitivo muitas vezes podem ser complementados pelos resultados de uma Avaliacao de Comunicabilidade.
+
+Por meio do MAC, foi possivel verificar que muitos dos apontamentos feitos pelos avaliadores no MPC se confirmaram. Os participantes tiveram dificuldades nas tarefas realizadas na Avaliacao de Comunicabilidade nas mesmas situacoes que haviam sido apontadas como criticas durante o Percurso Cognitivo.
+
+Os avaliadores, na primeira tarefa, apontaram que a maior dificuldade que os usuarios enfrentariam seria passar pelo primeiro passo desta tarefa, acessar o aplicativo e preencher seus dados sem a necessidade de criacao de conta. Este apontamento se confirmou apos a analise dos dados do MAC. Ja na segunda tarefa, os avaliadores apontaram que a dificuldade dos usuarios seria em encontrar a opcao de lembretes no aplicativo. Por fim, na terceira tarefa, os avaliadores disseram que a mesma seria facilmente realizada pelo fato de os usuarios ja terem passado pela segunda tarefa. Os apontamentos das duas ultimas tarefas tambem foram confirmados apos a realizacao do MAC. A ultima tarefa foi realizada com mais facilidade pelos usuarios por ja terem executado a segunda tarefa e, desta forma, ja estarem mais familiarizados com os menus do aplicativo.
+
+No questionario aplicado apos o teste, para obter dados sobre o que os participantes acharam do uso do aplicativo, todos concordaram que o mesmo pode ser util no seu dia-a-dia, alem disso, tres dos oito entrevistados afirmam que pretendem comecar a utilizar o Clue. Quanto a pontos fracos, os participantes responderam que, principalmente, a navegacao entre os menus deve melhorar. No entanto, de maneira geral, todos os participantes gostaram da utilizacao do aplicativo.
+
+Como limitacao deste trabalho, como os testes foram realizados em smartphones (o Clue nao possui uma versao desktop), no momento de analisar as gravacoes de tela, viamos apenas a tela parada, nao conseguindo identificar bem todos os momentos em que os usuarios podem ter se perdido, mesmo configurando o aplicativo de gravacao para exibir os toques em tela (o que e diferente em sistemas desktop, quando conseguimos claramente ver o deslocamento do mouse, por exemplo). Desta forma, algumas informacoes que poderiam ajudar a uma melhor etiquetagem, podem ter sido perdidas. Fica, como licao aprendida, a necessidade de combinacao de uma camera apontando para as maos dos usuarios, o que possibilitaria obtencao de mais informacoes, tornando a coleta de dados ainda mais rica.
+
+**CONCLUSAO**
+
+Neste trabalho foi apresentada a aplicaçao de dois metodos
+de avaliaçao de IHC em um aplicativo de apoio as
+mulheres. O MPC e o MAC foram executados no aplicativo
+Clue com o proposito de avaliar o fator de usabilidade
+referente a facilidade de aprendizagem e analisar possiveis
+rupturas de comunicaçao referentes a comunicabilidade.
+
+Aplicamos um metodo de inspeçao (MPC) e outro de
+observaçao (MAC) a fim de com a combinaçao de ambos
+se tentar obter resultados mais aprofundados. Como o
+MPC nao envolve de fato os usuarios na aplicaçao do
+metodo e o avaliador e quem realiza a analise, alguns
+problemas podem nao ser encontrados, assim como outros
+pontos podem ser considerados pelo avaliador e nao
+trazerem dificuldades para os usuarios. Portanto, segundo
+Barbosa e Silva  devemos, sempre que possivel, buscar
+dados de diferentes metodos para fazer uma analise mais
+robusta do sistema em questao.
+
+A combinaçao dos metodos aplicados nos proporcionou
+uma complementaçao e confirmaçao dos resultados. Todos
+os apontamentos feitos pelos avaliadores na realizaçao das
+tres tarefas aplicadas no MPC foram comprovados apos a
+analise dos resultados do MAC.
+
+Com base nos resultados obtidos, concluimos que o
+aplicativo Clue possui melhorias que podem ser
+trabalhadas, visando o maior conforto do usuario final.
+Algumas dessas melhorias seriam na disposiçao das suas
+funcionalidades e na necessidade de telas mais simples.
+
+Recomenda-se como um trabalho futuro uma avaliaçao
+mais profunda da utilizaçao do aplicativo pois existem
+funcionalidades que ainda podem ser exploradas. Na
+experiencia relatada focamos na utilizacao inicial do
+aplicativo e nas configuracoes principais. Seria interessante
+observar o uso da aplicacao por um determinado periodo de
+tempo, aprofundando o uso de todas as funcionalidades, a
+fim de avaliar quais delas realmente são uteis e necessarias
+e quais estao atrapalhando e onerando o tempo do usuario.
+Por fim, os metodos escolhidos nos pareceram adequados,
+pois, atraves deles, foi possivel um aprofundamento nos
+resultados obtidos. Ambos os metodos geraram
+complementaridade, possibilitando, assim, uma melhor
+analise e confirmacao dos problemas encontrados.
+
+**CONCLUSAO**
+
+O estudo de comunicabilidade e percurso cognitivo realizado no aplicativo Clue revelou importantes insights sobre a experiencia do usuario. Embora o aplicativo tenha sido considerado util e satisfatorio pela maioria dos participantes, foram identificados problemas de comunicaçao, especialmente na fase inicial de cadastro e configuraçao. A complexidade da navegaçao entre menus e a quantidade de informaçoes solicitadas tambem foram apontadas como pontos fracos. Esses resultados reforcam a necessidade de priorizar a usabilidade e a clareza na comunicaçao em aplicativos voltados para o publico feminino, garantindo uma experiencia mais intuitiva e eficiente.

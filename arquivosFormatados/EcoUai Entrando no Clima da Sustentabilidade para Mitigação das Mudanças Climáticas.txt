@@ -1,0 +1,156 @@
+**INTRODUCAO**
+
+A crise climatica representa uma ameaça global significativa, marcada pelo aumento das
+temperaturas medias, alteraçoes nos padroes de precipitaçao, elevaçao do nivel do mar e
+maior frequencia e intensidade de eventos climaticos extremos .
+No Brasil, essa crise tem resultado em um aumento na frequencia e intensidade de
+fenomenos climaticos extremos, como secas severas no Nordeste, incendios florestais no
+Centro-Oeste e na Amazonia e enchentes no Sudeste e no Sul, como a ocorrida recente-
+mente no Rio Grande do Sul, considerada a maior de todos os tempos .
+Esses eventos tem gerado prejuizos economicos, sociais e ambientais significativos, alem
+de afetarem a saude publica, em escala mundial .
+
+A crise climatica exige uma resposta integrada e abrangente, envolvendo o go-
+verno, o setor privado e a sociedade civil. Sendo assim, um dos caminhos para enfrentar
+tal crise e a conscientizaçao da populaçao sobre os riscos climaticos, no sentido de guiar
+açoes preventivas. Dessa forma, a educaçao ambiental pode ser uma maneira de possi-
+bilitar o contato das pessoas com problemas do cotidiano, permitindo que reflitam sobre
+como podem contribuir com a mitigaçao das mudanças climaticas .
+
+Existem diferentes iniciativas voltadas a educaçao ambiental com foco nas
+mudanças climaticas . No entanto, ainda se faz pouco pre-
+sente o uso de tecnologias digitais como ferramenta para educar e empoderar os cidadaos
+na luta contra as mudanças climaticas no Brasil. Dessa forma, o objetivo do presente
+trabalho consiste na criaçao da soluçao computacional "EcoUai”, que busca informar
+e capacitar os seus usuarios para que tomem decisoes mais conscientes e sustentaveis,
+contribuindo assim para a mitigaçao da crise climatica no Brasil. A soluçao e voltada pri-
+mariamente para o publico universitario, que pode entao agir como replicador para outros publicos dos conceitos trabalhados pela ferramenta. O EcoUai abrange um aplicativo,
+que faz uso de gamificacao para incentivar praticas sustentaveis, e um espaco fısico, onde
+as pessoas podem trocar os pontos acumulados no aplicativo por recompensas fısicas,
+incluindo uma experiencia imersiva em realidade virtual (VR), para mostrar como os habitos individuais podem impactar o clima nos proximos anos. 
+O restante do relatorio esta organizado da seguinte forma: na secao 2 e apresentada 
+a metodologia utilizada; na secao 3 esta a justificativa; na secao 4 e apresentada a solucao
+proposta e um cenario de uso; e, na secao 5, e discutida a viabilidade do EcoUai.
+
+**METODOLOGIA**
+
+O design do EcoUai seguiu a abordagem centrada no usuario. Assim, buscou-se envolver
+os usuarios no processo de design, ouvindo suas opinioes e buscando compreender suas
+atitudes e preocupaçoes desde as etapas iniciais do design. As atividades do processo de
+design seguiram o Modelo de Ciclo de Vida Simplificado , composto
+por quatro etapas: (a) estabelecimento de requisitos; (b) design de alternativas; (c)
+prototipagem; e (d) avaliaçao¹.
+
+Na etapa (a), conduziu-se uma pesquisa sobre o tema da competiçao, atraves da
+aplicaçao de um questionario, cujo proposito foi compreender as atitudes, preocupaçoes
+e percepçoes das pessoas no que tange a sustentabilidade ambiental, tendo em vista o im-
+pacto que danos ao meio ambiente podem causar no planeta. A partir dos dados coletados
+de 83 participantes, foram geradas personas e cenarios de analise, para apresentaçao dos
+requisitos a serem considerados na soluçao.
+
+Na etapa (b), com base nos requisitos identificados, foi definido o design con-
+ceitual do EcoUai, buscando alternativas que os atendessem. Foram criados cenarios de
+interaçao e a jornada do usuario.
+
+Na etapa (c), a versao interativa do aplicativo do EcoUai foi construida, contem-
+plando os detalhes da sua interface, como cores e imagens a serem utilizadas, e simu-
+lando o seu funcionamento, deixando clara a interaçao projetada. Foi construido tambem
+o prototipo das simulaçoes dos ambientes que os usuarios poderao ver aos fazerem uso do
+oculos VR. Para a construçao do prototipo do aplicativo, foi utilizado a plataforma Canva,
+que permitiu uma prototipagem rapida e acessivel, facilitando assim ajustes e iteraçoes
+no design. Para a construçao da simulaçao foi utilizada a ferramenta Unreal Engine 5,
+escolhida devido ao seu template de VR, que facilita o desenvolvimento de ambientes
+imersivos, alem de sua documentaçao extensa e de facil acesso.
+
+Na etapa (d), realizou-se uma avaliaçao do prototipo do aplicativo com usuarios do
+perfil delineado pelas personas. Foi feita uma demonstraçao do prototipo e apresentaçao
+da ideia do do ambiente fisico para os participantes. Em seguida, foi-lhes apresentado um
+questionario, onde registraram suas repostas relacionadas a utilidade percebida da soluçao
+e intençao de uso, com base no Tecnology Acceptance Model (TAM) , bem
+como sobre suas percepçoes acerca de propriedades que o EcoUai possa ter, com base no
+User Experience Questionnaire (UEQ) .
+
+A coleta de dados, por meio dos questionarios, foi conduzida de forma etica, ga-
+rantindo a privacidade dos participantes, com informaçoes tratadas de forma confidencial e anonima. A participacao foi voluntaria, e os participantes foram informados sobre os
+objetivos e tratamento dos dados da pesquisa atraves do Termo de Consentimento Livre e 
+Esclarecido (TCLE), que precisavam aceitar para acessar as questoes. 
+
+**JUSTIFICATIVA**
+
+A crise climatica e um dos maiores desafios do seculo XXI, exigindo açoes para mitigar
+seus impactos . O projeto EcoUai surge como uma iniciativa
+para sensibilizar e educar a populaçao sobre praticas sustentaveis, inspirando mudanças
+de comportamento em larga escala. Ele se destaca ao integrar educaçao ambiental com
+gamificaçao e realidade virtual (VR), diferenciando-se de aplicativos como Olio, Cataki
+e Plant-for-the-Planet, que se concentram em aspectos mais pontuais, como desperdicio,
+reciclagem e plantio de arvores. Ao incorporar rotinas sustentaveis e criar uma comuni-
+dade engajada por meio de uma rede social, o EcoUai oferece uma abordagem holistica
+para a sustentabilidade, promovendo a adocao de comportamentos mais sustentaveis e
+contribuindo para um futuro resiliente diante dos desafios climaticos atuais. A utilizaçao
+do design centrado no usuario e importante no sentido de envolver o usuario no processo
+de design, a fim de garantir que o sistema desenvolvido considere suas necessidades e
+expectativas .
+
+**SOLUCAO PROPOSTA E CENARIO DE USO**
+
+Para atender aos requisitos e cumprir o proposito educativo de conscientizaçao e incentivo
+a habitos sustentaveis, o publico-alvo escolhido foi a comunidade academica de univer-
+sidades federais. Essa escolha se deve a preocupaçao desse publico com o futuro do pla-
+neta e ao seu potencial de disseminar os conceitos da soluçao para outros grupos. Assim,
+as funcionalidades do EcoUai foram desenvolvidas para ensinar e incentivar habitos sus-
+tentaveis, utilizando gamificaçao e colaboraçao para aumentar o envolvimento do usuario,
+e um espaço fisico onde os usuarios podem trocar pontos adquiridos no aplicativo por pro-
+dutos ecologicos, alem de vivenciarem uma imersao com oculos VR.
+
+O aplicativo EcoUai foi desenvolvido para promover habitos sustentaveis por meio da
+gamificaçao, incentivando açoes que geram recompensas. Apos o cadastro, que calcula
+a pegada de carbono do usuario com base em informaçoes fornecidas, como consumo
+de energia e agua, ele pode acessar quatro funcionalidades principais: a primeira e a
+Criaçao de Rotina, que ajuda a organizar e realizar tarefas semanais, como a separaçao
+de lixo, acumulando pontos com base nas atividades completadas. A segunda e o menu
+Mercado, onde o usuario pode enviar comprovantes de compras para receber pontos de
+acordo com os produtos adquiridos, alem de gerenciar listas de compras e cadastrar pro-
+dutos ecologicos, encontrando locais onde sao vendidos. A terceira e a Rede Social, que
+permite aos usuarios ver e interagir com as açoes sustentaveis de seus amigos, criando
+uma comunidade engajada. Por fim, ha o menu Saiba Mais, que oferece acesso a fontes
+confiaveis sobre como combater a crise climatica, alem de informaçoes sobre produtos e
+empresas ecologicas. A Figura 1 apresenta algumas das interfaces desenvolvidas.
+
+A construçao do prototipo interativo no Canva proporcionou uma experiencia de
+usuario intuitiva e semelhante ao uso em um dispositivo movel, aproximando a interaçao
+virtual da realidade cotidiana.
+
+A soluçao fisica do EcoUai e uma experiencia de VR que visa educar sobre a crise
+climatica, mostrando cenarios futuros baseados nas praticas ambientais atuais. Em uma
+simulaçao ambientada no ano de 2064, os usuarios veem o impacto ambiental de suas
+escolhas com relaçao a pegada de carbono e sao incentivados a adotar habitos mais
+sustentaveis. A experiencia sera apresentada em ambientes universitarios, que servirao
+tambem como locais de troca de pontos acumulados no aplicativo por produtos ecologicos
+como, por exemplo, ecobags e copos reutilizaveis.
+
+A decisao sobre os elementos visuais e interativos do ambiente VR foi baseada em
+pesquisas de fontes confiaveis, como relatorios da ONU, que fornecem previsoes de como
+o mundo podera se parecer no futuro, caso os habitos das pessoas nao mudem. Durante o
+desenvolvimento do ambiente VR, houve preocupaçao com a acessibilidade e o conforto
+dos usuarios. Optou-se por manter o personagem fixo, eliminando a necessidade de mo-
+vimentos intensos que poderiam causar desconforto, simplificando assim experiencia do
+usuario, que deve utilizar apenas o movimento da cabeça para a interaçao.
+
+A avaliaçao inicial do EcoUai envolveu cinco participantes e mostrou que a maioria deles
+o reconhecem como importante para o aprendizado e acompanhamento de habitos eco
+amigaveis. A maioria dos participantes tambem considerou a ideia do EcoUai inovadora.
+Outro ponto forte foi a facilidade de uso que, combinada com a atratividade destacada
+pelos participantes, sugere que a ferramenta e intuitiva e visualmente envolvente.
+
+Um aplicativo com funcionalidades alimentadas por usuarios e administradores, integrado
+a uma rede social e gamificaçao, pode se tornar autossustentavel por meio de anuncios
+pagos. No entanto, antes da monetizaçao, existem custos de desenvolvimento e alocaçao
+de servidores, necessitando inicialmente de investidores. Essa abordagem tambem se
+aplica ao software utilizado em oculos VR e a compra dos dispositivos. Ja os espaços
+fisicos para montagem dos quiosques, que consistirao em pontos de troca de brindes e
+local de experimentaçao do ambiente VR, podem ser cedidos por Instituiçoes Federais
+(IES), como forma de apoio ao projeto.
+
+**CONCLUSAO**
+
+Este trabalho propoe uma soluçao inovadora para conscientizaçao e promoçao de habitos sustentaveis atraves do uso de gamificaçao, realidade virtual e um espaço fisico. A avaliaçao inicial demonstra o potencial da soluçao para engajar os usuarios e contribuir para a mitigaçao da crise climatica. A colaboraçao com universidades e a busca por investidores sao passos importantes para a viabilizaçao e ampliaçao do projeto.

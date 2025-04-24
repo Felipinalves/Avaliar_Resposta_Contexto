@@ -1,0 +1,209 @@
+**INTRODUCAO**
+
+Cartoes de apoio sao guias que organizam um conjunto de informacoes sobre um assunto de forma a facilitar e acelerar a recordacao de um determinado topico. Sao amplamente utilizados como recurso educacional [1, 3, 7, 9]. No ensino fundamental, o Cartao de referencia de matematica e um exemplo de cartao de apoio que organiza as operacoes aritmeticas de adicao, subtracao, multiplicacao e divisao [1]. Cartoes de apoio sao usados para educacao em muitas areas, como educacao pediatrica [3], educacao em fisica [9] e educacao em quimica [7]. Profissionais que trabalham com tecnologia tambem usam cartoes de apoio em suas atividades diarias. Por exemplo, cartoes de apoio sao usados para relembrar atividades de um processo de desenvolvimento de software [15], lembrar detalhes sintaticos de uma determinada linguagem de programacao [24] e consultar paletas de cores usadas no design de interfaces de usuario [26]. Portanto, o uso multidisciplinar e pratico do cartao de apoio e bem relatado na literatura.
+
+Embora os cartoes de apoio tenham se mostrado uteis em muitos contextos, pouco se sabe sobre seu uso e sua eficacia no processo de ensino-aprendizagem na area de Interacao Humano-Computador (IHC). Esta area integra um corpo interdisciplinar de teorias, recomendacoes para design (diretrizes), heuristicas e metodos de avaliacao que devem ser lembrados ou constantemente consultados durante o processo de aprendizagem e durante algumas atividades de design e avaliacao de sistemas. Este tipo de informacao deve ser conhecido e compreendido pelos alunos, mas nao necessariamente memorizado. Inspirado por seu uso em outras disciplinas, este estudo investiga o papel que os cartoes de apoio podem desempenhar neste contexto.
+
+Este estudo discute o uso de cartoes de apoio para fins didaticos no ensino e aprendizagem de IHC. Um processo para criar e usar um cartao de apoio na disciplina de IHC e proposto. O processo considera a natureza interdisciplinar da IHC, abrangendo o programa, curriculo, livros didaticos e a percepcao dos alunos sobre os topicos de IHC. A avaliacao e baseada em estudos de caso de criacao e uso de um cartao durante um semestre em aulas de IHC que fazem parte de dois cursos de graduacao: Engenharia de Software e Sistemas de Informacao. Ao fazer isso, tres questoes de pesquisa sao respondidas: (1) como desenhar um cartao de apoio para ser usado como recurso didatico em sala de aula de IHC? (2) quais utilidades os alunos percebem ao usar o cartao? (3) quao util e o cartao alem da sala de aula de IHC?
+
+Resultados de observacoes e questionarios respondidos por 37 alunos mostram que o cartao pode ser um importante recurso didatico para alunos de IHC. O cartao ajuda os alunos a acompanhar as aulas e integrar os topicos da disciplina. Ele se soma a muitos outros recursos pedagogicos usados em sala de aula [11, 20]. O cartao tambem tem aplicacao interdisciplinar. Os alunos usaram o cartao em outras aulas que envolvem o design e avaliacao de sistemas interativos, como Laboratorio de Desenvolvimento de Software, Teste de Software e Conclusao de Trabalho de Curso. O cartao tambem foi util em atividades profissionais, como Estagio Supervisionado.
+
+FUNDAMENTACAO TEORICA E TRABALHOS RELACIONADOS
+
+Nesta secao, analisamos a literatura relevante e trabalhos relacionados sobre cartoes de apoio e educacao em IHC.
+
+O Uso Multidisciplinar de Cartoes de Apoio
+
+Cartoes de apoio resumem um conjunto de informacoes essenciais sobre um assunto e sao uma maneira rapida de acessar informacoes sobre um assunto ou tarefa. O termo cartao de apoio as vezes e usado como sinonimo de cartao de referencia rapida e cartao de bolso. Todos esses termos se referem a um instrumento que pode ser facilmente manuseado e que permite a pessoa encontrar um topico rapidamente. Outro termo comumente usado e cola, que e um tipo de cartao de apoio frequentemente feito pelo aluno para consulta nao autorizada durante um exame.
+
+Na educacao em fisica, os alunos sao incentivados a criar seus proprios cartoes de apoio, anotando tudo o que acharem util, como anotacoes, formulas e constantes [9]. Diferentemente, o cartao abordado neste estudo e um recurso didatico feito por um professor para apoiar os alunos durante seus estudos e praticas de design e avaliacao de sistemas interativos. Esse significado e esse uso do cartao de apoio sao semelhantes em outras disciplinas, como o Cartao de referencia de matematica [1] usado no ensino fundamental e a Tabela Periodica dos Elementos Quimicos[7] usada no ensino de quimica.
+
+Em algumas disciplinas, o cartao de apoio tambem pode ser usado em exames e atividades em sala de aula [9]. Assim, os alunos nao se preocuparam em memorizar tudo; eles apenas consultam seus cartoes. Essa forma de trabalho e muito mais proxima de situacoes profissionais onde os alunos devem resolver problemas, mas geralmente tem material de referencia disponivel para consulta. As utilidades do cartao de apoio podem ir alem do processo de absorcao de conhecimento para incluir atividades praticas. Por exemplo, um cartao de apoio portatil pode melhorar a educacao de residentes de pediatria em cuidados abrangentes para criancas que se aproximam do fim da vida [3]. O cartao pode ser um instrumento conveniente, simples e util para ser usado nesses contextos praticos.
+
+
+
+**EDUCACAO EM IHC**
+
+A competencia dos alunos em Interaçao Humano-Computador envolve o modelo
+classico de conhecimento, habilidades e atitudes (KSA) . Conhecimento e
+a condiçao de estar ciente de algo, retendo e processando informaçoes. Para
+obter conhecimento sobre IHC, os alunos devem aprender sobre conceitos,
+metodos e teorias que orientam a criaçao de estrategias, diretrizes e
+recomendaçoes para o projeto. Habilidade, por sua vez, e como fazer algo,
+realizando atividades e tarefas no tempo certo e com precisao. Aplicar
+heuristicas e diretrizes no projeto de um sistema especifico e um exemplo de
+habilidade de IHC. Finalmente, atitude e formar um novo ou diferente ponto
+de vista ou crença sobre um assunto. Mudar e adaptar as diretrizes de IHC para
+diferentes contextos sao atitudes.
+
+Obter conhecimento, habilidade e atitudes na area de IHC e desafiador para
+muitos alunos . Estudos tem sido conduzidos para encontrar estrategias para
+tornar esse processo de aprendizagem mais facil. Tres tipos de estrategias
+focadas em habilidades podem ser destacados : (1) levando os alunos a
+revisar e discutir historias que descrevem situaçoes de projeto (revisoes
+historicas); (2) conduzir estudos controlados nos quais os alunos sao levados a
+resolver problemas praticos (casos de resoluçao de problemas); (3) engajar os
+alunos em situaçoes onde eles devem tomar decisoes e justificar suas escolhas
+(casos de tomada de decisao). Os alunos tambem devem ter atitude, pensando
+criticamente sobre o projeto, desenvolvimento e avaliaçao de sistemas
+interativos . As estrategias para atingir esse objetivo na sala de aula
+incluem, por exemplo: debates estruturados sobre valores humanos ; aulas que
+integram teorias, desenhos e musica com a participaçao ativa dos alunos ; e a
+institucionalizaçao de atividades interdisciplinares .
+
+Essas estrategias pressupoem que os alunos tenham pelo menos um
+conhecimento basico dos principais topicos da area. Conhecimento e um bloco
+de construçao para habilidade e atitude. Obter conhecimento e sinonimo de
+reter informaçao, geralmente atraves de aulas e leitura de livros didaticos. Para
+as novas geraçoes de alunos, que nasceram com tecnologias de informaçao e
+comunicaçao disponiveis , memorizar informaçoes pode nao ser necessario,
+especialmente se estiver prontamente disponivel para consulta. Neste artigo,
+propomos o uso do cartao de apoio como um instrumento didatico de consulta
+para ajudar os alunos a obter conhecimento sobre os principais topicos de IHC.
+
+**PROCESSO DE CRIACAO E USO DE UM CARTAO DE APOIO**
+
+Esta seçao apresenta um processo para criar e usar um cartao de apoio para
+educaçao em IHC. O processo se concentra em tres questoes principais que
+devem ser respondidas na criaçao e no uso de um cartao: Quais sao os principais
+requisitos do cartao de apoio? Como definir os topicos a serem abordados no
+cartao? Como organizar os topicos no cartao? e Como usar o cartao na sala de
+aula? Nos paragrafos seguintes, discutimos nossa abordagem para abordar essas
+questoes.
+
+Estabelecemos quatro requisitos principais para um cartao de apoio de IHC: (1)
+o cartao deve ser abrangente do conteudo do programa; (2) o cartao deve
+preservar a natureza interdisciplinar da area; (3) o cartao deve ser util para
+os alunos na sala de aula e na liçao de casa; e, (4) o cartao deve ser facil de
+manusear e ler. O cartao deve ser abrangente para que possa ser usado ao longo
+das aulas e permita que o aluno conecte os topicos estudados. O cartao nao deve
+ser apenas tecnico; em vez disso, deve destacar o conhecimento proveniente de
+outras areas, preservando e contextualizando topicos interdisciplinares.
+Finalmente, para ser usado de forma eficaz, o cartao deve fornecer valor aos
+alunos, como servir como uma referencia rapida aos topicos centrais de IHC, um
+auxilio para recordar algum conceito/metodo e um guia de estudo para exames.
+Para ser facil de ler e manusear, o cartao pode ser fornecido aos alunos como
+imagens que podem ser visualizadas em smartphone/tablet ou impressas em um
+papel de dois lados laminado com material plastico em ambos os lados.
+
+E impossivel cobrir todos os topicos do programa em um cartao de uma pagina.
+Alguma priorizaçao de topicos deve ser feita. Em um nivel macro, o cartao
+deve cobrir os principais topicos definidos no programa, livros didaticos e
+curriculo da disciplina. Em um nivel micro, o cartao deve cobrir topicos que
+sao mais dificeis de lembrar e topicos que servem como ancora para outros
+topicos. O cartao funciona como um instrumento de apoio para a memoria do
+aluno, e os topicos incluidos no cartao servem como gatilhos para outros
+topicos que nao estao incluidos no cartao. Assim, topicos interdisciplinares
+sao especialmente importantes para serem abordados no cartao.
+
+A organizaçao dos topicos no cartao deve ser intuitiva para os alunos, para que
+eles possam usar o cartao de forma eficaz. Isso pode ser feito usando a
+"tecnica de ordenaçao de cartoes". Essa tecnica e conhecida na area de IHC,
+pois e usada no projeto da arquitetura de informaçao dos sistemas . Como
+parte da criaçao de um cartao de apoio, essa tecnica pode ser usada para pedir
+aos alunos que organizem os topicos da disciplina em grupos que façam sentido
+para eles e rotulem esses grupos, formando categorias de topicos de IHC (como
+exemplificado na Figura 1). Os resultados da ordenaçao dos cartoes informam
+como os alunos agrupariam e rotulariam os topicos de IHC.
+
+Claro, isso deve ser feito quando os alunos ja tiverem estudado os topicos. Os resultados da dinamica de classificacao de cartoes sao insights
+para a arquitetura de informacao das proximas versoes do suporte
+cartao, que sera utilizado pelos futuros alunos da disciplina. Por isso,
+o cartao e renovado a cada curso HCI.
+
+O cartao de apoio e disponibilizado aos alunos apos algumas aulas, quando
+alguns topicos ja foram ensinados a eles. Por exemplo, o cartao pode ser
+divulgado apos as primeiras 8 aulas em um curso de IHC composto por 68
+aulas. A ideia e que, com base no que ja foi estudado, os alunos possam ver
+como os topicos estudados sao resumidos no cartao. O cartao deve ser usado
+na sala de aula. Uma associaçao entre o assunto da aula e os topicos do cartao
+deve ser feita. Por exemplo, o cartao pode conter um topico (representado por
+uma palavra ou imagem) associado a cada conjunto de slides ou a cada capitulo
+do livro. Os professores podem destacar onde cada assunto da aula aparece no
+cartao. Em atividades praticas, como a Avaliaçao Heuristica de um sistema , os
+alunos podem consultar o cartao de apoio para lembrar as heuristicas. Os
+professores tambem podem estimular um uso criativo do cartao, como pedir aos
+alunos que contem uma historia articulando conceitos de IHC mostrados no
+cartao.
+
+AVALIACAO
+
+Seguindo a abordagem descrita na secao anterior, criamos um cartao de apoio e o utilizamos em dois cursos. Nesta secao, primeiro apresentamos o cartao. Em seguida, discutimos o metodo empregado para avaliar o cartao e seu uso. Finalmente, discutimos os resultados.
+
+4.1 O Cartao de Apoio
+
+A Figura 2 mostra uma visao geral do layout do cartao. O cartao tem duas faces: face A e face B. Os topicos na face A sao mais conceituais e teoricos do que os da face B. A face A reune conceitos e teorias de IHC. A face B reune topicos usados diretamente ao projetar ou avaliar sistemas interativos, como: diretrizes ergonomicas, regras de ouro, heuristicas e diretrizes para icones.
+
+O cartao abrange quatro grupos principais de topicos: Conceitos Basicos, incluindo interface, affordance, usabilidade e comunicabilidade; Abordagens Teoricas, incluindo Teoria da Atividade, Teoria da Acao, Teoria das Cores e Engenharia Semiotica; Processo de Design, incluindo Engenharia de Usabilidade e Design Baseado em Cenarios; e, Metodos de Avaliacao, incluindo Avaliacao Heuristica, Escala de Usabilidade do Sistema e Inspecao Semiotica.
+
+O material apresentado no cartao e baseado nos livros didaticos de Barbosa e Silva [4] e de Rogers, Sharp e Preece [22], que sao os principais livros didaticos utilizados nos cursos em que o cartao foi produzido. Tambem consideramos topicos indicados nos Curriculos ACM SIGCHI para Interacao Humano-Computador [14].
+
+4.2 Metodos de Pesquisa
+
+Este estudo segue uma abordagem de estudo de caso [23]. Os estudos de caso foram conduzidos em cursos de graduacao em Engenharia de Software e Sistemas de Informacao, que sao ministrados em dois campi da Pontificia Universidade Catolica de Minas Gerais (PUC Minas). O cartao foi criado no final do segundo semestre de 2018 usando insights da dinamica de classificacao de cartoes. O cartao foi usado em aulas durante o primeiro semestre de 2019 nos cursos de graduacao em Sistemas de Informacao e Engenharia de Software. Foi disponibilizado aos alunos como imagens no formato Portable Network Graphics (PNG), para que os alunos possam usa-lo impresso ou digital. O cartao e totalmente legivel quando impresso em tamanho A4. No formato digital, o tamanho da imagem pode ser ampliado ou reduzido de acordo com as preferencias do aluno.
+
+Os cursos de graduacao em Engenharia de Software e Sistemas de Informacao sao compostos por 8 periodos, cada periodo sendo equivalente a um semestre. A disciplina de IHC esta atualmente localizada no quinto periodo no curso de Sistemas de Informacao e no quarto periodo no curso de Engenharia de Software. Em ambos os cursos, a disciplina de IHC tem o mesmo programa, tem um total de 68 aulas de 50 minutos cada e tem a disciplina de Engenharia de Requisitos como pre-requisito. A avaliacao foi feita por meio de anotacoes de aula do professor e um questionario. As perguntas do questionario sao mostradas na Tabela 1. O questionario foi respondido pelos alunos apos o uso do cartao em sala de aula por 4 meses. A participacao dos alunos foi informada, voluntaria e anonima. Ao todo, 37 alunos responderam ao questionario, sendo 17 alunos do curso de Engenharia de Software (doravante identificados com codigos que variam de SE-P1 a SE-P17) e 20 alunos do curso de Sistemas de Informacao (doravante identificados com codigos que variam de IS-P1 a IS-P20).
+
+Resultados
+
+A utilidade do cartao de apoio na educacao em IHC. Os alunos usaram e recomendaram o cartao. Um total de 12 (33%) alunos usaram o cartao no formato fisico (por exemplo, impresso em papel), 20 (53%) alunos usaram o cartao no formato digital e 5 (14%) alunos usaram nos dois formatos. Um total de 11 (30%) alunos usaram o cartao 10 ou mais vezes ao longo do semestre. Todos os 37 alunos (100%) responderam que recomendariam o cartao para outros alunos de IHC. Ao todo, um total de 36 alunos (97%) sugeriu que o cartao de apoio continue a ser usado na disciplina de IHC. Desses alunos, um total de 29 (78%) alunos forneceu alguma justificativa para sua sugestao. Algumas dessas justificativas sao detalhadas abaixo.
+
+Os alunos explicam que o cartao de apoio permite uma busca e exploracao rapidas dos topicos da disciplina. Por exemplo, os alunos declaram que: "O cartao ajuda muito a absorver o conteudo da disciplina, alem de permitir consultar o conteudo rapidamente" (IS-P3), "Auxilia na consulta rapida de regras, metodos de avaliacao, etc. no processo de avaliacao e construcao do sistema, servindo um pouco como um mapa mental para o exame" (IS-P15), "O cartao serve como um guia basico para lembrar os topicos" (SE-P7); "Me ajuda a conectar a ideia ao nome; as vezes lembro do conteudo, mas esqueco o nome, o cartao ajuda muito." (SE-P16).
+
+Os alunos explicam que o cartao de apoio facilita o estudo e a organizacao dos topicos da disciplina. Por exemplo, os alunos declaram que: "O cartao ajuda na hora dos estudos facilitando a lembranca dos conteudos" (IS-P14); "Permite-nos lembrar o conteudo e ate mesmo resumir melhor os conteudos na hora de estudar, destacando os principais assuntos dentro da disciplina de IHC" (IS-P9); "E util para organizar o conteudo na minha mente" (SE-P1); e "O cartao e otimo para disciplinas como IHC - cheio de detalhes, regras e palavras-chave" (SE-P6).
+
+Da perspectiva do professor, um efeito do uso do cartao de apoio em sala de aula e que ele desperta a curiosidade e permite um engajamento permanente com os topicos de IHC. No inicio do semestre, quando o cartao e disponibilizado, os alunos exploram todo o cartao e ficam curiosos sobre os topicos nele contidos (o que e isso? quando vamos estudar isso?). Durante o semestre, ao manusear o cartao em sala de aula, o aluno ve, le, pensa sobre pequenos elementos de toda a disciplina. Esse contato constante causa um engajamento permanente com os topicos de IHC.
+
+A utilidade do cartao de apoio alem da sala de aula de IHC (em outras disciplinas de graduacao ou atividades profissionais). Os alunos indicam que usaram o cartao em atividades profissionais. Por exemplo, o aluno IS-P9 diz: "Quando estou desenvolvendo uma interface de usuario, tento me lembrar dos conceitos de IHC, como os principios da gestalt, e o cartao me ajuda a lembrar". Outras justificativas estao associadas ao conhecimento adquirido nas aulas, por exemplo: "Mostrei alguns erros ao desenvolver o ERP [Enterprise Resource Planning] onde trabalho" (IS-P12); "Em uma equipe de desenvolvimento, na empresa, discutimos cenarios esteticos" (IS-P14); e "[Considero os topicos] no uso de cores para um aplicativo" (IS-P11).
+
+Os alunos tambem usaram o cartao para lembrar e aplicar os topicos de IHC em outras disciplinas do curso, como as seguintes disciplinas: Trabalho de Software Interdisciplinar IV (SE-P3 e SE-P6); Laboratorio de Desenvolvimento de Software (SE-P6); Conclusao do Trabalho de Curso (SE-P10 e SE-P16); e Teste de Software (IS-P7). O aluno IS-P7 explica que "o cartao e util no Teste de Software porque possui conceitos que ajudam a entender o ponto de vista de um usuario". O cartao resume alguns metodos de avaliacao, como a Avaliacao Heuristica de Nielsen e a Escala de Usabilidade do Sistema (SUS), tornando mais facil associar os topicos de IHC e o teste de software em geral. O uso do cartao pelos alunos em outras disciplinas pode ir alem do semestre em que estao estudando IHC: "No final do curso, o slide raramente e consultado, mas o cartao pode ser" (IS-P8).
+
+Sugestoes de melhorias no cartao. Dois alunos forneceram sugestoes sobre o layout do cartao: "Acho que um ponto a mudar seria as materias estarem em ordem de ensino em sala de aula" (SE-P3) e "Deveria ter uma versao de bolso" (IS-P12). Esse tipo de sugestao e importante para entender como o aluno gostaria que o cartao fosse, como melhorar o cartao em versoes futuras e como evitar mal-entendidos sobre a finalidade do cartao.
+
+Limitacoes. Nossa proposta e resultados tem limitacoes que devem ser destacadas. Embora o cartao tenha sido usado em aulas de dois cursos diferentes (Sistemas de Informacao e Engenharia de Software), nao se sabe se a percepcao dos alunos seria semelhante em disciplinas de IHC ministradas como parte de outros cursos, como Engenharia da Computacao, Arte, Desenvolvimento de Jogos Digitais e Ciencia da Computacao. Como o cartao de apoio e um recurso auxiliar e de uso opcional, ele pode ser usado apenas pelos alunos que consideram seu uso benefico.
+
+**CONCLUSAO**
+
+O cartao de apoio e um recurso pedagogico amplamente utilizado em muitas
+disciplinas. Neste trabalho, relatamos a experiencia de criar e usar um cartao
+de apoio nas aulas de IHC nos cursos de Sistemas de Informaçao e Engenharia de
+Software. Discutimos os principais requisitos do cartao de apoio, como definir
+os topicos a serem abordados no cartao, como organizar os topicos no cartao e
+como usar o cartao na sala de aula.
+
+Nossos resultados mostram a importancia do cartao de apoio como um recurso
+didatico na educaçao em IHC. Ele ajuda os alunos (1) a acompanhar as aulas,
+(2) a integrar os diferentes topicos do curso e (3) a facilitar uma aplicaçao
+interdisciplinar dos topicos estudados. O cartao funciona como uma das entradas
+para os alunos construirem seus mapas cognitivos, mapas mentais e mapas
+conceituais no estudo da interaçao humano-computador. Ele estimula a
+curiosidade e o engajamento dos alunos com os topicos de IHC. O uso do cartao
+vai alem da disciplina de IHC; ele tambem e usado pelos alunos em suas
+atividades profissionais e em outras disciplinas academicas.
+
+Nao se pode esperar um unico e definitivo cartao de apoio para o campo da
+IHC. IHC e um campo dinamico, entao o cartao deve ser adaptado
+continuamente seguindo tal dinamica e as necessidades de cada curso. Assim,
+o cartao e um instrumento dinamico, mudando com o contexto do curso em que
+e usado. O processo descrito neste artigo pode ser seguido para criar e adaptar
+um cartao de apoio a cada contexto. Para ser eficaz, o cartao de apoio tambem
+deve ser um cartao "orientado ao aluno", sendo continuamente adaptado as
+necessidades dos alunos. O feedback dos alunos deve ser continuamente
+obtido e considerado para que o cartao permaneça eficaz ao longo do tempo.
+Finalmente, o cartao e complementar; ele se soma a muitos outros recursos
+pedagogicos utilizados na educaçao em IHC.
+
+Sugerimos as seguintes perguntas a serem investigadas em trabalhos futuros.
+Qual e o metodo mais eficaz para estabelecer quais topicos do programa devem
+ser destacados no cartao? As caracteristicas de interaçao podem tornar ainda
+mais envolvente o uso digital do cartao? Tambem e relevante criar um cartao
+totalmente focado no trabalho pratico de projetar e avaliar sistemas
+interativos. Fazer isso exigira uma abordagem menos pedagogica e mais
+orientada ao mercado. 
+
+Trabalhos futuros tambem podem investigar o uso de
+cartoes de apoio alem do processo de ensino-aprendizagem de IHC. Um
+entendimento teorico e geral do uso desse tipo de artefato e desejado. Pode
+ser util em muitas situaçoes onde um ser humano realiza tarefas que exigem
+lembrar ou processar uma quantidade de informaçao que vai alem dos limites
+do sistema cognitivo , como algumas tarefas de inteligencia humana ou computaçao

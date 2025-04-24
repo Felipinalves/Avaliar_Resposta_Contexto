@@ -1,0 +1,84 @@
+**INTRODUCAO**
+
+Acessibilidade e definida como a qualidade ou caracteristica que
+possibilita as pessoas com deficiencia de acessar ou usar algo .
+Projetar um produto que considere questoes de acessibilidade sig-
+nifica observar todos aspectos que permitam que este produto seja
+usado por pessoas com ou sem deficiencias ou limitaçoes situaci-
+onais . Limitaçao situacional e qualquer tipo de problema de
+acessibilidade que uma pessoa sem deficiencia pode experimen-
+tar devido a caracteristicas ambientais como: excesso ou falta de
+informaçoes na tela, interaçoes atraves de telas pequenas, entre
+outras . Dentro do contexto de acessibilidade, o Design Universal
+determina que a criaçao de uma soluçao deve atender as necessida-
+des do maior numero possivel de situaçoes e publicos. Ao trabalhar
+com o Design Universal o desenvolvedor de software cria uma
+unica soluçao buscando atender a todos ou que atenda a maioria
+dos usuarios finais.
+
+Os User Interface Design Patterns (UIDP) tem sido amplamente uti-
+lizados no desenvolvimento de aplicaçoes para dispositivos moveis
+(mobile apps) . Esses padroes sao uma coleçao de elementos que
+descrevem soluçoes para problemas que ocorrem com frequencia
+no design da interface do usuario de mobile apps.
+
+Furtado, Almeida e Marques  apontaram dificuldades que
+usuarios possuem em identificar o significado de icones e as açoes
+relacionadas a eles. No trabalho, os autores concluem que essas
+dificuldades podem ser solucionadas com decisoes de design mais elaboradas. O trabalho de Silva e Freire [7] tem como foco capacitar designers e desenvolvedores a tornar os mobile apps mais acessiveis para deficientes visuais. Os autores apontam que ha falta de tecnicas que ajudem os designers e desenvolvedores nesta atividade [7]. No entanto, ao aplicar esses padroes, o designer pode acabar introduzindo problemas de acessibilidade e prejudicar a utilizacao de mobile apps pelo publico geral [2]. Um estudo explorando problemas reportados por desenvolvedores e designers de interface do usuario ao usar UIDP para desenvolvimento de mobile apps, foi reportado em [2]. A partir dos resultados deste estudo, foi elaborado um conjunto de recomendacoes para uso dos UIDP para desenvolvimento de mobile apps. O foco das recomendacoes e evitar que ao usar os UIDP os designers introduzam barreiras de acessibilidade em mobile apps. O objetivo deste artigo e apresentar o processo de avaliacao do uso desse conjunto de recomendacoes na visao de designers e desenvolvedores de software. Nao e objetivo deste artigo apresentar o processo de criacao das recomendacoes ja que este resultado foi reportado em [1].
+
+A recomendaçoes emergiram a partir da analise de problemas
+de acessibilidade reportados por designers/desenvolvedores em
+um estudo disponivel em . As recomendaçoes apresentam uma
+descriçao do UIDP, os problemas de acessibilidade que seu uso
+pode introduzir e recomendaçoes para que esses problemas sejam
+evitados. Alem disto, imagens e GIFs animados ilustram o problema
+e a soluçao para cada recomendaçao. As recomendaçoes estao
+disponiveis no site do grupo de pesquisa UXLERIS na forma de
+catalogo. Um exemplo sucinto desta organizaçao pode ser visto
+na Tabela 1.
+
+Para avaliar o uso das recomendacoes foi realizado um estudo
+junto a 34 desenvolvedores de software com conhecimento em
+design de interface. Todos participaram de forma voluntaria e assinaram um Termo de Conhecimento Livre e Esclarecido (TCLE)
+autorizando os pesquisadores a usarem os dados para fins academicos. Para realizar um nivelamento no conhecimento de todos
+foi realizado um curso de 16 horas divididos em 8 dias. O curso
+aconteceu em um laboratorio de informatica da Universidade Federal de Sao Carlos. Durante o curso foram abordados conceitos
+teoricos e praticos sobre UIDP, acessibilidade e desenvolvimento
+de mobile apps. Os participantes aplicaram os conteudos vistos
+no curso elaborando prototipos de media fidelidade usando a ferramenta Proto.io2
+. No penultimo dia do curso as recomendacoes
+foram apresentadas aos participantes e eles utilizaram estas para
+prototipar uma solucao de uma mobile apps que contivesse as funcionalidades de reproducao de musicas, playlists, favoritos e outras
+opcoes. A Figura 1 apresenta um exemplo produzido por um dos
+participantes.
+
+Apos prototipacao, foi coletado o feedback dos participantes atraves da tecnica Technology Acceptance Model (TAM) [8]. A tecnica
+utiliza um questionario formado por um conjunto de questoes dividas em duas dimensoes (ver Tabela 2). A primeira foca na utilidade
+percebida, verificando o grau em que o usuario acredita que usando
+a tecnologia ira melhorar seu desempenho. A segunda dimensao
+busca capturar a facilidade de uso percebida, isto e, quao o usuario
+acredita que usando a tecnologia tera de realizar menos esforco para
+uma determinada atividade. Para cada questao, o participante deveria atribuir seu grau de concordancia que variava entre “Concordo
+Totalmente” a “Discordo Totalmente”.
+
+A Figura 2 apresenta os resultados do questionario TAM. U6
+mostrou alta concordancia positiva. Foi a que recebeu apenas res-
+postas CT (27 respostas) e CA (7 respostas). A questao U5, recebeu
+apenas uma resposta CP. Observando os valores das barras de forma
+geral, nota-se que nenhuma questao recebeu a resposta DT. Alem
+disso, nota-se tambem que as respostas CT e CA sao dominantes.
+A questao F6 foi a unica que recebeu 2 respostas de discordancia.
+Por fim, a questao F3 foi a que menos recebeu respostas CT (10) e
+teve alto numero de respostas CA (19).
+
+Os resultados mostraram uma boa aceitaçao por parte dos parti-
+cipantes. Contudo, analises mais detalhadas precisam ser realizadas
+como trabalho futuro para compreender o porque em alguns casos
+os participantes nao conseguiram utilizar as recomendacoes da
+forma que gostariam.
+
+
+**CONSIDERAÇOES FINAIS**
+
+Em conclusao, este artigo apresenta o processo de avaliaçao de um conjunto de recomendaçoes para uso de UIDP no desenvolvimento de aplicaçoes para dispositivos moveis que evitem a inserçao de problemas de acessibilidade. Os resultados do estudo demonstram que as recomendaçoes foram bem recebidas pelos desenvolvedores de software, o que indica que elas podem ser uteis para auxiliar no desenvolvimento de mobile apps mais acessiveis e inclusivos.

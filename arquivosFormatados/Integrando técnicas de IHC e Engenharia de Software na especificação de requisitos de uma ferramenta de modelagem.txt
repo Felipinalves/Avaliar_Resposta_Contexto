@@ -1,0 +1,197 @@
+**INTRODUCAO**
+
+A especificacao de requisitos e considerada uma fase importante e vital no processo de desenvolvimento de software [de Brito and Benitti 2020]. A combinacao de tecnicas e uma das melhores formas de definir requisitos de um sistema, visando explorar visoes diferentes do problema e com o potencial de fornecer informacoes mais ricas e detalhadas sobre as necessidades dos usuarios [Zowghi and Coulin 2005]. E relevante considerar caracteristicas implicitas de qualidade que poderao fornecer qualidade de uso ao software a ser desenvolvido [Maia et al. 2020].
+
+A usabilidade e um fator estrategico que pode fornecer diversos beneficios para os usuarios e para o time de desenvolvimento de software, tal como a reducao de custo com treinamento e documentacao, melhoria da produtividade e satisfacao do usuario, alem da reducao de erros dos usuarios [Abran et al. 2003]. Adotar metodos que explorem a perspectiva dos usuarios finais e suas preferencias de uso pode contribuir na identificacao de requisitos de usabilidade adequados.
+
+Este artigo tem o objetivo de relatar o uso de tecnicas de IHC e Engenharia de
+Software na especificaçao de novos requisitos de uma ferramenta de modelagem. As tecnicas
+foram adotadas pelo time de um projeto de pesquisa e desenvolvimento. O projeto visa
+evoluir uma ferramenta de modelagem.
+
+A ferramenta de modelagem a ser evoluida no projeto e a USINN Modeler. Esta fer-
+ramenta tem o objetivo de tornar o processo de criaçao de modelos da notaçao USINN
+mais pratico e ajudar a evitar erros que possam ocorrer em casos de falha humana, como
+o esquecimento de detalhes e regras da notaçao . USINN e
+uma notaçao para modelar a interaçao, navegaçao e usabilidade em sistemas interati-
+vos . Desta forma, a referida ferramenta torna-se um ambiente que
+promove a facilidade de uso na elaboraçao de diagramas USINN e na documentaçao,
+tornando o processo de construçao de modelos menos oneroso ao usuario, assim como,
+tambem ser util como um suporte para o aprendizado da notaçao.
+
+Em sua versao atual, a ferramenta USINN Modeler possui as seguintes funciona-
+lidades: Disposiçao dos elementos graficos da notaçao: a ferramenta disponibiliza
+o conjunto de todos os elementos da notaçao USINN para serem utilizados na criaçao
+de diagramas; Criaçao de diagramas: a ferramenta permite que novos diagramas
+USINN sejam criados por meio do recursos de "arrastar e soltar”os elementos graficos da
+notaçao; Validaçao da sintaxe: durante a criaçao de diagramas, a ferramenta valida
+se as conexoes entre os elementos sao validas. Caso a conexao nao seja valida, a açao e
+interrompida e o usuario visualiza um alerta sobre o erro.
+
+Com a versao atual da ferramenta, e possivel criar e editar diagramas USINN,
+contudo melhorias sao necessarias para promover uma melhor experiencia de uso com a
+ferramenta, conforme observado em um estudo anterior . As-
+sim, o time do projeto realizou o levantamento e especificaçao de novos requisitos para a
+ferramenta, sendo relevante focar em aspectos de usabilidade.
+
+**MATERIAIS E METODOS ADOTADOS**
+
+Dada a relevancia dos requisitos de usabilidade e os potenciais beneficios da combinaçao
+de tecnicas de elicitaçao de requisitos, foi proposto o metodo USARP (USAbility Requi-
+rements with Personas and user stories). O USARP propoe o levantamento e especificaçao
+de requisitos de usabilidade por meio da combinaçao de personas, user stories e guidelines
+de usabilidade . Este metodo foi adotado neste projeto pelo fato
+de sugerir o uso combinado de tecnicas de IHC (personas e guidelines de usabilidade) e
+Engenharia de Software (user stories) que podem auxiliar a projetar um sistema interativo
+de forma centrada no usuario.
+
+User Stories (US) sao descriçoes das funcionalidades do sistema a partir da pers-
+pectiva do usuario e de maneira informal. Cohn propoe uma estrutura para
+US seguindo o padrao de sentenças como: “Como um  eu
+quero/desejo <acao/funcionalidade> para que <desejo/objetivo>.
+
+De acordo com Cooper et. al. , persona e um personagem ficticio,
+arquetipo hipotetico de um grupo de usuarios reais, criado para descrever um
+usuario tipico. Personas sao utilizadas principalmente para representar um grupo de usuarios finais durante discussoes de design, mantendo todos focados no mesmo alvo
+
+Juristo et al. propuseram guidelines de usabilidade para apoiar a elicitaçao
+de requisitos por meio de questoes a serem exploradas pelo analista de requisitos. Estes
+guidelines abordam aspectos funcionais de usabilidade a serem considerados em um sis-
+tema a ser desenvolvido. Para fornecer uma maior orientaçao sobre o uso das guidelines
+de Juristo et al. , a USARP possui cartas baseadas nas guidelines de usabilidade
+para guiar a seleçao e inclusao de mecanismos de usabilidade nos requisitos.
+
+As cartas foram organizadas em tres categorias:
+Cartas de Mecanismos de Usabilidade: Fornecem a definiçao de cada mecanismo
+de usabilidade e podem ser usadas para apoiar o time no entendimento e seleçao dos
+mecanismos de usabilidade relevantes.
+
+Cartas de Requisitos de Usabilidade: Fornecem diretrizes para especificar os me-
+canismos de usabilidade nas US que representam os requisitos do sistema. Podem ser
+usadas na elicitaçao e especificaçao de requisitos de usabilidade.
+
+Cartas de Prototipaçao: Fornecem diretrizes para representar os mecanismos de
+usabilidade nos prototipos de interface. Podem ser usadas para auxiliar na criaçao de
+prototipos que representam os requisitos de usabilidade.
+
+O analista e/ou equipe do projeto devem identificar o mecanismos de usabi-
+lidade relevantes para cada US com o auxilio das cartas de mecanismos de usabilidade
+(cartas amarelas). Em seguida, as cartas de requisitos de usabilidade (cartas azuis) asso-
+ciadas aos mecanismos de usabilidade selecionados, sao analisadas e as suas diretrizes
+devem ser seguidas para enriquecer o conteudo das US. Podem haver uma ou mais car-
+tas de requisitos de usabilidade e cartas de prototipaçao associadas a um mecanismo de
+usabilidade. A Fig. 1 ilustra todas as cartas relacionadas ao mecanismo de usabilidade
+”favoritos”
+
+As quatro etapas seguidas pelo time para o levantamento e especificaçao de
+requisitos foram:
+Criaçao das personas: Consiste na criaçao das personas que representam os
+usuarios da aplicaçao, utilizando a tecnica PATHY . Esta tecnica
+auxilia na criaçao de personas com foco na obtençao de requisitos potencias para uma
+aplicaçao, baseado no mapa de empatia e perguntas guias a serem exploradas pelo time
+que objetiva desenvolver as personas. A PATHY permite apoia o time na criaçao de
+personas com base em dados reais dos usuarios e/ou no conhecimento do time sobre os
+usuarios. Neste relato, o time possuia conhecimento sobre os usuarios.
+
+Extraçao dos requisitos potenciais: E realizada a extraçao de requisitos poten-
+ciais a partir das personas, conforme proposto por Ferreira et. al. . Os requisitos
+potenciais sao informaçoes importantes retiradas das descriçoes das personas que podem
+ser transformadas em requisitos funcionais.
+
+Escrita das user stories: As US sao criadas com as informaçoes obtidas na
+etapa anterior. As US seguem o padrao de estrutura 3C que possui tres
+componentes para US: cartao com o texto, a conversa para detalhar melhor a estoria e a
+verificaçao por meio de confirmaçao feita por meio de criterios de aceitaçao.
+
+Enriquecimento das user stories com guidelines de usabilidade: as cartas de
+guidelines de usabilidade sao consultadas para enriquecer as US com mecanismos de usa-
+bilidade. Para a realizaçao da quarta etapa, sao usadas as cartas da USARP para auxiliar
+os envolvidos a identificarem e enriquecerem as US criadas na etapa anterior.
+
+**RESULTADOS**
+
+Esta seçao relata as atividades realizadas pelo time de um projeto de pesquisa que visa
+evoluir uma ferramenta para criaçao de modelos. Devido a pandemia ocasionada pela
+COVID-19, o time realizava suas atividades remotamente utilizando o Discord e o Trello
+para gerenciamento da comunicaçao e atividades do projeto. O time e composto por
+tres estudantes de graduaçao em Engenharia de Software, um estudante de graduaçao em
+Ciencia da Computaçao e coordenado por uma professora doutora que atua nas areas de
+IHC e Engenharia de Software.
+
+Criaçao de personas: A tecnica PATHY foi adotada para a criaçao de personas.
+A PATHY sugere questoes exploratorias que ajudam o time a pensar no usuario que ira
+interagir com o sistema, em quais problemas o usuario possui e que podem ser resolvidos
+pela aplicaçao e no que o usuario necessita em relaçao a aplicaçao a ser desenvolvida
+. Primeiro, o time definiu um conjunto de perfis de usuarios potenci-
+ais da ferramenta de modelagem. Com base na definiçao destes perfis de usuario, o time
+elaborou personas que representassem os diferentes perfis. Cada membro do time do pro-
+jeto ficou responsavel por criar personas relacionadas a um perfil de usuario. Por estarem
+familiarizados com o perfil das personas a serem criadas e conseguirem explorar todos os
+campos necessarios com base nas questoes da tecnica, o time nao sentiu a necessidade de
+buscar conhecimento adicional para criar as personas da ferramenta. Os perfis de usuario
+definidos foram: (a) Professor(a) de IHC interessado em ensinar a notaçao USINN em
+sua disciplina; (b) Estudante de IHC aprendendo a notaçao USINN; (c) Profissional da
+industria interessado em adotar a notaçao USINN em seu projeto; (d) Profissional da
+industria nao especialista em usabilidade que ira usar a notaçao USINN em um projeto.
+
+Com os perfis definidos, os membros iniciaram a elaboraçao de suas respecti-
+vas personas. As perguntas-guias propostas pela PATHY foram respondidas levando em
+consideraçao aspectos sociais e o contexto de uso da ferramenta de modelagem de cada
+perfil de usuario. A PATHY sugere questoes exploratorias que ajudam o time a pensar
+no usuario que ira interagir com o sistema, em quais problemas o usuario possui e que
+podem ser resolvidos pela aplicaçao e no que o usuario necessita em relaçao a aplicaçao a
+ser desenvolvida . No fim do processo, foram criadas seis personas:
+duas personas de professor(a), duas personas de estudante, duas personas de profissional
+da industria. Um exemplo de persona elaborada pode ser visto na Fig. 2.
+
+Posterior a etapa de elaboraçao das personas, uma reuniao remota, por meio da
+plataforma Discord, foi realizada entre os membros do time e a coordenadora do projeto.
+A reuniao tambem teve como objetivo verificar a corretude das personas apresentadas e
+realizar ajustes caso fossem necessarios.
+
+Especificaçao de user stories:
+Apos a elaboraçao das personas, o time ado-
+tou as diretrizes da tecnica PATHY para a extraçao de requisitos potenciais a partir das
+personas criadas e sua especificaçao como US . A especificaçao de
+US objetivou descrever as necessidades das personas e torna-las requisitos de software.
+Para promover uma maior troca de conhecimento sobre as personas no time, decidiu-se
+que cada membro realizaria a extraçao de requisitos de uma ou duas personas diferentes
+das personas que elaborou. Para garantir a qualidade das US a serem elaboradas, uma
+reuniao remota foi conduzida para a verificaçao dos requisitos potenciais. Nesta reuniao,
+a coordenadora analisou se a extraçao foi realizada de forma adequada seguindo a tecnica
+PATHY e se foram extraidos requisitos potenciais validos. Duvidas dos membros foram
+esclarecidas para que a especificaçao de US fosse iniciada. As US foram especificadas
+segundo o padrao 3C, conforme sugerido pelo metodo USARP 2.0. A Fig. 3 ilustra a obtencao de US a partir de requisitos potenciais da persona Tony.
+
+Enriquecimento de user stories: O enriquecimento das US especificadas foi
+realizado utilizando o conjunto de cartas de mecanismos de usabilidade e requisitos de
+usabilidade do metodo USARP . O time seguiu dois passos:
+
+Seleçao de mecanismos de usabilidade para cada US: Para dar inicio a esta
+etapa, a coordenadora do projeto sugeriu que o time realizasse a leitura das cartas de
+mecanismos de usabilidade para obter uma base sobre cada conceito. Em seguida, os
+membros realizaram a seleçao dos mecanismos de usabilidade relevantes para cada US.
+A seleçao dos mecanismos de usabilidade foi realizada pelos membros do time sem a
+participaçao da coordenadora, por meio de uma reuniao remota. Para cada US, o time
+realizou uma leitura para entendimento de seu conteudo. Em seguida, o time discutia
+sobre quais mecanismos de usabilidade poderiam ser relacionados à funcionalidade que aquela US descrevia. Ao chegar em um consenso sobre quais mecanismos seriam selecionados, os identificadores das cartas dos mecanismos de usabilidade selecionados eram registrados no campo conversa da US correspondente, com uma breve explicaçao do motivo da decisao.
+
+Utilizaçao das cartas de especificaçao de requisitos de usabilidade para cada mecanismo selecionado anteriormente: Apos a seleçao dos mecanismos de usabilidade relevantes, o time identificou as cartas de especificaçao de requisitos de usabilidade relacionadas. Seguindo as diretrizes destas cartas, o time complementou o conteudo das US. Em alguns casos foi necessario inserir informaçoes no campo conversa da US (Fig 3). Em outros casos, foi necessario criar novas US.
+
+Verificaçao dos requisitos: A ultima etapa do processo foi a realizaçao de uma verificaçao dos requisitos especificados. A verificaçao dos requisitos foi realizada pela coordenadora do projeto, que analisou a corretude das US, observando se o conteudo do campo conversa era valido e coerente com a sentença de sua respectiva US. Observou-se que algumas US continham no campo conversa, a especificaçao de novas US. Para corrigi-las, as novas US foram separadas e no seu campo conversa foi incluido um indicativo da US e carta de especificaçao de requisitos de usabilidade que a originou.
+
+Nesta verificaçao, tambem foram identificadas US repetidas, ou seja, US que fo- ram definidas para mais de uma persona e permaneceram duplicadas. Para evitar a du- plicidade das US e manter a relaçao das US com todas as personas que a originaram, o time estabeleceu a rastreabilidade entre US e personas. Ao final do processo, o time especificou 18 mecanismos de usabilidade associados a 20 user stories.
+
+Os artefatos, personas e requisitos obtidos durante as etapas estao disponiveis no link https://bit.ly/. A partir deste processo, o time realizou a priorizaçao das US para iniciar a etapa de design e desenvolvimentos dos novos requisitos da ferramenta USINN Modeler.
+
+**LIÇOES APRENDIDAS E CONSIDERAÇOES FINAIS**
+
+Este artigo apresenta o relato da adoçao de metodos de IHC (personas, guidelines de usa- bilidade) e ES (user stories, revisao de requisitos) para definir novos requisitos de uma ferramenta de modelagem. Personas, user stories e o metodo USARP foram adotados para levantamento e especificaçao de novos requisitos com foco em aspectos de usabili- dade, criterio de qualidade considerado relevante para a ferramenta.
+
+Como liçoes aprendidas e possivel destacar que: A combinaçao das tecnicas auxiliou na especificaçao de requisitos com foco nas caracteristicas dos potenciais usuarios, ampliando a visao sobre o sistema; E necessario um maior direcionamento para a seleçao de cartas do metodo USARP que sejam pertinentes aos requisitos, pois as indicaçoes textuais de uso nas cartas geram interpretaçoes que podem confundir o real in- tuito da carta; A adoçao da USARP foi possivel devido a presença de uma especialista no metodo que orientou e esclareceu duvidas do time, indicando que o processo de adoçao da USARP requer mais orientaçoes sobre como usar o metodo de forma combinada aos demais artefatos (personas e user stories); A tecnica PATHY mostrou-se adequada em um contexto no qual o time possuia conhecimento previo sobre os potenciais usuarios do sistema, possibilitando a criaçao de personas.
+
+As liçoes aprendidas indicam que o metodo apoia a identificaçao de requisitos de usabilidade e sua especificaçao. Contudo, os passos para a adoçao das cartas que auxiliam o enriquecimento dos requisitos com aspectos de usabilidade precisam ser mais claros. Os resultados desta pesquisa contribuem na divulgaçao de uma experiencia pratica de integraçao de tecnicas de IHC no processo de desenvolvimento de sistemas interativos. A experiencia ocorreu no contexto de trabalho remoto, fornecendo evidencias de que as tecnicas exploradas sao eficazes em contexto de trabalho remoto.
+
+**CONCLUSAO**
+
+A integraçao de tecnicas de IHC e Engenharia de Software, como o uso de personas, user stories e o metodo USARP, demonstrou ser uma abordagem eficaz para a especificaçao de requisitos de usabilidade em uma ferramenta de modelagem. A aplicaçao dessas tecnicas resultou em um melhor entendimento das necessidades dos usuarios e na criaçao de requisitos mais claros e concisos. O trabalho remoto nao foi um obstaculo para a aplicaçao das tecnicas e permitiu que a equipe se adaptasse e inovasse em suas praticas. Em resumo, a combinaçao de tecnicas de IHC e Engenharia de Software, aliada a um ambiente de trabalho remoto, pode gerar resultados positivos no desenvolvimento de sistemas interativos.

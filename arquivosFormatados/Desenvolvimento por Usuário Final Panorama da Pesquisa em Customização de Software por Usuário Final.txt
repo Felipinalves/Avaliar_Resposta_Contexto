@@ -1,0 +1,114 @@
+**RESUMO**
+
+Novas necessidades de usuario podem surgir a medida que es-
+tes ganham proficiencia no uso do software, levando ao desenvolvimento de
+aplicaçoes em que os usuarios possam customiza-las a fim de atender as suas
+novas necessidades. Nesse cenario, a partir de uma revisao da literatura, cole-
+tamos estudos que abordam a customizaçao de software por usuarios finais. Co-
+letamos 42 artigos de 1997 a 2020, abrangendo 63 autores e 1579 referencias.
+Realizamos uma analise bibliometrica para examinar o tema em que aplicamos
+os metodos de coautoria, cocitaçao e acoplamento bibliografico. Os resultados
+mostram a estrutura social e intelectual desvelada e podem ser uteis para no-
+vos pesquisadores interessados no tema. Neste resumo expandido, sintetizamos
+essa analise bibliometrica realizada.
+
+Palavras-chave desenvolvimento por usuario final, customizaçao de software,
+analise bibliometrica, estrutura social, estrutura intelectual
+
+**INTRODUCAO**
+
+Como objetivo geral, o software tenta atender as necessidades dos usuarios de um deter-
+minado dominio mas, durante o uso, novas necessidades podem surgir a medida que os
+usuarios vao se familiarizando com suas aplicaçoes . Naturalmente,
+essas novas demandas nao sao consideradas durante o projeto do software. Consequente-
+mente, esse cenario traz a tona a necessidade de considerar o desenvolvimento de software
+em que os usuarios possam realizar açoes para adequar suas aplicaçoes as suas novas de-
+mandas e permitir a evoluçao do software.
+
+Na comunidade de pesquisadores de Interaçao Humano-Computador (IHC), as
+pesquisas que investigam o desenvolvimento de aplicaçoes nas quais os usuarios tem
+a capacidade de modificar ou customizar suas aplicaçoes, sao abordadas no topico de
+Programaçao por Usuario Final (End-User Development - EUD). Este resumo expandido
+apresenta a sintese de uma analise bibliometrica realizada sobre este topico na qual os
+metodos de coautoria, acoplamento bibliometrico e co-citaçao foram analisados . A
+Seçao 2 apresenta a metodologia adotada. A Seçao 3 traz, de forma sucinta, os resultados
+obtidos e a Seçao 4 as consideraçoes finais.
+
+**METODOLOGIA**
+
+A metodologia adotada neste trabalho seguiu o fluxo proposto por Zupic e Cater
+ para analises bibliometricas. O fluxo e composto por cinco etapas
+ Desennho de Pesquisa,  Compilaçao dos dados,  Analise,  Visualizaçao, e 
+Interpretaçao. Na sequencia, cada etapa do fluxo e brevemente apresentada.
+
+Desennho de pesquisa O objetivo deste trabalho foi realizar uma analise bi-
+bliometrica dos artigos que abordam a customizaçao do software por usuarios finais de-
+senvolvidos dentro do topico de EUD. A questao geral de pesquisa definida foi qual e o
+panorama de estudos sobre EUD em relaçao ao desenvolvimento de software no qual os
+usuarios podem realizar açoes de adaptação?
+
+Ao responder esta questao geral de pesquisa, as seguintes questoes especifica de
+pesquisa tambem foram respondidas.
+ Qual a estrutura social das pesquisas em EUD?
+ Qual a estrutura intelectual das pesquisas em EUD?
+ Como a estrutura intelecutal aborda os estudos em EUD?
+
+Para o entendimento do tabalho, e importante destacar o que se entende por es-
+trutura social e intelectual dos estudos. Quando dois ou mais pesquisadores colaboram
+em um projeto, sejam estes da mesma instituiçao ou nao, eles estabelecem uma conexao
+social. Ao investigar a QP1, identificamos a estrutura social que emerge da colaboraçao
+entre pesquisadores no topico. Por outro lado, os temas de interesse destes pesquisadores
+formam a estrutura intelectual, isto e, os temas abordados pelos diferentes pesquisadores
+da comunidade. Esta estrutura foi analisada na QP2. A QP3 investigou como os temas
+sao abordados pelos pesquisadores.
+
+Compilaçao dos dados Este artigo utilizou dados de uma revisao de literatura
+publicada por Correa e Silveira . Nesse trabalho, os autores uti-
+lizaram a tecnica de Snowballing  para selecionar artigos que abordam a
+customizaçao de software por usuario final. A partir de um conjunto inicial de tres artigos
+da area, foram realizadas quatro iteraçoes das fases de backward e forward. Ao todo, 42
+artigos foram selecionados.
+
+Uma base de dados em formato CSV foi construida para apoiar a analise bi-
+bliometrica, considerando os metadados dos 42 artigos selecionados. Os metadados
+compreenderam as seguintes informaçoes autores, numero de identificaçao dos autores,
+afiliaçao dos autores, titulo do trabalho, ano, local de publicaçao, volume, issue, paginas,
+numero de citaçoes e referencias.
+
+Analise Nesta etapa, os dados foram pre-processados para garantir sua con-
+sistencia e padronizaçao. Assim, os nomes dos autores e suas respectivas afiliaçoes foram
+padronizados. Nesta etapa tambem foram excluidas eventuais informaçoes duplicadas.
+
+Visualizaçao Para conduzir a analise bibliometrica, a ferramenta VOSViewer foi
+utilizada. Trata-se de uma ferramenta desenvolvida para construçao e visualizaçao de re-
+des bibliometricas . Alem desta ferramenta, a biblioteca bibli-
+ometrix  tambem foi utilizada para a analise da estrutura social.
+
+Interpretaçao Para responder as questoes de pesquisa, foram examinadas as
+relaçoes entre autores, paises e artigos publicados. Para este fim, foram utilizados tres metodos bibliometricos: analise de co-citacao [Small 1973], analise de acoplamento bibliografico [Kessler 1963], e analise de coautoria [Lu e Wolfram 2012].
+
+Resultados
+
+O campo cientifico e formado por medidas quantitativas como numero de citacoes e media de publicacoes obtidas a partir da analise de desempenho. De fato, os metodos bibliometricos tem duas finalidades primárias: analise de performance e mapeamento cientifico [Cobo et al. 2011]. Contudo, para alem dos numeros, existe uma estrutura social estabelecida com a cooperacao entre os pesquisadores. Esta estrutura social reflete objetivos de pesquisa em comum e pode ser percebida em eventos, estudos coautorados, e grupos de pesquisa.
+A relacao entre dois ou mais autores e estabelecida quando eles coautoram uma publicacao [Lu e Wolfram 2012]. Portanto, para responder a QP1, foram analisadas a coautoria de trabalhos em duas dimensoes: autores e paises. Dado o conjunto de artigos, foram encontrados 63 autores. A fim de produzir um resultado mais legivel, as redes de coautoria foram construidas considerando autores que publicaram ao menos tres artigos. Assim, 10 autores organizados em tres grupos distintos foram identificados.
+O primeiro grupo de coautoria de pesquisadores identificado e composto por cinco autores: Giuseppe Desolda, Carmelo Ardito, Maria Francesca Costabile, Maristella Matera, e Rosa Lanzilotti. O segundo grupo e formado por tres autores: Piero Mussio, Antonio Piccinno, e Daniela Fogli. Por fim, o ultimo grupo e formado pelos autores Gerhard Fischer e Yunwen Ye.
+Em relacao a analise de co-autoria por paises, percebeu-se que pesquisadores da Italia e Estados Unidos cooperam fortemente no desenvolvimento dos estudos em EUD. A Italia possui 16 trabalhos ao total e e seguida por Estados Unidos, Alemanha, Brasil e Dinamarca com 11, 4, 4 e 3 trabalhos publicados.
+A estrutura intelectual de um topico reflete dominios cientificos e topicos de pesquisa influentes [Shafique 2013]. Para analisar a estrutura intelectual do topico investigado e responder as questoes de pesquisa QP2 e QP3, foram utilizados os metodos de co-citacao e acoplamento bibliografico. Dado o conjunto de artigos selecionados, foi encontrado um total de 1579 referencias
+Em relacao a analise de co-citacao, foram identificados quatro grupos tematicos que abordam os seguintes assuntos: abordagens de design, qualidade em sistemas customizaveis, ambientes de design, e design para uma nova experiencia de usuario. O primeiro grupo tematico, abordagens de design, contem estudos que investigam abordagens para tornar os usuarios designers das aplicacoes a fim de promover a evolucao dos sistemas. O segundo grupo, qualidade em sistemas customizaveis apresenta trabalhos voltados a entender como garantir a qualidade de aplicacoes customizadas por usuarios finais. O terceiro grupo tematico, ambientes de design, apresenta ambientes de design orientados a dominio (Domain-Oriented Design Environments (DODEs). O ultimo grupo, design para uma nova experiencia de usuario, investiga os diferentes perfis de usuarios, atividades e os diferentes papeis assumidos pelos usuarios em relacao ao desenvolvimento de software que permita a customizacao pelo usuario final.
+Em relacao a analise de acoplamento bibliografico, foram identificados tres grupos tematicos, nomeados das seguinte forma: desafios e descobertas em ambientes EUD, frameworks EUD, e ambientes EUD. O primeiro grupo traz trabalhos que investigam papeis e artefatos pertencentes a sistemas EUD e destaca trade-offs existentes no desenvolvimento destes sistemas. O segundo grupo, frameworks EUD, apresenta trabalhos que visam o desenvolvimento de frameworks para viabilizar a customizacao de software pelos usuarios finais. Por fim, o ultimo grupo, ambientes EUD, possui trabalhos que propoe aplicacoes EUD nas quais os usuarios finais podem adaptar ou customizar a aplicacao em questao. 
+
+**CONSIDERACOES FINAIS**
+
+Identificar a estrutura social e intelectual de uma area de pesquisa e essencial para enten-
+der sua evoluçao e acompanhar as relaçoes estabelecidas ao longo do tempo. No entanto,
+o volume de dados cientificos gerados e grande, impossibilitando sua analise sem o devido
+apoio de ferramentas. Desta forma, a analise bibliometrica desempenha uma ferramenta
+poderosa para permitir a realizaçao de tais estudos.
+
+Este trabalho apresentou, de forma sucinta, alguns dos resultados obtidos na
+analise bibliometrica realizada a partir dos metadados de uma revisao de literatura de
+estudos abordando a customizaçao de aplicaçoes por usuario final.
+
+**CONSIDERACOES FINAIS**
+
+Em suma, este trabalho destaca a relevancia da analise bibliometrica como ferramenta para compreender o desenvolvimento de um campo de pesquisa. Os resultados obtidos fornecem insights valiosos sobre a estrutura social e intelectual dos estudos de customizaçao de aplicaçoes por usuario final, podendo auxiliar novos pesquisadores a identificar lacunas e oportunidades de investigaçao.

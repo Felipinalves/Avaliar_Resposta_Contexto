@@ -1,0 +1,161 @@
+**RESUMO**
+
+Este trabalho e uma proposta de recomendaçoes de design
+de interfaces de jogos educacionais acessiveis as crianças
+diagnosticadas com dislexia. Para as definiçoes destas reco-
+mendaçoes, nos baseamos em estudos de Interaçao Criança-
+Computador, elementos de jogos e estudos sobre abordagens
+pedagogicas com crianças dislexicas. A motivaçao deste tra-
+balho deve-se ao fato de a dislexia ser um assunto relevante,
+devendo ser abordado nas mais diversas areas do conheci-
+mento, uma vez que poucos jogos e aplicaçoes estao dispo-
+niveis para estimular o processo de ensino-aprendizagem
+desse publico.
+
+**INTRODUÇAO**
+
+Apesar de a dislexia ser algo presente nos dias atuais e se-
+gundo dados levantados por , estimou-se que aproxima-
+damente 15% da populaçao mundial e portadora de dislexia,
+significando uma media de quatro a cinco sujeitos em cada
+classe de trinta alunos, sendo poucas as ferramentas disponi-
+veis para auxiliar no desenvolvimento de crianças dislexicas.
+Diante do exposto, o objetivo deste projeto e propor reco-
+mendaçoes para o desenvolvimento de interfaces de jogos
+destinados ao publico de crianças dislexicas, com intuito que
+estas atinjam seus objetivos educacionais.
+
+Seguir recomendaçoes no desenvolvimento de uma inter-
+face facilita para que a ferramenta atinja as metas de usabili-
+dade. Usabilidade e um dos objetivos da Interaçao Humano-
+Computador (IHC), area que segundo , preocupa-se com
+a facilidade de uso de um produto, sendo metodologias e
+ferramentas voltadas ao desenvolvimento de interfaces.
+
+Para a validaçao destas recomendaçoes, elas estao sendo
+aplicadas em um jogo web e movel que sera voltado para
+os graus leve e medio de dificuldade da dislexia, uma vez
+que sua enfase e na habilidade de escrita e leitura. Ambos os
+graus mencionados sao marcados por erros na escrita como
+inversoes, substituiçoes e omissoes de letras.
+
+**ESTADO DA ARTE**
+
+Interaçao Criança-Computador
+
+Este trabalho baseou-se em estudos da area de Interaçao
+Criança-Computador, uma subarea de IHC, que diz respeito
+ao estudo da concepçao, avaliaçao e implementaçao de siste-
+mas computacionais interativos para crianças.
+
+O principal que nos baseamos foi de , apresenta diretri-
+zes de Interaçao Criança-Computador (ICC) para a criaçao
+de interfaces para o publico infantil a partir de um extenso
+estudo bibliografico em IHC, ICC, psicologia na educaçao a
+partir de analise de interfaces destinadas ao publico infantil.
+As principais recomendaçoes, foram separadas em categorias
+como: uso de affordances, feedback, navegaçao, gestos, sons,
+cores, tipografia, personagens, colaboraçao e participaçao
+dos pais.
+
+Praticas Pedagogicas para Interaçao com Alunos
+Dislexicos
+
+A dislexia muitas vezes so e notada na escola, de acordo com
+a , sendo um ambiente onde o aluno tem contato com
+a escrita e a leitura, porem muitos professores nao tem no
+seu curriculo de formaçao inicial e/ou estao preparados para
+trabalhar ou identificar estas dificuldades do aluno, o que
+pode resultar em frustraçao e abandono escolar por parte do
+alunol. Os autores e citam atitudes e comportamentos
+para facilitar a interaçao com alunos diagnosticados com
+dislexia, sendo algumas delas:
+Resumir conteudos e valorizar acertos;
+Dar "dicas" e orientar o aluno de como se organizar e
+realizar as atividades;
+Nao insistir em exercicios de fixaçao repetitivos e nu-
+merosos, pois isto nao diminui a dificuldade do aluno
+e pode aumentar a frustraçao dele.
+Dar ao aluno tempo suficiente para responder as ques-
+toes;
+Usar uma linguagem direta, clara e objetiva na hora
+da explicaçao;
+Sublinhar palavras-chave e frases mais relevantes;
+
+**METODOLOGIA**
+
+Este trabalho esta dividido em 4 etapas. Na primeira, foram
+realizadas pesquisas bibliograficas em relaçao aos seguintes
+temas: a) habilidades e dificuldades de crianças com disle-
+xia, b) abordagens pedagogicas para interagir com alunos
+dislexicos, c) interaçao humano-computador, d) interaçao
+criança-computador.
+
+Na segunda e atual etapa foram definidas as recomenda-
+çoes para o desenvolvimento de interfaces de jogos para
+crianças diagnosticadas com dislexia que serao validadas e
+avaliadas por profissionais da Educaçao Especial e fonoau-
+diologos apos sua aprovaçao no Comite de Etica, por meio
+de uso na sala de aula e em consultas com estas crianças.
+
+A terceira etapa e destinada a aplicaçao das recomendaçoes
+definidas no desenvolvimento de um jogo, que tem como
+objetivo propor desafios relacionados com a escrita e leitura
+com intuito de auxiliar no aprendizado de crianças dislexicas.
+
+Na ultima etapa o jogo sera avaliado com o publico fi-
+nal junto com um centro de atendimento a crianças com
+necessidades especiais e fonoaudiologos.
+
+**RECOMENDAÇOES PARA O DESENVOLVIMENTO DE INTERFACES**
+
+Levando em consideraçao estudos de ICC (Interaçao Criança-
+Computador), abordagens pedagogicas para interagir com
+alunos dislexicos e jogos na educaçao, chegamos a uma lista
+de recomendaçoes para o desenvolvimento de interfaces para
+crianças diagnosticadas com dislexia (grau leve e medio) na
+faixa etaria de 6 a 8 anos, algumas delas sao:
+
+Linguagem clara e objetiva: tendo em vista que a cri-
+ança dislexica tem uma grande dificuldade na leitura,
+o uso de textos longos e complicados pode acabar
+prejudicando sua experiencia com o jogo e acabar
+frustrando-as.
+Audios explicativos: alem de ter dificuldade na leitura,
+crianças preferem escutar do que ler pelo fato de ser
+menos trabalhoso. Diante disso, o jogo deve conter
+audios explicando o seu funcionamento atraves de um
+narrador-personagem ou um narrador-observador, que
+fara o papel de um guia no jogo, desenvolvendo um
+sentimento de amizade.
+Valorizaçao de acertos e erros: para que a criança nao
+se sinta desmotivada, deve-se valorizar os acertos e
+aproveitar os erros para dar dicas.
+Evitar o uso excessivo exercicios de fixaçao repetitivos
+e cansativos, desta forma, o jogo deve contemplar fases
+com desafios diversificados.
+Fornecer o feedback ao aluno sobre seu desempenho,
+dando preferencia aos feedbacks auditivos durante o
+jogo, uma vez que crianças dislexicas possuem mais
+facilidade com as instruçoes orais.
+Destinar-se ao desenvolvimento de habilidades volta-
+das para as maiores dificuldades enfrentadas por um
+dislexico, atraves de atividades ludicas e de carater
+educacional.
+
+**CONSIDERAÇOES FINAIS**
+
+O presente trabalho apresentou recomendaçoes para o desen-
+volvimento de interfaces de jogos para crianças dislexicas,
+por meio de uma extensa pesquisa bibliografica na area de
+ICC, jogos educativos e dislexia. As recomendaçoes serao
+avaliadas por profissionais da area da educaçao e saude, vali-
+dadas por meio de um jogo.
+
+Espera-se que esta pesquisa possa auxiliar desenvolvedo-
+res no design de interfaces de jogos, para que estas sejam
+acessiveis as crianças diagnosticadas com dislexia.
+
+**CONCLUSAO**
+
+Em resumo, este trabalho propoe diretrizes de design para interfaces de jogos educacionais acessiveis para crianças com dislexia, com o objetivo de promover uma experiencia de aprendizado mais inclusiva e eficaz. A pesquisa bibliografica realizada serviu de base para a elaboraçao de recomendaçoes que visam facilitar a leitura, a compreensao e o engajamento das crianças com dislexia nos jogos. A expectativa e que este estudo contribua para o desenvolvimento de jogos mais acessiveis e que auxiliem no processo de ensino-aprendizagem desse publico.

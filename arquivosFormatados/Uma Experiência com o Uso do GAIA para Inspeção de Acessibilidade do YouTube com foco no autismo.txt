@@ -1,0 +1,101 @@
+**RESUMO**
+
+Usuarios com o Transtorno do Espectro Autista (TEA) podem
+enfrentar barreiras no uso de sistemas interativos, pois
+apresentam dificuldades em relaçao a interaçao social,
+comunicaçao, um repertorio limitado de interesses e atividades,
+podendo nao compreender ou perceber determinados conteudos,
+termos e figuras presentes na interface de sistemas. Diante disto,
+pesquisas anteriores criaram diretrizes de acessibilidade para
+pessoas com TEA para auxiliar esses usuarios e, mais
+recentemente, o GAIA: um Guia de recomendaçoes de
+acessibilidade de interfaces Web com foco em aspectos do
+Autismo. Pesquisas indicam que o aplicativo de reproduçao de
+videos YouTube e muito utilizado por usuarios com TEA. A
+avaliaçao de acessibilidade foi conduzida por meio de uma
+inspeçao com a participaçao de oito inspetores. A contribuiçao
+deste artigo e o relato da avaliaçao de acessibilidade do YouTube,
+apresentado os problemas de acessibilidade identificados.
+
+
+**Introduçao**
+
+Os usuarios com o Transtorno do Espectro Autista (TEA)
+apresentam diferentes niveis de habilidade comparados com
+pessoas que nao possuem TEA pois, geralmente apresentam
+dificuldades em relaçao a interaçao social, comunicaçao, bem
+como um repertorio limitado de interesses e atividades . Devido
+as dificuldades para entender expressoes, os usuarios autistas
+podem nao compreender ou perceber determinados conteudos,
+termos e figuras presentes na interface de aplicaçoes.
+
+Por isso surgiram pesquisas que propoem diretrizes para a
+construçao de interfaces acessiveis aos autistas como as diretrizes
+do Guia de Acessibilidade de Interface web focados em aspectos
+do Autismo (GAIA) .
+
+O GAIA foi adotado em uma inspeçao de acessibilidade
+executada em  no aplicativo o dado da Guga, que e um jogo
+voltado para crianças com TEA que visa trabalhar habilidades
+como atençao e compreensao de expressoes faciais. O GAIA
+tambem foi adotado no redesign de aplicativos moveis
+direcionados a pessoas com TEA .
+
+Ferreira et al.  relatam um survey sobre o uso de tecnologias
+por pessoas com TEA, que obteve como respondentes 52 maes,
+pais ou responsaveis de crianças com TEA com faixa etaria de 2 a
+14 anos de todas as regioes do Brasil. Essa pesquisa indicou que o
+aplicativo mais utilizado por essas crianças e o YouTube. O
+aplicativo YouTube contem um numero elevado de usuarios, com
+mais de 1 bilhao de usuarios .
+
+Com base neste resultado, decidiu-se realizar a inspeçao de
+acessibilidade do aplicativo YouTube orientado pelas diretrizes do
+GAIA.
+
+**Metodologia**
+
+A inspeçao executada nessa pesquisa se baseou na inspeçao
+realizada em . Os participantes escolhidos para avaliar a
+aplicaçao web foram os alunos de um projeto de pesquisa e
+extensao denominado ProDTEA (Projeto e Desenvolvimento de
+Tecnologias Acessiveis) da Universidade Federal do Ceara
+(Campus Russas). Todos os alunos possuiam conhecimento sobre
+o TEA. Dois participantes executavam pesquisas ha pelo menos
+um ano antes da realizaçao dessa inspeçao, tres participantes
+realizavam pesquisas ha um semestre e tres participantes
+executavam pesquisa ha um mes. Seis participantes eram do curso
+de Engenharia de Software e dois participantes eram do curso de
+Ciencia da Computaçao. Os passos adotados na inspeçao foram os
+seguintes:
+Envio das diretrizes para os participantes: Foram enviadas
+por e-mail as diretrizes do GAIA para os participantes da inspeçao
+uma semana antes da inspeçao de acessibilidade.
+Inspeçao de acessibilidade do aplicativo YouTube: A
+inspeçao foi executada por 8 participantes que foram
+denominados inspetores em um laboratorio de informatica em
+computadores de mesa com tempo limite de duas horas. A
+inspeçao foi executada individualmente. As tarefas definidas para
+os inspetores avaliarem foram: (i) acessar o sistema na pagina
+inicial, (ii) executar a busca de videos nas paginas de busca de
+videos e (iii) visualizar os resultados da busca e (iv) reproduzir um
+video. Durante a inspeçao, os inspetores consultavam o material
+de apoio sobre as diretrizes do GAIA e registravam em uma planilha os problemas de acessibilidade identificados
+3 Verificacao de falso-positivos Os autores desse trabalho se reuniram para discutir se os problemas encontrados eram reais ou falso-positivos Os defeitos falso-positivos foram removidos do registro de defeitos
+3 Problemas de acessibilidade identificados
+Essa secao apresentara os problemas encontrados por pagina do YouTube inspecionada Em todas as paginas inspecionadas foram identificados os seguintes problemas de acessibilidade 1 Nao existe prevencao de erro por sensibilidade ao toque dos botoes diretriz 10.1 do GAIA 2 Nao e permitido a alteracao da fonte do texto no aplicativo diretriz 2.1, 3 Alguns botoes nao aparentam ser clicaveis diretriz 7.1
+Na pagina inicial lado superior da Figura 1 foram identificados os seguintes problemas de acessibilidade 1 Nao e permitido customizar a quantidade de elementos da tela diretriz 23 2 Alguns icones contidos nos botoes nao representam a funcao dos botoes diretriz 14 3 Alguns icones tem baixo contraste com a tela diretriz 1.1, 4 Existem botoes muito proximos e botoes com area de clique pequena diretriz 7.2, 5 Existem icones iguais com textos diferentes diretriz 41 6 Nao existe uma opcao para customizar o layout da pagina diretriz 2.3, 7 Existem muitas sugestoes de videos para assistir dificultando o uso diretriz 3.2
+Na pagina de busca lado inferior da Figura 1 os seguintes problemas de acessibilidade foram identificados 1 O botao de pesquisa nao tem um texto associado diretriz 1.1 2 Em todas as figuras da pagina de busca nao existe uma opcao para customizar o layout da pagina diretriz 3.4, 3 O campo de busca esta com baixo contraste diretriz 1.1
+Na pagina de resultados lado superior da Figura 2 e possivel destacar os seguintes problemas 1 Nao e permitido customizar a quantidade de elementos da tela 2 Os icones nao tem um texto associado diretriz 101 3 O botao de pesquisa nao tem um texto associado diretriz 11 4 A opcao de videos a serem reproduzidos sao representados apenas como imagens diretriz 10.1, 6 A descricao dos videos estao na mesma formacao dos dados do video diretriz 1.1
+Na pagina de reproducao de video lado inferior da Figura 2 foram identificados os seguintes defeitos 1 As funcoes de reproducao do video como reproduzir pausar e volume nao contem representacao nominal diretriz 4.2, 2 Nao tem como suprimir videos da lateral da tela tirando o foco do usuario diretriz 4.3, 3 Nao tem padroes de cores entre os botoes para fazer um comentario e cancelar comentario diretriz 1.1
+
+
+**Conclusões**
+
+O objetivo dessa pesquisa foi avaliar a acessibilidade do YouTube,
+uma aplicaçao amplamente utilizada por crianças com TEA, de
+acordo com pesquisas anteriores. Alguns problemas de
+acessibilidade foram identificados e apresentados neste artigo.
+Espera-se, com este relato, motivar a comunidade academica a
+executar outras pesquisas sobre acessibilidade em aplicaçoes
+existentes, inclusive aplicaçoes direcionadas para pessoas autistas.

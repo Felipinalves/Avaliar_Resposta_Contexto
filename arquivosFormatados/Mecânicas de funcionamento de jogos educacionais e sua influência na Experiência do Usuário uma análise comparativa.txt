@@ -1,0 +1,527 @@
+**INTRODUCAO**
+
+O ser humano sempre buscou meios de entretenimento, como mu-
+sicas e peças de teatro, e sempre evoluindo, como por exemplo com
+a criaçao do cinema, depois a televisao e hoje em dia o streaming
+. O entretenimento nao e utilizado apenas para lazer, mas tam-
+bem para o aprendizado e transmissao da cultura entre as geraçoes,
+estando os jogos presentes na cultura desde a antiguidade . Nos
+primeiros anos de vida a criança utiliza o ato de jogar para o seu
+desenvolvimento, considerando o jogo como qualquer atividade
+que coloca desafios aos seus jogadores , hoje em dia nao sendo
+mais jogados apenas em tabuleiros, mas tambem virtualmente.
+
+De acordo com a Pesquisa Game Brasil, realizada em fevereiro
+de 2021 por meio de questionario estruturado aplicado em todo
+o territorio brasileiro , o celular foi citado como a plataforma
+preferida para jogos por 41,6% dos entrevistados. Outra pesquisa,
+feita em 2017 pelo Instituto Brasileiro de Geografia e Estatistica
+, apontou que existe pelo menos um celular em 93,2% dos domi-
+cilios brasileiros. Ainda segundo o IBGE, em 2019, o celular era o
+principal equipamento para o brasileiro ter acesso a internet. Dessa
+forma, os smartphones se transformam em uma fonte relevante de
+distraçao para os jovens. Em um estudo sobre atividades realizadas
+por estudantes fora da escola em redes sociais verificou-se que,
+em 2018, 40,8% das crianças e adolescentes brasileiros utilizaram
+dispositivos digitais fora do horario escolar para jogos online uma
+vez por semana ou mais .
+
+Para Santos , os jogos eletronicos nao sao um mero fenomeno
+passageiro, mas sim, um verdadeiro objeto cultural, expressando
+formas de pensar e sentir contemporaneamente, possuindo um
+grande potencial para comunicaçao e participaçao do jogador na
+tomada de decisoes e assim montando seu proprio caminho.
+
+Hor-Meyll et al. [7] demonstram que existe potencial nos celu-
+lares serem uma midia para publicidade, por possibilitarem uma
+comunicaçao mais pessoal e interativa com seus clientes. Ainda,
+discutem que a utilizaçao de celulares, especialmente por jovens,
+vai alem de um mero dispositivo para comunicaçao, sendo um meio
+para expressar sua individualidade, habilitando o acesso a informa-
+çoes e entretenimento.
+
+Santos [18] discute como a publicidade em jogos digitais pode
+ser considerada como uma perturbaçao, ocupando espaço na tela
+e assim atrapalhando a experiencia do jogador com o jogo. No en-
+tanto, atualmente a publicidade esta, em algum grau, integrada aos
+mecanismos de interacao com o jogador; pode-se citar o exemplo de
+jogos de simulacao de corridas, onde o jogador consegue vivenciar
+a experiencia de dirigir um carro de uma marca real.
+A Google, na documentacao sobre seu motor de publicidade para
+jogos, apresenta uma taxonomia de anuncios em jogos que inclui: anuncios de banner, ocupando permanentemente uma area da
+tela; anuncios intersticiais, que ocupam toda a tela em momentos especificos do jogo (preferencialmente durante uma pausa do mesmo);
+anuncios nativos, integrados ao visual, layout e conteudo do jogo;
+e anuncios premiados, onde o usuario interage com um anuncio
+em troca de alguma recompensa. Algumas evidencias na literatura
+indicam que a insercao nao cuidadosa de publicidade em
+jogos digitais pode reduzir a percepcao de controle do jogador e
+sua atitude frente ao jogo e frente a propria marca anunciada.
+Na avaliacao reportada neste artigo, nosso objetivo e verificar
+se as mecanicas de funcionamento desses jogos influenciam a experiencia do usuario (UX, acronimo do ingles User eXperience). A
+Experiencia do Usuario e relativa a interacao do usuario com um
+produto, sistema ou servico gerando uma percepcao positiva ou
+negativa pelo usuario. UX envolve aspectos relacionados ao design,
+e tambem aspectos afetivos e experienciais, significativos e valiosos
+de interacao humano-computador. A impressao momentanea
+que o usuario tem ao ter contato com determinado produto ou
+servico evolui e e constantemente modificada ao longo do tempo.
+Adicionalmente, consideramos uma possivel interferencia da publicidade em jogos, particularmente naqueles voltados para o contexto
+educacional.
+Utilizamos o SAMCurve para avaliar a experiencia do usuario, com foco nos aspectos afetivos, ao longo da utilizacao de dois
+jogos para smartphone, com a tematica centrada em historia, e com
+propostas de mecanicas de jogabilidade diferentes: um baseado na
+mecanica de vidas e o outro no conceito de evolucao. Ainda,
+identificamos que os jogos apresentam diferentes propostas para
+a insercao de publicidade. Embora nao seja objeto principal deste
+estudo, apontamos a diferenca na utilizacao de publicidade durante
+o jogo, transformando-a (ou nao) em ferramentas para o jogador, e
+ainda, afetando sua experiencia para melhor ou para pior.
+A sequencia do texto esta organizada da seguinte forma: na
+secao 2, apresentamos o referencial metodologico com o metodo
+de avaliacao de UX utilizado, a caracterizacao dos participantes
+e a descricao dos jogos testados. Na secao 3 sao apresentados e
+analisados os resultados e, por fim, na secao 4 apresentamos as
+nossas conclusoes.
+
+**METODO**
+
+A avaliaçao proposta e baseada no artefato de avaliaçao SAMCurve,
+proposto por Moreira . SAMCurve, por sua vez, e baseado no
+artefato UXCurve , destinada a avaliar os aspectos de usabilidade
+e experiencia de usuario, na utilizaçao de artefatos computacionais.
+Segundo os autores do UXCurve, o metodo consiste em relatar re-
+trospectivamente como e porque a experiencia do usuario muda
+ao longo do tempo de utilizaçao de um determinado produto. O
+SAMCurve, alem de relatar tal experiencia, tambem permite men-
+surar o estado afetivo do participante ao longo de sua experiencia.
+SAMCurve baseia-se em tres dimensoes para avaliar os estados
+afetivos: Satisfaçao, Motivaçao e Controle, conforme proposto por
+Bradley e Lang . Para este estudo, consideramos para a dimensao:
+Satisfaçao: o quao satisfeito o usuario ficou quando ele estava
+utilizando o artefato computacional;
+Motivaçao: o quao empolgado o usuario se sente durante o
+tempo em que ele utilizou o artefato computacional;
+Controle: qual o dominio do usuario sobre o artefato compu-
+tacional.
+
+No SAMCurve, cada uma das dimensoes, por sua vez, e apresen-
+tada em uma escala de cinco opçoes, que vao de "muito satisfeito" a
+"muito insatisfeito", "totalmente motivado" a "completamente des-
+motivado" e, "nenhum dominio sobre a aplicaçao" a "muito dominio
+sobre a aplicaçao". A proposta original da ferramenta envolve o
+preenchimento da escala em papel pelo usuario do artefato com-
+putacional, formando ao longo do tempo a curva representativa
+de sua experiencia nas tres dimensoes, a medida que o usuario
+informa repetidas vezes sua impressao baseada na escala.
+
+Neste estudo, os moderadores foram representados por um dos
+professores orientadores da pesquisa e dois pos-graduandos do
+curso de Especializaçao em Gestao de Sistemas de Informaçao. O
+estudo foi conduzido com oito alunos, com idades entre 15 a 18 anos,
+do ensino medio, que cursam ou ja cursaram a disciplina de Historia
+em sua grade curricular. Todos os participantes sao provenientes do
+Instituto de Educaçao, Ciencia e Tecnologia de Sao Paulo, Campus
+Guarulhos.
+
+O experimento fez parte de atividades escolares e extracurricula-
+res do grupo participante, as quais sao voltadas ao estudo e design
+de jogos digitais. Para aceitaçao do estudo, os voluntarios preenche-
+ram um formulario tomando ciencia que os dados coletados teriam
+a finalidade unica para o estudo, bem como que sua identidade se
+manteria preservada a todo momento. O convite foi realizado por
+meio de chamada em grupos de mensagens instantaneas, do refe-
+rido curso, e a participaçao no estudo foi voluntaria. As respostas
+dos participantes foram anonimas.
+
+Em relaçao a experiencia previa dos participantes com jogos,
+foram listadas 11 categorias de jogos no inicio do teste para que os
+participantes escolhessem as tres que mais gostassem.
+A Figura 2 apresenta as respostas selecionadas pelos participantes. As categorias de jogos mais frequentemente mencionadas pelos participantes
+foram aventura, acao e estrategia, tendo, respectivamente, 5, 4 e 4
+menções.
+
+Jogos testados
+Jogo A - Jogo de Perguntas de Historia do Mundo. O primeiro jogo escolhido para avaliacao e um jogo monousuario para
+smartphones compativeis com Android e iOS de perguntas sobre o
+tema Historia do Mundo, contendo 150 perguntas e respostas sobre
+Historia Geral. Em junho de 2021, o jogo tem avaliacao media
+dos usuarios 4,4 (em uma escala de 0 a 5) e mais de um milhao de
+downloads na Google Play Store. O jogo apresenta as seguintes
+caracteristicas de utilizacao:
+O jogador comeca o jogo com 9 vidas (representadas por
+coracoes);
+A cada resposta incorreta e retirada uma vida;
+Cada pergunta possui um tempo definido de trinta segundos
+para que seja dada a resposta;
+Apos cada pergunta do quiz ser respondida, a tela e preenchida por uma propaganda;
+O jogador ainda pode assistir a propagandas de 30 segundos
+para ganhar vidas.
+Pode-se verificar que o Jogo A inclui a modalidade de anuncios
+intersticiais e anuncios premiados, na classificacao apresentada em . Um exemplo do fluxo de interacao relacionado as perguntas e
+apresentado na Figura 3.
+Jogo B - Cell to Singularity: Evolution Never Ends. O segundo
+jogo a ser utilizado pelos participantes durante o estudo esta disponivel para smartphones Android e iOS e tambem na plataforma
+Web. O jogo e monousuario e permite que o jogador simule a
+criacao, evolucao e o desenvolvimento da vida no planeta Terra. O
+jogo apresenta as seguintes caracteristicas de utilizacao:
+A cada toque na interface o jogador ganha uma quantidade
+variavel da moeda do jogo, denominada entropia (Figura 4);
+Com uma certa quantidade de moedas o jogador pode comprar evolucoes. As evolucoes permitem a geracao de fenomenos naturais relacionados a evolucao, como a criacao de planetas, solidificacao do magma, e evolucao de organismos
+unicelulares para multicelulares, como: peixes, repteis, mamiferos, primatas e humanos (Figura 5);
+Em um determinado momento, a partir da evolucao da simulacao da vida no planeta, as moedas passam a ser geradas
+automaticamente, sendo que o jogador pode optar por assistir a propagandas de 30 segundos para aumentar a velocidade
+de geracao de moedas (Figura 5).
+No Jogo B, e possivel constatar que a publicidade se insere principalmente na modalidade de anuncios premiados.
+
+A avaliaçao foi conduzida com a aplicaçao de um experimento ba-
+seado na exploraçao livre de ambos os jogos, organizado com um
+design intra-grupos . Todos os participantes foram convidados
+a explorar por um tempo pre-determinado ambos os jogos. Os par-
+ticipantes foram organizados de forma aleatoria em em dois grupos
+de quatro participantes cada e cada grupo iniciou o experimento
+com um dos jogos.
+
+Antes do inicio da coleta dos dados, o moderador apresentou os
+objetivos da pesquisa aos participantes e solicitou o preenchimento
+de um pre-cadastro (via Google Forms), de modo a garantir o total
+carater voluntario da participaçao. Ao confirmar a participaçao na
+pesquisa, o participante recebia os links para baixar os jogos em
+seu smartphone, alem dos links de acesso ao Google Forms para
+relatar suas experiencias e o link da sala especifica para videocon-
+ferencia. Devido ao isolamento social decorrente da pandemia da
+Covid-19 e o desenvolvimento de atividades totalmente remotas na
+instituiçao onde a avaliaçao foi conduzida, foi necessario optar por
+essa modalidade de comunicaçao para realizaçao do experimento.
+
+Em seguida, os moderadores apresentaram as instruçoes gerais
+sobre a atividade. A tarefa dos participantes consistia na utilizaçao
+de cada um dos jogos, efetuando a avaliaçao de sua experiencia
+por meio de um formulario do Google Forms. Nessa avaliaçao o
+participante teria que escolher uma dentre cinco figuras, na escala
+de dimensoes para Satisfaçao, Motivaçao e Controle do SAMCurve,
+de modo a indicar como ele estava se sentindo em relaçao a cada
+uma dessas dimensoes, considerando sua experiencia no momento
+da avaliaçao. Essa coleta de dados era repetida a cada 5 minutos da
+interaçao dos participantes com o jogo. O formulario apresentou
+as dimensoes Satisfaçao e Motivaçao em uma escala crescente e a
+dimensao Controle em uma escala decrescente, em uma tentativa
+de limitar respostas "automaticas" ou com uma reflexao limitada.
+
+Parte do formulario construido para o preenchimento da escala e
+apresentado na Figura 6.
+Os participantes foram divididos em duas salas virtuais de videoconferencia. O teste foi aplicado em duas sessoes com duracao de
+aproximadamente 25 minutos cada, totalizando o tempo de 50 minutos de teste. Foram efetuadas 12 coletas de dados por participante,
+sendo uma no inicio da sessao e mais 1 coleta a cada cinco minutos.
+Alem das perguntas objetivas, foi aberto no final de cada etapa de
+coleta, um espaco nao obrigatorio para que o participante descrevesse se teve algum problema com a aplicacao, ou um comentario
+livre sobre o uso da aplicacao ate aquele momento.
+Na primeira sessao, metade dos participantes utilizou o Jogo A,
+enquanto a outra metade utilizou o Jogo B, sendo que na segunda
+sessao os participantes inverteram a utilizacao.
+
+
+**RESULTADOS**
+
+Para a analise dos dados, consideramos cada uma das dimensoes
+em uma escala de cinco pontos, variando de um a cinco, onde o
+valor um representa pouco controle, pouca satisfaçao ou pouca
+motivaçao, o valor tres representa o estado neutro, e o valor cinco
+representa muito controle, muita satisfaçao ou muita motivaçao.
+
+A primeira analise da tendencia da experiencia dos participantes
+ao longo do tempo do teste foi realizada por meio do calculo da
+mediana dos valores informados no questionario pelos oito parti-
+cipantes em cada uma das seis coletas de dados obtidas durante
+a interaçao em cada jogo. Os graficos produzidos a partir desses
+dados sao apresentados nas Figuras 7 e 8. Na Figura 8 cabe observar
+que a curva correspondente a dimensao Satisfaçao esta sobreposta
+pela curva da dimensao Motivaçao.
+
+Nessa analise global, verifica-se que no Jogo A a mediana dos
+valores finais para as dimensoes Controle e Motivaçao sao inferiores
+aos valores finais das mesmas dimensoes para o jogo B, o que pode
+indicar que a avaliacao final dos usuarios pode ter sido mais positiva
+para este jogo.
+Para encontrar mais evidencias que confirmam ou refutam essa
+hipotese verificamos a diferenca entre a avaliacao de cada participante em cada uma das dimensoes no momento T6 (final do
+experimento) e T2 (primeira avaliacao realizada apos contato com
+o jogo, ressaltando que a resposta no momento T1 foi obtida antes
+do contato com cada jogo). A partir dessa verificacao, classificamos cada curva de cada dimensao como descendente, no caso da
+avaliacao em T6 ser menor que a avaliacao em T2; estavel, caso as
+avaliacoes em ambos os momentos sejam iguais; e ascendente se a
+avaliacao em T6 e maior que a avaliacao em T2.
+A totalizacao da classificacao das curvas dos oito usuarios em
+cada jogo pode ser verificada nas Figuras 9 e 10.
+Mencoes dos participantes e suas
+implicacoes nas curvas
+A partir das respostas fornecidas a questao aberta no final de cada
+etapa de coleta, foi realizada uma analise qualitativa, procurando
+encontrar uma possivel correlacao com as avaliacoes objetivas coletadas por meio do SAMCurve. Como trata-se de uma manifestacao
+
+espontanea, uma vez preenchida entendeu-se que seria possivel
+que essas informacoes representassem um momento relevante da
+experiencia do participante com cada jogo.
+A pergunta aberta: Teve algum problema com a aplicacao Quer
+comentar algo foi feita ao final de cada um dos seis momentos
+de coleta de dados no experimento, tanto para o Jogo A, quanto
+para o B. Ao contrario das respostas objetivas, essa questao era de
+preenchimento opcional. Dessa forma, foram coletadas 20 respostas
+a questao ao longo do teste. Entao, partindo das respostas com
+algum preenchimento, foi realizada uma analise na tentativa de
+relacionar com as respostas que produziram os valores da curva e
+chegar a uma correlacao.
+Para que fosse possivel realizar essa analise, as respostas dos
+participantes foram codificadas em categorias pre-estabelecidas, as
+quais foram constituidas pelas tres dimensoes presentes no SAMCurve. O conjunto de respostas foi classificado por dois codificadores, que atribuiram para cada comentario uma medida de concordancia. Para verificar a confiabilidade da codificacao, utilizou-se
+o coeficiente de Cohen's Kappa, que e baseada no numero de
+respostas concordantes, ou seja, no numero de casos cujo resultado e o mesmo
+entre os codificadores, o qual indica que um valor acima de 60
+representa uma confiabilidade satisfatoria. O coeficiente calculado
+para a codificacao realizada foi de 66,7.
+A Tabela 1 apresenta a relacao das 16 ocorrencias (das 20 coletadas) de comentarios feitos pelos participantes, as quais tiveram
+concordancia na codificacao entre os codificadores. Optamos por
+apresentar nessa tabela trechos do texto original enviado pelos
+participantes, sem edicoes de formato ou ortografia.
+A Figura 11 apresenta as dimensoes associadas as mencoes dos
+participantes enquanto realizavam o teste do Jogo A e o teste do Jogo
+B, respectivamente, e que tiveram consenso entre os codificadores.
+Conforme apresentado na Figura 11, para as mencoes realizadas
+durante o teste do Jogo A, 8 respostas dos participantes foram
+associadas a dimensao Controle, 2 respostas associadas a dimensao
+Satisfacao e 1 resposta associada a dimensao Motivacao. Para as
+mencoes realizadas durante o teste do Jogo B, apresentadas na
+Figura 11, 4 respostas foram associadas a dimensao Satisfacao e
+2 mencoes a dimensao Controle; nao houve mencao associada a
+dimensao Motivacao.
+Jogo A. Conforme Figura 11, durante o teste do Jogo A, a
+dimensao Controle foi associada a oito mencoes (73). Assim, algumas das relacoes entre as respostas complementares e a dimensao
+Controle sao listadas a seguir, juntamente com a descricao de algumas respostas complementares.
+A Figura 12 apresenta o grafico com as curvas, geradas pelo
+SAMCurve, para os estados afetivos do participante 2. Nos seis
+momentos avaliados, e possivel identificar as variacoes em relacao
+a experiencia desse participante na utilizacao do Jogo A, ressaltando
+que ele deixou relatos em dois momentos.
+Conforme Figura 12, pode-se observar que a dimensao Satisfacao
+permanece estavel do momento T1 ate o momento T6, a dimensao
+Motivacao apresenta uma melhora do momento T1 ao momento
+T3 e permanece estavel ate o momento T6, ja a dimensao Controle
+apresenta uma melhora do momento T1 ao momento T3, e permanece estavel ate o momento T6. Dos momentos analisados, o
+participante teve duas respostas sendo no momento T1 associada
+a motivacao e no momento T2 associada ao controle, sendo que a
+resposta do momento T2 corresponde ao momento de melhoria da
+curva.
+A resposta do participante 2 no momento T1 (quando a dimensao
+Controle apresenta uma curva ascendente):
+Achei muito legal a aparicao de curiosidades sobre o tema da
+pergunta apos o termino da rodada Nos poucos minutos que joguei
+me senti motivada a continuar respondendo as questoes.
+A resposta do participante 2 no momento T3 (quando a dimensao
+Controle apresenta estabilidade no valor):
+Nao, tudo tranquilo.
+O grafico da Figura 13 representa as curvas, geradas pelo SAMCurve, para os estados afetivos do participante 3. Nos seis momentos
+avaliados, e possivel identificar as variacoes em relacao a experiencia desse participante na utilizacao do Jogo A, sendo que ele deixou
+relatos em tres momentos.
+Pode-se observar que a dimensao Satisfacao apresenta uma variacao de T1 a T6, a dimensao Motivacao apresenta uma melhoria
+de T1 a T2 e se mantem estavel ate o T6, ja a dimensao Controle
+apresenta uma melhoria de T1 a T2, e uma deterioracao entre T2
+e T3. Dos momentos analisados, o participante teve tres respostas,
+sendo no momentos T3 e T4, ambas associadas ao controle, as quais
+correspondem ao momento posterior a deterioracao da curva, ja
+em T6 a mencao esta associada a satisfacao.
+A resposta do participante 3 no momento T3:
+Em uma das perguntas para escrever nomes, eu cliquei em uma
+letra errada e fiquei ate acabar o tempo sem saber onde clicar pra
+apagar e acabei perdendo, mesmo sabendo a resposta.
+A resposta do participante 3 no momento T5:
+Em uma das perguntas, eu errei 3 vezes pra poder passar. Nao
+sei se a mecanica e essa ou e bug.
+A resposta do participante 3 no momento T6:
+A musiquinha ta me irritando. Poderia mudar depois de umas
+10 perguntas, colocar um som de outros lugares, de outras culturas.
+Tambem senti falta de perguntas sobre a africa e sobre os negros e
+negras.
+Jogo B. Conforme Figura 11, durante o teste do Jogo B as
+dimensoes Controle e Satisfacao foram associadas a duas mencoes
+cada (50 para cada). Algumas das relacoes entre as respostas complementares ao teste do Jogo B e as dimensoes sao listadas a seguir,
+juntamente com a descricao de algumas respostas complementares.
+Destacamos agora os resultados do SAMCurve para o participante 6. Nos seis momentos avaliados, e possivel identificar as
+variacoes em relacao a experiencia do participante na utilizacao do
+Jogo B, ressaltando que ele deixou relatos em dois momentos.
+Observando a Figura 14 podemos identificar que a dimensao
+Satisfacao se manteve alinhada por todo o periodo do teste, juntamente com a dimensao Motivacao: ambas tiveram os mesmos
+valores e se mantiveram durante todo o periodo da atividade. Contudo, a dimensao Controle apresentou um valor inicial inferior a
+todos os outros momentos, pois em T2 houve uma melhora na
+curva, que entao se manteve alinhada as outras dimensoes ate T6.
+Assim, pode-se observar que as tres dimensoes apresentam uma
+estabilidade nos valores mais altos de avaliacao de T2 a T6. Dos
+momentos analisados o participante teve duas respostas, sendo em
+T2 e T6, ambas associadas a satisfacao desse participante em relacao
+a utilizacao do Jogo B.
+A resposta do participante 6 no momento T2:
+Fiquei encantada em como e bonito E bem visual, bem realista.
+A resposta do participante 6 no momento T6:
+Impressionante isso aqui, nada do que reclamar, meus seres vivos
+estao lindos.
+A Figura 15 apresenta o grafico que representa as curvas, geradas
+pelo SAMCurve, para os estados afetivos do participante 8. Esse
+participante deixou relatos em dois momentos.
+Pode-se observar que a dimensao Satisfacao apresentou uma
+melhora de T1 a T3 e se manteve estavel ate T6, juntamente com a
+dimensao Motivacao, umas vez que ambas apresentaram os mesmos
+valores. Ja a dimensao Controle apresenta uma melhora de T1 a T4 e
+se mantem estavel ate T6. Nos momentos avaliados, o participante
+teve duas respostas, em T2 e T3, ambas associadas a dimensao
+Controle.
+A resposta do participante 8 no momento T2:
+No inicio senti dificuldade em algumas etapas para entender
+o que deveria ser feito, mas apos realizar uma vez, pude entender o
+funcionamento..
+A resposta do participante 8 no momento T3:
+Gostei muito da forma que os temas sao tratados, mas novamente
+senti falta de uma informacao maior sobre os passos que estamos
+dando, para que servem as coisas que estamos formando. Acho que
+melhoraria o entendimento do tema.
+
+
+**DISCUSSAO**
+
+Os dois jogos selecionados no estudo possuem tematica de ensinar
+sobre a historia do mundo, porem com mecanicas diferentes, um
+com base em perguntas e respostas e outro com base na demons-
+traçao da evoluçao. Os dois jogos possuem mecanicas diferentes
+sobre a aplicaçao da publicidade. Por exemplo, o Jogo B, "Cell to
+Singularity: Evolution Never Ends", oferece varias vantagens para
+o jogador, tais como acelerador da moeda do jogo e, ainda, caso o
+jogador aceite e assista as propagandas, apresentam mais facilida-
+des com a continuidade no progresso do jogador, transformando a
+propaganda em uma mecanica do proprio jogo. No Jogo A, "Jogo de
+Perguntas de Historia do Mundo", a propaganda e principalmente
+como um meio do desenvolvedor ganhar dinheiro com a audiencia,
+podendo causar frustraçao aos jogadores.
+
+Para que fosse possivel analisar se essa diferença iria impactar
+na experiencia do usuario, e para conseguir respostas mais fieis
+dos participantes, em nenhum momento dos testes foi perguntado
+diretamente sobre as propagandas. Optou-se, entao, em utilizar a
+ferramenta SAMCurve para avaliar a experiencia do participante
+em cada jogo e, consequentemente, seus estados afetivos durante a
+utilizaçao.
+
+A partir da avaliaçao da curva global da experiencia dos partici-
+pantes, foi possivel constatar uma diferença entre os Jogos A e B
+tanto no nivel final das dimensoes Controle e Motivaçao, quanto nas
+variaçoes nessas dimensoes ao longo do teste. O Jogo A apresentou
+maiores variaçoes ao longo do teste, bem como uma maior quanti-
+dade de participantes com curvas descendentes, ou seja, com valor
+final da avaliacao na dimensao inferior ao valor apos o primeiro
+contato com o jogo.
+A classificacao das mencoes registradas pelos participantes ao
+longo do teste indica uma predominancia por mencoes relacionadas as dimensoes de Controle e Satisfacao, no entanto no Jogo A
+encontra-se tambem uma classificacao de consenso associada a Motivacao. Essa dimensao tambem foi aquela na qual houve a maior
+quantidade de curvas descendentes ou neutras nesse jogo. As mencoes dos participantes relacionadas a problemas no funcionamento
+de mecanicas do jogo (impossibilidade de corrigir letras erradas
+em respostas textuais, dificuldade de compreender o mecanismo
+de contagem de tempo) podem explicar esse comportamento da
+dimensao Motivacao. Cabe ressaltar ainda que um dos participantes
+fez mencao a muitos anuncios em sequencia, o que em sua visao
+atrapalha a sequencia do jogador. Uma mecanica pouco clara, associada a uma interferencia excessiva de publicidade, pode explicar
+esse resultado na dimensao Motivacao. Esse resultado e consistente
+com os achados de Santos et al. que, em um estudo controlado,
+identificaram que a modalidade de um prototipo de jogo na qual os
+usuarios tinham o fluxo de jogo interrompido de tempos em tempos
+com anuncios intersticiais apresentavam uma menor percepcao de
+competencia e imersao no jogo.
+Um outro aspecto que foi visto como relevante para esta pesquisa, foi a tentativa de identificar se a predilecao do participante
+por uma determinada categoria de jogo interferiria nos resultados,
+seja positivamente ou negativamente. Pensando nisso, como mencionado na Secao 2.1, foi incluida uma pergunta antes das etapas de
+avaliacao para que fossem selecionadas as tres categorias de jogos
+que os participantes mais gostam.
+Durante a fase de analise dos resultados trabalhamos inicialmente com uma hipotese que parecia ser a mais obvia no momento:
+que os participantes que selecionaram a categoria Simulacao como
+preferida teriam mais afinidade com o Jogo B, uma vez que ele e
+um jogo que pode ser associado a essa mesma categoria.
+Dois dos participantes da pesquisa feita com o Jogo B selecionaram a categoria Simulacao como uma de suas categorias preferidas.
+Logo, com base na hipotese descrita anteriormente, a predilecao
+por essa categoria poderia indicar que o seu controle sobre o jogo
+fosse maior desde o inicio. Essa hipotese nao correspondeu a um
+desses dois participantes, que mesmo tendo selecionado a categoria
+simulacao como preferida, avaliou seu controle sobre o Jogo B com
+o valor 2 nos dois primeiros momentos, com o valor 3 durante em
+T3 e T4 e voltando para o valor 2 no momento de avaliacao final.
+Tambem nao foi possivel identificar um motivo para essa diferenca
+por meio das respostas dissertativas, pois esse participante foi um
+dos que preferiu nao responder. O outro participante teve uma
+avaliacao mais proxima ao que era esperado dentro da hipotese.
+Ele avaliou seu controle com o valor 4 durante os dois primeiros
+momentos e do terceiro momento de avaliacao em diante, manteve
+o valor 5.
+No Jogo A, a maioria das mencoes dos participantes, classificadas
+por meio de codificacao fechada, puderam ser associadas a dimensao de Controle do SAMCurve, enquanto que no Jogo B a maioria
+das mencoes relaciona-se a dimensao de Satisfacao. Embora fosse
+esperado que o tipo de insercao publicitaria no Jogo A fosse mais
+frustrante para os usuarios, com base em evidencias anteriores,
+as mencoes dos usuarios e as curvas produzidas pelo SAMCurve evidenciaram dois pontos relevantes. O primeiro
+deles foi que a experiencia mais irregular no Jogo A, do ponto
+de vista das curvas de Satisfacao, Motivacao e Controle, parece
+ter sido influenciada nao apenas pela publicidade (que apareceu
+em uma mencao de um participante), mas principalmente por falhas e inconsistencias na mecanica do jogo. O segundo ponto foi
+a identificacao de uma experiencia do usuario mais satisfatoria e
+motivadora no Jogo B ao longo dos momentos finais da interacao
+dos participantes. O conceito e a mecanica desse jogo foram avaliados positivamente pelos participantes, sem nenhuma mencao a
+presenca de publicidade. Com base nas evidencias obtidas, nao e
+possivel afirmar que a publicidade foi o fator determinante para a
+diferenca da experiencia do usuario, como postulado inicialmente,
+mas que as proprias mecanicas dos dois jogos estavam associadas a
+maior parte dos eventos que evidenciaram alteracoes, positivas ou
+negativas, no estado afetivo dos participantes, como foi apresentado
+na analise da secao 3.2.
+
+
+**CONCLUSAO**
+
+O entretenimento atraves de aparelhos tecnologicos e crescente no
+Brasil, sobretudo para jovens que veem nos smartphones uma das
+principais fontes de acesso a Internet e de jogos eletronicos. Como
+esses aparelhos normalmente sao de uso pessoal, cada vez mais vem
+sendo utilizados como um meio importante de publicidade direta
+com o usuario.  diz que a publicidade e mais frequente em
+jogos esportivos, onde e comum haver outdoors com publicidade.
+No caso de outras modalidades de jogos isso pode ser um problema,
+pois ocupar um espaço da tela, ainda que pequeno, para apresentar
+uma propaganda pode interferir negativamente na experiencia do
+usuario.
+
+Este trabalho teve como objetivo avaliar o estado afetivo dos
+participantes, de forma comparativa, quando utilizando dois artefa-
+tos. O Jogo A, com uma mecanica tradicional de publicidade, em
+que propagandas ocupam a tela de tempos em tempos e o Jogo B,
+que integra as propagandas na propria mecanica do jogo, com uma
+proposta menos invasiva. A avaliaçao foi feita utilizando a tecnica
+SAMCurve e um de seus objetivos especificos era constatar se a
+publicidade sobrepondo a tela do jogo interferiria na experiencia
+do jogador e qual o grau dessa possivel interferencia. Apesar dessa
+hipotese inicial, a analise das curvas produzidas e das mençoes
+feitas pelos usuarios identificou outros problemas de usabilidade,
+alem da interferencia da publicidade, que parecem impactar negati-
+vamente a experiencia dos participantes, tais como o mecanismo
+de contagem de tempo e o preenchimento de letras em respostas
+textuais no Jogo A.
+
+O SAMCurve mostrou-se util em evidenciar o estado afetivo dos
+usuarios ao longo da interaçao, bem como a sua correlaçao com
+varios eventos relatados pelos participantes nas respostas abertas.
+Com a analise dos resultados foi possivel observar em linhas gerais
+que o Jogo A demonstra majoritariamente uma certa estabilidade e
+em alguns casos uma queda nos estados afetivos dos participantes,
+tanto nas metricas extraidas pelo SAMCurve, quanto na analise
+qualitativa. Ainda, a analise dos resultados mostrou que o Jogo
+B teve uma tendencia ascendente nos estados afetivos, tendencia
+confirmada ao se verificar um maior numero de mençoes positivas
+a mecanica do jogo e a ausencia de mençoes dos participantes em
+relaçao a publicidade.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo comparativo entre dois jogos educacionais revelou que as mecanicas de funcionamento, incluindo a inserçao de publicidade, podem influenciar significativamente a experiencia do usuario. O artefato SAMCurve se mostrou util para avaliar os estados afetivos dos participantes ao longo da interaçao.
+Ainda que os resultados nao permitam conclusoes definitivas, foi possivel identificar que problemas de usabilidade e a inserçao invasiva de publicidade podem impactar negativamente a experiencia do usuario, enquanto mecanicas que integram a publicidade de forma mais organica e oferecem valor ao jogador podem gerar maior satisfaçao e engajamento.
+Estes achados reforçam a necessidade de um design cuidadoso de jogos educacionais, que equilibre as necessidades de receita com a entrega de uma experiencia positiva e enriquecedora para os usuarios.

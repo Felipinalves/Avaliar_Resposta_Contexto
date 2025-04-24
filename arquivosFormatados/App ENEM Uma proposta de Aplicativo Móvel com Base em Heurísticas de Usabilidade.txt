@@ -1,0 +1,137 @@
+**RESUMO**
+
+Interfaces eficientes e atrativas sao essenciais para o sucesso
+de qualquer software. Em aplicaçoes educacionais, tais
+requisitos sao ainda mais relevantes. Considerando a
+crescente utilizaçao de aplicativos educativos e os diversos
+estilos de aprendizagem, e essencial assegurar que essas
+ferramentas contemplem requisitos de usabilidade, pois, a
+qualidade da interface e fundamental para a satisfaçao de
+seus usuarios. Logo, este trabalho apresenta uma proposta de
+prototipo de um aplicativo educativo para dispositivos
+moveis inspirado em guias e recomendaçoes de usabilidade.
+
+
+**INTRODUCAO**
+
+A revoluçao tecnologica ocasionada na area da computaçao
+movel, impulsionou um novo paradigma educacional
+chamado Mobile Learning. Tal paradigma envolve o uso de
+dispositivo movel, sozinho ou em combinaçao com outras
+tecnologias digitais e pode ajudar na aquisiçao de
+conhecimento, por meio da interaçao do usuario com seu
+dispositivo movel .
+
+A interface e uma parte importante nos sistemas de
+informaçao, pois e atraves dela que os usuarios interagem
+para realizar suas tarefas. O trabalho  menciona que as
+interfaces devem ser planejadas em conformidade com as
+diretrizes de acessibilidade centrado na usabilidade, com a
+possibilidade de serem acessadas por qualquer pessoa. Em
+, explica-se que heuristicas de usabilidade sao principios
+que descrevem caracteristicas comuns de interfaces usaveis.
+
+Criar interfaces que agradem a muitos usuarios nao e trivial,
+considerando a diversidade estilos de aprendizagem.
+Segundo , sao chamados de estilos de aprendizagem, as
+maneiras distintas de aprendizagem dos individuos.
+
+Diante do exposto, o objetivo deste trabalho e propor um
+prototipo de aplicativo movel educativo, cujo publico-alvo
+sao candidatos ao Exame Nacional do Ensino Medio
+(ENEM). Para isso, buscou-se realizar uma pesquisa na
+literatura relacionada aos principios de usabilidade. Assim, o
+prototipo de telas do aplicativo foi criado seguindo os
+principios propostos por [3].
+
+**METODOLOGIA**
+
+A metodologia deste trabalho qualifica-se como aplicada,
+motivada pela necessidade de adquirir conhecimento para
+aplicaçao de seus resultados, cujo conhecimento
+proporcionado, podera ser utilizado na pratica por
+educadores e desenvolvedores de softwares educacionais.
+Para a construçao do prototipo, foi utilizado o software
+Justinmind Prototyper.
+
+As Heuristicas de Usabilidade de  sao:
+
+H1-Visibilidade sobre o Estado do Sistema E necessario
+manter os usuarios cientes do que esta acontecendo durante
+as atividades, atraves de feedback apropriado;
+H2- Correspondencia entre o Sistema e o Mundo Real
+Analogia a linguagem habitual, com palavras, frases e
+conceitos de facil compreensao, evitando termos tecnicos;
+H3- Liberdade e Controle do Usuario Possibilidade de
+desfazer e refazer açoes;
+H4- Consistencia e Padroes Recomenda-se manter a
+consistencia e padrao visual (texto, cor, som e etc.);
+H5- Prevençoes de Erros Evitar açoes que ocasionem
+falhas ou apresentar ao usuario opçoes de confirmaçao, antes
+da execuçao de determinadas açoes;
+H6- Reconhecimento em vez de memorizaçao
+Necessidade minima de informaçoes que o usuario precisara
+lembrar para usar o sistema, com instruçoes visiveis e
+apropriadas;
+H7- Flexibilidade e Eficiencia de Uso A possibilidade de
+personalizar açoes frequentes, com atalhos, por exemplo;
+H8- Estetica e Design Minimalista Interface simples. Os
+dialogos nao devem conter informaçoes irrelevantes;
+H9- Correçao de Erros As mensagens de erro devem ser
+claras, indicando com precisao uma saida ou soluçao;
+H10- Ajuda e Documentaçao O adequado e que o sistema
+possa ser manuseado sem ajuda ou documentaçao, mas e
+aconselhavel fornecer esses recursos ao usuario.
+
+**PROTOTIPO DO APLICATIVO**
+
+O App ENEM, e caracterizado por usabilidade simples,
+padronizada e intuitiva, conforme H4 e H8. Apos realizar o
+login, a tela do menu inicial, indica as Areas de
+Conhecimento cobradas no ENEM e Simulados.
+
+Ao escolher a opçao desejada, o usuario e direcionado aos
+assuntos mais recorrentes no ENEM. A Figura 2, mostra os
+recursos para leitura, video ou audio do assunto escolhido,
+usufruindo de diferentes experimentaçoes de aprendizado.
+Pois, uma aplicaçao que possibilite que o mesmo conteudo
+possa ser recebido por diferentes canais sensoriais, tende a
+favorecer todos os estilos de aprendizagem .
+
+O usuario podera resolver simulados com a autonomia de
+poder voltar, avançar para a proxima questao, retornar ao
+menu inicial bem como finalizar o simulado a qualquer
+momento (Figura 3). A disposiçao de botoes e textos de
+forma clara e intuitiva e sugerida pelas H2, H3 e H6, pois
+oferece instruçoes visiveis e apropriadas. Ao finalizar o
+exercicio, um feedback de desempenho e exibido contendo o
+numero de acertos, erros e tempo total. Tal recurso e
+necessario para manter o usuario informado sobre suas
+atividades na aplicaçao conforme H1.
+
+Por padrão, de qualquer tela é possível acessar um menu
+lateral contendo outros recursos do aplicativo, como
+apresentado na Figura 4. Essa padronização promove
+flexibilidade e eficiência de uso indicados na H7. Esse menu,
+oferece a opção “Instruções”, onde o usuário encontrará toda
+orientação necessária para manusear o aplicativo, de acordo
+com H10.
+
+
+**CONSIDERAÇOES FINAIS**
+
+Este trabalho propos o desenvolvimento de um prototipo de
+aplicativo educativo para o ENEM. O estudo das heuristicas
+de usabilidade de  auxiliou o planejamento das interfaces
+do prototipo. Ressalta-se que este projeto se encontra em
+desenvolvimento.
+
+Futuramente, pretende-se desenvolver o aplicativo proposto
+seguindo as heuristicas de usabilidade em todas as fases do
+processo de desenvolvimento, bem como realizar testes com
+usuarios de todos os estilos de aprendizagem, para assegurar
+a qualidade e aceitaçao do mesmo.
+
+**CONSIDERAÇOES FINAIS**
+
+Este trabalho demonstra o potencial das heuristicas de usabilidade no desenvolvimento de aplicativos educativos moveis. A proposta de prototipo do App ENEM, embora ainda em fase de desenvolvimento, evidencia a importancia de considerar a usabilidade desde o inicio do projeto, visando proporcionar uma experiencia de aprendizado mais eficiente e agradavel para os usuarios. A expectativa e que, ao seguir as heuristicas e realizar testes com diferentes estilos de aprendizado, o aplicativo possa alcançar altos niveis de qualidade e aceitaçao.

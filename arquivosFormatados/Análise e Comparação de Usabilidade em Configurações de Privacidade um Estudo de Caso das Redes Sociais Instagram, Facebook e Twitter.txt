@@ -1,0 +1,107 @@
+**INTRODUCAO**
+
+Atualmente, mais de tres bilhoes de pessoas utilizam redes sociais
+, e o aumento no numero de usuarios implica no
+aumento do volume de dados privados e pessoais compartilhados. Embora essas platafor-
+mas ofereçam configuraçoes de privacidade para que os usuarios exerçam controle sobre
+seus dados, uma grande parcela de usuarios nao altera suas configuraçoes de segurança
+(ibid.). Albesher e Alhussain (ibid.) apresentam algumas razoes do porque de usuarios
+nao realizarem ajustes nas configuraçoes de privacidade. Dentre elas esta a falta de
+consciencia dos possiveis riscos, o tempo requerido para a leitura e entendimento de cada cenario e a diversidade de configurações.
+
+Neste cenario, a pesquisa aqui apresentada tem
+como objetivo realizar uma comparaçao de usabilidade das configuraçoes de privacidade
+entre tres redes sociais Twitter, Facebook e Instagram , verificar diferenças e analisar
+os recursos oferecidos para que seus usuarios possuam a configuraçao de privacidade que
+lhes convêm. Para isso, essa comparaçao utiliza-se do metodo de avaliaçao heuristica
+baseado no framework STRAP  e de uma pesquisa com usuarios por
+meio de um questionario.
+
+**METODOLOGIA**
+
+Dois metodos foram utilizados com o fim de atingir o objetivo proposto. Primeiro, foi rea-
+lizada uma avaliaçao heuristica das configuraçoes de privacidade das redes sociais Twitter,
+Instagram e Facebook. Apos a avaliaçao, elaborou-se um questionario para capturar as
+opiniões de usuarios sobre o tema.
+
+Decidiu-se utilizar o conjunto de heuristicas contido no framework STRAP, dado seu foco
+na detecçao de problemas de privacidade. STRAP (Structured Analysis of Privacy) e um
+conjunto de heuristicas projetado para avaliar elementos de privacidade em sistemas. Em-
+bora seja concebido como um metodo de analise suplementar , foi
+utilizado nesta pesquisa como metodo unico dado que o alvo da pesquisa e, unicamente,
+elementos de privacidade. Para cada heuristica, uma nota de 0 a 4 foi atribuida para cada
+aplicativo, correspondendo a cinco graus de severidade (inexistente, cosmetico, pequeno,
+grande e catastrofico) seguindo a escala de classificaçao de severidade proposta por Niel-
+sen [Nielsen 1993]. Apos a avaliaçao de cada um dos aplicativos, as notas de cada uma
+das 11 heuristicas foram somadas a fim de obter um valor final. A saber, se o aplicativo
+A recebeu notas N1 = 0, N2 = 3, N3 = 2 e N4 = 0, a nota final NF obtem-se por
+N1 + N2 + N3 + N4 = 5 = NF. Ao final das somas, um valor total T foi atribuido
+para cada aplicativo. Os resultados estao esquematizados na Tabela 1.
+
+A segunda etapa da pesquisa consistiu na elaboraçao de um questionario acerca da usabili-
+dade das configuraçoes de privacidade dos aplicativos alvo. As perguntas foram pensadas
+tendo em vista as conclusoes obtidas a partir da avaliaçao heuristica, para valida-las ou
+testa-las. O desenvolvimento do questionario apoiou-se na metodologia exposta por
+Carlomagno [Carlomagno 2008]. Foram obtidas 100 respostas, recolhidas ao longo de
+7 dias. Antes de preencher o formulario, o respondente deveria ler e concordar com um
+Termo de Consentimento Livre e Esclarecido (TCLE), obtendo ciencia do anonimato e do
+posterior uso de suas respostas na pesquisa. A questao 1 obtinha dados sobre a frequencia
+de uso em cada uma das redes sociais. As questoes 2 e 3 perguntavam, respectivamente,
+sobre a frequencia com que o respondente le as politicas de privacidade de suas redes e a
+frequencia em que altera suas configuraçoes de privacidade. A quarta questionava sobre a
+confiança do respondente na segurança de seus dados em cada uma das tres redes sociais.
+A questao 5 pedia a escolha de seu grau de compreensao nas configuraçoes de privacidade
+dos aplicativos. A questao 6 apresentava tres enunciados sobre coleta de dados e pedia ao
+usuario que concordasse ou discordasse deles. As ultimas 5 questoes requeriam, ao res-
+pondente, que escolhesse seu grau de concordancia frente aos enunciados apresentados
+na Tabela 2.
+
+**RESULTADOS**
+
+Considerando a avaliaçao heuristica, os maiores escores corresponderam as heuristicas
+7 e 9 do STRAP, a saber, sobre consentimento explicito e transparencia das operaçoes,
+respectivamente. Ja os menores corresponderam a heuristica 11, que diz respeito a ha-
+bilidade de revogar o consenso. De modo geral, o aplicativo Instagram foi o que mais
+apresentou problemas de usabilidade nesta avaliaçao, obtendo a maior soma de escores
+(77).
+
+Dos principais resultados obtidos por meio do questionario, foi possivel notar
+concordancia aos problemas de usabilidade identificados pela avaliaçao heuristica, pois,
+ao investigar se os aplicativos permitem avaliar a segurança da conta disponibilizando
+informaçoes sobre como os dados sao coletados e utilizados, 31% dos respondentes dis-
+cordaram sobre a rede social Instagram; e 24% e 26% assinalaram "Nao estou decidido"
+para as redes sociais Facebook e Twitter, respectivamente.
+
+Alem disso, 40% dos respondentes afirmaram nunca lerem as politicas de privaci-
+dade dos serviços e aplicativos nos quais se inscrevem, e apenas 13% constataram alterar
+sempre as configuraçoes de segurança e privacidade das suas redes sociais. A maioria
+relatou nao acreditar que seus dados pessoais estejam seguros nas redes sociais anali-
+sadas, que compreendem pouco as politicas de privacidade dos aplicativos Instagram e
+Facebook, e, quanto ao Twitter, a maioria alegou nao compreender tais configuraçoes.
+
+Em suma, segundo os usuarios, todos os aplicativos analisados, tanto o Facebook
+como Instagram e Twitter em algum ponto demonstraram problemas de usabilidade,
+de acordo com os respondentes.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo apresentou resultados acerca da usabilidade das configuraçoes de privaci-
+dade do Twitter, Instagram e Facebook utilizando uma metodologia hibrida. Ambos os
+metodos adotados avaliaçao heuristica e coleta de opinião via questionario indica-
+ram problemas similares nos aplicativos analisados. O Instagram foi identificado como a
+rede social mais problematica, seguido pelo Twitter e o Facebook. Das heuristicas ava-
+liadas, consenso explicito obteve os maiores escores nas tres redes e, dentre elas, o
+maior escore pertence ao Facebook, indicando que o usuario nao e bem informado a res-
+peito das configuraçoes aplicadas ou sobre a utilizaçao de seus dados. Por outro lado,
+os menores escores foram obtidos na heuristica habilidade de revogar consenso, de-
+monstrando que o usuario tem facilidade em editar ou revogar permissoes dos aplicativos.
+Os resultados obtidos sao interessantes na medida que fornecem pontos de partida para a
+melhoria dos aplicativos avaliados. Ademais, desenvolvedores de aplicativos que armaze-
+nam informaçoes sensiveis, em geral, podem basear-se nesses resultados para assegurar
+configuraçoes de privacidade mais claras e de qualidade. Por fim, diretrizes especificas
+para desenvolvimento de configuraçoes de privacidade em aplicativos de rede sociais po-
+dem ser elaboradas a partir de pesquisas futuras.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este estudo forneceu insights valiosos sobre a usabilidade das configuraçoes de privacidade em redes sociais populares. Os resultados indicam que, embora as plataformas ofereçam opçoes de privacidade, muitos usuarios desconhecem ou nao compreendem totalmente essas configuraçoes, o que pode levar a riscos de privacidade. E importante que as plataformas de redes sociais se esforcem para tornar suas configuraçoes de privacidade mais acessiveis, transparentes e faceis de usar, a fim de capacitar os usuarios a protegerem suas informaçoes pessoais de forma eficaz.

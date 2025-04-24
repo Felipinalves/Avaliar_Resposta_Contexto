@@ -1,0 +1,206 @@
+**RESUMO**
+
+Interfaces adaptativas propoem a mudança de seu compor-
+tamento de acordo com determinadas caracteristicas de uso,
+como preferencias do usuario e contextos de uso. Progressive
+Web App (PWA) e uma nova tecnica de desenvolvimento de
+aplicaçoes moveis proposta pela Google, que mistura tecno-
+logia de recursos de desenvolvimento web e nativo. Essas
+aplicaçoes sao inicialmente apresentadas como web e pro-
+gressivamente, com o crescimento da relaçao do usuario e a
+aplicaçao, tornam-se mais completas e parecidas com aplica-
+çoes nativas. Contudo, essa abordagem nao da a liberdade para
+o usuario atuar como um agente ativo e participar de escolhas
+na adaptaçao da interface durante a interaçao. Este projeto de
+mestrado tem como objetivo propor a abordagem PWA-EU,
+uma extensao da arquitetura de uma aplicaçao PWA, conside-
+rando a perspectiva do usuario final utilizando meta-design,
+uma abordagem de End-user development. Como contribuiçao
+deste trabalho, pode-se destacar a inclusao do usuario como
+agente ativo no processo de adaptaçao e explorar esse novo
+modelo de desenvolvimento que sao as PWAs.
+
+**INTRODUCAO**
+
+Um dos desafios atuais na area de tecnologia e desenvolver
+interfaces de aplicaçoes interativas para diferentes dispositivos.
+Aplicaçoes web sao populares, sendo que em 2016 a quanti-
+dade de usuarios dessas aplicaçoes cresceu 82% em relaçao
+a 2014. Enquanto o de aplicaçoes nativas e hibridas cresceu
+45% . Alem disso, cada navegador e dispositivo possuem
+suas proprias limitaçoes que devem ser consideradas pelos
+desenvolvedores e designers de uma aplicaçao. Essa grande
+variedade de formas para acessar uma aplicaçao traz a necessi-
+dade de adaptar interfaces com as preferencias dos usuarios e
+diferentes dispositivos, com variados tamanhos, dimensoes e
+contextos de uso. A partir disso, varios trabalhos vem sendo
+propostos .
+
+Uma das propostas mais utilizadas e conhecidas e a do Web
+Design Responsivo (RWD - Responsive Web Design). Essa
+abordagem parte do principio que o desenvolvimento e design
+de uma aplicaçao web deve se adaptar ao comportamento
+do usuario e do ambiente. Essa adaptaçao e feita de forma
+automatica a partir da largura da tela, orientaçao e plataforma
+do dispositivo, utilizando media queries de folhas de estilo em
+cascata (CSS - Cascading Style Sheets) . Porem, existem
+lacunas, pois fatores como multimodalidade e preferencias do
+usuario ainda nao sao tratadas nessa proposta .
+
+Progressive Web App (PWA) e uma nova abordagem, proposta
+pela Google, para desenvolver aplicaçoes e mistura recursos
+da tecnologia de aplicaçoes web e nativa. Essas aplicaçoes sao
+inicialmente apresentadas como uma aplicaçao web utilizando
+RWD, porem, progressivamente, considerando as interaçoes
+continuas do usuario, tornam-se mais completas e parecidas
+com aplicaçoes nativas . Os PWAs sao uma tecnologia
+recente e nao ha grande quantidade de estudos cientificos
+sobre a experiencia dos usuarios utilizando essa nova forma
+de desenvolver. Empresas como Forbes, Lancôme, OLX e
+Twitter ja migraram suas aplicaçoes web para PWA .
+
+End-user development (EUD) tem foco em permitir que usua-
+rios nao primariamente interessados em softwares possam
+criar, modificar ou estender um sistema de acordo com suas
+necessidades. O meta-design e uma abordagem da area de
+EUD onde o usuario final atua ativamente no processo de cria-
+çao de um sistema. Seu principal objetivo e criar um ambiente
+para empoderar usuarios a participar ativamente no desenvol-
+vimento de aplicaçoes, sem ficar restrito ao seu uso . Nesse
+cenario, as preferencias e necessidades dos usuarios sao aten-
+didas com a modificaçao e evoluçao do sistema criado atraves
+da intervençao do proprio usuario .
+
+Este projeto de mestrado tem como objetivo propor a aborda-
+gem PWA-EU, uma extensao da arquitetura PWA, incluindo o
+meta-design para permitir que as preferencias e necessidades
+dos usuarios sejam consideradas na interface. A criaçao da
+abordagem PWA-EU foi motivada pela pequena quantidade
+de estudos sobre o uso de aplicaçoes PWA. Acredita-se que
+os resultados desse projeto poderao contribuir para a inclusao
+de usuarios como agentes ativos no processo de adaptaçao,
+questao pouco explorada na area de RWD e PWAs.
+
+A abordagem PWA permite que usuarios naveguem de forma
+mais rapida, confiavel e com uma experiencia de usuario mais
+imersiva em relacao a aplicacoes com RWD [12].Ao incluir
+EUD atraves de meta-design na arquitetura dessas aplicacoes,
+espera-se torna-las mais flexiveis na perspectiva do usuario.
+Essa flexibilidade permite que os usuarios acessem opcoes
+de aparencia, formas de interacao e exibicao de conteudo,
+atendendo necessidades nao identificadas previamente por
+designers e desenvolvedores.
+O estudo de caso I (ECI) apresentou uma analise qualitativa
+sobre a experiencia do usuario em aplicacoes PWA, web mobile e nativa Android, analisando duas perspectivas. No ponto
+de vista do usuario, concluiu-se que uma boa experiencia foi
+vivenciada mesmo com dificuldades relacionadas a elementos
+de interface. Ja na visao do especialista em IHC, identificou-se
+problemas comuns na interacao dos usuarios com elementos
+de interface. Em geral, pode-se concluir que uma experiencia de usuario positiva foi obtida nas distintas aplicacoes,
+mesmo com problemas de interacao,. Como trabalhos futuros, pretende-se dar continuidade a analise da experiencia dos
+usuarios finais em aplicacoes PWA atraves do estudo de caso
+II (ECII). Analisando os beneficios da participacao ativa do
+usuario no design da interface.
+
+**TRABALHOS RELACIONADOS**
+
+Na linha de adaptaçao de interfaces destacam-se os trabalhos
+. Os trabalhos apresentados propõem diferentes formas para adaptar a interface, consi-
+derando fatores como multimodalidade (MM), sensibilidade
+aos contextos de uso (SC) e preferencias do usuario (PU) em
+diferentes plataformas como web, web mobile e mobile.
+
+UIFlex  e uma ferramenta para adaptaçao da interface de
+websites de acordo com o perfil do usuario utilizando princí-
+pios de meta-design. A adaptaçao e realizada em duas etapas,
+a primeira modela as interaçoes do usuario atraves da criaçao
+de um perfil de interaçao, criado a partir de um formulario
+sobre suas preferencias, e sugestoes de autoridades (W3C,
+Mozilla Developer Network). A segunda etapa adapta as in-
+terfaces injetando codigos JavaScript (JS), CSS e HTML nas
+paginas visitadas, a partir do perfil de interaçao do usuario.
+
+HyMobWeb  e uma abordagem hibrida na perspectiva de
+desenvolvedores para adaptaçao de interfaces web em dis-
+positivos moveis, baseadas em sensibilidade ao contexto e
+multimodalidade. A adaptaçao e realizada atraves da extensao
+de frameworks front-end, adicionando pontos de adaptaçao,
+utilizando uma Domain Specific Language desenvolvida pelos
+autores no codigo da interface. Uma estrategia hibrida foi ado-
+tada para combinar adaptaçoes estaticas, quando as alteraçoes
+sao realizadas durante a implementaçao, e dinamicas, onde as
+modificaçoes ocorrem em tempo de execuçao.
+
+Apesar de apresentar diversas formas de solucionar proble-
+mas na area de adaptaçao de interfaces, os trabalhos citados
+acima tem limitaçoes. A maioria dos autores propõe tecni-
+cas, frameworks e algoritmos inteligentes para gerar interfaces
+adaptadas automaticamente . Ja as
+propostas  consideram apenas aspectos tecno-
+logicos e dimensoes de contexto de uso em suas adaptaçoes.
+Em alguns casos as preferencias do usuario sao consideradas
+como uma das bases do processo de adaptaçao . Con-
+tudo, nao concedem liberdade para que o usuario atue como
+um agente ativo realizando suas escolhas. A proposta UIFlex
+ considera algumas preferencias dos usuarios e permite
+sua participaçao ativa para alterar adaptaçoes realizadas auto-
+maticamente pelo sistema. Porem, UIFlex esta limitado a um
+ambiente web, sem permitir seu uso em dispositivos moveis.
+Alem disso, UIFlex nao permite que o usuario altere a aparen-
+cia de elementos de interface, forma de exibiçao de conteudo e
+o uso de modalidades. Ja M3I  e um framework que auxilia
+desenvolvedores a adicionar diferentes modalidades e contex-
+tos de uso durante a fase de desenvolvimento. A perspectiva
+do usuario final nao e considerada pelo framework, contudo,
+uma de suas demonstraçoes de uso permite a participaçao do
+usuario final como co-designer da aplicaçao.
+
+Uma lacuna ainda nao explorada e um mecanismo de adap-
+taçao de interfaces com conceitos de EUD atraves de meta-
+design. Nessa proposta o usuario participaria ativamente das
+modificaçoes realizadas, como a alteraçao da aparencia de ele-
+mentos de interface, formato de exibiçao do conteudo e formas
+de interaçao. Uma questao pouco explorada em plataformas
+web mobile, especialmente em PWAs.
+
+**METODOLOGIA**
+
+A metodologia proposta para alcançar o objetivo deste projeto
+inclui um ciclo dividido em seis passos, ilustrados pela Figura
+1 e detalhados abaixo.
+
+P1 - Estudo bibliografico: revisao de trabalhos dos princi-
+pais temas envolvidos neste projeto, procurando encontrar
+tendencias, limitaçoes e novas descobertas nesse campo.
+P2 - Estudo exploratorio I: planejamento, execuçao e analise
+do estudo de caso I (ECI), relacionado a aplicaçoes PWA.
+P3 - Delinear abordagem: elaboraçao da abordagem pro-
+posta a partir dos resultados da analise do estudo exploratorio
+I e revisao bibliografica.
+P4 Implementacao planejamento e desenvolvimento de prova de conceito
+P5 Avaliacao da proposta planejamento execucao e analise do estudo de caso II ECII
+P6 Publicacao dos resultados escrita de publicacoes do resultado final deste projeto
+
+ABORDAGEM PWAEU
+O metodo tradicional de desenvolvimento de um PWA tem como base a divisao do conteudo entre uma arquitetura de shell e o conteudo dinamico Essa arquitetura consiste em carregar somente o esqueleto da interface do usuario da aplicacao composta por arquivos HTML CSS e JavaScript JS e conteudo estatico como imagens e fontes Esse esqueleto e armazenado em cache no navegador do usuario e recuperado toda vez que o PWA e acessado atraves de Service Workers SWs SWs sao scripts em JS executados pelo navegador em segundo plano com um ciclo de vida completamente separado da pagina web Essa tecnologia e necessaria para o desenvolvimento de PWAs e permite o armazenamento de arquivos no navegador local utilizando cache garantindo acesso aos documentos quando nao ha conexao com a internet 11 Com isso o usuario nao precisa baixar novas versoes pois a atual sera automaticamente baixada do servidor web quando houver acesso a internet Ao obter uma nova versao os SWs a armazenam em cache e apagam a versao anterior
+Na Figura 2 a abordagem PWAEU e apresentada Ela adapta a arquitetura de desenvolvimento tradicional de um PWA para armazenar as preferencias do usuario localmente no navegador seguindo o conceito de EUD e metadesign As modificacoes ocorrem apos interacoes do usuario com a aplicacao PWA 1 A seguir dois caminhos podem ser tomados
+i Se o usuario alterou suas preferencias em relacao a elementos de interface formas de interacao e exibicao de conteudo a camada de gerenciamento e chamada 2a Essa camada e criada com codigos JS e e responsavel por receber dois tipos requisicoes da aplicacao PWA i receber e enviar modificacoes no modelo de design do usuario e ii enviar o conteudo do novo modelo de usuario para a camada de conexao O modelo de design do usuario tem o formato JavaScript Object Notation JSON e define e combina as preferencias de design do usuario incluindo aparencia de elementos de interface formas de interacao exibicao de conteudo como dados e imagens Esse modelo permite salvar esses dados para acessos futuros seguindo o conceito de metadesign e EUD O Metadesign proporciona que usuarios atuem como codesigners da aplicacao atendendo um numero maior de suas necessidades para viabilizar uma experiencia mais agradavelA seguir a camada de gerenciamento envia uma modificacao ao modelo de design do usuario 2a1 Elementos de interacao especificos formato de exibicao de conteudo e formas de interacao sao enviados ao modelo de design do usuario 2a2 O JSON com as preferencias do usuario e recebido pela camada de gerenciamento 2a3 e enviado a camada de conexao 2a4 A camada de conexao sao codigos em JS que armazenam localmente no navegador o JSON definido no modelo de design do usuario Para isso a propriedade localStorage do HTML5 e utilizada Alem disso essa camada tambem envia esse JSON para o motor de adaptacao O passo 2a5 ocorre quando essa camada armazena o JSON utilizando localStorage
+ii No segundo caso o usuario nao alterou suas preferencias e a aplicacao chama diretamente a camada de conexao 2b Para ambos os casos a camada de conexao recebe o JSON a partir do localStorage 3 e o envia para o motor de adaptacao 4 O motor de adaptacao utiliza JS e CSS para modificar o esqueleto da aplicacao criado com HTML CSS e JS considerando as preferencias do usuario definidas no JSON do modelo de design do usuario O motor tambem e responsavel por obter um novo esqueleto da aplicacao do servidor web quando ha conexao com a internet armazenar o esqueleto em cache e recupera-lo Os passos 5 6 7 e 8 fazem parte da abordagem tradicional de desenvolvimento de uma aplicacao PWA descrita no inicio desta secao
+
+AVALIACAO
+Uma avaliacao da perspectiva da arquitetura de software da abordagem proposta nao sera realizada Somente uma prova de conceito sera avaliada pois esta abordagem esta inserida no contexto de IHC com foco em EUD e metadesign
+O estudo de caso I ECI foi realizado seguindo as diretrizes estabelecidas por Lazar et al 13 e teve como objetivo analisar aspectos de experiencia do usuario com diferentes elementos de interface em tres plataformas PWA web mobile e nativa Android A partir do dados coletados foi realizada uma analise qualitativa com base em duas diferentes perspectivas Inicialmente o feedback dos participantes foi explorado na perspectiva do usuario atraves do metodo SelfAssessment Manikin SAM 2 A segunda perspectiva selecionada foi a de um especialista em interacao humanocomputador IHC onde o especialista analisou as expressoes faciais dos participantes atraves das 10 heuristicas de emocao 7 com a finalidade de identificar as emocoes vivenciadas pelos usuarios e seus gatilhos encontrados atraves da tecnica Open Coding 20
+O artigo Analyzing user experience in mobile web native and progressive web applications a user and HCI specialist perspectives sera publicado no IHC 2018 e detalha o ECI
+O estudo de caso II ECII esta na fase de planejamento e sera executado com o objetivo de avaliar a proposta desenvolvida sob a perspectiva do usuario Uma aplicacao PWA sera desenvolvida baseandose na abordagem PWAEU com objetivo de permitir a participacao ativa de usuarios nas escolhas de design durante suas interacoes Uma comparacao sera realizada entre dois grupos de participantes os primeiros nao atuarao como codesigners e o segundo grupo podera alterar caracteristicas de aparencia e formas de interacao na aplicacao Essa avaliacao sera realizada de forma qualitativa utilizando metricas similares ao ECI Contudo esperase analisar nao so as interacoes com elementos de interface mas tambem suas interacoes com diferentes formatos de exibicao de conteudo e formas de interacao como ditacao por voz reconhecimento de voz e movimentos como swipe Alem disso sera feita uma analise sobre os efeitos da participacao do usuario como codesigner na aplicacao
+
+
+**CONSIDERAÇOES FINAIS**
+
+Este projeto de mestrado apresenta a abordagem PWA-EU,
+uma adaptaçao da arquitetura de aplicaçoes PWA para incluir
+conceitos de meta-design, uma abordagem de EUD. Na PWA-
+EU, usuarios participam ativamente das escolhas de design da
+aplicaçao durante sua execuçao.
+
+**CONSIDERACOES FINAIS**
+Este trabalho propoe uma nova abordagem para o desenvolvimento de aplicações web progressivas (PWAs) que integra conceitos de End-User Development (EUD) atraves de meta-design, buscando capacitar os usuarios a personalizar ativamente a interface e a experiencia de uso.

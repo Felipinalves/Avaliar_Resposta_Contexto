@@ -1,0 +1,97 @@
+**Introducao**
+
+E possivel perpetuar a vida de um individuo no mundo cibernetico. Tal possibilidade e
+denominada de imortalidade digital [Galvao et al. 2021]. Essa perpetuaçao e realizada
+atraves da coleta dos dados da pessoa que ficam armazenados na internet e que geram
+pegadas digitais que contem dados, os quais podem ser processados em informaçoes uteis,
+possibilitando a produçao de um perfil complexo do usuario contendo suas preferencias,
+habitos e ate planos para o futuro.
+
+Apesar de existir a possibilidade da imortalidade digital, essa ainda apresenta
+grandes desafios ate poder ser concretizada. Uma delas e a carencia de sistemas e pesqui-
+sas aplicadas, em especial no Brasil. Outro ponto a ser considerado e investigado e sobre
+a existencia de tecnologia para fins de imortalizaçao digital e profissionais da area de
+big data, capazes de correlacionarem e extrairem a imensa gama de dados gerados pelos
+usuarios em informaçoes uteis [Carreira 2016], imprescindiveis para a formaçao de sua
+representaçao digital. Outro desafio sao as implicaçoes eticas [Galvao et al. 2021], pois o
+uso de big data esta relacionado a questoes sensitiveis para a sociedade como privacidade,
+segurança e propriedade intelectual.
+
+Assim, este artigo tem como foco principal apresentar o prototipo do sistema
+MyStory que visa representar um individuo e sua historia atraves de um avatar. E im-
+portante destacar que o sistema MyStory e um sistema novo, original e proposto a partir
+de bases teoricas e pesquisas de campo desta pesquisa e utilizando conceitos e tecnicas da
+engenharia de sofware e da interaçao humano-computador (IHC). Vale ressaltar que este
+artigo e um recorte da pesquisa em desenvolvimento e, dados os limites do texto, apenas
+alguns aspectos principais sao apresentados.
+
+Para desenvolver este trabalho, foi necessario primeiramente recorrer as bases
+conceituais e tecnicas do campo da pesquisa, as quais permitiram a construçao do sistema
+MyStory [Galvao et al. 2017, Bailenson et al. 2005, Bell and Gray 2000, Lejeune 2014,
+Gemmell and Bell 2009, Ribeiro 2021]. Apos esta etapa, foram realizadas a coleta de
+dados via questionarios, o metodo de inspeçao semiotica, a engenharia do software e o
+grupo focal. Cabe salientar que essa pesquisa foi realizada tambem com base nos estudos
+realizados pelo projeto de pesquisa DAVI (Dados Alem da Vida), do LAVI (Laboratorio
+de Ambientes Virtuais Interativos), e contou com a participaçao dos integrantes do projeto
+no grupo focal.
+
+O metodo de inspeçao semiotica (MIS) foi utilizado para avaliar o sistema
+MetaHuman e propor caracteristicas aos requisitos da interface do avatar no sistema
+[de Souza et al. 2021]. A fase de prototipaçao do MyStory foi a solidificaçao da proposta
+a partir do conjunto de metodos e tecnicas executadas, resultando em uma visao tangivel
+de como o sistema ira funcionar. Para finalizar, temos a discussao sobre os prototipos via
+grupo focal, permitindo melhorias no sistema.
+
+**Prototipo do Sistema MyStory**
+
+Com base no conjunto de artefatos explorados na metodologia, foram desenvolvidos os
+prototipos de media fidelidade do sistema MyStory. Tais prototipos foram criados no
+Figma e aplicados em um grupo focal online, devido a pandemia da Covid-19, com
+participaçao de usuarios do grupo de pesquisa DAVI. As discussoes realizadas no grupo
+focal foram divididas em quatro rodadas para abordar cada seçao especifica do prototipo.
+Dessa forma, os participantes avaliaram cada parte dos prototipos e sugeriram mudanças
+para aprimorar o MyStory, relatadas brevemente nesta seçao. Primeiramente, para intro-
+duzir o prototipo, e apresentada a interface inicial do sistema MyStory, que
+demonstra os dados basicos do usuario.
+
+As demais interfaces do sistema MyStory, discutidas a seguir, estao expostas no
+documento em link externo 2. Na Figura 2, do link, e exposta a interface do avatar. Nesta,
+o avatar foi alterado para deixar visıvel apenas o rosto e nao o corpo inteiro. O requisito
+nao funcional (RNF) numerado como 3 foi alterado para: o sistema utilizar a modelos de avatares em 3D com apenas o rosto. Na Figura 3, e retratado o menu “Bio”, do qual foi
+removido o item personalidade, juntamente com o respectivo requisito funcional.
+A tela de memorias representada na Figura 4 aponta os recursos novos que foram
+adicionados. Tais recursos sao a caixa de pesquisa para o usuario poder pesquisar o tıtulo
+da memoria e as tags marcadas por ele. Tambem, ha uma caixa para o usuario escolher o ano da memoria a fim de filtrar e encontrar as memorias de um tempo especıfico.
+Alem disso, as memorias adicionadas pelos herdeiros terao um rotulo informando que foram adicionadas pelo herdeiro. A Figura 5 se refere a quando o usuario for adicionar memorias. Nesta tela, foram adicionados tres campos novos: campo para colocar o ano da memoria, campo para anexar mıdia e campo para adicionar tags. Por ultimo, ha a tela do herdeiro, Figura 6, sendo adicionado um campo para o usuario escrever as instrucoes 
+para cada herdeiro de como ele gostaria que gerenciasse sua conta. Foi tambem retirada 
+a opcao de excluir a conta no controle do herdeiro. 
+Para concluir, foi adicionado um novo requisito funcional no sistema, que visa
+a comunicacao periodica com o usuario de forma a relembra-lo de atualizar suas
+informacoes no sistema, engajamento-o para o uso do MyStory.
+
+**Consideraçoes finais**
+
+Guiado pelo objetivo apontado no trabalho, partiu-se para o desenvolvimento do MyS-
+tory, um sistema com avatar que implementa aspectos da imortalidade digital. Para de-
+senvolvimento da soluçao, dada a sensibilidade e originalidade desta, foram requeridas
+consultas a literatura, o uso de estudos com usuarios e a analise de ferramentas, entre
+outros, envolvendo conceitos e tecnicas das areas de engenharia de software e interaçao
+humano-computador. A engenharia deste produto contribui na busca de soluçoes inova-
+doras ao problema premente da dificuldade de projetar sistemas para area de imortalidade
+digital.
+
+Tendo em vista pesquisas futuras, alem da possivel implementaçao do sistema e
+testes com usuarios, indica-se a analise de outros meios para colher dados dos usuarios
+e explorar as potencialidades da inteligencia artificial ou alguma aplicaçao digital. E importante
+considerar tambem outras formas de poder representar um individuo, podendo recorrer a
+outros sistemas que permitem a criaçao e personalizaçao de um avatar para abstrair ideias
+para serem integradas no avatar. Ainda, a exploraçao de comportamentos do avatar em
+ambientes virtuais, em outra etapa do sistema, tem potencial a ser explorado. Neste ponto,
+cabe reforçar que a proposta aqui lançada pode ser usada para sistemas que, utilizando
+avatares, queiram, desde sua concepçao, considerar a possibilidade da imortalidade.
+
+Por fim, espera-se que esta pesquisa e os artefatos gerados possam contribuir para
+as prementes discussoes no campo da herança digital e da imortalidade digital, conside-
+rando, em especial, as possibilidades do uso de avatares para representar o usuario.
+
+Em conclusao, este artigo apresentou um prototipo de sistema que visa representar um individuo e sua historia digitalmente. A utilizaçao de questionarios, grupo focal e o metodo de inspeçao semiotica permitiu o desenvolvimento de um prototipo de media fidelidade do sistema MyStory. Os resultados obtidos mostram o potencial da tecnologia para representar a vida de um individuo no mundo digital, mas tambem alertam para a importancia de discussoes sobre questoes eticas e sociais envolvidas nesse processo.

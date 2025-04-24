@@ -1,0 +1,219 @@
+Resumo. A aprendizagem de novos conteudos vai alem de assistir aulas e rea-
+lizar exercicios conceituais e, por vezes, se faz necessaria a realizaçao de tra-
+balhos praticos. A metodologia de aprendizado baseado em projetos apresenta
+o aluno como protagonista neste processo de captaçao e internalizaçao do co-
+nhecimento, uma vez que pratica a teoria estudada. Este relato de experiencias
+descreve a aplicaçao da metodologia supracitada por meio da elaboraçao de
+prototipos interativos de alta fidelidade, baseados nas heuristicas de usabili-
+dade de Nielsen. O projeto ocorreu em uma disciplina de Interaçao Humano-
+Computador, nas modalidades de ensino presencial e remoto.
+
+**1. Introduçao**
+
+A disciplina de Interaçao Humano-Computador (IHC) e ofertada aos alunos do 5o periodo
+do curso tecnologico em Gestao da TI da Faculdade de Para de Minas (FAPAM), situada
+na cidade homonima, localizada no interior de Minas Gerais. Sua ementa contempla
+conteudos relacionados aos aspectos humanos e computacionais, com foco na usabili-
+dade, por meio da coleta das necessidades dos usuarios, design e avaliaçao de interfaces.
+
+E sabido que a IHC e a Engenharia de Software (ES) possuem diferentes pers-
+pectivas sobre o desenvolvimento de sistemas interativos, porem ha um caminho para
+integraçao entre ambas, uma vez que a qualidade de uso e preocupaçao compartilhada em
+processos das duas disciplinas [Barbosa 2010]. Dado que a disciplina de Engenharia de
+Software I e ofertada no mesmo periodo e ministrada pela mesma professora, surgiu a
+ideia de propor um projeto interdisciplinar, cuja abordagem se daria de forma integrada,
+uma vez que as duas disciplinas comungam aspectos complementares, como demonstram
+alguns autores [Barbosa 2010, de Lima et al. 2019]. A interdisciplinaridade e um com-
+ponente curricular importante em cursos de graduaçao, entretanto, o foco deste artigo se
+restringe apenas as partes do projeto relacionadas a disciplina de IHC.
+
+O objetivo principal do projeto foi simular a integraçao de ambas as discipli-
+nas, assim como ocorre nas empresas e no mercado de trabalho como um todo e, alem
+disso, proporcionar aos alunos esta percepçao. Os relatos sao compartilhados sob o ponto
+de vista da professora, que possui graduaçao em Ciencia da Computaçao, mestrado em
+Ciencia da Informaçao e, desde 2013, leciona a disciplina de IHC na referida instituiçao.
+Sua experiencia como docente no ensino superior se estende ha mais de 9 anos.
+
+O artigo apresenta detalhes de duas ofertas da disciplina (1o semestre de 2019 e
+1o semestre de 2020), embasada na mesma especificaçao de projeto, porem em modalida-
+des de ensino distintas presencial e remoto, sendo esta ultima, adotada temporariamente
+pela faculdade, devido a pandemia do novo coronavirus. A metodologia se pautou na
+aprendizagem baseada em projetos, que estimula o desenvolvimento de competencias, o
+protagonismo dos alunos e o trabalho em equipe na aplicaçao pratica de conteudos disci-
+plinares [Chagas 2020]. Para isso, foi proposta a construçao de um prototipo funcional de
+alta fidelidade para sistemas interativos, com tema de livre escolha dos alunos e com li-
+berdade e autonomia para explorar e aplicar suas ideias e/ou mesmo propor soluçoes para
+problemas reais. Os prototipos deveriam apresentar em suas interfaces graficas a presença
+de algumas heuristicas descritas por [Nielsen 1993].
+
+Mais detalhes encontram-se dispostos no referencial teorico, com conteudos nor-
+teadores sobre Interaçao Humano-Computador e Aprendizagem Baseada em Projetos. Na
+sequencia, e detalhado o desenvolvimento do projeto na disciplina de IHC e, por fim, ha
+a apresentaçao dos resultados e as consideraçoes finais.
+
+**Referencial Teorico**
+
+**IHC e conceitos relacionados**
+
+De acordo com [Barbosa 2010], a area de Interaçao Humano-Computador tem interesse
+na qualidade de uso de sistemas interativos e em como isto afeta seus usuarios. Para que
+o impacto seja positivo, os elementos presentes na interface destes sistemas devem ser
+projetados de acordo com o proposto pelo design de interaçao, que aborda a intuitividade,
+a clareza das funcionalidades e as possibilidades presentes nas aplicaçoes [Sobral 2019].
+
+Um sistema planejado seguindo as instruçoes de design, tende a ser dotado de
+usabilidade, o que significa dizer que o usuario sera capaz de realizar tarefas de maneira
+eficiente, agradavel e eficaz em um contexto de uso especifico [ISO 9241-11 2018]. Se-
+gundo [Benyon 2011], o design de interface consiste em tudo o que ha no sistema que as
+pessoas entram em contato seja fisica, perceptiva ou conceitualmente, e que resultara na
+melhor experiencia do usuario ao utilizar determinado sistema.
+
+E por meio dos prototipos que os designers apresentam aspectos visuais do design
+de interface, pois devem ser usados para validar propostas de soluçao junto aos usuarios de
+um sistema e podem aparecer com niveis de detalhamentos distintos. Os prototipos de alta
+fidelidade (Hi-fi) possuem grande similaridade com o produto final, sendo ate confundidos
+com uma aplicaçao real, uma vez que ha o intuito de simular os recursos funcionais do
+sistema [Sobral 2019]. Nestes casos, a utilizaçao de ferramentas computacionais se faz
+necessaria para a construçao das interfaces.
+
+A presença de caracteristicas desejaveis nas interfaces reforçam a busca pela qua-
+lidade em sistemas interativos [Barbosa 2010], o que remete ao conjunto de diretrizes de
+usabilidade de Nielsen. As heuristicas [Nielsen 1993], como sao conhecidas, fazem parte
+de uma avaliaçao de IHC na busca por problemas que desfavorecem a usabilidade, no qual
+as interfaces sao inspecionadas por avaliadores. O conjunto das 10 heuristicas foi supri-
+mido neste relato, uma vez que e bastante conhecido na comunidade de pesquisadores e
+atuantes da area de IHC.
+
+**Project Based Learning**
+
+A metodologia de Aprendizagem Baseada em Projetos, traduçao de Project Based Le-
+arning (PBL), permite que os alunos aprendam fazendo e aplicando ideias, uma vez
+que ha envolvimento com problemas reais [Krajcik and Blumenfeld 2005]. Conforme
+[Chagas 2020], e importante identificar um conteudo da disciplina que possa ser explo-
+rado e desenvolvido com os alunos na forma de um projeto. Segundo a mesma autora,
+cada uma das entregas sao denominadas de produto, seja um relatorio, um diagnostico,
+um aplicativo ou um prototipo, como e o caso deste relato.
+
+De acordo com [Mesquita et al. 2018], tal abordagem caracteriza-se pelos
+principios de interdisciplinaridade, trabalho em equipe e identificaçao de um problema.
+Para os autores, o elemento norteador do PBL e o problema, o qual confere a aprendi-
+zagem aspectos de relevancia e significado, alem de promover processos criativos e ino-
+vadores ao desenvolver o projeto. A interdisciplinaridade se apresenta como o elemento
+diferenciador do PBL, pois promove a integraçao da teoria com a pratica e, ainda, os alu-
+nos estarao aptos a interligar diferentes areas do conhecimento ou areas complementares.
+Por fim, o trabalho em equipe proporciona aos alunos atuarem de forma colaborativa.
+
+**PBL na disciplina de IHC**
+
+A disciplina de IHC, com carga horaria de 40 horas semestrais, e ofertada anualmente e
+ocorre nos semestres impares, com um encontro semanal de 2 horas/aula. Mediante o que
+propoem as ciencias da aprendizagem e as suas quatro ideias principais destacadas pelos
+autores [Krajcik and Blumenfeld 2005], a metodologia de aprendizagem baseada em pro-
+jetos se adequou a proposta inicial da professora. A seguir, cada uma delas e apresentada
+de forma contextualizada conforme sua aplicaçao na disciplina:
+
+a) construçao ativa: construçao do prototipo interativo de alta fidelidade, com a restriçao
+de conter no minimo 5 telas para sistemas ou aplicativos. O tema foi livre e cada equipe
+teve autonomia para explorar e aplicar suas ideias ou mesmo propor soluçoes para pro-
+blemas reais. Alem disso, o prototipo deveria ser funcional, de modo que houvesse a
+possibilidade de navegar entre as interfaces criadas, por meio de links nos botoes.
+
+b) aprendizagem situada: inclusao de, no minimo, 4 heuristicas de Nielsen
+[Nielsen 1993], para elaboraçao dos prototipos, aliando a teoria das aulas a pratica de
+um projeto real. O design das interfaces deveria ser pautado e justificado com base nas
+heuristicas utilizadas. Ao inves de usar as heuristicas na avaliaçao as interfaces graficas,
+como comumente acontece, elas foram usadas em sua elaboraçao.
+
+c) interaçoes sociais: ao todo, 20 alunos participaram dos projetos - 9 alunos em 2019 e
+11 alunos em 2020. Cada equipe teve de 3 a 4 integrantes. A realizaçao do projeto indi-
+vidualmente nao foi permitida, pois o trabalho conjunto seria objeto da abordagem PBL.
+Alem disso, o conhecimento compartilhado promove o desenvolvimento de soft skills ,
+bastantes requeridas pelo mercado de trabalho atual e, principalmente, na area de tecno-
+logia da informaçao, na qual equipes sao compostas por profissionais de multiplas areas.
+
+d) ferramentas cognitivas: a escolha de qual ferramenta de prototipaçao utilizar foi de
+livre escolha dos alunos, levando em consideraçao as habilidades e conhecimentos que
+porventura ja tivessem, como foi o caso da ferramenta Adobe XD, de dominio de alguns
+alunos no 1o semestre de 2019. No entanto, dois horarios de 50 minutos cada, em am-
+bos os semestres, foram dedicados ao ensino de uma determinada ferramenta. As aulas
+foram conduzidas de modo a explorar os recursos disponiveis em cada uma delas, como
+manipulaçao e ediçao de elementos, botoes, cores, exportaçao de imagens e criaçao de
+links entre as telas prototipadas. No 1o semestre de 2019, a ferramenta Pencil Project foi
+adotada, uma vez que estava pre-instalada no laboratorio de praticas computacionais da
+faculdade, onde os alunos tiveram mais duas aulas dedicadas a elaboraçao dos prototipos,
+com a supervisao da professora. Ja no 1o semestre de 2020, o Figma foi a ferramenta
+escolhida, haja visto que as aulas aconteciam remotamente, de forma sincrona, por meio
+da plataforma de videochamadas Google Meet. Outro aspecto importante pela escolha
+de tal ferramenta e que ela permite a construçao colaborativa de ate duas pessoas com
+acesso via e-mail (uma vantagem para os alunos trabalharem de forma conjunta). Na
+aula sobre o Figma, a professora utilizou os recursos de compartilhamento de tela e de
+gravaçao do Google Meet. O arquivo com a aula gravada foi disponibilizado aos alunos
+posteriormente para reverem quantas vezes fossem necessarias. No ensino remoto, a su-
+pervisao se deu em horarios e meios alternativos: por aplicativo de mensagens, e-mail
+e apos o termino das aulas semanais da disciplina, via videoconferencia. Em ambas as
+modalidades de ensino, foi possivel sanar as principais duvidas dos alunos.
+
+**Interdisciplinaridade entre IHC e ES1**
+
+O projeto iniciou no inicio de março (em ambos os semestres), com uma primeira entrega
+em meados do mes de abril, contendo uma documentaçao com os requisitos, as regras de
+negocio, o diagrama e a descriçao dos casos de uso da aplicaçao a ser modelada - itens
+especificos da disciplina de ES1. No inicio de maio, apos as correçoes feitas pela docente,
+os documentos foram devolvidos aos alunos para que fizessem as alteraçoes necessarias
+e a inclusao de itens referentes a uma segunda entrega, que contemplou o diagrama e a
+descriçao das classes, alem da modularizaçao dos componentes do sistema e, ainda, a
+prototipaçao das interfaces graficas, conforme ja descrito. Os requisitos funcionais en-
+tregues na primeira parte, foram o ponto de partida para a construçao dos prototipos. A
+apresentaçao dos projetos ocorreu no final de junho.
+
+**Resultados dos projetos**
+
+Dentre todas as prototipaçoes, quatro foram representaçoes de sistemas web e duas de
+aplicativos mobile. No 1o semestre de 2019, 2 grupos usaram a ferramenta Pencil Project
+e 1 grupo a ferramenta Adobe XD, sendo esta ultima, mesmo nao tendo sido abordada na
+disciplina, foi escolhida porque membros do grupo ja tinham contato com as ferramentas
+da suite Adobe e optaram por ela. Ja em 2020, todos os grupos criaram os prototipos
+utilizando a ferramenta Figma.
+
+Tendo em vista a quantidade significativa de prototipos e a limitaçao de espaço
+para apresentaçao de todos eles, foi escolhido o prototipo do sistema PSF Manager, no
+ambito da saude publica. Tal projeto chamou bastante atençao pelo nivel de detalhamento,
+recursos e diversidade de integraçao com dispositivos de hardware, tais como TV, impres-
+sora termica, monitor e computador, alem de representar uma soluçao para um problema
+real, conforme Figura 1. Os alunos responsaveis pelo prototipo cursaram a disciplina de
+IHC no 1o semestre de 2019 e sao coautores deste relato.
+
+Nas aulas dedicadas a apresentaçao do projeto (formatos presencial e remoto), o
+prototipo interativo foi apresentado primeiramente, seguido dos slides contendo as telas cujos elementos presentes remetessem as heurısticas escolhidas. A Figura 1 apresenta as
+telas correspondentes as seguintes heurısticas e justificativas do grupo sobre as mesmas:
+(a) Conteudo relevante e expressao adequada: a tela mostra as principais informacoes
+em destaque, sem poluicao visual (a ser exibida no monitor de TV). 
+(b) Projeto para erros: o paciente deve verificar dados de sua senha antes de realizar a
+impressao (uma mensagem de alerta aparece no visor). 
+(c) Visibilidade do estado do sistema: a opcao atual sempre fica destacada no menu superior, facilitando a identificacao e navegacao do usuario (no caso, o item “Mensagens”). 
+Cada equipe, independente da modalidade, apresentou o projeto de forma muito
+similar ao que foi relatado anteriormente. Durante as apresentacoes, coube a professora intervir em duas situacoes: (i) quando a heurıstica apresentada nao tinha relacao com o que se via nas telas prototipadas; (ii) quando houvesse mais de uma heurıstica presente
+na tela apresentada. Na propria Figura 1 (a) e (b), tambem encontram-se presentes a heurıstica projeto estetico e minimalista (com informacoes sucintas e bem apresentadas) 
+e em (c), a heurıstica consistencia e padronizacao (na formatacao da fonte - tipologia e nas cores dos botoes).
+
+**Consideraçoes finais**
+
+Em ambas as abordagens (presencial e remoto) os alunos realizaram o projeto de acordo
+com o que se esperava: a aplicaçao das heuristicas no design dos prototipos das telas.
+
+Alguns resultados se destacaram, como o apresentado na Secao 4 e, pelo conhecimento da professora, a sua qualidade nao foi influenciada pela modalidade de ensino, mas sim pela experiencia previa de um dos alunos da equipe que, na epoca, trabalhava com desenvolvimento de artes graficas. A questao visual foi levada em consideracao, mas nao foi criterio de avaliacao, uma vez que nao houve espaco suficiente para explorar tecnicas de design de interfaces devido a carga horaria da disciplina. 
+Considera-se que o objetivo principal do projeto interdisciplinar foi alcancado,
+conforme se observa pelos feedbacks dos alunos coautores deste relato. Um deles disse que “todo o projeto nos levou a vivencia da pratica, o que acontece no desenvolvimento de software, o que nos fez sentir preparados para o mercado”. Outro aluno exprimiu sua
+opiniao comparando a execucao do projeto com sua vivencia profissional: ˆ “seu desenvolvimento foi bem proximo do que vivencio em meu meio profissional como desenvolvedor”.
+Alem disso, o desenvolvimento de soft skills, conforme descrito na Secao 3,
+tambem foi percebido por um aluno coautor: “com o projeto, desenvolvemos diversas
+habilidades, comecando pela criatividade e resolucao de um problema real, alem de lideranca e trabalho em grupo”.
+Em ambas as abordagens, o engajamento dos alunos foi similar. Em relacao a procura, em quase todas as aulas no formato presencial, os alunos buscaram sanar duvidas 
+quanto a ferramenta de design. Ja no ensino remoto, esta busca ocorreu em menor quantidade. Acredita-se que o motivo seja por causa da gravacao da aula explicativa sobre o Figma, a qual foi disponibilizada a todos e puderam assistir quantas vezes quisessem.
+
+**CONSIDERACOES FINAIS**
+
+A utilizaçao do aprendizado baseado em projetos, aliado as heuristicas de Nielsen, se mostrou uma abordagem eficaz tanto no modelo de ensino presencial quanto no remoto. A autonomia, a liberdade criativa e o trabalho colaborativo permitiram aos alunos internalizar os conceitos e aplica-los na criaçao de soluçoes inovadoras e relevantes para o contexto da Interaçao Humano-Computador.
+```
+
+### Response for: AprendizadoBaseadoemProjetosemIHCpresenciale,

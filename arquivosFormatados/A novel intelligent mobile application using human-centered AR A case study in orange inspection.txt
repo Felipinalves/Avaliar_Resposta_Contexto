@@ -1,0 +1,59 @@
+**INTRODUCAO**
+
+Os avanços da Agricultura 4.0 aumentam a produçao de alimentos e reduzem as perdas decorrentes dos avanços de pragas e doenças . AR e uma ferramenta importante
+neste contexto . Essa tecnica pode ser replicada em atividades agricolas, por exemplo, em fazendas de gado . No contexto das frutas citricas, o cultivo dessas frutas gera um PIB global de US$ 6,5 bilhoes . Alem disso, doenças como manchas pretas, cancro citrico e greening danificam a fruta e reduzem a produçao devido a queda prematura das arvores . Assim, e necessario criar uma ferramenta neste contexto.
+
+Na literatura, alguns trabalhos utilizam Veiculos Aereos Nao Tripulados (VANT) para realizar inspeçoes em plantaçoes . Mas, esses metodos podem conter falhas, pois as doenças podem estar presentes na fruta em um lado diferente da camera do VANT. Assim, a interaçao do usuario no momento da inspeçao e essencial porque ele toma a atitude de girar a fruta para inspeçao com o dispositivo movel (MD). Portanto, neste trabalho, apresentamos o desenvolvimento do App AR inteligente com interaçao Humano-Maquina. Uma ferramenta para auxiliar os citricultores na inspeçao de doenças em plantio de laranjas. Alem disso, embora o uso de IA centrada no ser humano na agricultura ainda seja pouco explorado, o trabalho ajuda a compreender as necessidades entre os dominios que compoem essa area, incluindo interaçao Humano-Computador e Inteligencia Artificial.
+
+AR e uma tecnologia que permite a sobreposiçao de objetos virtuais 3D em um ambiente real 3D, com nossa perspectiva de realidade . Na agricultura, o MD com AR e
+IA pode ajudar os agricultores de muitas maneiras . Nesse contexto, o trabalho propoe fornecer informaçoes ao usuario sobre doenças em laranjas.
+
+A IA centrada no ser humano (HCAI) e definida por sistemas que sao continuamente otimizados devido a açao humana . Esse metodo pode ser importante na agricultura porque atinge niveis mais precisos, combinando informaçoes inteligentes para tomada de decisao . Diante disso, propomos apresentar dois objetos AR na interface do aplicativo para que o usuario possa decidir qual modelo melhor representa a imagem inspecionada. Assim, o usuario tem autonomia na tomada de decisao ao inspecionar as laranjas.
+
+Para o desenvolvimento do sistema, os principais guias de usabilidade sao adotados para a criaçao da interface , bem como no contexto de aplicaçoes moveis utilizando
+AR . Com isso, podemos garantir que o App atenda aos requisitos minimos para uma boa operaçao em campo e tenha uma interface muito intuitiva para uso.
+Alem disso, a soluçao deve apresentar as informaçoes ao usuario dentro de um tempo de resposta aceitavel pelos padroes humanos.
+
+A Figura 1-A mostra o processo de desenvolvimento do App que acontece da seguinte forma: Um MD coleta a imagem da laranja; O App realiza a detecçao e classificaçao do
+imagem recebida com o modelo AI. A estrutura ARCore aguarda a classificaçao AI; O APP apresenta na UI os objetos AR de acordo com a classificaçao AI. Assim, o
+usuario decide qual objeto AR corresponde a imagem inspecionada para salvar os dados. Os modelos de IA estao disponiveis em . O primeiro modelo e responsavel
+pela detecçao, e o segundo pela classificaçao de laranjas. Alem disso, todo o processamento acontece na borda do dispositivo.
+
+A Figura 1-B mostra o fluxo de navegaçao na App UI. Considerando que os usuarios nao precisam de treinamento para usar um App, construimos uma interface simples para testar este trabalho proposto. Primeiro,
+o usuario pode realizar login ou cadastro. Na tela inicial, o usuario pode inspecionar ou visualizar as imagens coletadas na galeria. Se o usuario decidir inspecionar, com um toque no
+botao "ShowARObject", o objeto AR e exibido na UI. Alem disso, podemos salvar a imagem como uma nova doença no MD.
+
+Para desenvolver este aplicativo, usamos flutter e o executamos em um Samsung Galaxy Tab S6 Lite. Embora flutter nao seja uma linguagem Android nativa, ele teve um bom desempenho neste contexto, seguindo
+
+o guia de usabilidade heuristica de Nielsen. Realizamos 30 execuçoes seguindo os passos: Identificar a doença na fruta; Pressione o botao "ShowARObject" e Visualize o objeto AR no
+tela do dispositivo. A Figura 2 mostra algumas prediçoes feitas pela IA e o AR correspondente.
+
+Assim, o tempo medio para cada objeto AR renderizar na tela do dispositivo e
+aproximadamente 1,5 segundos. Este valor e a diferença entre tocar no botao
+"ShowARObject" e o momento em que o objeto aparece na tela AR.
+
+Garantimos testar o dispositivo no modo aviao e somente com este App em execuçao.
+Assim, de acordo com a Visibilidade do Status, o App responde em um tempo de percepçao do usuario aceitavel
+intervalo. Em relaçao a correspondencia entre o sistema e o mundo real, colocamos
+textos e icones padrao. Passo necessario para que o usuario nao tenha dificuldades em usar o
+Aplicativo. Ha tambem o controle e a liberdade de voltar atras, desfazer ou cancelar a açao no App.
+Finalmente, o usuario decide salvar ou descartar a imagem coletada. Açao que se torna
+possivel devido ao uso da ferramenta AR centrada no ser humano.
+
+**CONCLUSAO**
+
+Neste trabalho, propomos uma nova forma de aplicar AR com interaçao Humano-Maquina em um
+MD inteligente para inspecionar laranjas. Este App mostra a importancia da interaçao do usuario com
+o App e a fruta para a inspeçao de laranjas. Considerando que a inspeçao deve
+ser realizada em toda a superficie do fruto, o usuario precisa girar a laranja no
+tempo de inspeçao. Desta forma, o sistema coloca a experiencia do usuario no centro, interagindo
+com o MD.
+
+Finalmente, este App AR inteligente com interaçao Humano-Maquina integrado ao
+o MD permite uma inspeçao citrica interativa e inteligente. Assim, ajudando os produtores de citricos
+na tarefa de inspecionar laranjas, tendo o usuario como componente para todo o funcio-
+namento de todo o sistema.
+
+**CONSIDERAÇOES FINAIS**
+
+Este artigo apresenta uma nova abordagem para inspecionar laranjas usando realidade aumentada com foco na interaçao humano-maquina. Essa soluçao coloca a experiencia do usuario no centro do processo, permitindo uma inspeçao interativa e inteligente das frutas. A ferramenta desenvolvida tem o potencial de auxiliar os produtores de citricos na identificaçao de doenças e pragas, contribuindo para a melhoria da qualidade e produtividade das colheitas.

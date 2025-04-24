@@ -1,0 +1,160 @@
+**RESUMO**
+
+Libras e a lingua natural e legal das pessoas S/surdas no Brasil, a
+partir da qual se comunicam e desenvolvem a sua identidade sociocultural. O
+aprendizado da lingua portuguesa por pessoas S/surdas e desafiador, mas ne-
+cessario por ser a escrita oficial do pais. Apresentamos um framework para o
+codesign de Tecnologia Assistiva com e para pessoas das Comunidades Surdas.
+Para valida-lo, conduzimos como estudo de caso o codesign de um ambiente
+para apoiar o ensino-aprendizagem da lingua portuguesa como segunda lingua
+de pessoas S/surdas. Nossa principal contribuiçao e a documentaçao das ativi-
+dades do framework, que ao serem adaptadas para a diversidade propiciou um
+ambiente criativo e empatico por meio do compartilhamento de experiencias.
+
+
+**INTRODUCAO**
+
+A lingua de sinais e a forma natural pela qual as Comunidades Surdas desenvolvem as
+suas identidades socioculturais, sendo a Lingua Brasileira de Sinais (Libras) a primeira
+lingua (L1) e o meio legal de comunicaçao e expressao . A aquisiçao da
+lingua portuguesa por cidadaos S/surdos e como segunda lingua (L2), pois e o meio de
+comunicaçao majoritario no Brasil. Quando adquirida com qualidade e respeito as habili-
+dades das pessoas S/surdas, a escrita se torna uma aliada na luta contra injustiças sociais,
+uma vez que historicamente as pessoas S/surdas nao tiveram seus direitos totalmente respeitados .
+
+No entanto, a aquisiçao da lingua portuguesa envolve varios desafios: imposiçao
+historica da linguagem oral como meio natural de comunicaçao , de-
+pendencia de interpretes de Libras , a falta de materiais edu-
+cacionais adequados  e diferenças gramaticais entre a lingua
+de sinais e a escrita . As consequencias da aquisiçao tardia sao obser-
+vadas na discrepancia entre a idade escolar e as habilidades de escrita, leitura e demais
+disciplinas, baixo rendimento em exames de ingresso ao Ensino Superior publico e na
+desigualdade no mercado de trabalho .
+
+Buscando combater essa injustiça social, propomos um framework para o code-
+sign de Tecnologia Assistiva (TA) com e para membros de Comunidades S/surdas. O
+framework e principalmente embasado em tres bases teoricas: o Design Socialmente
+Consciente (DSC) , o Ciclo de Adoçao de Tecnologia Assistiva
+(CAAT) , o ciclo de Interaçao Humano-Computador (IHC)
+, alem de tambem se apoiar em outros estudos sobre TA e estrategias
+de aquisiçao da lingua portuguesa como L2 . Para validar o framework, con-
+duzimos um estudo de caso sobre um ambiente para apoiar o processo de aprendizagem
+da lingua escrita, como L2, para pessoas S/surdas usuarias da lingua de sinais.
+
+Neste artigo, relatamos e discutimos os resultados compreendendo algumas ativi-
+dades da Fase 2 e as atividades da Fase 3 do framework proposto, as quais sao brevemente
+descritas na Seçao 2. Respondemos tres questoes de pesquisa: (1) Como uma tecnica de
+brainstorming funciona com um grupo de codesigners que inclui pessoas que usam di-
+ferentes tipos de linguas? (2) Como a modelagem da interaçao pode ajudar a combinar
+ideias? (3) Quao util e a tecnica do prototipo em video para avaliar conceitos de design?.
+Nossas contribuiçoes abrangem a conduçao do framework considerando a escassez de re-
+cursos e a adaptaçao de tecnicas para a diversidade de linguas e niveis de conhecimento
+dos participantes, que de forma colaborativa e criativa geraram ideias e soluçoes.
+
+**METODOLOGIA**
+
+Nossa proposta de framework consiste em quatro fases: Explorar e Entender (Fase 1)
+agrupa as fases de desenvolvimento do CAAT, de identificaçao de necessidades do ciclo
+de IHC e de conhecer elementos da camada informal do DSC. Essa fase inclui cinco ati-
+vidades de pesquisa: (1.1) workshop semio-participativo, (1.2) entrevistas semiestrutu-
+radas e questionarios, (1.3) construçao de personas, (1.4) workshop semio-participativo, e
+(1.5) elicitaçao de requisitos; Projetar e Desenvolver (Fase 2) inclui as fases de seleçao e
+aprendizagem do CAAT, de (re)design e prototipagem do ciclo de IHC e de consideraçao
+de elementos das camadas formal e tecnica do DSC. A Fase 2 abrange nove atividades:
+(2.1) seleçao de tecnologias correlatas, (2.2) diferentes avaliaçoes das tecnologias seleci-
+onadas, (2.3) analise e modelagem de agentes e comportamentos no dominio com o Dia-
+grama de Ontologia, (2.4) categorizaçao dos requisitos em aspectos tecnologicos e sociais
+com a Escada Semiotica, (2.5) com codesigners, piloto de workshop semio-participativo
+com o Braindraw, (2.6) com codesigners, workshop de brainstorming para prototipagem
+e classificaçao de requisitos de acordo com o nivel de importancia, (2.7) modelagem de
+interaçao com o Linguagem de Modelagem para Interaçao como Conversa (MoLIC), (2.8)
+prototipagem e (2.9) revisao da modelagem de interaçao (executada apos a atividade 3.1);
+Avaliar (Fase 3) combina conceitos das fases de integraçao do CAAT, de avaliaçao do ci-
+clo de IHC e da consideraçao de elementos da camada tecnica do DSC. A Fase 3 consiste
+em uma atividade: (3.1) realizaçao de diferentes avaliaçoes dos prototipos; e, Monito-
+
+rar (Fase 4) fundamentada na fase de integraçao do CAAT. Neste artigo, os resultados
+apresentados se referem aqueles obtidos a partir das atividades 2.5, 2.6, 2.7, 2.8, 2.9 e 3.1.
+
+**RESULTADOS**
+
+Os participantes foram recrutados com base nos resultados da atividade 1.1, em que
+pessoas da Comunidade S/surda identificaram potenciais codesigners da pesquisa. O
+objetivo da Fase 2 foi projetar o ambiente de aprendizagem e as atividades 2.5 e 2.6
+consistiram em dois workshops, sendo um piloto utilizando a tecnica Braindraw com
+tres participantes, seguido pelo workshop de brainstorming com seis participantes. No
+inicio de cada workshop, apresentamos a metodologia pedagogica Numeros Semanticos
+ como inspiraçao para os codesigners.
+
+Utilizando o Braindraw, os participantes foram solicitados a ilustrar uma inter-
+face de um ambiente futurista para o processo de aprendizagem da Libras. Entretanto,
+adaptamos o artefato para que os participantes se sentissem mais confortaveis durante o
+workshop, permitindo que desenhassem cenarios em vez de projetar interfaces. Neste
+workshop a ideia mais votada foi a que incluia um tutor holografico. No workshop se-
+guinte de brainstorming, o objetivo foi gerar ideias e designs alternativos, permitindo que
+os participantes escrevessem ou desenhassem suas historias e apresentassem suas ideias.
+Neste workshop a proposta de tecnologia tangivel obteve a maioria dos votos. Apos a
+votaçao, os participantes tambem classificaram e discutiram requisitos elicitados em eta-
+pas anteriores, de forma a entendermos a relevancia dos resultados para a Comunidade.
+
+Na Atividade 2.7, utilizamos a MoLIC para entendermos as interaçoes como con-
+versa entre os codesigners e o preposto do designer no nosso ambiente de aprendizagem,
+modelados a partir das ideias geradas em atividades anteriores. Apos, utilizamos a tecnica
+de prototipagem em video para representar a ideia conceitual proposta pelos codesigners,
+de forma a utilizar efeitos visuais e criar um prototipo que poderia ser reproduzido facil-
+mente varias vezes. Para construir o prototipo, geramos um cenario de uso, um roteiro
+das cenas e reunimos os materiais para a gravaçao e a simulaçao dos objetos tangiveis.
+
+A Atividade 3.1 consistiu na avaliaçao do prototipo com seis participantes, que
+responderam tres perguntas: (1) Qual foi a sua compreensao da proposta? (2) Quais sao
+os aspectos positivos da proposta?; e, (3) Quais sao os aspectos negativos da proposta?.
+Quatro participantes responderam que a proposta e um ambiente de aprendizagem e que
+ele suportava a construcao e a ordenaçao de frases. No entanto, um dos participantes re-
+latou a proposta e um meio de comunicacao, enquanto para outro participante a ideia nao
+ficou clara. Quanto aos aspectos positivos, os participantes listaram interatividade, prati-
+cidade, uso de objetos concretos, facilidade de uso e acessibilidade como caracteristicas
+proeminentes do prototipo. Em relacao aos aspectos negativos, um participante respondeu
+que o uso de letras em ordem alfabetica pode retardar a composicao das palavras, porque
+as pessoas estao mais familiarizadas com a sequencia apresentada nos teclados QWERTY.
+Entre as sugestoes estao a integraçao de corretor ortografico e a sugestao de palavras, e a
+composiçao de palavras por meio da reorganizacao dos objetos tangiveis ao inves de criar
+links entre eles. Entretanto, um participante destacou que conectar os objetos por meio de
+linhas pode ajudar pessoas com mobilidade reduzida.
+
+Com os resultados da avaliacao aprimoramos o prototipo, aplicando novamente a MoLIC7 para modelar as sugestoes e ideias dos participantes. Em contraste com a primeira versao do Diagrama de Interacao, na qual a leitura biometrica estava incorporada ao tutor holografico, nessa nova versao, a leitura foi alterada para ser acessada em dispositivos separados, para que o usuario pudesse usar um smartphone. Apos o login no sistema, que na versao anterior apresentava a atividade para o estudante, foi alterado para incluir duas barras de navegacao: a primeira com funcionalidades que o usuario pode acessar a qualquer momento, e a segunda com tres opcoes para iniciar uma atividade (tais como atividade em andamento, cronograma de estudos e correcoes).
+
+**CONCLUSAO**
+
+Sobre a primeira questao de pesquisa, no workshop de brainstorming, a etapa individual
+possibilitou que cada codesigner refletisse e gerasse ideias a partir de suas experiencias
+enquanto estudante, o que aumentou a confianca e a criatividade. Quando a troca de co-
+nhecimentos começou, percebeu-se facil para os codesigners explicarem suas ideias e as
+relacionarem as suas proprias experiencias, de modo que os outros pudessem se iden-
+tificar e tambem entender diferentes pontos de vista. Ao focar nas experiencias e nao
+no design da interface, conseguimos aumentar a empatia e superar a barreira da diversi-
+dade de linguas entre os codesigners. No entanto, ao discutir nossas percepçoes apos os
+workshops, observamos que o uso de materiais concretos e visuais, como desenhar em um
+quadro ou usar post-its, emojis e imagens, pode estimular a criatividade e a colaboraçao.
+
+Em relaçao a nossa segunda questao de pesquisa, o uso da MoLIC apoiou a
+organizaçao das ideias resultantes como um fluxo de conversa e nos permitiu explorar
+as possiveis interaçoes entre pessoas surdas e o ambiente de aprendizagem proposto. Ja
+o diagrama revisado demonstra como combinar em um prototipo as sugestoes e feedback
+das partes interessadas com requisitos previamente estabelecidos.
+
+Quanto a nossa terceira questao de pesquisa, concluimos que o prototipo em video
+e viavel para a avaliaçao. Aqueles que entenderam a proposta nos mostraram como pode-
+mos melhorar os aspectos educacionais e de interaçao, ja os que tiveram dificuldade em
+entender a proposta nos mostraram como podemos melhorar a aplicaçao da tecnica. Os
+resultados da avaliaçao mostram que a ideia estimula a aprendizagem, e inedita, atraente
+e eficaz, uma vez que incorpora uma metodologia pedagogica .
+
+Em resumo, apresentamos tres principais contribuicoes: (1) o codesign, desde a concepcao ate a prototipagem e a avaliacao, de um ambiente para apoiar a educação bilıngue para usuarios de lıngua de sinais; (2) experiencias de um workshop em que participantes surdos e ouvintes colaboraram para prototipar ideias, o que nos levou a adaptar
+tecnicas e artefatos para a diversidade; e (3) a aplicacao da tecnica de prototipagem de vıdeo para ilustrar e avaliar uma proposta conceitual. Embora nosso foco neste artigo seja
+a TA para apoiar a aprendizagem de lıngua portuguesa como L2 para pessoas S/surdas
+usuarias da Libras, nossa metodologia e descobertas podem apoiar estudos relacionados a alfabetizacao de outras lınguas de sinais com outras lınguas faladas-escritas, como a
+Lıngua de Sinais Mexicana (LSM) e o espanhol. Como trabalho futuro, pretendemos projetar uma implementacao completa do ambiente de aprendizagem e registra-la como um produto, e realizar a Fase 4 do framework para consolida-lo como uma metodologia.
+
+**CONSIDERACOES FINAIS**
+
+Neste estudo, foi possivel adaptar tecnicas de codesign para a criacao de um ambiente que visa apoiar o aprendizado da lingua portuguesa para pessoas S/Surdas. Ao envolver a comunidade S/Surda no processo de desenvolvimento, foi possivel criar um ambiente mais inclusivo, criativo e empatico, promovendo o compartilhamento de experiencias.

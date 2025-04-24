@@ -1,0 +1,137 @@
+**RESUMO**
+
+O Picole e um sistema multiplataforma que permite o cadas-
+tro e a administraçao de pessoas, agendas e atividades de
+instituiçoes do terceiro setor, bem como permite a autoria de
+atividades terapeuticas e pedagogicas por parte de profissio-
+nais da saude e educaçao. As atividades podem ser criadas
+por esses profissionais por meio de uma interface baseada
+em templates pre-definidos e que sao apresentados em dis-
+positivos moveis para usuarios alvo desses profissionais. As
+atividades sao ludicas e podem ser mais atrativas do que as
+atividades em papel. O sistema foi desenvolvido de modo
+participativo, com diferentes partes interessadas envolvidas
+no processo de design e avaliaçao. Atualmente o sistema esta
+em uso em uma ONG da cidade de Sao Carlos/SP. Resulta-
+dos parciais apontam relatos positivos dos profissionais que
+estao usando o sistema em suas atividades diarias.
+
+**INTRODUCAO**
+
+Soluçoes computacionais para as areas da Saude e Educaçao
+tem sido cada vez mais projetadas. Intervençoes na saude
+sao utilizadas para aprimorar o tratamento de pacientes e e
+uma alternativa para diminuir disparidades de saude entre
+grupos mais vulneraveis . Na educaçao a utilizaçao
+de dispositivos moveis no ensino a distancia e a criaçao de
+conteudo sob demanda para diferentes perfis de alunos, tem
+se mostrado eficiente no aprendizado, promovendo maior
+motivaçao e engajamento .
+
+Apesar do aumento na demanda de soluçoes para essas
+areas, nao e comum o desenvolvimento de soluçoes voltadas
+para o Terceiro Setor. Esse e um termo sociologico utilizado
+para definir organizaçoes de iniciativa privada, sem fins lu-
+crativos e que prestam serviços de carater publico . No
+Brasil esse setor se expandiu e e composto, por exemplo, de
+Organizaçoes Nao-Governamentais (ONGs). Tais organiza-
+çoes precisam de soluçoes computacionais que ajudem na
+administraçao de pessoas e atividades praticas do dia a dia.
+O que se nota, no entanto, e a carencia de sistemas gratuitos,
+personalizaveis e com interfaces intuitivas para esse setor.
+
+Este trabalho descreve o Picole, um sistema multiplata-
+forma, construido de forma participativa, e que oferece fun-
+cionalidades de cadastro de pessoas, agendas e atividades,
+alem de permitir aos profissionais da saude e da educaçao
+realizarem a autoria de atividades terapeuticas e pedagogi-
+cas. As atividades sao aplicadas com os usuarios alvo desses
+profissionais em atividades ludicas e de interaçao por meio
+de dispositivos moveis. Durante a autoria das atividades os
+profissionais podem adicionar midias de audio, imagem e
+video, bem como feedbacks e graus de dificuldade, diversifi-
+cando as atividades dos seus assistidos e personalizando as
+mesmas para as necessidades de cada individuo. O desenvol-
+vimento do sistema faz parte das atividades previstas em um
+projeto de extensao realizado no Departamento de Computa-
+çao da Universidade Federal de Sao Carlos em parceria com
+a empresa de tecnologia TokenLab.
+
+As seçoes a seguir descrevem como o Picole tem sido
+desenvolvido e as atividades de design e avaliaçao conduzidas
+no escopo do projeto.
+
+**METODOLOGIA**
+
+O sistema Picole foi desenvolvido com o apoio de profissio-
+nais da saude, educaçao e do administrativo da organizaçao
+sem fins lucrativos ACORDE. A ACORDE assiste crian-
+ças e adultos com problemas de saude mental, oferecendo
+atividades terapeuticas e pedagogicas. Educadores fisicos,
+pedagogos, fonoaudiologos, entre outros profissionais, par-
+ticiparam de atividades praticas de design e avaliaçao das
+duas vertentes do sistema (Web e mobile) e colaboraram na
+construçao interfaces intuitivas e simples para as atividades
+ali conduzidas. O objetivo do uso do sistema era reduzir a
+quantidade de papeis utilizados no controle de dados e permi-
+tir a introduçao de tecnologia na formaçao e tratamento dos
+assistidos. Buscou-se ainda apoiar as atividades de campo dos
+profissionais e emitir relatorios de desempenho dos assistidos.
+Um time de desenvolvimento foi organizado e empregou-se
+a metodologia Scrum, adaptada para o ambiente academico,
+com Sprints mensais e com weeklies no lugar de dailies.
+
+A interface Web e focada na inserçao de dados no sistema.
+Entre as funcionalidades oferecidas estao os cadastros de
+funcionarios, assistidos, eventos e escalas. A interface mobile,
+por sua vez, permite a autoria de atividades interativas ou
+passivas, ambas personalizaveis. As interativas permitem
+que os assistidos interajam com as atividades criadas pelos
+profissionais, enquanto na passiva o assistido pode apenas
+visualizar o conteudo criado. A Figura 1 ilustra a primeira
+etapa da criaçao das atividades. Atualmente, tres tipos de
+atividades estao disponiveis para a autoria: combinaçao de
+cores, montagem de silabas e identificaçao de sons por ima-
+gens. Essas foram as principais atividades solicitadas pelos
+profissionais na etapa de design e o template seguiu suges-
+toes desses profissionais. Na atividade de cores o profissional
+escolhe as cores, a combinaçao final, as imagens que repre-
+sentarao essa combinaçao e se havera feedback ou nao para
+o assistido (vide Figura 2).
+
+Profissionais do administrativo e as pedagogas da institui-
+çao tem usado o sistema em suas atividades diarias e repor-
+tado ao time de desenvolvimento o feedbacks para o aperfei-
+çoamento do sistema. As interfaces tambem passaram pela
+analise de pesquisadores da IHC, bem como pelo time de
+designers da empresa TokenLab.
+
+**CONCLUSAO**
+
+O projeto Picole e uma iniciativa de uma empresa privada
+em parceria com a universidade, e oferecer soluçoes com-
+putacionais para instituiçoes do terceiro setor. Ao longo do
+projeto os alunos envolvidos vivenciaram situacoes reais
+de atividades envolvendo clientes, prazos, controle de qualidade e metodologias ageis. As instituicoes sao beneficiadas
+com aplicativos de apoio as suas atividades diarias. A metodologia participativa adotada permitiu maior engajamento
+entre as partes interessadas e representa uma estrategia para
+aumentar a adesao no uso das solucoes.
+A possibilidade de criar atividades personalizadas e usando
+dispositivos moveis tem recebido feedback positivo dos profissionais da ACORDE, isso porque a autoria permite trabalhar
+as necessidades de cada um de forma mais efetiva e pontual.
+Uma das pedagogas relatou: "Eu achei interessante ter a possibilidade de elaborar a atividade envolvendo o tema que eu ja
+havia planejado. A atividade de silabas ficou atrativa pra eles,
+pois estamos trabalhando musicas e decoracao junina.".
+Em razao dos feedbacks colhidos com a comunidade em
+eventos, ha atualmente um esforco em deixar a solucao mais
+generica e nao associada a uma instituicao especifica, assim
+pessoas fisicas podem usar para criar atividades e aplicar
+com individuos de seu interesse.
+Para a comunidade de IHC este trabalho representa uma
+inicativa no sentido de apoiar a formacao de alunos mais
+conscientes do papel social que as solucoes tecnologicas deve
+ter e, da importancia de se projetar de forma participativa.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o projeto Picolé representa um avanço significativo no desenvolvimento de soluções computacionais para instituições do terceiro setor. A metodologia participativa adotada, que envolveu profissionais da saúde, educação e da própria organização ACORDE, demonstrou ser fundamental para garantir a relevância e a usabilidade do sistema. O Picolé, ao oferecer funcionalidades de cadastro, gerenciamento e autoria de atividades terapêuticas e pedagógicas, contribui para aprimorar o trabalho dos profissionais e proporcionar um atendimento mais personalizado e eficiente aos assistidos. Além disso, o projeto destaca a importância da colaboração entre a universidade e o setor privado para o desenvolvimento de soluções inovadoras e com impacto social positivo.

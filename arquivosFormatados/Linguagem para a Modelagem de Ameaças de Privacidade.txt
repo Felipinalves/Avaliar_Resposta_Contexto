@@ -1,0 +1,84 @@
+**INTRODUCAO**
+
+As Redes Sociais Online (RSOs) tornaram-se um dos principais fenomenos tecnologicos
+da Web, ganhando uma popularidade eminente entre seus usuarios. Atualmente, essas pla-
+taformas fornecem diversas funcionalidades e serviços que atraem cada vez mais usuarios.
+Por exemplo, permitem analisar dados e correlacionar as preferencias dos usuarios para
+fornecer serviços avançados e personalizados. Com isso, podem recomendar amigos ou
+interesses em comum com base nas informaçoes extraidas dos perfis e atividades dos
+usuarios, como preferencias, navegaçao diaria, entre outros .
+
+Com a popularidade mundial dos serviços de RSOs, as pessoas passaram a de-
+dicar tempo e esforço para manter e manipular sua identidade online nesses sistemas.
+A medida que os usuarios confiam cada vez mais nessas aplicaçoes para suas ativida-
+des de comunicaçao, o processamento de dados pessoais por meio dessas redes tem
+exposto os usuarios a diversos tipos de ameaças de privacidade . Uma ameaça de privacidade e um evento indesejavel
+potencial ou real que pode causar divulgaçao, exposiçao e uso indevido de dados priva-
+dos do usuario . Sua consequencia e a
+violaçao de privacidade, onde dados pessoais sao divulgados a individuos ou entidades
+nao autorizados, para fins maliciosos .
+
+Uma estrategia para tratar as questoes mencionadas e antecipar a preocupaçao
+com a privacidade para as etapas que antecedem o desenvolvimento de aplicaçoes sociais.
+Na area de Interaçao Humano-Computador (IHC), diferentes tecnicas apoiam o design de
+sistemas, tais como a criaçao de personas, modelagem de tarefas, modelagem de interaçao
+e construçao de mockups . Entretanto, essas propostas genera-
+listas nao possuem caracteristicas especificas para tratar ameaças de privacidade em nivel
+de design. Tecnicas tradicionais de segurança previamente estabelecidas podem oferecer
+suporte a antecipaçao da preocupaçao com ameaças nos estagios iniciais do desenvolvi-
+mento de sistemas. Uma tecnica amplamente usada nesse contexto e a modelagem de
+ameaças.
+
+Diante disso, este trabalho apresenta a PTMOL (Privacy Threat Modeling Language), uma linguagem para a modelagem de ameacas em RSOs, com foco na privacidade do usuario [Rodrigues et al. 2023b]. Esta linguagem foi desenvolvida a partir de 
+evidencias coletadas na literatura e foi avaliada empiricamente por meio um conjunto 
+de estudos empıricos. A PTMOL permite a busca antecipada por ameacas as quais um usuario podera esta exposto e quais controles de privacidade uma RSO precisa definir para reduzir os efeitos e consequencias dessas ameacas. A linguagem pode ser incorporada ao desenvolvimento de RSOs durante a fase de design e pode auxiliar designers e engenheiros de software a introduzir modelagem de ameacas em seus projetos, sem exigir um alto
+nıvel de especialidade na area de privacidade.
+
+**PRIVACY THREAT MODELING LANGUAGE - PTMOL**
+
+A PTMOL e uma linguagem de apoio a modelagem de ameaças de privacidade em nivel
+de design. Trata-se de uma linguagem porque pode ser utilizada para expressar o conheci-
+mento em uma estrutura que e definida por um conjunto consistente de regras. Com isso,
+permite que designers de RSOs identifiquem possiveis ameaças de privacidade, suas con-
+sequencias e como elas podem ser mitigadas. Para realizar esse suporte, a PTMOL possui
+recursos para o design de ameaças e permite gerar um modelo de ameaças como parte
+do design. Por ser uma linguagem, a PTMOL e formada pelos seguintes componentes:
+(a) um vocabulario; (b) a sintaxe; e (c) a semantica. O vocabulario e a coleçao de todas
+as palavras a disposiçao do designer que podem ser usadas no processo de modelagem.
+A sintaxe e o conjunto consistente de regras da linguagem, indicando como elas podem
+ser empregadas durante o processo de modelagem. Por fim, a semantica refere-se ao sig-
+nificado associado aos elementos da linguagem. Quanto ao seu vocabulario, a PTMOL
+possui os seguintes termos:
+
+Ativo. Atributo relacionado ao alvo (usuario) que possui um valor pessoal.
+Ameaça. Uma situaçao indesejada que pode colocar em risco os ativos do usuario.
+Fontes de vazamento. Fontes que operam dentro ou fora do sistema para violar a privacidade do usuario.
+Usos maliciosos. Descreve os usos maliciosos previstos que podem afetar a pri-vacidade do usuario.
+Alerta de prevençao. Alerta do sistema para informar os usuarios sobre qualquer açao que pode causar violaçoes graves para a sua privacidade.
+Contramedida. Açoes do sistema para mitigar ameaças de privacidade executa-das pelas fontes de vazamento.
+Zona de compartilhamento. Representa um espaço do sistema onde os ativos do usuario podem ser compartilhados ou coletados.
+Zona de risco. Representa um espaço do sistema no qual pode ocorrer ameaças de privacidade.
+Zona de vazamento. Representa a porta de acesso indevido aos dados privados do usuario.
+
+Com base no vocabulario da PTMOL, criou-se um conjunto de elementos e regras que determinam a sintaxe da linguagem. Esses elementos e seus relacionamentos sao ilustrados na Figura 1, agrupados segundo a sua zona: zona de compartilhamento, zona de risco e zona de vazamento. Tais elementos podem ser utilizados ao final do processo para gerar o modelo de ameacas resultante da modelagem.
+Para apoiar o processo de modelagem de ameacas, a PTMOL dispoe de um conjunto de recursos. O primeiro recurso estabelecido e o catalogo de ameacas, o qual descreve as ameacas mais criticas para a privacidade do usuario. Esse catalogo de ameacas e um recurso de grande valor, pois ajuda o designer a refletir sobre quais cenarios de ameaca um usuario esta potencialmente exposto. Um segundo recurso previsto e a taxonomia de contramedidas, que pode ser utilizada para prevenir ou mitigar os efeitos das ameacas.
+Apos entender um possivel cenario de ameacas ao qual o usuario podera estar exposto, a PTMOL possibilita que o designer defina trechos da sua modelagem de ameacas a partir de padroes, ou templates, integrados a linguagem, de modo que sua compreensao sobre o problema e possiveis solucoes se amplie.
+O processo de aplicacao da PTMOL permite dividir um processo complexo em tarefas menores, facilitando a identificacao de todo o cenario de ameacas. Assim, para iniciar a modelagem de ameacas via template, o designer tera que seguir um conjunto atividades para identificar: (i) o que e necessario proteger do usuario (ativos), (ii) quais eventos indesejaveis (ameacas) podem ocorrer e colocar em risco os ativos do usuario; e (iii) quais estrategias adotar (contramedidas) para prevenir ou mitigar os efeitos das ameacas aos dados do usuario.
+
+**VALIDACAO EMPIRICA**
+
+Durante o desenvolvimento da PTMOL, testamos a linguagem por meio de um con-junto de estudos empiricos. Inicialmente, dois estudos experimentais foram executadospara avaliar a completude, a corretude, a produtividade, a facilidade de uso, utilidade,satisfaçao percebida e intençao de uso futuro da PTMOL. Os resultados desses estudosestao disponiveis em [Rodrigues et al. 2022, Rodrigues et al. 2023b].
+
+A analise quantitativa dos estudos indicou bons resultados para a corretude e com-pletude do processo de modelagem de ameaças da PTMOL. Os resultados para os indi-cadores de utilidade e facilidade de uso foram, no geral, positivos. Por se tratar de umamodelagem conceitual destinada para ser aplicada em nivel de design, os resultados pro-duzidos pela equipe de design precisam ser detalhados o suficiente para garantir umainterpretaçao de qualidade do cenario de ameaça sob analise. Alem disso, os resultadosdo segundo estudo tambem apontaram indicios de que a PTMOL e aplicavel ate mesmopor profissionais nao especialistas em privacidade, pois todos os participantes consegui-ram mapear cenarios de ameaças mesmo nao tendo conhecimento tecnico.
+
+Uma vez que os resultados obtidos com os estudos anteriores indicaram a validadee viabilidade da PTMOL, realizou-se um terceiro estudo com o objetivo de compreendero modo com que possiveis designers de sistemas aplicariam o processo de modelagem deameaças da PTMOL. Os resultados do estudo foram positivos, uma vez que forneceraminsights relevantes para melhorar a qualidade da PTMOL.
+
+Por fim, um ultimo estudo foi realizado com proposito de examinar a confiabi-lidade dos resultados produzidos pelo processo de modelagem proposto pela PTMOL.Para isso, a PTMOL teve que competir com especialistas em privacidade. Nesse sen-tido, sete especialistas foram solicitados a detectar ameaças de privacidade usando seusproprios procedimentos e esses resultados foram comparados com os da PTMOL, taisresultados estao disponiveis em [Rodrigues et al. 2023a]. Os resultados obtidos nesse es-tudo indicaram que a PTMOL alcançou uma cobertura satisfatoria comparativamente aodiagnostico de ameaças produzido pelos participantes especialistas, atingindo 100% deconfiabilidade. Alem disso, especialistas em privacidade podem utilizar a PTMOL comoum suporte para evitar lacunas em suas atividades ad hoc de identificaçao de ameaças.
+
+**CONCLUSAO**
+
+Este trabalho apresentou a PTMOL (Privacy Threat Modeling Language), uma lingua-gem de apoio a modelagem de ameaças de privacidade orientada a RSOs. A linguagemsuporta visa apoiar a busca antecipada por ameaças as quais um usuario podera esta ex-posto e quais controles de privacidade uma RSO precisa definir para reduzir os efeitos econsequencias dessas ameaças. A linguagem foi avaliada por meio da conduçao de umconjunto de estudos empiricos que permitiram realizar seus procedimentos de validadee confiabilidade. Os resultados dos estudos indicam que o emprego da linguagem e po-tencialmente util para a identificaçao de ameaças reais de privacidade devido ao caraterexploratorio e reflexivo da mesma. Portanto, a PTMOL pode ser incorporada ao desen-volvimento de RSOs durante o nivel de design e pode auxiliar projetistas e engenheiros desoftware a introduzir modelagem de ameaças em seus projetos, sem exigir um alto nivelde especialidade na area de privacidade.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, a PTMOL se apresenta como uma ferramenta promissora para auxiliar no processo de modelagem de ameaças de privacidade em redes sociais online. Sua capacidade de identificar ameaças reais e de ser utilizada por profissionais com diferentes niveis de especialidade na area a tornam uma opçao relevante para o desenvolvimento de sistemas mais seguros e confiiaveis em termos de privacidade.

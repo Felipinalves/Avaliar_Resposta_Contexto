@@ -1,0 +1,380 @@
+**RESUMO**
+
+O objetivo do presente artigo e avaliar a usabilidade e a
+experiencia do usuario do aplicativo ubiquo Hidrate Spark,
+desenvolvido para apoiar a ingestao diaria de agua. Para
+isso, um conjunto de metodos foi utilizado, a fim de
+enfrentar o desafio de avaliar a qualidade de uso de
+sistemas ubiquos. Os resultados mostram os problemas que
+podem prejudicar a interacao do usuario com o aplicativo.
+
+**INTRODUCAO**
+
+Considerando que o tema da competicao de avaliacao foi
+avaliar como a tecnologia pode apoiar as pessoas nos
+cuidados diarios com a saude, escolhemos avaliar a
+usabilidade do sistema Hidrate Spark, o qual possui
+integracao com uma garrafa inteligente. O aplicativo e a
+garrafa compoem um sistema ubiquo, desenvolvido para
+auxiliar os usuarios no seu monitoramento diario de
+ingestao de agua, o que nos motivou para a escolha do
+aplicativo, visto que avaliar a qualidade de uso de um
+sistema ubiquo nao e uma tarefa trivial, considerando que
+esse dominio de sistema interativo apresenta caracteristicas
+especificas em comparacao com sistemas tradicionais (e.g.,
+desktop e web), tais como: sensibilidade ao contexto,
+mobilidade e transparencia . Alem disso, o aplicativo foi
+escolhido porque possui versoes gratuitas disponiveis nas
+lojas virtuais da plataforma Android (Play Store) e iOS
+(App Store), e por disponibilizar um forum de discussao para os usuarios relatarem os problemas encontrados.
+
+O numero de usuarios (2517 somente na plataforma
+Android) mostra que o aplicativo e relevante para
+determinadas pessoas e favorece a aplicacao de alguns
+metodos de avaliacao. Atraves da escala de 1 a 5 estrelas,
+os usuarios avaliaram o aplicativo com valor 3.6 na Play
+Store e 3.0 na App Store , e a garrafa recebeu avaliacao 3.2
+na Amazon (e-commerce onde a garrafa pode ser
+adquirida). Esses dados foram obtidos no dia 10 de Junho
+de 2018 e comprovam a necessidade de uma avaliacao, a
+fim de melhorar a qualidade de uso dos aplicativos.
+
+E importante ressaltar que os aplicativos disponiveis para
+ambos os sistemas operacionais possuem as mesmas
+funcionalidades, permitindo a identificacao de problemas
+de usabilidade existentes nos dois aplicativos ou apenas em
+um deles. Essa relacao entre os aplicativos e comprovada
+pelo seguinte comentario de um usuario:
+
+"Adoro essa garrafa e uso desde quando tinha um iPhone.
+Porem estou tendo problemas no Android desde que troquei
+de celular. Hora nao sincroniza, hora da crash ao abrir o
+app. Gostaria de uma ajuda pra solucionar isso." (Fonte:
+Play Store).
+
+Considerando essas questoes, e considerando que a forma
+de interacao com esses sistemas muda em relacao aos
+sistemas convencionais  o objetivo deste artigo e avaliar
+a usabilidade e a experiencia do usuario (UX, do ingles
+User eXperience) do Hidrate Spark.
+
+Para avaliar a usabilidade desses sistemas, e preciso
+considerar caracteristicas especificas em comparacao com
+sistemas tradicionais, tais como: sensibilidade ao contexto,
+mobilidade, calma e transparencia . Alguns trabalhos
+investigaram como os metodos tradicionais de avaliacao de
+usabilidade estao sendo usados para avaliar sistemas
+ubiquos. Bonifacio et al.  mostraram possibilidades para
+adaptar metodos de inspecao para avaliacao da usabilidade
+de sistemas moveis e web, e dentre eles, as Heuristicas de
+Nielsen sao as mais usadas. Rocha et al.  proposeram
+Heuristicas Ubiquas para avaliar a usabilidade de sistemas
+ubiquos, denominadas HUBIS, fundamentadas no metodo
+de Nielsen.
+
+Para avaliar a UX utilizamos o MALTU , um modelo
+que analisa os comentarios sobre usabilidade e UX a partir
+de postagens em um sistema social. Em relacao a
+usabilidade, usamos o MALTU, alem do Teste de
+Usabilidade  e a Avaliacao Heuristica com regras
+adaptadas para Sistemas Ubiquos . O Teste de
+Usabilidade tambem foi usado para coletar a opiniao dos
+usuarios.
+
+HIDRATE SPARK 2.0 APLICATIVO E GARRAFA
+
+A Hidrate Spark 2.0 e uma garrafa de agua inteligente com conexao bluetooth que visa ajudar o usuario a ter uma hidratacao adequada, controlando, automaticamente, a sua ingestao diaria de agua. A garrafa tambem possui outros sensores que calculam a quantidade de agua ingerida, sao eles: microprocessador, e memoria para conexao e armazenamento de dados. Esta garrafa possui capacidade de 710 mililitros mL.
+
+Para comecar a usar a garrafa, primeiramente, e preciso fazer o download do aplicativo na App Store ou Play Store. Em seguida, deve-se criar um cadastro perfil no aplicativo, inserindo informacoes como peso, data de nascimento, nivel de atividade fisica e proposito de uso. Tendo um perfil cadastrado, o aplicativo calcula a meta diaria de ingestao de agua especifica para cada usuario, que pode ser personalizada a qualquer momento, e ainda o historico de consumo de agua diario e mensal.
+
+O aplicativo em sua tela inicial Figura 1a possui um grande circulo azul com informacoes sobre a meta diaria de ingestao de agua em mL e o progresso do usuario ao longo do dia. Logo abaixo, ele mostra a porcentagem de agua que o usuario alcancou durante o dia, uma estimativa de quantas garrafas ainda precisam ser bebidas e a classificacao de desempenho dos ultimos sete dias entre o usuario e seus amigos que possuem a garrafa. Na parte superior da tela, ha informacoes basicas sobre a atividade do usuario ao longo da semana. A Figura 1b mostra a tela de historico mensal da ingestao de agua do usuario.
+
+**METODO DO ESTUDO**
+
+Para avaliar o aplicativo Hidrate Spark, considerando a sua
+comunicacao com a garrafa, foram estabelecidas quatro
+tarefas: T1 - Instalar o aplicativo e sincroniza-lo com a
+garrafa; T2 Consultar 0 consumo de agua,
+comparando o dia anterior e o atual; T3 Consultar o
+historico do consumo de agua; e T4 Alterar um dado
+do perfil do usuario (peso, altura ou nivel de atividade
+fisica), a fim de verificar se a meta diaria foi adaptada.
+Essas tarefas caracterizam as primeiras interacoes do
+usuario com o aplicativo.
+
+Os metodos aplicados durante a avaliacao se dividem em
+tres tipos: inspecao, investigacao e observacao de uso .
+Inicialmente, foi executada a Avaliacao Heuristica (metodo
+de inspecao) . Em seguida, foi aplicado o MALTU
+(metodo de investigacao) . Por fim, foi executado o
+Teste de Usabilidade (metodo de observacao de uso)  e
+uma entrevista pos-teste, a fim de coletar a opiniao dos
+usuarios sobre o uso do aplicativo e da garrafa. Os metodos
+utilizados sao apresentados nas proximas subsecoes.
+
+A Avaliação Heuristica (AH) e um metodo de inspecao
+criado para avaliar interfaces de usuario com o objetivo de
+identificar problemas de usabilidade [1,6]. Nesse metodo
+
+Na Avaliacao Heuristica, os avaliadores inspecionam uma
+interface previamente selecionada a partir de um conjunto
+de principios gerais de usabilidade ou heuristicas de
+usabilidade, e ainda classificam a severidade dos problemas
+encontrados, a fim de priorizar aqueles que sao mais graves
+para a interacao do usuario com o sistema. Por fim, os
+avaliadores se reunem para consolidar os problemas que
+serao reportados no relatorio de aplicacao do metodo .
+
+No presente artigo, foram utilizadas heuristicas ubiquas
+(HU) apropriadas para a avaliacao de sistemas ubiquos ,
+visto que as heuristicas iniciais propostas por Nielsen
+podem nao auxiliar na deteccao de problemas
+relacionados com as caracteristicas especificas desses
+sistemas, tais como: atencao, calma e transparencia .
+Sao elas:
+
+Heuristicas de Usabilidade para Avaliar Sistemas Ubiquos
+HU1 Visibilidade do status do sistema.
+Caracteristicas: Calma, Atencao e Visualizacao das informacoes.
+
+HU2 Correspondencia entre o sistema e o mundo real.
+Caracteristicas: Familiaridade, Visualizacao das informacoes, Posicionamento dos componentes, Previsibilidade, Facilidade de uso, e Usabilidade.
+
+HU3 Controle do usuario e liberdade.
+Caracteristicas: Calma, Aceitabilidade, Satisfacao do usuario, Atencao e Reversibilidade.
+
+HU4 Consistencia e Padroes.
+Caracteristicas: Usabilidade, Previsibilidade, Entrada de dados e Familiaridade.
+
+HU5 Prevencao de erros.
+Caracteristicas: Previsibilidade, Flexibilidade, Confiabilidade, Escalabilidade, Protecao e Disponibilidade.
+
+HU6 Reconhecimento ao inves de memorizar.
+Caracteristicas: Visualizacao das informacoes, Usabilidade, Previsibilidade, Calma e Atencao.
+
+HU7 Flexibilidade e Eficiencia do uso.
+Caracteristicas: Flexibilidade, Utilidade, Eficiencia e Eficacia.
+
+HU8 Estetica e Design minimalista.
+Caracteristicas: Simplicidade, Calma, Atencao e Posicionamento dos componentes.
+
+HU9 Ajude os usuarios a reconhecer, diaagnosticar e se recuperar de erros.
+Caracteristicas: Simplicidade, Calma e Aceitabilidade.
+
+HU10 Ajuda e documentacao.
+Caracteristicas: Usabilidade e Facilidade de uso.
+
+HU11 Mobilidade e dispositivos.
+Caracteristicas: Capacidade do dispositivo, Capacidade da rede, Interconectividade e Mobilidade.
+
+HU12 Privacidade e Seguranca.
+Caracteristicas: Privacidade, Protecao, Seguranca e Confianca.
+
+HU13 Invisibilidade e Transparencia.
+Caracteristicas: Transparencia e Previsibilidade.
+
+HU14 Sensibilidade ao contexto e interfaces adaptativas.
+Caracteristicas: Sensibilidade ao contexto, Adaptacao e Facilidade de uso.
+
+HU15 Sensores e entrada de dados.
+Caracteristicas: Entrada de dados e Robustez.
+
+O MALTU (Modelo para Avaliacao de interacao em
+sistemas sociais a partir da Linguagem Textual do Usuario)
+engloba dois tipos de avaliacao: usabilidade e experiencia
+de usuario (UUX) [5]. A avaliacao e feita a partir de textos
+espontaneos relacionados ao uso do sistema postados por
+usuarios em Sistemas Sociais (SS). O modelo pode ser
+utilizado de maneira manual ou automatica. Para avaliacao
+automatica existe uma ferramenta chamada de UUX-POST5
+que classifica e analisa as Postagens Relacionadas ao Uso
+(PRUs) nele inseridas. 
+
+A metodologia de avaliacao do MALTU tem como objetivo
+guiar um profissional de Interacao Humano-Computador
+(IHC) na avaliacao de um SS a partir de um conjunto de
+comentarios (PRUs). A metodologia explica as cinco
+atividades de um avaliador, representadas em etapas
+sequenciadas para avaliacao.
+
+A primeira etapa, definicao do contexto de avaliacao, e
+subdividida em tres partes: 1) contexto de uso do sistema;
+2) dominio do sistema; 3) objetivos de avaliacao. O
+contexto de uso do sistema segundo o MALTU consiste em
+definir plataforma e usuarios. Neste trabalho, o usuario foi
+definido de maneira geral como sendo: usuarios de
+dispositivos ubiquos. A maioria dos dispositivos ubiquos
+utiliza a plataforma mobile para comunicacao, dessa forma,
+fica estabelecido que o dispositivo a ser avaliado deve
+oferecer suporte a pelo menos dois sistemas operacionais
+mobile mais populares: Android e iOS. A segunda
+atividade, denominada de extracao das PRUs, pode ser feita
+de duas formas: extracao manual ou automatica. Neste
+trabalho, utilizamos a maneira manual, a qual consiste na
+coleta e armazenamento em formato CSV (Excel) das PRUS
+do forum de discussao do dispositivo. A terceira etapa
+envolve a classificacao das PRUs, que foi realizada de
+maneira manual por dois especialistas em IHC, os quais
+analisaram e classificaram as PRUs em tipos como elogio,
+critica, duvida, comparacao e sugestao. Na quarta etapa, os
+resultados devem ser organizados e exibidos obedecendo
+uma relacao logica entre eles. Deve-se gerar graficos e
+tabelas com exemplos, objetivando o melhor entendimento
+dos interessados na avaliacao. Na ultima etapa, deve-se
+relatar os resultados.
+
+O Teste de Usabilidade e um metodo de observacao de uso,
+cujo objetivo e avaliar a interacao a partir da experiencia de
+uso dos usuarios com o sistema interativo. Este metodo e
+aplicado atraves do monitoramento das acoes do usuario no
+sistema escolhido por meio de atividades previamente
+definidas. Estas tarefas possuem a finalidade de testar as
+funcionalidades-chave do sistema a partir do ponto de vista
+do usuario, com isso as tarefas agem como condutoras do
+teste .
+
+A aplicacao deste metodo segue algumas etapas : a
+primeira e a definicao de quem sao os usuarios-alvo. Em
+seguida, deve-se decidir se o teste sera executado em
+laboratorio ou no ambiente real do usuario .
+Posteriormente, e necessario definir as tarefas e metricas
+que serao abordadas e avaliadas, considerando o objetivo da
+avaliacao. Por fim, recomenda-se a aplicacao de um teste
+piloto, a fim de calcular o tempo medio para a execucao de
+cada tarefa e para validar os materiais elaborados para a
+execucao do teste, incluindo as perguntas elaboradas para a
+execucao de uma entrevista pos-teste.
+
+No presente artigo, o objetivo estabelecido para o Teste de Usabilidade foi avaliar a facilidade de aprendizado e a experiencia de uso nas primeiras interacoes com o aplicativo Hidrate Spark e sua garrafa. Os usuarios-alvo sao pessoas com idade acima de 16 anos, que se preocupam em manter habitos saudaveis, especialmente em relacao a ingestao de agua, e que possuem conhecimento basico sobre a lingua inglesa, visto que e o unico idioma disponivel no aplicativo.
+
+Para a aplicacao do teste foram estabelecidas quatro tarefas a serem executadas pelos usuarios em ambiente controlado. Sao elas: TU1 Instale o aplicativo, faca o cadastro de usuario e sincronize o dispositivo com a garrafa; TU2 Informe qual e a sua meta diaria de ingestao de agua calculada pelo aplicativo; TU3 Simule a ingestao de agua e informe quanto falta para concluir a meta diaria; e por fim, TU4 Acesse as configuracoes de perfil do usuario e altere um dado importante para o calculo da meta diaria peso, altura ou nivel de atividade fisica, e apos isso, informe qual e a sua nova meta diaria. Estas tarefas estao relacionadas com as tarefas planejadas para toda a avaliacao apresentadas anteriormente. As tarefas TU2 e TU3 nao possuem a mesma descricao da tarefa T2, porem elas estao associadas com a funcionalidade de consultar a meta diaria de consumo de agua. A tarefa T3 e a unica que nao foi solicitada aos usuarios, visto que, para a execucao dessa atividade, os usuarios precisariam usar o aplicativo e a garrafa por pelo menos dois dias.
+
+As metricas consideradas para a execucao do teste sao: i quantidade de tempo para realizar a tarefa; ii numero de vezes que o usuario solicitou ajuda; e iii quantidade de erros. Para auxiliar na analise das metricas o audio de cada participante do teste foi gravado.
+
+O roteiro do teste foi planejado e executado da seguinte maneira: inicialmente, os pesquisadores se apresentaram para os participantes. Depois, eles explicaram a proposta da garrafa e do aplicativo Hidrate Spark, e o objetivo do teste. Em seguida, foi feita a leitura do Termo de Consentimento junto com os participantes, e eles assinaram o termo. Apos isso, o teste foi aplicado, e por ultimo, foi realizada uma entrevista pos-teste.
+
+A entrevista e um metodo de investigacao bastante utilizado para conhecer fatos sobre as pessoas, permitindo a coleta de dados para analises cientificas 4. Foi aplicado apos o Teste de Usabilidade com o intuito de obter a opiniao dos usuarios apos o uso.
+
+APLICACAO DA AVALIACAO HEURISTICA
+
+A Avaliacao Heuristica foi executada considerando as tarefas definidas na secao METODO DO ESTUDO e envolveu a participacao de cinco avaliadores, que utilizaram smartphones com o sistema operacional SO Android e iOS. O nivel de experiencia dos avaliadores com este metodo e os dispositivos utilizados por cada um sao apresentados na Tabela 1. O avaliador A1 executou a inspecao em 31 dias, o A2 em 6 dias, o A3 em 4 dias e os avaliadores A4 e A5, cada um, em 2 dias. Os avaliadores identificaram um total de 33 problemas de usabilidade na interface do aplicativo, em que 17 deles foram encontrados somente no Android, 3 no iOS e os outros 13 em ambos os sistemas operacionais, como mostra a Tabela 2. E bem verdade que os avaliadores mais experientes inspecionaram o aplicativo Android. Entretanto, durante a consolidacao dos problemas, esse fato foi discutido e ficou claro que a experiencia de uso fornecida pelas duas plataformas Android e iOS e bastante distinta. As tarefas T1 e T2 apresentaram uma maior ocorrencia de problemas 11 para cada uma. Os problemas da tarefa T1, identificados apenas no Android, afetam as telas de cadastro do usuario, como e o caso em que o aplicativo nao mantem a data de nascimento quando o usuario retorna de telas posteriores para a tela de selecao da data de nascimento, apresentando um valor padrao. E os problemas referentes a tarefa T2 prejudicam o uso da tela inicial, que mostra o consumo diario de agua do usuario, como e o caso em que o usuario ficou em duvida se o aplicativo registrou o seu consumo de agua quando a garrafa nao estava posicionada em uma superficie plana, ja que ela foi usada em um veiculo em movimento.
+
+A tarefa T3 apresentou 8 problemas, que afetam as telas de historico do consumo de agua diario e mensal. Por exemplo, o grafico do consumo de agua diario mostrou que o usuario consumiu agua em um horario que ele nao ingeriu agua, de acordo com os horarios apresentados nos registros abaixo do grafico. Por fim, a tarefa T4, que esta relacionada com a tela de informacoes pessoais do usuario e com a tela inicial, apresentou apenas 3 problemas, o menor numero registrado durante a inspecao, como e o caso em que um dado importante para o calculo da meta diaria de ingestao de agua peso, altura ou nivel de atividade fisica foi editado, porem a meta so foi alterada ao reiniciar o aplicativo.
+
+Baseado na escala de severidade de Nielsen 7, foram identificados 6 problemas cosmeticos 4 no Android e 2 em ambas as plataformas, como e o caso em que o teclado do Android e escondido automaticamente quando o usuario esta digitando seu nome e decide apagar todo o texto clicando continuamente no botao de backspace. Em relacao aos problemas pequenos, foram identificados 11 problemas 5 no Android, 1 somente no iOS e 5 nas duas plataformas. Por exemplo, o caso em que o usuario esta inserindo o email e o teclado esconde o campo de senha, deixando o usuario perdido sem saber onde inserir essa informacao.
+
+Sobre os problemas grandes, foram encontrados 15 problemas 7 no Android, 2 somente no iOS e 6 em ambas as plataformas, como e o caso em que o aplicativo sincroniza o consumo de agua do usuario, mostra a informacao rapidamente e depois retira ela da tela. Em relacao aos problemas catastroficos, identificou-se apenas um problema no Android, que o ocorre na tela de finalizacao do cadastro, em que o aplicativo nao fornece uma opcao de sign in ou esqueci minha senha quando o usuario ja possui um perfil cadastrado.
+
+As heuristicas de usabilidade mais violadas foram: a HU1 Visibilidade do status do sistema com 11 problemas, em que 6 deles ocorreram somente no Android, 1 apenas no iOS e 4 em ambas as plataformas; a HU7 Flexibilidade e Eficiencia do uso com 10 problemas, em que 7 deles apareceram apenas no Android, 2 somente no iOS e 1 nas duas plataformas; e a HU4 Consistencia e Padroes com 9 problemas, em que 6 deles ocorreram somente no Android e os outros 3 nas duas plataformas. Isso comprova o fato de que o aplicativo Android possui menor qualidade de uso, visto que foram identificados mais problemas nesta plataforma em comparacao com o iOS. Essa analise tambem indica que a interface dos aplicativos nao mantem o estado do sistema e nao fornece feedback as acoes dos usuarios de forma apropriada; a completude das tarefas e prejudicada por nao haver boa eficiencia de uso; as informacoes sofrem inconsistencia; e nao sao usados padroes familiares ao usuario, que possibilitem um melhor entendimento, aprendizado e uso da interface.
+
+Considerando apenas as heuristicas mais relacionadas com as caracteristicas especificas dos sistemas ubiquos HU11-HU15, as mais violadas foram: a HU11 Mobilidade e dispositivos e a HU14 Sensibilidade ao contexto e interfaces adaptativas. Os aplicativos das duas plataformas apresentam defeitos em relacao as caracteristicas ubiquas. Essa analise tambem mostra que os aplicativos nao mantem algumas funcionalidades funcionando corretamente quando ocorre deslocamento fisico dos usuarios e que existem problemas relacionados com as propriedades dos dispositivos, como a comunicacao entre o aplicativo e a garrafa atraves do bluetooth, a capacidade de bateria do smartphone e a capacidade de memoria da garrafa. Por fim, os aplicativos nao adaptam o uso da interface a partir da mudanca de contexto dos usuarios e dos dispositivos.
+
+As caracteristicas ubiquas mais afetadas foram: Atencao, Interconectividade e Sensibilidade ao contexto 5 problemas para cada uma. Isso comprova a existencia dos problemas relacionados com a transmissao de informacoes por meio da comunicacao entre os dispositivos, e com a adaptacao das funcionalidades a partir das mudancas contextuais. Ressalta-se tambem que o usuario pode esquecer sua atividade principal ingestao adequada de agua pelo fato de se preocupar com a tecnologia envolvida no sistema ubiquo caracteristica de Atencao.
+
+A listagem completa dos problemas identificados atraves da Avaliacao Heuristica e as telas analisadas podem ser acessadas online6.
+
+APLICACAO DO MALTU
+
+Atraves do modelo MALTU foram analisadas 99 PRUs 21 foram descartadas por nao terem informacoes relevantes a analise, retiradas da plataforma Amazon.com, onde alem de ser vendida a garrafa Hidrate Spark 2.0, ha um local destinado aos compradores da garrafa, para eles opinarem sobre ela baseado na sua experiencia. Alem disso, existem comentarios de usuarios do iOS e Android. O criterio para extracao das PRUs foram comentarios que possuam ate tres estrelas atribuidas, sendo divididas em tres partes iguais. Nesses criterios, ficaram 33 PRUs com uma estrela, 33 PRUs com duas estrelas e 33 PRUs com tres estrelas. Inicialmente esses comentarios estavam em Ingles, mas sofreram uma traducao automatica pelo Google Tradutor. Quando os avaliadores tiveram duvidas quanto a traducao, a versao original foi consultada. Partindo da extracao para a classificacao, as PRUs eram categorizadas em tipo critica, elogio, duvida, comparacao, sugestao e ajuda, intencao visceral, comportamental e reflexiva, usabilidade eficiencia, satisfacao, seguranca, utilidade, memorabilidade e aprendizado e experiencia de usuario satisfacao, afeto, confianca, estetica, frustracao, motivacao e suporte.
+
+Com os resultados obtidos e possivel observar que a maioria das PRUs validas sao criticas relacionadas com a funcao principal registro do consumo de agua, conexao da garrafa com o aplicativo, bateria e a luz emitida pela garrafa. Somente 2 usuarios sugeriram algo. As PRUs tambem receberam classificacao quanto as intencoes dos usuarios, essa categorizacao mede o quanto o usuario apresenta detalhes da funcionalidade que ele esta criticando e a intensidade de sentimento. A visceral foi a que mais apareceu na classificacao em aproximadamente 70 das PRUs Tabela 3. Essa classificacao e definida com alta intensidade de sentimento e pouco detalhamento do problema. A comportamental contem media intensidade de sentimento e detalhamento representou 14.2 das PRUs. Ja a reflexiva e definida com baixa intensidade de sentimento e alto detalhamento e ficou com a mesma porcentagem da comportamental. Na categoria funcionalidades, o maior problema encontrado foi com relacao a bateria 44.8 seguido da principal funcao do sistema, que e o registro do consumo de agua 29.5. Outro problema bem comum relatado foi a conexao com o aplicativo: 21.9 dos comentarios relataram problemas com o emparelhamento via bluetooth. Com relacao a usabilidade, destacaram-se negativamente a satisfacao, eficiencia, eficacia, utilidade e aprendizado do sistema. Em satisfacao, onde e relatado o grau de aceitacao do usuario e quao o sistema e agradavel a ele, 51.7 das PRUs relatavam esse problema, 30.6 criticaram a eficiencia, relatando um nivel de dificuldade elevado para realizar as tarefas. Apenas 10.1 dos usuarios nao conseguiram usufruir da garrafa por nao conseguirem utilizar a funcao principal problema de eficacia. A garrafa e o aplicativo de maneira geral possuem uma boa aprendizagem, sendo que somente 2.6 das PRUs relatavam problemas dessa categoria. No quesito UX, apenas tres categorias foram identificadas. Sao elas: frustracao, satisfacao e confianca. Grande parte dos usuarios 70.5 se sentiram frustrados com o sistema, 28.2 das PRUs relatavam problemas de satisfacao e uma unica PRU relatou problema de confianca na utilizacao da garrafa.
+
+APLICACAO DO TESTE DE USABILIDADE
+
+A execucao do Teste de Usabilidade ocorreu em ambiente controlado. Inicialmente, realizou-se um teste piloto, em que se identificou a necessidade de disponibilizar aos usuarios uma garrafa simples contendo agua para a realizacao da tarefa de simulacao de ingestao de agua TU3. Em seguida, seis usuarios foram recrutados considerando o perfil estabelecido Tabela 4. Sobre os dispositivos utilizados, quatro participantes usaram smartphone iOS e os outros dois utilizaram Android.
+
+Para apoiar a analise das metricas coletadas foram estimados valores referentes a execucao das tarefas. Esses numeros foram baseados na experiencia dos avaliadores com o aplicativo atraves da execucao da Avaliacao Heuristica. O tempo estimado e o mesmo para as plataformas Android e iOS, com excecao da tarefa TU4, em que foram calculados tempos diferentes para cada sistema operacional, visto que a execucao dessa tarefa envolve telas diferentes dependendo da plataforma.
+
+O tempo estimado da tarefa TU1 Instalacao do aplicativo, cadastro e sincronizacao com a garrafa foi 157 segundos. Os usuarios gastaram mais tempo que o esperado para executar essa tarefa. Isso tambem foi observado na tarefa TU2 Consulta da meta diaria de ingestao de agua, que teve tempo estimada de 15 segundos. O usuario U2 foi o unico que se aproximou da estimativa, gastando 17 segundos, e a usuaria U4 foi quem mais se distanciou do esperado, gastando 231 segundos.
+
+O tempo estimado da tarefa TU3 Simulacao da ingestao de agua e consulta da nova meta diaria foi 76 segundos. O usuario U4 realizou a tarefa com tempo aproximado de 88 segundos. Os usuarios U1 e U2 gastaram menos tempo que o esperado 71 e 44 segundos respectivamente. Entretanto, os outros usuarios nao conseguiram executar a tarefa no tempo esperado, variando entre 100 e 172 segundos. O tempo medio de execucao dessa tarefa foi 102.33 segundos.
+
+O tempo estimado da tarefa TU4 Alteracao de um dado do perfil do usuario para modificar a meta diaria foi 57 segundos na plataforma iOS e 44 segundos na plataforma Android. Um dos usuarios do iOS U1 se aproximou da estimativa, gastando 61 segundos. Os outros usuarios do iOS realizaram a tarefa entre 128 e 250 segundos, indicando que eles gastaram mais tempo que o esperado. Um dos usuarios do Android U3 tambem se aproximou desse valor, gastando 219 segundos. Contudo, a outra usuaria U4 do Android se aproximou do esperado, gastando 47 segundos. O tempo medio de execucao dessa tarefa foi 147 segundos.
+
+A situacao estimada seria que os usuarios nao solicitassem ajuda e que nao ocorressem erros na execucao das tarefas. Entretanto, na Tabela 5 pode ser visto que foram feitas 53 solicitacoes de ajuda.
+
+Os participantes que usaram dispositivo Android requisitaram ajuda 6 e 7 vezes respectivamente, enquanto que alguns usuarios do iOS solicitaram ajuda entre 10 e 13 vezes. Apenas um usuario do iOS U1 requisitou ajuda 6 vezes. Isso pode indicar que os usuarios do Android executaram as tarefas com maior facilidade que alguns usuarios do iOS, contudo o numero de usuarios das duas plataformas nao foi balanceado, impedindo uma melhor comparacao. Os usuarios que possuem entre 18 e 22 anos solicitaram ajuda entre 6 e 10 vezes, enquanto que os usuarios com idade entre 23 e 27 anos requisitaram ajuda entre 7 e 13 vezes, indicando que essa variavel tambem nao influenciou nas dificuldades dos usuarios. Em geral, essa analise reforca o fato de que os participantes tiveram duvidas e dificuldades ao usar a interface do aplicativo.
+
+Em relacao a quantidade de erros ocorridos na execucao das tarefas, ocorreram 19 erros na tarefa TU1, como mostra a Tabela 6.
+
+Considerando os participantes que usaram dispositivo iOS, o numero de erros foi 6 para os usuarios U1 e U2, 4 para a usuaria U6 e 16 para o usuario U5 caso discrepante. Para os usuarios do Android U4 e U3 foram identificados 3 e 6 erros respectivamente. Na analise dessa metrica percebe-se que o sistema operacional utilizado nao influenciou na realizacao das tarefas. Para cada usuario homem foram identificados 6 erros, exceto o usuario U5 que e o caso discrepante, e para as mulheres o numero de erros variou entre 3 e 6, mostrando que essa variavel nao influenciou na quantidade de erros ocorridos. Para os usuarios que possuem de 18 a 22 anos o numero de erros variou entre 3 e 6 e para os usuarios U4 e U6 com idade entre 23 e 27 anos o numero de erros foi 3 e 4 respectivamente, excluindo o usuario U5 discrepante. Desse modo, a faixa etaria tambem nao influenciou na quantidade de erros ocorridos. Em geral, essa analise indica a existencia de interacoes erradas durante a execucao das tarefas.
+
+A analise das metricas ainda indica que os valores ideais definidos nao foram alcancados pela maioria dos usuarios, reforcando a dificuldade de uso da interface. A seguir sao apresentados alguns problemas observados pelos aplicadores do teste de usabilidade.
+
+Na tarefa TU1 Instalacao do aplicativo, cadastro e sincronizacao com a garrafa, os usuarios tiveram dificuldade em entender quais dados o aplicativo estava solicitando, como mostram alguns comentarios dos usuarios: O nome e completo ou e... e Hmm... entendi nao do usuario U1; Eu faco o que e E agora da usuaria U3; Aqui eu coloco meu e-mail ou o nome mesmo do usuario U5; por fim, Bota o nome completo ou so o primeiro nome da usuaria U6.
+
+Os usuarios tiveram dificuldade em compreender as instrucoes de uso da garrafa dadas pelo aplicativo, muitas vezes eles acharam que precisavam realizar alguma interacao. Isso pode ser observado atraves dos seguintes comentarios: E agora do usuario U1; E pra encher Eu nao sei, eu to com medo ate de fazer alguma coisa aqui do usuario U2, representando inseguranca no uso; E pra reiniciar e da usuaria U3; Essa parte aqui... e Tem que fazer alguma coisa da usuaria U4; Aqui ta perguntando se e Isso aqui e instrucao se for encher a garrafa E ou nao do usuario U5; Me explica isso aqui, Aqui ta mandando eu encher, e isso e Sao so instrucoes aqui, e isso da usuaria U6. A dificuldade dos usuarios em entender as informacoes do aplicativo pode ter ocorrido devido ao idioma Ingles. Por exemplo, o usuario U5 disse: Olha as perguntas em ingles para quem nao sabe ingles.
+
+Os usuarios nao entenderam o comportamento do aplicativo quando ele estava sincronizando o dispositivo com a garrafa, como mostram os seguintes comentarios: Aqui agora e o que do usuario U1 e O que ta acontecendo aqui do usuario U5. Isso fez com que a usuaria U5 tivesse duvida sobre o bluetooth, que precisava estar ligado para a conexao entre os dispositivos, ela disse: Pera ai, tem que ligar o bluetooth ne. Alguns usuarios tiveram dificuldade para sincronizar o dispositivo com a garrafa, como mostra os comentarios: Da uma olhada aqui pra ver se conectou, se nao ta aparecendo... da usuaria U3 e Ta tipo processando aqui do usuario do usuario U5. A usuaria U3 conseguiu conectar os dispositivos, gastando cerca de 4 minutos e 48 segundos apenas para realizar essa atividade, porem o usuario U5 nao conseguiu conectar de nenhuma maneira, gastando cerca de 2 minutos e 43 segundos nessa atividade, por isso, ele passou a usar um dispositivo iOS e reiniciou a tarefa.
+
+Outros problemas referentes a tarefa TU1 tambem foram identificados. A usuaria U3 nao entendeu que a localizacao influencia no calculo da meta diaria de ingestao de agua, por isso, ela ficou em duvida se deveria permitir o uso do sensor de localizacao, ela disse: Eu permito a localizacao do dispositivo Ele aplicativo ta perguntando. A usuaria U6 nao sabia que poderia diminuir a altura arrastando a barra lateral localizada na tela de escolha da altura, ela disse: Como e que eu faco para diminuir minha altura. O aplicativo mostra um cronometro estatico e pede que o usuario espere 10 segundos para medir corretamente a quantidade de agua existente na garrafa. Contudo, o usuario U5 entende que o cronometro e dinamico e que vai contabilizar o tempo. Os condutores do teste perceberam o problema e perguntaram ao usuario se ocorreu algo de errado, ele disse: Nao, estou so esperando o tempo, ne, Nao sei se ja passou de 10 segundos e Nao passou nem um. Ressalta-se que o usuario U2 comecou a tarefa com um dispositivo Android, que travou e foi trocado por um iOS; assim, o usuario reiniciou a tarefa. As dificuldades dos usuarios justificam o fato de a tarefa TU1 possuir o maior tempo medio 450.33 segundos, maior numero de solicitacoes de ajuda 27 e maior quantidade de erros 19. Ressalta-se que apenas os dispositivos Android usados pelas usuarias U3 e U4 nao estavam com o bluetooth ativado, por isso, esse problema nao foi relatado pelos usuarios do iOS.
+
+Na tarefa TU2, os usuarios tiveram dificuldade em localizar a meta diaria de ingestao de agua em mL, como mostram os comentarios: Seria aqui do usuario U1; Essa daqui. Nao e essa nao da usuaria U4; e, E isso aqui, ou nao do usuario U5. O usuario U1 pensou que a meta era o numero de garrafas a serem bebidas por dia, ele perguntou: Bottles to Go quer dizer o que, indicando dificuldade com o idioma. Apos saber o significado, ele disse: Deve ser isso aqui ne a meta. Na terceira tentativa ele encontrou e disse: Eu fiquei perdido. Esse problema tambem ocorreu com a usuaria U4, em que um condutor perguntou se ela achava que a meta deveria ser informada em mL ou quantidade de garrafas, ela disse: Em mL E melhor em mL. So que mL..., mostrando que ela nao tinha encontrado a meta. Em outra tentativa ela disse: Eu achei aqui. O usuario U5 encontrou com mais facilidade, mas teve duvida e disse: A meta nao e isso aqui que eu atingi nao ne De dois litros e alguma coisa. Apos a confirmacao do condutor, ele disse: Ah certo, eu procurando, achei que tinha que calcular algum numero. , mas ele ja da a meta aqui ne. Os usuarios U1, U4 e U5 podem ter gastado mais tempo nessa tarefa por causa das dificuldades enfrentadas. Alem de que o usuario U5 foi o unico com erros na tarefa.
+
+Na tarefa TU3 Simulacao da ingestao de agua e consulta da nova meta diaria, alguns usuarios nao entenderam que o aplicativo calcula a quantidade de agua restante para atingir a meta diaria, como mostram os comentarios: Em numeros ou em..., quer dizer que eu tenho que fazer o calculo U1, e Em numeros E, eu acho que... nao to achando direito em numeros, mas fazendo a subtracao U4. O usuario U5 compreendeu melhor as instrucoes da tarefa TU1: Ah certo, as instrucoes sao para fazer isso todas as vezes ne. Ele ficou em duvida se precisava fazer algo a mais para o aplicativo registrar o consumo; ele disse: Precisa fazer alguma coisa aqui ou nao, isso mostra que a conexao dos dispositivos precisa ser mais rapida. O aplicativo registrou 220 mL para a usuaria U6 antes de a simulacao comecar. A dificuldade enfrentada pelo usuario U5 pode ser o motivo para ele ter o maior numero de solicitacoes de ajuda 4 vezes e a maior quantidade de erros 3, alem de que ele foi um dos participantes que gastou mais tempo 100 segundos nessa tarefa.
+
+Na tarefa TU4, os usuarios editaram um dado do perfil do usuario peso, altura ou nivel de atividade fisica, porem a meta diaria nao foi atualizada, como mostram os comentarios: E agora U1; Alterei, mas ele nao mudou la nao, mas eu acredito que eu tenha alterado. Mas pelo o que vi aqui, nao apareceu nenhuma diferenca. Ta atualizando Eu acho que nao U2; por fim, Vou tentar de novo. Nao, ainda continua a mesma U6. Os usuarios U1 e U6 tiveram a meta modificada apos reiniciar o aplicativo, a usuaria U6 disse: Pronto, agora alterou. O usuario U2 nao completou a tarefa. Isso pode ter ocorrido porque ele nao reiniciou o aplicativo. Esse problema ocorreu apenas para os usuarios do iOS, comprovando que eles tiveram mais dificuldade que os usuarios do Android nessa tarefa. Em relacao a alteracao do dado, o usuario U5 clicou sobre o nome Peso e nao em cima do valor correspondente, assim, o aplicativo nao fez nada. No aplicativo Android, existe uma aba sobre o perfil do usuario e outra apenas para configuracoes. Isso gerou duvida para a usuaria U3 que disse: Onde e que eu clico aqui para ir para as configuracoes do meu perfil E aqui mesmo, referenciando a aba de perfil e nao a de configuracoes. Os usuarios U2 e U6 estao entre os participantes que gastaram mais tempo 177 e 250 segundos respectivamente na tarefa, e o U2 foi quem mais solicitou ajuda 2 vezes. Isso pode ter acontecido por causa das dificuldades enfrentadas por eles na tarefa. O problema da usuaria U3 tambem pode justificar o longo tempo gasto na tarefa 219 segundos.
+
+Aplicacao da Entrevista Pos-teste
+Uma entrevista pos-teste foi aplicada para coletar a opiniao dos usuarios. Eles gostaram da ideia e disseram que o uso da garrafa e do aplicativo e pratico, como mostram as seguintes respostas: Eu acho bem pratico, a ideia eu acho bem interessante U1; Bonito o design. Conexao com ela e bem rapido tambem U2; Eu achei interessante, eu gostei, eu gostei U3; Achei bem criativa e util tambem U5; Eu gostei, quero uma garrafa dessa agora. Eu acho que ela e bem util U6.
+
+Somente a usuaria U4 nao achou a ideia util, ela disse: Eu acho que e uma ideia boa, mas talvez nao seria tao util. Eu acho que e porque nao tem muita praticidade, nao sei, tem que ta conectado... Eu acho que interessa mais pra quem realmente quer cuidar da saude. Contudo, acredita-se que houve mudanca de ideia, visto que ela falou que usaria a garrafa e justificou dizendo: Pra mim e muito pessoal, porque eu vejo que eu nao tomo muita agua, eu acho que seria bem util. Os outros usuarios tambem usariam a garrafa, principalmente, para aprimorar o cuidado com a saude, por exemplo:
+
+Usaria, porque eu acho que influencia a gente a fazer algo que a gente precisa fazer e nao faz normalmente Usuario U1;
+Sim. Me incentivar no consumo de agua, que eu bebo pouca agua. E por isso que ela e interessante tambem, porque vai te ajudar a controlar como voce ta no dia-a-dia, como e que voce ta bebendo agua, se nao ta. E por isso que eu achei interessante Usuaria U3;
+Se eu tivesse uma garrafinha dessa eu usaria com certeza. Bom, e porque eu acabo esquecendo de ingerir a quantidade correta de agua, tipo la na sala todo mundo tem a garrafinha, nem a garrafinha eu tenho Usuario U5.
+Apenas o usuario U2 disse que nao usaria a garrafa, ele justificou dizendo: Se fosse um pouco menor, acho que um pouco menor eu usaria. Esse tamanho nao.
+
+Os usuarios disseram que entenderam como a garrafa e o aplicativo funcionam. Contudo, alguns nao compreenderam, inicialmente, o funcionamento com clareza, como pode ser observado nas seguintes respostas: Entendi... entendi por cima U1; Sim, sim, entendi. A primeira parte eu nao tinha entendido bem, que ela calcula a partir do momento que voce tira ne... agua U3.
+
+Sabendo-se que o aplicativo so possui a lingua inglesa como idioma, os condutores tentaram evitar o problema recrutando somente participantes que afirmaram conhecer o basico do idioma. Contudo, nota-se que os participantes precisariam ter um dominio maior da lingua, por isso, os resultados do Teste de Usabilidade podem ser diferentes se aplicados com pessoas que possuem conhecimentos medios ou avancados em Ingles.
+
+Por fim, o usuario U2 relatou outras dificuldades: Nao deixar digitar o nome, eu comecava a digitar, apertava espaco, ele ja fechava e nao ficava com o nome que voce ja preencheu. Foi so voltar e abrir de novo que funcionou esse problema aconteceu quando ele usou o Android. Ele continuou: E configuracao eu nao achei, mas eu acho que e por causa do celular porque o pontinho do iPhone ficou em cima do configuracaozinha, ai nao vi. Esse ultimo problema possui relacao com o uso do dispositivo iOS e nao com o uso do aplicativo.
+
+CONSIDERACOES FINAIS
+
+Avaliamos o sistema Hidrate Spark utilizando a Avaliacao Heuristica, o Modelo MALTU e o Teste de Usabilidade, seguido de entrevista. Podemos dizer que todos eles foram importantes para a avaliacao. Vimos que configurar o aplicativo e sincroniza-lo com a garrafa T1 nao e uma tarefa facil, isso foi apontado tanto na Avaliacao Heuristica 11 problemas, como no Teste de Usabilidade e entrevista. O MALTU tambem apontou varias criticas sobre a dificuldade de conexao da garrafa com o aplicativo. Quanto a consulta do consumo de agua T2, encontramos comentarios no MALTU apontando duvida sobre o registro de consumo, por exemplo: Eles falharam em nos dizer que depois de beber agua, voce tem que colocar em uma superficie plana por 10 segundos para registrar a ingestao de agua, o que faz de forma imprecisa. A Avaliacao Heuristica nos mostrou 11 problemas relacionados a essa tarefa. O Teste de Usabilidade tambem confirmou a dificuldade de entender o quanto foi consumido de agua no dia. Quanto a consulta do historico do consumo de agua T3, a Avaliacao Heuristica revelou quatro graves problemas de usabilidade. O MALTU nao apontou explicitamente nenhum dessa tarefa. O Teste de Usabilidade nao conseguiu avaliar essa tarefa porque seria necessario o registro do consumo de alguns dias para que o historico fosse acessado. Quanto a alterar um dado do perfil do usuario, enquanto a Avaliacao Heuristica apontou apenas 3 problemas, que foram reforcados no Teste de Usabilidade. O MALTU nao registrou nenhum problema dessa natureza.
+
+Observamos que problemas relatados no MALTU foram tambem identificados na Avaliacao Heuristica, como por exemplo a dificuldade de entender o registro do consumo de agua. Problemas encontrados no Teste de Usabilidade tambem foram percebidos na Avaliacao Heuristica, a exemplo da dificuldade em entender como os dados solicitados sao usados para o calculo da meta diaria de ingestao de agua. Alguns problemas foram identificados apenas no Teste de Usabilidade, tais como: dificuldade para entender quais dados estao sendo solicitados e para compreender as instrucoes de uso da garrafa; dificuldade para entender o comportamento do aplicativo no momento de sincronizacao com a garrafa; o aplicativo pede que o usuario espere 10 segundos com a garrafa em superficie plana para medir corretamente que a garrafa esta vazia, para isso, ele mostra um cronometro que parece ser dinamico e regressivo, mas e estatico na verdade; dificuldade em localizar a meta diaria de ingestao de agua em mL; o usuario ficou em duvida se conseguiria acessar as configuracoes do perfil do usuario por meio da aba de perfil ou da de configuracoes ocorre apenas no Android. Vale ressaltar que o smartphone Android usado por um usuario travou completamente na primeira tentativa do Teste de Usabilidade. Esse problema nao ocorreu com os avaliadores que usaram Android na Avaliacao Heuristica.
+
+Outros problemas foram encontrados somente na Avaliacao Heuristica, tais como: o aplicativo perde as informacoes inseridas pelo usuario quando ele avanca para uma tela e depois volta para a tela ja concluida; os menus para escolha das medidas eg, cm ou ft aparecem em cinza, sugerindo que nao sao clicaveis; ao digitar o email, o teclado esconde o campo de senha, deixando o usuario perdido sem saber onde inserir esse dado; quando o usuario ja possui cadastro, o aplicativo nao fornece uma interacao alternativa; o aplicativo nao armazena corretamente o consumo de agua do usuario, as vezes perdendo alguns valores; dificuldade para entender se o aplicativo registra o consumo de agua quando a garrafa esta sendo usada em um veiculo em movimento, quando o bluetooth esta desligado e quando o usuario esta dormindo; nao existe uma opcao para interromper o funcionamento da garrafa por um determinado periodo; a meta diaria sofreu alteracao de um dia para o outro sem interferencia do usuario; os botoes de alterar e editar um registro de consumo de agua localizados na tela de historico do consumo de agua nao parecem ser clicaveis, e as informacoes dessa tela nao estao padronizadas em um unico idioma; o grafico diario de consumo de agua mostra que o usuario bebeu agua em um horario que ele nao fez isso; e o usuario fica em duvida se pode visualizar o grafico diario referente aos dias passados e o grafico mensal de  consumo de agua.
+
+Observamos que para avaliar a usabilidade em sistemas
+ubiquos precisamos de tempo para que os problemas se
+revelem Por exemplo o problema em que o aplicativo nao
+registrou o consumo de agua do usuario no caso em que o
+seu smartphone descarregou so foi identificado atraves
+dessa mudança de contexto Reforçando essa ideia
+observamos que o avaliador que ficou mais tempo com a
+garrafa durante a Avaliacao Heuristica identificou
+problemas que os outros avaliadores nao identificaram
+como por exemplo O usuario nao sabe se o aplicativo
+registrou o consumo de agua quando a garrafa esta sendo
+usada em um veiculo em movimento Portanto ficou o
+sentimento de que um Teste de Usabilidade para avaliar
+sistemas ubiquos deveria ocorrer em varias secoes de
+observacao e mesmo assim pode ainda nao revelar alguns
+problemas pelo fato de ser um teste de laboratorio e com
+isso a mudança de contexto e a mobilidade poderiam nao
+ser observadas corretamente
+Ja o MALTU nos deu a possibilidade de explorar a
+experiencia de usuarios revelando problemas que
+aconteceram apos o uso por um longo periodo Por outro
+lado ele nao preve especificamente a classificacao dos
+problemas em relacao as caracteristicas como mudança de
+contexto mobilidade calma entre outras
+Como resultado da avaliacao podemos dizer que o
+sistema Hidrate Spark possui muitos problemas de
+usabilidade Esse fato e pior nos dispositivos Android
+Muitos problemas de conectividade e de entendimento de
+como e quando ocorre a troca de informacoes entre a
+garrafa e aplicativo do smartphone foram revelados dando
+indicio de que existe ainda uma grande dificuldade de as
+pessoas interagirem com sistemas ubiquos e de entenderem
+seu funcionamento Por outro lado na entrevista do Teste
+de Usabilidade percebemos o interesse por usar algo
+inovador.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este estudo demonstra a importancia de combinar diferentes metodos de avaliacao para obter uma compreensao abrangente da usabilidade de sistemas ubiquos. Os resultados revelam que, apesar do potencial inovador do Hidrate Spark, o sistema apresenta diversos problemas de usabilidade que podem comprometer a experiencia do usuario. E fundamental que os desenvolvedores considerem esses aspectos no desenvolvimento de sistemas ubiquos, buscando otimizar a interacao e garantir que a tecnologia realmente contribua para melhorar a qualidade de vida das pessoas.

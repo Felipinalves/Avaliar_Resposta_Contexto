@@ -1,0 +1,122 @@
+**INTRODUCAO**
+
+O YouTube Music e uma extensao criada pelo YouTube na forma de uma plataforma de
+streaming de musica. Essa ferramenta permite aos usuarios navegar com base em
+generos, lista de reproducao e recomendacoes de musicas, alem de permitir ao usuario
+criar e escolher playlists, entre outras funcoes. Porem, algumas funcionalidades
+apresentam falhas na comunicabilidade, dificultando o percurso cognitivo e o fluxo de
+navegacao do usuario.
+
+O presente trabalho tem como objetivo mostrar o processo de desenvolvimento
+das sugestao de melhorias no fluxo de navegacao do aplicativo YouTube Music, desde a
+modelagem do fluxo inicial, ate a remodelagem do fluxo com sugestoes de melhorias,
+mostrando os metodos usados para chegar a essa nova modelagem e passando pelas
+duas avaliacoes de comunicabilidade do aplicativo .
+
+**METODOLOGIA**
+
+Para a investigacao da comunicabilidade do Youtube Music, usamos tres ferramentas da
+Engenharia Semiotica: a linguagem MoLIC (Modelling Language of Interaction as
+Communication), e os metodos de avaliacao MIS (Metodo de Inspecao Semiotica) e
+MAC (Metodo de Avaliacao de Comunicabilidade). A seguir resumimos as principais
+etapas:
+Definicao do escopo da avaliacao: As funcionalidades avaliadas foram a parte de
+reproducao de musicas e a biblioteca de musicas do usuario.
+Modelagem inicial: construimos uma primeira versao do diagrama de interacao
+MoLIC, seguindo o fluxo do app naquele momento, considerando as partes
+selecionadas.
+Preparaçao do MIS: Foram estabelecidos os seguintes cenarios: 1: O usuario nunca
+usou o aplicativo antes, mas deseja experimentar. Ele deseja adicionar seus albuns,
+musicas e artistas favoritos a sua biblioteca. 2: O usuario coloca uma musica para
+tocar e deseja adicionar mais musicas para que sejam tocadas, seguindo a ordem na
+qual foram adicionadas. 3: O usuario deseja ver quais musicas ja estao listadas. 4: O
+usuario deseja adicionar uma musica da sua biblioteca a sua lista.
+Preparaçao do MAC: foi realizada uma avaliacao preliminar com o MAC,
+envolvendo dois usuarios de forma online. As tarefas definidas foram ligeiramente
+diferentes das consideradas no MIS: Tarefa 1: Adicionar musica na fila; Tarefa 2:
+Buscar por musica na fila; Tarefa 3: Pesquisar na biblioteca.
+Modelagem final: reconstruimos o diagrama de interacao MoLIC, destacando
+algumas sugestoes de correcoes e acrescimo de funcionalidades.
+
+A Figura 1 apresenta o diagrama de interacao inicial. A marcacao em vermelho
+representa uma mudança abrupta no dialogo entre o designer e o usuario. O usuario
+estava pesquisando em sua biblioteca propria, mas o designer direciona o usuario para
+uma pesquisa geral. Isso pode deixar o usuario confuso.
+
+Este metodo consiste em avaliar a qualidade da emissao da metacomunicacao do
+designer codificada na interface, nao sendo necessario incluir o usuario nessa etapa
+(BARBOSA, 2021, p. 305). A seguir, apresentamos a reconstrucao parcial da
+metamensagem final: Apesar de que seu intuito e ouvir musica, tambem te dou a
+opcao de assistir ao clipe da musica que esta tocando, alem de te mostrar o nome da
+musica inteiro, caso ele seja muito grande para ser visualizado na tela de uma so vez.
+Voce gosta de ter o controle sobre qual musica da sua lista esta sendo reproduzida, por
+isso deixo isso bem claro ao colocar barras que oscilam para cima e para baixo para
+facilitar a sua visualizacao.
+
+De maneira geral a interface nao possui muitos signos metalinguisticos,
+possuindo pouco tratamento de erro e explicaçoes. Alguns signos sao ambiguos,
+causando confusao e dificultando o entendimento do usuario, a exemplo da funçao de
+ver a lista de musicas a serem reproduzidas que aparece como proxima. Esse signo
+sugere ao usuario que nao tem familiaridade com o aplicativo que se trata da funçao de
+passar para a proxima musica, o que tambem gera certa redundancia pelo fato de haver
+signos estaticos que representam essa mesma funçao.
+
+Outro signo a ser destacado e o de musicas relacionadas. A palavra escolhida e
+comprida e a aplicaçao nao possui boa responsividade para todos os tipos de dispositivo,
+fazendo com que em alguns aparelhos a palavra seja dividida em duas linhas. Alem
+disso, o tamanho da fonte e alterado em virtude do tamanho da palavra para que seja
+possivel visualiza-la ao lado das outras duas funçoes, proxima e letra. Concluiu-se
+que a aplicaçao apresenta algumas inconsistencias nas metamensagens apresentadas
+pelos signos que podem causar confusao durante a interaçao do usuario.
+
+A Tabela 1 detalha a ocorrencia de rupturas de comunicabilidade, indicando a
+quantidade por tarefa.
+
+E possivel perceber que a maior parte das rupturas foram falhas temporarias (em
+amarelo), embora tenha havido uma falha parcial (em laranja) e uma total (em
+vermelho). Por questoes de espaço, vamos comentar apenas as rupturas da Tarefa 3, que
+ocorreram com os dois usuarios. Assim, na tarefa 3 (Pesquisar na biblioteca), os
+problemas foram:
+Usuario 1: [00:57s] Em certo momento o usuario verbaliza: Como e que eu
+vou adicionar a biblioteca? . [01:15s] O usuario buscou uma
+musica que ja estava na biblioteca, porem acabou indo para outra musica,
+pois ao realizar a busca na biblioteca, esta o levou para a busca geral. .
+
+Usuario 2: O usuario nao localizou a barra de busca, na tela dele so aparecia
+a barra de busca geral, entao ele decidiu procurar na playlist , saindo da tarefa que foi definida .
+
+A partir do que foi observado, foi criado o seguinte perfil semiotico: Eu acredito que o
+usuario seja uma pessoa que gosta de ter a sua disposiçao centenas de musicas que
+embalem os seus melhores momentos. Caso seja uma pessoa que nunca usou a
+aplicaçao antes, tera que passar um tempo se acostumando com alguns dos signos da
+interface. O campo de busca dentro da biblioteca e, na verdade, um campo de pesquisa
+geral, mas acredito que nao impacta na interaçao do usuario com a aplicaçao, pois
+com o tempo de uso, essa e outras funçoes farao mais sentido. De modo geral, acredito
+que os erros cometidos durante a interaçao usuario-sistema podem ser facilmente
+resolvidos sem maiores problemas, nao interferindo na permanencia do usuario na
+plataforma.
+
+No diagrama da Figura 2, as partes em azul apresentam a soluçao para correçao da
+comunicaçao estabelecida entre designer e preposto, com a tomada de decisao ja que
+executar a pesquisa isolada demanda ajuste de outras açoes no fluxo de conversaçao.
+Alem disso, propusemos uma alteraçao do termo Proxima para Fila.
+
+**CONCLUSAO E TRABALHOS FUTUROS**
+
+Com o uso do MIS e MAC, combinados a MoLIC, foi possivel apontar algumas
+possiveis rupturas no fluxo de navegaçao do usuario ao interagir com o Youtube Music..
+
+Foi possivel observar por meio da modelagem do diagrama de interaçao inicial
+que existiam ruidos de comunicaçao entre o designer e o usuario. A aplicaçao do MAC
+retornou como resultado, as observaçoes iniciais traduzidas nas etiquetas, em sua
+maioria de rapida recuperaçao.
+
+Para trabalhos futuros pretende-se desenvolver um prototipo de baixa fidelidade
+com sugestoes de melhorias nas funcionalidades que foram avaliadas a partir da
+metacomunicaçao, a fim de demonstrar que pequenos ruidos comunicativos podem levar
+a diferentes consequencias nao so em relaçao a comunicabilidade, mas possivelmente
+tambem em relaçao a usabilidade e a experiencia do usuario.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, o estudo da comunicabilidade no YouTube Music revelou a importancia de uma analise cuidadosa da interaçao entre o designer e o usuario. A aplicaçao das ferramentas MoLIC, MIS e MAC permitiu identificar rupturas na comunicaçao e propor melhorias no fluxo de navegaçao, visando a uma experiencia mais fluida e intuitiva.

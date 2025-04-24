@@ -1,0 +1,107 @@
+**Introducao**
+
+A mensuraçao da User Experience (UX) emerge como uma pratica relevante para
+a compreensao ampla e efetiva das interaçoes dos usuarios com sistemas digitais.
+Contudo, a tarefa de medir e analisar os vastos volumes de dados associados a
+UX apresenta desafios significativos devido a complexidade e variedade desses da-
+dos . Diante dessas dificuldades, o desenvolvimento e a
+utilizaçao de ferramentas especificas para a mensuraçao da UX tornam-se fundamentais
+. Essas ferramentas, no entanto, sao numerosas e variam con-
+sideravelmente em suas funçoes e aplicaçoes, o que pode complicar a escolha da ferra-
+menta adequada para necessidades especificas . Neste contexto,
+este artigo propoe explorar o panorama das ferramentas de mensuraçao de UX atraves de
+um metodo de pesquisa documental. Este estudo busca oferecer uma visao critica sobre
+como essas ferramentas sao empregadas na pratica e quais sao percebidas como mais efi-
+cazes pelos usuarios, fornecendo insights para a seleçao e implementaçao de tecnologias
+de mensuraçao de UX.
+
+Referencial Teorico
+O conceito de User Experience (UX) refere-se a qualidade da experiencia de um usuario ao interagir com produtos ou sistemas, abrangendo aspectos como usabilidade, acessibilidade, eficiencia e prazer proporcionados pela interacao.
+A importancia de uma experiencia positiva do usuario e amplamente reconhecida, uma vez que uma boa UX pode resultar em maior satisfacao do cliente e lealdade a marca, bem como resultados positivos aos negocios.
+Porem, cabe uma analise de mensuracao para entender o impacto dessa medida nos negocios. Surgem entao, as metricas de UX, que sao indicadores quantitativos e qualitativos usados para avaliar os diversos aspectos da experiencia do usuario. Diversas ferramentas tem sido desenvolvidas para facilitar a mensuracao da UX. Google Analytics, por exemplo, oferece insights sobre o comportamento do usuario em websites, enquanto o UserTesting permite a coleta de feedback direto dos usuarios por meio de testes de usabilidade remotos. Ferramentas como o Hotjar possibilitam a visualizacao de heatmaps que mostram onde os usuarios mais clicam e ate onde eles rolam a pagina, fornecendo uma imagem clara das interacoes dos usuarios com o site.
+A mensuracao da UX e crucial para garantir que os produtos atendam ou superem as expectativas dos usuarios. No entanto, enfrenta desafios significativos, como a subjetividade das experiencias individuais e a dificuldade de capturar dados em contextos naturais de uso. Alem disso, destaca-se a complexidade e a necessidade de abordagens robustas para a mensuracao da UX, tendo em vista a criacao de produtos que nao apenas atendam, mas encantem os usuarios em suas interacoes cotidianas.
+
+**Metodologia**
+
+Realizou-se uma analise observacional detalhada de oito dessas ferramentas, focando em
+aspectos como funcionalidades, barreiras e oportunidades de uso. As ferramentas foram
+escolhidas a partir da analise de um questionario aplicado a 34 profissionais de UX en-
+tre 11 e 26 de setembro de 2023, exigindo a aceitaçao de um Termo de Consentimento
+Livre e Esclarecido (TCLE) por parte dos participantes e sem a identificaçao direta dos
+mesmos. Em conformidade com a Resoluçao CNS n° 510, de 2016, segundo a qual nao e
+necessaria avaliaçao do sistema Cep/Conep para pesquisas envolvendo participantes nao
+identificados. As ferramentas mais citadas foram selecionadas para o estudo.
+
+A fonte utilizada foi o proprio site da ferramenta, bem como suas sub paginas e
+artigos presentes dentro do dominio da ferramenta. Foi feita uma busca sistematica por
+todas as paginas, uma catalogaçao atraves de prints e registro de todas as informaçoes em
+uma pasta na nuvem. Posteriormente, foi feita a leitura detalhada dos do-
+cumentos selecionados, com anotaçoes sobre aspectos relevantes como funcionalidades
+das ferramentas, barreiras encontradas pelos usuarios, e oportunidades de uso identifica-
+das. Ocorreu a comparaçao dos dados extraidos de diferentes documentos para identificar
+padroes, divergencias e insights significativos. Identificaçao de temas comuns e recor-
+rentes nos documentos analisados, e por fim a elaboraçao de conclusoes .
+Esse trabalho foi realizado pelo pesquisador 1, ja o pesquisador 2 atuou como revisor. O
+pesquisador 1 e junior, com 1 ano de experiencia na area, ja o pesquisador 2 e senior,
+com mais de 8 anos de experiencia na area e ja atuou diretamente com as ferramentas do
+estudo.
+
+**Resultados**
+
+As oito ferramentas analisadas estao apresentadas na Tabela 1 abaixo, apresentando suas
+funcionalidades, barreiras e oportunidades de uso.
+
+A partir da analise das ferramentas de analise de dados, constatou-se que cada
+uma oferece funcionalidades unicas que sao essenciais para a otimizaçao de processos e
+a melhoria da experiencia do usuario. O Amplitude e o Mixpanel se destacam na analise
+comportamental do usuario e na segmentaçao, fornecendo insights profundos que facili-
+tam a tomada de decisao orientada por dados. Por outro lado, o Tableau apresenta em
+termos de visualizaçao de dados e integraçao em desempenho. O Optimizely, especia-
+lizado em testes A/B e gestao de experimentos, necessario para empresas que buscam
+otimizar suas conversoes e personalizar a experiencia do usuario.
+
+Entretanto, as barreiras a implementaçao dessas ferramentas, como a complexi-
+dade tecnica e o custo, podem limitar sua adoçao, especialmente em pequenas empresas
+ou em startups com recursos limitados. Ferramentas como o Hotjar e o Fullstory, ape-
+sar de oferecerem funcionalidades robustas para o entendimento do comportamento do
+usuario atraves de mapas de calor e gravaçoes de sessoes, enfrentam desafios relaciona-
+dos a questoes de privacidade e a necessidade de grande capacidade de armazenamento
+de dados. As funcionalidades do Hotjar permitem as empresas entender como os usuarios
+interagem com seu site ou produto, o que e crucial para justificar investimentos e medir o
+retorno sobre esses investimentos em UX.
+
+A ferramenta Optimizely tambem foi mencionada indiretamente atraves da re-
+ferencia a "Teste A/B de indicadores que correlacionem experiencia e negocio". Embora
+o nome "Optimizely"nao tenha sido explicitamente usado, a descriçao se alinha com as
+funcionalidades oferecidas por essa ferramenta, que e amplamente reconhecida por sua
+capacidade em testes A/B e personalizaçao para otimizar a experiencia do usuario e o
+desempenho do negocio.
+
+**Conclusoes**
+
+Este estudo destacou a importancia e a complexidade na escolha e uso de ferramentas
+adequadas para a analise e mensuraçao da User Experience (UX). Atraves da analise
+documental e pratica das oito principais ferramentas disponiveis, foi possivel identificar
+as funcionalidades especificas, as barreiras a adoçao e as oportunidades de uso de cada
+uma, oferecendo um panorama abrangente que auxilia profissionais de UX na seleçao de
+tecnologias adequadas para suas necessidades.
+
+As ferramentas como Amplitude e Mixpanel demonstraram ser particularmente
+valiosas para a analise comportamental detalhada, enquanto o Tableau oferece robustas
+opçoes de visualizaçao de dados para analises complexas de negocios. O Hotjar e o
+Optimizely foram identificados como essenciais para melhorar a experiencia e a conversao
+em interfaces de usuario, apesar de enfrentarem desafios como privacidade e custos de
+implementaçao. A observaçao pratica tambem enfatizou a eficacia do Hotjar em revelar
+interaçoes detalhadas do usuario, permitindo melhorias diretas na experiencia do usuario
+final.
+
+Essencialmente, este trabalho sublinha que, apesar dos desafios tecnicos e finan-
+ceiros, a integraçao eficaz de ferramentas de analise de UX pode proporcionar insights
+significativos que impulsionam a satisfaçao do usuario e o sucesso comercial. Portanto,
+a escolha cuidadosa dessas ferramentas, considerando suas especificidades e limitaçoes,
+e crucial para otimizar tanto a experiencia do usuario quanto os resultados operacionais e
+estrategicos das empresas.
+
+**Consideracoes Finais**
+
+Em suma, este estudo demonstra que a escolha e a implementaçao de ferramentas de mensuraçao de UX sao cruciais para o sucesso de qualquer produto ou serviço digital. Ao compreender as funcionalidades, barreiras e oportunidades de uso de cada ferramenta, os profissionais de UX podem tomar decisoes informadas e otimizar tanto a experiencia do usuario quanto os resultados de negocio.

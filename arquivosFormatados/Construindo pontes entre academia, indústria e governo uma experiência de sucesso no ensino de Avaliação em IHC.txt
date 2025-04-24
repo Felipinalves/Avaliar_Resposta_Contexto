@@ -1,0 +1,210 @@
+**RESUMO**
+
+A sinergia entre universidade e mercado de trabalho e um dos
+objetivos do Desafio 5 do GrandIHC-BR: Formaçao em IHC e
+Mercado. Entretanto, ainda hoje as oportunidades de cooperaçao
+entre estas duas esferas sao raras. Desta forma, este artigo visa
+contribuir com um exemplo de articulaçao entre uma disciplina de
+Avaliacao em Interaçao Humano-Computador com uma demanda
+da industria que presta serviço a um governo municipal. Um
+sistema de atendimento ao cidadao foi avaliado por uma turma de
+graduacao por meio de metodos de inspeçao e metodos de
+observaçao. Os resultados das avaliaçoes foram compartilhados
+com a empresa que presta serviço para a prefeitura e as correçoes
+necessarias ja foram realizadas. Ao compartilhar esta experiencia
+pretende-se ilustrar como pode ser possivel estabelecer
+interlocuçao com o mercado de trabalho.
+
+
+**INTRODUCAO**
+
+Desde 2006 ha uma trilha especifica no Simposio Brasileiro sobre
+Fatores Humanos em Sistemas Computacionais (IHC) para
+apresentaçao de relatos da industria IHC na Pratica (a partir de
+2014; antigo Artigos Industriais Resumidos). Entretanto, nesta
+trilha nao ha espaço para compartilhar as experiencias de
+integraçao entre a industria e o ensino de IHC, conforme indica a
+chamada de trabalhos de 2019:
+
+*Esta categoria e dirigida a todos os profissionais
+interessados em apresentar as suas experiencias com o
+projeto da Interaçao Humano-Computador (IHC)
+envolvendo aspectos tecnicos, comerciais, sociais e de
+gestao e os principais desafios relacionados a aplicaçao
+de metodos e tecnicas de UX (Experiencia do Usuario)
+no desenvolvimento de produtos e serviços.*
+
+Por outro lado, embora a articulaçao entre o contexto academico e
+a pratica do mercado de trabalho seja almejada pelo Desafio 5 do
+GrandIHC-BR: Formaçao em IHC e Mercado , este ainda e um
+tema raro nas ediçoes do IHC e do Workshop sobre Educaçao em
+IHC (WE-IHC). Nas tres primeiras ediçoes do WE-IHC o tema
+foi abordado em dois artigos  e uma palestra convidada .
+Em 2014, no XIII IHC a questao foi abordada no Painel: IHC no
+Mercado de Trabalho.
+
+Buscando contribuir com um exemplo de como podem ser
+construidas as pontes de interaçao entre academia, industria e
+(complementarmente) governo, este artigo traz o relato de uma
+experiencia de ensino-aprendizagem onde um sistema de
+atendimento ao cidadao foi avaliado por uma turma da disciplina
+de Avaliacao em IHC.
+
+Este artigo esta estruturado em 4 seçoes. Nesta primeira, faz-se
+uma breve introduçao sobre o tema da articulaçao entre academia,
+industria e governo. Na seçao seguinte sao apresentadas as
+instituiçoes envolvidas na experiencia de articulaçao bem como o
+sistema avaliado. A terceira seçao e dedicada a descriçao da
+agenda de trabalho. Em seguida, a seçao 4 apresenta os resultados
+obtidos por meio das avaliaçoes por inspeçao e observaçao alem
+de trazer os depoimentos das pessoas envolvidas. Por fim, a seçao
+5 compartilha as consideraçoes sobre a experiencia de articulaçao
+entre tres esferas da sociedade.
+
+Pilares de sustentacao
+
+A experiencia relatada neste artigo foi realizada no primeiro semestre de 2019 no contexto de ensino da disciplina Avaliacao em IHC do curso de Bacharelado em Sistemas de Informacao da Universidade Tecnologica Federal do Parana UTFPR, campus Curitiba (academia). O objeto de estudo desta edicao da disciplina foi um sistema de atendimento ao cidadao Solucao de Atendimento e Informacoes ao Cidadao (SAIC) mais conhecida como Central 156, desenvolvido por uma Organizacao Social Instituto das Cidades Inteligentes (industria) que atende algumas prefeituras brasileiras (governo). A seguir apresenta-se brevemente o contexto da industria, governo e academia.
+
+Industria e Governo
+
+As Organizacoes Sociais surgiram no bojo da reforma administrativa do Estado, que foi conduzida no Brasil em meados de 1988. A administracao Federal, no governo Fernando Henrique Cardoso, buscou mecanismos, por meio do programa nacional de publicizacao, que pudessem imprimir maior agilidade aos processos de atuacao do poder publico, especialmente aqueles que nao estivessem estritamente ligados a atividade fim da administracao. Neste contexto, o Ministro Bresser Pereira, do Ministerio da Administracao, conduziu uma discussao sobre os modelos juridicos possiveis e viaveis dentro da realidade brasileira. Deste dialogo resultou a figura das Organizacoes Sociais (OS) que poderiam atuar em apoio as atividades governamentais, respaldadas por legislacao especifica, e devidamente regulamentadas pelos estados e municipios. Norteou a genese destas organizacoes, o fomento ao ensino, a pesquisa cientifica, desenvolvimento tecnologico, protecao e preservacao do meio ambiente, cultura e saude.
+
+Na esteira deste movimento federal, os estados e municipios passam a fomentar e regulamentar a legislacao visando a operacionalizacao das Organizacoes Sociais. A partir de 1999, com a criacao do Instituto das Cidades Inteligentes (ICI) e com a sua devida qualificacao como Organizacao Social pelo Municipio, abriu-se um caminho para o inicio de um projeto de modernizacao e profissionalizacao do atendimento telefonico ao cidadao. O projeto Central 156 passa a ser gerenciado pelo ICI, que prioriza a reorganizacao dos fluxos de atendimento, modernizacao tecnologica e, sobretudo o investimento no capital intelectual e gestao adequada de pessoas (ver secao 2.3).
+
+Nao obstante, os mecanismos de controle do estado sao preservados pela legislacao vigente, pois as Organizacoes Sociais sao regidas por leis especificas na esfera federal e municipal. No caso do ICI o que se preve, dentre outras praticas de acompanhamento e fiscalizacao, podemos citar o devido monitoramento da sociedade civil organizada, dos entes governamentais e da comunidade cientifica. O modelo, dentre outros, estabelece que o Instituto seja conduzido por um Conselho Administrativo composto por representantes governamentais, associados ao Instituto, meio academico e sociedade civil. A contratacao e prestacao de servicos ocorrem por meio de Contrato de Gestao (CG) com a administracao publica.
+
+A equipe responsavel pelo atendimento aos cidadaos e pela manutencao do sistema avaliado e composta por aproximadamente 100 profissionais entre operadores, supervisores, analistas e um coordenador. Entretanto, nao ha nenhum colaborador com experiencia em IHC. Por outro lado, nas equipes de desenvolvimento, ha profissionais com experiencia em User Experience (UX).
+
+O contexto academico
+
+A disciplina Avaliacao em IHC (AvIHC) compoe uma das trilhas do curso de Bacharelado em Sistemas de Informacao da UTFPRCT [7]. E uma disciplina de 45h/semestre, com um encontro semanal de 3 aulas de 50 minutos cada.
+
+Na edicao do primeiro semestre de 2019 a disciplina teve 22 estudantes matriculados. Dois estudantes homens desistiram da disciplina antes da primeira apresentacao para a empresa parceira. Os demais estudantes, 4 mulheres e 16 homens foram divididos em 5 equipes com 4 estudantes cada. Apenas uma equipe foi totalmente formada por homens. Alem da diversidade de genero buscou-se formar equipes com diversidade geracional, com experiencias academicas e profissionais diferentes. As equipes foram propostas pela docente responsavel pela disciplina por meio de uma dinamica que buscava identificar as qualidades de cada estudante, conforme suas autoavaliacoes.
+
+A maioria dos estudantes cursou uma disciplina da trilha de Interacao Humano-Computador alem de AvIHC. Considerando a dinamica das trilhas, a disciplina cursada e a cabeca de trilha: Introducao a IHC. Dois estudantes cursaram duas disciplinas alem de AvIHC e apenas um estudante ja havia cursado tres disciplinas da trilha alem de AvIHC. Desta forma, considera-se que os estudantes sao iniciantes na area de IHC.
+
+A docente responsavel pela disciplina tem experiencia no ensino de IHC de aproximadamente 10 anos. Esta foi a segunda vez que ela ministrou esta disciplina.
+
+O sistema avaliado
+
+O sistema avaliado surge no contexto em que a administracao municipal encontrava motivacao no sentido de proporcionar ao cidadao curitibano um canal agil, de qualidade e eficiencia na resolucao das demandas, cujo principal objetivo residia em integrar o cidadao a cidade, propiciando entao a melhoria da qualidade de vida das pessoas. Obviamente estava presente a necessidade de criar um sistema que fosse capaz de satisfazer os anseios da populacao no tocante as suas solicitacoes e informacoes, e ao mesmo tempo permitir acompanhamento, controle e planejamento por parte dos gestores municipais, uma solucao simples e intuitiva e que suportasse todos os processos de trabalho da administracao, no tocante a resolucao de demandas do cidadao e possiveis integracoes com sistema legados presentes nas diversas Secretarias e Orgaos. Desta forma, as atividades cotidianas dos departamentos poderiam ser executadas conforme os processos ja definidos e contando com um sistema que fosse capaz de captar as demandas e distribuir para a devida execucao e posterior resposta ao cidadao, minimizando assim as dificuldades de uma transicao deste porte. Um sistema informatizado que seja capaz de prestar informacoes e acolher as demandas do cidadao, realizando o encaminhamento dos pedidos eletronicamente e em tempo real aos orgaos responsaveis. O servico esta disponivel por meio do telefone, portal na internet, chat e app Curitiba 156.
+
+Desde a concepcao do modelo de atuacao baseado na gestao de atendimento ao cidadao, havia um forte entendimento de que o diferencial da nova concepcao de atendimento obteria sucesso apenas se, pudesse proporcionar aos usuarios finais uma experiencia diferenciada no que diz respeito as tratativas relacionadas ao atendimento publico, visto que por muitos anos os departamentos administrativos da Prefeitura Municipal de Curitiba utilizaram o sistema convencional para detectar problemas que afetavam o dia-a-dia da populacao. Foi com a intencao de minimizar dificuldades e oferecer um servico mais eficiente a populacao que surgiu, em fevereiro de 1984, a Central de Atendimento da Prefeitura Municipal de Curitiba. Acessada pela populacao por meio de sistema de telefonia utilizando os tres digitos 156 o servico nasceu com a finalidade de diminuir as filas no atendimento pessoal e aproximar a populacao da Administracao Municipal. Era a primeira vez que a Administracao Municipal recebia sugestoes, reclamacoes, solicitacoes de documentos e fornecia todos os tipos de informacoes possiveis, por meio do telefone.
+
+O gerenciamento e a operacionalizacao da central de atendimento pelo 156 permitiu a modernizacao dos processos, chegando a obter destaque como o servico de atendimento ao cidadao mais agil e eficiente do Brasil. O sistema desenvolvido propicia uma integracao completa entre a Central e todos os orgaos da prefeitura, o que permite, em muitos casos, a resposta imediata ao cidadao. Durante as 24 horas do dia o cidadao tem um canal aberto com a administracao publica e pode usa-lo para fazer criticas, sugestoes, solicitacao de servicos, etc. E o exercicio diario da cidadania.
+
+As estatisticas de maio de 2019 indicam que foram realizados 215.274 atendimentos e 170.358 servicos e informacoes (considerando todos os canais de comunicacao) com satisfacao de 90,67% dos atendimentos e 75,93% dos servicos. A Figura 1 indica a quantidade de contatos por meio dos quatro diferentes canais de comunicacao do sistema.
+
+O canal mobile foi disponibilizado em marco de 2019 e tem sido utilizado principalmente para servicos e informacoes. Em apenas dois meses de uso (considerando as estatisticas de maio) ja superou significativamente a quantidade de acessos do ate entao canal mais acessado, o telefone.
+
+Na secao seguinte e apresentada a metodologia de trabalho que permitiu a integracao entre academia, industria e governo.
+
+Atravessando as pontes
+
+Antes do inicio do semestre letivo a docente enviou um email para o coordenador da equipe responsavel pelo sistema de atendimento ao cidadao apresentando a proposta de parceria. As aulas iniciaram antes da resposta ser enviada/recebida. Ao iniciar o semestre a proposta tambem foi apresentada para a turma que aceitou a responsabilidade de avaliar um sistema real. Alguns dias depois do inicio das aulas houve o encontro presencial da docente com a assessoria de comunicacao da empresa parceira em um evento de inovacao. Por meio deste contato, reforcou-se o convite de parceria que entao se concretizou em poucos dias.
+
+A disciplina foi dividida em tres etapas: (a) conhecimento do sistema (2 encontros (6h/aula) trabalho extra classe); (b) avaliacao por inspecao (4 encontros (12h/aula) trabalho extra classe) e; (c) avaliacao por observacao (6 encontros (18h/aula) trabalho extra classe). Nos outros 3 encontros da disciplina (9h/aula) foi feita a abertura e o encerramento da disciplina alem de uma avaliacao teorica.
+
+Na etapa de conhecimento do sistema os estudantes foram convidados a realizar um exercicio de cidadania, acessando o sistema por meio do canal internet (site) para realizar uma reclamacao, elogio ou solicitacao real, como exercicio extraclasse. A maioria estava usando o sistema pela primeira vez. Ao utilizar o sistema nesta etapa de conhecimento os estudantes deveriam registrar suas impressoes sobre a experiencia da interacao. Tais experiencias foram compartilhadas em sala de aula e nesta oportunidade foram formados os grupos. Para encerrar esta etapa de conhecimento do sistema foi feita uma visita tecnica na empresa com o objetivo de conhecer o contexto onde o sistema foi desenvolvido.
+
+Na etapa de avaliacao por inspecao foram aplicados dois metodos: Avaliacao Heuristica [4] e Metodo de Inspecao Semiotica [9, 10]. A partir da exploracao individual do sistema cada estudante deveria compartilhar suas percepcoes com o grupo para que entao pudessem decidir juntos sobre o foco da inspecao. Novamente nesta etapa apenas o site foi avaliado pois o aplicativo mobile foi lancado durante o processo de avaliacao e nao havia interesse da empresa em avaliar os canais de telefone e chat.
+
+Primeiramente foi aplicada a Avaliacao Heuristica com a sessoes individuais seguidas da sessao de consolidacao. Dando continuidade, cada estudante realizou a Inspecao Semiotica individualmente.
+
+Os resultados foram compartilhados com a docente, o coordenador de atendimento ao cidadao e um colaborador da empresa por 20 estudantes em apresentacoes individuais de 3 minutos, no estilo pitch3. Antes das apresentacoes o coordenador fez uma fala sobre a historia de desenvolvimento do sistema.
+
+Por fim, cada equipe realizou avaliacoes por observacao analisando os dados pelo criterio de usabilidade (Teste de Usabilidade [6]) e comunicabilidade (Metodo de Avaliacao de Comunicabilidade [8, 10]). Tres equipes observaram 5 pessoas (por equipe) e uma equipe realizou as observacoes com 7 participantes. Nesta etapa foram avaliados o canal de internet (site) e o aplicativo (mobile).
+
+Considerando que os estudantes ja tinham conhecimento dos metodos utilizados pois ja haviam cursado pelo menos a disciplina de Introducao a IHC o conteudo foi trabalhado em leituras individuais antes das aulas e em exercicios e dinamicas de revisao dos metodos.
+
+A seguir sao apresentados os resultados alcancados por cada tipo de avaliacao.
+
+Resultados
+
+Na etapa de avaliacao por inspecao ao todo foram apresentados 17 problemas distintos, classificados tanto por meio do criterio de usabilidade quanto de comunicabilidade. Entre os principais problemas encontrados destaca-se: (a) o uso do asterisco para campos obrigatorios no cadastro de usuarios do sistema, sem a devida indicacao do significado deste signo; (b) comunicacao do sistema com o sistema de consulta ao CEP e; (c) regras distintas para a senha do site e do aplicativo mobile.
+
+Embora o foco desta etapa fosse apenas o site, uma das estudantes explorou as potencialidades do Metodo de Inspecao Semiotica (e se...?) e foi alem do cenario, avaliando tanto o site quanto o aplicativo.
+
+A maioria dos problemas mapeados pelas avaliacoes por inspecao ja foram corrigidos pela equipe da empresa parceira, conforme pode ser visto na Tabela 1. Esta informacao foi repassada para a turma na apresentacao dos resultados das avaliacoes por observacao
+
+Os problemas identificados por meio das avaliacoes por observacao foram apresentados na ultima aula da disciplina para a docente, um colaborador da empresa e um colaborador da prefeitura. Duas equipes avaliaram o aplicativo e tres equipes avaliaram o site. Uma das equipes investigou o problema do uso do asterisco buscando identificar se um publico de perfil distinto e diversificado tambem poderia interpretar de modo equivocado o uso desse signo.
+
+No aplicativo o principal problema encontrado foi com o sistema de busca (linhas de onibus). Por sua vez, no site, os problemas identificados nas inspecoes foram confirmados pelas avaliacoes de observacao.
+
+Ao final da disciplina os estudantes foram convidados a responder um questionario de satisfacao sobre a experiencia de avaliar um sistema real e poder dialogar com a equipe responsavel pelo sistema. Os depoimentos a seguir ilustram pontos positivos da experiencia:
+
+Foi interessante, pois e raro poder falar diretamente com a equipe responsavel pelo desenvolvimento de um aplicativo e dar um feedback pessoalmente. (Estudante 2)
+
+O relato do Estudante 2 ilustra a importancia do feedback real da equipe de desenvolvimento. Uma experiencia rara e unica que promove a motivacao e o engajamento dos estudantes.
+
+A disciplina de Avaliacao em IHC desse semestre foi de longe a mais 'real' do curso. Como a formacao na UTFPR e voltada para a pesquisa, foi bem empolgante ver o "outro lado da moeda". Acho que a universidade publica poderia realizar mais acoes de contribuicao imediata como foi essa interacao que tivemos diretamente com o ICI. Passamos a exercer a cidadania. (Estudante 4)
+
+A contribuicao do Estudante 4 reforca o aspecto positivo do contato direto com a equipe responsavel pelo sistema. Alem disto, ressalta o compromisso da universidade publica para o bem da sociedade. Este aspecto tambem e destaque na fala da Estudante 6:
+
+Foi gratificante perceber que as nossas observacoes ajudaram a melhorar um sistema que contribui para toda a populacao de Curitiba. Ver a aplicacao da teoria na pratica, e ver as melhorias sendo implantadas reforcou a importancia de IHC, inclusive foi uma das observacoes feitas pelos representantes do ICI. Outro ponto positivo, foi a postura da professora, ela me incentivou a nao desistir e a ir mais fundo na teoria e nos experimentos ate resolver as avaliacoes propostas. (Estudante 6)
+
+A Estudante 6 tambem ressalta a importancia do feedback e do papel de apoio que o docente deve dar/exercer para manter a motivacao dos alunos.
+
+As avaliacoes por observacao trouxeram muitas informacoes que nao percebiamos enquanto simulavamos uma experiencia de um usuario qualquer (persona). (Estudante 17)
+
+A percepcao do Estudante 17 sobre as contribuicoes dos metodos de avaliacao por observacao e extremamente valiosa. Somente a pratica real destes metodos permite que os estudantes vivenciem a riqueza da experiencia de observar pessoas reais interagindo como sistema.
+
+Foi incrivel O fato de trabalharmos com pessoas diferentes, fez com que alem de criar novas amizades permitisse aprender a lidar com um "ambiente" diferente do que estava acostumado. (Estudante 12)
+
+O depoimento do Estudante 12 destaca o ponto positivo de trabalhar com equipes formadas por outros criterios que nao o de afinidade, em geral preferido pelos estudantes.
+
+Os representantes do ICI tambem foram convidados a expor sua opiniao sobre a experiencia, conforme relatos a seguir:
+
+A parceria foi extremamente proficua, pois por meio dos apontamentos da equipe da UTFPR pudemos identificar alguns problemas. E tambem utilizar os relatorios para sensibilizar a area de projetos e priorizar as melhorias e ajustes. Estes encaminhamentos possibilitaram maior eficiencia da ferramenta e diminuicao do retrabalho nas equipes de atendimento e para os usuarios. Certamente a avaliacao dos usuarios torna-se mais positiva na medida em que o servico se tornou mais amigavel e intuitivo. (Coordenador da equipe responsavel pelo sistema)
+
+Quando diferentes publicos da sociedade unem forcas para buscar melhorias e solucionar problemas, toda populacao e beneficiada. Os apontamentos da academia sobre nosso site e aplicativo foram extremamente importantes e nos permitiu avaliar nossos produtos de outra perspectiva. Percebemos que os usuarios possuem experiencias distintas de navegacao e o que parece ser facil para um, pode nao ser para outro. Desta forma, entendemos que com as correcoes, mais usuarios serao inclusos ao processo, tornando a navegacao uma experiencia mais democratica e acessivel para todos. (Colaborador da equipe)
+
+Por fim, na perspectiva da docente:
+
+A experiencia foi gratificante Ter a oportunidade de proporcionar uma experiencia real, enriquecedora e motivadora para meus alunos e incrivel Ver o brilho nos olhos de cada um deles ao terem seus trabalhos reconhecidos pelos responsaveis pelo sistema tambem me motiva a continuar nesta jornada desafiadora e encantadora da docencia. Agradeco imensamente ao ICI e toda a sua equipe por aceitarem nossas contribuicoes. (Docente)
+
+Os relatos de estudantes, docente e colaboradores do ICI ilustram o sucesso da experiencia. Entretanto, um ponto de melhoria foi indicado por alguns estudantes. Eles sugerem que o conteudo dos metodos seja apresentado com mais tempo durante as aulas.
+
+Na proxima secao sao apresentadas as consideracoes sobre a experiencia de parceria entre academia, industria e governo.
+
+**CONSIDERAÇOES FINAIS**
+
+O sucesso da experiencia da articulaçao entre academia, industria
+e governo se da por diversos fatores. Primeiramente, a
+disponibilidade e a iniciativa da docente em trabalhar em um
+contexto novo, confiando nao somente no seu trabalho, mas no
+comprometimento, engajamento e competencia de seus(suas)
+estudantes.
+
+O segundo fator esta relacionado com a confiança e o respeito da
+empresa e do governo pelo trabalho realizado pela docente e
+seus(suas) estudantes. Alem do interesse e disponibilidade de
+articulaçao com a universidade.
+
+O terceiro fator se concretiza com o interesse e comprometimento
+dos(as) estudantes ao aceitarem a responsabilidade de realizarem
+avaliaçoes de um sistema real. O mote da cidadania foi motivador
+para o desempenho da turma.
+
+Complementarmente, uma turma com 20 estudantes permite que
+haja tempo para feedbacks constantes e de qualidade, seja por
+parte da docente seja por parte dos representantes da empresa.
+
+Por fim, apresentaçoes em estilo agil cumprem o papel de
+informaçao para a equipe da empresa e permitem o dialogo dentro
+do curto espaço de tempo das aulas e das restriçoes de agenda dos
+representantes da empresa, conforme ilustra o relato da Estudante
+18:
+*Abordagem pratica dos metodos, boa base teorica,
+apresentaçoes com formatos simples e diretos.*
+
+
+Espera-se com este artigo motivar outras parcerias entre a
+academia, a industria e o governo para que a universidade possa
+cumprir o seu papel no processo de formaçao de profissionais
+competentes, motivados e comprometidos com o bem da
+sociedade.
+
+**CONSIDERACOES FINAIS**
+
+A experiencia relatada neste artigo demonstra os beneficios da colaboraçao entre a academia, a industria e o governo no contexto do ensino de IHC. A parceria entre a UTFPR e o ICI permitiu que os alunos aplicassem seus conhecimentos teoricos em um projeto real, contribuindo para a melhoria de um sistema utilizado por cidadaos de Curitiba. Alem disso, a experiencia proporcionou aos estudantes a oportunidade de interagir com profissionais do mercado e compreender as demandas e desafios da area. A iniciativa demonstra o potencial da articulaçao entre diferentes setores da sociedade para o desenvolvimento de soluçoes inovadoras e relevantes para a comunidade.

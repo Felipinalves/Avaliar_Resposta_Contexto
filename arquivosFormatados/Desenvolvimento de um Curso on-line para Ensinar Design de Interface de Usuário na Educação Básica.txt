@@ -1,0 +1,201 @@
+**RESUMO**
+
+Com a onipresença da tecnologia, evidencia-se a necessidade do
+ensino de computaçao na educaçao basica, assim como de outras habilidades,
+como o design de interfaces de usuario. Por isso, desenvolvemos o curso
+"Principios de Design de Interface Visual", on-line gratuito e interativo em
+portugues, que apresenta principios basicos do design visual de apps Android,
+como cores, tipografia e imagens. O curso tambem ensina como aplicar esses
+conceitos, criando interfaces de usuario com o App Inventor. Os resultados de
+uma avaliaçao inicial por meio de um painel de especialistas envolvendo
+professores e alunos do ensino fundamental e medio consideram o curso util
+para popularizar o conhecimento de design como parte do ensino de
+computaçao na Educaçao Basica.
+
+**INTRODUCAO**
+
+O ensino de computaçao esta sendo mundialmente inserido na Educaçao Basica a fim de
+atender as necessidades do dominio de habilidades do seculo XXI. Para tanto,
+atualmente estao surgindo iniciativas que visam o ensino de pensamento computacional
+tipicamente por meio do ensino de programaçao de artefatos de software (como p.ex.
+app com App Inventor). No entanto seria relevante que os estudantes aprendessem a
+criar soluçoes atentos a usabilidade ja que a usabilidade interfere diretamente na
+qualidade e na interaçao do usuario [Kortum and Sorber, 2015]. A usabilidade depende,
+entre outras caracteristicas, do design visual da interface de usuario [ISO/IEC 25010,
+2011]. O design visual se organiza a partir de meta-principios (consistencia, hierarquia e
+personalidade) considerando os principios de contraste, uniformidade, coerencia e
+layout, e envolve o uso de elementos como cor, tipografia e imagens [Garrett, 2011]
+[Schlatter and Levinson, 2013]. E relevante frisar que a usabilidade faz parte da area de Interaçao Humano-Computador (IHC), que e uma area de conhecimento relacionada a
+computaçao (CSTA, 2017).
+
+Nesse sentido, observa-se a importancia de ensinar o design visual tambem
+neste contexto na Educaçao Basica [MEC, 2018] [SBC, 2018]. Porem, observa-se que a
+maioria dessas iniciativas de ensino de computaçao para este nivel educacional limita-se
+ao ensino de conceitos de programaçao (eventos, funcionalidades, condicionais, loops,
+etc.) deixando de fora outras competencias importantes e necessarias para o sucesso
+desses artefatos, como as dirigidas as areas de conhecimento do IHC, como design de
+interface [Ferreira et al., 2020].
+
+Sendo assim, com o objetivo de completar o ensino de computaçao na
+Educaçao Basica, apresenta-se neste artigo o desenvolvimento e a avaliaçao inicial de
+um curso que reune as areas de conhecimento da computaçao (IHC) e do design de
+forma interativa e on-line. Os resultados apontam que o curso podera ser utilizado por
+instrutores para contribuir com a popularizaçao deste conhecimento em escolas
+Brasileiras e para designers instrucionais.
+
+**METODOLOGIA DE PESQUISA**
+
+O presente trabalho foi desenvolvido como pesquisa exploratoria utilizando uma
+abordagem multimetodo, dividida em tres partes:
+
+Revisao da literatura. Inicialmente, foi realizado um estudo de mapeamento
+sistematico sobre unidades instrucionais voltadas ao ensino de design visual de UI na
+educaçao basica seguindo Petersen et al. (2008). Foram analisados artigos publicados
+em Ingles e Portugues disponiveis na Web por meio das principais bibliotecas e bases de
+dados digitais (IEEE Xplore, Biblioteca Digital ACM, Wiley, Springer e Scopus),
+Google Scholar e plataformas de MOOCs, incluindo Udemy, Edx, Khanacademy e
+Coursera para minimizar os riscos de omissao (os resultados dessa revisao foram
+publicados em [Ferreira et al., 2018]). A maioria dos cursos apresenta linguagem
+simples para iniciantes, contudo todos utilizam o mesmo metodo passivo de ensino, por
+meio de video sem interaçao e sem exercicios praticos, o que dificulta a fixaçao do
+conteudo pelo aluno.
+
+Desenvolvimento da unidade instrucional. O curso foi sistematicamente
+desenvolvido a partir do modelo de design instrucional ADDIE [Branch, 2009]. Na
+primeira etapa foi analisado o contexto educacional e perfil dos alunos, para definir os
+objetivos de aprendizagem e a estrategia instrucional. De acordo com o plano de ensino
+definido, foi desenvolvido o material instrucional utilizando o App Inventor como
+ambiente de programaçao.
+
+Aplicaçao e avaliaçao da unidade instrucional. O curso foi aplicado e
+avaliado por meio de um estudo de caso exploratorio em 2021-1. O estudo de caso foi
+definido, planejado, executado e analisado de acordo com Wohlin et al. (2012). A
+avaliaçao foi definida adotando a abordagem Goal/Question/Metric (GQM) [Basili et
+al., 1994] e baseada nos modelos dETECT [Gresse von Wangenheim et al., 2017]. Os
+dados foram coletados por meio de questionarios e analisados de forma descritiva.
+
+**O CURSO PRINCIPIOS DO DESIGN VISUAL DE INTERFACE**
+
+O objetivo do curso Principios do Design Visual de Interface e introduzir conceitos
+basicos de design visual de interfaces de apps Android, como cores, tipografia e
+imagens. Alem disso, ensina como implementar estes conceitos, criando apps com o
+MIT App Inventor. Possui carater introdutorio com uma duraçao curta de aprox. 2 horas
+direcionado a jovens dos anos finais do ensino fundamental, supondo um conhecimento
+basico de como desenvolver apps com App Inventor, mas sem conhecimento previo em
+design. Assim, o objetivo de aprendizagem e ensinar a projetar o design visual de um
+aplicativo Android, desde a escolha dos elementos (cor, tipografia e imagem) ate a
+composiçao final da interface, seguindo as principais diretrizes curriculares do design
+[Aiga, 2013] [UXQB, 2018] e da teoria do design visual [Cooper, 2014][Schlatter e
+Levinson, 2013] completados pelas da area de computaçao [CSTA, 2017][SBC, 2018],
+no contexto especifico na Educaçao Basica (Tabela 1).
+
+O curso foi organizado em quatro partes (conforme plano de ensino apresentado
+na Tabela 2). A primeira parte visa motivar a funçao do design visual de um aplicativo,
+apresentando o conceito e funçao da interface e os componentes e elementos visuais. Na
+segunda parte sao abordados conceitos sobre a cor, revisando tambem conteudos
+ensinados no curriculo escolar, como cores complementares e analogas no circulo
+cromatico e as possiveis combinaçoes harmonicas. Tambem e enfatizada a importancia
+das escolhas das cores em interface de aplicativos moveis e sao mostrados exemplos de
+como elas podem influenciar na usabilidade. Na terceira parte sao ensinados conceitos
+relativos a tipografia e explicadas as diferenças entre fontes com serifa e sem serifa e
+apresentadas algumas familias tipograficas a fim de orientar os alunos no modo como
+usa-las em seus projetos. Em seguida, os principios da aplicaçao das fontes sao
+explicados (alinhamento, hierarquia, tamanho e legibilidade). Na sequencia e ensinado a
+funçao e as tipologias das imagens por meio de exemplos. Foca-se, principalmente, em
+icones tipicamente usados nos aplicativos, suas caracteristicas e propriedades.
+
+O curso foi projetado para ser interativo e on-line, para ser realizado de forma
+assincrona, devido as restriçoes das atividades presenciais por causa da pandemia, com
+uma estrategia educacional que inclui a exposiçao do conteudo teorico por meio de
+slides interativos, videos e demonstraçoes. Alem disso, o curso apresenta a aplicaçao
+dos conceitos em atividades praticas, que guiam o aprendiz passo-a-passo para aplicar
+os conceitos no desenvolvimento de apps no App Inventor. A avaliaçao da
+aprendizagem do aluno e realizada por meio de quizzes on-line, que permitem tambem
+um feedback imediato. Sendo on-line, o curso pode ser realizado por qualquer
+interessado individualmente no seu ritmo e pode ser aplicado na modalidade presencial,
+como parte de cursos de computaçao, ele esta disponivel gratuitamente em:
+
+De acordo com o plano de ensino, o material educacional foi desenvolvido em
+Portugues do Brasil, conforme ilustrado na Tabela 3.
+
+**AVALIACAO INICIAL DO CURSO**
+
+Definiçao e execuçao da avaliaçao. De forma exploratoria foi realizada uma avaliaçao
+inicial do curso desenvolvido por meio de um painel de especialistas. O objetivo e
+analisar a qualidade do curso em termos de utilidade, dificuldade, diversao, satisfaçao,
+completude e formato sob a percepçao dos professores e dos estudantes. Para
+operacionalizar a coleta de dados foram desenvolvidos questionarios on-line via Google
+Forms, um para os professores e outro para os alunos, considerando os diferentes pontos
+de vista. Participaram da avaliaçao 5 alunos (2 do ensino medio e 3 do ensino
+fundamental) e 5 professores (4 do ensino medio e 1 do ensino fundamental). A
+avaliaçao ocorreu conforme planejada no inicio de 2021. Durante a avaliaçao os
+participantes realizaram o curso on-line e ao final responderam o respectivo questionario
+de avaliaçao.
+
+Analise dos dados. Todos os professores e alunos avaliaram o curso como util
+para a aprendizagem e ensino de design de interface de aplicativos. Entre os alunos,
+somente um nao considerou o curso util, mas tambem nao justificou o motivo. Em
+relaçao aos conteudos e o formato do curso (atividades interativas on-line), todos
+avaliaram como completos, adequados e pertinentes para serem ensinados na Educaçao
+Basica. O nivel de dificuldade foi avaliado por todos os professores e alunos como
+muito facil ou facil. Todos afirmaram que conseguiram entender o que e design visual e
+que conseguem criar um design visual para um aplicativo movel atrativo e facil de usar.
+A diversao foi o fator de qualidade que mais houve dispersao das respostas tanto do
+ponto de vista dos professores quanto dos alunos, o que pode ter sido influenciado pelo
+grau de dificuldade das atividades interativas. No entanto, de forma geral, a maioria
+considerou o curso excelente e somente um professor e aluno classificaram como bom.
+
+Pontos fortes. Os alunos apontaram como pontos fortes a linguagem utilizada,
+o design dos slides e os exemplos, que consideram simples e explicativos. O principal
+ponto forte mencionado pelos professores foi a utilizaçao dos quizzes, que contribuem
+para a assimilaçao do conteudo (pois faz o aluno pensar sobre o que estudou) e pode
+atuar como um fator de estimulo devido a gamificaçao (com contagem de pontos).
+Outros pontos fortes apontados foram o roteiro e o material didatico.
+
+Sugestoes de melhoria. As sugestoes de melhoria foram principalmente
+relacionadas a ampliaçao do conteudo de tipografia. Foi sugerido tambem a inclusao de
+mais questoes interativas de todos os conteudos e a adiçao de novas atividades, com
+nivel de dificuldade maior. Foi recomendado possibilitar que os alunos enviassem seus
+projetos de interface para formar um portfolio de apps. Outras sugestoes foram: incluir
+feedback explicativo de questoes, inverter a ordem de alguns conceitos e atividades,
+melhorar a transiçao de slides (segundo o avaliador o botao e muito pequeno e demora
+a mover para o proximo slide). Alem disso, foi sugerida a reduçao de atividades
+externas para nao desviar a atençao.
+
+Ameaças a validade. Uma ameaça e a falta de afeiçao do conhecimento dos
+participantes no inicio do curso, o que torna impossivel medir a aprendizagem resultante
+do curso. Porem nao aplicamos um teste diagnostico para nao impactar negativamente a
+percepçao da diversao do curso voluntario. Outra ameaça e que aspectos como diversao e satisfacao são dificeis de medir. Para contornar isso, derivamos os instrumentos de
+medicao com base em modelos validados em larga escala. Alem disso, o fato de o curso
+ter sido avaliado por apenas 10 participantes do painel de especialistas reduz a
+possibilidade de generalização dos resultados. Outra ameaca a validade da avaliacao é o
+fato de os avaliadores terem utilizado equipamentos e infraestrutura proprios causando
+problemas de conexao e velocidade de internet. Porem projetando o curso para o ensino
+nao presencial, estes fatores de inuencia fazem parte do contexto do curso.
+
+
+**CONCLUSAO**
+
+Aprender a compor uma interface e um processo complexo e por essa razao os
+iniciantes tem diversas dificuldades, as quais sao evidenciadas pela falta de estetica
+visual e pelo baixo grau de conformidade com guias de estilo nos aplicativos criados
+pelos alunos. Por outro lado, planejar, desenvolver e aplicar soluçoes com o objetivo de
+facilitar a experiencia do usuario e de estimular sua interaçao com um aplicativo, se
+torna cada vez mais essencial nos dias de hoje tendo em vista a ascensao da tecnologia e
+a onipresença dos dispositivos moveis no nosso cotidiano. Quando se fala a respeito da
+interaçao do usuario com aplicativos, evidencia-se a interface e, consequentemente, o
+design visual das interfaces.
+
+Com esta motivaçao apresentamos neste artigo o curso Principios do Design
+Visual de Interface, que visa ensinar conceitos basicos de design visual de apps com
+App Inventor na Educaçao Basica. Primeiros resultados de uma avaliaçao fornecem uma
+indicaçao de que os conteudos de design de interface podem ser introduzidos na
+Educaçao Basica. Os professores e alunos avaliaram a experiencia do curso de maneira
+positiva, indicando que o curso pode possibilitar o ensino desses conceitos de maneira
+adequada e pertinente. Como trabalhos futuros pretende-se atender as sugestoes de
+melhoria indicadas e a realizaçao de estudos empiricos na pratica para uma avaliaçao
+mais ampla.
+
+**CONSIDERACOES FINAIS**
+
+Este trabalho apresenta um curso on-line para ensinar design de interface de usuario na educaçao basica, visando capacitar os alunos a criar aplicativos com usabilidade e estetica visual aprimoradas. Os resultados da avaliaçao inicial indicam que o curso e util e adequado para esse nivel de ensino, sendo um passo importante para popularizar o conhecimento de design no contexto da computaçao na educaçao.

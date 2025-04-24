@@ -1,0 +1,79 @@
+**INTRODUCAO**
+
+Com o avanco da tecnologia nos ultimos anos, e notorio
+cada vez mais o uso da mesma para a ajuda e
+acompanhamento dos mais diversos assuntos e temas, como
+na medicina, fisioterapia, psicologia, pois ela proporciona
+um maior acesso as informaçoes, assim como facilita a
+analise de resultados especificos destas areas citadas. A
+Realidade Virtual (RV) e um exemplo de tecnologia que
+vem crescendo e se tornando cada vez mais popular neste
+meio, visto que esta tem o potencial de disponibilizar a
+imersao em um ambiente simulado em qualquer area que
+possa ser aplicada, alem de gerar resultados que podem ser
+comparados a resultados reais.
+
+Diante deste crescimento, pessoas das demais areas
+procuram cada vez mais o uso da tecnologia de RV para
+simular ambientes virtuais em busca de uma analise mais
+profunda e de resultados que possam ser aplicados em
+situaçoes reais. Recentemente, as tecnologias baseadas em
+RV tem proposto inovaçoes e se tornado cada vez mais
+utilizadas e acessiveis, possibilitando a visualizaçao de
+estimulos de uma forma mais proxima ao que ja existe no
+dia-a-dia.
+
+O caso deste projeto leva em conta crianças que sofrem
+com o Transtorno Espectro Autista (TEA). O autismo
+refere-se a certas condiçoes que se caracterizam por
+dificuldades e desafios com habilidades sociais, tais como
+falta de comunicaçao e repetiçao de comportamentos.
+Segundo o Jornal de Pediatria do Rio de Janeiro , houve
+nas ultimas decadas um aumento drastico em relaçao as
+crianças diagnosticada com algum tipo de Transtorno
+Espectro Autista, chegando a atingir 1% das crianças.
+
+**METODOLOGIA**
+
+Para a coleta de ideias que poderiam ajudar na criaçao do
+ambiente virtual interativo, foi realizada uma pesquisa
+sobre a influencia da Realidade Virtual e seu verdadeiro
+impacto perante as demais areas que foram em busca da
+tecnologia como metodo alternativo de tratamento para seus
+pacientes, visto que a mesma ja e utilizada em diversas
+areas de estudo como treinamento, aviaçao e ate mesmo na
+area da saude  Foi concluido que o uso da RV realizados
+nesses estudos mostrou sua eficacia de forma a confirmar
+que o projeto poderia ser realizado com exito.
+
+O sistema consiste de sessoes onde o pai/especialista
+escolhe determinados estimulos para utilizar durante a
+sessao. Estes estimulos sao escolhidos por pares e
+apresentados para o paciente, onde o mesmo deve escolher
+o de sua preferencia. Apos analise desses estimulos durante
+a sessao, o pai deve fazer o registro de escolhas assim como
+a futura analise dos resultados obtidos.
+
+Estas interaçoes tem como objetivo nao somente verificar o
+comportamento da criança em resposta as interaçoes do
+usuario, mas tambem verificar seus interesses por cada estimulo que lhe foi apresentado. Como a criança tera
+preferencia por certos estimulos, havera a troca destes
+durante a sessao de modo a se verificar o de maior interesse
+da crianca e assim gerar os resultados que serão extraidos
+da sessao para uma melhor analise por parte dos
+especialistas.
+
+Estes dados tem como objetivo uma melhor analise por parte dos especialistas que pretendem ajudar os pais durante este tratamento. Dependendo da acao do usuario ou se o mesmo demorar demais ou, ainda, agir muito rapido, o modelo da crianca podera agir de formas diferentes, como formas de resposta ao comportamento do proprio pai. Dessa forma, estas informacoes vem com proposito de auxiliar estes usuarios a saberem lidar da melhor forma com suas criancas, tendo em vista uma melhoria de suas acoes em cada sessao que segue.
+
+Apos terminar o desenvolvimento do projeto, e necessario a compila-lo e realizar a sua build, isto e, criar o projeto executavel para cada versao desejada para que assim seja possivel sua utilizacao fora do motor grafico. Esta build tambem conta com certas configuracoes para cada versao, tais como alocacao maxima de memoria para a versao web e ajustes de tamanho de tela, para que haja o redimensionamento desta dependendo de onde o sistema esta sendo executado.
+
+O projeto e composto por duas versoes, sendo uma para Desktop, com a utilizacao do Oculus Rift e outra utilizando a API WebGL. A primeira tem como objetivo uma maior sensacao de imersao no ambiente virtual, objetivando uma experiencia mais proxima a que ocorre em sessoes reais. Ja a segunda conta como uma alternativa online para o projeto, visto que nem sempre o Oculus Rift estara disponivel para a realizacao da sessao.
+
+Alem do simulador em sim como resultado, um teste de usabilidade foi realizado com 8 pessoas, sendo coletados dados dos participantes como genero, formacao academica, tempo de experiencia com a populacao no TEA, alem de um questionario referente as suas respectivas experiencias quanto ao uso do simulador, objetivando uma coleta de dados que podera servir para a realizacao de futuros trabalhos alem de verificar o que se poder melhorar dentro do sistema para uma melhor experiencia da parte do usuario.
+
+O presente trabalho mostra uma nova alternativa de treinamento para pessoas que necessitam interagir com pessoas com TEA para que estejam prontas para comportamentos mais comuns nestes individuos. Ja para profissionais da area, esta proposta tem como objetivo fornecer dados necessarios para uma melhor analise comportamental nao so da crianca, mas tambem dos pais, tornando possivel nao so um melhor acompanhamento como tambem decidir um melhor caminho e etapas a serem seguidas para o tratamento da crianca.
+
+Verificou-se, a partir do questionario, que algumas mudancas podem ser realizadas para a melhoria na interacao entre o usuario e o ambiente virtual. Outro ponto a ser analisado e a parte de consequencias adequadas para a continuacao da sessao, assim como a etapa de feedback para uma melhor experiencia e interacao para os jogadores.
+
+De acordo com o feedback dos usuarios que fizeram testes na ferramenta, este projeto possui potencial para inovacao, alem de trabalhos futuros que podem surgir a partir deste. Alem disso, o projeto pode contribuir significativamente com um melhor acesso as informacoes sobre o comportamento destas criancas, facilitando o acesso as pessoas que tem interesse em saber mais ou que precisam se informar mais sobre o problema em questao.
+

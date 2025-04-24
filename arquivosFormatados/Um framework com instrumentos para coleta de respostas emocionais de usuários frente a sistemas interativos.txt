@@ -1,0 +1,134 @@
+**RESUMO**
+
+Analisar as respostas emocionais dos usuarios e um desafio para
+os profissionais da Computaçao. Esses profissionais costumam desenvolver
+soluçoes para outras areas e, na maioria das vezes, a avaliaçao dessas soluçoes
+fica a cargo de especialistas no dominio estudado. Este trabalho apresenta
+um framework que combina diferentes ferramentas de avaliaçao, especialmente
+para avaliar respostas emocionais, em um unico ambiente virtual. O principal
+objetivo do framework e fornecer ferramentas que profissionais de diferentes
+areas, incluindo a Computaçao, possam usar para avaliar as respostas emoci-
+onais durante o uso de seus aplicativos. O framework foi construido e avaliado
+com especialistas em Psicologia, Gerontologia e Computaçao. Dentre os resul-
+tados positivos de sua utilizaçao, destaca-se a reduçao no tempo de aplicaçao
+dos instrumentos e a reduçao na inserçao de dados e calculos errados.
+
+**INTRODUCAO**
+
+Existem diferentes formas de avaliar um produto, seja ele um bem fisico, um serviço
+prestado ou uma soluçao computacional. A Interaçao Humano-Computador (IHC) e uma
+area de pesquisa da Ciencia da Computaçao na qual a etapa de avaliaçao possui grande
+relevancia. Durante a etapa de avaliaçao de um produto, sao identificados problemas que
+nao foram percebidos em estagios anteriores. Assim, apos uma avaliaçao criteriosa e a
+correçao dos possiveis problemas encontrados, o usuario tem a chance de receber um
+produto mais seguro.
+
+As emoçoes dos usuarios desempenham um papel importante em todas as tare-
+fas realizadas no computador. Ou seja, como um dos aspectos compreendidos pela Ex-
+periencia do Usuario (UX), as respostas emocionais dos usuarios durante a interaçao com
+sistemas computacionais, sao um aspecto fundamental para ajudar a compreender tal ex-
+periencia . Atualmente a UX e considerada um fator crucial para o
+desenvolvimento bem-sucedido de sistemas interativos. Segundo a norma ISO 9241-210,
+a UX e definida como as percepçoes e respostas de uma pessoa que resultam do uso e/ou
+uso antecipado de um sistema, produto ou serviço .
+
+A area de IHC e fundamentalmente interdisciplinar e, e, em geral, comum que pes-
+quisadores de IHC projetem soluçoes computacionais para outras areas .
+Em geral, o desenvolvimento dessas soluçoes ocorre em parceria com profissionais de
+ambos os lados, tendo em vista que os profissionais da Computaçao desconhecem os
+conceitos das demais areas e vice-versa. Uma vez desenhada uma soluçao, e importante
+garantir que ela seja adequada e efetiva ao seu proposito. Avaliaçoes devem ser conduzi-
+das nas diferentes etapas do processo de desenvolvimento, mas uma avaliaçao final de uso e fundamental para saber se a soluçao desenvolvida e, de fato, efetiva e atende a sua pro-
+posta. Porem, a interdisciplinaridade envolvida no processo eleva o grau de complexidade
+destas avaliaçoes. Em diversas situaçoes, no entanto, essa avaliaçao final e conduzida por
+profissionais especialistas no dominio estudado. A equipe da Computaçao muitas vezes
+nao acompanha e nem recebe feedback do usuario final ou do especialista do dominio.
+Esse e um cenario bastante recorrente na academia.
+
+As principais dificuldades enfrentadas pelos profissionais, seja da Computaçao ou
+das outras areas, sao planejar e executar estudos em diferentes dominios, devido as ne-
+cessidades especificas de cada publico e das soluçoes propostas. Dificuldades durante
+a avaliaçao sao particularmente problematicas, tendo em vista que e durante a etapa de
+avaliaçao que possiveis problemas de interface e de interaçao do usuario (nao identifi-
+cados nas etapas de projeto e desenvolvimento) sao percebidos e corrigidos. Diversos
+requisitos podem ser analisados durante uma avaliaçao com usuarios alvo, desde requisi-
+tos nao funcionais tradicionais, como usabilidade, comunicabilidade e acessibilidade, ate
+requisitos relativamente novos no contexto da Computaçao, como a resposta emocional
+dos usuarios. Todavia, as emoçoes compreendem dados complexos e nao triviais para me-
+dir. Ao contrario de outros requisitos, que buscam avaliar se uma soluçao e acessivel ou
+facil de usar, as respostas emocionais sao parametros que refletem diretamente a eficacia
+de uma soluçao. Se uma soluçao e acessivel, tem boa usabilidade, mas provoca sentimen-
+tos negativos, e improvavel que o usuario a use novamente. Portanto, e crucial entender o
+que uma soluçao pode despertar no usuario final.
+
+**FRAMEWORK**
+
+O framework e composto por instrumentos de avaliaçao de autorrelato de diversos requi-
+sitos nao funcionais agora em suas versoes digitais, que podem ser aplicados nao so por
+profissionais dos dominios para os quais foram criados, mas tambem por profissionais de
+outros dominios, tais como a Computaçao. Para os profissionais do dominio, o framework
+fornece uma versao digital do instrumento, que pode reduzir o tempo de aplicaçao e fa-
+cilitar a inserçao de dados, assim como o calculo e a exibiçao dos resultados. Para os
+profissionais da Computaçao, por sua vez, o framework e uma forma de empodera-los e
+fornecer autonomia para a avaliaçao das soluçoes criadas de forma interdisciplinar.
+
+O framework tem como funçao: a) auxiliar o profissional da Computaçao a en-
+contrar ferramentas adequadas para o publico alvo da sua aplicaçao levando em
+consideraçao as particularidades dos usuarios, bem como o contexto de uso e o requisito
+a ser avaliado (ex.: usabilidade, acessibilidade, resposta emocional); b) auxiliar profissio-
+nais, sobretudo da area da Saude, a aplicarem seus instrumentos no formato digital e com
+rapida visualizaçao dos resultados, c) viabilizar que profissionais da Computaçao, com o
+respaldo do especialista de dominio, tambem possam usar instrumentos e protocolos de
+outros dominios de modo a obter resultados sobre a efetividade no uso da sua soluçao
+computacional.
+
+**INSTRUMENTOS SELECIONADOS**
+
+Os sete instrumentos selecionados para compor a versao funcional do framework podem
+ser aplicados por profissionais que nao sao especialistas do dominio de origem, bem como
+sao distribuidos gratuitamente e possuem traduçao validada para o portugues brasileiro.
+
+Os instrumentos selecionados avaliam respostas emocionais dos usuarios frente a sistemas interativos, bem como a usabilidade de solucoes computacionais (o que inclui satisfacao subjetiva) e tambem questoes relacionadas a qualidade de vida dos respondentes. Conforme ja citado, sao instrumentos oriundos das areas da Computacao, Psicologia e Gerontologia e serao brevemente descritos a seguir.
+
+Self-Assessment Manikin (SAM). Um questionario pictografico, desenvolvido por Bradley e Lang (1994) para medir a resposta emocional de individuos. O questionario, da Psicologia foi projetado para medir tres dominios de uma resposta emocional (valencia/satisfacao, excitacao/motivacao e dominancia/sentimento de controle) identificadas como centrais pelos autores [Bradley and Lang 1994];
+
+System Usability Scale (SUS). Desenvolvido por Brooke (1995) como uma medida "rapida" de usabilidade. O SUS e uma escala Likert que fornece uma visao geral das classificacoes subjetivas de usabilidade. A pontuacao do questionario resulta em um score de usabilidade que varia de 0 a 100. Quanto mais proximo de 100 e o score obtido, melhor e a usabilidade do sistema [Brooke 1995];
+
+Escala de Humor de Brunel (BRUMS). Desenvolvido para permitir a medicao rapida do estado de humor de populacoes compostas por adultos e adolescentes. O BRUMS possui 24 itens organizados em seis subescalas: raiva, confusao, depressao, fadiga, tensao e vigor, cada uma com quatro itens. Os respondentes do instrumento selecionam, a partir de uma escala numerica de zero a quatro (onde, 0 = nada, 1 = um pouco, 2 = moderado, 3 = suficiente; 4 = extremamente), a opcao que eles acreditam que melhor representa a situacao naquele momento;
+
+Escala de Afetos Positivos e Negativos (PANAS). Um instrumento da Psicologia proposto por Watson, Clark e Tellegen (1988). Esse instrumento e composto por 20 itens, com 10 itens medindo o afeto positivo e 10 itens medindo o afeto negativo. O PANAS foi projetado para medir o afeto em varios contextos, como no "momento presente", "no ultimo dia", semana ou ano, ou, em geral (em media) [Watson et al. 1988];
+
+Escala de Afetos de Zanon (EA). Instrumento composto por duas escalas, uma positiva e outra negativa. A EA foi proposta por Zanon et al. (2013) e e uma escala com itens compostos por frases, e nao por adjetivos, como o PANAS. A EA possui 20 sentencas que descrevem sentimentos e emocoes do passado e do presente. A resposta e apresentada em uma escala Likert de cinco pontos. Quanto mais proximo de cinco, mais o item descreve o respondente. Quanto mais proximo de um, menos o item o descreve;
+
+Lista de Estados de Animo Presentes (LEAP). Tem por base diversos trabalhos experimentais realizados com sujeitos e contextos brasileiros [Engelmann 1986]. A lista e composta por 40 locucoes, escritas em portugues, que traduzem estados de espirito possiveis de manifestar [Bueno and Di Bonifacio 2007];
+
+Plano de Atencao Gerontologica (PAGe). O instrumento e utilizado para auxiliar gerontologos na avaliacao multidimensional do idoso. O PAGe atual possui 104 questoes, divididas em quatro dominios distintos: psicologico, biologico, socioambiental e transversal. Cada dominio tem suas demandas. Por exemplo, as demandas do dominio psicologico sao deficits cognitivos, atitude negativa em relacao ao processo de envelhecimento e depressao.
+
+2.2. Sistema
+
+A versao atual do framework disponibiliza, de maneira digital, os sete instrumentos descritos acima. Duas interfaces distintas sao oferecidas: a primeira destina-se ao usuario "especialista" e a outra ao usuario "respondente". A interface dos especialistas e dividida em tres abas: instrumentos, cadastro e resultados. Enquanto a interface do respondente contem apenas a aba de instrumentos.
+
+As paginas dos instrumentos seguem o mesmo padrao, exceto para o instrumento PAGe. Elas tem o nome do instrumento, uma frase inicial e um botao que, ao ser pressionado, mostra exemplos de como responder aos instrumentos. O PAGe nao possui sentenca inicial e nem exemplo.
+
+Para consultar os resultados dos instrumentos respondidos, o especialista deve acessar a aba de resultados. Cada instrumento tem uma pagina de resultados diferente, com caracteristicas e visualizacoes especificas para os dados coletados.
+
+Para a construcao do sistema foi adotada a metodologia de Prototipagem Evolutiva da Engenharia de Software [Pressman and Maxim 2016], com atividades de Design Participativo [Schuler and Namioka 1993], buscando assim uma coparticipacao de diferentes partes interessadas na solucao durante o seu processo de desenvolvimento [Rosson and Carroll 2002, Duarte et al. 2018].
+
+Os instrumentos da area da Psicologia e Gerontologia foram avaliados por profissionais pertencentes a esses dominios. Profissionais da Computacao tambem avaliaram o framework por meio de um teste de usabilidade e uma avaliacao heuristica.
+
+Todos os scores obtidos nos testes de usabilidade foram superiores a 80. Portanto, segundo a resposta do SUS, o sistema possui usabilidade satisfatoria. Na avaliacao heuristica, os avaliadores relataram que a falta de informacao tanto no inicio quanto em cada instrumento foi o que mais prejudicou a experiencia de uso do sistema. No entanto, apesar dos problemas encontrados, os avaliadores consideraram o sistema eficiente e informaram que o utilizariam novamente.
+
+**CONSIDERACOES FINAIS**
+
+Espera-se que o uso do framework para realizar avaliaçoes promova soluçoes computaci-
+onais interativas mais eficientes e acessiveis para os usuarios, alem de contribuir para o
+avanço do estudo das emoçoes na area de IHC.
+
+Trabalhos futuros previstos para o framework incluem que ele seja composto tanto
+por instrumentos de autorrelato, quanto por sensores fisicos e vestiveis. Dessa forma, sera
+possivel comparar os dois tipos de dados e ter conclusoes ainda mais precisas sobre a
+efetividade das soluçoes avaliadas.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este trabalho apresenta um framework promissor para auxiliar na avaliaçao de respostas emocionais de usuarios frente a sistemas interativos. A combinaçao de diferentes ferramentas de avaliaçao em um ambiente virtual unico pode facilitar o trabalho de profissionais de diversas areas, incluindo a Computaçao, e contribuir para o desenvolvimento de soluçoes mais eficientes e acessiveis.

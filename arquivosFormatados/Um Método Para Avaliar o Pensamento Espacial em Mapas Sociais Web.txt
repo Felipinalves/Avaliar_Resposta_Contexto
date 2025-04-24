@@ -1,0 +1,125 @@
+**INTRODUCAO**
+
+Historicamente, mapas tem sido utilizados como ferramentas sociais .
+Eles permitem a visualizaçao de dados de diversos temas sociais, como criminalidade,
+educaçao e saude, ajudando a compreender mazelas e embasando politicas publicas ou
+projetos sociais. A analise desses dados sociais se favorece do conceito de pensamento
+espacial. O pensamento espacial pode ser compreendido como o conhecimento de con-
+ceitos espaciais (como localizaçao, direçao e escala) e a habilidade de aplica-los para
+descrever, analisar e resolver problemas em diversos contextos . No
+contexto de mapas com tematicas sociais, o pensamento espacial pode ser util para pro-
+mover maior compreensao da realidade social e encorajar propostas de mudanças.
+
+A aplicaçao do pensamento espacial, normalmente e atrelada a interaçao de um
+usuario com dados cartograficos . Ao interagir
+com multiplos dados e visualiza-los de diferentes formas em um mapa, o usuario pode
+tirar conclusoes e propor hipoteses. Tendo em vista encorajar a interaçao do publico
+com dados sociais, o usuario pode interagir com dados em aplicaçoes web. De acordo
+com  a interaçao do usuario com mapas web se tornou mais familiar
+aos usuarios, devido ao sucesso do Google Maps e aplicaçoes similares. Apesar disso,
+e importante ressaltar que dados cartograficos sociais podem ter interaçoes mais com-
+plexas, dado que eles tendem a ser mais numerosos, diversos e dificeis de representar
+.
+
+Diversos estudos podem ser propostos para mitigar problemas na interaçao do
+usuario. Entretanto e necessario entender o quanto as descobertas destes podem, de
+fato, impactar na produçao de ideias a respeito dos locais mapeados. Nesse contexto,
+o presente estudo visa propor um metodo para avaliaçao do pensamento espacial no
+contexto de mapas sociais para web. Os metodos encontrados na literatura ate o momento tem como enfase a avaliacao das habilidades de pensamento espacial do individuo [Lee and Bednarz 2012]. Nesta pesquisa, a proposta e avaliar a aplicacao e a interação do usuario, buscando entender como a aplicacao pode ser melhor projetada para apoiar analises sociais.
+
+**MOTIVACAO**
+
+Pesquisas cientificas, estudos da iniciativa publica, ou mesmo em aplicaçoes indepen-
+dentes produzem diversos dados cartograficos sociais. Estes dados podem ser utilizados
+para compor analises importantes, mas em muitos casos estao em meios isolados ou sao
+de dificil acesso por boa parte da populaçao. Reunir esses dados e ampliar o acesso do
+publico pode ser um fator decisivo para produzir ideias e conclusoes mais diversas sobre
+as realidades sociais. Especialmente considerando a participaçao das pessoas que sao re-
+sidentes ou de alguma forma estao inseridas na regiao mapeada, sua vivencia da realidade
+pode contribuir bastante para analises mais precisas e ricas. Dessa forma, o principal ob-
+jetivo deste estudo e facilitar a criaçao de aplicaçoes que possam reunir e disponibilizar
+esses dados para o publico, de uma forma que facilite a compreensao dos contextos so-
+ciais e estimule propostas de mudanças. O metodo de avaliaçao deve ser utilizado como
+ferramenta para apoiar novas descobertas que possam impactar nesse processo.
+
+**BASE TEORICA**
+
+Uma serie de conhecimentos embasam o estudo proposto. A Interaçao Humano-
+Computador (IHC) concentra-se no aspecto humano de uso de sistemas computacionais.
+Pesquisas dessa area englobam a perspectiva do usuario, propondo diferentes metodolo-
+gias para analises diversas. De acordo com , conhecimentos de
+IHC podem ser utilizados para aumentar a qualidade de uso de sistemas computacionais
+interativos. Dessa forma, esses conhecimentos podem mitigar problemas na interaçao
+do usuario com o sistema e estimular mais pessoas a utiliza-lo, por exemplo. Diversos
+aspectos de IHC podem contribuir na analise de mapas sociais, como usabilidade, comu-
+nicabilidade e acessibilidade.
+
+Mapas sociais sao aqueles cujo proposito e representar aspectos especificos da so-
+ciedade em um determinado tempo e espaço . Normalmente estes mapas
+englobam uma tematica e um ou mais dados cartograficos sociais. Por exemplo, um mapa
+com tema educaçao pode ter como dados cartograficos: localizaçao de escolas, universi-
+dades, grau de escolaridade dos moradores, entre outros. Em geral, um mapa tematico
+expressa as ideias e interpretaçoes de seu criador. Particularmente para esta pesquisa, o
+conceito de mapas sociais web e o de aplicaçoes de mapas com multiplos dados sociais
+para plataforma web. Nessas aplicaçoes o usuario pode definir seu proprio tema a partir
+da escolha de quais dados cartograficos exibir. A interaçao com os dados sociais e um
+aspecto essencial para estimulo ao pensamento espacial.
+
+O pensamento espacial esta relacionado com a habilidade do individuo de inter-
+pretar dados cartograficos e tomar decisoes com base neles. Um alto grau de interati-
+vidade e um requisito geral para mapas projetados para apoiar o pensamento espacial
+. Visando avaliar o pensamento espacial,  propuseram um metodo denominado Teste de Habilidade de Pensamento Espacial (STAT). O STAT e um metodo de avaliacao das habilidades de pensamento espacial de um indivıduo. Este metodo integra o conhecimento do conteudo de geografia e habilidades espaciais. O STAT e composto por um pre-teste e um pos-teste, ambos com 16 questoes. Normalmente e utilizado para avaliar o quanto um determinado evento pode melhorar as habilidades de pensamento espacial de um grupo, a partir da comparacao
+entre os resultados dos testes antes e apos o evento [Lee and Bednarz 2012]. 
+
+**TRABALHOS RELACIONADOS**
+
+Esta seçao aborda um resumo de algumas pesquisas que podem ser relacionados ao pre-
+sente estudo proposto. Diversas pesquisas encontradas abordam a relaçao entre IHC e
+mapas interativos. Ressalta-se os trabalhos de , que aborda uma serie
+de oportunidades de estudos com enfase no usuario, levantadas a partir de discussao en-
+tre estudiosos da area. O trabalho de , por outro lado, relata a
+realizaçao pesquisas empiricas com usuarios para descoberta de problemas de design em
+mapas interativos. Estas e outras pesquisas em IHC ajudam a compreender a importancia
+de estudos com enfase na interaçao do usuario com o mapa.
+
+Nenhuma pesquisa encontrada ate o momento retrata avaliaçoes de IHC das
+aplicaçoes quanto ao estimulo do pensamento espacial. A avaliaçao do pensamento es-
+pacial e abordada no estudo de , que propoe o metodo STAT.
+Ressalta-se que o metodo STAT avalia o individuo. O trabalho de ,
+por outro lado, cita a aplicaçao do metodo STAT para a avaliaçao as habilidades pen-
+samento espacial de 83 estudantes antes e apos a sua exposiçao a conceitos e softwa-
+res espaciais. Estudos como estes sao relevantes para formular uma metodologia para
+avaliaçao de aplicaçoes de mapas. Ressalta-se que o presente estudo visa propor um
+metodo para avaliaçao da aplicaçao, diferentemente de metodos como o STAT que enfa-
+tizam a avaliaçao do individuo.
+
+**METODOLOGIA**
+
+Dois estudos previos foram realizados e publicados. Ambos realizam analises de IHC
+e propoem consideraçoes de design para mapas com dados sociais. O primeiro avalia
+aplicaçoes de mapas em dispositivos moveis  e o segundo utiliza um
+prototipo web para compor seu estudo . O metodo proposto deve
+complementar estes estudos, permitindo a avaliaçao das consideraçoes propostas e seus
+impactos no pensamento espacial. No escopo deste estudo, dois processos de revisao
+da literatura sao planejados. A primeira parte envolve a busca por metodos de avaliaçao
+do pensamento espacial. Buscou-se nas bases Google Scholar, ACM Digital Library e
+Taylor & Francis Online as palavras-chaves “Spatial Thinking”e “Evaluation". Ate o
+presente momento, a maior parte dos estudos encontrados aborda o STAT como metodo
+de avaliaçao. Entretanto, deve-se considerar que esta revisao esta em andamento, care-
+cendo de ajustes nas buscas e leituras. E possivel que novos metodos encontrados tambem
+componham a pesquisa proposta no futuro. A segunda revisao deve consistir em encon-
+trar decisoes de design que possam encorajar o uso social da aplicaçao e estimular mais
+pessoas a propor suas analises sociais.
+
+Proposta de metodo para avaliacao de sistemas
+
+Como abordado anteriormente, o STAT, e outros metodos encontrados, concentram-se em avaliar as habilidades de um individuo. Dessa forma, esta etapa da pesquisa tera como enfase a adaptacao do metodo STAT para avaliar a aplicacao ao inves do individuo. A Figura 1 mostra as atividades propostas para a criacao do metodo. O processo inicia-se com a analise de cada questao do STAT, especialmente no que se refere a habilidade de pensamento espacial testada. As questoes serao analisadas para descoberta de quais estao alinhadas a habilidades mais relevantes para analises sociais, de acordo com os estudos de [Logan 2012]. As questoes consideradas relevantes devem ser transformadas em tarefas de interacao com uma aplicacao de mapa social web com questoes objetivas associadas a execucao correta da tarefa. As tarefas e novas questoes devem ser generalizaveis para que possam ser aplicadas a diferentes aplicacoes. O metodo devera ser aplicado com um conjunto de participantes com o perfil de usuarios em potencial da aplicacao. A analise do resultado sera feita com base na media de respostas corretas de cada participante da avaliacao. Alem disso, o metodo podera ser executado em duas etapas, visando descobrir o quanto mudancas na aplicacao podem impactar no pensamento espacial.
+acao proposto. Devido a essa necessidade, esta em andamento a criacao de um projeto que sera submetido ao Comite de Etica em Pesquisa (CEP) para avaliar questoes eticas associadas a participacao do publico. O projeto encontra-se em fase final de producao e deve ser submetido e aprovado antes de qualquer estudo pratico com usuarios. No processo ate a aprovacao do projeto, um prototipo sera desenvolvido com dados sociais aleatorios numa regiao ficticia para web. A ideia e remover qualquer vies nas analises dos dados. Pretende-se que um grupo de 20 participantes realize a avaliacao de maneira remota e um grupo de 10 participantes realize de maneira presencial, visando comparar as execucoes nos dois modelos. O metodo sera aplicado em duas etapas: uma com prototipo basico e uma segunda com o prototipo alterado para aplicacao das consideracoes produzidas nos estudos previos. Os participantes devem ser convidados por meio de emails, redes sociais e no ambiente de projetos sociais ou orgaos publicos.
+
+Resultados esperados
+
+Como resultado espera-se que o estudo proposto produza um metodo de avaliacao confiavel e facilmente reproduzivel para avaliacao do pensamento espacial. Com isso, a producao de novas pesquisas podera se utilizar do metodo para avaliar o impacto direto de novas descobertas na compreensao de dados sociais e producao de ideias. Ainda no contexto deste estudo, novas pesquisas em IHC devem ser conduzidas, visando descobrir mais aspectos de design que possam impactar no pensamento espacial, tornando o metodo fundamental nesse contexto. Dessa forma, espera-se que o conhecimento produzido possa estimular o acesso e a interacao do publico com os dados cartograficos sociais e propostas por mudancas. A Figura 2 apresenta o cronograma de atividades planejado para a execucao da pesquisa.
+
+**CONCLUSOES**
+
+Espera-se que este estudo contribua para a area de IHC, fornecendo um metodo de avaliaçao que permita entender como o design de aplicaçoes de mapas sociais pode ser otimizado para estimular o pensamento espacial dos usuarios. Isso pode levar a criaçao de ferramentas mais eficientes para a compreensao de questoes sociais e a formulaçao de soluçoes.

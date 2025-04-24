@@ -1,0 +1,413 @@
+**INTRODUCAO**
+
+Na Universidade Federal do Para, a disciplina de Interacao
+Humano-Computador (IHC) e ministrada no 6º semestre do curso
+de Bacharelado em Sistemas de Informacao. Esta disciplina
+abrange temas primordiais para o desenvolvimento de softwares
+interativos, como por exemplo: Padroes de Interface, Design
+Centrado no Usuario, Usabilidade, entre outros.
+
+Visando contemplar os conceitos inerentes a estes temas, o
+professor da disciplina propos a realizacao de um projeto pratico
+que consistiu na customizacao da interface do aplicativo de
+compartilhamento de mensagens WhatsApp (ver Subsecao 2.1).
+
+Posteriormente, os alunos avaliaram as interfaces propostas a partir
+das caracteristicas de usabilidade da norma ISO/IEC 25000 .
+
+No entanto, este projeto ja havia sido realizado no 2º semestre
+de 2017 , onde o professor da disciplina de IHC observou que
+uma das principais dificuldades foi obter o comprometimento dos
+alunos, principalmente daqueles que nao possuiam afinidade com a
+area. Assim, buscando aumentar o engajamento e motivacao dos
+alunos, o professor optou pela insercao de estrategias de
+Gamificacao  na oferta posterior da disciplina de IHC.
+
+Em , Marques e Melo apresentam uma abordagem
+interdisciplinar para ensinar IHC com foco na avaliacao de sistemas
+interativos, de carater mais pratico. Desta forma, optaram pela
+realizacao de trabalho pratico a fim de motivar os alunos e despertar
+o interesse para a avaliacao da qualidade de uso de sistemas. Prates
+ enfatiza que envolver sistemas reais e conhecidos pelos alunos
+funciona como um fator motivador que permite associar o trabalho
+pratico da disciplina de IHC a avaliacao.
+
+Neste contexto, este artigo apresenta o relato de experiencia das
+atividades avaliativas conduzidas nessa disciplina por meio do uso
+de estrategias de gamificacao, a fim de comparar o desempenho e
+comprometimento dos alunos da turma do 2º semestre de 2018 com
+a da turma anterior (2º semestre de 2017). Essa comparacao se dar
+a partir do resultado do design proposto para o aplicativo
+WhatsApp. O relato e descrito a partir do ponto de vista do
+professor da disciplina (didatica de ensino) e do feedback dos
+alunos (percepcao de aprendizagem) em relacao as estrategias de
+gamificacao adotadas.
+
+Alem desta secao introdutoria, na Secao 2 sao abordados os
+conceitos e praticas da Interacao Humano-Computador,
+caracteristicas de Usabilidade. Adicionalmente, sao descritas as
+estrategias de gamificacao adotadas na disciplina. Ja na Secao 3 sao
+apresentadas as atividades avaliativas relacionadas a customizacao
+da interface do WhatsApp e a gamificacao da disciplina. A Secao
+4 relata os resultados obtidos, a partir das interfaces propostas e da
+analise do impacto do uso das estrategias de gamificacao no
+engajamento e motivacao dos alunos. Por fim, a Secao 5 apresenta
+as conclusoes do artigo, as dificuldades encontradas, alem dos
+trabalhos futuros desta pesquisa.
+
+**REFERENCIAL TEORICO**
+
+**IHC e Usabilidade**
+
+Segundo Barbosa e Silva , a IHC se refere as formas com que o
+homem interage com o computador, bem como as teorias e tecnicas
+de projeto utilizadas para tornar um sistema interativo. Neste
+sentido, deve-se aplicar conceitos de design de interacao como :
+Estilos de Interacao, que representam as maneiras como os
+usuarios interagem ou se comunicam com o sistema;
+Paradigmas de Interacao, que define a ordem com que os
+usuarios acionam os elementos dispostos na aplicacao a fim
+de realizar uma tarefa;
+Tipos de Interface, que se refere a busca por uma interface
+confortavel, segura, amigavel e que repasse sensacao de bem-
+estar aos usuarios;
+Guidelines, que descrevem o conjunto de orientacoes e
+procedimentos utilizados para guiar o usuario em uma
+atividade.
+Adicionalmente, o uso adequado das praticas de IHC permite
+desenvolver sistemas com uma boa usabilidade. A usabilidade e
+definida como a capacidade de um produto de software de ser
+compreendido, aprendido, operado, e atrativo ao usuario, quando
+utilizado sob condicoes especificas .
+
+Neste sentido, a norma ISO/IEC define quatro caracteristicas
+de usabilidade: a Inteligibilidade, que consiste na capacidade de o
+sistema possibilitar ao usuario compreende-lo, para realizacao de
+tarefas, sob condicoes de uso especificas; a Apreensibilidade, que
+define a capacidade de o sistema possibilitar ao usuario aprender
+sua aplicacao facilmente; a Operacionalidade, que consiste na
+capacidade de o sistema possibilitar ao usuario opera-lo e controla-
+lo; a Atratividade, que define a capacidade do produto de software
+de ser atraente quanto ao uso.
+
+**Gamificacao**
+
+Gamificacao consiste na inclusao de mecanica, estilo, pensamento
+e tecnicas de design de jogos eletronicos para engajar pessoas na
+resolucao de um determinado problema . Klock, Gasparini e
+Marcelo  destacam o uso de estrategias como bonificacao,
+ranking, desafios, ganho de medalhas e trofeus, sao alguns
+exemplos de gamificacao utilizados em jogos digitais e que podem
+ser incorporados em sala de aula, com o objetivo de motivar e
+engajar os alunos no desenvolvimento das atividades. Tais
+estrategias sao frequentemente utilizadas nos cursos de
+computacao, a fim de auxiliar o processo de ensino-aprendizagem
+das variadas e complexas disciplinas.
+
+Na gamificacao, os elementos podem ser divididos conforme
+seu nivel de abstracao entre dinamicas, mecanicas e componentes.
+No nivel mais alto de abstracao encontram-se as dinamicas, que sao
+aspectos controlados pela gamificacao, mas obtidos pelos demais
+elementos . As dinamicas adotadas para a disciplina de IHC,
+alvo deste relato, foram:
+Progresso, que fornece o feedback da evolucao do usuario no
+decorrer do tempo;
+Relacionamentos, que sao as iteracoes sociais que o usuario
+tem com outros durante as atividades, como por exemplo,
+com membros de equipe e adversarios.
+As mecanicas estao no nivel intermediario de abstracao, sendo
+processos que estimulam a acao e o engajamento do usuario e sao
+alcancados atraves dos componentes . As mecanicas adotadas na
+disciplina foram:
+Competicoes e Cooperacoes, que promovem a interacao
+entre os usuarios. Enquanto na competicao os alunos
+disputam contra outros, eles trabalham em equipe na
+cooperacao para atingir uma meta em comum;
+Desafios, que sao atividades que exigem esforco para serem
+resolvidas e direcionam os usuarios ao principal objetivo da
+gamificacao, como por exemplo, criar um prototipo de
+interface do WhatsApp regionalizado;
+Feedback, que retorna informacoes relevantes ao usuario
+sobre a gamificacao a fim de gerar engajamento e motivacao;
+Recompensas, que sao beneficios oferecidos a fim de
+reconhecer o esforco.
+Na base da gamificacao estao os componentes, que sao
+instancias especificas das mecanicas e dinamicas no sistema . Os
+componentes incorporados na disciplina foram:
+Emblemas, que representam as conquistas do usuario, sendo
+concedidos ao alcancar alguma meta, se apresentando nesta
+disciplina na forma de medalhas;
+Missoes, que sao metas pre-definidas que possuem
+recompensas especificas;
+Pontos, que representam o progresso do usuario em relacao
+as missoes propostas;
+Fases, que sao identificadores do progresso do usuario ao
+longo do tempo, baseado nas missoes cumpridas;
+Ranking, que exibem o progresso do usuario, dando
+significado a outros componentes e contextualizando as
+pontuacoes.
+
+**Gamificacao da Disciplina**
+
+**Contexto do Projeto Pratico**
+
+O uso de aplicativos tornou-se parte do cotidiano das pessoas,
+influenciando as diversas formas de interacao e comportamentos
+sociais. Um exemplo dessa nova forma de agir socialmente e o
+WhatsApp, um aplicativo de compartilhamento de mensagens
+atraves de textos, audios, videos, documentos, imagens e emojis.
+Esse aplicativo permite a seus usuarios comunicacao em tempo real
+para fins pessoais e profissionais .
+
+Contudo, diante de sua internacionalizacao, o WhatsApp nao
+possui caracteristicas especificas de uma regiao em seu design de
+interacao, o que poderia intensificar a experiencia de uso. Sendo
+assim, como projeto pratico da disciplina de IHC, solicitou-se aos
+alunos que reformulassem a interface deste aplicativo, utilizando
+praticas de IHC, a fim de inserir elementos regionais e culturais da
+cidade de Cameta, no estado do Para.
+
+**Fases e Pontuacao**
+
+As atividades da disciplina foram organizadas em fases a fim de
+que o aluno-jogador pudesse seguir um caminho pre-estabelecido
+de ensino-aprendizagem. Assim, cada fase possuia um grau de
+dificuldade e pontuacao de acordo com a ementa e objetivos da
+disciplina. As fases e pontuacoes sao descritas na Tabela 1.
+
+Assim, a Fase 1 consistiu na definicao do design de interacao e
+da interface do aplicativo, partindo da criacao da logo, definicao
+das cores, icones, paradigmas de interacao e estilos. O professor
+sugeriu aos alunos que estes escolhessem uma palavra do
+vocabulario regional para dar nome ao aplicativo proposto que
+remetesse a dialogo. De modo complementar, recomendou a
+utilizacao de cores que remetessem a regiao ribeirinha cametaense,
+assim como palavras do vocabulario regional em menus e/ou
+mensagens de resposta do sistema.
+
+Em relacao a inteligibilidade, o professor sugeriu a utilizacao de
+icones e cores significativas que permitam proporcionar um bom
+discernimento aos usuarios. Quanto aos apreensibilidade,
+recomendou o uso de metaforas nos icones do aplicativo. Quanto a
+operacionalidade, sugeriu a insercao de janelas de dialogos e de
+confirmacao. Por fim, relacionado a atratividade o professor
+recomendou a utilizacao de cores equilibradas e suaves para a
+interface dos aplicativos, alem da adequacao regional das
+informacoes disponibilizadas ao usuario.
+
+Na Fase 2 houve a criacao do prototipo funcional do aplicativo
+proposto, utilizando metodos de regionalizacao do WhatsApp,
+atraves da ferramenta JustinMind (www.justinmind.com/). Ja na
+Fase 3, o professor solicitou aos alunos para que cada equipe
+avaliasse os prototipos umas das outras. Dessa maneira, elaborou-se um formulario de avaliacao, fundamentado nos criterios da
+norma ISO/IEC 25000 [1], conforme mostra a Tabela 2. Para as
+opcoes de respostas, utilizou-se a escala Likert (variando de 0 a 4).
+
+Desafios Propostos
+
+O desafio da disciplina consistiu em trabalhar com uma equipe de
+5 alunos com perfil multidisciplinar 1 gerente de projetos 1
+analista de requisitos e 3 designers aleatoriamente formada pelo
+professor a partir da identificacao dos perfis dos alunos a fim de
+regionalizar um aplicativo de compartilhamento de mensagens
+Essa regionalizacao fora feita a partir da aplicacao de praticas de
+IHC especificadas atraves de fases Cada uma dessas fases
+premiou a equipe vencedora com um artefato que proporcionou
+vantagem competitiva a esta na fase seguinte
+
+Medalhas
+A conclusao de cada fase deu direito a uma medalha
+correspondente ao seu grau de dificuldade Essas medalhas fizeram
+referencia aos aplicativos desenvolvidos nas ofertas anteriores da
+disciplina de IHC 2 Assim a Tabela 3 apresenta as medalhas
+criadas para a gamificacao da disciplina
+
+Resultados Obtidos
+Esta subsecao apresenta os prototipos desenvolvidos durante a
+gamificacao da disciplina de IHC Assim na Fase 1 obteve-se as
+seguintes propostas de logos apresentadas na Figura 1
+A primeira equipe Zarpara destacou em sua logo o principal
+meio de transporte do ribeirinho cametaense um barco
+Adicionalmente no nome do aplicativo utilizou a juncao de duas
+palavras Zarpar e Para insinuando metaforicamente que as
+mensagens do aplicativo naveguem via embarcacao entre os
+usuarios A segunda equipe utilizou o nome Que ta Que tal uma
+saudacao tradicional dos habitantes de ilhas metaforicamente
+representando o trocadilho do WhatsApp Whats Up e ai ou
+o que ta pegando Em sua logo representaram um ribeirinho
+segurando um peixe ao mesmo tempo em que utiliza um
+smartphone Desta forma buscaram indicar a atual situacao dos
+povoados ribeirinhos onde a tecnologia da informacao ja e
+cotidiano junto as tarefas das pessoas dessa regiao
+A terceira equipe Bem-te-vi inseriu em sua logo a imagem do
+passaro bem-te-vi dentro de um balao lembrando o ditado popular
+Um passarinho me contou As cores utilizadas na logo lembram
+as cores do passaro A ultima equipe So Papo utilizou-se de uma
+giria popular regional no nome do aplicativo que quer dizer Voce
+esta de conversa mole Alem disso aplicou em sua logo a fruta de
+maior fama na regiao do Baixo Tocantins o acai mostrando dois
+carocos da fruta como se estivessem conversando A cor roxa do
+acai foi usada nos carocos e no nome do sistema
+Durante a etapa de criacao das logos o professor forneceu
+feedback as equipes quanto ao uso de praticas de IHC Desta forma
+a equipe Zarpara apos feedback atualizou sua logo adotando
+padroes de cores em gradiente baseados nos rios da regiao ao
+fundo em lugar do azul solido alem de melhorar o acabamento no
+icone do barco e inserir o nome do aplicativo dentro do balao
+conforme mostra a Figura 2
+A equipe Que ta foi a que mais realizou atualizacoes em sua
+logo Inicialmente a equipe nomeou o aplicativo de Eras
+expressao popular que indica exclamacao como o Egua
+bastante usado no Para No entanto conforme indicou o professor
+este nome nao representava o objetivo do aplicativo Este fato
+ocasionou a mudanca da logo e do nome do aplicativo conforme
+mostrado na Figura 3
+Na Fase 2 a equipe Que ta utilizou elementos de adaptacao
+regionais nos icones de conversas e status usados no
+WhatsApp com variancias das palavras tradicionais ribeirinhas
+Prosas e Causos Tambem utilizou-se um icone de menu com
+tres peixes ao inves de tres barras icone de pesquisa com uma vara
+de pescar e elementos funcionais como o opcional de mostrar-se
+online e marcar todas as conversas como lidas Alem disso destaca
+se o uso harmonioso das cores conforme mostrado na Figura 4
+Por outro lado a equipe Bem-te-vi se utilizou de elementos
+basicos e pouco inovadores em seus prototipos funcionais do
+aplicativo apenas diferenciando pela escolha dos nomes das telas
+de conversa e status usando os nomes Papos e Espia nos
+respectivos lugares destes como mostrado na Figura 5
+Zarpara Ambos os aplicativos foram avaliados como aderentes as
+caracteristicas de usabilidade da norma ISOIEC 25000 1 O
+professor destacou que essas equipes foram eficientes na adocao
+das praticas de IHC principalmente no que se diz respeito aos
+estilos de interacao e principios de usabilidade empregues De
+forma complementar mencionou que o diferencial dessas equipes
+foi a criatividade na criacao da identidade visual dos aplicativos
+
+Premiacoes e Ranking
+O ranking da disciplina foi gerado a partir da nota da pontuacao
+classificacao obtida em cada fase Assim existindo 4 equipes a que
+melhor concluiu a Fase 1 obteve 40 pontos 04 pela classificacao
+A que ficou em 2 na fase teve somado a pontuacao 03 pela
+classificacao a que ficou em 3 02 e a que ficou em 4 01
+Alem disso a classificacao da melhor equipe nessas fases deu
+direito a um artefato recompensas que possuia exemplos de como
+realizar as proximas fases oferecendo assim uma vantagem
+competitiva aos vencedores Desta forma as outras equipes
+deveriam se esforcar mais para continuarem competindo
+Assim a equipe vencedora da Fase 1 obteve um exemplo
+completo de projeto de interface a vencedora da Fase 2 um artigo
+sobre a regionalizacao do WhatsApp 2 a vencedora da Fase 3 um
+TCC sobre avaliacao de usabilidade Por fim a equipe melhor
+colocada no ranking ao final da disciplina ganhou uma pizza GG
+e um refrigerante de 2 litros
+O ranking era atualizado ao final da entrega apresentacao de
+cada fase atraves do site httpcarlosportelacombrgamihc
+Assim os alunos podiam acompanhar a sua classificacao Quanto
+aos resultados das fases apos cada apresentacao o professor
+atribuia uma nota de acordo com a pontuacao maxima de cada
+fase e definia uma classificacao de acordo com o uso das praticas
+de IHC e da apresentacao da equipe Os resultados de cada fase e a
+classificacao final por equipe sao apresentados na Tabela 4
+Relato de Experiencia
+
+Professor-Facilitador Ensino
+
+Inicialmente o professor analisou a ementa da disciplina de IHC e
+selecionou os topicos Padroes de Interface Design de Interacao e
+Usabilidade A fim de que os alunos pudessem aplicar esses
+conceitos de maneira pratica o professor estabeleceu a proposta de
+projeto apresentada na Subsecao 31 e as 3 fases descritas na Tabela
+1 Buscando contemplar os topicos da ementa definiu um percurso
+gradativo de dificuldade partindo da elaboracao de um projeto de
+interface criacao de prototipos de tela e realizacao de avaliacao de
+usabilidade
+De acordo com o professor foi a primeira vez que ele aplicou
+estrategias de gamificacao na disciplina de IHC No entanto ja
+havia realizado o projeto pratico de customizacao da interface do
+WhatsApp em duas ofertas anteriores de IHC e aplicado
+gamificacao em duas disciplinas da area de programacao Desta
+forma atuou como um facilitador no processo de ensinoaprendizagem fornecendo uma determinada de orientacao para que
+os alunos entendessem como aplicar as teorias de IHC Neste
+contexto algumas equipes assimilaram uma postura mais proativa
+e outras nao ficaram aguardando mais orientacoes Neste sentido
+o professor forneceu feedback buscando viabilizar a aprendizagem
+dos alunos sem gerar forte influencia nas decisoes das equipes ou
+seja nao deveria desviar os alunos de encontrar por si mesmos a
+solucao correta Por exemplo na Fase 1 o professor alertou aos
+alunos que o nome Eras nao remetia ao objetivo do aplicativo
+comunicacao mas nao sugeriu um novo nome ficando o processo
+criativo para a equipe
+Quanto as medalhas o professor aproveitou esse componente
+de gamificacao para referenciar as propostas apresentadas nas
+ofertas passadas das disciplinas 2 Ele pode observar que estas
+foram uma motivacao a mais para os alunos gerando uma
+competicao para ver quem conseguia mais medalhas
+Aluno-Jogador Aprendizagem
+Em relacao as expectativas levantadas quanto a disciplina pela
+turma os alunos alegaram que imaginavam que a disciplina
+adotaria o dinamismo tradicional de ensino isto e uma
+metodologia na qual o professor ensinaria os principios de IHC e
+aplicaria avaliacoes com provas e trabalhos academicos Conforme
+relato de alguns alunos a competicao e medalhas foram
+diferenciais importantes para o aproveitamento da disciplina
+enriquecendo o interesse por aprendizado em IHC e despertando
+vocacoes de trabalho na area de alguns alunos da turma
+De acordo com os alunos o processo de ter que pesquisar sobre
+praticas de IHC e sobre a cultura de sua cidade a fim de criar a
+identidade visual do aplicativo foi desafiador a todos da turma
+pois estavam acostumados com o professor repassando o conteudo
+em sala de aula Analisaram que a abordagem tradicional
+normalmente desperta o interesse apenas de alguns aqueles que
+possuem maior inclinacao pela area de IHC Entretanto os demais
+acabam se acomodando ou nao mostrando motivacao e
+engajamento Nessa experiencia com gamificacao observaram que
+todos assumiram uma postura mais proativa Destacaram que se
+sentiram motivados pois a disciplina definiu 3 fases exigindo
+empenho e dedicacao de cada membro da equipe uma vez que cada
+uma dava direito a um premio vantagem competitiva
+Ressaltaram que neste processo o professor sempre contribuia
+quando surgiam duvidas em relacao a execucao das atividades
+Por fim os alunos destacaram que o resultado final revelou-se
+justo uma vez que as equipes mais dedicadas no cumprimento das
+atividades foram as que obtiveram o maior numero de medalhas
+ocuparam as primeiras posicoes do ranking e consequentemente
+conseguiram os maiores conceitos notas na disciplina
+
+Consideracoes Finais
+
+Este artigo apresentou um relato de experiencia da adocao de
+estrategias de gamificacao em uma disciplina de IHC
+Descreveram-se essas estrategias a partir das fases e desafios
+medalhas pontuacao e ranking assim como as metodologias de
+avaliacao aplicadas na disciplina Adicionalmente o professor
+descreveu a adocao destas estrategias com foco no ensino assim
+como os alunos relataram sua experiencia focando a aprendizagem
+As principais dificuldades relatadas foram relacionadas a
+mudanca de paradigmas de ensino-aprendizagem pois a maioria
+dos alunos e professores ja estao acostumados com o metodo
+tradicional Neste sentido o professor destacou a necessidade de
+selecionar as estrategias de gamificacao e preparar os materiais de
+apoio como modelos de documentacao e premios No entanto ele
+considerou esse esforco analogo ao de criar o material de uma
+disciplina tradicional pela primeira vez destacando semelhancas
+como pesquisa e estudo de fontes bibliograficas definicao dos
+exercicios desafios e metodos de avaliacao pontuacao Outra
+dificuldade relatada foi o balanceamento da quantidade de
+orientacao dada aos alunos para que nao pudesse impactar no
+resultado da gamificacao
+Ja os alunos relataram que a desmotivacao quanto ao metodo
+tradicional de ensino e comum entre eles Com a utilizacao da
+pratica de gamificacao reconheceram que a disciplina se tornara
+mais atrativa em relacao as demais do curso de Sistemas de
+Informacao Conforme alguns relatos sentiram dificuldades na
+busca por conformidades na norma ISOIEC 25000 No entanto
+eles destacaram que a utilizacao dos elementos de gamificacao
+contribuiu de forma muito significativa para uma maior dedicacao
+e participacao de todos nas atividades em sala de aula pois
+estimulam a busca pelo cumprimento de desafios e metas propostas
+pelo professor
+A proxima etapa desta pesquisa sera a reoferta da disciplina no
+primeiro semestre de 2020 a fim de coletar dados e comparar os
+resultados obtidos entre duas turmas Desta forma serao analisadas
+as diferencas entre os perfis dos alunos e o impacto destes na
+adocao da gamificacao

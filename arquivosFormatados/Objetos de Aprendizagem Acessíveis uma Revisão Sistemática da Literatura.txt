@@ -1,0 +1,173 @@
+**RESUMO**
+
+O presente trabalho buscou trazer um panorama da pesquisa sobre
+objetos de aprendizagem acessiveis para deficientes visuais com base na me-
+todologia de revisao sistematica da literatura. Os resultados mostraram que a
+questao e a subquestao de pesquisa foram respondidas e foi possivel perceber
+o suporte que as ferramentas de educacao a distancia podem fornecer se forem
+acessiveis. Por fim, foram identificadas as diversas formas como os pesquisado-
+res abordaram a acessibilidade de cada objeto de aprendizagem e detectados os
+modelos, tecnicas e ferramentas computacionais mais especificas que existem e
+sao utilizadas no contexto da educacao, a fim de promover a acessibilidade para
+pessoas com deficiencia visual.
+
+**INTRODUCAO**
+
+Considerando o dominio da Educacao, pode-se observar a importancia do uso de objetos
+de aprendizagem acessiveis para alunos com deficiencias, de forma a garantir o acesso ao
+ensino a todos. De acordo com o IEEE, um objeto de aprendizagem
+e definido como qualquer entidade, digital ou nao, que possa ser usada, reutilizada ou
+referenciada para a aprendizagem, educacao ou treinamento.
+
+A principal motivacao para o desenvolvimento deste trabalho refere-se ao fato de
+existirem muitos estudantes que possuem diversas deficiencias e existirem poucas inici-
+ativas em relacao a acessibilidade. Em particular, a crise da Pandemia da COVID-19
+reforcou a importancia e necessidade da educacao a distancia e forcou as instituicoes de
+ensino de todos os niveis a utilizar tecnologias para suporte ao ensino de maneira remota
+de forma muito mais intensiva do que o que ocorria ate entao. A educacao remota emer-
+gencial tornou-se a principal alternativa para manter o processo de ensino e aprendizagem
+ativo com o isolamento social ocorrido como consequencia da pandemia. Em particular,
+apesar de muitas Instituicoes de Ensino Superior terem pouca ou nenhuma experiencia
+com esta modalidade de ensino, elas tiveram que adequar suas metodologias rapidamente
+e adotar ferramentas que permitissem a comunicacao sincrona e assincrona entre profes-
+sores e estudantes. A acessibilidade digital tornou-se imprescindivel nesse contexto, para
+permitir que todos os estudantes, incluindo estudantes com deficiencia, tivessem acesso
+ao aprendizado de forma igualitaria.
+
+Deste modo, este trabalho tem como objetivo realizar uma Revisao Sistematica da
+Literatura (RSL) com o intuito de obter uma visao geral sobre acessibilidade no dominio
+da educacao e identificar quais sao os modelos e tecnicas computacionais mais especificos
+que existem e sao utilizados neste dominio de forma a promover a acessibilidade para
+deficientes visuais.
+
+Este trabalho esta organizado da seguinte forma: a Secao 2 descreve o metodo
+de pesquisa utilizado; a Secao 3 apresenta alguns resultados da revisao sistematica da
+literatura e a Secao 4 apresenta as consideracoes finais do trabalho.
+
+**METODO DE PESQUISA**
+
+O metodo de pesquisa utilizado foi baseado em uma Revisao Sistematica da Literatura
+(SLR - Systematic Literature Review), a fim de fazer uma pesquisa abrangente e impar-
+cial. O objetivo dessa revisao e ter uma visao geral sobre acessibilidade no dominio da
+educacao e identificar quais sao os modelos e tecnicas mais especificos que existem e sao
+utilizados no intuito de produzir OA acessiveis.
+
+Para conduzir a SLR, foi utilizado o modelo proposto por Kitchenham et al.
+, que consiste na realizacao das seguintes atividades:
+planejamento, conducao e analise dos dados obtidos. O processo realizado esta descrito
+nas proximas subsecoes.
+
+As principais subatividades relacionadas ao planejamento da Revisao Sistematica da Li-
+teratura envolvem a especificacao das questoes de pesquisa, a string de busca, a estrategia
+de pesquisa, as fontes e os criterios de inclusao e exclusao. Para essa SLR, as questoes de
+pesquisa sao as seguintes:
+
+Questao de Pesquisa: Como a acessibilidade para deficientes visuais e tratada
+em objetos de aprendizagem?
+
+Subquestao: Quais sao os principais modelos, tecnicas e ferramentas usados para
+projetar e implementar objetos de aprendizagem acessiveis para deficientes visuais?
+
+Para definir a string de busca, foi selecionado um conjunto de palavras-chaves
+de estudos sobre objetos de aprendizagem e acessibilidade e essas palavras-chaves fo-
+ram combinadas com as questoes de pesquisa. Tambem foram estabelecidos sinonimos
+e variacoes das palavras-chaves. Finalmente, as palavras-chaves foram aprimoradas de
+forma iterativa e, usando operadores booleanos para conecta-las, a string de busca ficou
+da seguinte forma:
+accessibility AND (education OR "learning object”OR e-learning) AND ("visual
+impairment” OR blindness)
+
+A estrategia de pesquisa incluiu os seguintes procedimentos: (i) busca e extracao
+dos estudos utilizando a string de busca, reunidos em diferentes bases de dados; (ii)
+eliminacao dos estudos duplicados; (iii) filtro das publicacoes por titulo, palavras-chaves
+e analise dos resumos usando criterios de inclusao e exclusao; (iv) leitura dos artigos se-
+lecionados; (v) extracao de dados (uso de um formulario de extracao); e (vi) sintese dos
+resultados. A lista de fontes inclui periodicos e anais de conferencias disponiveis nas se-
+guintes bibliotecas digitais da web: IEEE Xplore, ACM Digital Library, Science Direct,
+Wiley Interscience e Scopus.
+
+Para os criterios de inclusao, foram considerados os artigos que tenham ligacao
+com a questao ou a subquestao de pesquisa e que descrevam solucoes (modelos e ferra-
+mentas) relacionadas a acessibilidade e objetos de aprendizagem. Os criterios de exclusao
+abrangem artigos nao acessiveis em formato eletronico, que nao estejam redigidos em
+ingles, que nao sejam avaliados por pares (por exemplo, prefacio, livro, editorial, resumo,
+poster, painel, palestra, mesa redonda, oficina ou demonstracao), trabalhos em andamento
+e estudos que nao tenham nenhuma relacao com acessibilidade, deficiencia visual e obje-
+tos de aprendizagem.
+
+A SLR foi realizada no periodo de 15 de setembro de 2021 ate 17 de novembro de 2021.
+O resumo das etapas da estrategia de pesquisa sera detalhado a seguir: utilizando a string
+de busca nas bases de dados do IEEE Xplore, ACM Digital Library, Science Direct, Wiley
+Interscience e Scopus, um total de 620 artigos foram retornados; em seguida, 42 artigos
+duplicados foram removidos; aplicando os criterios de inclusao e exclusao, 444 artigos
+foram eliminados, restando 134 artigos para a realizacao da leitura completa e extracao de
+dados. Apos a leitura completa, 90 artigos foram descartados por nao estarem relaciona-
+dos com a questao ou a subquestao de pesquisa. Considerando os 44 artigos selecionados,
+19 (43,2%) respondem a questao de pesquisa e 25 (56,8%) possuem relacao com a sub-
+questao de pesquisa.
+
+**RESULTADOS**
+
+Conforme descrito na subsecao 2.2, 44 artigos foram selecionados para responder as
+questoes de pesquisa (19 estudos relacionados com a questao de pesquisa e 25 com a
+subquestao), conforme indicado a seguir.
+
+Questao de pesquisa: Como a acessibilidade para deficientes visuais e tratada
+em objetos de aprendizagem?
+
+Ao analisar os 19 estudos selecionados, foram encontrados os seguintes objetos
+de aprendizagem: audio, curso, imagem, jogo, questionario e video. A seguir sera apre-
+sentado como os autores abordaram a acessibilidade dos objetos de aprendizagem audio
+e imagem.
+
+Lahav et al.  propos ensinar ciencias para alunos cegos. Os
+autores investigaram se e como pessoas cegas percebem fluxos de som e os transfor-
+mam em pensamento cientifico por meio de interacoes com sistemas L2C (Listening-to-
+Complexity). As interacoes do modelo L2C ajudaram os alunos cegos a ouvirem varios
+fluxos de audio e a relaciona-los com um conceito cientifico. Cada evento ou fenomeno
+abordado possuia um som unico, por exemplo, para mostrar colisoes de particulas, os
+autores escolheram colisoes de bola de bilhar: duas bolas de bilhar (o mesmo material)
+colidindo uma com a outra.
+
+Orsini-Jones et al.  apresentou uma forma para apoiar a
+participacao de alunos com deficiencia visual para fornecer uma boa experiencia de apren-
+dizado em linguas estrangeiras. Para ajudar as pessoas a se envolverem em atividades de
+conversacao, os alunos precisavam descrever uma foto para outro aluno. E para que os
+alunos com deficiencia visual pudessem participar dessas atividades, os autores utilizaram
+o Wikki Stix para criar diagramas e imagens tateis que representavam as imagens que os
+alunos deveriam descrever na atividade de conversacao.
+
+Subquestao de pesquisa: Quais sao os principais modelos, tecnicas e ferramentas
+usados para projetar e implementar objetos de aprendizagem acessiveis para deficientes
+visuais?
+
+Ao analisar os 25 estudos selecionados relacionados a modelos e tecnicas de aces-
+sibilidade, foram encontrados os seguintes objetos de aprendizagem: aplicativo, curso,
+diagrama, imagem e jogo. A seguir sera apresentado como os autores abordaram a aces-
+sibilidade do curso.
+
+Freire et al.  apresentaram uma abordagem para que alunos
+cegos possam participar de aulas ao vivo e a distancia utilizando os sistemas Interactive
+Whiteboard (IWB). Essa abordagem e semelhante a forma utilizada pelos interpretes de
+lingua de sinais para pessoas surdas, ou seja, ideia e utilizar um mediador para os alunos
+com deficiencia visual. Para isso, o mediador inclui as descricoes textuais dos elementos
+graficos durante a aula ao vivo e de forma sincrona da seguinte maneira: o professor apre-
+senta o conteudo de forma remota, utilizando um IWB com interacao baseada em caneta,
+o mediador insere, de forma sincrona, as descricoes textuais dos elementos fornecidos
+pelo professor e o aluno interage com o material utilizando um tablet e escuta o conteudo
+por meio de um leitor de tela.
+
+**CONCLUSAO**
+
+Este artigo apresentou uma Revisao Sistematica da Literatura sobre acessibilidade no
+contexto da educacao. O principal objetivo foi trazer um panorama da pesquisa sobre
+objetos de aprendizagem acessiveis para deficientes visuais, a fim de identificar lacunas
+e orientar estudos mais detalhados sobre o assunto. Foram identificadas as varias formas
+que os autores abordaram a acessibilidade de cada objeto de aprendizagem e detectados
+os modelos, tecnicas e ferramentas computacionais mais especificos que existem e sao
+utilizados neste dominio de forma a promover a acessibilidade.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, esta revisao sistematica da literatura fornece uma visao abrangente do panorama atual das pesquisas sobre objetos de aprendizagem acessiveis para deficientes visuais. Os resultados indicam que a area ainda carece de estudos mais aprofundados e de solucoes praticas que possam ser aplicadas em diferentes contextos educacionais. A identificacao dos objetos de aprendizagem mais explorados e das abordagens de acessibilidade mais utilizadas pode servir de base para o desenvolvimento de novas pesquisas e a implementacao de praticas mais inclusivas na educacao a distancia. Acreditamos que este trabalho possa contribuir para o avanço da area e a melhoria da qualidade da educacao para todos.
+```

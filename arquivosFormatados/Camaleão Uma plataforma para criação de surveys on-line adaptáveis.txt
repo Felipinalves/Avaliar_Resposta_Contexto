@@ -1,0 +1,162 @@
+**RESUMO**
+
+A survey e um metodo para o campo da Interaçao
+Humano-Computador (IHC) por ser de facil aplicaçao e
+possibilitar a coleta de grande quantidade de dados,
+entretanto, a adaptaçao de surveys ao contexto do
+respondente ainda e uma limitaçao das plataformas
+on-line. Este trabalho apresenta a plataforma Camaleao,
+utilizada para criaçao de surveys on-line com perguntas
+adaptaveis as respostas dos usuarios. A plataforma dispoe
+de uma interface web para criaçao e disponibilizaçao de
+surveys e pode dar suporte para pesquisas de validaçao de
+instrumentos psicometricos ou ainda em testes de
+usabilidade e experiencia do usuario (UX) onde este tenha
+que considerar topicos especificos de interaçao.
+
+
+**INTRODUCAO**
+
+Um dos metodos mais comumente utilizados no campo da
+Interaçao Humano-Computador (IHC) e demais areas sao
+as Surveys, que podem ser descritas como um conjunto de
+perguntas bem definidas ao qual um individuo e solicitado
+a responder com finalidades como descrever populaçoes ou
+explicar comportamentos . Este tipo de metodo pode ser
+aplicado utilizando papel, e-mail ou atraves de
+formularios on-line, sendo este ultimo o mais
+frequentemente utilizado hoje em dia .
+
+Na IHC, as surveys podem ser utilizadas de diversas
+formas como para coletar necessidades do publico-alvo ou
+dados acerca de topicos especificos da interaçao com um
+determinado sistema, entretanto, pesquisas que precisam
+de perguntas adaptaveis as respostas do usuario, como em
+casos onde as perguntas se ajustem a partir do que o
+usuario determina que ponto de interaçao a ser avaliado,
+podem se deparar com um fator de limitaçao visto que as
+plataformas nao dispoe desta funcionalidade.
+
+As novas tecnologia permitem que pesquisadores
+experimentem diferentes formas de personalizar a
+interaçao dos participantes, incluindo no uso de
+perguntas personalizadas . A necessidade de sistemas que
+utilizam de personalizaçao de perguntas pode ser
+percebida ja em outras areas, principalmente em sistemas
+de recuperaçao de informaçao (RI) .
+
+Este projeto surgiu de uma necessidade identificada
+durante a fase de validaçao de um instrumento
+psicometrico para avaliaçao de construtos de motivaçao
+em tarefas dentro de produtos digitais (ex. jogos,
+aplicaçoes ou sites). Cada item do instrumento deveria se
+adaptar dependendo da tarefa a ser avaliada, existindo
+um espaço em branco para preenchimento da mesma. As
+ferramentas de criaçao de surveys on-line como Google
+Forms e Qualtrics nao possibilitam a personalizaçao de
+questoes baseado em respostas anteriores, gerando um
+fator limitante em pesquisas que buscam promover
+questionarios customizados para seus usuarios atraves da
+adaptaçao de suas perguntas, principalmente no cenario
+de pesquisas remotas.
+
+**Plataforma Camaleao e Caso de Uso**
+
+A plataforma web (front-end) foi desenvolvida utilizando
+a biblioteca ReactJS da linguagem de programaçao
+Javascript. O back-end tambem foi implementado com a
+linguagem de programaçao Javascript, utilizando Node JS e
+o framework Express, com um sistema de gerenciamento de
+banco de dados nao-relacional MongoDB. Atraves da
+plataforma, pode ser criada uma survey com diferentes
+tipos de perguntas (ex. multipla escolha, caixa de
+seleçao, respostas abertas curtas ou longas, escala
+likert) organizadas atraves de seçoes que representam as
+paginas da survey.
+
+A ligaçao entre perguntas e respostas pode ser feita
+atraves da aplicaçao de variaveis que indicam onde
+determinada resposta pode ser utilizada, como pode ser
+visto na figura 1 (destacado em laranja). Sua utilizaçao
+deve ser feita atraves dos identificadores de seçao e
+componente do questionario, por exemplo, para utilizar a
+resposta que se encontra numa seçao de identificador
+"Secao l'e componente de identificador "Questao
+1"deve-se aplicar a variavel "{{Secao 1/Questao 1}}".
+
+Como caso de uso, foi implementada uma versao do
+questionario de validaçao de um instrumento
+psicometrico, onde cada pergunta do instrumento original
+foi inserida com uma dependencia da resposta da etapa
+anterior. O questionario usa de componentes como blocos
+de texto, respostas curtas, multipla escolha e escala
+likert. As figuras 2 e 3 ilustram um caso de uso de
+personalizaçao, onde o questionario (figura 3) adapta
+suas perguntas com base na resposta a pergunta "Qual
+parte do produto voce vai considerar?" inseridas na etapa
+anterior de preenchimento de tarefa (figura 2). A
+resposta inserida no exemplo foi a tarefa "comentar um
+foto”dentro da aplicaçao Instagram. O produto e tarefa
+escolhidos entao sao aplicados como variavel na seçao
+seguinte, como visto no titulo "Avaliando sua
+experiencia (Aplicaçao Instagram)”e na primeira
+pergunta "Depois de comentar uma foto por um tempo, me
+senti muito competente".
+
+De forma a permitir que o proprio respondente preencha o
+que sera utilizado para adaptar a pergunta, e importante
+que seja feita uma explicaçao de como preencher a
+resposta de forma a nao alterar o sentido semantico das
+perguntas que serao aplicadas. Faz-se necessario,
+ainda, ter atençao a natureza das perguntas sendo
+adaptadas e ao impacto destas na validade dos dados
+coletados. Os pesquisadores e profissionais que
+utilizarem a plataforma para aplicar questionarios pre-
+existentes que nao explicitam a possibilidade de
+adaptaçao de suas perguntas devem estar cientes que essa
+customizaçao pode prejudicar a confiança dos
+resultados, levando a implicaçoes erroneas. Recomenda-se
+tambem aos autores das surveys que estes realizem uma
+etapa de testes piloto, visto que este pode minimizar
+possiveis problemas como ambiguidade e imparcialidade,
+assim como verificar a compreensao do fluxo geral por
+parte de possiveis usuarios .
+
+**CONCLUSAO**
+
+Este trabalho apresentou a plataforma Camaleao,
+proposta como um sistema de criaçao de surveys
+adaptaveis com base nas respostas dos respondentes.
+Tendo em vista a necessidade de personalizaçao de
+perguntas, destaca-se que a abordagem utilizada pode
+permitir maior clareza e assertividade nas respostas
+visto que o contexto do usuario estara presente durante
+todo o momento.
+
+Os autores desta proposta acreditam que a plataforma
+Camaleao pode dar suporte a profissionais de diversas
+areas, principalmente da IHC nao so no que se refere a
+pesquisas de validaçao de instrumentos psicometricos,
+mas tambem para quaisquer questionarios em que haja
+necessidade de personalizaçao de seus itens, como em
+testes de usabilidade e experiencia do usuario (UX) onde
+este tenha que considerar partes especificas do artefato
+investigado, ou ainda para criar versoes digitais de
+instrumentos validados que tenham espaços de
+personalizaçao, como visto nos questionarios User
+Engagement Scale Br (UES-Br)  e System Usability Scale
+(SUS) .
+
+Como trabalhos futuros, pretende-se realizar avaliaçoes
+de usabilidade de funcionalidades relacionadas a criaçao
+das surveys, com pesquisadores e profissionais da area de
+IHC, e a resposta das surveys, com usuarios de
+diferentes contextos. Posteriormente, planeja-se estender
+o escopo do projeto de forma a permitir fluxos mais
+complexos entre seçoes tambem levando em consideraçao
+as respostas anteriores do usuario.
+
+**CONCLUSAO**
+
+A plataforma Camaleao apresenta-se como uma ferramenta promissora para a criaçao de surveys adaptativos, atendendo a uma necessidade crescente na area de IHC. Sua capacidade de personalizar as perguntas com base nas respostas dos usuarios permite a coleta de dados mais precisos e contextualmente relevantes, abrindo novas possibilidades para pesquisas e avaliaçoes na interaçao humano-computador.
+```

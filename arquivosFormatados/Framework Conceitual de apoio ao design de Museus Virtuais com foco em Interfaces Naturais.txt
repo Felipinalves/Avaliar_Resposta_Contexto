@@ -1,0 +1,79 @@
+**RESUMO**
+
+O Museu Virtual e um importante instrumento que permite o
+acesso a obras, muitas vezes, inacessiveis devido à
+localizaçao fisica dos museus tradicionais. No entanto,
+observa-se que os museus virtuais apresentam problemas
+que afetam diretamente sua usabilidade. Assim, neste artigo e
+proposto um framework conceitual que fornece um modelo
+conceitual e diretrizes relacionadas as Interfaces Naturais de
+Usuarios para apoiar o design de Museus Virtuais. Para
+verificar a sua aplicabilidade, o framework apoiou o
+desenvolvimento de um Museu Virtual para salvaguardar a
+historia de uma cidade. O museu virtual foi disponibilizado
+a um conjunto de usuarios que forneceram um feedback
+sobre a sua experiencia. A partir dos relatos, observou-se
+que, seguindo os eixos e diretrizes propostos pelo VMNUI,
+foi possivel criar um museu virtual que proporcionasse uma
+boa experiencia de navegaçao, interaçao e comunicaçao.
+
+**INTRODUÇAO**
+
+O Museu Virtual e um importante meio de comunicaçao que
+permite preservar informaçoes historicas que muitas vezes
+sao perdidas. Segundo , um Museu Virtual pode ser
+definido como um acervo de conteudo digital que e
+disponibilizados na web. Se constitui como um ambiente,
+que rompe a barreira de espaço e tempo e que pode, segundo
+ , facilitar a recepçao informativa, pedagogica e estetica
+proporcionada por museus convencionais.
+
+Algumas falhas de usabilidade que desestimulam o publico
+a explorar os conteudos foram identificadas por , que
+analisaram 36 museus virtuais. Nesse contexto, a Interface
+Natural pode se apresentar como uma forma de minimizar
+estes problemas, pois, segundo , por meio dela o usuario
+pode interagir com conteudos digitais utilizando
+movimentos, gestos, sons e toques, os quais sao mais
+intuitivos que o uso de dispositivos de controle artificial.
+
+Face a este cenario, observou-se a relevancia de propor
+modelos que apoiem os designers de ambientes virtuais na
+criaçao de espaços que proporcionem boa interatividade,
+intuitividade e melhor usabilidade. Assim, este artigo
+apresenta um framework conceitual de apoio a criaçao de
+museus virtuais com foco nas caracteristicas das interfaces
+naturais. Um maior detalhamento do framework proposto foi
+apresentado em .
+
+VMNUI: FRAMEWORK CONCEITUAL DE APOIO AO DESIGN DE MUSEUS VIRTUAIS COM FOCO EM INTERFACES NATURAIS
+
+A partir dos diagnosticos efetuados, com base nos principais fatores do design de sistemas interativos proposto por 6 e no trabalho de 7, foi desenvolvido o framework conceitual VMNUI (Virtual Museums with Natural User Interface). O framework e composto pelo modelo conceitual (Figura 1) e as diretrizes propostas, com enfase nas interfaces naturais, buscando apoiar a criacao de museus virtuais tridimensionais. No modelo sao apresentados os diferentes papeis que as pessoas podem assumir no Museu Virtual, alem dos componentes que podem ser utilizados para divulgar o conteudo.
+
+Ainda, sao expostas as atividades que cada pessoa pode realizar em Museu Virtual. O VMNUI e composto tambem por algumas diretrizes que tem como funcao auxiliar os desenvolvedores de museus virtuais na construcao de ambientes mais intuitivos e agradaveis. Um resumo das diretrizes e apresentado na Tabela 1.
+
+As NUIs, segundo 8, surgem com o objetivo de utilizar habilidades diarias do usuario para a interacao com o conteudo. Assim, e possivel que os usuarios tirem proveito das habilidades adquiridas no seu cotidiano e isso contribui para que o tempo de aprendizagem para a utilizacao da interface natural seja menor.
+
+**CONSIDERAÇOES FINAIS**
+
+O Museu Virtual e uma alternativa para muitos individuos
+que desconhecem a existencia de museus fisicos, ou nao tem
+a motivaçao necessaria para fazer uma visita, por conta de
+diversas razoes que podem dificultar o seu acesso.
+
+Buscando verificar a sua aplicabilidade, o VMNUI apoiou o
+desenvolvimento de um Museu Virtual para salvaguardar a
+historia da cidade de Bandeirantes Parana/Brasil. Um
+grupo de pessoas teve acesso à primeira versao do Museu, e
+puderam relatar a sua experiencia no ambiente. Algumas
+questoes foram apontadas, dentre elas a possibilidade de
+acesso aos textos das imagens e a necessidade de inclusao de
+alguns botoes para melhorar a navegaçao. Contudo, a partir
+dos relatos, observou-se que, seguindo os eixos e diretrizes
+propostos pelo VMNUI, foi possivel criar um museu virtual
+que proporcionasse, no geral, uma boa experiencia de
+navegaçao.
+
+**CONIDERACOES FINAIS**
+
+O framework conceitual proposto, o VMNUI, demonstra ser uma ferramenta util para apoiar o design de museus virtuais, especialmente no que tange a usabilidade e a experiencia do usuario. Ao fornecer um modelo conceitual e diretrizes relacionadas as interfaces naturais, o VMNUI busca garantir que os museus virtuais sejam mais acessiveis, intuitivos e agradaveis de usar, proporcionando uma experiencia enriquecedora para os visitantes. A verificaçao da aplicabilidade do VMNUI no desenvolvimento de um museu virtual real demonstrou o seu potencial para melhorar a navegaçao, a interaçao e a comunicaçao, tornando a visita virtual mais envolvente e informativa.

@@ -1,0 +1,173 @@
+**RESUMO**
+
+Neste artigo e descrito o processo de proposiçao da nova interface
+do Quaesta, um sistema de pesquisa de projetos da Embrapa. A interface
+inicial nao favorecia uma navegabilidade natural, porque as demandas de
+pesquisa surgiam e eram prontamente agregadas a interface, sem uma analise
+ou estudo previo de onde deveriam ser alocadas. Com a nova interface, as
+funcionalidades foram pensadas em conjunto durante a reestruturaçao da
+interface, favorecendo a interatividade com novas funcionalidades e uma
+identidade visual sintonizada com os padroes adotados pela Embrapa.
+
+**INTRODUCAO**
+
+O Quaesta, lançado em 2016, e uma ferramenta computacional de pesquisa textual
+sobre a base de projetos da Embrapa, que utiliza principios da Inteligencia Artificial
+(IA), Processamento de Linguagem Natural (PLN) e artefatos de informaçao
+qualificados: vocabulario especificos, tesauros e dicionarios agricolas especializados.
+Apelidada de "o google da Embrapa", o Quaesta possibilita a elaboraçao de diferentes e
+variados tipos de pesquisas textuais sobre a base de projetos da empresa e representa a
+oportunidade impar de organizar, dar transparencia, uniformizar e facilitar a busca,
+democratizar o acesso e promover a comunicaçao corporativa das informaçoes e
+conhecimentos outorgados no historico de projetos da Embrapa.
+
+O Quaesta e visto pelos gestores como contribuiçao significativa para a melhoria
+da programaçao de Pesquisa, Desenvolvimento e Inovaçao (PD&I) da Embrapa. Alem
+de ser uma fonte de consulta sobre os temas que estao sendo ou foram trabalhados pela
+Empresa, facilita a identificaçao de açoes destinadas a cobrir lacunas na programaçao de
+pesquisa e a evitar duplicaçoes de esforços, bem como a proposiçao de projetos de
+PD&I complementares em temas relevantes, entre diversas outras possibilidades.
+
+Considerando a relevancia do sistema e a quantidade de funcionalidades que
+foram agregadas ao longo dos anos conforme eram identificadas, comprometendo a
+naturalidade e a interacao dos usuarios, percebeu-se a necessidade de uma nova
+interface do sistema, desenvolvida de acordo com conceitos de usabilidade. Assim, para
+a nova interface, a expectativa era tornar a consulta do sistema mais amigavel,
+favorecendo a interatividade, incorporando as funcionalidades novas, com uma
+identidade visual sintonizada com os padroes adotados pela Embrapa. Para isso, pelo
+metodo de inspecao, uma especialista em usabilidade identificou problemas desta
+natureza em tarefas especificas do sistema e propos melhorias. 
+
+
+**MATERIAIS E METODOS ADOTADOS**
+
+Segundo a norma ISO/IEC 9126 (2001), a conformidade e utilizada para avaliar o
+quanto o software obedece aos requisitos de legislaçao e todo o tipo de
+padronizaçao/normalizaçao aplicavel ao contexto. A perspectiva de inspeçao e uma
+avaliaçao de conformidade realizada por um especialista para determinar se um sistema
+web atende a criterios de sucesso (Brajnik, 2008).
+
+De acordo com Dias et al. (2013), um dos maiores beneficios de se utilizar
+inspeçoes em sistemas web e a detecçao de defeitos/limitaçoes, facilitando a correçao
+destes problemas, implicando em melhorias significativas para a produtividade de
+software. Nesse sentido, para que a nova interface do Quaesta fosse desenvolvida, os
+seguintes procedimentos metodologicos foram adotados:
+
+1) Analise da interface por inspeçao
+Identificaçao de problemas e limitaçoes
+Levantamento de novas funcionalidades
+2) Proposta da nova interface com foco em usabilidade e padroes web
+Prototipo em papel
+Prototipos desenvolvidos com a ferramenta Pencil
+3) Desenvolvimento e disponibilizaçao da nova interface
+
+**ANALISE DA INTERFACE**
+
+Na fase de analise da interface do Quaesta varios problemas foram identificados, bem
+como o levantamento de novas funcionalidades que pudessem facilitar a interaçao dos
+usuarios. E importante ressaltar que optou-se por apresentar neste artigo, apenas as telas
+principais do sistema, a saber: (a) a tela de login, (b) a tela de pesquisa simples e (c) a
+tela de pesquisa avançada e seus respectivos resultados da busca. No entanto, a analise
+do sistema e a proposta da nova interface, foram realizadas para todo o sistema.
+
+**IDENTIFICAÇAO DE PROBLEMAS E LIMITAÇOES DA INTERFACE**
+
+Nesta Seçao as principais interfaces e problemas identificados sao apresentados.
+
+Durante a analise da interface da Tela de acesso do Quaesta , os
+seguintes problemas foram identificados: I) a tela de login e pouco distribuida na tela,
+com informaçoes centralizadas na parte superior; II) informaçoes repetidas, como:
+Departamento de Pesquisa e Desenvolvimento DPD; III) ausencia de informaçoes
+sobre o sistema, como a versao, funcionalidades disponiveis etc.
+
+Os problemas detectados na tela inicial, apos o login , foram os
+seguintes: I) apos analise dos logs de acesso a nuvem de tags, percebeu-se o desuso
+dessa opçao pelos usuarios; II) as informaçoes “Contato” e “Sobre o Quaesta” aparecem
+no rodape do sistema apos o login, mas sao informaçoes gerais do sistema que devem
+estar disponiveis aos usuarios antes mesmo do login; III) a opçao “Busca avançada” fica
+ao lado da opçao "Pesquisar”, confundindo-se com uma opçao de busca avançada; IV)
+informaçoes sobre “Termos relacionados” disponiveis no link “O que e isso?”.
+
+A tela de pesquisa simples contem diversos problemas de usabilidade
+(excesso de funcionalidades, opçoes e cores), que induzem usuarios a erros na interaçao,
+atrasando, dificultando ou ate mesmo inviabilizando a conclusao de uma tarefa.
+
+A tela de pesquisa avançada e composta pela pesquisa por “campos
+especificos" e pesquisa por “similaridade textual”, contendo os mesmos problemas
+identificados na Tela de pesquisa simples , devido a variedade de informaçoes
+disponiveis na tela. A opçao de busca avançada e de dificil percepçao ao usuario.
+
+**LEVANTAMENTO DE NOVAS FUNCIONALIDADES E PUBLICO-ALVO**
+
+Alem da identificaçao dos problemas de interaçao na interface do sistema, pensando no
+publico-alvo que sao todos os empregados da Embrapa com necessidades diferentes,
+tambem foram identificadas diversas funcionalidades:
+
+“Analise dos resultados apresentados”: apresenta os dados filtrados em graficos;
+“Ngram viewer": apresenta a ocorrencia das informaçoes consultadas ao longo do
+tempo (mes a mes, por exemplo desde 2006);
+"Pasta de projetos": o usuario pode salvar os projetos que sao de interesse dele
+(mantendo a metafora de uma cesta de produtos);
+“Ultimas buscas": realizadas pelo proprio usuario, por meio do armazenamento de
+logs de suas pesquisas;
+“Meus Projetos Favoritos”: o usuario seleciona os projetos que lhes interessam para
+acessa-los de forma mais rapida. Dentro dessa opçao, havera tambem a opçao “ativar o
+recebimento de notificaçoes”, em que o usuario opta por receber um e-mail de aviso
+quando um novo texto indexado satisfizer uma pesquisa pregressa, ou seja, se dentro de
+um mes o usuario fez uma pesquisa e houve atualizaçao com informaçoes do termo
+pesquisado, o usuario sera notificado e convidado a ver o detalhamento da notificaçao;
+"Projetos que participo": o usuario pode clicar e ver todos os projetos que tem algum
+envolvimento com sua matricula.
+
+Tais funcionalidades foram sugeridas para facilitar a interaçao dos usuarios com
+o sistema e devem ser inseridas a nova interface.
+
+**PROPOSTA DA NOVA INTERFACE COM FOCO EM USABILIDADE E PADROES WEB**
+
+De acordo com Norman (1986, 1999), ao longo do processo de desenvolvimento de
+sistemas, deve-se centrar-se nas necessidades do usuario, ou seja, construir interfaces
+orientadas a usabilidade. Assim, durante a elaboraçao da nova interface do Quaesta,
+foram adotados principios de usabilidade que contribuem para uma boa interface (ISO
+9241-210, 2010), heuristicas de Nielsen (1993), bem como padroes web de Montero et
+al. (2002), visando cumprir as melhores praticas para o desenvolvimento web.
+
+Adicionalmente, documentos da Embrapa foram consultados para garantir uma
+interface padronizada com demais sistemas da Empresa, tal como o Guia de Identidade
+Visual da Embrapa. No entanto, percebeu-se que o desenvolvimento dos sistemas
+corporativos nao segue um guia unico, sem padronizaçao.
+
+**PROTOTIPOS EM PAPEL**
+
+Prototipos em papel podem ser usados para avaliar o fluxo de informaçoes e a
+navegaçao de um sistema, explorar possibilidades de comunicaçao ou tangibilizar a
+apresentaçao de ideias a usuarios, empresa ou a propria equipe de projeto, para gerar
+entendimento. No caso do Quaesta, prototipos em papel foram desenvolvidos para: I)
+organizar e redistribuir os elementos da interface; II) reposicionar botoes e
+funcionalidades; III) inserir feedback as açoes dos usuarios; e IV) inserir novas
+funcionalidades e melhorias previstas. Diversas telas foram desenvolvidas por meio do
+prototipo em papel, no entanto, algumas essenciais sao apresentadas na Tabela 1.
+
+Os prototipos em papel ganharam novas versoes ao longo das iteracoes com a equipe e ofereceram um entendimento do leiaute e da estetica do sistema dos mecanismos de navegacao da funcionalidade e do conteudo da informacao
+
+2.2.2 Prototipos utilizando a ferramenta Pencil
+Apos a definicao e reorganizacao das funcionalidades do sistema nos prototipos em papel optou-se por utilizar a ferramenta Pencil software livre para o desenvolvimento de prototipos mais fidedignos dando tratamento tambem as cores do sistema
+As cores utilizadas para a nova interface Tabela 2 foram azul HTML 004993 e verde HTML 00763D respeitando as cores utilizadas pela Embrapa com detalhes em cinza que e uma cor que alem de trazer tranquilidade e muito utilizada em sistemas desenvolvidos para usuarios intelectuais com formacao mais qualificada Dias 2009 As fontes utilizadas foram Arial ou Verdana variando o tamanho conforme necessidade
+
+Apresentacao dos resultados
+Baseado nos prototipos feitos pela especialista em IHC a nova interface foi desenvolvida e disponibilizada As opcoes de buscas foram integradas em um componente por meio de tres abas Fig 5 Quando a aba esta selecionada o verde fica mais forte com a fonte branca enquanto as demais abas permanecem no verde claro com fonte preta As novas funcionalidades secao 2.1.2 foram inseridas nesta tela
+A busca simples e a primeira aba dentre as opcoes de pesquisa de projetos O usuario pode selecionar Termos relacionados bem como clicar para obter uma explicacao do significado dessa marcacao O usuario tambem pode usar operadores logicos seguindo a observacao indicada de como executar uma busca mais eficiente
+A busca por campos especificos e a segunda aba de opcoes do sistema Nessa aba o usuario tambem pode fazer uso de operadores logicos para refinar a pesquisa alem de especificar em qual campo especifico do projeto ele gostaria de pesquisar a expressao ou palavra de busca informada Quando o usuario faz uso de algum operador AND OR NOT outra linha se abre para que ele preencha as demais informacoes
+Na busca por similaridade textual terceira aba o usuario consegue optar pelo indice de similaridade no percentual que lhe for conveniente Quando o usuario faz uma consulta no Quaesta independente da opcao os resultados sao apresentados Figura 6
+Na Tela de resultados o usuario pode filtrar os projetos por tipo status etc fazer download do resultado e clicar no titulo de algum projeto para ver o detalhamento sobre ele Para o download dos projetos o usuario escolhe quais campos fara o download para exportacao em excel Na nova funcionalidade Analise dos resultados apresentados o empregado consegue ver os dados dos filtros em formato de graficos
+
+Licoes aprendidas
+Do ponto de vista da especialista em IHC a principal licao aprendida deste trabalho e a percepcao de que as grandes demandas de sistemas e ferramentas da empresa aliadas aos prazos curtos de implementacao e entrega desfavorecem o emprego adequado das tecnicas estudos e a inclusao levantamento de requisitos para a criacao das suas interfaces provocando uma acao tardia dessas necessidades depois que eles sao implantados Enquanto do ponto de vista do desenvolvedor e do gestor foi notavel a melhoria feita no sistema o que os fez repensar sobre o quao fundamental e incluir principios de usabilidade desde o inicio do desenvolvimento tanto pelo custo quanto pela facilidade de incluir novas solicitacoes posteriores
+
+Consideracoes finais
+O Quaesta ferramenta de busca de projetos ganhou uma nova interface desenvolvida com conceitos de IHC A consulta ficou mais amigavel favorecendo a interatividade trazendo novas funcionalidades e uma identidade visual sintonizada com os padroes adotados pela Embrapa O sistema agora permite a pesquisa textual por meio de uma pesquisa simples e de uso intuitivo comum aos motores de busca na Internet Para isso foi necessaria a alteracao de toda a interface em relacao a apresentacao dos dados organizacao de todas as telas e alteracao nas cores utilizadas
+Como proximos passos a curto prazo espera-se realizar testes de usabilidade com a participacao de usuarios para verificar se a nova interface foi bem aceita A medio prazo espera-se desenvolver um curso para propagar mais o uso da ferramenta A longo prazo pretende-se desenvolver uma interface responsiva do sistema
+
+
+**CONSIDERACOES FINAIS**
+
+A proposta de uma nova interface para o Quaesta, baseada em principios de usabilidade e padroes web, demonstra o compromisso da Embrapa em oferecer ferramentas de pesquisa mais eficientes e amigaveis aos seus empregados. As melhorias implementadas visam a facilitar a interaçao com o sistema, tornando a busca por projetos mais intuitiva e acessivel a todos os usuarios. A expectativa e que, com a nova interface, o Quaesta se torne uma ferramenta ainda mais valiosa para a gestao do conhecimento e a tomada de decisoes na Embrapa.

@@ -1,0 +1,138 @@
+**RESUMO**
+
+Este estudo investigou a efetividade da Tecnologia Assistiva, com
+foco nas pranchas de comunicaçao digitais, no contexto do Atendimento
+Pedagogico Domiciliar (APD) para uma estudante com Atrofia Muscular
+Espinhal (AME) Tipo 1. O estudo adotou uma abordagem qualitativa,
+utilizando a pesquisa-açao e o metodo de estudo de caso. A pesquisa envolveu
+sete participantes, incluindo a estudante, familiares, professores e
+profissionais de saude. Os resultados destacaram a importancia dessas
+tecnologias na promoçao da inclusao, facilitando a comunicaçao, aumentando
+o engajamento da estudante e contribuindo para seu desenvolvimento
+academico e social.
+
+**1. Descriçao do problema**
+
+A Atrofia Muscular Espinhal (AME) e uma condiçao genetica caracterizada pela
+fraqueza progressiva dos musculos responsaveis pelo movimento e pela respiraçao. Esta
+doença resulta da degeneraçao dos neuronios motores na medula espinhal e nos nucleos
+motores dos nervos cranianos. E uma doença rara, e mostra-se como a principal causa
+genetica de morte infantil e como a segunda condiçao neuromuscular mais prevalente
+em crianças, apos a distrofia muscular de Duchenne (INAME, 2020). As consequencias
+da AME para o processo de ensino-aprendizagem sao profundas, especialmente para
+estudantes com AME Tipo 1, que devido a fraqueza muscular progressiva, enfrentam
+limitaçoes significativas em atividades cotidianas e academicas, como locomoçao,
+comunicaçao e participaçao em sala de aula. Desse modo, frequentemente necessitam de
+Atendimento Pedagogico Domiciliar (APD), uma modalidade de ensino que visa
+garantir a continuidade da educaçao para estudantes que, por motivos de saude, nao
+podem frequentar a escola regularmente (MEC, 2002). Segundo Moraes et al. (2021), ο
+APD integra os alunos ao processo de escolarizaçao por meio de um curriculo adaptado,
+mediado por um professor que trabalha diretamente no domicilio do estudante. Este
+professor desempenha um papel fundamental ao adaptar o conteudo pedagogico para
+atender as necessidades especificas dos alunos, utilizando metodologias e recursos que
+garantam a eficacia do ensino e, a Tecnologia Assistiva (TA) apresenta-se como
+facilitadora nesse processo. De acordo com Rocha e Pletsch (2018), essas tecnologias
+incluem uma variedade de dispositivos e recursos que auxiliam os alunos a superar as
+limitaçoes impostas pela AME, permitindo-lhes acessar o curriculo e participar das
+atividades educacionais. Este estudo investiga como pranchas de comunicaçao digitais
+podem facilitar a comunicaçao e o desenvolvimento de atividades pedagogicas para uma
+estudante com AME Tipo 1, focando na sua interaçao com o computador. O objetivo e
+criar e avaliar essas pranchas de forma participativa, integrando a acessibilidade ao
+computador no processo educacional. A pesquisa busca aprimorar a pratica pedagogica
+ao fornecer ferramentas eficazes que melhorem a qualidade do ensino e a participaçao
+ativa de estudantes com AME Tipo 1.
+
+**2. Abordagem Adotada**
+
+A metodologia deste estudo e qualitativa e exploratoria, com abordagem principal de
+pesquisa-açao e procedimento de estudo de caso (Prodanov; Freitas, 2013). Participaram
+sete pessoas: uma estudante de 17 anos com AME Tipo 1, seu familiar, as professoras
+do Atendimento Pedagogico Domiciliar (APD) e da Sala de Recursos Multifuncionais,
+um tecnico em Tecnologia Assistiva, a coordenadora da escola e uma fisioterapeuta. O
+estudo, realizado de setembro de 2023 a abril de 2024 em Cuiaba, Mato Grosso,
+envolveu a residencia da estudante e a escola. Os dados foram coletados por meio de
+entrevistas semiestruturadas, questionarios, consulta a documentos escolares e
+observaçao participante das atividades com pranchas de comunicaçao e na disciplina de
+Quimica. A pesquisa foi aprovada pelo Comite de Etica em Pesquisa com Seres
+Humanos da UFMT (parecer n° 6.292.901).
+
+**3. Resultados**
+
+A estudante, impossibilitada de frequentar aulas presencialmente, demonstrou um
+grande desejo de aprender, mesmo enfrentando dificuldades na alfabetizaçao. Sua mente
+agil e perspicaz nao e impedida por barreiras cognitivas, mas necessita de apoio atraves
+de adaptaçoes e TA para alcançar seu pleno potencial academico. Inicialmente, ela
+utilizava as pranchas digitais e realizava atividades online apenas na presença da
+professora, devido a falta de um equipamento proprio, utilizando o notebook da
+professora. A receptividade e o entusiasmo da estudante ao usar o notebook foram
+evidentes, e a introduçao do Chromebook pela escola ampliou seu acesso a recursos
+educacionais online, permitindo o uso das pranchas digitais fora do horario das aulas.
+Durante a confecçao da prancha de comunicaçao digital, a participaçao ativa da
+estudante no design e na seleçao dos elementos foi evidente. Esta colaboraçao
+foi fundamental para a personalizaçao eficiente da prancha, tornando-a mais acessivel e
+alinhada ao seu estilo de comunicaçao. A estudante interagiu com icones personalizados
+e areas interativas da prancha, facilitando sua comunicaçao com a professora e a
+participaçao em atividades pedagogicas.
+
+A Tecnologia Assistiva desempenha um papel essencial como mediadora no
+processo de aprendizagem, frequentemente se mostrando a alternativa mais viavel para
+promover a interacao e a inclusao de alunos com deficiencia em diversos contextos
+sociais (Silva; Barbosa; Melo, 2020). Levando em consideracao a interacao entre
+professor e aluno com necessidades especiais na esfera da comunicacao, conforme
+proposto por Manzini e Deliberato (2006), os sistemas alternativos de comunicacao
+emergem como um meio eficaz para assegurar a inclusao desses alunos. Analisando os
+dados coletados neste estudo, observa-se que a integracao da prancha de comunicacao
+digital com o Chromebook proporcionou um avanco significativo no apoio ao
+desenvolvimento academico e da estudante. Esses resultados confirmam a relevancia da
+personalizacao da Tecnologia Assistiva e do acesso a tecnologias apropriadas,
+alinhando-se com estudos anteriores que destacam como esses recursos digitais e TAs
+sao fundamentais para a inclusao educacional de alunos com necessidades semelhantes. 
+
+**4. Conclusao**
+
+A confecçao da prancha de comunicaçao digital destacou a importancia da participaçao
+ativa dos diversos envolvidos no processo. A estudante teve um papel central,
+participando na seleçao dos elementos visuais e na organizaçao das categorias, o que
+permitiu adaptar a ferramenta as suas preferencias e necessidades especificas. Seu
+familiar forneceu informaçoes sobre a rotina, preferencias e formas de comunicaçao da
+estudante, o que ajudou a compreender melhor suas necessidades e desejos alem de
+apoiar no melhor posicionamento da estudante para as aulas. Isso contribuiu para a
+diminuiçao do desgaste e cansaço durante as aulas. A professora do APD facilitou o
+design, adaptando o conteudo pedagogico para assegurar que as pranchas fossem
+eficazes no apoio ao ensino. A fisioterapeuta ajudou fornecendo informaçoes sobre o
+posicionamento e conforto da estudante, o que foi fundamental para o melhor ajuste da
+prancha e do computador, alem de outras adaptaçoes necessarias, feitas pela professora
+do APD como a confecçao de uma mesa de apoio para o computador e um plano
+inclinado para melhor visualizaçao das atividades impressas. Essas orientaçoes foram
+fundamentais para melhorar o conforto da estudante durante as aulas. A professora da
+Sala de Recursos Multifuncionais (SRM) e a coordenadora pedagogica facilitaram a
+interaçao da estudante com seus colegas por meio de apoio em videochamadas. Esses
+resultados evidenciam a importancia da integraçao de tecnologias adequadas juntamente
+com a participaçao ativa dos envolvidos. Este estudo nao so proporciona insights
+valiosos para a pratica educacional, mas tambem orienta futuras pesquisas e praticas
+para aprimorar o suporte oferecido a estudantes com necessidades semelhantes.
+
+**5. Desafios e Liçoes aprendidas**
+
+Apesar do uso de um aplicativo com interface amigavel e de facil utilizaçao ter
+auxiliado tanto a estudante quanto a professora na elaboraçao e uso das pranchas, a
+questao da autonomia da estudante ao executar as açoes se mostrou um desafio
+significativo. A estudante depende constantemente do suporte da professora para acessar
+e realizar os comandos no computador. Nesse contexto, identificou-se a necessidade de
+uma TA que oferecesse acesso e autonomia adequados. Apos uma avaliaçao feita pela
+professora e tambem pelo Tecnico em TA, concluiu-se que um Mouse Ocular seria a
+soluçao ideal. No entanto, o alto custo desse equipamento impossibilitou sua aquisiçao e
+utilizaçao. Ficou evidente a indispensabilidade do apoio humano continuo no uso e
+acesso ao computador, incluindo o acompanhamento de educadores e cuidadores. Esses
+achados tem implicaçoes significativas para politicas educacionais e de saude,
+destacando a necessidade de acesso equitativo a dispositivos tecnologicos e ferramentas
+de Tecnologia Assistiva (TA) para todos os estudantes com deficiencia. Politicas devem
+assegurar a disponibilidade de equipamentos adequados, promovendo um ambiente
+educacional inclusivo e adaptado as necessidades individuais. Politicas devem nao
+apenas facilitar a aquisiçao de tecnologias acessiveis, mas tambem criar mecanismos de
+suporte financeiro para equipamentos de alta tecnologia, garantindo que todos os alunos
+possam se beneficiar.
+
+**CONSIDERAÇOES FINAIS**
+
+Em sintese, este estudo demonstrou o impacto positivo da Tecnologia Assistiva, especialmente pranchas de comunicaçao digitais, no Atendimento Pedagogico Domiciliar de uma estudante com AME Tipo 1. A participaçao ativa dos envolvidos, a personalizaçao da TA e o apoio continuo foram essenciais para promover a inclusao, a comunicaçao e o desenvolvimento academico e social da estudante. Os desafios encontrados, como a questao da autonomia e o alto custo de equipamentos de alta tecnologia, reforçam a necessidade de politicas publicas que assegurem o acesso equitativo a dispositivos tecnologicos e a um ambiente educacional inclusivo e adaptado as necessidades individuais.

@@ -1,0 +1,245 @@
+**INTRODUCAO**
+
+Os sistemas ubiquos estao cada vez mais presentes no cotidiano das pessoas de forma pervasiva
+e se tornando indistinguiveis na vida (WEISER, 1991). Nesse contexto, os sistemas ubiquos tem
+auxiliado cada vez mais uma variedade de atividades diarias, levando ao que se conhece como
+Internet das Coisas (IoTs), que sao uma colecao de objetos inteligentes de nossas vidas diarias
+conectadas a internet para fornecer aplicacoes mais relevantes (CARVALHO, 2019).
+
+Levando em consideracao o tema da competicao de avaliacao “Tecendo as Interfaces
+entre o Fisico e o Virtual”, que tem como proposta avaliar nao somente aspectos classicos, como
+aspectos da experiencia do usuario, escolheu-se como objeto de investigacao o sistema ubiquo e
+dispositivo IoT Hidrate Spark TAP.
+
+A garrafa e o aplicativo formam um sistema ubiquo de uso individual que busca
+incentivar o usuario a ter uma ingestao de agua satisfatoria durante seu dia, o sistema Hidrate
+Spark TAP. Este promete algumas funcionalidades como: alertas de brilho de hora em hora para
+lembrar o usuario de beber agua, sincronizacao e rastreamento da entrada de agua com o
+aplicativo, conexao com amigos, desafios diarios e um sistema de gamificacao.
+
+A escolha da garrafa se da pelo fato do sistema Hidrate Spark TAP nao se limitar
+somente ao objetivo fisico, nem somente ao aplicativo virtual, e sim uma integracao entre os
+dois, permitindo para seu usuario essa conexao ubiqua, sendo tambem, um dispositivo conectado a internet. O sistema fornece dados ao usuario sobre o consumo de agua, ao passo que rastreia a sua ingestao de agua, metas e lembretes. Uma versao da garrafa IoT Hidrate Spark passou por estudos de avaliacao. De Souza Filho et al., (2018) e De Souza Filho et al., (2020) avaliaram a Hidrate Spark 2.0 com metodos como Avaliacao Heuristica, MALTU e Teste de Usabilidade. Resultados indicaram desafios na configuracao do aplicativo, sincronizacao com a garrafa e conexao. Com uma nova versao da garrafa, a Hidrate Spark TAP, surge a oportunidade de realizar uma nova avaliacao, tendo em vista que a garrafa avaliada e apresentada como uma versao atualizada em comparacao a anterior e, em tese, deveria apresentar melhorias quanto aos problemas ja identificados.
+
+Hidrate Spark TAP
+A Hidrate Spark TAP e um dispositivo IoT visando auxiliar as pessoas a melhorarem a ingestao de agua durante seu dia, visando diminuir problemas e complicacoes de saude relacionadas a desidratacao. A Figura 1, apresenta a garrafa Hidrate Spark TAP.
+
+O sistema Hidrate Spark TAP e composto pela garrafa, cujo modelo pode ser escolhido pelo consumidor, e o aplicativo, disponivel tanto na App Store quanto na Play Store. Atraves do bluetooth e Near Field Communication (NFC), o usuario pode conectar a garrafa com o aplicativo e rastrear a quantidade de agua consumida. Alem de informacoes sobre o consumo, o aplicativo tambem rastreia informacoes pertinentes a saude do usuario, como o seu peso, altura e sexo, com o intuito de entender melhor o funcionamento do seu corpo e fornecer informacoes relativas ao tipo de usuario. Para este estudo de avaliacao, a garrafa usada foi o modelo Hidrate Spark TAP Tritan Plastic, com capacidade total de 710 mL.
+
+**METODOS DO ESTUDO**
+
+Para avaliar o aplicativo e a garrafa Hidrate Spark TAP, tendo como objetivo principal avaliar a
+interacao com o produto e a experiencia do usuario, foram definidos tres metodos que se
+dividiram em: Inspecao, Investigacao e Observacao de Uso Indireta. De inicio, foi executada
+pela equipe a Avaliacao Heuristica, sendo este o metodo de inspecao, a fim de fazer um
+julgamento do artefato com uma otica de profissionais de IHC. Em um segundo momento, foi
+executado o metodo MALTU, sendo este o metodo de investigacao, para compreender a
+experiencia dos usuarios a partir da coleta de comentarios em sistemas sociais. Em paralelo a
+MALTU, foi executado o Diario de Uso, sendo este o metodo de observacao de uso indireta, e
+uma entrevista pos-diario ao final para entender melhor sobre como foi a interacao e experiencia
+de uso com a garrafa e aplicativo pela visao dos usuarios de forma cronologica.
+
+As tarefas da Figura 2 foram definidas com base nas primeiras tarefas que os usuarios
+devem fazer ao utilizarem o produto, a fim de contemplar as funcionalidades da Hidrate Spark TAP.
+
+Para a avaliacao envolvendo usuarios consideraram-se os aspectos eticos da resolucao
+466/2012, do Conselho Nacional de Saude (CNS), com a apresentacao e assinatura do Termo de
+Consentimento. O termo abordou os seguintes pontos: autonomia para interromper a avaliacao a
+qualquer momento, permissao para acompanhamento dos registros dos dados e permissao para a
+publicacao dos resultados da avaliacao, garantindo assim dados anonimizados.
+
+A avaliacao heuristica e um metodo de avaliacao de Interacao Humano Computador criado para
+encontrar problemas de usabilidade durante um processo de design (NIELSEN e MOLICH,
+1990; NIELSEN, 1992, 1994b).
+
+Nielsen apresenta um conjunto inicial de 10 heuristicas a serem utilizadas em seu
+metodo de Avaliacao Heuristica (BARBOSA; DA SILVA, 2010). Entretanto, levando em
+consideracao as especificidades de um sistema ubiquo: Sensibilidade ao Contexto,
+Transparencia, Atencao, Calma, Mobilidade (SANTOS, 2014), o presente trabalho utiliza as 15
+Heuristicas de Usabilidade para Avaliacao de Sistemas Ubiquos (huBIS) propostas por Rocha
+(2017). Diferentemente das heuristicas de Nielsen, estas contem diretrizes que abrangem as
+caracteristicas proprias para avaliar um sistema ubiquo. Para executar a avaliacao por inspecao
+utilizando as huBIS as seguintes atividades foram feitas: 1) Os quatro avaliadores estudaram
+sobre as heuristicas de usabilidade para avaliar sistemas ubiquos, tendo em vista que nunca
+tinham trabalhado com huBIS e IoT. 2) Apos os estudos, uma tabela para cada avaliador foi
+criada, a fim de sistematizar os problemas encontrados, diretrizes violadas e sugestoes de
+melhorias. 3) Em outro momento, apos entender sobre as huBIS e ter um local para registrar os
+problemas, a execucao da avaliacao aconteceu. Cada avaliador utilizou a Hidrate Spark TAP por
+3 dias e executou as tarefas descritas na secao Metodos de Estudos. 4) Durante o uso da garrafa
+eles registravam na planilha o problema encontrado, a justificativa do problema, a gravidade, a
+heuristica violada, o local e uma possivel melhoria. 5) Os avaliadores se reuniram e discutiram
+sobre os problemas.
+
+O Modelo para Avaliacao da Interacao em Sistemas Sociais a Partir da Linguagem Textual do
+Usuario (MALTU) visa guiar o profissional de IHC na avaliacao de um sistema a partir de textos
+espontaneos relacionados ao uso do sistema postados por usuarios em sistemas sociais.
+(MENDES, 2015).
+
+Para realizar este metodo de investigacao seguiram-se os passos: 1) Realizou-se a coleta
+das PRU's dos Sistemas Sociais e logo depois foram armazenadas em uma planilha. Para coletar
+PRU's sobre a garrafa escolheu-se o Google Reviews, a Amazon e o forum MacRumors, e para o aplicativo utilizou-se a Play Store e a App Store
+2) Nesta etapa, dois membros da equipe
+classicaram as PRU’s coletadas por tipo: critica, elogio, ajuda, duvida, comparacao e sugestao;
+por intencao: visceral, comportamental e reexiva; por funcionalidade: a fim de entender com
+mais detalhes o uso do sistema; por criterios de usabilidade: eficacia, eficiencia, satisfacao,
+seguranca, utilidade, memorabilidade e aprendizado; quanto a UX: satisfacao, afeto, confianca,
+estetica, motivacao, suporte. 3) Na penultima etapa, houve a interpretacao e compilacao dos
+dados obtidos em graficos e tabelas para uma melhor visualizacao.
+
+O diario de uso proporciona um registro do que os usuarios fizeram, quando e o que pensaram
+durante suas interacoes com a tecnologia (ROGERS; SHARP; PREECE, 2013). É um metodo
+de pesquisa qualitativa usado para coletar dados referentes ao comportamento, experiencia de
+uso e atividades de um usuario durante um periodo. A partir dos dados coletados, os avaliadores
+procuram por problemas de usabilidade e experiencia do usuario (ROGERS; SHARP; PREECE,
+2013).
+
+Os passos para executar o diario de uso foram: 1) Foi definido que o objetivo do diario
+de uso seria entender e analisar a interacao entre o usuario, a garrafa Hidrate Spark TAP e o
+aplicativo. Com base no objetivo, tracou-se que o perfil dos participantes seriam aqueles que
+tinham preocupacao com habitos saudaveis. O diario recrutou 4 participantes que utilizaram o
+sistema Hidrate Spark TAP durante o periodo de 7 dias corridos, com o intuito de identificar
+como e quando a interacao ocorreu. 2) Ocorreu o recrutamento dos usuarios via WhatsApp e
+apos o recrutamento foi enviada uma explicacao sobre a pesquisa e o metodo. Cada participante
+recebeu o Termo de Consentimento, na qual se reafirmou o carater etico descrito na secao
+Metodos do Estudo e uma lista de tarefas semelhantes as descritas na secao 3. O guia foi um
+documento PDF no qual conteve explicacoes sucintas sobre o estudo, o metodo e uma lista de
+tarefas, mas sem apresentar interfaces, nem ordem de realizacao. Essa lista de tarefas seria para
+o usuario poder consultar as tarefas, caso nao soubesse o que fazer. 3) Execucao do diario
+atraves do WhatsApp. Essa ferramenta foi escolhida para o registro do diario pelo fato dos
+usuarios ja a terem instalada em seu smartphone e por terem facilidade, conhecimento e acesso
+diariamente. Para a coleta, a equipe criou um grupo para cada participante no WhatsApp, o
+grupo foi formado pelo participante e por dois designers, que estavam disponiveis para tirar
+duvidas e manter os usuarios engajados na atividade. O grupo foi utilizado exclusivamente como
+diario, as duvidas que os participantes tinham sobre questoes fora da avaliacao como, por
+exemplo, a entrega da garrafa, eram respondidas no privado dos designers, evitando que
+conversas paralelas afetassem a coleta. 4) Apos o fim do diario de uso, aconteceu uma entrevista
+pos-diario com cada usuario, com o intuito de compreender de forma mais profunda os pontos
+de interacao entre o usuario, a garrafa e o aplicativo, bem como sua experiencia e percepcoes.
+As entrevistas foram realizadas remotamente, via Google Meet e, com consentimento do
+participante, gravadas para analise posterior. 5) Realizou-se a analise dos dados coletados dos
+usuarios do diario e entrevistas pos-diario. Para analise dos diarios, os membros da equipe
+compilaram em uma planilha todos os registros dos participantes, em seguida identificaram as
+tarefas executadas e realizaram uma analise interpretativa, para identificar os problemas de
+usabilidade e relatos da experiencia do usuario.
+
+A avaliacao heuristica utilizando as Heuristicas para Avaliar Sistemas Ubiquos (huBIS)
+(ROCHA, 2017), foi realizada tendo como base as tarefas definidas na secao Metodo do Estudo.
+Dois avaliadores utilizaram smartphones com o sistema operacional iOS e um com sistema
+operacional Android.
+
+Conforme a Figura 3, a T1 foi a tarefa com a maior quantidade de violacoes. Os avaliadores apontaram os seguintes graus de gravidade dos problemas: 6x grande, 4x pequeno, 2x catastrofico e 1x cosmetico. Essa tarefa violou as heuristicas HU1, HU4, HU5, HU7, HU9, HU10, HU11, HU13, UH14 e HU15. Entre os problemas identificados nesta tarefa, destaca-se os que estao relacionados a conectividade entre o smartphone e a garrafa por meio da tecnologia NFC. Os avaliadores relataram que esse processo e um desafio, pois o artefato nao apresenta notificacoes se o processo de emparelhamento deu ou nao certo. Ao decorrer dessa tarefa, os avaliadores ficaram sem saber se a garrafa havia sido conectada com o aplicativo ou nao. T5 e T6 tiveram a mesma quantidade de heuristicas violadas. Na tarefa T6 encontraram-se problemas de severidade cosmetica, pequena e grande. Os problemas dessa tarefa estao ligados a interface, pois, segundo os avaliadores, a interface nao e clara e nao indica onde e o alarme. Tambem foi relatado que nao e possivel determinar se o alarme esta ativado ou nao, pois a garrafa nao possui feedback na interface ou garrafa que demonstra que uma acao de ativamento ou desligamento do alarme foi executada. Outro ponto relatado e que a funcionalidade de alarme utiliza uma terminologia diferente da linguagem que o usuario pode estar acostumado. Em relacao aos problemas encontrados na T5, esses sao de severidade pequena. Os problemas estao relacionados a interface nao deixar claro que e possivel a edicao de dados, alem disso, apos a edicao, nao ha feedback se as alteracoes foram salvas ou nao. As heuristicas HU3, HU8 e HU12 nao foram violadas durante a inspecao pelos avaliadores.
+E possivel verificar na Figura 4, a quantidade de problemas identificados em cada tarefa e em cada sistema operacional. T1, T5 e T6 foram as tarefas que mais problemas foram identificados. Os problemas dessas tarefas, revelam violacoes a heuristicas importantes e afetam a interacao e experiencia de uso com o sistema, conforme descrito no texto acima e na Figura 3.
+
+Nas tarefas T2: Consultar o consumo de agua e T4: Consultar o historico do consumo de agua, nao foram identificadas problemas pelos avaliadores, pois se mostraram atividades simples, apenas de consulta de historico. Entretanto, para usuarios que nao sao profissionais de IHC ou que nao tem facilidade com ingles, pode ser um desafio encontrar a localizacao do consumo e historico de agua. T3, T7 e T8 revelaram poucos problemas, porem os problemas encontrados se mostraram bastante relevantes. T3 demonstrou que os problemas em maioria e em relacao a entrada de dados no momento de inserir agua, que se mostra pouco precisa. T7 revelou diferenca na escolha da cor pelos avaliadores e a cor que apareceu na garrafa no momento em que piscou. T8 demonstrou ser dificil saber as configuracoes de alarme que estao feitas, pois o aplicativo nao demonstra a condicao do sistema com clareza. A violacao das heuristicas, conforme apresentado na Figura 3, e a quantidade de problemas conforme a Figura 4, ressalta a necessidade de acao adequada para aprimorar a qualidade geral do sistema.
+A maioria dos problemas identificados pelo metodo estao em torno da conectividade e pareamento do aplicativo com a garrafa, entrada de dados e ausencia de notificacoes e feedback das acoes executadas, interface diferente da lingua do usuario e informacoes confusas. Mais detalhes dos problemas em anexo 8.
+
+MALTU
+Atraves do MALTU foi possivel analisar 41 PRUs, sendo 20 PRUs da Amazon, 10 PRUs do Google, 2 do forum MacRumors, 4 da App Store e 5 da Play Store, sendo encontrados 8 problemas. Para a coleta foram delimitados os criterios de: 1) Comentarios de classificacao no maximo de tres estrelas; 2) Comentarios mais recentes. Com a analise das PRUs, como pode-se ver na Figura 5, foi possivel perceber que a intencao visceral esteve muito presente, sendo definida como uma alta intensidade de sentimentos e uma baixa descricao da funcionalidade. Ja a comportamental, que se caracteriza por uma media intensidade dos sentimentos e a descricao do problema, foi a que menos apareceu, com apenas 7 comentarios. E por fim, a reflexiva, com uma baixa intensidade de sentimentos e um alto detalhamento do problema, que apareceu em 15 PRUs.
+
+Quanto a usabilidade, destacou-se negativamente a eficacia, eficiencia, satisfacao, utilidade e memorabilidade do sistema avaliado. O grau de eficacia, que mostra grau que o produto consegue realizar aquilo que promete, e o de eficiencia, que diz respeito se os usuarios conseguirem utilizar as garrafas, foram os que mais deixaram a desejar, sendo citados em 16 e 19 comentarios respectivamente, conforme a Figura 5.
+
+A utilidade do sistema tambem foi questionada pelos usuarios, sendo citado em cerca de 11 PRUs. Em contrapartida, podemos salientar que existem poucos problemas de memorabilidade do sistema, pois foi citado apenas uma vez dentre os comentarios coletados.
+Quando se analisou PRUS relacionadas a experiencia do usuario: a frustracao foi a predominante, com 39 PRUs, mostrando a insatisfacao dos usuarios com o sistema avaliado; a de confianca e a de motivacao, com apenas um comentario cada uma, por conta do parametro inicial delimitado, com apenas comentarios de ate 3 estrelas. As funcionalidades identificadas pelos avaliadores a partir das PRUs foram: a conexao da garrafa com o aplicativo (15 PRUs) e historico de ingestao de agua (11 PRUs). As funcionalidades menos citadas foram: alarme, a qualidade de conservacao do liquido, a estrutura da garrafa e por fim, citado apenas uma vez, o idioma do aplicativo. A maioria dos problemas identificados por este metodo estao ligados as tarefas citadas e as funcionalidades da Figura 5. Detalhes das PRUs e problemas em anexo 9.
+
+O diario ao todo obteve 126 registros, alem disso, indicou 9 problemas. Por meio do grupo do WhatsApp, cada usuario ficou livre para registrar suas interacoes, percepcoes e dificuldades durante o uso da garrafa. Mais detalhes sobre o perfil dos participantes e tipos de registros feitos disponiveis na Figura 6.
+P1, P2, P4 demonstraram dificuldade ao tentar emparelhar a garrafa com o aplicativo via NFC. P1 e P2 so conseguiram emparelhar um dia depois com o auxilio de um membro da equipe. P2 tentou emparelhar a garrafa varias vezes e registrou no diario ainda nao consegui me conectar, a garrafa esta me estressando. P3 nao encontrou dificuldades em emparelhar a garrafa com o aplicativo e comentou que foi facil. O participante P4, encontrou dificuldades e comentou no diario que tentou primeiro emparelhar via Bluetooth, mas a garrafa nao achava o smartphone, somente depois tentou conectar com a funcionalidade da NFC, mas tambem nao foi uma tarefa facil. P2 e P3 relataram sobre o aplicativo ser em ingles e sentirem dificuldade em utilizar o aplicativo. P1 e P2 comentaram que a garrafa nao notificou nenhuma vez, o aplicativo apenas mandava notificacoes para lembrar de beber agua. P3 relatou que a garrafa no quarto dia notificou uma vez. P4 nao fez registros sobre as notificacoes.
+
+Os problemas encontrados com esse metodo foram relacionados a conexao da garrafa com o aplicativo, idioma do aplicativo, feedback, notificacoes, entrada de dados e registro da quantidade de agua ingerida. Mais detalhes dos problemas e registros em anexo 10.
+
+Entrevista pos-diario
+Apos a finalizacao dos dias em que os usuarios ficaram em posse da Hidrate Spark TAP para a realizacao do diario de uso, ocorreram as entrevistas para coletar as percepcoes e opinioes dos usuarios em relacao a interacao e a experiencia de uso da garrafa e do aplicativo. Por meio de uma entrevista estruturada e remotamente, os usuarios responderam as perguntas que estao no documento em anexo 11.
+
+Todos os participantes responderam que a Hidrate Spark TAP nao correspondeu bem a interacao e as expectativas durante o uso. Acrescentaram que a garrafa nao notificou para lembrar de beberem agua, as vezes que aconteceram foram apenas pelo aplicativo. P3 comentou que era uma expectativa que a garrafa notificasse, pois bebia pouca agua, mas ela nao fez essa funcao. P1, P2, P4 falaram sobre ter que ficar registrando a quantidade de agua que ingeriu, pois a garrafa nao fazia isso de forma automatica e era uma expectativa que fizesse isso. Em relacao a conectividade, P2 e P4 descreveram que foi muito dificil fazer o pareamento da garrafa com o aplicativo. P4 relatou que tentou sincronizar com o Bluetooth e NFC, mas nao conseguiu e depois de muito tentar recorreu a um video do YouTube instrutivo, no qual mostrava a posicao exata do smartphone para poder conectar a garrafa. P1 falou que o aplicativo notifica, mas a garrafa nao, e reforcou que parecia nao ter conectividade.
+
+Ao serem perguntados se a garrafa auxiliou a lembrar de beber agua, P1 e P2 falaram que nao ajudou, pois a garrafa nao fez as funcoes supostas para lembrar de beber agua. P2 comentou que, pelo fato da garrafa nao ser termica, fez ate o efeito contrario, diminuindo o consumo de agua. P3 falou que ajudou, mas nao como esperava, pois so lembrava de beber agua quando olhava para o celular e via a notificacao do aplicativo. Quando perguntados sobre as maiores dificuldades durante a interacao com a garrafa, os participantes relataram: P1 descreveu que o pareamento foi um dos pontos principais e que precisou de ajuda de uma pessoa da equipe para auxiliar a parear, caso contrario, nao teria conseguido. P2 nao comentou sobre. P3 relatou que a maior dificuldade foi a linguagem na qual o aplicativo se encontrava e que ficava desmotivado a beber agua ao passo que a agua da garrafa ia ficando em temperatura ambiente. P4 teve dificuldades com a conexao em um primeiro momento. Vale a pena ressaltar que os testes foram realizados na cidade de Quixada, localizada no sertao central do Ceara, onde, por conta das altas temperaturas, a agua acaba esquentando muito rapido.
+
+**DISCUSSAO DOS RESULTADOS**
+
+A equipe percebeu que informacoes coletadas em determinado metodo podem ser fortalecidas
+por outro, para ressaltar o que foi encontrado e auxiliar na execucao das demais tecnicas. Ter
+executado a avaliacao heuristica primeiro permitiu que os membros da equipe conhecessem a
+fundo o sistema. Esse conhecimento auxiliou para a equipe poder auxiliar os usuarios
+participantes do diario de uso a sairem de problemas e dar suporte de forma mais eficiente
+quando relatado dificuldade em utilizar o sistema Hidrate Spark TAP. A execucao da avaliacao
+como um primeiro passo auxiliou tambem a equipe a executar o metodo MALTU, ao permitir
+entender sobre quais funcionalidades e problemas os usuarios estavam relatando nas PRU's.
+Executar o MALTU, em paralelo ao diario, colaborou para a equipe ter mais minucia e
+sensibilidade na analise qualitativa para classificar os problemas encontrados no diario, ou seja,
+se os problemas encontrados eram problemas de usabilidade, eficiencia, local, como tambem
+conseguir mapear as emocoes conforme o escrito pelos participantes.
+
+Os metodos adotados proporcionaram insights de suma importancia tanto para o
+trabalho atual quanto para a experiencia em pesquisa da equipe. Pode-se destacar: A Avaliacao
+Heuristica utilizando as huBIS funcionou de maneira adequada, pois se mostra uma extensao
+das heuristicas tradicionais de Nielsen e contempla as caracteristicas de um sistema ubiquo. Ao
+utilizar as huBIS, encontraram-se problemas para caracteristicas particulares desse tipo de
+sistema que nao seria possivel ao utilizar as heuristicas tradicionais de Nielsen.
+
+O Diario de Uso, como uma tecnica para avaliar sistemas IoT, funcionou de maneira
+parcial. A tecnica permitiu acompanhar a interacao dos usuarios de forma cronologica, pois os
+usuarios estavam sempre em posse da garrafa e utilizando o dispositivo e, consequentemente,
+registrando. Para outros tipos de sistema IoT que nao necessite da interacao do usuario de forma
+continua, pode ser mais dificil obter informacoes interessantes sobre o uso, como, por exemplo,
+sistemas ubiquos nos quais as interfaces sejam mais computacionais e mais voltadas para
+sensores de coleta de dados e ligados a internet.
+
+Em relacao a MALTU, funcionou de maneira adequada, pois o sistema Hidrate Spark
+TAP tem aplicativos e forums disponiveis na internet para os usuarios relataram suas percepcoes
+sobre o sistema. Mesmo a tecnica nao sendo feita para avaliar sistemas ubiquos, ela mostrou
+resultados que deram uma ideia geral para os membros da equipe acerca de problemas de
+usabilidade e experiencia dos usuarios. Cada metodo revelou uma variedade de dados acerca dos
+usuarios, problema e sobre sua propria execucao, uma sintese dos metodos utilizados, resultados e motivos dos resultados obtidos esta na Figura 7.
+
+Com a triangulacao dos metodos, conseguiu-se perceber que existiram problemas que foram recorrentes em todos os metodos e tambem aqueles que foram identificados em apenas um dos metodos utilizados. Os problemas que apareceram em todas as tecnicas estao relacionados as tarefas: T1: Instalar o aplicativo e sincronizar com a garrafa e T3: Adicionar o consumo de agua ao consumo. As tarefas mais faceis e que nao foram identificados muitos problemas foram relacionadas a conferir historico e comparar consumo de agua entre os dias. A MALTU foi a unica tecnica que identificou um problema relacionado a abertura do aplicativo no celular. Este fator pode ser justificado pelo fato do metodo MALTU dar abertura para coleta de dados de diversos dispositivos diferentes, assim, a experiencia difere para cada pessoa. Em sintese, os problemas encontrados em cada metodo foram: 8 na MALTU, 25 na Avaliacao Heuristica, 9 no Diario de Uso. Ao compararmos os resultados encontrados com os estudos que foram base para o trabalho (DE SOUZA et al.; 2018, DE SOUZA; BRITO; SAMPAIO, 2020), destacamos que os pontos encontrados no estudo trazem uma contribuicao para os trabalhos que foram a base para o desenvolvimento dessa pesquisa.
+
+**CONSIDERACOES FINAIS**
+
+Com o uso do IoT atrelado a saude, avaliacoes como esta, que buscam entender o
+comportamento, dores e anseios dos usuarios, apresentam-se de extrema importancia para
+avaliar a eficacia de sistemas inteligentes e como eles se relacionam com o uso diario dos
+usuarios.
+
+A analise dos dados provenientes da MALTU abriu novas possibilidades de exploracao
+no que tange a vivencia dos usuarios, expondo uma visao geral acerca dos problemas do
+sistema. Uma limitacao do metodo encontrado foi no momento de selecionar as PRU's da Play
+Store e App Store, os comentarios sao sobre o uso de forma geral do sistema Hidrate Spark,
+quando, entao, nao ficou claro se os usuarios desses comentarios utilizavam a garrafa Hidrate
+Spark TAP, outra versao ou apenas utilizavam o aplicativo. Alem disso, a App Store e Play Store
+apresentaram muitas reviews (mais de 9 mil), porem, ao acessar esses comentarios, nem todos
+sao apresentados, por isso o uso de muitas fontes de PRU's. Por outro lado, os dados obtidos por
+meio dos 126 registros de uso no diario forneceram informacoes em um intervalo temporal
+definido pela equipe, conferindo a capacidade de analisar a progressao do uso em uma sequencia
+cronologica a partir das tarefas. Isso permitiu identificar pontos de emocao, dificuldade e uso
+com contexto do sistema durante a jornada dos usuarios. Uma limitacao da tecnica, em alguns
+momentos, os usuarios esquecem de dar contexto sobre o uso e ate mesmo de registrar. Ja a
+avaliacao heuristica neste projeto apresentou a limitacao de nao ter outro participante utilizando
+o sistema operacional Android para balancear a avaliacao.
+
+Das licoes aprendidas, ressaltamos a necessidade de conceder "tempo” para que os
+problemas subjacentes se manifestem ao avaliar a usabilidade em dispositivos IoT. Alem disso,
+destacamos que a combinacao dos metodos de avaliacao foi importante para conseguir obter
+diversas visoes acerca da interacao e experiencia dos usuarios a partir de diferentes fontes. A
+avaliacao de um dispositivo IoT se apresenta como um desafio complexo e essa realidade
+tornou-se evidente por meio da aplicacao da tecnica de diarios, na qual permitiu a observacao
+dos usuarios de forma assincrona, porem, as vezes nao tinha tantos registros dos usuarios. O uso
+da avaliacao heuristica com a extensao das heuristicas unicas tambem foi muito importante, ja
+que nao seria possivel capturar alguns problemas sem elas. E por fim, a MALTU mostrou uma
+visao geral acerca do sistema, tendo que a equipe avaliar quais PRU's dariam contribuicoes
+significativas para encontrar problemas de usabilidade.
+
+Alem das licoes aprendidas, os avaliadores listaram algumas recomendacoes, sendo
+elas: Recomendacao 1: Utilizar a MALTU em conjunto com a Avaliacao Heuristica, quando
+possivel, para poder comparar o que se fala em sistemas sociais com as heuristicas, para
+identificar pontos em comum e diferencas que possam ser encontradas pelos metodos;
+Recomendacao 2: Utilizar o diario e tratar os registros do diario similarmente as "PRU's",
+como um teste, e na fase de analise categorizar da maneira que se categoriza as PRU's no
+metodo MALTU, uma vez que no metodo do diario entendemos que os problemas de contexto
+vao aparecendo com o tempo de uso; Recomendacao 3: Ao executar avaliacao heuristica no
+periodo de inspecao, nao compartilhar os problemas encontrados com os demais avaliadores ao
+decorrer da avaliacao para nao influenciar nos resultados e problemas.
+
+Por fim, como resultado das avaliacoes, pode-se dizer que o sistema Hidrate Spark
+TAP possui muitos problemas de usabilidade durante sua interacao e que consequentemente afetam a experiencia do usuario com o sistema IoT. Para trabalhos futuros, destaca-se a
+possibilidade de explorar outras tecnicas de IHC e sua capacidade para avaliar objetos IoT, além
+disso, outro estudo focado em usuarios que fazem hemodialise, a fim de verificar se a garrafa
+auxiliaria esse perfil de usuário que precisa fazer uma ingestão controlada de líquidos.

@@ -1,0 +1,139 @@
+**RESUMO**
+
+Jogos digitais tem cada vez mais feito parte do cotidiano das pessoas.
+Os jogos terapeuticos, por sua vez, sao uma subcategoria de jogos
+digitais serios, que visam apoiar os tratamentos de reabilitaçao e
+ajudar os pacientes a entender, motivar e persistir nas praticas te-
+rapeutica. Este artigo descreve o RUFUS, uma plataforma para
+autoria de jogos digitais, configurada por profissionais de Saude,
+para realizar atividades terapeuticas com seus pacientes e cuidado-
+res. A plataforma possui uma interface Web para autoria de jogos
+e e composta por quatro diferentes mecanicas de jogo, bem como
+permite a visualizaçao de relatorios de interaçao. Um aplicativo
+movel compoe a infraestrutura e exibe os jogos criados para os
+pacientes e cuidadores. Tecnicas de Design Participativo foram usa-
+das durante o design e desenvolvimento da soluçao para engajar
+diferentes partes interessadas. Estudos realizados tem apontado
+interesse de profissionais de Saude e tambem da Educaçao no uso
+da soluçao para atividades terapeuticas complementares e tambem
+atividades pedagogicas.
+
+**1 INTRODUCAO**
+
+Alguns jogos sao projetados para irem alem do entretenimento e in-
+duzir os jogadores a aprender conteudo ou desenvolver habilidades,
+possivelmente enquanto se divertem esses jogos sao chamados de
+jogos serios. Os jogos serios ajudam a melhorar o desempenho
+humano em varias tarefas e habilidades, incorporando uma serie
+de principios de aprendizagem fortemente endossados pela pes-
+quisa em ciencias cognitivas modernas. Ao longo dos anos, os
+pesquisadores demonstraram consistentemente que os jogos serios
+podem ser eficazes em uma variedade de desenvolvimentos cogni-
+tivos. Entre as varias habilidades que os jogos serios suportam
+estao: capacidades de aprendizado e memoria, habilidades psicomo-
+toras, atençao visual seletiva e habilidades analiticas, espaciais e
+estrategicas. As possibilidades de habilidades que podem ser
+estimuladas por jogos serios sao amplas, incluindo raciocinio lo-
+gico, criatividade, resoluçao de problemas e habilidades
+espaciais.
+
+Os jogos terapeuticos, por sua vez, sao um tipo de jogos serios,
+usados por profissionais de saude para ajudar os usuarios a expres-
+sar seus sentimentos e melhorar suas habilidades e relacionamentos
+interpessoais. O uso desses jogos tambem pode promover o de-
+senvolvimento social e cognitivo do usuario por meio de atividades
+que permitem que ele seja avaliado por profissionais de Saude sem,
+no entanto, limitar sua criatividade ou diversao.
+
+Este trabalho apresenta a RUFUS, uma plataforma para autoria
+de jogos digitais em que profissionais de diferentes dominios, entre
+eles - da Saude, podem criar seus proprios jogos digitais usando
+templates pre-definidos. Este trabalho e ainda um complemento ao
+trabalho apresentado no CLICH (X Latin American Conference on
+Human Computer Interaction) em 2021. Na ocasiao a plataforma
+era composta por tres mecanicas de jogo. Atualmente sao quatro
+as mecanicas, a saber: puzzle, quiz, coleta e storytelling.
+
+A RUFUS foi criada com base nos referenciais teoricos da Se-
+miotica Organizacional (SO), que estuda a natureza, caracteristicas,
+funçao e efeito de informaçoes em um contexto organizacional,
+bem como do Design Participativo (DP), que sugere um
+conjunto de praticas participativas, a serem realizadas junto com a
+principais partes interessadas no projeto, sendo uma estrategia para
+mitigar problemas de adesao ao projeto. A seçao a seguir descreve
+sucintamente a RUFUS.
+
+**A PLATAFORMA RUFUS**
+
+A plataforma RUFUS foi idealizada para permitir que profissionais
+da Saude pudessem realizar a autoria de jogos digitais terapeuticos e
+os usassem com as suas populaçoes de interesse no contexto clinico
+ou de pesquisa. Este e um dos projetos deste grupo de pesquisa
+que tem atuado nas areas de End-User Programming. Entre os
+problemas identificados durante tais pesquisas estao a dificuldade,
+por parte dos profissionais da Saude, relativas ao entendimento de
+requisitos e a dinamica de construçao de jogos, dificuldades que
+sao intrinsecas da EUD. O uso dos referenciais teoricos citados na
+Introduçao tem atenuado essas dificuldades, mas ainda sao muitos
+os desafios.
+
+A RUFUS e composta por uma interface Web para a autoria dos
+jogos e um aplicativo movel para interaçao com esses. Na inter-
+face Web o profissional (e.g. terapeuta, pediatra, nutricionista) pode
+cadastrar seus pacientes e os familiares (cuidadores), e criar pro-
+jetos de jogos, selecionar a instituiçao a qual aquele paciente faz
+parte, bem como configurar que tipo de conteudo (e.g. imagens,
+mensagens de feedback) deve ser incluido no jogo. Alem disso, o pro-
+fissional pode configurar niveis de dificuldade de cada jogo criado.
+
+A Figura 1 ilustra um trecho da interface de configuracao da
+RUFUS em que se pode criar um jogo do tipo Quiz. Neste template
+pre definido de jogo o profissional vai definir a pergunta, as possiveis respostas, pontuacao para cada resposta, a resposta correta e
+parametros como feedback de erro e de acerto.
+
+As midias podem ser escolhidas pelos profissionais no momento
+da autoria. Os objetivos terapeuticos (e.g, esclarecimento da con-
+diçao patologica e/ou dos procedimentos do tratamento) podem
+ser trabalhados por meio de quatro mecanicas de jogo previamente
+disponibilizadas na interface Web, conforme supracitado: Puzzle
+(Encaixe), Quiz (Perguntas), Plataforma (Coleta de Itens) e storytel-
+ling (narrativas).
+
+Os jogadores acessam o jogo por meio de um aplicativo mo-
+bile, usando login e senha. Enquanto crianças jogam, as suas açoes
+sao capturadas, armazenadas e enviadas ao sistema Web, que gera
+relatorios de desempenho dos jogadores para os profissionais, e
+esses podem entao realizar procedimentos de intervençao durante
+o tratamento.
+
+A Figura 2 ilustra um jogo Quiz criado por um nutricionista e
+disponibilizado na plataforma movel para os pacientes.
+A RUFUS foi avaliada por profissionais da Saude e da Educacao,
+bem como designers e desenvolvedores. Os resultados dos teste
+de usabilidade realizados tem sido importantes para a melhoria da
+interface. Atualmente profissionais da Terapia Ocupacional tem
+usado a RUFUS, o jogo de narrativas, para dialogar com criancas
+sobre a morte. Resultados parciais dos jogos criados apontam que
+os jogos personalizados sao efetivos em contexto como este, em
+que se deseja tratar de assuntos sensiveis.
+
+
+**CONSIDERAÇOES FINAIS**
+
+Este trabalho e resultado de projetos de extensao que tem buscado
+engajar a universidade e a comunidade, trazendo beneficios para
+ambas. A possibilidade de criar objetos de interaçao no formato
+de jogos permite que profissionais da Saude possam criar soluçoes
+para seus pacientes a depender de cada necessidade, assim como
+permite a coleta de dados de forma remota e direcionada para cada
+individuo. Uma vez que e colaborativo, ou seja, familiares
+tambem podem ser inseridos no jogo, esses atores tambem sao
+instruidos e participam do processo terapeutico.
+
+Trabalhos futuros deste trabalho envolvem o aperfeiçoamento
+dos templates ja disponibilizados, bem como a criaçao de novos
+templates de mecanicas de jogos.
+
+**CONSIDERACOES FINAIS**
+
+Este artigo apresenta a plataforma RUFUS, uma ferramenta inovadora para a criaçao de jogos digitais terapeuticos. Ao permitir que profissionais da Saude personalizem jogos de acordo com as necessidades de seus pacientes, a RUFUS oferece uma abordagem promissora para a reabilitaçao e o tratamento de diversas condiçoes. O uso de Design Participativo e Semiotica Organizacional contribui para a usabilidade e a eficacia da plataforma, tornando-a uma ferramenta valiosa para profissionais e pacientes.

@@ -1,0 +1,131 @@
+**RESUMO**
+
+Alguns aspectos como aumento de dados multimidia, ex-
+pansao em compartilhamento, cultura de armazenamento e
+aumento da interaçao tecnologica contribuem para alguns
+desafios tecnologicos. Este artigo descreve as funcionalidades
+de Inteligencia Artificial, desenvolvidos pelo Google Fotos,
+mostrando seus recursos, apresentando seu layout e execu-
+tando testes com especialistas e com usuarios de diferentes
+niveis de conhecimento sobre este software a fim de capturar
+suas reaçoes e percepçoes sobre a aplicaçao.
+
+**INTRODUÇÃO**
+
+Com o crescente volume de informaçoes, se torna pertinente
+organizar massivos volumes de dados, o que e uma tarefa
+dificil. Neste sentido, para auxiliar no gerenciamento de ima-
+gens pessoais, em 2018, Google lançou o Google Fotos, mais
+de 5 bilhoes de fotos sao vistas todos os dias atraves do apli-
+cativo . Ele atingiu 3.72 petabytes de fotos e videos em
+2017 . Alem do seu sucesso, a plataforma continuou cres-
+cendo durante os anos, chegando a 500 milhoes de usuarios
+com uploads de 1.2 bilhoes de fotos todos os dias . As-
+sumindo a dificuldade em compartilhar e organizar todas
+elas, a ferramenta faz uso da Inteligencia Artificial (IA) e
+disponibiliza a usuarios diversas funcionalidades, de forma
+facil e rapida. Visto isso, e pertinente avaliar a forma que esta
+ferramenta utiliza IA para interagir com seus usuarios. Neste
+estudo, optou-se pelo uso de diferentes estrategias da area de
+Interaçao Humano-Computador (IHC): Avaliaçao Heuristica
+(AH), a fim de inspecionar as funcionalidades da aplicaçao, o
+Teste de Usabilidade (TU), para observar o uso da ferramenta
+com voluntarios e, finalmente, a mensuraçao da experiencia
+de usuarios (UX) via Emocards. Por meio destas, este artigo
+objetiva inspecionar a usabilidade e comunicabilidade dos
+elementos de IA do Google Fotos e, por meio dos resultados,
+refletir sobre seu papel.
+
+**GOOGLE FOTOS**
+
+O Google Fotos e o sucessor dos recursos de fotograficos
+incorporados no Google+ . A ferramenta oferece armaze-
+namento de fotos e ferramentas organizacionais. O serviço
+mudou sua associaçao de uma plataforma de compartilha-
+mento para uma plataforma de biblioteca privada. Diferentes
+formas de Machine Learning  no software permitem o
+reconhecimento do conteudo das fotos, geram albuns auto-
+maticamente, animam fotos semelhantes em videos rapidos,
+armazenam memorias passadas em momentos significativos
+e melhoram a qualidade de fotos e videos .
+
+**METODOLOGIA**
+
+A fim de investigar a IA da ferramenta serao detalhados
+os metodos utilizados. Para a AH, foram requisitados que
+3 avaliadores experientes em IHC realizassem os testes em
+conjunto. No Teste de Usabilidade e Emocards foram selecio-
+nados 3 voluntarios com pouco ou nenhum conhecimento
+da ferramenta. Todos participantes assinaram um termo de
+consentimento para permissao da gravação, registro e obser-
+vaçao durante os testes.
+
+A AH compreende um metodo para verificaçao de uma
+lista de regras Heuristicas , util para medir possiveis pro-
+blemas de interaçao com usuario em qualquer etapa de desen-
+volvimento do software. A AH realizada pelos 3 especialistas
+seguiu o roteiro: preparaçao dos testes, incluindo a constru-
+çao do ambiente do Google Fotos, com fotos que possuam
+caracteristicas para serem avaliadas; acompanhamento dos
+procedimentos na execuçao do teste em tarefas corriqueiras
+ao usuario; consolidaçao da lista de problemas anotados; e
+analise dos problemas encontrados segundo o grau de seve-
+ridade, documentaçao e apresentaçao dos resultados.
+
+O objetivo principal do TU e avaliar a qualidade de um
+sistema com relaçao a fatores que os projetistas definem
+como sendo prioritarios ao sistema 6 Para o TU foram selecionados voluntarios que tivessem pouca ou nenhuma experiencia no software Para coleta de suas opinioes sobre o software eles foram dispostos em uma sala com pouca interferencia externa sendo analisados pelo avaliador 6 Os testes tiveram natureza qualitativa sendo assim cada voluntario teve a mesma influencia no resultado final Para a realizacao do TU os voluntarios aderiram ao seguinte roteiro foi pedido ao voluntario importar e lembrarse de detalhes contidas em suas fotos para identificacao apos isto eleela deveria escrever numa folha de papel os detalhes a serem pesquisados para verificacao na plataforma foi requerido que fizessem uma busca de um objeto e pessoas especificas contidas em suas fotos na IA do Google Fotos e o avaliador preencheu um formulario com o relato dos problemas eou dificuldades enfrentadas durante TU O Emocards e uma das tecnicas projetadas para medir as respostas emocionais do usuario e sua experiencia com o software Ela e baseada no modelo emocional definido por Russel contendo 8 emocoes principais consideradas para analise de expressoes faciais 1 Conforme o TU avancasse os participantes e suas reacoes emocionais foram observadas Os voluntarios tiveram sua UX registradas sem nenhum conhecimento previo assim obtendo reacoes autentica durante o TU As reacoes foram registradas em 2 situacoes diferentes enfrentadas pelo voluntario a descoberta da IA de busca de imagens da ferramenta e durante o processo de funcionamento da IA e visualizacao dos resultados.
+
+
+**RESULTADOS**
+
+Os especialistas concluiram que foram encontrados proble-
+mas de usabilidade via AH  classificados como: Ajuda e
+Documentaçao - “dificuldade na intuiçao da disponibilidade
+de pesquisa de objetos pela IA” deixando o usuario limitado
+nas formas de interaçao; Flexibilidade e Eficiencia de Uso
+"dificuldade de redefinir o item buscado pela IA" deixando o
+usuario perdido sobre quais açoes realizar para redefiniçao do
+mesmo; e Visibilidade do status do sistema - "fraca identifica-
+çao dos rostos das pessoas, gerando links erroneos" deixando
+o usuario desacreditado sobre eficiencia da classificaçao.
+
+Assim como a AH, o TU foi guiado por especialistas, obser-
+vando os usuarios de dois niveis de conhecimento diferentes.
+Depois de alguns minutos sem interferencia, e apos recolhi-
+mento dos formularios, os avaliadores levantaram as seguin-
+tes observaçoes: alto tempo de execuçao da IA ao procurar
+itens inexistentes, sendo que o usuario espera um grande
+tempo ate que se recuse a busca; demora no reconhecimento
+facial inicial nas midias importadas; item de dificil reconhe-
+cimento em identificar caracteristicas pertencentes ao local
+(cachoeiras, parques)
+
+No teste de Emocards, para cada voluntario foram regis-
+tradas destintas emoçoes apos o TU. Durante a descoberta
+e uso da IA, os voluntarios 01 e 03, obtiveram experiencia
+prazerosa no decorrer do teste, enquanto o voluntario 02,
+obteve resultado neutro e calmo na descoberta da IA.
+
+**CONCLUSAO**
+
+Neste estudo, foram identificados problemas durante os tes-
+tes de interaçao em todas avaliaçoes. Todavia, das dez avalia-
+çoes heuristicas possiveis, apenas em tres foram percebidos
+problemas pelos especialistas. As avaliaçoes com usuarios
+mostraram que, apesar do relato de problemas de comuni-
+caçao descontinuada, a experiencia deles foi positiva, tendo
+em vista as emoçoes percebidas e o atingimento dos seus
+objetivos com facilidade.
+
+Por fim, a IA se apresentou satisfatoria em cumprir o pro-
+posto, contudo, com ressalva dos pontos apresentados acima.
+Todavia, e um desafio realizar testes de IHC que envolvem
+IA, tema que merece ser mais bem pesquisado em estudos
+preliminares como esse. A pesquisa ainda deve ser expandida
+por meio de buscas em objetos mais complexos, bem como
+utilizando fotos/imagens de dificeis reconhecimento pela IA.
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o estudo sobre a interaçao humano-computador da inteligencia artificial no Google Fotos revelou insights valiosos sobre a usabilidade e a experiencia do usuario com a ferramenta. Apesar dos problemas identificados, a IA se mostrou promissora em cumprir seu proposito de organizar e gerenciar fotos de forma eficiente e personalizada. Espera-se que este trabalho contribua para o aprimoramento do Google Fotos e de outras ferramentas que utilizam IA, visando proporcionar experiencias cada vez mais satisfatorias aos usuarios.

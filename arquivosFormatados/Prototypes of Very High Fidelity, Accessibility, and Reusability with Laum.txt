@@ -1,0 +1,37 @@
+Resumo Este artigo apresenta o LAUM uma biblioteca de micro frontends MFEs com alta usabilidade e acessibilidade Os componentes do LAUM sao disponibilizados em tempo de design por meio de um plugin do Figma O LAUM reduz a lacuna entre designers e desenvolvedores tornando componentes altamente reutilizaveis descobriveis durante o design A acessibilidade e garantida pois esta incorporada em todos os componentes Testes iniciais sao assegurados pelo gerador de HTML do plugin HTML acessivel chamadas de MFEs
+
+Contexto Empresas lideres em software de prototipagem ajudam designers a criar prototipos bonitos rapidamente No entanto a entrega nao vai alem de diretrizes geralmente mal especificadas Desenvolvedores ainda tem muito trabalho para implementar o que foi prototipado Quando se olha de perto para o documento de design por exemplo a estrutura interna de um prototipo no FigmaAdobe nao se reconhecem widgets primitivos como campos de texto rotulos etc Existem plugins de terceiros que geram codigo Eles escaneiam o documento de design e geram codigo HTML A qualidade desse codigo e questionavel Desenvolvedores profissionais desprezam esse codigo Mais importante o prototipo nao e utilizavel para testes iniciais pois os usuarios nao podem interagir adequadamente com ele
+
+Investimos em uma galeria de micro frontends MFEs Os MFEs sao componentes vivos software funcional que pode ser reutilizado em novas aplicacoes A abordagem tem a vantagem de oferecer componentes descobriveis e inseriveis no prototipo durante sessoes de design participativo Para disponibilizar MFEs no Figma desenvolvemos um plugin e componentes primitivos botoes campos de texto etc O plugin gera codigo HTML de alta fidelidade para ser usado em testes iniciais O HTML gerado faz chamadas aos MFEs que o designer escolheu da biblioteca Codificadores e designers colaboram para ajustar nosso gerador de codigo para produzir o melhor codigo possivel Nomeamos o conjunto galeria de MFEs Plugin do Figma de LAUM
+
+Todos os componentes do LAUM MFEs e widgets primitivos sao acessiveis para pessoas com deficiencias visuais e auditivas O HTML gerado tambem e acessivel desde que apenas MFEs e widgets primitivos sejam usados no prototipo Os MFEs tem um ciclo de vida de modo que versoes futuras acomodarao outras deficiencias
+
+LAUM
+LAUM visao geral e impactos
+Todas as informacoes desta secao estao disponiveis em detalhes e em videos em httpsffitcombrptbrblogtaglaum
+
+Reutilizacao A Figura 1 mostra um prototipo feito no Figma onde um MFE do LAUM esta incluido No painel mais a esquerda o MFE Consentimento que esta rodando na URL httpsmfeffitcombrmfeconsentimento esta incluido no prototipo Para isso para configurar a chamada do MFE o plugin recebe um conjunto de parametros que sao passados ao MFE durante a execucao do prototipo Essa configuracao facilita a reutilizacao e insercao em muitos projetos diferentes Os MFEs do LAUM sao responsivos e podem ser usados em projetos moveis e web
+
+Acessibilidade para pessoas com deficiencia auditiva HI Este MFE especifico Consentimento requer um video para linguagem de sinais o parametro videoLibrasCode Isso e muito util para designers porque uma vez que eles veem que o MFE requer esse parametro a acessibilidade para surdos e deficientes auditivos HI foi cuidada Se outro MFE nao requer esse parametro e porque nao e necessario Devese lembrar que os HI sao usuarios acostumados a interagir com sistemas digitais entao nem todos os MFEs requerem tratamento especial
+
+Acessibilidade para pessoas com deficiencia visual Todos os MFEs do LAUM obtem a nota mais alta no validador de acessibilidade do Google Lighthouse Eles sao legiveis por qualquer leitor de tela e sao implementados na ordem correta de tabulacao Fazemos uso extensivo de rotulos ARIA Aplicacoes de Internet Ricas Acessiveis que estao embutidos nos MFEs Eles fornecem informacoes adicionais sobre o proposito e a funcionalidade do elemento para tecnologias assistivas como leitores de tela
+
+Maior usabilidade Mais de duzentos itens de usabilidade sao verificados antes que um MFE seja disponibilizado no LAUM Designers devem acertar isso esqueca essa microinteracao Esta resolvido concentrese no que e diferente e novo em seu projeto
+
+A galeria do LAUM
+Na Figura 2 pode-se ver uma galeria especifica do LAUM e um MFE Consentimento destacado Quando clicado os botoes no lado direito exibem os parametros do MFE eventos conformidade de acessibilidade e um exemplo de uso Designers e desenvolvedores consultam a galeria para inserir um MFE em seu design no Figma ou escrever codigo de backend
+
+Inserindo um MFE em um projeto do Figma
+A Figura 3 mostra como inserir um MFE do LAUM em um projeto do Figma Uma vez que o designer fez login ele clica no botao Adicionar MFE e um painel aparecera solicitando dados do MFE para sua configuracao Em caso de duvida o designer pode visitar a pagina da galeria para consultas A configuracao do MFE e suficiente para inseri-lo no projeto do Figma O plugin pode escanear o Figma atual para identificar outros componentes inseridos anteriormente pelo designer E isso e de grande ajuda porque facilita a conexao do MFE com o restante do design Uma vez totalmente configurado o designer tem uma previa do MFE antes de finalmente inseri-lo em seu projeto do Figma
+
+Uma vez inserido uma caixa branca e exibida semelhante a um campo de texto com a URL do MFE escrita como texto O botao play do Figma nao funcionara para projetos que usam o LAUM O designer precisa exportar todo o projeto para ve-lo em execucao
+
+Componentes primitivos do LAUM
+A folha de componentes primitivos do LAUM Fig 4 esta disponivel para seus usuarios Quando o designer usa uma entrada de texto da folha por exemplo o HTML exportado sera uma entrada de texto nao apenas um div que representa visualmente uma entrada Isso e muito relevante porque o usuario final aquele que testara o prototipo tera a interacao real de poder digitar na entrada Ha varios outros componentes como botoes checkboxes botoes de radio e interruptores Vale mencionar que os elementos primitivos foram produzidos com base nas diretrizes do Material UI Consequentemente os componentes exportados sao dessa biblioteca de design
+
+Sistema de Design e Geracao de HTML
+Quando o designer acha que e hora de gerar os arquivos HTML para seu projeto ele reexecuta o plugin e clica no botao Exportar
+
+O plugin do Figma gera Para cada quadro do Figma um arquivo HTML e um arquivo CSS sao criados Fig 5 Agora todos os designers devem fazer upload dos arquivos para um servidor e compartilhar a URL do primeiro quadro com os usuarios que testarao o prototipo
+
+Todo usuario do LAUM pode configurar seu sistema de design Essas definicoes acompanharao todos os prototipos e MFEs disparados por esse usuario

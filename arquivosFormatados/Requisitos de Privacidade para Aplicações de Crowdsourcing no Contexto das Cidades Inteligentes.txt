@@ -1,0 +1,147 @@
+**RESUMO**
+
+As tecnologias sao parte integrante do funcionamento das
+cidades inteligentes, sendo aplicadas em muitas areas, como:
+saude, mobilidade, serviços publicos etc. O uso de tecnolo-
+gias, como crowdsourcing, permite as pessoas colaborarem na
+criaçao e aprimoramento dos produtos e serviços das cidades
+e pode ser amplamente utilizado. No entanto, o uso dessas
+informaçoes pode causar problemas de privacidade para os
+usuarios. Para fornecer proteçao adequada as informaçoes
+e necessario primeiro definir os requisitos envolvidos. Iden-
+tificamos a partir de uma revisao de literatura os principais
+requisitos de privacidade. Esses requisitos foram observados
+em estudos de privacidade abrangendo o uso de crowdsour-
+cing no contexto de cidades inteligentes e as novas legislaçoes
+de privacidade.
+
+
+**INTRODUCAO**
+
+Aplicaçoes de crowdsourcing se enquadram em diversas es-
+truturas das cidades inteligentes. As informaçoes obtidas
+podem ser utilizadas para a melhoria da qualidade de vida
+das pessoas. Alem disso, auxiliam na tomada de decisoes dos
+gestores, provendo recursos a soluçao de problemas. Entre-
+tanto, a coleta de dados nas cidades inteligentes pode revelar
+informaçoes pessoais, principalmente, se forem aplicadas tec-
+nicas que permitem a inferencia dos dados, tanto de forma
+direta, quanto indireta .
+
+Objetivando a proteçao da privacidade das pessoas perante
+as novas tecnologias, legislaçoes foram criadas e atualizadas.
+Surgindo a Lei de proteçao de dados pessoais da Uniao Euro-
+peia (General Data Protection Regulation ou GDPR) , a Lei
+n 13.709 do Brasil (Lei Geral de Proteçao de Dados Pessoais
+ou LGPD) , entre outras. Com o avanço das legislaçoes e
+as novas tecnologias, a proteçao dos dados privados precisa
+ser considerado durante todo o desenvolvimento de uma
+aplicaçao.
+
+Para implementar uma aplicaçao que ira fazer uso de da-
+dos pessoais torna-se necessario considerar alguns requisi-
+tos. Esses irao depender do contexto e tipo de informaçao
+que sera coletada como imagens, videos, localizaçao, som,
+temperatura, umidade, biometria etc. e que podem, conse-
+quentemente, afetar a privacidade das pessoas.
+
+Realizamos um mapeamento sistematico da literatura, para
+a identificar os requisitos de privacidade presentes no desen-
+volvimento de aplicaçoes de crowdsourcing no contexto das
+cidades inteligentes. Um maior detalhamento da pesquisa
+pode ser observado no estudo de Silva et al. .
+
+**OS REQUISITOS DE PRIVACIDADE**
+
+Os requisitos identificados foram distribuidos e estruturados
+a partir de uma adaptaçao da proposta de dimensoes criada
+por Nam e Prado , no qual os requisitos foram distribuidos
+em: Pessoas, Leis e Tecnologias. A dimensao das tecnologias
+foi dividida em tres subdimensoes: coleta, comunicaçao e
+armazenamento e analise. Mesmo utilizando a distribuiçao de
+dimensoes, observamos que alguns requisitos podem atuar
+em mais de uma dimensao, pois ira depender do contexto da
+aplicaçao.
+
+Uma constante em toda a estrutura do crowdsourcing sao as
+pessoas, isto e, visitantes, usuarios, profissionais da area de
+TI, gestores, provedores de serviços etc. As pessoas interagem
+com a cidades inteligentes no provimento de informaçoes,
+recebendo beneficios, obtendo lucros, gerando serviços etc.
+Neste processo, as pessoas podem ter problemas de priva-
+cidade que ocorrem de forma intencional ou nao, especial-
+mente em sistemas de compartilhamento de informaçoes,
+por exemplo, redes sociais . Para essa dimensao foram
+identificados tres requisitos como, por exemplo: "O aplica-
+tivo deve fornecer recursos e informaçoes para as pessoas
+controlarem seus dados" .
+
+A GDPR  e a LGPD  sao leis que definem a proteçao dos
+dados pessoais, e nas quais, fica evidente que as pessoas tem
+o direito de receber as informaçoes de forma clara e precisa
+sobre como seus dados serao tratados .
+
+Para essa dimensao foram descritos doze requisitos, um
+por exemplo e: "O aplicativo deve informar o objetivo/razao
+envolvida na coleta de dados, sendo transparente" .
+
+Atualmente, existem bilhoes de dispositivos conectados nas
+cidades, e ainda ira aumentar, tornando muito facil coletar
+dados das pessoas e, assim, inferir informaçoes privadas.
+No estudo de Eckhoff e Wagner  observou-se que dados
+pessoais podem ser coletadas por diversas tecnologias.
+
+Existem diferentes requisitos que precisam ser observados
+para garantir a privacidade quando tratamos das tecnolo-
+gias. Essa e a dimensao e mais complexa, pois, assim como
+uma tecnologia pode causar problemas de privacidade, ela
+tambem pode auxiliar na proteçao da privacidade.
+
+Coleta: A coleta das informaçoes e a primeira etapa que pre-
+cisa de proteçao. Identificamos nove requisitos referentes
+a coleta, um exemplo e: "os sensores medicos que coletam
+dados de saude devem ser protegidos com soluçoes de priva-
+cidade" .
+
+Comunicacao: Devido a restrita capacidade computacional de
+alguns dispositivos, a aplicaçao de proteçoes de privacidade
+durante a comunicaçao ainda e um desafio . Identificamos
+dois requisitos referentes a comunicaçao.
+
+Armazenamento e Analise: Os dados devem ser protegidos
+antes do armazenamento e ao apresentar informaçoes oriun-
+das da analise dos dados coletados a aplicaçao deve utilizar
+proteçoes que nao permitam a restauraçao de informaçoes.
+Identificamos cinco requisitos de privacidade para essa sub-
+dimensao. Um exemplo dos requisitos descritos e: "O arma-
+zenamento nao deve permitir a restauraçao dos dados apos
+a aplicaçao de uma soluçao de privacidade" .
+
+Existem diversas soluçoes propostas para a proteçao da priva-
+cidade. Distribuimos essas soluçoes, considerando o estudo
+de Vergara-Laurens et al.  entre: as que modificam atribu-
+tos; e as que nao modificam os atributos.
+
+Compreendem tecnicas que aplicam algoritmos para agrupar,
+ofuscar, anonimizar, minimizar etc. alterando a estrutura dos
+dados para impedir a identificaçao de um individuo no grupo.
+
+Sao tecnicas que aplicam algoritmos de proteçao sem altera-
+çao das informaçoes como encriptaçao, criptografia homo-
+morfica etc., mas essas tecnicas exigem mais recurso compu-
+tacional.
+
+**CONSIDERACOES FINAIS**
+
+Desenvolver aplicaçoes garantam a proteçao dos dados pes-
+soais e um desafio. Ficando mais complexo quando envolvem
+estruturas superconectadas, que possuem diversas formas
+de coleta de informaçoes, como ocorre nas cidades inteligen-
+tes. Ao mesmo tempo, esta proteçao e essencial para obter
+a confiança e participaçao das pessoas. Para atender a essa
+necessidade de proteçao novas formas de atuar com os dados
+pessoais terao que ser adotados.
+
+**CONSIDERACOES FINAIS**
+
+Em sintese, este trabalho explorou a complexidade da privacidade em aplicaçoes de crowdsourcing para cidades inteligentes. Ao identificar e categorizar os requisitos de privacidade sob as dimensoes de pessoas, leis e tecnologias, fornecemos um guia para o desenvolvimento de soluçoes que equilibrem a inovaçao com a proteçao dos dados pessoais. A promoçao de tecnologias que respeitem a privacidade nao so reforça a confiaça dos usuarios, mas tambem estabelece uma base solida para o futuro das cidades inteligentes, onde a tecnologia serve ao bem-estar de todos.

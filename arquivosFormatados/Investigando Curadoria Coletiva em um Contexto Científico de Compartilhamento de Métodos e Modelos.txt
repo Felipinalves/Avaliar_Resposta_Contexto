@@ -1,0 +1,153 @@
+**RESUMO**
+
+Este trabalho tem por objetivo investigar estrategias de cura-
+doria coletiva no contexto cientifico, ou seja, analisar como
+as pessoas colaboram entre si para fazer a seleçao de um
+determinado tipo de informaçao e como um sistema pode
+intermediar essa interaçao. Uma vez que tais estrategias se-
+jam identificadas, deseja-se fazer um estudo exploratorio
+para avaliar tanto a estrategia quanto a sua aplicaçao por um
+sistema. Para isso, espera-se implementar as estrategias de
+curadoria em um estudo de caso no contexto de metodos de
+avaliaçao de sistemas usando o StoreAnt, um repositorio de
+caracterizaçao de metodos, como base para aplicaçao e vali-
+daçao das estrategias de curadoria investigadas. Isso prove
+como resultado contribuiçoes teoricas e praticas. Como con-
+tribuiçoes teoricas tem-se principalmente os resultados da
+investigaçao sobre estrategias de curadoria coletiva, de forma
+consolidada, alem de criterios de busca, caracterizaçao e com-
+paraçao em um contexto especifico de metodos de avaliaçao.
+Hoje esse e um tema pouco explorado na area de IHC e com
+grande potencial para a comunidade, uma vez que impacta
+diretamente nos mecanismos de consolidaçao dos trabalhos
+publicados. Como contribuiçao pratica, tem-se os resultados
+do estudo de caso e a consolidaçao da ferramenta StoreAnt,
+que podera ser utilizada pela comunidade para intermediar
+a curadoria de um determinado tipo de conhecimento.
+
+**INTRODUCAO**
+
+Curadoria e uma pratica comum na Arqueologia. Nesta ci-
+encia, tal atividade consiste em coletar, avaliar, organizar e
+preservar um conjunto de recursos para uso futuro . Em varias plataformas online o mesmo conceito
+e aplicado e chamado de Curadoria Digital, que consiste
+em manter, preservar e agregar valor a dados digitais, muitas
+vezes atraves de sua disponibilizaçao em bibliotecas e repo-
+sitorios virtuais . Esses materiais podem ser
+dos mais diferentes tipos, organizados de diferentes formas,
+por diferentes grupos. Podem ser paginas, fotos, avaliaçao
+de serviços, tweets, arquivos de audio, entre outros.
+
+Um problema presente na area de IHC esta relacionado
+a curadoria dos metodos, das ferramentas conceituais e dos
+modelos publicados em conferencias. A publicaçao de um
+novo modelo ou metodo nao e garantia de sua consolidaçao,
+mesmo que ja tenham sido avaliado. Para isso, e necessario
+que os artefatos sejam usados, testados e avaliados por um
+determinado periodo de tempo, idealmente por diferentes
+pessoas e em diferentes contextos. Como permitir que as
+pessoas disponibilizem, avaliem, critiquem e gerem informa-
+çoes sobre esses metodos e modelos? Como permitir que as
+pessoas de uma comunidade façam a curadoria deles, para
+que se beneficiem do conhecimento coletivo sobre uma ferra-
+menta publicada? Para responder a essa e a outras questoes,
+foi proposto esse trabalho.
+
+**TRABALHOS RELACIONADOS**
+
+Foram encontrados e analisados, inicialmente, quatro artigos
+relacionados ao tema da curadoria coletiva.
+
+Um dos mais relevantes para este estudo, o trabalho de
+ mostra como foi feita a apropriaçao do
+GitHub para fins de curadoria coletiva. Os autores investi-
+garam o que motiva os desenvolvedores a fazer a curadoria,
+porque eles usam o GitHub, como o conteudo curado e utili-
+zado pelo publico e explora como a plataforma pode apoiar
+ainda mais esse processo. Sao levantadas tambem as motiva-
+çoes da comunidade para curar esse conhecimento, atraves
+de uma entrevistas feitas com 16 curadores. O trabalho de
+Wu et al 2018 vai na mesma linha, indo mais a fundo na investigacao dos recursos do GitHub que sao explorados pelos curadores, das caracteristicas do conteudo e dos padroes de colaboracao nos repositorios de conteudo curado. Nesse trabalho, foram feitas analises de logs e conteudo de repositorios populares. O estudo mostrou que a curadoria pode ser uma forma importante de disseminacao de conhecimento pelos desenvolvedores, que o papel de curador pode se tornar importante na comunidade e que eles podem usar da curadoria do conhecimento para se fazerem notar.
+
+O trabalho de Zagalsky et al 2016 mostra um cenario mais especifico, explorando como a comunidade de pessoas que utilizam a linguagem R compartilham e fazem a curadoria do conhecimento que geram. Eles investigam quais os artefatos de conhecimento sao compartilhados, como o conhecimento e construido e o que motiva essa interacao. Eles apontam em seus resultados duas formas de fazer curadoria: a curadoria participativa, onde varios membros constroem juntos um conhecimento; e a curadoria por crowsorced, onde pessoas trabalham de forma independente.
+
+Por fim, Voyloshnikova and Storey 2014 avaliaram o potencial de 20 aplicacoes para uma possivel curadoria de informacao. Os sistemas nao foram usados para curadoria, mas foi feita uma analise do potencial de uso atraves da aplicacao de um framework proposto pelos autores. Foram levantadas quatro principais abordagens de curadoria, os fatores e as questoes importantes para a construcao e a avaliacao de ferramentas Web para a descoberta de informacao.
+
+StoreAnt O StoreAnt2 Ferreira and Prates 2013 de Souza et al 2015 e um repositorio virtual para catalogacao e caracterizacao de metodos de avaliacao de sistemas colaborativos. Ele foi proposto em 2013, como projeto de Iniciacao Cientifica no PENSi3. Para sua concepcao, foram usados os criterios de classificacao definidos por Santos et al 2012 para catalogar metodos de avaliacao. O desenvolvimento tecnico do StoreAnt, baseado na especificacao inicial, comecou em 2015. Esse trabalho foi apresentado em uma demo de Souza et al 2015 no INTERACT 20154.
+
+O sistema encontra-se hoje em fase de desenvolvimento e ainda nao foi testado nem avaliado. Espera-se faze-lo como parte do desenvolvimento deste trabalho de mestrado ver Secao 4. Mais do que isso, espera-se usar o StoreAnt como ferramenta para o estudo de caso deste trabalho, usando-o para testar hipoteses sobre as estrategias de curadoria coletiva que venham a ser encontradas ou propostas.
+
+
+**OBJETIVOS**
+
+A proposta do StoreAnt como um repositorio virtual surgiu
+da necessidade de catalogar metodos de avaliaçao para siste-
+mas colaborativos na comunidade de IHC. Primeiramente,
+foi proposta uma maneira de catalogar os metodos existentes
+e suas caracteristicas, para que o potencial avaliador pudesse
+identificar, visualizar e futuramente comparar diferentes me-
+todos de avaliaçao para sistemas colaborativos e apoiar sua
+escolha nesta ferramenta. Porem, mais do que isso, e neces-
+sario tambem propor uma forma de categorizar e apresentar
+os dados; por isso a necessidade de se estudar como fazer a
+curadoria coletiva do que esta sendo disponibilizado. Fazer
+uma curadoria individual de uma determinada area do co-
+nhecimento pode ser pouco viavel: alem de ser um trabalho
+arduo para a pessoa responsavel em fazer a curadoria (que
+devera pesquisar, divulgar e acompanhar as aplicaçoes dos
+artefatos) e dificil de escalar e manter por longos períodos
+de tempo, uma vez que um artefato pode gastar anos ate se consolidar.
+
+Dada a necessidade de organizar esse conhecimento, afim de possibilitar a sua consolidacao, surge a questao: como fazer a curadoria de tais artefatos de maneira coletiva? Alem disso, como garantir que essa curadoria sera feita usando os conhecimentos especificos das pessoas envolvidas na curadoria assim como a selecao de artigos academicos em conferencias? A curadoria de um conhecimento tecnico especifico feita por pessoas nao tecnicas, por exemplo, nao teria valor, uma vez que dificilmente teriamos massa critica suficiente para garantir a consolidacao do dado. Assim, e necessaria a participacao da propria comunidade nesse trabalho, caracterizando o processo coletivo. Uma vez que seja possivel efetivamente fazer a curadoria dos metodos, ferramentas e modelos propostos em um determinada area do conhecimento, levando em consideracao o conhecimento cientifico associado das pessoas responsaveis pela curadoria nessa avaliacao, espera-se possibilitar o uso e a consolidacao deste conhecimento de forma mais efetiva. Essa diferenca entre o contexto cientifico e generico justifica a necessidade de uma investigacao de estrategias especificas de curadoria que abranjam as questoes apresentadas.
+
+Assim sendo, sao objetivos deste trabalho:
+1 Investigar estrategias de curadoria coletiva: como os sistemas e as pessoas fazem esse tipo de selecao de informacao.
+2 Identificar aspectos e criterios relevantes para se buscar, comparar e avaliar os metodos de avaliacao existentes.
+3 Implementar e testar estrategias de curadoria coletiva em um estudo de caso em um contexto especifico e aplicar essas tecnicas usando o StoreAnt.
+
+Inicialmente, espera-se focar no estudo das estrategias de curadoria coletiva para a area de IHC, especificamente para catalogacao de metodos de avaliacao. A longo prazo, espera-se investigar a possibilidade de explorar um contexto mais amplo i.e. gerador de repositorios de conhecimento, nao sendo esse o objetivo nesse momento.
+
+METODOLOGIA
+Investigacao das estrategias
+Primeiramente e necessario investigar como e feita curadoria em contextos coletivos hoje. Para isso, serao usados dois metodos: uma Revisao Sistematica de Literatura SLR e avaliacoes com o Metodo de Inspecao Semiotica MIS.
+
+A SLR Kitchenham 2004 e um metodo qualitativo sistematico de pesquisa, que ajuda a explorar as razoes pelas quais os fenomenos acontecem, indo alem da contagem de sua porcentagem de ocorrencia. O metodo foi escolhido dado que ele atende ao objetivo da presente pesquisa: interpretar o conteudo dos artigos retornados, de modo a tracar relacoes de significado entre eles, contribuindo para a definicao das estrategias utilizadas pelos autores dos trabalhos analisados em suas pesquisas. Foram tracadas as seguintes questoes de pesquisa:
+
+Questao 1
+O que tem sido feito, em termos de curadoria de conteudos relacionados a ciencia da computacao, nos ultimos cinco anos?
+Quais estrategias de curadoria utilizam sistemas digitais, e quais as caracteristicas desses sistemas?
+Como as pessoas se organizam coletivamente, para a realizacao dessa curadoria, e como interagem entre si e com o s sistema s em questao?
+Quais as motivacoes das pessoas para a realizacao e uso da curadoria desses conhecimentos?
+
+Questao 2
+Existe alguma estrategia voltada para a curadoria de metodos de avaliacao em geral? E de metodos de avaliacao de sistemas digitais?
+
+Uma vez definido o protocolo, o mesmo foi aplicado sobre uma ampla base de dados cientificos, envolvendo os principais repositorios academicos da area. A aplicacao do protocolo, em sua maior parte, se deu atraves da execucao de strings de busca automatica sobre os mesmos.
+
+O MIS de Souza et al 2006 e um metodo antecipativo, ou seja, um especialista inspeciona o sistema em busca de potenciais rupturas de comunicacao que poderiam surgir na interacao entre o usuario e o sistema. E um metodo de analise sistematico que vem sendo utilizado na conducao de pesquisas cientificas, tendo inclusive uma abordagem para esse fim de Souza and Leitao 2009. Ele foi escolhido por possibilitar que sistemas em estado formativo ou somativo sejam avaliados e que as estrategias de mediacao a curadoria coletiva sejam coletadas.
+
+Assim sendo, sera possivel entender o que se tem consolidado hoje no contexto de curadoria coletiva atraves de duas abordagens: analisando os trabalhos relacionados e os sistemas em fase de design ou ja em funcionamento que intermediam a interacao de interesse.
+
+Analise e proposta de estrategias
+Uma vez que foram identificadas as estrategias existentes, e hora de analisar as que seriam aplicaveis para o contexto especifico que se deseja propor ou mesmo propor uma que pareca mais adequada.
+
+E esperado que em uma curadoria coletiva de metodos de avaliacao em IHC, por exemplo, tenha-se pessoas com conhecimento especifico em metodos de avaliacao, para contrapor a falta de uma massa critica de usuarios. Nesse sentido, algumas questoes levantadas foram: 1 Como definir que a pessoa e especialista em uma area do conhecimento?; 2 Como distribuir os artigos para as pessoas avaliarem sem criar gargalos?; e 3 Como efetivamente nao depender de uma massa critica para garantir a consolidacao do dado?
+
+Alem disso, espera-se propor indicadores de qualidade, que ajudem no controle da qualidade de aspectos como: 1 o nivel de conhecimento das pessoas que fazem a curadoria; 2 o material que e curado; e 3 o processo de curadoria em si, intermediado pelo sistema.
+
+Aplicacao e avaliacao das estrategias propostas
+Uma vez que foram definidas uma ou mais estrategias, deseja-se aplica-las em um contexto real de curadoria coletiva de avaliacao de metodos de IHC. Esse contexto foi escolhido por ser de dominio dos pesquisadores, possibilitando uma curadoria real dos metodos para avaliacao da tecnica. Para isso, e necessario implementar a estrategia no sistema StoreAnt, popular o sistema com os metodos de avaliacao da literatura e simular o contexto de curadoria real.
+
+Espera-se avaliar o sistema e a estragegia de curadoria inicialmente em um grupo controlado e.g. os integrantes do PENSi. Posteriormente, espera-se fazer uma avaliacao da comunidade de IHC em geral, para que seja possivel analisar a aplicabilidade da estrategia de curadoria implementada as necessidades da comunidade. Por fim, espera-se analisar a experiencia dessas pessoas com o sistema como um todo, atraves da coleta e analise de opiniao e.g. entrevistas, questionarios e grupos focais.
+
+CONTRIBUICOES ESPERADAS
+Este trabalho preve dois tipos de contribuicoes como resultado: contribuicoes teoricas e contribuicoes praticas. Como contribuicoes teoricas tem-se principalmente os resultados da investigacao sobre estrategias de curadoria coletiva, de forma consolidada, alem de criterios de busca, caracterizacao e comparacao em um contexto especifico de metodos de avaliacao. Hoje esse e um tema pouco explorado na area de IHC e com grande potencial para a comunidade, uma vez que impacta diretamente nos mecanismos de consolidacao dos trabalhos publicados.
+
+Como contribuicao pratica, tem-se os resultados do estudo de caso e a consolidacao da ferramenta StoreAnt. Um exemplo pratico pode ser visto na area de avaliacao de sistemas colaborativos: avaliar sistemas colaborativos hoje e uma tarefa nao trivial em todas as suas etapas Prates and Raposo 2006. Ate mesmo a escolha do melhor metodo a ser usado em uma situacao/contexto tem sido um desafio. Muitos metodos foram propostos, no entanto poucos sao consolidados. Obter conhecimento sobre eles envolve buscas complexas, que dificultam todo o processo. Assim, se propos a criacao do repositorio online dos metodos propostos, organizados atraves da curadoria coletiva. Espera-se que essa ferramenta seja disponibilizada para a comunidade, como forma de aumentar o acesso e o compartilhamento de informacoes entre seus membros, colaborando para a consolidacao dos trabalhos da area e seu fortalecimento, podendo ser util tanto no contexto academico quanto profissional.
+
+Como trabalho futuro, cabe a discussao dessa aplicacao em um contexto geral, como um meta-repositorio repositorio de repositorios. Assim, seria possivel organizar diferentes tipos de conhecimento, adaptados as necessidades de cada comunidade.
+
+
+**CONCLUSAO**
+
+Este trabalho de mestrado propoe uma investigaçao sobre o uso de estrategias de curadoria coletiva, com o objetivo de catalogar e caracterizar os metodos de avaliaçao. Espera-se, por meio do trabalho, contribuir com a consolidaçao de estudos relacionados ao tema, bem como auxiliar a comunidade a aumentar o acesso e o compartilhamento de informaçoes, colaborando com o fortalecimento da area.

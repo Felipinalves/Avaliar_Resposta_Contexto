@@ -1,0 +1,109 @@
+**RESUMO**
+
+O estudo investigou as respostas afetivas de usuarios de um serviço
+prestado por concessionarias de energia, acessado por meio de um aplicativo
+de smartphone com um chatbot. Discute-se a validaçao da interface e do fluxo
+de trabalho do serviço com enfase na experiencia do usuario e nas respostas
+afetivas, incluindo o artefato emoti-SAM.
+
+**INTRODUCAO**
+
+O estudo aqui apresentado faz parte do projeto de P&D Aneel que trata do esforço da CFPL Energia em melhorar a experiencia de seus clientes e,
+assim, digitalizar 90% de seus mais de 50 milhoes de atendimentos/ano ate 2023. Em
+pesquisas anteriores, a distribuidora ja havia observado que barreiras emocionais
+como a percepçao de que “nao funcionam” ou “nao sao confiaveis”, o desconhecimento
+ou o simples habito de ir a agencia – desencorajam os clientes dos canais tradicionais a
+adotar os canais digitais.
+
+No P&D, um aplicativo foi concebido e desenvolvido visando a quebrar essas barreiras
+ao oferecer um modelo de navegaçao mais amigavel (que os canais digitais atuais), em
+que o atendimento e guiado por uma assistente virtual (AV) que dialoga com o usuario,
+gere recursos (tela interativa, geolocalizaçao, camera) e interage com soluçoes de visao
+computacional, no conceito de assistentes inteligentes [Budiu e Whitenton 2018]. Sao
+oferecidos tres serviços (ligaçao nova, troca de nome e reativaçao), redesenhados com
+vistas a evitar redundancias, dar persistencia aos dados ja fornecidos, humanizar o
+atendimento e tornar flexivel o fluxo das etapas [Stickdorn e Schneider 2014].
+
+O presente trabalho mostra os resultados da pesquisa que teve como objetivo avaliar o
+exito da soluçao em vencer tais barreiras emocionais, tendo como base a coleta das
+respostas afetivas [De Souza, Vechini e Bonadia 2021] dos usuarios na sua interaçao
+com o app ao simular um pedido para o serviço de ligaçao nova.
+
+**METODOLOGIA**
+
+O objetivo da pesquisa foi analisar as respostas afetivas dos usuarios na sua interaçao
+com o ambiente de chatbot proposto pelo aplicativo e com as perguntas tecnicas do AV,
+inerentes ao serviço de ligaçao nova (tipo de instalaçao, capacidade de corrente de
+disjuntores, tipo de tarifa etc.), alem de averiguar sua motivaçao em finalizar todas as
+etapas solicitadas pelo app.
+
+Para registro e analise das respostas afetivas dos participantes, utilizou-se um conjunto
+de artefatos com base nos tres niveis para o design emocional [Norman 2004]: visceral,
+comportamental e reflexivo. Para isso, foi aplicado o modelo ilustrado na Figura 2 [De
+Souza, Vechini e Bonadia 2021]. As respostas viscerais vieram dos comentarios
+espontaneos dos participantes ao longo da interaçao com o app e as comportamentais,
+das açoes em tela. As respostas reflexivas foram coletadas apos a interaçao do usuario
+com o app, por meio de entrevista combinada com o emoti-SAM [Hayashi et al. 2016],
+uma versao adaptada do questionario pictografico Self-Assessment Manikin (SAM)
+[Bradley e Lang 1994]. O emoti-SAM (Figura 2), capta tres dimensoes de uma resposta
+emocional – satisfaçao, motivaçao e sentimento de dominio/controle.
+
+Tambem foram analisados os tempos de interaçao dos participantes com cada etapa do
+fluxo de atendimento (Figura 1) e seu status de finalizaçao, completando a avaliaçao das
+respostas afetivas no nivel comportamental. Adotou-se como metricas de exito a
+conclusao do fluxo de atendimento por 70% dos usuarios, com base no status de
+finalizaçao de cada etapa segundo um farol [De Souza, Vechini e Bonadia 2021] (verde,
+finalizou sozinho; amarelo, finalizou com ajuda ou obstaculos; vermelho, nao
+finalizou). Adicionalmente, apenas valores positivos e neutros na pesquisa emoti-SAM.
+
+A pesquisa contou com dez participantes voluntarios de areas de atuaçao diversas, os
+quais realizaram a interaçao remota ou presencialmente. Seis tinham menos de 30 anos,
+mas todos os perfis visados foram representados (Tabela 1).
+
+**RESULTADOS**
+
+No nivel visceral, foi possivel coletar 139 comentarios espontaneos dos usuarios durante
+as interaçoes com o app, classificados segundo o seu teor, conforme a Tabela 2. Reaçoes
+de incerteza como “Nossa, essa aqui,. 'xis' (risos)!” mostram que o app tem aspectos
+desafiadores para pessoas leigas. Contudo, comentarios neutros como “Ele deve me dar
+as instruçoes.” mostram que ao longo da interaçao os usuarios passam a confiar no app.
+
+Para avaliar respostas afetivas no nivel comportamental, foram analisados os tempos de
+interaçao e finalizaçao de cada etapa, conforme Figura 3. No que se refere aos tempos,
+percebeu-se uma coerencia dos resultados com a complexidade da etapa. No status de
+finalizaçao, apenas 50% das etapas obtiveram somente farois verdes ou amarelos,
+abaixo da meta (70%). Isso ocorreu em razao de problemas operacionais do app.
+
+Os resultados no nivel reflexivo (Figura 4) indicam que a maioria dos participantes se
+sentiu satisfeita e motivada ao interagir com o app, apesar dos problemas que levaram
+alguns a reiniciar o processo. Porem, diferente da meta estabelecida, a presença de
+valores negativos no emoti-SAM sugere que ha espaço para melhoria.
+
+Na analise dos resultados do emoti-SAM e das entrevistas, concluiu-se que os usuarios
+acharam o app facil e intuitivo, mas que varias perguntas da AV são tecnicas e exigem
+conhecimento ou ajuda de terceiros para que o pedido seja enviado com mais certeza.
+Ainda assim, supoe-se que muitos dos usuarios preferirao o app aos canais tradicionais.
+
+**DISCUSSAO DOS RESULTADOS**
+
+O modelo metodologico discutido em De Souza, Vechini e Bonadia (2021) mostrou-se
+efetivo para capturar a dimensao emocional das barreiras de alguns usuarios em canais
+digitais e, assim, avaliar a capacidade de um app em substituir canais tradicionais em
+jornadas de serviços desafiadores para a digitalizaçao dos atendimentos. O estudo foi
+util para entender as respostas afetivas dos participantes diante da interface, ajudando a
+identificar oportunidades de melhoria e a aprender sobre os usuarios e suas preferencias.
+
+Diferentemente do estudo de referencia, feito em prototipo para web, este avaliou um
+app em desenvolvimento, o que causou problemas que podem ter, em parte, prejudicado
+a experiencia. Embora tanto as soluçoes quanto os perfis de usuarios fossem distintos,
+ambos os estudos se limitaram pela reduzida quantidade e representatividade de perfis.
+Recomenda-se uma nova pesquisa com um numero maior de pessoas, preferencialmente
+apos a estabilizaçao do app, para que a interaçao nao seja prejudicada.
+
+Assim, acredita-se no exito da metodologia e no atingimento dos objetivos da pesquisa.
+Alem de enriquecer o backlog para evoluçao da soluçao, foi possivel embasar decisoes
+dos stakeholders, inclusive sobre a futura integraçao do app a outros canais digitais.
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, este estudo demonstra a importancia de considerar as respostas afetivas dos usuarios na avaliaçao de aplicativos para serviços digitais. Ao analisar as reações viscerais, comportamentais e reflexivas dos participantes, foi possivel identificar pontos fortes e fracos do aplicativo em relaçao a experiencia do usuario. Esses resultados podem ser utilizados para aprimorar o design do aplicativo, tornando-o mais intuitivo e satisfatorio para os usuarios.

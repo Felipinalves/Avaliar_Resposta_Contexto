@@ -1,0 +1,274 @@
+**INTRODUCAO**
+
+A Sociedade Brasileira de Computaçao (SBC) formalizou
+cinco grandes desafios cientificos para o periodo dos dez
+anos compreendidos entre 2006 e 2016, aduzindo a questoes
+relacionadas a ausencia de interdisciplinaridade, que
+caracteriza a area da Computaçao. O Conselho Nacional de
+Educaçao (CNE), em 2016, instituiu as diretrizes
+curriculares nacionais para os cursos de graduaçao na area da
+computaçao e afins, e destacou a formaçao interdisciplinar
+para os discentes do curso de Computaçao. Ha varios anos, a
+SBC vem promovendo eventos para profissionais
+apresentarem suas praticas docentes, visando discutir as
+dificuldades inerentes ao ensino na area e sobre as
+disciplinas de programaçao, por revelarem o fraco
+desempenho dos alunos e a evasao. Muitas vezes sao
+utilizados aspectos ludicos, com o uso de robotica (LEGO)
+ou de softwares educativos (LOGO), sao adotados para
+auxiliar na aprendizagem dos conceitos, de uma forma
+pratica. Apesar de essas iniciativas facilitarem o aprendizado
+dos conceitos de logica de programaçao, professores e alunos
+tem interesse maior na geraçao de codigo de um software.
+Consequentemente, as atividades didaticas de avaliaçao do
+produto incidem em verificar se o codigo esta funcionando
+da maneira esperada (sendo testes funcionais), e nao em
+avaliar se o software leva a satisfaçao do usuario. Esse tipo
+de avaliaçao, na perspectiva do usuario, e estudado na
+disciplina de Interaçao Humano- Computador (IHC) e difere
+dos testes funcionais por tratar de aspectos relativos aos
+fatores humanos.
+
+Diante deste cenario, este artigo foi motivado pela
+problematica identificada a partir da elaboraçao e da
+aplicaçao do projeto interdisciplinar de IHC em disciplinas
+introdutorias de programaçao, quando elas ainda nao contam
+com interface grafica, no caso de telas prompt. A execuçao
+desse projeto com professores de oito turmas trouxe
+resultados preliminares que motivaram os gestores dos
+cursos afins a computaçao a tomarem a decisao de
+institucionalizar o ensino de IHC. Tal decisao levou as
+seguintes questoes desta pesquisa: Q1) Os docentes
+envolvidos em um projeto interdisciplinar estariam aptos a
+ensinarem conteudos de programaçao integrados a aspectos
+de IHC?; Q2) Como o discente percebe tal iniciativa?
+
+Este artigo tem o objetivo de definir e descrever uma
+estrategia para apoiar os envolvidos (professores e
+coordenadores de curso) na avaliaçao da implantaçao de um
+projeto interdisciplinar. Um estudo de caso foi feito com a
+disciplina de IHC aplicada ao Ensino de Programaçao em
+diversos cursos afins a computaçao. Assim, questionarios e
+entrevistas foram aplicados para investigar a percepçao da
+utilidade para os discentes envolvidos e dificuldades dos
+docentes, e avaliar se existe alinhamento do objetivo do
+projeto interdisciplinar de IHC com a disciplina-alvo
+(Programaçao). Os resultados mostraram que um processo
+interdisciplinar vai alem de relacionar duas disciplinas e
+gerar um novo conhecimento ou apenas relaciona-las, sendo
+notorio que deve existir alinhamento com varios elementos
+(disciplina (ementa), perfil do docente e discente) para que o
+objetivo do projeto interdisciplinar seja alcançado e em
+conjunto melhore o entendimento de conceitos muitas vezes
+abstrato de programaçao para os discentes.
+
+A estrutura deste artigo e a seguinte: apos uma conceituaçao
+sobre usabilidade e experiencia do usuario no contexto
+educativo, e relatado um uma pratica de um projeto
+interdisciplinar, sendo posteriormente, descrita a estrategia
+para avaliaçao de um projeto interdisciplinar e o estudo de
+caso, com os resultados alcançados e trabalhos relacionados,
+antes da conclusao.
+
+**USABILIDADE E EXPERIENCIA DO USUARIO NO CONTEXTO
+EDUCATIVO**
+
+Os pesquisadores deste artigo estao em um grupo que agrega
+profissionais que estudam aspectos relativos a interaçao do
+ser humano com um artefato computacional, visando a
+usabilidade de tal artefato, dentre outras caracteristicas, que
+possam medir a qualidade das experiencias do usuario-alvo.
+Por conta deste contexto e da limitaçao de espaço, ressalta-
+se somente que a “Usabilidade" e um conceito restrito
+se comparado ao conceito de Experiencia do Usuario (EU),
+que aborda uma questao maior, verificando se um
+sistema/produto/serviço e bom o bastante para proporcionar
+satisfaçao aos usuarios durante o seu uso normal e
+antecipado do sistema. Sem querer fazer uma analise
+aprofundada, chamaremos simplesmente de usabilidade,
+sabendo que um pode afetar o outro. Por exemplo, no
+contexto de ensino, as abordagens de ensino nao devem focar
+apenas nas competencias dos alunos (p.e., dos conceitos e
+principios de usabilidade de um software) e suas habilidades
+(p.e., realizar os procedimentos para aplicar os principios),
+mas nos valores humanos agregados pelo aprendizado, isto
+e, na formaçao de um aluno consciente de sua
+responsabilidade social, para construir um software util para
+os usuarios-alvo. Assim, pode-se dizer que, em uma
+disciplina de programaçao para resolver um dado problema,
+e necessario que o aluno compreenda a logica que ele vai
+solucionar, mapeando as soluçoes em passos sequenciais
+(algoritmo), mas, acima de tudo, compreenda os fatores
+humanos a serem considerados nas EU dos usuarios.
+
+Ainda neste contexto de ensino, as principais estrategias de
+integraçao disciplinar sao: multidisciplinaridade,
+pluridisciplinaridade e interdisciplinaridade. Adotou-se a
+interdisciplinaridade neste trabalho de pesquisa, pois,
+enquanto as duas primeiras requerem apenas uma consulta
+nas disciplinas, a ultima exige ir alem, como relaciona-las.
+Conforme , interdisciplinaridade e utilizada para definir
+“o nivel em que a interaçao entre varias disciplinas ou setores
+heterogeneos de uma mesma ciencia conduz a interaçoes
+reais, a uma certa reciprocidade no intercambio, levando a
+um enriquecimento mutuo”.
+
+**CONTEXTUALIZAÇAO APLICAÇAO DE UM PROJETO
+INTERDISCIPLINAR**
+
+Esta seçao objetiva descrever uma iniciativa de um projeto
+interdisciplinar, tomando como base as disciplinas de IHC e
+de Algoritmos, que motivou a elaboraçao da estrategia
+proposta.
+
+O projeto iniciou e foi aplicado em 2014.2 na Unifor
+(Universidade de Fortaleza) pelos seguintes integrantes da
+equipe: os autores deste artigo (sendo um especialista em
+IHC, uma pedagoga e um programador), o coordenador do
+curso de ciencia da computaçao e um professor representante
+da disciplina Algoritmos. O objetivo foi preparar, executar e
+disponibilizar os recursos necessarios aos professores para
+conduzirem seus alunos a programarem dando atençao para
+a usabilidade da soluçao, desde o inicio da construçao de um
+programa, e atingindo os tres saberes. Ficou definido pela
+equipe que, no decorrer de duas aulas, os alunos deveriam i)
+compreender o conceito de IHC, para ter o foco na
+usabilidade da aplicaçao; ii) avaliar uma tela interativa de
+cadastro de usuario, aplicando heuristicas de usabilidade
+para identificar erros de usabilidade; e iii) perceber a
+necessidade do uso de heuristicas nas estruturas de controle
+durante a construçao de programas na linguagem “C”
+(linguagem utilizada na disciplina). Como ponto de
+associaçao aos conceitos de programaçao da disciplina de
+algoritmos, as heuristicas identificadas foram: visibilidade,
+tratamento de erros, liberdade e controle do dialogo e
+consistencia e padronizaçao. A Tabela 1 ilustra uma
+heuristica de IHC associada ao conceito de programacao da
+disciplina de algoritmos.
+
+A metodologia pedagogica adotada foi a Sequencia Fedathi (2), que ajudou a equipe a identificar os conceitos de IHC e definir como eles deveriam ser produzidos e integrados com os conceitos da disciplina Algoritmo. Essa metodologia privilegia a apresentacao de situacoes problema aos alunos, que se debrucam e refletem sobre possiveis respostas e constroem um conhecimento, enquanto o professor e um mediador do processo de ensino aprendizagem (2). Ficou definido pela equipe que os docentes iriam receber um kit, contendo o plano de aula, o programa exemplo, o checklist para avaliacao da usabilidade do programa, slides sobre a associacao entre os conceitos das disciplinas e duas versoes do programa: com erros de usabilidade e sem erros de usabilidade.
+Apos a elaboracao do projeto, houve o treinamento dos professores e a realizacao das aulas para os alunos. E nesse contexto que as dificuldades dos professores foram apuradas para a avaliacao do projeto.
+A equipe treinou 8 dos 15 professores da disciplina de Algoritmos que na epoca eram responsaveis em lecionar. O treinamento ocorreu em tres momentos, com duracao de quase tres horas (equivalente a 2 aulas). No primeiro momento, apos uma revisao dos conceitos de algoritmos que seriam usados, a tela de cadastro foi apresentada pelo professor de algoritmos e os oito professores (na posicao de alunos) foram motivados a identificar e apontar os erros de usabilidade. O professor de algoritmos foi anotando no quadro os erros identificados, considerando as repeticoes e divergencias de opiniao. O especialista de IHC percebeu que muitos dos erros anotados nao eram de usabilidade e sim de funcionalidade, e esclareceu que um programa so pode ser avaliado do ponto de vista da satisfacao do usuario quando nao existirem mais falhas que impeçam o seu funcionamento correto. Apos o entendimento dos conceitos e da apresentacao de heuristicas de usabilidade, iniciou-se o segundo momento, os professores aluno, de forma individual, avaliaram a tela, passando o checklist fornecido. No terceiro momento, os dois professores (IHC e Algoritmos) sistematizaram as possiveis respostas, usando a lista de problemas identificados. Para tanto, os professores aluno apresentaram suas respostas acerca do exercicio e os professores que ministraram a oficina chamavam a atencao de que a inspecao da usabilidade por meio do checklist e um processo de avaliacao subjetiva. Para finalizar, as solucoes associativas de IHC com os comandos em C foram apresentadas para os professores aluno, motivando-os a tratarem a usabilidade desde o estagio inicial de desenvolvimento de um programa. Os comentarios dos professores foram positivos. Este conceito de IHC estudado passou a fazer parte das ementas das disciplinas de Algoritmos em todos os cursos na qual e disponibilizado, devido ao sucesso do projeto interdisciplinar. Apesar desse avanco, a equipe sabia que as Q1 e Q2 precisavam ser investigadas.
+UMA ESTRATEGIA PARA AVALIACAO DA INTERDISCIPLINARIDADE
+A estrategia proposta e composta de elementos (ver Figura1) sobre a disciplina alvo (a disciplina que tera seu conteudo integrado ao conteudo de IHC num certo projeto), o docente e o discente. A ementa da disciplina alvo se refere aos conteudos que serao abordados no projeto. E esperado que o docente da disciplina alvo tenha um conhecimento previodominio eou seja especialista na area, bem como tenha sido treinado nos conceitos de IHC (como descrito na secao anterior). Quanto ao discente, e avaliar o entendimento e a importancia do projeto interdisciplinar.
+A estrategia conta tambem com uma metodologia de avaliacao do projeto em questao. A metodologia de avaliacao e composta de tres principais atividades: i) uma avaliacao inicial para diagnostico do discente (foi proposto um questionario inicial a ser aplicado com todos os discentes); ii) acompanhamento do ensino da unidade interdisciplinar (no caso, da aplicacao de um projeto interdisciplinar como o da secao anterior), e; iii) uma avaliacao final (foi feita uma entrevista com os envolvidos), apos o conteudo da disciplina. Nessa metodologia, os elementos tambem devem ser avaliados por meio de uma analise do projeto de ensino da disciplina, curriculo lattes, website da universidade e dialogos com o coordenador da disciplina estudada. A proxima secao apresenta cada uma dessas atividades, descritas para um estudo de caso realizado.
+ESTUDO DE CASO: APLICACAO DA ESTRATEGIA
+Na Unifor, ocorreu o estudo de caso na disciplina de Programacao chamada: Algoritmos e Programacao de Computadores (APC), com o professor Mateus Mosca Viana, que participou do treinamento descrito na secao: Contextualizacao: Aplicacao de um projeto interdisciplinar. O projeto foi realizado em tres aulas consecutivas por esse professor e ocorreu de acordo com o cronograma da ementa seguida pelo docente, pois era preciso aguardar a chegada da unidade V, denominada Interface Humano Computador, sendo uma heranca do projeto interdisciplinar contextualizado nesse artigo. A unidade V e dividida em tres subunidades, nas quais a subunidade 05.01 se refere as heuristicas de IHC associadas a conceitos de programacao; subunidade 05.02 refere-se a validacao de uma interface e a ultima subunidade 05.03 trata-se de uma atividade pratica para os discentes exercitarem os conceitos integrados. Assim, durante o mes de outubro de 2017.2, acompanhamos sua turma de 50 alunos. A metodologia de avaliacao mencionada na secao anterior foi realizada para esse estudo de caso. Usou-se o Formularios Google para aplicacao do questionario inicial, um dia antes do inicio da unidade V e, em seguida, foi realizada uma entrevista, apos o termino da referida unidade V.
+Analise dos Resultados quanto ao Perfil dos Docentes (Q1)
+Conversando com o coordenador da disciplina de APC e fazendo a analise das matrizes curriculares dos cursos, foi averiguado que essa disciplina e comum a 9 cursos de engenharias: Ambiental e sanitaria; civil; computacao; controle e automacao; eletrica; eletronica; mecanica; producao e telecomunicacoes. Nos cursos mencionados, e comum a disciplina estar no primeiro periodo, exceto nos cursos de engenharia ambiental e sanitaria (quarto periodo) e de engenharia de producao (segundo periodo). Sobre os objetivos dessa disciplina, conforme a ementa sao: ter fundamentos da computacao; estudar metodos para a resolucao de problemas utilizando raciocinio logicos; tipos e estruturas de dados; estruturas de controle; abstracao e manuseio de dados. Atualmente, a disciplina dispoe de 7 professores responsaveis em ensina-la. Explorando os curriculos lattes desses professores, atraves do proprio website da universidade nas secoes: Formacao AcademicaTitulacao, Formacao complementar e Atuacao profissional dos docentes, foi possivel constatar que os professores que assumem a disciplina alvo tem um perfil que convergem para area da tecnologia, ou seja, possuem graduacao, especializacao, mestrado ou doutorado na area da tecnologia, mas nao foi encontrado nenhum docente com especializacao ou atuacao profissional com enfase na area de IHC. A maioria dos curriculos lattes dos docentes estava atualizado no ano de 2017.2.
+Analise dos Resultados quanto a Percepcao do Discente(Q2)
+A aplicacao dessa metodologia visou verificar a Q2 desta pesquisa, mas antes de ocorrer os acompanhamentos, foi necessario um dialogo com o professor para coletar o seu ponto de vista sobre o projeto interdisciplinar, sendo que o mesmo ja tinha um embasamento de mais de 2 anos. O professor narrou que achava fundamental a proposta, pois o projeto favorece aos alunos o entendimento da logica para programacao.
+Analisando o questionario inicial aplicado com 23 alunos presentes no dia da aula, verificamos que a turma era heterogenea. Os discentes eram de 5 cursos diferentes, sendo que o curso de engenharia civil e predominante com 10 discentes, engenharia mecanica (5 alunos), engenharia eletrica (3 alunos), producao (3 alunos) e engenharia de controle e automacao com 2 alunos.
+Houve uma pergunta subjetiva sobre o que o discente esperava da disciplina de APC para a sua vida profissional. Os objetivos de aprendizagem principais da disciplina sao aprender a logica; programar e solucionar problemas; entao, procuramos essas palavras nas respostas dos discentes. Foi constatado que mais de 74% dos discentes utilizaram essas palavras, trazendo evidencias para esta pesquisa, de que os discentes tinham expectativas de entender a logica de programacao, programar eou solucionar problemas na sua profissao, logo este resultado pode ter sido verificado, porque, no decorrer do processo de ensino da unidade V, observou-se que o professor teve seguranca ao abordar os conceitos.
+Em outro questionamento, objetivou-se verificar se o discente, ao programar uma determinada atividade pratica interativa rotineira da disciplina, chegava a pensar no usuario que utilizaria a aplicacao. Cerca de 87% pensaram de alguma forma no usuario e apenas 13% nao pensaram no usuario que utilizaria a aplicacao interativa.
+A penultima indagacao investiga a percepcao deles sobre a utilidade da usabilidade. Identificamos que 96% dos discentes consideram importante estudar usabilidade na disciplina de Algoritmo. E relevante salientar que essa indagacao foi fundamentada com conceitos de diversos autores sobre o que e usabilidade, logo e interpretado que os discentes nao tinham conhecimento sobre o conceito da palavra.
+Finalmente, foi analisada a ultima pergunta: o discente conhecia principios para projeto de programas (aplicacoes interativas), como: visibilidade, tratamento de erros, liberdade e controle do dialogo pelo usuario e consistencia e padronizacao. Foram obtidas as seguintes respostas: 74% nao conheciam nenhum desses principios e 26% conheciam alguns, sendo estes nao identificados. Nao foi realizada nenhuma introducao em cada heuristica. Esses dados trouxeram evidencias de que os alunos nao tinham um conhecimento previo sobre as heuristicas, antes de o professor leciona-las.
+Concluindo aplicacao do questionario inicial, comecou a unidade V e os discentes participaram ativamente da aula. Eles, inclusive em alguns momentos antes do docente, apresentaram como se resolveria problemas de heuristicas; ja citavam conceitos da disciplina de APC, apresentando o entendimento da associacao (ver exemplo na Tabela 1).
+A entrevista, ultima etapa da estrategia, ocorreu com os 23 alunos participantes. A seguinte pergunta foi feita: Como poderiamos resolver problemas de usabilidade, considerando as heuristicas de IHC no momento da aplicacao dos conceitos da disciplina de APC Entao foi solicitado aos entrevistados que explicassem, verbalmente, como se resolveria os erros de usabilidade de uma tela de login, utilizando as heuristicas de IHC associadas aos conceitos de APC (ver um exemplo na Tabela 1) fundamentadas pela linguagem de programacao C, que e a linguagem utilizada na disciplina. E necessario enfatizar que os alunos receberam uma imagem (ver Figura 2) da tela de login (Essa tela nao foi trabalhada em sala de aula pelo professor) e uma tabela contendo as seguintes heuristicas: visibilidade; tratamento de erros; liberdade e controle do dialogo e consistencia e padronizacao. Nesse instante, os discentes ja tinham um conhecimento conceitual dessas heuristicas, logo tinham trabalhado em sala de aula.
+Na primeira heuristica visibilidade, todos os discentes responderam que faltava um titulo de identificacao para a tela de login e o campo para dar entrada no login do usuario precisava de uma etiqueta, conforme havia no campo de senha e, para resolver esses problemas de visibilidade, falaram da funcao printf da linguagem C. Sobre a heuristica tratamento de erros, os discentes falaram da importancia da verificacao dos tipos de dados que sao inseridos pelo usuario, para isso, alguns disseram que adotariam os controles de fluxo if (se), while (enquanto), for (para), tratando assim os tipos de dados e verificando a coerencia do login e senha cadastrados. Quanto a heuristica liberdade e controle do dialogo pelo usuario, 5 discentes nao souberam resolver esse problema e os demais relataram nao haver a necessidade de se preocupar com a heuristica, justamente pelo usuario ter a necessidade de responder os dois campos para ter acesso a proxima etapa do sistema, mas esqueceram de pensar que o usuario poderia chegar naquela tela de login por engano. E essencial que existam opcoes para retorno ou sairfinalizar na tela de login. A ultima heuristica, consistencia e padronizacao, todos consideraram que o programador deveria seguir uma padronizacao nas mensagens de erros e, se possivel, com uma opcao para o usuario refazer o processo.
+TRABALHOS RELACIONADOS
+Iniciou-se a coleta de trabalhos relacionados, visando apresentar respostas para as perguntas: Em quais disciplinas ocorreram interdisciplinaridade com IHC, Quais os pontos relevantes sobre um projeto interdisciplinar e Qual o comportamento requerido do docente e do discente para a interdisciplinaridade implantada e outros fatos peculiares que pudessem contribuir para o nosso projeto. Sobre a busca, sao utilizadas as palavras chave: IHC e Programacao e Interdisciplinaridade de IHC com programacao nas tres das principais bases digitais de trabalhos cientificos: Google Academico, Scielo Brasil e Periodicos CapesMEC. Houve tambem uma busca manual exaustiva em alguns anais do evento WEIHC (Workshop sobre Ensino de IHC), por considerar que o WEIHC e berço para varios pesquisadores expor os seus trabalhos na area de ensino de IHC. Dentre os 8 trabalhos identificados nas bases, de acordo com as palavras chave, destacaram-se 3 pelos tracos lineares com o nosso tema, descritos em termos de temas. Os temas que aqui se definem nao sao o titulo do artigo. Eles foram definidos para apresentar, de forma clara, que disciplinas fazem interdisciplinaridade (Primeira indagacao coletada no artigo).
+
+Interdisciplinaridade do Ensino de IHC nas disciplinas de Modelagem e Projeto de Banco de Dados e Projeto de Sistemas. Os autores (7) relatam um projeto interdisciplinar com o conteudo de tres disciplinas: 1) Modelagem e Projeto de Banco de Dados; 2) Projeto de Sistemas; e 3) Projeto de Interface Homem Computador. Tal experiencia foi executada no 5 periodo do curso de Ciencias da Computacao. O projeto interdisciplinar vem ocorrendo de forma que os conteudos dessas disciplinas sejam aplicados em um projeto de cunho teorico pratico. O projeto interdisciplinar entre as tres disciplinas tem como foco integrar as visoes sobre os dados, funcionalidades e interface de um sistema. Sobre as implicacoes da interdisciplinaridade para os envolvidos (alunos), os autores criaram um questionario com duas perguntas para que comentassem sobre pontos positivos e negativos do projeto. Como pontos positivos, os alunos narraram: desafiante, abordagem pratica; visao ampla do programa a ser criado e o projeto deu uma visao de como e o mercado de trabalho e a compreensao de que e exigido de um bom profissional o desenvolvimento de um produto com qualidade e os pontos negativos foram: que precisavam de mais tempo para tirar duvidas sobre o projeto durante as aulas e apenas uma aula de IHC por semana;
+
+Interdisciplinaridade do Ensino de IHC na disciplina de Programacao. O trabalho de (8) apresenta uma experiencia de integracao curricular que foi pautada na articulacao conceitual de duas disciplinas de referencia: IHC e Programacao (Plataforma NET I com enfase em recursos e controles basicos da Linguagem C). Uma questao a ser levada em consideracao nesse artigo e que houve relacao com IHC por existir um topico (design de interfaces do usuario) especifico na disciplina, que esta intimamente relacionado aos estudos de IHC. Para o autor, o docente tem que ter uma experiencia na area de IHC para poder utilizar a didatica que e dividida em dez horas aula.
+O autor aplicou avaliacoes durante a intervencao didatica e,
+ao final da disciplina, como resultado nas atividades tanto
+individuais como coletivas, o autor observou que os
+estudantes fizeram projetos de interacao e apresentaram
+softwares finais (Programados em C#) que representavam
+fielmente o design de interacao. Alem dessas avaliacoes,
+houve relatos de alguns alunos ao final da aula e em redes
+sociais, favorecendo as inferencias sobre a integracao
+curricular; e.
+
+Interdisciplinaridade de IHC com as disciplinas de Analise
+e Projeto de Sistemas I e Programacao em Ambiente Web.
+Os autores [4] relatam a experiencia da pratica de um
+projeto interdisciplinar que foi desenvolvido em uma
+turma de alunos do 5º semestre do curso de Bacharelado
+em Sistemas de Informacao. As disciplinas envolvidas
+nesse projeto são: IHC; Analise e Projeto de Sistemas I e
+Programacao em Ambiente Web. Segundo os autores, o
+objetivo da proposta e que o aluno consiga, alem de
+adquirir os conhecimentos de cada disciplina,
+compreender a relacao e integracao dos assuntos inerentes
+as tres. Sobre o papel de cada disciplina, os autores
+asseveram que alguns exercicios foram estabelecidos de
+forma interdisciplinar, a exemplo das tecnicas de
+levantamento de requisitos e testes, em que tanto a
+disciplina de Analise e Projeto de Sistemas I, como a de
+IHC estabeleceram tecnicas, metodos e ferramentas.
+Houve um momento de dialogo entre os professores e
+alunos, em que foram relatadas suas experiencias durante
+a execucao do projeto. Apos os relatos dos alunos, foram
+evidenciadas algumas dificuldades relacionadas a falta de
+conhecimento e as experiências sobre a metodologia de
+projeto interdisciplinar. Nenhum aluno conhecia tal
+metodo. Ja o ponto positivo relatado foi a visao que eles
+tiveram sobre a relacao e a integracao das disciplinas
+envolvidas.
+
+**CONCLUSÃO**
+
+Apesar de a area de Computaçao ser relativamente nova, em
+comparaçao a outras areas que ja possuem uma vasta base de
+conhecimento, e notoria a pouca quantidade de pesquisas que
+estudam ou executam a interdisciplinaridade da area de IHC
+com disciplinas de programaçao no Brasil. Assim, este artigo
+descreveu, sucintamente, a aplicaçao de um projeto para
+planejar um plano de aula para interdisciplinaridade de IHC
+em disciplinas de algoritmos, quando a programaçao ainda
+faz uso de tao poucos recursos graficos (Prompt).
+
+Realizou-se um estudo de caso, seguindo a estrategia
+proposta para avaliar um projeto em implantaçao para a
+interdisciplinaridade de IHC em disciplinas de algoritmos.
+Assim, aplicou-se uma estrategia no estudo de caso a partir
+da analise de tres elementos principais: i) Em alguns cursos,
+a matriz curricular em questao nao possuia disciplinas de
+IHC. Portanto, uma das formas de os discentes conhecerem
+alguns conteudos de IHC e por meio da interdisciplinaridade.
+E importante realçar que IHC participou da
+interdisciplinaridade por ter o seguinte foco o estudo da
+usabilidade na aplicaçao; ii) Na ementa do curso, foi
+observado o alinhamento do projeto interdisciplinar
+apresentado na seçao: "Contextualizaçao: Aplicaçao de um
+projeto interdisciplinar” com o objetivo da disciplina em si.
+O projeto foi idealizado para fazer interdisciplinaridade de
+conceitos de algoritmos com as heuristicas de IHC, sendo
+que as heuristicas visam nortear para possiveis resoluçoes de
+problemas de usabilidade, e os conceitos utilizam a logica
+para solucionar alguns desses problemas; e iii) Com relaçao
+aos docentes, mesmo sendo oriundos da area de tecnologia,
+comprovamos, via curriculo lattes, que nenhum dos docentes
+possuia alguma especializaçao ou atuaçao profissional com
+enfase na area de IHC. Desse modo, torna-se logico inferir
+que os docentes que venham a lecionar a disciplina de
+algoritmos e cheguem no topico que abranja a abordagem
+interdisciplinar, possivelmente tenham duvidas, sendo
+sugerido um apoio de docentes da area de IHС.
+
+Sobre as pesquisas com os discentes, foi comprovado,
+atraves de dados, que o discente, em certas atividades
+rotineiras da disciplina, ao desenvolver uma determinada
+atividade pratica interativa, chega a pensar de alguma forma
+no usuario que utilizaria aquela aplicaçao. Mas se nao houver
+subsidios na propria disciplina para atende-lo, entao,
+continuara com a duvida se deve ou nao pensar no usuario
+que vai utilizar a aplicaçao interativo.
+
+Como trabalhos futuros, pretende-se avaliar como os outros
+docentes, que foram treinados, poderao contribuir com a
+evolucao da abordagem; a percepcao dos professores apos
+terem ministrado suas aulas, quanto a satisfacao dos alunos
+para os seguintes itens: i) os conceitos de IHC foram simples
+e faceis de aprender? ii) o material didatico do kit
+disponibilizado foi suficiente? Alem disso, seria interessante
+verificar em que condicoes as organizacoes educativas
+estariam dispostas a tratar a interdisciplinaridade em seus
+processos de ensino-aprendizagem.
+
+**CONSIDERACOES FINAIS**
+
+Este artigo apresentou uma estratégia para apoiar a institucionalizaçao da interdisciplinaridade entre IHC e disciplinas de programaçao, com um foco na avaliaçao do alinhamento entre os objetivos do projeto interdisciplinar e os conteudos da disciplina-alvo. A estrategia proposta e flexivel e pode ser adaptada a diferentes contextos e disciplinas, desde que haja um alinhamento claro entre os objetivos do projeto interdisciplinar, o conteudo da disciplina-alvo e o conhecimento previo dos docentes na area de IHC. E importante ressaltar que a implementaçao de um projeto interdisciplinar nao se resume a relacionar duas disciplinas e gerar um novo conhecimento, mas exige um alinhamento com varios elementos, como a ementa da disciplina, o perfil do docente e do discente, para que o objetivo seja alcançado e o entendimento dos conceitos seja aprimorado.

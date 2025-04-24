@@ -1,0 +1,129 @@
+**RESUMO**
+
+Segundo a Organizaçao Mundial da Saude (OMS), apenas no
+Brasil tem-se mais de 30 milhoes de animais vivendo nas ruas:
+aproximadamente 20 milhoes de caes e 10 milhoes de gatos. A
+educaçao sobre a posse responsavel consiste em um dos principais
+aspectos para atenuar a situaçao dos animais abandonados, pois
+possibilita conscientizar os tutores que os animais possuem
+necessidades, provocam custos, possuem comportamentos
+imprevisiveis e vivem por muitos anos.
+
+No intuito de obter uma melhor compreensao sobre animais
+abandonados, aplicamos questionarios online com donos de
+abrigos e realizamos uma entrevista com uma especialista.
+Consideramos ainda, experiencias bem-sucedidas na atenuaçao do
+abandono de animais, como nos casos citados por Isabele
+Sternheim em seu artigo sobre "How Holland became free of
+stray dogs" realizado em paises mais desenvolvidos.
+
+Os resultados apontaram que um dos principais fatores que
+corroboram para uma posse responsavel perpassa pela educaçao
+recebida na Educaçao Basica. Mediante o exposto, a presente
+proposta consiste em um projeto educacional com crianças do
+Ensino Fundamental para conscientiza-las e estimula-las na
+adoçao e cuidado com os animais abandonados. Sendo assim,
+propusemos uma soluçao que permite que os alunos pratiquem
+cuidados semelhantes aos que serao necessarios para cuidar de um
+animal.
+
+
+**INTRODUCAO**
+
+Este projeto foi feito para ser submetido na Competiçao de Design
+do Simposio Brasileiro sobre Fatores Humanos em Sistemas
+Computacionais (IHC 2019), que tem como principal desafio:
+"Propor uma soluçao para apoiar a educaçao sobre posse
+responsavel de animais e incentivar a adoçao de animais
+abandonados". Para trabalhar juntos em uma soluçao para este
+desafio, os alunos de Ciencia da Computaçao e Design da
+faculdade CESAR School se juntaram a autora do ParCao Santana
+em Recife que tambem e mestra em Engenharia de Software e
+professora da Cesar School, para buscar uma soluçao inovadora e
+tecnologica que possa auxiliar a educaçao de crianças sobre a
+posse responsavel. Cumprindo todos os requisitos necessarios no
+projeto e adicionando tecnologia IOT (Internet das Coisas) na
+soluçao.
+
+
+
+**METODOLOGIA / PROCESSOS**
+
+Aplicamos um questionario em abrigos locais da cidade (Recife)
+para saber seus problemas mais criticos e solucioneis por meio
+dos requisitos necessarios para o projeto.
+
+Para fazer esta pesquisa, utilizamos o Google Forms, de acordo
+com as nossas respostas, foram apontados que esses abrigos estao
+em sua capacidade maxima e recusando resgates. Alem de ser
+apontado que o numero de pessoas que vao adotar boa parte tem
+preferencia em cachorros menores e filhotes. Tambem contatamos
+pessoas engajadas na causa, como a propria lider da equipe,
+Melissa Pontes e atraves de uma conversa informal, conseguimos
+dados importante que contribuiram com nossas pesquisas.
+
+Nos baseamos na metodologia de Design Thinking durante todo o
+processo. No inicio da maturaçao das ideias, permeamos entre as
+fases de definiçao e ideaçao. Conseguiamos definir um problema
+para atacar na soluçao final, mas quando esse problema nao
+gerava soluçoes inovadoras e que contemplassem todos os
+requisitos da competiçao, retornavamos a fase de definiçao de um
+novo problema.
+
+Durante as diferentes rodadas deste ciclo, tivemos Stakeholders
+(partes interessadas), problematicas e soluçoes diferentes a cada
+nova ideia trabalhada.
+
+Ao termino das leituras sugeridas pela nossa mentora, as
+entrevistas e um processo de 635 (6 pessoas, 3 ideias, 5 minutos)
+entre os membros do grupo. Chegamos a conclusao que o foco do
+nosso projeto deveria estar voltado para a educaçao base das
+crianças no Brasil, ja que segundo pesquisas, e significante a
+diferença em educaçao entre o Brasil e a Holanda, que foi o pais
+que praticamente acabou com a porcentagem de animais sem lar.
+Que com as devidas orientaçoes e conscientizaçao, as crianças
+possam crescer cientes dos cuidados e responsabilidades que elas
+devem ter em relaçao a qualquer animal que se disponham a
+cuidar.
+
+Com a definiçao da soluçao final, prototipamos o aplicativo a ser
+integrado com o Arduino, que e uma plataforma de prototipagem
+eletronica, para acrescentar uma soluçao envolvendo internet das
+coisas, alem de se tornar mais divertido e inclusivo para crianças
+do ensino fundamental, pois mesmo que nem todos da sala
+possuam um celular para acessar o aplicativo, ainda assim todos
+irao usufruir da soluçao final, ja que o CaoPanheiro e composto
+nao somente do aplicativo movel, como tambem de um cachorro-
+robo que sera usado por todas as crianças da sala de aula, como
+sera explicitado mais a frente neste artigo.
+
+
+**JUSTIFICATIVA**
+
+Nossa proposta pretende promover o senso de responsabilidade
+nas crianças, estimular o trabalho em grupo e cooperaçao, criar
+uma consciencia a partir do momento que ela se responsabiliza
+para cuidar de uma vida, alem de trabalhar com robotica e
+tecnologia, que sao dois contribuintes importantes para a
+educaçao do futuro.
+
+Segundo Jose Manuel Moran, Com efeito, a tecnologia apresenta-se como meio, como instrumento para colaborar no desenvolvimento do processo de aprendizagem Nao e a tecnologia que vai resolver ou solucionar o problema educacional no Brasil. Podera colaborar, no entanto, se for usada adequadamente, para o desenvolvimento educacional de nossos estudantes Moran, J. M. 2000.
+Isabelle Sternheim, estudiosa do relacionamento entre cachorros e humanos, aponta para a importancia do fator educacao como contribuinte a queda do abandono de animais. Sternheim argumenta que as criancas precisam ser ensinadas a interagir responsavelmente e respeitosamente, desenvolvendo nelas a empatia pelos animais e promovendo uma postura de cuidado e carinho.
+Em linhas gerais, os resultados apontaram que um fator que contribui para a situacao de caes abandonados passa pela educacao. Sendo assim, optamos por projetar uma solucao educacional para criancas. Ampliando esta fala para o nosso cenario, pensamos em como ter um bichinho virtual que simulasse um animal de verdade, poderia ensinar melhor o senso de responsabilidade nas criancas. Para isto, pretendemos fazer um projeto em sala de aula que trabalhe a cooperacao com os colegas de sala, o senso de responsabilidade individual e o trabalho com tecnologias inovadoras. Nossa solucao desenvolve a cooperacao e o trabalho em equipe, por auxiliar no processo de socializacao e proporciona a compreensao de que a construcao coletiva pode potencializar as formas de conhecer o conhecer.
+Nos baseamos nas funcionalidades e caracteristicas de tamagotchis, importantes na construcao de senso de responsabilidade no nosso publico-alvo. Segundo Jose Carlos Ferrigno, o Tamagotchi deixava entrever que o espirito solidario, como atributo humano, nao se perdeu, mas poderia ser, e claro, melhor direcionado. Sendo assim, os cuidados que antes eram dirigidos aos bichinhos virtuais, ou como no caso do nosso projeto, ao CaoPanheiro, no futuro podem se transformar em cuidado e senso de responsabilidade aos futuros animais que estas criancas irao cuidar.
+O trabalho em forma de projeto em sala, E uma metodologia assumida em grupo que pressupoe uma grande implicacao de todos os participantes. Envolve trabalho de pesquisa no terreno, tempos de planificacao e intervencao com a finalidade de responder a problemas encontrados, problemas considerados de interesse para o grupo e com enfoque social Leite, Malpique e Santos 1989, p.140.
+Solucao proposta e cenario de uso
+Nossa proposta tem como objetivo alcancar alunos do segundo ao quarto ano, ensinando senso de responsabilidade e cuidado com os animais atraves de um robo de pelucia que possui sensores e consegue identificar se esta sendo cuidado direito. E necessario que se tenha um robo por turma. A turma inteira ficara responsavel por cuidar do animal. Cada dia um aluno diferente o levara para casa.
+Como prototipo inicial, utilizamos um Arduino para detectar as funcoes que selecionamos importante. O sensor de toque detectara se o cachorro esta sendo alimentado; um acelerometro sera adicionado para detectar se o CaoPanheiro esta em movimento, preenchendo assim o indicador de passeio; o sensor de luminosidade sera adicionado para quando o CaoPanheiro precisar dormir. Sua barra de energia so sera renovada se ele estiver em um lugar com pouca luminosidade; o sensor de proximidade indicara que o aluno esta por perto, dando senso de atencao ao companheiro. Alem disso, ele possuira um buzzer dispositio de som para que o cachorro possa emitir sons diferentes a partir das necessidades do momento.
+Enquanto o resto da turma estara conectado com os sentimentos do cachorro atraves de um aplicativo que recebe, e mostra em tempo real a atualizacao destes dados para que todos da turma possam acompanhar o desenvolvimento dos colegas com o CaoPanheiro, deste modo, caso alguma crianca falhe em algum dos pontos a serem cuidados, os outros poderao entrar em contato com ela por meios de comunicacao externa ao aplicativo, como redes sociais, grupos de conversa ou ate por ligacoes. Para monitoramento do animal, estimulando assim, o trabalho em grupo entre os alunos.
+O aplicativo possui duas visoes. A do professor e a do aluno. O professor pode adicionar as configuracoes de cada turma: Os alunos participantes, definir o aluno que levara o CaoPanheiro no dia, checar a porcentagem de cuidados recebidos por aluno e a porcentagem total da turma. A visao do aluno, permite apenas que o aluno acesse a sua turma atraves de um login e senha previamente configurados pelo professor, para que este aluno nao fique muito preso ao celular e deixe de lado suas necessidades, servindo apenas para checar de tempos em tempos como o CaoPanheiro esta sendo cuidado e a porcentagem de cuidados total da turma.
+Durante todo o processo do projeto, ao final do dia de cada aluno, sera atribuida uma porcentagem de quanto o CaoPanheiro foi bem cuidado pelo aluno do dia que sera visualizada apenas pelo professor, juntamente com uma porcentagem geral de como toda a turma vem cuidando dele a porcentagem total estara visivel tanto para os professores como para os alunos. Ao final do projeto, a partir de uma porcentagem minima atribuida previamente peloa professor, se a turma tiver alcancado esse valor, oa professor responsavel levara os alunos para uma visita de campo em algum abrigo local para que eles possam ouvir dos funcionarios como sao feitos os resgates, como eles sao tratados e como os alunos podem contribuir para melhorar as vidas dos animais, e possivelmente, incentivando a adocao de animais ao inves da sua compra. Caso a turma nao alcance a porcentagem minima atribuida previamente, fica a cargo doa professor e de seu tempo em sala se sera possivel repetir o projeto na mesma turma. Assim como fica a cargo doa professor acrescentar mais atividades diarias envolvendo o projeto. Como por exemplo, cada aluno, ao final do seu dia, faria um relatorio de como foi cuidar do CaoPanheiro, suas maiores dificuldades e alegrias.
+
+Viabilidade
+Para o prototipo inicial do projeto, utilizaremos um Arduino Mega com sensores de aproximacao, de toque, de luminosidade, buzzer e acelerometro para, respectivamente, sentir a presenca do dono por perto; poder identificar quando e alimentado; identificar quando as luzes estao acesas ou apagadas para poder dormir, alem de uma base como uma cama, onde ele sera recarregado enquanto dorme; emitir sons que indicam suas necessidades; indicador de aceleracao para que o dono possa passear com ele.
+Para o prototipo do aplicativo em que os colegas de sala vao acompanhar o dia-a-dia do cachorro, fizemos um prototipo inicial em adobe XD para melhor ilustrar nossa ideia. A visao do professor, onde este tera controle sobre a criacao e monitoramento das turmas esta em fase de prototipaçao tambem no Adobe XD para demonstrar as duas versoes necessarias. Pretendemos implementar a solucao utilizando o Android Studio.
+Acreditamos que a utilizacao do CaoPanheiro va alem de sala de aula, nao limitando seu uso a professores e alunos. Podendo assim abranger um grande publico. Pais de criancas em idades semelhantes as que propomos anteriormente, podem se interessar e utilizar o CaoPanheiro para acompanhar e administrar seus filhos nos cuidados com os animais.
+
+**CONCLUSOES**
+
+Por meio deste trabalho, nos da equipe Caopanheiro, buscamos desenvolver uma soluçao que auxilie na conscientizaçao e reduçao do abandono de animais. Acreditamos que este projeto tem o potencial de impactar positivamente a vida de muitas crianças e animais, promovendo a adoçao e o cuidado responsavel como praticas essenciais para a construçao de uma sociedade mais justa e compassiva.

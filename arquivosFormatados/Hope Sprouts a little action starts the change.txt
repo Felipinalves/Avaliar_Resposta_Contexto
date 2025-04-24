@@ -1,0 +1,158 @@
+**INTRODUCAO**
+
+Os efeitos da mudança climática cada vez mais afetam a vida humana em sociedade, em
+todos os continentes, incluindo a fauna e a flora global. Recentemente, as enchentes na
+região Sul do Brasil e a seca na região Norte surgem como fenômenos ambientais
+inusitados e que geram impactos extremos, mas que podem ser previstos com o auxílio
+de modelos de projeções climáticas e da tecnologia .
+
+Segundo o Relatório de Riscos 2022-2023, elaborado pelo Fórum Econômico
+Mundial , entre os riscos mais graves para os próximos 10 anos,
+categorizados entre econômicos, ambientais, geopolíticos, sociais e tecnológicos, está a
+crise de recursos naturais, os desastres naturais e eventos climáticos extremos, a perda
+da biodiversidade e o colapso do ecossistema.
+
+Os 17 Objetivos de Desenvolvimento Sustentável (ODS) surgem como pontos
+cruciais para direcionar a atenção da sociedade para as ações de proteção do meio
+ambiente e do clima, a fim de garantir o bem estar a todas as pessoas em todos os
+lugares. Dentre os ODS, destaca-se, neste trabalho, a ‘Ação contra a Mudança Global do
+Clima' (ODS-13) que visa adotar medidas urgentes para combater as alterações
+climáticas e seus impactos [ONU s/d].
+
+Neste sentido, é importante reforçar o papel de todas as pessoas para a realização
+de ações possíveis a fim de promover o acesso seguro à informação em busca da
+consciência coletiva. Assim, para despertar o desejo de realizar ações sustentáveis, este
+trabalho pretende disponibilizar informações de forma amigável e divertida para a
+formação de uma comunidade e de uma identidade grupal: “os sprouts” (os brotos).
+
+O objetivo desta proposta é desenvolver um website para visualização de dados
+de temperatura e umidade do ar, capturados a partir de sensores eletrônicos conectados a
+um microcontrolador Arduino. A interação será mediada por um personagem que usará
+linguagem acessível e imagética, a partir do diálogo com o público. Os dados
+meteorológicos serão armazenados e ilustrados por meio de gráficos e tabelas para
+serem comparados e validados com dados oficiais, como Inmet .
+
+A seguir, será apresentada a metodologia adotada para o desenvolvimento da
+página e do circuito eletrônico, a justificativa da proposta, a solução e o cenário de uso,
+a viabilidade da proposta e os links para o protótipo e o vídeo-demo.
+
+**METODOLOGIA**
+
+O desenvolvimento do projeto surge da junção de software e hardware, com base nas
+experiências de estudantes do ensino médio e superior de cursos das áreas de tecnologia,
+informática e design. Foi adotada a metodologia Design Thinking, utilizada para o
+desenvolvimento e criação de novos produtos, serviços, processos ou para resolver
+problemas.
+
+A plataforma Figma® foi utilizada para a criação do website e o
+desenvolvimento da identidade visual, com foco na usabilidade voltada para o público
+infantil. A escolha das cores se deu a partir de uma paleta de cores com prevalência de
+tons pastel. O personagem se chamará “sprout”, que significa brotos, em alusão ao
+público do projeto e à importância em se preocupar com a temática desde a infância.
+Este personagem acompanhará a criança durante todo o processo de aprendizado e o
+diálogo com o público será feito com balões de fala.
+
+Para a geração de elementos digitais, foi adotado o Adobe Illustrator que
+permitirá a criação de gráficos vetoriais de alta qualidade, enquanto o Blender
+possibilitará modelagem e animações 3D e 2D estilizadas. Combinados, estes softwares
+garantem um design atrativo e uma experiência de aprendizado envolvente para as
+crianças. O objetivo é proporcionar uma plataforma intuitiva e de fácil compreensão,
+que, apesar de abordar um tema sensível, permita que os jovens se divirtam enquanto
+aprendem sobre como promover mudanças no mundo.
+
+O website receberá dados meteorológicos obtidos diretamente pelo sensor digital
+de temperatura e umidade do ar referência DHT22, conectado a um resistor e à entrada
+analógica do microcontrolador Arduino Uno  em uma base de
+prototipagem (protoboard), permitindo o monitoramento e em tempo real das condições
+ambientais. O sistema facilita a captação contínua de informações relevantes ao projeto
+que podem ser utilizadas para analisar e prever as alterações climáticas. A integração do
+Arduino torna o processo mais eficiente e acessível, fornecendo dados confiáveis.
+
+Os dados capturados pelo sensor de temperatura e umidade do ar ficam
+disponíveis na tela do Serial Monitor da IDE (Integrated Development Environment) do
+Arduino Uno e ficarão salvos em um arquivo csv (comma-separated values) que é um
+tipo de arquivo que armazena os valores separados por vírgula. Os gráficos serão
+gerados a partir do código escrito em Python usando as bibliotecas Pandas que facilitam
+a manipulação dos dados.
+
+**JUSTIFICATIVA DA PROPOSTA**
+
+Ao longo do ano, as mudanças climáticas são perceptíveis em alguns lugares, mais do
+que em outros nas diferentes regiões brasileiras. No Distrito Federal, localizado na
+região Centro-oeste do Brasil, é comum experimentar o frio pela manhã, seguido do
+aumento da temperatura e da queda da umidade ao longo do dia e, novamente, a redução
+de temperatura ao anoitecer e madrugada. Essa variação ocorre, principalmente, nos
+meses de maio a setembro e gera o aumento de casos de alergias e outros sintomas
+diversos, como olhos e nariz ressecados e coriza . Como consequência, o
+quadro de saúde da população brasiliense é afetado, principalmente entre crianças e
+jovens, que por vezes ficam ausentes das atividades escolares.
+
+A interferência da variação climática afeta não somente a saúde das pessoas, mas
+também a natureza. A escassez de chuvas no período, especialmente na região do
+Cerrado, que já apresenta um ambiente naturalmente seco, é ainda mais agravada.
+Considerando o público do projeto sendo crianças, será criado um personagem para
+interagir sobre a importância do enfrentamento às mudanças climáticas utilizando dados
+reais, a fim de conscientizar sobre questões de sustentabilidade, a partir de bons hábitos
+e novas rotinas, como ter sua própria horta e fazer a separação adequada de resíduos.
+
+**SOLUÇÃO PROPOSTA E CENÁRIO DE USO**
+
+A interface foi desenvolvida em formato de website, mas possui responsividade e
+permite o acesso com dispositivo móvel graças aos recursos disponíveis no Figma,
+incluindo a criação de componentes reutilizáveis, prototipagem interativa e animações,
+além de biblioteca de plugins que ampliam as funcionalidades. O Figma oferece uma
+ampla gama de recursos, incluindo a criação de componentes reutilizáveis, prototipagem
+interativa e animações, além de uma vasta biblioteca de plugins que ampliam suas
+funcionalidades.
+
+O website inicia com as boas vindas para conhecer a proposta e ingressar na
+missão, conforme Figura 1, em que é possível visualizar alguns dados de umidade e
+temperatura. Inclui botões de escolha para avançar e retroceder, além de acessibilidade,
+como mudança de idioma, ajustes de contraste e variação do tamanho da fonte.
+
+A interface foi desenvolvida para ser disponibilizada para públicos de diferentes
+idiomas: portuguesa, inglesa e espanhola. A escolha de cada idioma é feita pelo ícone da
+bandeira correspondente ao país que sugere a língua utilizada.
+
+O personagem do projeto é um broto de feijão em tom vermelho, cuja origem se
+deu nas Américas e que serviu de inspiração para a criação da narrativa a partir das
+práticas escolares quando se aprende sobre germinação, utilizado o feijão junto com
+algodão. A persona é descrita como uma criança de 10 anos, entusiasmada e cheia de
+energia, que adora compartilhar seu conhecimento e ama a natureza. Gosta de brincar ao
+ar livre e está sempre disposta a ajudar. Tem o hábito de separar corretamente os
+resíduos, reduzir o consumo de alimentos industrializados e reciclar os materiais que
+utiliza no seu dia a dia.
+
+As próximas telas dão início à jornada de conhecer para preservar com imagens
+e textos sobre conteúdos pertinentes ao tema enfrentamento às mudanças climáticas. É
+possível que o usuário já obtenha informações sobre temperatura na primeira tela, com
+um resumo do dia ou do horário.
+
+**VIABILIDADE**
+
+O projeto de um website conectado a um circuito para coleta de dados visa motivar o
+interesse de crianças para as questões climáticas e ambientais, pois possibilita a
+interação com o sistema visual e físico. A coleta dos dados será implementada em uma
+instituição pública de ensino médio e superior, em diferentes dias do ano e locais dentro
+da instituição, como salas de aula, corredores, áreas de convivência e o ginásio de
+esportes. Assim, será possível gerar um histórico de dados diários, semanais e mensais
+que serão usados para comparar com dados de fontes oficiais, como Inmet, o que
+também promove a integração entre as disciplinas de diferentes cursos por meio da
+abordagem STEAM do inglês Science, Technology, Engineering, Arts, Mathematics.
+
+O projeto está em andamento e as próximas etapas preveem a continuidade no
+desenvolvimento com a implementação dos recursos de acessibilidade web, como
+contraste de tela, ajuste no tamanho da fonte e áudio para alcançar crianças que estão
+em fase de alfabetização. O protótipo ainda não foi avaliado com os usuários e a fase de
+testes está prevista para ser realizada em uma escola pública do Distrito Federal, com
+crianças de 8 a 9 anos de idade, mediante termo de consentimento dos responsáveis e da
+instituição.
+
+Por fim, considerando que a escola é o ambiente onde as crianças passam a
+maior parte de suas semanas, essa iniciativa incentivará os estudantes a desenvolver uma
+maior percepção de seus arredores e a entender como suas ações impactam o mundo ao
+seu redor.
+
+**CONSIDERACOES FINAIS**
+
+O projeto "Hope Sprouts" demonstra o potencial da tecnologia e do design para engajar crianças na temática das mudanças climáticas, promovendo a conscientização e incentivando a adoção de hábitos sustentáveis. A combinação de dados reais, visualização amigável e narrativa envolvente busca criar uma experiência de aprendizado significativa e impactante, preparando as futuras gerações para enfrentar os desafios ambientais do século XXI.

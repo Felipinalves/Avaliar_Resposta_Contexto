@@ -1,0 +1,156 @@
+**RESUMO**
+
+Grandes modelos de linguagem (LLMs) podem ajudar a recuperar as
+informaçoes para responder perguntas, construir imagens e audios, e auxiliar
+em atividades complexas como o design de visualizaçao de dados. Este ultimo
+requer conhecimentos especificos que podem estar disponiveis na internet e uti-
+lizados para treinar LLMs. Este trabalho investiga a capacidade do ChatGPT
+para auxiliar no design de visualizaçao de dados. Conduzimos uma avaliaçao
+do modelo com base em metricas e planejamos expandi-la para entender a visao
+dos usuarios criadores de visualizaçao, sejam ou nao especialistas.
+
+**1. MOTIVAÇAO**
+
+O uso de grandes modelos de linguagem (LLMs) vem crescendo exponencialmente nos
+ultimos anos. Modelos como o Gemini, Bing Chat e ChatGPT permitem a interaçao
+com o sistema por meio de um chat, interpretar a linguagem humana, em varios idio-
+mas, e respondam da mesma forma. Esse processamento de linguagem natural (PLN)
+facilita o acesso da tecnologia a pessoas alfabetizadas e com algum letramento digital.
+Essas ferramentas evoluem para diminuir as barreiras existentes no uso: o GPT-40 com-
+preende nao apenas linguagem verbal escrita, mas tambem expressa por voz e imagem
+. O usuario pode recuperar as informaçoes utilizadas para o treinamento
+do modelo; gerar textos, imagens e audios; traduzir documentos; e realizar atividades re-
+petitivas ou complexas utilizando o modelo. No entanto, algumas atividades complexas,
+como o design de visualizaçoes de dados, ainda nao foram muito exploradas. Se bem trei-
+nados, os LLMs podem auxiliar no design de visualizaçao de dados, produzindo insumos,
+avaliando visualizaçoes ou gerando o produto final.
+
+Este trabalho objetiva investigar a capacidade do ChatGPT, modelo produzido
+pela OpenAI, em apoiar o design de visualizaçao de dados por pessoas especialistas ou
+nao. Essa analise pode revelar limitaçoes e oportunidades de melhoria em prompts e
+possiveis ajustes finos no modelo.
+
+Trata-se de um estudo interdisciplinar, que se baseia em conhecimentos das areas de design, visualizacao e de LLMs. Essa interdisciplinaridade permite que avaliemos a interacao desses usuarios com o sistema por meios de tecnicas pertinentes a area. 
+Este artigo apresenta a fundamentacao teorica (secao 2), com os conceitos e trabalhos que encontramos na literatura para nortear a metodologia (secao 3), definindo os procedimentos eticos (secao 4) necessarios para os resultados preliminares (secao 5) e finalizando com a proposta de cronograma para este trabalho (secao 6).
+
+**2. FUNDAMENTAÇAO TEORICA E TRABALHOS RELACIONADOS**
+
+Buscamos trabalhos relacionados nas areas de design, visualizaçao de dados e LLMs, vi-
+sando a responder duas perguntas principais: RQ1: “Como LLMs podem ajudar no design
+de visualizaçao de dados?”; e RQ2: “Como analisar as respostas do modelo no processo
+de design?" Em geral, encontramos investigaçoes sobre LLMs relacionadas a produçao,
+avaliaçao e melhoria da informaçao produzida pelos modelos em diversas areas, por
+exemplo, saude , educaçao  e empresarial .
+
+Encontramos diversos trabalhos sobre o uso de LLMs e de PLN para criar
+visualizaçoes resultando na implementaçao em codigo . Nesses trabalhos, o usuario inseria textualmente
+o seu objetivo para a criaçao da visualizaçao e o sistema retornava o codigo pronto para
+ser executado. No entanto, queremos investigar o processo de design de visualizaçoes:
+identificaçao do problema, ideaçao, avaliaçao da ideia e entrega do produto final.
+
+LLMs
+podem
+analisar textos
+e gerar uma avaliaçao,
+mesmo que nao tao precisa quanto no caso de realizaçao de um
+calculo . Tais capacidades podem auxiliar
+no processo de design, ajudando a responder perguntas, avaliar opçoes e gerar resultados.
+Alguns estudos utilizam tecnicas comuns da area de Interaçao Humano-Computador
+(IHC) para entender investigar a usabilidade ,
+como questionarios mais abertos sobre os modelos . Para o nosso
+trabalho, focaremos nas respostas do modelo, principalmente com relaçao ao conteudo
+e sua qualidade, seguindo algumas metricas definidas na literatura, analisando tambem
+metricas com usuarios especialistas ou nao.
+
+Kim et al. (2024) investigaram a qualidade do modelo para responder pergun-
+tas sobre visualizaçao de dados  e para avaliar as respostas do modelo
+ChatGPT focado no processo de design de visualizaçoes. Utilizaram perguntas do Vis-
+Guides para que o modelo gerasse opçoes de resposta. Eles classificaram as respostas
+do modelo em seis grupos, utilizados como metricas para avaliar as respostas do modelo,
+sao eles: cobertura: quao completa e a resposta em relaçao as partes da pergunta; foco:
+quao bem o modelo mantem o objetivo na resposta, em relaçao a pergunta; amplitude:
+capacidade do modelo em dar respostas alem do necessario de maneira complementar;
+clareza: quao facil e entender as respostas; profundidade: quao explicativa e a resposta
+sobre a escolha do tipo da visualizaçao; e aplicabilidade: capacidade de aplicar a resposta
+no contexto informado na pergunta .
+
+O nosso trabalho se difere do de [Kim et al. 2024] ao expandir a avaliacao do modelo para todo o processo de design de visualizacoes de dados. Aplicamos inicialmente as mesmas metricas para avaliar as respostas do modelo em todas as etapas do processo, mas iremos expandir a avaliacao considerando outras bases teoricas.
+
+**3. METODOLOGIA DE PESQUISA**
+
+Nosso trabalho consiste em avaliar as respostas do modelo sobre o design de visualizaçao
+de dados. Isso envolve identificar as etapas do processo de design, usar o modelo para
+responder as demandas, identificar um metodo de avaliaçao para o modelo e avaliar as
+respostas geradas com usuarios e com metricas existentes na literatura. Iteramos entre
+gerar informaçoes e avalia-las. Esse processo iterativo reflete um processo de design
+tipico, nao linear e mediante refinamentos sucessivos.
+
+Ate o momento, analisamos como o modelo responde perguntas iniciais e ava-
+lia as respostas que ele proprio gerou. Solicitamos que o modelo gerasse perguntas
+sobre visualizaçao utilizando um formato de cenario de uso que incluia um perfil de
+usuario e uma demanda (denominada “desejo”), segundo o formato abaixo: “Eu, como
+um [usuario], preciso [desejo], qual seria o melhor tipo de visualizaçao para fazer isso?”
+
+Para explorar a capacidade do modelo em gerar diversas opçoes, para cada per-
+gunta solicitamos 3 opçoes de resposta obedecendo a seguinte estrutura: tipo - nome do
+tipo da visualizaçao; descriçao - resumo da aplicaçao no contexto da pergunta; e variaveis
+variaveis necessarias para construir a visualizaçao com base na pergunta.
+
+Na fase de avaliaçao automatica das respostas, passamos como entrada para o
+modelo o que ele gerou: uma lista com 15 perguntas e 3 opçoes de resposta para cada,
+e pedimos que o modelo avaliasse cada uma das opçoes, retornando uma nota de 1 (nao
+recomendada) a 7 (totalmente recomendada) e afirmando o motivo da nota .
+
+Alem disso, o autor principal deste trabalho realizou uma avaliaçao manual das
+respostas do modelo nas duas fases, utilizando as seis metricas encontradas no trabalho
+de , em escalas de 1 (muito ruim) a 5 (muito bom).
+
+**4. PROCEDIMENTOS ETICOS**
+
+O trabalho ainda nao envolveu usuarios, mas no futuro avaliaremos partes do processo de
+design de visualizaçao de dados com pessoas especialistas ou nao na area. Esse projeto
+foi submetido e aprovado pela Camara de Etica em Pesquisa da PUC-Rio, que considerou adequados os procedimentos planejados, haja vista os riscos mınimos aos participantes
+e os benefıcios potenciais para as comunidades de pesquisa e pratica em visualizacao de dados. O uso de questionarios para avaliar a resposta do modelo com especialistas na area
+e a observacao de uso do modelo com pessoas nao especialistas, tecnicas comuns a area de IHC, podem ajudar a avaliar o avanco do estudo.
+
+**5. RESULTADOS PRELIMINARES**
+
+Pelo estudo realizado, identificamos que o ChatGPT e capaz de dar respostas textuais
+com clareza e foco quando recebe perguntas mais diretas e completas. O melhor de-
+sempenho do modelo ocorreu quando pedimos para ele avaliar uma lista de opçoes de
+visualizaçoes. As respostas do modelo para as perguntas iniciais obtiveram os seguintes
+resultados: o foco foi a metrica com maior media (3.84). Consideramos que as respostas
+produzidas foram claras (3.77) e faceis de serem entendidas por usuarios nao especialis-
+tas. As metricas de cobertura (3.6), amplitude (3.2) e profundidade (3.4) foram avaliadas
+de modo diferente, uma vez que no trabalho de  era avaliado o grupo
+de respostas para a pergunta e nao cada resposta individualmente. A nota mais baixa foi
+para profundidade porque as respostas sobre como usar a visualizaçao foram superficiais.
+Quando pedimos para o modelo avaliar as respostas para cada pergunta, julgamos que
+ele manteve o foco (4.56) e foi claro (4.47) ao explicar o motivo de cada nota no contexto,
+confirmando a noçao de que LLMs geram bons textos. A cobertura (4.22), profundidade
+(4.18) e amplitude (4.09) tambem apresentaram notas altas.
+
+Ao fim dessa avaliaçao preliminar, consideramos o modelo efetivo para gerar e
+avaliar respostas, conforme as metricas de avaliaçao de . Essa efeti-
+vidade foi aumentando ao decorrer do processo de pesquisa, a medida que refinamos
+os procedimentos e os comandos (prompts) fornecidos para o modelo. O resultado es-
+perado deste trabalho sao instrumentos para avaliar o quao bem um LLM (no caso, o
+ChatGPT) pode apoiar o design de visualizaçoes de dados, identificando pontos que aju-
+dem a usuarios nao especialistas a utilizar essas ferramentas. Esperamos ter um catalogo
+de comandos que ajudem a interagir de maneira eficaz com o modelo, como um guia de
+uso de LLMs para o design de visualizaçoes.
+
+**6. CRONOGRAMA**
+
+Com o prototipo atual, podemos avaliar os primeiros passos de um usuario criador de
+visualizaçao de dados durante o processo de designapos a identificaçao do perfil do
+usuario e do objetivo da visualizaçao: (i) realizar perguntas sobre qual visualizaçao utili-
+zar no contexto e (ii) pedir ao modelo para julgar qual a melhor em meio a uma lista de
+opçoes. Os proximos passos previstos sao:
+
+ago/2024: identificar as etapas do processo de design de visualizaçao de dados;
+ago/2024: identificar os metodos que apoiam cada etapa;
+set/2024: aplicar cada metodo com o apoio do modelo;
+out/2024: analisar as respostas do modelo com as metricas;
+nov/2024: analisar o uso por pessoas nao especialistas; e
+dez/2024: defesa da dissertaçao.

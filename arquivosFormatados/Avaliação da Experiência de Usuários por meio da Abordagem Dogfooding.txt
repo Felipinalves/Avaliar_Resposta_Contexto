@@ -1,0 +1,258 @@
+**RESUMO**
+
+A Experiencia do Usuario (UX) e um conceito que explora como uma pessoa
+se sente em relaçao a um produto ou serviço. Na avaliaçao de UX e possivel identificar
+problemas de forma antecipada ao lançamento de produtos, incluindo sugestoes de
+melhoria. Na literatura sao apresentados diversos relatos praticos sobre a aplicaçao de
+diferentes metodos de pesquisa para avaliar a UX de diferentes sistemas atraves de um
+conjunto de usuarios que representam o publico-alvo dos produtos. No entanto, poucos
+relatos sao apresentados sobre a avaliaçao de UX de produtos de software no cotidiano
+de pontenciais usuarios. Este artigo apresenta um relato das atividades que sao
+realizadas na avaliaçao de UX de dispositivos moveis por meio da abordagem
+Dogfooding, a qual propoe que os colaboradores das empresas usem os seus proprios
+produtos ou serviços em seu cotidiano. Esse relato visa contribuir com outros
+profissionais e pesquisadores de IHC que tenham interesse em compreender a
+contribuiçao de metodos de IHC atraves da abordagem Dogfooding, promovendo uma
+melhor interaçao entre a industria e a academia.
+
+**DESCRIÇAO DO PROBLEMA E CONTEXTO**
+
+A aceitaçao de consumidores sobre produtos de software desenvolvidos determinam o
+sucesso de tecnologias, sendo este um importante topico de pesquisa na industria .
+Neste aspecto, a Experiencia do Usuario (do ingles User eXperience - UX),
+um atributo de qualidade que considera, alem dos atributos relacionados ao uso,
+aspectos subjetivos, tais como o afeto, as sensaçoes, as emoçoes e o valor da interaçao
+do usuario no seu dia-a-dia , pode beneficiar no entendimento de
+profissionais e pesquisadores antes do lançamento de produtos no mercado.
+
+Na literatura sao apresentados diversos relatos praticos sobre a aplicaçao de
+diferentes metodos de IHC para avaliar a UX de um conjunto de usuarios que
+representam o publico-alvo dos produtos . No entanto, poucos relatos sao apresentados sobre o uso de
+produtos no cotidiano de potenciais usuarios em avaliaçoes de UX, sendo uma lacuna
+em relaçao a compreensao dos metodos de IHC que podem ser empregados nesse tipo
+de avaliaçao para uma melhor caracterizaçao das percepçoes dos usuarios.
+
+Por outro lado, a abordagem Dogfooding propoe que os colaboradores das
+empresas usem os seus proprios produtos ou serviços em seu cotidiano ,
+o que permite um melhor entendimento sobre a UX destes. Com isso, as
+empresas podem melhorar seus produtos e serviços antes de dispo-los aos usuarios
+finais devido aos diferentes cenarios explorados, muitas vezes ate nao previstos por
+equipes de desenvolvimento de software. Alem disso, a abordagem Dogfooding
+contribui para a estrategia de marketing das empresas, pois os produtos ou serviços
+destes podem ser considerados com boa qualidade, dado que os proprios colaboradores
+o usam . Dogfooding tem sido adotado em diferentes empresas, como
+Apple, Facebook e Google .
+
+Diante deste contexto, surge o seguinte questionamento: Quais os metodos de
+IHC podem ser aplicados na avaliaçao da UX de dispositivos moveis por meio da
+abordagem Dogfooding? Esse artigo discute algumas praticas que vem sendo aplicadas
+por especialistas em avaliaçao de UX, com o apoio da abordagem de Dogfooding, no
+Instituto de Pesquisas Eldorado, juntamente com o parceiro Motorola. Tais especialistas
+fazem parte da equipe de Integraçao de Software (IS) de dispositivos moveis.
+
+**MATERIAIS E METODOS ADOTADOS**
+
+Dentre os membros da equipe de IS, existe o papel do *User Experience lead*, o
+especialista em avaliaçao de UX, responsavel por acompanhar as experiencias relatadas
+por um determinado grupo de usuarios sobre um produto, provendo dados sobre o nivel
+de qualidade dos dispositivos. O relato pratico deste artigo e voltado para a visao desse
+profissional.
+
+O *User Experience lead* interage fortemente com a equipe de Dogfooding (DF),
+a qual e responsavel por planejar, executar e monitorar todas as atividades com os
+usuarios, chamados de *dogfooder*. Tal equipe tambem e responsavel por distribuir os
+dispositivos para os *dogfooders* utilizarem em seu cotidiano. Os *dogfooders* e a equipe
+de DF estao localizados no Brasil, Estados Unidos, India e China.
+
+O ciclo de avaliaçao dos produtos inicia com a analise dos requisitos minimos a
+serem atendidos, tanto no hardware quanto na versao do sistema operacional, antes de
+disponibiliza-los para os *dogfooders*. No ciclo de avaliaçao, que tem uma media de
+duraçao de tres a quatro meses, alguns metodos de IHC sao empregados para
+caracterizar a UX. Para uma melhor compreensao do emprego destes, as principais
+atividades que sao realizadas durante o ciclo de avaliaçao sao discutidas abaixo,
+sumarizadas na Figura 1.
+1. As versoes de software sao dispobilizadas semanalmente via *Over-the-Air*
+(OTA), ou seja, a atualizaçao e disponibilizada no proprio dispositivo. Essas
+versoes incluem a evoluçao das versoes do sistema operacional utilizado nos
+dispositivos moveis, o qual inclui correçoes dos principais problemas relatados
+pelos *dogfooders*, alem de melhorias realizadas pela equipe de desenvolvimento.
+
+2. Sobre os problemas de UX enfrentados pelos *dogfooders* em seu cotidiano,
+existe um aplicativo especifico do parceiro Motorola, chamado aqui de DF Bug.
+Esse aplicativo permite os usuarios registrarem problemas e sugestoes de
+melhoria, facilitando a comunicaçao dos *dogfooders* com as equipes envolvidas. O
+DF Bug tambem permite a coleta de dados de *crashes* que ocorrem nos
+dispositivos usados pelos usuarios, permitindo a equipe mensurar a estabilidade
+das versoes de software do sistema operacional.
+
+3. Duante o ciclo de avaliaçao sao realizadas reunioes semanais com os
+*dogfooders*, de forma remota, para compreender a percepçao destes com a
+evoluçao das versoes de software, visando compreender o nivel de qualidade de
+tais versoes e possiveis problemas nao enfrentados anteriormente. Em tais
+reunioes, diferentes membros das equipes envolvidas tambem participam para
+possiveis orientaçoes sobre as funcionalidades do sistema operacional.
+
+4. Em relaçao as *features* dos diferentes dispostivos moveis, a equipe de DF, em
+colaboraçao com a equipe de IS, enviam missoes especificas para os *dogfooders*
+explorarem estas em seu cotidiano. Por exemplo, a equipe pode enviar uma
+missao sobre o uso dos diferentes componentes relacionados a camera. Para tais
+missoes, os *dogfooders* podem obter pontos especificos em sua participaçao,
+estimulando-os a explorarem tais caracteristicas nos produtos.
+
+5. Com o objetivo de caracterizar a percepçao dos usuarios de forma quantitativa e
+qualitativa, sao realizadas *surveys* com o objetivo de coletar a percepçao dos
+*dogfooders* em alguns marcos definidos pelos gerentes das equipes envolvidas.
+Esses marcos ocorrem no inicio, metade e proximo ao fim do ciclo de avaliaçao.
+Assim e possivel comparar a percepçao dos usuarios com a evoluçao da qualidade
+da versao do sistema operacional.
+
+**DESCRICAO DO PUBLICO-ALVO**
+
+Tanaka et al. (2019) relata sobre algumas das atividades realizadas nos programas de
+DF. Para participar como um *dogfooder*, todos os colaboradores da empresa devem
+preencher um Formulario de Acordo de Confidencialidade. Apos isso, os *dogfooders*
+passam a fazer parte da base de dados e tem de esperar por um convite para participar
+dos programas. Em 2018, 4.000 colaboradores se inscreveram para os programas de DF
+de diferentes locais no mundo, como America do Norte, America Latina, China, Europa
+e Asia/Oriente Medio.
+
+Os grupos de usuarios para cada um dos programas de DF precisam refletir o
+publico-alvo dos produtos avaliados, por isso essa populaçao esta em diferentes locais
+do mundo e com diferentes perfis de formaçao, como engenheiros, administradores,
+marketing e outros. Com isso e possivel formar grupos de usuarios heterogeneos,
+trazendo uma melhor caracterizaçao da UX com os diferentes produtos avaliados.
+
+**RESULTADOS**
+
+Essa seçao apresenta uma visao geral dos dados obtidos em diferentes atividades da
+avaliaçao de UX atraves da abordagem Dogfooding.
+
+Registro de Problemas pelos Dogfooders
+Com o uso dos produtos no cotidiano dos dogfooders o uso do DF Bug vem se
+mostrando como um excelente suporte para o registro de problemas permitindo que as
+equipes envolvidas possam entender diferentes situacoes de uso Os problemas
+geralmente percebidos por tais usuarios estao relacionados aos aspectos pragmaticos
+como problemas relacionados ao uso da camera qualidade da bateria e performance do
+dispositivo O aplicativo DF Bug tambem permite a coleta de logs especificos para um
+problema reportado uma vez que nem todos os participantes possuem conhecimento
+tecnico para esse tipo de coleta Isso permite uma analise de forma direta ao que os
+usuarios reportam como problemas e indireta atraves da analise de logs Em relacao as
+missoes enviadas aos dogfooders essas promovem um maior numero de problemas
+reportados caso uma determinada feature do sistema operacional contenha problemas
+quanto ao seu uso No que se refere ao entendimento dos problemas reportados por parte
+das equipes envolvidas nem sempre esse fica claro sendo necessario que os dogfooders
+sejam contatados para esclarecimentos ou ate a reproducao do problema especifico
+Sobre os problemas reportados eles sao diretamente enviados para a equipe de
+triagem dos problemas a qual direciona os problemas para as diferentes equipes
+tecnicas O gerenciamento desses problemas sao apoiados pela ferramenta Jira Apos os
+problemas serem encaminhados para a equipe de desenvolvimento esses sao
+acompanhados pelo User Experience lead o qual monitora a sua resolucao para as
+proximas versoes de software sendo os usuarios instigados a observarem tal correcao
+quando disponibilizada na versao enviada aos dogfooders
+
+Reuniao Semanal
+As reunioes semanais sao conduzidas pelo lider do programa de DF juntamente com a
+equipe de IS e a equipe de desenvolvimento Em tais reunioes e apresentado o status da
+evolucao das versoes de software e os principais problemas que estao sendo analisados
+Apos isso os dogfooders relatam sua percepcao sobre a versao de software atual
+Nestas reunioes algumas vezes e usado o metodo focus group Franca et al
+2015 para alguma feature nova que vem sendo usada durante o programa Caso nao tenha nada em especifico para ser discutido o lider do programa DF questiona sobre
+diferentes areas do produto e se as correcoes que vem sendo realizadas estao sendo
+aceitas de forma positiva pelos dogfooders
+
+Survey
+O survey tem uma duracao media de tres dias Neste survey os dogfooders respondem
+um questionario que contem questoes fechadas e abertas Esse survey tambem estimula
+os dogfooders a reportarem problemas relacionados em que estes tenham percepcao
+negativa por meio do aplicativo DF Bug
+Os resultados do survey sao enviados para as equipes envolvidas no qual e
+apresentada a porcentagem de concordancia e discordancia sobre o uso de diferentes
+features do dispositivo movel Alem disso esse resultado tambem e apresentado para
+que todos os dogfooders compreendam a visao geral das opinioes sobre o produto
+
+Licoes Aprendidas
+Essa secao relata os metodos de IHC que vem sendo aplicados na avaliacao de UX dos
+dispositivos moveis com o apoio da abordagem DF alem da descricao de alguns
+desafios para os especialistas em avaliacao de UX
+
+Metodos aplicados na abordagem Dogfooding
+Sobre os metodos de avaliacao de IHC que vem sendo empregados pela abordagem DF
+observa se a experiencia por amostragem Rivero e Conte 2017 o qual permite os
+usuarios reportarem sua experiencia em um momento especifico do seu dia com o apoio
+do aplicativo DF Bug Caso nao houvesse esse suporte e os usuarios informassem os
+problemas apenas em reunioes os detalhes da ocorrencia dos problemas talvez nao
+pudessem ser registrados Alem disso no momento de registro dos problemas logs sao
+capturados do dispositivo facilitando o entendimento da equipe de desenvolvimento
+para a correcao do problema ou redesign de alguma feature
+Outro metodo de avaliacao de UX nessa abordagem e analise retrospectiva
+Rivero e Conte 2017 na qual os usuarios relembram informacoes sobre a experiencia
+que tiveram durante as reunioes semanais Isso tambem permite que outros usuarios
+verifiquem se o mesmo problema acontece em seus dispositivos promovendo um
+melhor entendimento por parte da equipe sobre seu impacto. O focus group tambem e
+utilizado durante as reunioes caso seja avaliada a necessidade de seu emprego Esse
+metodo vem contribuindo para a compreensao de diferentes visoes de um determinado
+aspecto do produto Por fim o survey tambem tem sido aplicado como metodo para
+analise de informacoes quantitativas em contraste com aspectos qualitativos dos
+produtos avaliados sendo possivel prever qual seria a percepcao de consumidores com
+aqueles produtos caso recebessem a versao de software avaliada.
+
+Na visao de praticantes da avaliaçao de UX, o uso dos metodos que vem sendo
+empregados na abordagem de DF se mostram satisfatorios e relevantes, sendo possivel
+prever possiveis experiencia negativas que seriam percebidas pelos consumidores finais
+de um produto. Essas experiencias geralmente nao sao percebidas pela equipe de
+desenvolvimento, ressaltando o quanto a avaliaçao de UX contribui para a aceitaçao de
+produtos. Os resultados mostram confianca para as equipes envolvidas com a entrega
+destes produtos aos usuarios finais.
+
+Analise direta e indireta dos problemas
+A analise direta dos problemas ocorre pelos relatos que os dogfooders enviam atraves
+do aplicativo DF Bug Na maioria das vezes os problemas relatados sao condizentes
+com os logs capturados durante o seu registro sendo este tipo de analise considerado
+como analise indireta dos problemas Porem nota se algumas divergencias nestas duas
+analises Por exemplo um usuario reporta que existe um problema quanto a duracao de
+bateria de um dispositivo movel mas ao analisar os logs coletados nota se que nao
+existe tal problema Talvez essa percepcao seja devido ao uso de produtos anteriores
+que continham um maior potencial de duracao na bateria
+Ainda sobre a analise indireta em alguns momentos sao gerados relatorios a
+partir da coleta de dados dos grupos de usuarios Tais relatorios indicam por exemplo a
+quantidade de crashes que ocorreram durante o uso de uma versao de software ou o
+aumento de temperatura do dispositivo sendo estes em alguns momentos nao
+percebidos pelos usuarios Nesses casos o User Experience lead questiona se esse
+usuario notou algo e sugere a observacao de tal comportamento Isso e realizado para
+que se compreenda como esse tipo de problema pode ser percebido por algum usuario
+final alem de compreender sua severidade
+
+Esclarecimento de informacoes por parte dos usuarios
+Em relacao a descricao dos problemas enfrentados no cotidiano dos dogfooders os
+lideres de programas DF incentivam e apresentam bons exemplos para tais relatos
+atraves do aplicativo DF Bug No entanto observa se alguns relatos com baixa
+qualidade de escrita para o entendimento de um problema Isso pode permitir que o
+problema seja analisado de forma incorreta pela equipe de desenvolvimento Para tais
+casos adotou se a pratica do User Experience lead se colocar no lugar do usuario e
+buscar compreender como tal problema acontece juntamente com tal usuario
+incentivando o a descrever mais detalhes sobre reproducao do problema enviando
+imagens e video quando possivel Existem casos em que tais problemas ocorrem apenas
+uma vez fazendo com que o usuario passe a monitora lo para um novo registro atraves
+do aplicativo DF Bug
+Na perspectiva dos usuarios observou se que essa pratica nao promove
+desconforto e sim motivacao para os dogfooders colaborarem com a avaliacao dos
+produtos que sao produzidos na organizacao que eles atuam Isso e importante para a
+qualidade dos produtos pois os usuarios selecionados para os programas de DF
+possuem caracteristicas que caracterizam os usuarios finais
+
+Consideracoes Finais
+Esse artigo apresentou uma visao geral das atividades de profissionais que atuam na
+avaliacao de UX de dispositivos moveis do Instituto de Pesquisas Eldorado o qual
+descreve os metodos de IHC que vem sendo aplicados alem de alguns dos desafios
+enfrentados durante a execucao dos programas de Dogfooding Tais metodos
+contribuem com a melhoria da qualidade dos produtos fazendo com que os usuarios
+finais possam receber dispositivos moveis que promovam experiencias positivas Esse
+relato tambem visa contribuir com outros profissionais e pesquisadores de IHC que
+tenham interesse em compreender parte das atividades realizadas por especialistas em
+avaliacao de UX com a abordagem Dogfooding promovendo uma melhor interacao
+entre a industria e a academia
+
+
+**CONSIDERAÇOES FINAIS**
+
+Em resumo, este artigo apresentou um panorama abrangente de como a abordagem Dogfooding pode ser empregada de forma eficaz na avaliaçao da experiencia do usuario (UX) em dispositivos moveis. Ao permitir que os proprios colaboradores da empresa utilizem os produtos no seu dia a dia e reportem problemas e sugestoes de melhoria, a abordagem Dogfooding se revela uma ferramenta valiosa para a identificaçao de falhas e oportunidades de aprimoramento. A combinaçao de metodos de IHC, como a experiencia por amostragem, a analise retrospectiva e o focus group, permite uma compreensao mais profunda e abrangente da UX, contribuindo para a entrega de dispositivos moveis que atendam as expectativas e necessidades dos usuarios finais.

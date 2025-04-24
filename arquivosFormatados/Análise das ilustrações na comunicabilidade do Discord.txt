@@ -1,0 +1,156 @@
+**RESUMO**
+
+Neste poster, apresentamos uma analise baseada na Engenharia
+Semiotica de ilustraçoes da landing page do Discord, um aplicativo inicial-
+mente projetado para o publico gamer. Na pesquisa, descrevemos as ilustraçoes
+e recriamos a metamensagem do designer captada com estes signos estaticos.
+Discutimos o poder expressivo das ilustraçoes e tambem possiveis impactos na
+comunicabilidade para pessoas fora do publico-alvo original.
+
+**INTRODUCAO**
+
+Neste trabalho apresentamos uma inspeçao semiotica das ilustraçoes presentes na landing
+page do Discord, um aplicativo de comunicaçao inicialmente projetado para uso pela
+comunidade gamer (jogador). Devido a sua versatilidade, ao longo dos anos, e principal-
+mente durante o periodo pandemico de COVID-19, a plataforma deixou de ser um apli-
+cativo restrito a pessoas com o interesse de interagir durante partidas de jogos, passando a
+ser, desde uma ferramenta de trabalho dentro de empresas [Fogaça and Gambarato 2020],
+ate um suporte virtual para o ensino online [Contreras-Espinosa and Eguia-Gomez 2022].
+
+O processo de inspeçao foi fundamentado na Engenharia Semiotica (EngSem)
+com o objetivo de avaliar parcialmente a qualidade da emissao da metacomunicaçao do
+designer, um tipo de comunicaçao que informa sobre aspectos da propria comunicaçao,
+codificada computacionalmente no preposto do designer, i.e, a interface do sistema
+[Barbosa et al. 2021]. Para esta analise, foram inspecionadas apenas as ilustraçoes pre-
+sentes na pagina web. Neste contexto, a qualidade da metacomunicaçao e conhecida
+como comunicabilidade, que e a capacidade de um sistema interativo comunicar as de-
+cisoes tomadas pelo designer e os principios de interaçao resultantes das suas decisoes
+para o projeto de design, possibilitando que o usuario entenda a interface tal qual ela foi
+planejada pelo projetista [Barbosa et al. 2021].
+
+Na EngSem, a mensagem do designer (metamensagem) e transmitida atraves
+de signos, que podem ser classificados em tres tipos: estaticos (comunicam o estado
+do sistema, como menus, campos de um formulario, icones); dinamicos (comunicam
+relaçoes temporais e causais de um sistema, por exemplo, signos que mudam com o
+tempo ou a partir de interaçoes); e metalinguisticos (signos que comunicam sobre ou-
+tro signo, por exemplo, explicaçoes sobre elementos da interface e mensagens de alerta)
+[Barbosa et al. 2021].
+
+Nesta pesquisa, nosso intuito foi entender, do ponto de vista da metacomunicaçao,
+como o uso de ilustraçoes pode influenciar na percepçao do usuario e no seu sentimento
+de identificaçao com o Discord, visto que estas desempenham um importante papel na
+construçao da identidade e da percepçao do conceito de tribo [Palmela 2016]. Portanto,
+o objetivo principal desta pesquisa e analisar a comunicabilidade da landing page do
+Discord, tendo como parametro as ilustraçoes presentes na interface.
+
+De forma geral, pode-se afirmar que uma landing page e um grande signo meta-
+linguistico, pois ela so existe para “falar sobre” o sistema que ela representa. Por isso, no
+contexto desta pesquisa, nao faria muito sentido falar em signos metalinguisticos da lan-
+ding page do Discord (algo como signos que explicam signos na propria landing page).
+Por outro lado, as ilustraçoes presentes na landing page sao todas imagens estaticas. As-
+sim, como o foco da pesquisa sao as ilustraçoes, foram investigados apenas os signos
+estaticos da pagina inicial da landing page do Discord.
+
+**O Discord**
+
+O Discord e um aplicativo muito popular, que, apenas na Play Store, possui mais de
+cem milhoes de downloads. A landing page do Discord foi escolhida para analise, pois
+contem uma grande incidencia de ilustraçoes (signos estaticos) como recurso comunica-
+tivo para transmissao da metamensagem.
+
+O objetivo apoiado pela pagina, como e de praxe de uma landing page, e de captar
+usuarios para outras aplicaçoes, e pensando assim, e muito importante que a comunicaçao
+da sua mensagem seja bem sucedida, pois, caso contrario, elas poderiam influenciar dire-
+tamente no sucesso do aplicativo.
+
+Os usuarios dessa interface sao pessoas interessadas por tecnologia, que gostam
+de interagir com varias outras em simultaneo, seja por chamadas de voz ou de video; com
+interesses relacionados a ilustraçoes, jogos, programaçao e areas afins, que gostam de
+participar de grupos sobre conteudos diversos no mesmo lugar, que tenham a possibili-
+dade de construir e se expressar por perfis publicos, que demonstram as suas afinidades e
+gostos particulares. A landing page procura apresentar de forma chamativa e eficiente as
+funcionalidades do aplicativo, a fim de convencer o usuario a efetuar o seu download.
+
+**Metodologia**
+
+Para guiar a inspeçao, foi estabelecido o seguinte cenario: Thais Lima acaba de comple-
+tar 18 anos, ela e paulistana e recentemente recebeu a noticia que mais aguardava, a
+sua aprovaçao no vestibular para cursar Design de Moda na universidade que sempre
+sonhou. Por conta disso, Thais precisou mudar-se para a cidade onde esta localizada a
+faculdade, separando-se dos seus familiares e amigos, que permaneceram em Sao Paulo.
+Embora ela tenha conhecido varios outros estudantes e feito novas amizades, Thais sente
+falta dos amigos que deixou para tras. Logo, ela passou a buscar maneiras praticas de
+se reunir virtualmente com eles, para manter um contato forte e divertir-se em grupo,
+seja jogando, conversando ou realizando alguma outra atividade. Em sua procura, ela
+deparou-se com a landing page do Discord, acessando-a a fim de entender se o aplicativo
+serviria para o que ela precisava.
+
+**Analise de ilustraçoes**
+
+Na pagina inicial da landing page do Discord existem exatamente 6 ilustraçoes, as quais
+serviram de base para a inspeçao semiotica desta pesquisa. Cada uma esta reproduzida
+na Figura 1. E possivel perceber que as duas primeiras sao desenhos representando cenas
+com personagens diversos (as duas compoem um banner central que contem tambem
+um texto e botoes para download e acesso ao Discord pelo navegador). Todas as outras
+imagens trazem algum tipo de reproduçao da interface do Discord, onde se percebem
+alguns recursos e funcionalidades do sistema. Entretanto, nao sao imagens do sistema
+apenas. Todas elas estao acompanhadas de desenhos coloridos, representando objetos e
+pessoas ou personagens.
+
+**Reconstruçao da metamensagen**
+
+Apresentamos a seguir a metamensagem do designer reconstruida observando exclusiva-
+mente as ilustraçoes disponiveis na pagina principal da landing page. Ao longo do texto
+sao indicadas entre colchetes as areas das ilustraçoes que evidenciam as afirmaçoes.
+
+Eu acredito que voce seja uma pessoa que gosta de estar em grupos, realizando
+atividades diversas, interagindo com pessoas diferentes ou apenas passando um tempo de
+qualidade com outrem , que, assim como voce, tem conhecimentos sobre jogos e que
+gostam de estar por dentro de tendencias atuais . Acredito que voce seja uma pessoa
+que possui muitos gostos e que precisa ou quer fazer diferentes atividades . Para te
+dar uma ideia do que o Discord pode fazer por voce e nao ficar na mesmice, apresento
+cada recorte da interface acompanhado por ilustraçoes, deixando-os mais interessante,
+servindo tambem como uma forma de te representar enquanto usuario , porque voce
+gostaria de ter alguma noçao sobre a interface do aplicativo de forma pratica, mas para
+nao correr o risco de fazer voce achar que a interface do Discord e pouco atrativa, decidi
+mostra-la de uma forma diferente, que julgo ser mais atraente . Acredito que voce
+gostaria de entender de forma facil e ilustrativa como ocorre uma chamada de voz pelo
+aplicativo e saber que tem a possibilidade de conversar com outras pessoas atraves
+de chats de voz , tendo a opçao de silenciar o seu microfone , e que pode organi-
+zar diferentes chats para cada tipo de assunto, gosto ou atividade . De forma similar,
+voce gostaria de ter uma representaçao de como funciona uma chamada de video, tanto
+no computador quanto no celular , onde voce pode sentir-se representado conver-
+sando com seus amigos, que escolhi ilustrar como sendo unicos e especiais, divergindo
+uns dos outros para reforçar a ideia da interface de valorizar a unicidade de cada um
+. Por fim, acredito que voce tambem gostaria de ver como e importante para o apli-
+cativo que voce possa personalizar seu perfil de acordo com seus interesses e atividades
+. Acredito que voce vai entender mais facil essa funcionalidade se eu representar
+esses dois cortes da interface juntos . Penso portanto que acompanhar explicaçoes
+da interface pode ser chato e que com ilustraçoes divertidas, voce possa entender melhor
+a explicaçao e despertar seu interesse pelo sistema.
+
+**Consideraçoes finais**
+
+Este poster buscou apresentar o uso adaptado e nao convencional da Engenharia
+Semiotica, durante a inspeçao das ilustraçoes na landing page do Discord. Vimos como
+o uso das ilustraçoes pode ser bastante expressivo, no sentido de ser possivel captar
+varias intençoes comunicativas do designer, tornando-se, portanto, um recurso adicional
+na construçao dessa mensagem.
+
+Porem, apesar de a interface se comunicar bem com um publico especifico ao qual
+ela foi projetada (especialmente jovens e ligados a tecnologias e jogos), ela nao acompa-
+nha o crescimento evidente da diversidade de usuarios (com seus diferentes propositos,
+tribos, faixas etarias etc.) que apropriaram-se do aplicativo. Por isso seria interessante
+repensar a comunicaçao visual das ilustraçoes, que poderiam ser melhor elaboradas a fim
+de representar melhor os possiveis casos de uso do aplicativo.
+
+Como trabalho futuro espera-se inspecionar as demais partes da landing page do
+Discord, que ficaram de fora nesse primeiro momento. Outra possibilidade de pesquisa e
+analisar, para alem das ilustraçoes, as animaçoes presentes na pagina, alem da inspeçao
+da interface do proprio Discord (que tambem conta com ilustraçoes). O processo aqui
+utilizado tambem poderia ser replicado em outros sistemas interativos, que se apoiam em
+imagens, ilustraçoes e animaçoes como recursos comunicacionais.
+
+**CONSIDERACOES FINAIS**
+
+A analise semiotica das ilustraçoes na landing page do Discord revelou a intencionalidade do designer em comunicar uma mensagem especifica, direcionada ao publico gamer. No entanto, e importante considerar a diversidade de usuarios que utilizam o aplicativo atualmente, repensando a comunicaçao visual para abranger um publico mais amplo e inclusivo.

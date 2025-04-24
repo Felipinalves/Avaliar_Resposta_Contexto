@@ -1,0 +1,202 @@
+**RESUMO**
+
+Sistemas interativos estao cada vez mais presentes no
+cotidiano das pessoas, gerando novas demandas para
+interface e interacao. Exemplos de demandas sao aquelas
+derivadas de valores humanos, como: identidade de
+genero, privacidade e a necessidade de os sistemas
+fornecerem explicaçoes para as pessoas que os usam.
+Portanto, para ter sucesso, os profissionais que trabalham
+na area de Interaçao Humano-Computador (IHC) precisam
+ser cada vez mais sensiveis a esses valores.
+Infelizmente, ainda existem poucos recursos pedagogicos
+para ajudar os alunos de IHC a desenvolver essa
+sensibilidade. Buscando contribuir para a soluçao deste
+problema, neste trabalho, propoe-se e analisa-se o uso da
+estrategia pedagogica denominada Debate Estruturado.
+Com base nas pedagogias de aprendizagem ativa e
+aprendizagem colaborativa, o Debate Estruturado segue
+tres fases: 1) fase pre-debate, que consiste na preparaçao
+para o debate por meio da leitura de textos de referencia;
+2) execuçao do debate em sala de aula por meio de uma
+estrutura de perguntas, respostas, consideraçoes e
+movimentos na sala; e, 3) fase pos-debate, quando os
+efeitos do debate sao observados e contextualizados em
+novos conteudos da disciplina. Discutimos experiencias
+do uso da estrategia em cinco turmas da disciplina IHC em
+dois cursos de graduaçao: Sistemas de Informaçao e
+Engenharia de Software. Os resultados sugerem que o
+Debate Estruturado estimula e envolve os alunos com
+topicos de IHC sobre valores humanos.
+
+**INTRODUCAO**
+
+A medida que os sistemas computacionais se tornam mais
+presentes no cotidiano das pessoas, os profissionais que
+atuam com Interaçao Humano-Computador (IHC) precisam
+ser mais sensiveis aos valores humanos que se encontram
+em questao no contexto dos sistemas e aos fenomenos
+associados aos seus usos, pois ambos podem despertar
+novas demandas em interface e interaçao . Esse e o caso,
+por exemplo, das questoes de genero e de identidade de
+genero , dos diferentes perfis de preocupaçao com
+privacidade  e do aprendizado de tecnologia e por meio
+da tecnologia .
+
+O conteudo abordado na disciplina IHC se estende desde os
+arcabouços teoricos que guiam o projeto, implementaçao e
+avaliaçao de sistemas interativos ate a compreensao dos
+mais diversos fenomenos associados aos seus usos . O
+estudante deve desenvolver competencias e habilidades
+para lidar com situaçoes diversas, desde aquelas de
+conhecimento comum, as quais se aplica um racionalismo
+tecnico, ate aquelas mais singulares, provocadas por
+novos contextos e que requerem uma reflexao em açao. A
+aprendizagem nao se atem apenas as questoes tecnicas,
+envolve a capacidade de sentir e agir diante das demandas
+provocadas pelos novos contextos.
+
+A definiçao de estrategias pedagogicas que ajudem o
+estudante a desenvolver a sensibilidade para compreender
+e lidar com situaçoes de projeto envolvendo valores
+humanos ainda e um desafio a ser superado. Buscando
+contribuir com a analise de novos recursos pedagogicos
+que podem ser empregados no ensino de valores humanos
+em IHC, neste trabalho, propoe-se e analisa-se a
+estrategia de Debate Estruturado. A estrategia tem
+fundamentos nas pedagogias da aprendizagem ativa e
+aprendizagem colaborativa . Os objetivos deste estudo
+sao apresentar a estrategia e contextualizar o seu uso
+reportando experiencias obtidas ao aplica-la em turmas da
+disciplina IHC.
+
+O Debate Estruturado possui uma fase de preparaçao (pre-
+debate), uma fase de execuçao (dinamica em sala) e uma
+fase de analise (pos-debate). Cada debate tem como objeto
+de analise um valor humano em IHC, que e definido como
+o topico do debate. A fase de preparaçao consiste nos
+estudantes lerem artigos cientificos e escreverem analises
+tratando do topico. A fase de execuçao e guiada por uma
+sequencia estruturante de perguntas, respostas,
+percepçoes e movimentaçoes em sala de aula. Por fim, a
+fase pos-debate consiste na coleta de percepçoes,
+observaçao de comportamentos e instanciamento das
+discussoes nas aulas subsequentes ao debate.
+
+Conduziu-se o Debate Estruturado em 9 estudos de caso, com 5 turmas, sendo 2 turmas do curso Bacharelado em Engenharia de Software e 3 turmas do curso Bacharelado em Sistemas de Informacao. Os topicos dos debates incluem identidade de genero, privacidade em sistemas ubiquos, aprendizado por meio de tecnologia e a influencia de robos nas decisoes humanas. Entre os resultados, observa-se que a estrategia e eficaz em canalizar, para os topicos-chave da disciplina, a disposicao natural dos estudantes em discutir, dar opinioes e analisar perspectivas. O debate desenvolve, no estudante, sensibilidade aos pontos pros e contras de diversas situacoes de projeto de interface e interacao. Ao partir da leitura de artigos, a estrategia aglutina diversos conteudos estudados na disciplina, como fundamentos teoricos, diretrizes de projeto e avaliacao de IHC.
+
+BASE TEORICA E TRABALHOS RELACIONADOS
+
+Nesta secao, primeiro discute-se a aprendizagem ativa e colaborativa que sao os fundamentos teoricos da estrategia proposta. Apos isso, apresenta-se trabalhos relacionados ao ensino de IHC e ao uso do debate como estrategia pedagogica.
+
+Aprendizagem Ativa e Colaborativa
+
+A aprendizagem ativa e um metodo pedagogico que requer que os estudantes sejam envolvidos em atividades de aprendizagem que sejam significativas e que os levem a pensarem sobre o que eles estao fazendo e por qual razao. Nesse sentido, a aprendizagem ativa se contrasta com as tradicionais aulas expositivas nas quais o estudante recebe, passivamente, as informacoes do professor. Os elementos principais da aprendizagem ativa sao o engajamento e a atividade do estudante no processo de aprendizagem. A aprendizagem colaborativa, por sua vez, requer que os estudantes trabalhem juntos em grupos a fim de interagirem entre si para atingirem um objetivo. O elemento principal da aprendizagem colaborativa e a enfase nas interacoes entre os estudantes, em vez de o estudante aprender sozinho em uma atividade individual.
+
+O debate de topicos relevantes ao conteudo da disciplina remete a aprendizagem ativa quando o estudante e engajado ativamente na discussao questionando e respondendo questionamentos. Tem-se elementos de aprendizagem colaborativa quando os estudantes juntos precisam definir as questoes, perceber perspectivas, apresentar respostas e justificar suas escolhas na dinamica do debate em sala de aula.
+
+Trabalhos Relacionados ao Debate e Ensino de IHC
+
+Estrategias de debate em sala ja sao empregadas como recurso pedagogico em disciplinas de diversas areas do conhecimento, incluindo Sociologia, Medicina e Bioetica. Nessas disciplinas, a estrategia tem servido a diversos propositos, como: ajudar o estudante a desenvolver uma sensibilidade para questoes eticas, desenvolver a habilidade de falar em publico e ser capaz de pensar de forma critica sobre os topicos que norteiam o conteudo da disciplina. O uso da estrategia de debate como recurso pedagogico no contexto da disciplina IHC ainda e algo pouco mencionado na literatura.
+
+Pesquisadores tem buscado o emprego da aprendizagem ativa como meio para ensinar desenvolvimento de software as novas geracoes de estudantes. Em disciplinas de IHC, tres tipos de estrategias tem sido destacadas, sao elas: levar os estudantes a revisarem e discutirem historias que descrevem situacoes de projeto case history reviews; realizar estudos controlados nos quais os estudantes sao levados a resolverem problemas praticos problem solving cases; envolver os estudantes em situacoes em que eles precisam tomar decisoes buscando consenso e justificando suas escolhas decision-making cases. Apesar desses esforcos, ainda mostram-se necessarias estrategias que levem os estudantes a pensarem de forma critica o projeto, desenvolvimento e avaliacao de sistemas interativos que requerem cada vez mais sensibilidade para lidar com os valores humanos a eles associados.
+
+ESTATEGIA DE DEBATE ESTRUTURADO
+
+O Debate Estruturado parte de um topico que envolve valores humanos em interface eou interacao em sistemas interativos. Exemplos de topicos sao privacidade em redes sociais e socializacao de recem-chegados em comunidades online. A discussao do topico requer que o estudante se prepare e tal preparacao envolve a leitura de artigos de referencia, que sao textos que servem de base comum para o debate. Uma vez colocados o topico e os artigos, o debate e estruturado em tres fases: pre-debate, execucao e pos-debate. Uma visao geral dessas fases e apresentada na Figura 1 e elas sao descritas nos proximos paragrafos.
+
+Fase Pre-Debate.
+
+Trata-se da preparacao individual. Ela consiste em cada estudante ler os artigos cientificos geralmente 2 relacionados ao topico e escrever um documento de 1 pagina contendo 3 partes: a analise do artigo 1; b analise do artigo 2; e, c analise inter-relacionando os artigos 1 e 2 e apresentando as percepcoes gerais do estudante. Essa fase visa desenvolver no estudante as competencias basicas para participar do debate, que sao: dominar os principais conceitos associados ao topico, desenvolver uma opiniao acerca do topico, e ser capaz de levantar questoes e fazer analises criticas sobre o topico. O professor verifica nas analises escritas se as competencias foram desenvolvidas. Em caso positivo, o estudante esta preparado e participa da fase de execucao do debate. Os estudantes que nao fizeram recebem feedback individual do professor e podem apenas assistir a fase de execucao do debate.
+
+Fase de Execucao do Debate
+
+No dia do debate, no inicio da aula, os estudantes sao recordados sobre: 1 o topico que sera debatido e a importancia de nao fugir do topico; 2 as etapas do debate indicadas na fase de execucao na Figura 1; 3 a necessidade de articular uma fala que seja clara e de evitar insistirem sempre em ideias ja discutidas; 4 respeitarem as medicoes de tempo e nao emitirem opinioes ofensivas aos colegas eou aos direitos humanos; e, 5 usarem bem o tempo disponivel para as respostas.
+
+A sala e organizada de modo a favorecer o dialogo entre os estudantes. A Figura 2 exemplifica a organizacao usada. No estilo do Parlamento Britanico, os estudantes sao organizados em dois lados A e B, com aproximadamente o mesmo numero de membros. A existencia de dois lados tem como principal motivacao a alternancia das falas entre o lado A e o lado B e a busca por pontos e contrapontos na discussao do topico. Os estudantes podem se movimentar durante debate, mas os movimentos tem significados. Se o estudante levanta-se e senta-se logo em seguida, ele esta manifestando concordancia com quem esta falando; independente se e do seu lado ou do outro lado. Se o estudante levanta-se e assume uma cadeira no outro lado, ele demonstra que tende a concordar mais com as percepcoes colocadas por esse lado do que com as colocadas pelo lado em que se encontrava.
+
+A fase de execucao do debate tem 5 etapas Figura 1. O debate comeca com cada lado apresentando os pontos de vista iniciais sobre o topico a partir dos artigos lidos. Apos isso, na segunda etapa, o professor sorteia questoes elaboradas por ele sobre o topico. As questoes do professor sao previamente elaboradas, com base nos artigos de referencia e nas analises que os estudantes escreveram. Sorteia-se uma questao para o lado A, que a responde. Em seguida, faz-se o mesmo para o lado B. Na terceira etapa, cada lado pode fazer uma pergunta para o outro lado. Na etapa quatro, cada lado apresenta suas percepcoes sobre as respostas do outro lado, destacando os pontos positivos e os pontos negativos dessas respostas e eventuais aspectos que deveriam ter sido considerados e que nao foram. As etapas 2, 3 e 4 podem ser repetidas. Por fim, o debate e concluido com cada lado apresentando suas percepcoes finais.
+
+Ao longo do debate, o professor exibe aos estudantes slides que apresentam a etapa atual do debate, quem esta com a fala e por quanto tempo. Exemplo de slide usado neste guia e apresentado na Figura 3. Perguntas e respostas devem ser feitas dentro de um tempo maximo acordado previamente com os estudantes. Todas as etapas sao cronometradas.
+
+Fase Pos-Debate
+
+A fase pos-debate consiste na investigacao, observacao e registro dos resultados do debate. Na aula seguinte ao debate, os estudantes sao questionados sobre suas percepcoes acerca do debate. As discussoes ocorridas no debate podem ser contextualizadas em conteudos lecionados em aulas subsequentes ao debate, buscando facilitar a compreensao dos novos conteudos.
+
+RELATO DE EXPERIENCIAS EM 9 ESTUDOS DE CASO
+
+Metodo
+
+Este trabalho e um relato de experiencias. Os debates foram conduzidos em sala com o proposito de ensino de valores humanos. Apos observar-se a boa aceitacao e feedback dos alunos, a experiencia foi estruturada a partir de anotacoes diarias do professor para ser reportada. Portanto, segue-se uma abordagem naturalistica e qualitativa. Observacao naturalistica por nao envolver manipulacao de variaveis, nem tratamento experimental; os debates foram conduzidos e observados no seu acontecer natural. Qualitativo por focar no relatado do que se observa e nao na contagem ou medicao. Cada debate conduzido em uma turma e tratado como um estudo de caso.
+
+Contexto dos Estudos de Caso
+
+Os estudos de caso foram conduzidos em tres campi da PUC Minas. Foram nove debates, envolvendo 5 turmas de IHC dos cursos Bacharelado em Engenharia de Software ES e Bacharelado em Sistemas de Informacao SI. Ambos os cursos sao noturnos, possuem ao todo 8 periodos e tem IHC como disciplina obrigatoria, com carga horaria de 68 horas-aula. No curso de ES, a disciplina IHC encontra-se alocada no quarto periodo. O debate foi conduzido em 2 turmas, sendo uma turma no segundo semestre de 2017 2017-II e outra turma no primeiro semestre de 2018 2018-I. A primeira era composta de 11 estudantes e a segunda de 12 estudantes. No curso SI, a disciplina IHC esta alocada no quinto periodo. O debate foi conduzido em 3 turmas, sendo uma turma em 2017-II e outras duas turmas em 2018-I. A turma de 2017-II era composta por 18 estudantes. As duas turmas de 2018-I, por sua vez, eram compostas por 26 e 29 estudantes.
+
+A Tabela 1 apresenta os topicos debatidos, os artigos de referencia utilizados e as turmas e semestres nos quais os debates ocorreram. Os topicos e artigos foram escolhidos de modo a engajar os estudantes em discussoes atuais. Eles remetem a valores humanos, decisoes de projeto, tipos de interface, paradigmas de interacao e avaliacao de sistemas interativos. A seguir sao apresentados exemplos de questoes criadas e sorteadas pelo professor nos topicos debatidos:
+
+Pode-se dizer que a interface do sistema e sempre neutra e que nao ocasiona opressao de genero
+
+Se todos os usuarios de um sistema reportam que nao se preocupam com a privacidade sao unconcerned users, entao o designer do sistema e livre para tratar privacidade da forma como melhor lhe convier na interface e na interacao
+
+Na medida em que os sistemas tratam as individualidades dos estudantes e fomentam uma direcao personalizada de aprendizado para cada um deles, eles nao reduzem a socializacao e a cooperacao entre os estudantes
+
+Sistemas computacionais podem determinar as opinioes e acoes das pessoas por meio da interface e interacao providas, em que medida as pessoas estao sendo controladas atualmente e quais os riscos
+
+O topico do debate e os dois artigos de referencia foram informados aos estudantes com pelo menos 45 dias de antecedencia ao dia da entrega da analise escrita. A disponibilizao dessas informacoes, a entrega da analise escrita pelo estudante e o fornecimento de feedback pelo professor ocorreram via Sistema Academico. O debate em sala ocorrem na primeira ou segunda aula apos a entrega da analise escrita. Cada debate teve duracao de 1 hora e 20 minutos. Eles contaram entre 3 e 4,5 pontos do total de 100 pontos da disciplina. Essa pontuacao e por debate e inclui a analise escrita e a presenca no debate. Os estudantes foram pontuados pela completude em relacao ao solicitado e pela participacao, mas nao pelo opiniao que manifestaram no debate. Conteudos especificos dos artigos de referencia nao foram cobrados em prova.
+
+Resultados
+
+Esta secao apresenta as principais experiencias e resultados de cada fase do debate no conjunto dos estudos de caso.
+
+Fase pre-debate. Os estudantes demonstram preocupacao em fazer uma analise escrita que os habilitem para o debate. Durante essa fase, duvidas comuns reportadas sao sobre a nao compreensao de algum metodo empregado no artigo ou na limitacao de 1 pagina para escrever a analise. Houve tambem problemas com idioma ingles, pois os dois artigos de referencia do primeiro topico de 2017-II estao escritos em ingles. A partir dessa ocorrencia, nos debates seguintes, passou-se a utilizar artigos de referencia escritos em portugues. Em todos os debates realizados, na análises escritas, os estudantes demonstraram compreensao dos artigos e capacidade de discutir o topico. Entre a data de entrega da analise escrita e a data do debate, os estudantes criam expectativas e vontade de participar. Um estudante que ja estava faltando ha 3 aulas, compareceu ao debate e, no inicio da aula, ao ser questionado sobre as faltas anteriores, ele respondeu Eu estava atarefado com trabalhos, mas hoje eu vim por que hoje e dia de debate E2. Isso ocorreu no dia do segundo debate de 2018-I.
+
+Fase de execucao do debate. Os estudantes tendem a comecar o debate mais timidos e receosos sobre o que falar; isso e mais forte no primeiro debate do semestre letivo, quando e a primeira vez que os estudantes participam. Como esperado, as percepcoes iniciais apresentadas pelos estudantes sao mais restritas ao que foi lido nos artigos de referencia. As perguntas sorteadas logo no inicio do debate fazem com que a participacao intensifique. Ocorre, durante o debate, dos estudantes falarem de filmes, series, memes e noticias associadas ao topico de modo a reforcarem suas posicoes. Por exemplo, no debate sobre genero, falou-se sobre noticias de vagoes exclusivos para mulheres no metro do Rio de Janeiro, e, no debate sobre privacidade, falou-se sobre episodios da serie Black Mirror. No debate sobre robos sociais, falou-se sobre fake news na eleicao presidencial americana de 2016. Ha o risco que o debate fuja para topicos fora da IHC. Porem, na pratica, o que se observa e que essas relacoes e analogias sao importantes ao raciocinio que os estudantes tentam construir. Alem disso, os limites de tempo para resposta e a alternancia de perguntas incluindo perguntas do professor fazem com que o debate retorne ao topico de IHC. Sempre que ha uma pergunta sorteada, retorna-se ao foco da discussao.
+
+As perguntas feitas de um lado para outro e a analise das percepcoes acerca das respostas originam pontos e contrapontos. Os estudantes tendem a trazer para o debate os pontos que julgaram mais complexos ou os mais polemicos que encontraram quando leram os artigos ou quando ouviram as respostas dos colegas. Mudancas de participantes de lado sao pouco frequentes, ocorreram apenas em dois debates, sendo um sobre questoes de genero e outro sobre privacidade em sistemas ubiquos. Os estudantes frequentemente se levantam e sentam em seguida demonstrando concordancia com o que esta sendo dito. Quando o debate e muito acalorado, eles tendem a se esquecer dessas regras de movimentacao e comecam a falar em vez de se movimentar e, entao, precisam ser recordados para que o debate nao seja tumultuado com falas simultaneas.
+
+Fase pos-debate. Observa-se mudanca de percepcao dos estudantes acerca do quao complexo e polemico pode ser a discussao de um topico associado a um valor humano em sistemas interativos. Em relacao ao debate sobre aprendizado via tecnologia e por meio de tecnologia, um estudante disse: Eu sinceramente achei que esse debate seria sem graca, mas ficou intenso E1. Tambem se observa que os estudantes se engajam com os topicos a ponto de valorizar a aula do debate e a sugerir artigos para o proximo debate. Por exemplo, no periodo de definicao dos artigos de referencia para o segundo debate do semestre, um estudante enviou mensagens sugerindo um artigo que ele encontrou e que considerou relevante: Caso julgue o conteudo interessante, estou compartilhando para a inclusao como leitura sugerida para a preparacao do debate E3. Observa-se que apos o debate o estudante se sente mais a vontade para falar durante as aulas. A recordacao do debate pode superar um semestre. Em um dia de debate, o estudante E7, que cursou a disciplina no semestre anterior, passou em frente a sala e notou a organizacao das cadeiras e questionou Hoje tem debate de IHC Qual o topico E o de genero , recordando o topico debatido na turma dele.
+
+Discussoes, Implicacoes e Recomendacoes
+
+O Debate Estruturado deve coexistir com outras estrategias pedagogicas. Neste estudo, ele se mostrou robusto para ser aplicado no ensino de alguns conteudos de interface e interacao privacidade, questoes de genero, aprendizado, robos em redes sociais em turmas de Engenharia de Software e de Sistemas de Informacao. No entanto, ele nao se aplica a todos os conteudos trabalhados em IHC. Ele se soma as outras estrategias disponiveis. Por exemplo, nas turmas de 2018-I, outras praticas foram conduzidas em sala com os estudantes, como uma dinamica de cardsorting e a avaliacao heuristica de um sistema interativo. Videos, demonstracoes e trabalhos praticos de projeto e implementacao tambem foram empregados.
+
+Recomenda-se variar os topicos e artigos de modo a permitir uma discussao diferente a cada debate e semestre. Eles podem ser alterados de modo a refletir os valores humanos que estao em evidencia na comunidade, mantendo os debates atuais e envolventes. Isso ocorreu nas discussoes sobre privacidade em Internet das Coisas e sobre a forma como a interface do Facebook pode ser opressora para pessoas com determinada identidade de genero, 1o e 2o debates de 2017-II, respectivamente. A leitura dos artigos alinha as discussoes em sala com as discussoes mais recentes nas conferencias e familiariza os estudantes com o estilo de escrita e metodos empregados nos artigos da area, potencializando o seu aprendizado.
+
+Recomenda-se usar o debate como elemento integrador na formacao de competencias associadas aos valores humanos em IHC. O debate deve ser conduzido apos os estudantes ja terem familiaridade com alguns topicos da disciplina. Essa e a razao de ocorrerem apenas 2 debates por semestre, sendo o primeiro com quase dois meses de aula e o segundo proximo ao termino do semestre. O debate que ocorre proximo ao fim do semestre possibilita ao estudante articular e inter-relacionar os diversos conceitos, tecnicas e metodos estudados na disciplina.
+
+Recomenda-se empregar o debate de forma estruturada e focada. Pode-se questionar se o debate nao deve ser mais livre para interacao entre os estudantes e contendo diversos lados, em vez de apenas 2. Acredita-se que algum nivel de estruturacao e necessario para que as discussoes ocorram de forma ordenada, com preparacao previa e para que o debate se mantenha focado. E fundamental que o debate tenha apenas um topico chave e que seja norteado pela leitura de artigos.
+
+Por fim, e importante destacar que as ideias da aprendizagem ativa e da aprendizagem colaborativa presentes no Debate Estruturado buscam permitir que o estudante adquira novos conhecimentos a partir de seus conhecimentos e experiencias e que o motive a analisar as diferencas de opinioes e a tirar suas proprias conclusoes a partir do dialogo com os colegas. Assumir uma posicao e depois adapta-la a outras percepcoes e fundamental ao se lidar com valores que sao complexos. Isso e algo observado frequentemente ao longo do debate.
+
+**CONSIDERAÇOES FINAIS**
+
+Buscam-se constantemente novas estrategias pedagogicas
+que engajem os estudantes e os auxiliem no
+desenvolvimento de competencias e habilidades. Neste
+estudo, apresenta-se a estrategia de Debate Estruturado
+como uma alternativa no processo de ensino-
+aprendizagem de valores humanos em IHC. Descreve-se a
+estrategia e relata-se a experiencia com 9 debates
+conduzidos, em 5 turmas de 2 cursos de graduaçao.
+Experiencias com estudos de caso do Debate Estruturado
+sugerem que ele e capaz de engajar estudantes de IHC. Ao
+perceber os diversos pontos de vista acerca de um fator
+humano no sistema, o estudante desenvolve a
+sensibilidade para o topico, reconhecendo a existencia de
+diferentes percepçoes e alternativas de projeto para lidar
+com ele. O debate tambem funciona como elemento
+aglutinador, levando o estudante a inter-relacionar
+diversos conceitos de IHC, como os fundamentos
+teoricos, projeto e avaliaçao de sistemas interativos.
+
+Entre as analises que permanecem para serem feitas em trabalhos futuros estao: numero de debates mais adequado para se
+conduzir em um semestre de duracao da disciplina, conteudos
+da disciplina que possam ser adequados ao uso do debate como
+elemento aglutinador, nivel de aprendizagem dos estudantes
+quando se usa a estrategia de Debate Estruturado. Esperamos que este trabalho motive novas discussoes e estrategias
+pedagogicas para ensino de valores humanos em IHC.
+
+**CONSIDERAÇOES FINAIS**
+
+O Debate Estruturado se mostrou uma estrategia pedagogica promissora para o ensino e aprendizagem de valores humanos em IHC, incentivando o pensamento critico, a reflexao e a discussao entre os estudantes. A estrategia tambem contribuiu para a integraçao de diferentes conteudos da disciplina, proporcionando uma experiencia de aprendizagem mais significativa e contextualizada. Futuros trabalhos podem explorar a aplicaçao do Debate Estruturado em outros contextos e disciplinas, bem como investigar o impacto a longo prazo da estrategia na formaçao dos estudantes.

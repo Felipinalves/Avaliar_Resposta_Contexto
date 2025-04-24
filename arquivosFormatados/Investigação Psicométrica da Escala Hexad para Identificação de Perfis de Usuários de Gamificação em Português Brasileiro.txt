@@ -1,0 +1,85 @@
+**INTRODUCAO**
+
+Gamificaçao pode ser defnido como o processo pelo qual serviços, atividades e sistemas
+sao desenvolvidos ou personalizados para criar experiencias de usuarios motivadoras de
+forma similar a dos jogos . O uso de gamificaçao pela industria e acade-
+mia nos ultimos quinze anos cresceu levado especialmente por resultados positivos na
+experiencia dos usuarios ao usar esse tipo de sistema . Porem, resul-
+tados negativos tambem indicaram que apenas a aplicaçao da gamificaçao poderia nao
+ser suficiente para melhorar a experiencia do usuario, necessitando assim da criaçao de
+designs gamificados personalizados .
+
+Atualmente o uso de modelos de perfis de usuario ou jogador sao a forma
+mais utilizada para a personalizaçao da gamificaçao . Esses mo-
+delos de perfis de usuario e jogador tentam simplificar a complexidade dos usuarios,
+agrupando-os em grupos menores de acordo com suas preferencias ou motivaçoes
+. Dentre os modelos criados,
+se destaca o modelo Hexad , o primeiro a ser criado especificamente
+para a area da gamificaçao e baseado na teoria da autodeterminaçao, que classifica a
+motivaçao humana em intrinseca e extrinseca . No modelo Hexad,
+as pessoas sao agrupadas em seis perfis diferentes: Achievers (motivados por maestria),
+Socialisers (motivados por interaçoes sociais), Philanthropists (motivados por proposito),
+Free Spirits (motivados pelo desejo de explorar), Players (motivados por premios) e Dis-
+ruptors (motivados pelo desejo de mudança) .
+
+Para a avaliaçao de perfis de usuario do modelo Hexad, e indicado o uso da
+Escala Hexad , composta por 24 itens, onde quatro itens diferentes
+identificam um perfil de usuario. A escala do Hexad foi criada em 2015 originalmente
+em ingles  e logo depois traduzida e avaliada em outros idi-
+omas, como turco , espanhol ,
+alemao  e holandes
+. Em 2022, a partir de uma amostra composta majoritariamente por
+adultos, fomos pioneiros em estabelecer uma versao em portugues do Brasil, tornando
+esse o quinto idioma a receber a avaliaçao da traduçao da escala .
+Nessa primeira avaliaçao da escala em portugues do Brasil, foram identificados proble-
+mas em alguns itens (D3 e D4), alem da baixa participaçao de pessoas menores de 20
+anos.
+
+Dois estudos  focaram exclusiva-
+mente em analisar a escala com uma amostra exclusiva de adolescentes. Ambos es-
+tudos demonstraram problemas com a escala quando se considera a populaçao adoles-
+cente, o que indicou a necessidade de novos estudos com adolescentes. Considerando as
+limitaçoes indicadas na literatura, replicamos a avaliaçao da escala Hexad em portugues
+do Brasil  porem considerando uma amostra formada exclusivamente
+de adolescentes. Os resultados tambem indicaram problemas em alguns itens (D2, D3,
+D4, e F2). No entanto, os resultados gerais mostram que a escala (apesar de alguns pro-
+blemas), pode usada para identificaçao de perfis de usuarios de gamificaçao.
+
+**RESULTADOS DOS ESTUDOS**
+
+Ao analisar o ajuste do modelo no estudo com adultos, consideramos: teste do chi-
+quadrado (χ
+2
+252 = 646.836, p ≤ 0.001), teste do chi-quadrado por graus de liberdade (χ
+2/df = 2.56)
+, erro quadratico medio (RMSEA = 0.064 (CI = [0.058, 0.070])), indice
+de ajuste comparativo (CFI = 0.926), indice de Tucker–Lewis  (TLI = 0.914), indice de
+ajuste normalizado  e o indice de qualidade de ajuste (GFI = 0.882), que
+indicaram um ajuste um pouco abaixo do aceitavel do modelo de acordo com a litera-
+tura . Na Analise Fatorial
+Confirmatoria (AFC), encontramos cargas fatoriais abaixo do esperado nos itens D3  e D4 (λ =
+0.426) e D4 (λ = 0.410).
+
+Ao analisar o ajuste do modelo no estudo com adolescentes, consideramos:
+teste do chi-quadrado  (χ
+2
+237 = 347.422, p ≤ 0.001), teste do chi-quadrado por graus
+de liberdade (χ
+2/df = 1.46), erro quadratico medio  (RMSEA = 0.065 (CI = [0.050,
+0.080])), indice de ajuste comparativo  (CFI = 0.969), indice de Tucker-Lewis  (TLI =
+0.964), indice de ajuste normalizado (NFI = 0.909) e o indice de qualidade de ajuste (GFI = 0.960)
+, que indicaram um ajuste aceitavel do modelo de acordo com a litera-
+tura . 
+
+Na Analise Fatorial Confirmatoria (AFC), encontramos cargas fatoriais abaixo do esperado nos itens D2 (λ = 0.427), D3 (λ = 0.462), D4 (λ = 0.427) e F2 (λ = 0.094). Considerando que ao modelar a mesma analise no estudo com adultos apenas dois itens (D3 e D4) apresentaram carga fatorial abaixo do esperado, entendemos que a escala atual e mais problematica para identificar os perfis de adolescentes do que os perfis de adultos.
+
+Pontuamos que esses resultados podem indicar a necessidade de novas traducoes dos itens problematicos tanto para adolescentes quanto para adultos. A partir desses resultados, apontamos que um possivel problema com o item D2 seja a utilizacao da expressao em latim "status quo", ja que em estudos anteriores [Ooge et al. 2020, Manzano-Leon et al. 2020, Taskin and Kilic Cakmak 2020] os autores indicaram significados da expressao e ate mesmo chegaram a troca-la por expressoes no idioma analisado. Entendemos que essa mudanca afeta a validacao da escala, ja que ha uma mudanca no item validado, ao mesmo tempo que indica a necessidade de reformulacao desse item. Entretanto, considerando que boa parte dos itens do perfil Disruptor apresentaram problemas nesse estudo, sugerimos que uma possibilidade seja problemas com o proprio perfil e nao com a escala ja que varios estudos indicaram mais resultados negativos desse perfil [Orji et al. 2018, Senocak et al. 2019], piores performances de usuarios com esse perfil [Lopez and Tucker 2019] e usuarios apresentando as menores medias na escala nesse perfil [Lopez and Tucker 2019, Altmeyer et al. 2021].
+
+Como Usar a Escala Hexad
+
+Para uso da escala Hexad, deve-se usar os 24 itens da escala em uma escala Likert de 7 pontos [Likert 1932]. O usuario deve ser orientado a avaliar pela escala Likert o quao bem cada item da escala o descreve. Seguindo o estudo original, tambem sugerimos que os itens sejam dispostos de forma aleatoria para evitar que o usuario identifique quais itens fazem parte da mesma sub-escala. Recomendamos ainda o uso de um item de checagem de atencao para garantir que o usuario esta lendo todos os itens. Em ambos estudos utilizamos: "Eu gosto de estar com meus amigos, mas isso e apenas uma checagem de atencao. Marque a opcao 3". Todas as respostas que nao passaram pelo item de checagem de atencao foram eliminadas da analise. Itens ou perguntas de checagem de atencao sao uma forma de garantir a qualidade das respostas ao mesmo tempo que nao afetam a validade das escalas [Kung et al. 2018]. Para definir qual o perfil do usuario, deve-se somar as pontuacoes em cada sub-escala (valores devem variar de no minimo 4 e maximo 28), onde o perfil do usuario e formado pelas seis pontuacoes em ordem decrescente, sendo o primeiro, o perfil dominante. Na Tabela 1 apresentamos a versao final da escala, com os itens avaliados em ambos os estudos, isto e, o estudo com adultos [Santos et al. 2022] e o estudo com adolescentes [Santos et al. 2023a].
+
+
+**CONSIDERACOES FINAIS**
+
+Este estudo contribui para a literatura ao fornecer uma analise psicometrica detalhada da escala Hexad em portugues do Brasil. Os resultados indicam que, embora a escala apresente alguns problemas em itens especificos, ela pode ser utilizada para identificar perfis de usuarios de gamificaçao. E importante ressaltar a necessidade de novas traduçoes e adaptaçoes da escala para melhor atender as caracteristicas da populaçao brasileira.

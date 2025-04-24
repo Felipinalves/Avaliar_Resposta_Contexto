@@ -1,0 +1,154 @@
+**RESUMO**
+
+No final do seculo XX, com a popularizaçao da internet, obras de
+arte digital interativa ganharam um novo espaço de disseminaçao,
+intervençao e criaçao. Nesse contexto, a internet permite e exige a
+participaçao da audiencia como uma parte importante de muitas
+dessas obras, construidas como sistemas ou artefatos
+computacionais interativos. Neste pôster, apresentamos a
+aplicaçao de conceitos da Engenharia Semiotica na analise de tres
+obras de arte digital e interativa desenvolvidas e publicadas na
+Web entre 1996 e 2003, Mouchette, Life sharing e My boyfriend
+came back from the war (MBCBFTW). Este estudo teve o objetivo
+de investigar como se manifesta a metacomunicaçao do artista-
+designer do sistema, que, nesse contexto, e o autor da obra. Para
+isso, reconstruimos e comparamos a metamensagem das tres
+obras, observando o que o designer comunica sobre o usuario, o
+sistema e sobre ele mesmo. Como resultado, observou-se que a
+quantidade e a qualidade das mensagens variaram entre as obras.
+Apresentamos uma discussao sobre como a Engenharia Semiotica
+pode dar suporte a analise de obras de arte digitais e interativas.
+
+**INTRODUÇÃO**
+
+A arte produzida em computadores era, inicialmente, um
+campo a parte, composta por um pequeno grupo de entusiastas.
+Com os avanços da tecnologia e a facilidade no acesso, artistas
+dos mais deferentes meios começaram a experimentar o potencial
+das novas tecnologias . Para esses artistas, a popularizaçao da
+internet significou a potencializaçao do seu trabalho, numa
+dimensao ate entao nunca imaginavel. A internet era, ao mesmo
+tempo, espaço de encontro e partilha de informaçao desse grupo,
+vitrine para aquilo que era desenvolvido e, especialmente, espaço,
+ela mesma, de intervençao artistica.
+
+O estudo aqui apresentado integra as areas de arte digital
+interativa e Interaçao Humano-Computador (IHC). Foram
+selecionadas tres obras de arte digitais interativas: Mouchette
+, de
+Martine Neddam, Life sharing
+, de Eva e Franco Mattes, e My
+boyfriend came back from the war
+, de Olia Lialina.
+A partir do interesse em aproximar as duas areas (arte e IHC),
+identificamos como questoes de pesquisa: Como a Engenharia
+Semiotica pode auxiliar na analise de obras de arte digital
+interativa? E possível investigar a autoexpressao dos artistas
+nessas obras?
+
+
+**ARTE E IHC**
+
+A pesquisa em volta da articulaçao entre arte e IHC vem sendo
+explorada a medida em que novos artistas se voltam para os
+recursos tecnologicos enquanto materiais esteticos e os
+pesquisadores e praticantes de IHC voltam o olhar para os
+sistemas construidos com fins artisticos. Edmonds  discute
+como a area de IHC pode se beneficiar com a aproximaçao com as
+artes. O autor apresenta-se como um pesquisador de IHC que
+tambem e artista, portanto, conhecedor dos dois campos. Artistas
+e pesquisadores de arte tem tirado proveito da area de IHC
+tambem quando precisam avaliar OS trabalhos artisticos
+produzidos. Por exemplo, a obra "Influencing Machine" foi
+avaliada para informar aos artistas como o trabalho foi
+interpretado e como a mensagem deles foi comunicada para o
+publico . Ja a instalaçao interativa "Play with Fire" foi avaliada
+em torno da questao da consciencia ambiental .
+
+Duarte e Baranauskas  discutem sobre possibilidades de
+pesquisa em IHC focada em arte interativa e enumeram quatro
+possiveis caminhos: a) estimular a pesquisa em arte interativa, b)
+estudar exemplos de arte interativa, c) praticar design e avaliaçao
+em arte interativa, d) projetar arte interativa para todos. A
+pesquisa trazida neste artigo abarca pelo menos os dois primeiros
+pontos, passando tambem por parte do terceiro ponto (avaliaçao),
+ja que segue algumas etapas do metodo de inspeçao semiotica
+(MIS), cujo objetivo e avaliar a comunicabilidade dos sistemas.
+
+**AUTOEXPRESSÃO NAS OBRAS**
+
+A analise das tres obras foi feita utilizando-se as classes de
+signos da Engenharia Semiotica . Assim, foram analisados
+os signos metalinguisticos, estaticos e dinamicos.
+
+Depois de analisados os signos, a metamensagem do designer
+foi reconstruida, informando a visao do designer sobre quem e o
+usuario do sistema e sobre o sistema em si.
+
+Assim como feito em , uma terceira parte foi adicionada ao
+template de metacomunicaçao original, com a intençao de
+comunicar a autoexpressao do designer, ou seja, explicitar as
+informaçoes sobre o proprio designer que emergiram durante a
+interaçao com cada trabalho artistico. Abaixo, apresentamos
+apenas esta terceira parte do template ("E este sou eu..."), que
+corresponde a autoexpressao, para cada obra.
+
+Mouchette
+
+O designer se apresenta no sistema como Mouchette, uma
+menina que tem quase 13 anos de idade, que vive em Amsterdam (e
+em outros lugares) e e uma artista. Ele tambem revela que a
+criaçao de Mouchette foi inspirada na historia do livro de mesmo
+nome, do autor Georges Bernanos. No entanto, a narrativa de
+Mouchette, o site, afasta-se da narrativa do livro, na medida em
+que possibilita a interferencia dos usuarios e a partir do momento
+em que Mouchette começa a questionar a si mesma e suas
+atitudes. O designer quer fazer o usuario refletir. Para isso, ele
+criou o personagem mencionado acima, pois sua historia aborda
+suicidio, morte, violencia e sexo (todos temas polemicos). O fato
+de essas respostas dos usuarios passarem a fazer parte do proprio
+site ao serem enviadas reforça a ideia de que o designer quer fazer
+pensar. A narrativa e totalmente pessoal e o designer esta falando
+com o usuario o tempo todo, em algumas partes do site ele tenta
+fazer com que o usuario se sinta culpado. No entanto, percebe-se
+que as reaçoes sao diversas, indo desde brincadeiras de mau gosto
+ate pessoas oferecendo e buscando ajuda.
+
+Life sharing
+
+O designer e uma pessoa que nao se preocupa em expor o
+conteudo presente no computador pessoal e que nao ve problemas
+em compartilha-lo com outros. Também tenta, ao maximo,
+organizar todos os arquivos dentro de pastas e nomea-los algumas
+vezes de forma logica (nem sempre obvia), outras nao. Nao
+existem indicios de que ha preocupaçao com o entendimento dos
+usuarios, e ele tenta deixar isso claro diretamente na mensagem
+inicial: "agora voce esta no meu computador", ou seja, estes sao
+"meus arquivos”, essa e a “minha forma de organizaçao".
+
+My boyfriend came back from the war
+
+O designer gosta de contar historias atraves de narrativas nao
+lineares ou nao consegue organizar seus pensamentos de forma
+linear, nao faz questao de ser entendido de uma unica maneira,
+deixando o usuario ter sua propria interpretaçao da historia. O
+designer se considera um artista pela assinatura ao final da
+historia, de forma similar as pinturas em tela.
+
+**DISCUSSÃO E CONCLUSÃO**
+
+Sob o ponto de vista da Engenharia Semiotica, que enxerga a
+interaçao humano-computador como um processo de
+comunicaçao mediada entre usuarios e designers, esse fenomeno
+pode sim ser investigado tambem em obras de arte digitais. A
+metacomunicaçao, pelo menos nos tres sistemas analisados, e
+explorada de forma muito mais implicita e indireta quando
+comparada a sistemas tradicionais. Por exemplo, em geral,
+designers de aplicacoes buscam explicar sobre elementos na interface que podem causar algum tipo de estranhamento ao usuario especialmente atraves de signos metalinguisticos Nas obras de arte analisadas esse estranhamento apresentase pelo contrario como um recurso comunicacional com um significado proprio e nao necessariamente como uma ruptura E o desconhecido que leva o usuario a explorar e se engajar na experiencia interativa proposta nas obras Por vezes e tudo tao diferente que o usuario pode ser induzido a continuar com a interacao para descobrir ate onde aquilo vai
+A autoexpressao das tres obras foi explorada de maneiras bem diferentes Em Mouchette temse a visao de dois autores a persona virtual Mouchette que conta sua propria historia e conduz o usuario ao longo da interacao e a artista em si que so aparece indiretamente na pagina About Me O site e repleto de elementos potencializadores da autoexpressao de Mouchette como uso intenso de primeira pessoa fotos da menina sua voz signos diversos que revelam suas emocoes e sentimentos
+Em Life sharing nao ha um narrador e nao ha indicacao direta de seus autores A melhor forma de os conhecer parece ser explorando os projetos artisticos disponiveis no site bem como os emails e noticias sobre eles A autoexpressao aqui aparece de uma forma muito mais referencial do que emotiva terceira pessoa e nao primeira pessoa
+Em MBCBFTW tambem ha a figura do narrador provavelmente uma mulher Aqui tambem podemos falar de duas vozes da personagem da historia e da artista A identidade da personagem pouco e revelada podese atribuila ao rosto feminino que aparece no inicio da interacao Dependendo do caminho percorrido com o teor dramatico dos textos e imagens apresentados podese ter uma ideia dos sentimentos e emocoes da personagem Mas nada e escancarado ou direto exige certo esforco e imaginacao do usuario Em relacao a autoria do trabalho o usuario e convidado a conhecer a artista atraves do link disponibilizado no final da interacao na ultima pagina diferente de Mouchette que disponibiliza esse link na pagina inicial
+
+**CONCLUSÃO**
+
+A combinaçao da Engenharia Semiotica com a analise de obras de arte digitais interativas oferece um novo caminho para a compreensao da expressividade artistica e da interaçao humano-computador. Ao analisar a metacomunicaçao do artista-designer, revelamos as intençoes subjacentes a obra e a relaçao que se estabelece com o usuario, contribuindo para uma apreciaçao mais profunda e informada da arte digital.

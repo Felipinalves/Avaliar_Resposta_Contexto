@@ -1,0 +1,1663 @@
+A Integracao Humano-Computador (HInt) e um novo paradigma da area de IHC que estende a area atraves da inclusao, definicao e caracterizacao da relacao entre humanos
+e tecnologias autonomas como uma parceria. Esse novo paradigma traz novos desafios
+para a area, incluindo as demandas de revisar e propor teorias e metodos para abordar
+a HInt. Este capitulo visa ampliar o conhecimento sobre a HInt e fornecer uma base
+teorica, fundamentada na teoria da Engenharia Semiotica, para que estudantes, profissionais e pesquisadores comecem a explorar esse novo paradigma e possam contribuir
+para os avanços da IHC com um foco na HInt.
+
+Introducao
+A ascensao das tecnologias autônomas esta modificando a relacao entre humanos e tecnologias de modo que, a “Era da Interacao” esta se estendendo para a “Era da Integracao”.
+Nessa nova era, a interacao deixa de ser apenas baseada em estimulo-resposta, e passa a
+considerar a integracao entre humanos e tecnologias – fisicamente e/ou conceitualmente
+– tornando-os parceiros codependentes com autonomia para cooperar e colaborar entre si para atingir objetivos em comum. Para acompanhar essa evolucao, pesquisadores de Interacao Humano-Computador (IHC) definiram e caracterizaram um novo paradigma¹, a
+Integracao Humano-Computador (HInt), que estende o foco da area de IHC para abranger
+essa nova relacao de parceria entre humanos e tecnologias [Mueller et al. 2020].
+
+O paradigma da HInt traz novos desafios para a Comunidade de IHC, incluindo
+as demandas por ampliar o escopo de teorias e metodos de IHC para explorar os impac-
+tos, o design, o uso e a avaliacao da HInt. Como a HInt e um paradigma emergente,
+essas demandas podem ser exploradas em diferentes perspectivas teoricas, inclusive na
+perspectiva da Engenharia Semiotica (EngSem) [Barbosa e Prates 2022, Barbosa 2024].
+
+Diante deste cenario, o objetivo deste capitulo e: expandir o conhecimento sobre
+a HInt; e apresentar uma base teorica, fundamentada na EngSem, para que as pessoas
+interessadas possam explorar os desafios da HInt no ambito de IHC. Assim, este capitulo
+fornece uma lente teorica para que a Comunidade de IHC possa contribuir com a evolu-
+cao e consolidacao da HInt. E importante ressaltar este capitulo corresponde ao conteudo
+ministrado no minicurso intitulado “Evoluir e preciso: Movendo da interacao para a in-
+tegracao humano-computador”, que abordou a HInt a luz da EngSem no “XXII Simposio
+Brasileiro sobre Fatores Humanos em Sistemas Computacionais” (IHC 2023) e estende
+o artigo publicado nos anais do evento [Barbosa e Prates 2023].
+
+Considerando o exposto, a proxima secao apresenta o paradigma da HInt, as tec-
+nologias parceiras e seus desafios para a area de IHC. Em seguida, e apresentada a exten-
+sao do arcabouco teorico da EngSem para a HInt. Por fim, sao apresentados exemplos de
+aplicacao da EngSem estendida para definir e caracterizar a HInt no ambito da IHC e as
+consideracoes finais.
+
+Integracao Humano-Computador na perspectiva de IHC
+Esta secao apresenta a integracao entre humanos e tecnologias autonomas como uma nova
+era e, posteriormente, como um novo paradigma da area de IHC.
+
+A Nova Era da Integracao Humano-Computador
+O conceito de integracao entre humanos e tecnologias ecoou na area de IHC na decada
+de 60. Na ocasiao, quando as pesquisas em Inteligencia Artificial (IA) e o desenvolvi-
+mento de maquinas inteligentes comecaram a expandir, levantou-se a hipotese de que,
+no futuro, humanos e maquinas estariam acoplados, trabalhando em conjunto de forma
+integrada [Licklider 1960]. Assim, embora tecnologias autonomas nao sejam novidade,
+em 2016, pesquisadores da area de IHC [Farooq e Grudin 2016] nos convidam a refletir
+sobre como a ascensao das tecnologias autonomas (e.g., alarmes inteligentes, veiculos
+semiautonomos, assistentes virtuais inteligentes e exoesqueletos) esta modificando a re-
+lacao entre humanos e tecnologias. Segundo Farooq e Grudin (2016), as mudancas que
+estas tecnologias geram na interacao justificam que se considere o inicio de uma nova era
+a integracao humano-computador - na area de IHC.
+
+A “Era da interacao” e caracterizada pelo uso da tecnologia como uma ferramenta
+de suporte as necessidades dos usuarios. Nessa era, a relacao entre os usuarios e as
+tecnologias interativas pode ser descrita como estimulo-resposta, na qual o usuario re-
+quisita/estimula acoes da tecnologia via comandos de entrada, e a tecnologia interativa
+responde por meio de comandos de saida (e.g., o usuario configura um horario no alarme
+convencional, que toca conforme programado pelo usuario). Em alguns casos, o controle
+pode ser invertido, a tecnologia inicia a interacao e o humano responde (e.g., alarme co-
+meca a tocar automaticamente e o usuario desliga o alarme), porem, ainda assim, a tecno-
+logia se limita a responder aos estimulos/requisicoes do usuario [Farooq e Grudin 2016].
+
+Por sua vez, na “Era da integracao humano-computador”, a relacao entre humanos
+e tecnologias e caracterizada por uma parceria que se estende da interacao para a integra-
+cao. Nessa nova era, humanos e tecnologias parceiras se integram fisicamente e/ou con-
+ceitualmente e se tornam parceiros com autonomia para colaborar entre si, estabelecendo
+uma parceria benefica. Dessa forma, alem de responder as requisicoes/aos comandos de
+entrada, a tecnologia possui autonomia para colaborar/cooperar com o usuario e realizar
+acoes que vao alem do que foi solicitado para que o agente humano consiga alcancar seus
+objetivos (e.g., o usuario configura um horario no alarme inteligente, porem, esse tipo de
+alarme possui autonomia para tocar antes ou depois do horario programado, para que o
+usuario mantenha a pontualidade independente de condicoes externas como congestiona-
+mentos na sua rota). Em outras palavras, diferente da tradicional interacao de estimulo-
+resposta que ocorre na IHC, na era da integracao as tecnologias parceiras possuem algum
+nivel de autonomia para iniciar ou redirecionar interacoes com o usuario; e nao se limitar
+a responder as requisicoes ou comandos de entrada do usuario [Farooq e Grudin 2016].
+
+Note que, a integracao estende, mas nao substitui a interacao entre humanos e
+tecnologias, sobretudo porque nem todas as tecnologias estao no mesmo estagio de ma-
+turacao. Algumas tecnologias continuarao sendo utilizadas apenas com o proposito de
+responder as requisicoes/estimulos dos usuarios (i.e., tecnologias interativas que promo-
+vem apenas interacao) e outras atuarão como parceiras dos humanos (i.e., tecnologias
+parceiras que promovem interacao e integracao) [Farooq e Grudin 2016].
+
+Para melhor ilustrar essa coexistencia de tecnologias interativas e tecnologias par-
+ceiras, considere os exemplos do DeepL³ e Grammarly for Chrome. O DeepL e uma
+plataforma de traducao online que faz uso de IA para traduzir conteudos. Para utilizar
+essa solucao tecnologica, o usuario deve fornecer como entrada o conteudo original (e.g.,
+texto em portugues) e indicar explicitamente o idioma para o qual o texto deve ser tra-
+duzido. Em seguida, o DeepL gera uma traducao para o texto conforme a requisicao do
+usuario. Concluida a traducao, o usuario pode modificar a traducao gerada por meio da
+digitacao livre ou da solicitacao explicita ao DeepL, que apresenta sugestões de palavras
+e/ou expressoes alternativas para melhorar a traducao. Logo, o DeepL e uma tecnologia
+interativa que estabelece uma relacao de estimulo-resposta com o usuario. Isso porque,
+ainda que faca uso de IA para gerar o conteudo traduzido e sugerir termos/expressoes
+alternativas, essa solucao nao possui autonomia para realizar essas acoes sem uma requi-
+sicao explicita do usuario.
+
+Por sua vez, o Grammarly for Chrome e uma extensao do Grammarly para as
+aplicacoes acessadas via navegador Chrome (e.g., Gmail, Google Docs e Overleaf), que
+auxilia o usuario (em tempo real) na revisao de textos sendo escritos em ingles. Uma vez
+instalado, o Grammarly for Chrome possui autonomia para revisar o conteudo digitado,
+bem como sugerir correcoes/ajustes para aprimorar o texto, sem demandar por requisicoes
+explicitas do usuario a cada interacao. Por outro lado, durante a integracao com essa solu-
+cao, o usuario tambem possui autonomia para requisitar explicitamente uma revisao espe-
+cifica e/ou decidir se aplica ou rejeita as correcoes/sugestoes indicadas pelo Grammarly
+for Chrome. Assim, o Grammarly for Chrome e uma tecnologia que possui algum nivel de
+autonomia para estabelecer uma relacao de parceria com o usuario. Portanto, conforme
+elucidado nesses exemplos, tecnologias interativas e tecnologias parceiras: (a) coexistem
+mesmo nessa transicao entre as eras da interacao para a integracao; e (b) poderao coexistir
+no futuro integrado em diferentes dominios de aplicacao [Farooq e Grudin 2016].
+
+O design, a avaliacao e o uso de tecnologias parceiras oferecem desafios e opor-
+tunidades que devem ser identificados e explorados pela Comunidade de IHC para que
+a parceria entre usuarios e tecnologias resulte em beneficios para os humanos e a socie-
+dade. Por isso, alem de uma nova “Era”, a Integracao Humano-Computador passou a ser
+definida e caracterizada como um novo paradigma da area de IHC.
+
+Paradigma da HInt e as Tecnologias Parceiras
+A Integracao Humano-Computador (do ingles Human-Computer Integration tambem
+referenciado pela sigla: HInt) e um paradigma emergente que estende a area de IHC,
+cujo objetivo e definir e caracterizar a nova relacao entre humanos e tecnologias auto-
+nomas como uma integracao (no sentido de parceria) que transcende a tradicional inte-
+racao (estimulo-resposta) de IHC. Na perspectiva desse paradigma, usuarios e tecnolo-
+gias sao parceiros codependentes e possuem algum nivel de autonomia para colaborar
+entre si em prol de objetivos comuns. Logo, na HInt, o controle da interacao nao e
+totalmente humano, nem totalmente da tecnologia (i.e. automatico). O agente tecno-
+logico possui autonomia (mesmo que minima) para agir durante a integracao (e.g., se
+antecipar e/ou adaptar a interacao) para atender as demandas e necessidades do humano
+[Mueller et al. 2019, Mueller et al. 2020].
+
+De acordo com a literatura que aborda a HInt na perspectiva de IHC, a solu-
+cao tecnologica: (1) que nao segue esse novo paradigma e chamada de Tecnologia In-
+terativa; e (2) aquela que segue o paradigma da HInt e chamada de: Tecnologia de
+HInt; Tecnologia Parceira ou Solucao de HInt [Barbosa et al. 2023, Mueller et al. 2019,
+Mueller et al. 2020]. Esses tres termos sao utilizados como sinonimos na literatura e neste
+capitulo para nomear um sistema ou ecossistema que possui algum nivel de autonomia na
+interacao para se integrar ao usuario (fisicamente ou conceitualmente) e estabelecer uma
+relacao de parceria cooperativa/colaborativa com esse agente humano [Barbosa et al. 2023,
+Farooq e Grudin 2016, Mueller et al. 2019, Mueller et al. 2020]
+
+A parceria entre humanos e tecnologias pode ocorrer de diferentes formas, por
+isso, a HInt e as tecnologias parceiras podem ser caracterizadas em termos de: (1) Nivel
+de Autonomia (do ingles: Agency); (2) Nivel da HInt (do ingles: Scale); (3) Tipo de
+HInt; e (4) Tipo de Acoplamento Fisico. O Nivel de Autonomia caracteriza o con-
+trole que humanos e tecnologias possuem na parceria que ocorre durante a integracao.
+A autonomia varia de: (a) Controle majoritariamente humano; (b) Controle igualmente
+compartilhado entre humanos e tecnologia; ate (c) Controle majoritariamente tecnolo-
+gico. Vale ressaltar que, para que a integracao se caracterize como uma parceria, ambos
+os agentes (i.e., humanos e tecnologicos) precisam controlar a integracao em algum nivel,
+mesmo que minimamente. Portanto, se durante a utilizacao de uma tecnologia o con-
+trole for totalmente humano ou totalmente tecnologico, essa relacao nao pode ser descrita
+como uma parceria e, consequentemente, nao pode ser caracterizada pelo paradigma da
+HInt [Mueller et al. 2020].
+
+Por sua vez, o Nivel da HInt caracteriza a escala em que a integracao acontece. A
+integracao pode acorrer em: (a) Nivel Social/Coletivo, no qual culturas inteiras ou grupos
+de usuarios estao integrados a tecnologia; (b) Nivel Individual, indicando que um unico
+individuo e a tecnologia estao integrados ou (c) Nivel de Orgao, no qual o humano e a
+tecnologia estao integrados por meio de uma parte do organismo humano e a integracao
+ocorre em um nivel micro [Mueller et al. 2020].
+
+O Tipo de HInt indica o tipo de parceria que ocorre entre o usuario e a tecnologia
+parceira. Os tipos sao: (a) Integracao por Fusao e/ou (b) Integracao por Simbiose e eles
+nao sao mutuamente exclusivos, ou seja, existem casos em que pode ocorrer a Integracao
+por Fusao e Simbiose ao mesmo tempo [Mueller et al. 2020]. Na Integracao por Fusao,
+a tecnologia apoia e estende as habilidades e experiencias corporais do individuo. Nor-
+malmente, a Fusao ocorre em um nivel individual (e.g., um membro ou sentido humano) e
+a autonomia se concentra no controle majoritariamente humano ou tecnologico. Entre os
+exemplos de tecnologias que promovem a Integracao por Fusao e possivel citar: piercing
+eletronico para monitorar temperatura corporal e tecnologias de aumento humano (e.g.,
+exoesqueleto e proteses inteligentes) [Mueller et al. 2020].
+
+Ja na Integracao por Simbiose, humanos e tecnologias trabalham juntos, de
+forma conceitual, em direcao a objetivos comuns ou complementares. Nesse Tipo de
+HInt, normalmente, o controle e igualmente compartilhado e a integracao pode ocorrer
+tanto em um nivel individual, quanto no social [Mueller et al. 2020]. Entre os exemplos
+de tecnologias que promovem a integracao por simbiose e possivel mencionar: veiculo
+semiautonomo; alarme inteligente; tecnologias para monitoramento de saude e bem-estar;
+bem como servicos de recomendacao autonomos (e.g., recomendacao de videos do You-
+tube) [Farooq e Grudin 2016, Mueller et al. 2020].
+
+Por fim, a HInt pode ser classificada em relacao ao Tipo de Acoplamento Fisico
+entre a tecnologia e o corpo humano. As tecnologias de HInt podem ser classificadas
+como: (a) Tecnologias In-Body integradas dentro do corpo humano (e.g., sensores in-
+geriveis); (b) Tecnologias On-Body integradas na superficie do corpo ou externamente
+conectadas ao corpo (e.g., relogios inteligentes) e (c) Tecnologias Off-Body situadas no
+ambiente ao redor do corpo e nao fisicamente conectadas ao corpo (e.g., assistentes virtu-
+ais inteligentes) [Mueller et al. 2019].
+
+Sendo assim, o Nivel de Autonomia; Nivel da HInt; Tipo de HInt; e Tipo de Aco-
+plamento Fisico sao os atributos que descrevem e mapeiam a Natureza da Parceria
+i.e., definem as maneiras pelas quais humanos e tecnologias podem se relacionar e in-
+teragir como parceiros durante a integracao. De acordo com a definicao de HInt, esses
+quatro atributos se aplicam a todas as tecnologias que seguem esse paradigma emergente
+[Mueller et al. 2020]. Alem desses atributos, as tecnologias de HInt tambem podem ser
+caracterizadas em relacao a sua Inteligencia e Composicao [Barbosa e Prates 2022].
+
+Quanto a Inteligencia, as tecnologias de HInt podem ou nao possuir a capacidade
+de aprender e (re)agir em funcao das demandas e preferencias do usuario para promover a
+integracao humano-computador. Embora Autonomia e Inteligencia possam estar relacio-
+nadas, existem tecnologias de HInt autonomas, que nao sao inteligentes. Por exemplo, as
+Smart Bands possuem autonomia para monitorar e reportar o desempenho do usuario na
+pratica de atividades fisicas. Porem, essa tecnologia nao possui inteligencia para se ante-
+cipar e sugerir solucoes alternativas as demandas do usuario. Vale ressaltar tambem que
+nem toda tecnologia que tem inteligencia, necessariamente tem autonomia. Por exemplo,
+o DeepL tem inteligencia para traduzir textos e sugerir alteracoes, mas so o faz mediante
+solicitacao do usuario. Portanto, embora o Nivel de Autonomia seja um atributo mandato-
+rio para caracterizar uma tecnologia como uma solucao de HInt, a Inteligencia Artificial
+e uma caracteristica opcional deste tipo de solucao [Barbosa e Prates 2022].
+
+A Composicao classifica a tecnologia parceira quanto ao(s): (1) componente(s)
+que a compoe(m); e (2) componente(s) interativo(s). Componente(s) que a compoe(m)
+indica a quantidade de dispositivos fisicos (e.g., hardware especializado e/ou hardware de
+proposito geral) e sistemas digitais (e.g., software e/ou app movel) com os quais o usuario
+deve lidar (em tempo de interacao) e que, juntos, compoem a tecnologia parceira. E im-
+portante ressaltar que esses componentes podem ou nao estar distribuidos em plataformas
+diferentes. Por sua vez, Componente(s) interativo(s) refere-se a quantidade de interfaces
+interativas distintas da solucao de HInt com as quais o usuario pode ou precisa interagir
+(i.e., comunicar) diretamente durante a parceria humano-tecnologia. Para cada uma des-
+sas caracteristicas, a solucao de HInt pode ser classificada como um unico ou multiplos
+componentes [Barbosa e Prates 2022].
+
+Para ilustrar como estes atributos e estas caracteristicas se aplicam para a clas-
+sificacao de uma tecnologia parceira, considere o exemplo do FingerReader 2.0. Essa
+tecnologia parceira, exibida na Figura 1.1, auxilia um usuario com deficiencia visual na
+identificacao de objetos (e.g., itens de compra e cedulas de dinheiro) em uma loja fisica.
+
+Quanto a Natureza da Parceria, o FingerReader 2.0 pode ser classificado como
+uma solucao de HInt cujo nivel de autonomia e majoritariamente tecnologico, porque
+essa tecnologia parceira detem um maior controle da interacao. A parceria ocorre em
+um nivel individual e o tipo de HInt e a fusao e simbiose simultaneamente, porque o
+FingerReader 2.0 esta fisicamente acoplado ao corpo humano e, juntos, o usuario e essa
+solucao de HInt cooperam como parceiros na tarefa de realizar compras. Assim, o tipo
+de acoplamento fisico entre o usuario e o FingerReader 2.0 e on-body. Em relacao a
+Inteligencia, de acordo com a descricao do fornecedor, o FingerReader 2.0 e um agente
+autonomo e inteligente, porque tambem auxilia o usuario na tomada de decisao durante
+uma compra. Ja em relacao a Composicao, essa solucao de HInt e composta por um anel
+com camera embutida e um fone de ouvido. Assim, o FingerReader 2.0 e uma tecnologia
+parceira composta por multicomponentes.
+
+A Figura 1.2 ilustra a classificacao de 5 exemplos de tecnologias parceiras a partir
+dos atributos e das caracteristicas que classificam uma solucao de HInt. Alem do Fin-
+gerReader 2.0, os outros 4 exemplos classificados sao: (1) Drone DJI Mini 3 Pro, uma
+solucao de HInt que permite a captura de imagens (i.e., fotos e videos) de forma manual
+e autonoma; (2) Samsung Galaxy Fit2, uma solucao de HInt que auxilia na aquisicao e
+manutencao de habitos saudaveis; (3) VS Code, uma tecnologia parceira com autonomia
+para auxiliar o usuario no desenvolvimento de codigo; e (4) Waze, uma tecnologia de
+HInt que auxilia motoristas durante um percurso de uma origem a um destino. Esta fi-
+gura descreve os exemplos em funcao dos atributos obrigatorios de HInt: autonomia para
+controlar a interacao em algum nivel; escala em que a tecnologia se integra ao humano; e
+relacao de parceria fisica e/ou conceitual com o usuario em algum dominio de aplicacao.
+Alem disso, a figura inclui tambem caracteristicas que nao fazem parte da definicao, mas
+sao uteis na sua caracterizacao: se possui ou nao inteligencia; e se e composta por um ou
+mais dispositivos fisicos e/ou sistemas digitais, se um ou mais sao interativos.
+
+Novos Desafios de HInt
+O paradigma da HInt e as tecnologias parceiras possuem particularidades (e.g., o propo-
+sito, a natureza da parceria, inteligencia e composicao) que podem influenciar no estudo,
+design, uso e na avaliacao da HInt. Por essa razao, esse paradigma emergente oferece
+novos desafios para a area de IHC [Barbosa et al. 2023], sao eles:
+
+Impactos da Integracao Humano-Computador nos Humanos: Desafios de iden-
+    tificar e explorar os fenomenos e efeitos da integracao humano-computador no in-
+    dividuo, na sociedade e no meio ambiente.
+
+Desafios de Design: Desafios de revisar e propor modelos e ferramentas para proje-
+    tar tecnologias parceiras centradas tanto na interacao quanto na integracao humano-
+    computador, considerando aspectos eticos.
+
+Desafios de Avaliacao: Desafios de revisar e propor atributos de qualidade e meto-
+    dos para avaliar a proposta de design e a experiencia de uso das tecnologias de HInt
+    de uma forma mais holistica, considerando as diferentes perspectivas de avaliacao
+    e os efeitos da integracao nos humanos.
+
+Demandas por novas Teorias e/ou Metodos: Desafios de revisar, estender e/ou
+    propor abordagens empiricas e teoricas (e.g., teorias e metodos) para que seja pos-
+    sivel conceitualizar, explorar e explicar os fenomenos envolvidos no design, uso e
+    na avaliacao da HInt na perspectiva de IHC.
+
+Por se tratar de um paradigma emergente, os desafios da HInt podem ser explo-
+rados em diferentes perspectivas, inclusive a luz da Teoria da Engenharia Semiotica. Por
+esta razao, o arcabouco teorico da Engenharia Semiotica foi ampliado para auxiliar estu-
+dantes, profissionais e pesquisadores no estudo, design e na avaliacao da HInt como uma
+extensao da IHC [Barbosa e Prates 2022, Barbosa e Prates 2023, Barbosa 2024].
+
+Extensao da Teoria da Engenharia Semiotica para HInt
+Esta secao apresenta o arcabouco teorico da Engenharia Semiotica estendido para HInt.
+Para uma melhor compreensao dessa extensao, inicialmente, e apresentada uma visao
+geral dessa teoria e seus principais conceitos. Na sequencia, os conceitos e a ontologia da
+Engenharia Semiotica para HInt sao apresentados.
+
+Visao Geral da Engenharia Semiotica
+A Teoria da Engenharia Semiotica (EngSem) e uma teoria explicativa e reflexiva de
+IHC, que nos fornece uma ontologia, epistemologia e metodologia para explorar e en-
+tender os fenomenos envolvidos no design, uso e na avaliacao de tecnologias interativas
+[de Souza 2005, Prates e Barbosa 2007]. Na perspectiva dessa teoria, a interface de uma
+tecnologia interativa e um tipo especial de comunicacao, unidirecional e indireta, do pro-
+jetista para seus usuarios. Por meio da interface, o projetista transmite aos usuarios sua
+compreensao e suas decisoes sobre: a quem a tecnologia se destina; que problemas ela
+pode resolver e como interagir com a tecnologia. O usuario compreende a mensagem a
+medida que interage com a interface. Desse modo, na visao da EngSem, a interacao entre
+usuarios e tecnologias e um Processo Comunicativo mediado pela tecnologia interativa.
+
+Assim, a EngSem entende que a comunicacao projetista-usuario (unidirecional)
+acontece atraves da comunicacao usuario-sistema (bidirecional), e e denominada meta-
+comunicacao e a mensagem (i.e., conteudo) sendo transmitida como metamensagem
+[de Souza 2005]. A metamensagem pode ser parafraseada da seguinte forma (i.e., o tem-
+plate da metamensagem e):
+
+“Esta e a minha interpretacao sobre quem voce e, o que eu entendi que
+voce quer ou precisa fazer, de que formas prefere faze-lo e por que.
+Este e o sistema que eu projetei para voce, e esta e a forma que voce
+pode ou deve usa-lo para conseguir atingir os objetivos incorporados
+na minha visao".
+
+Para ilustrar um exemplo de interface como um artefato de metacomunicacao,
+considere o exemplo do comunicador instantaneo WhatsApp. Em linhas gerais, por
+meio da interface desse aplicativo (app), o projetista transmite ao usuario a seguinte me-
+tamensagem:
+
+“Caro usuario de Smartphone. Eu entendi que voce deseja conversar
+com seus contatos de forma rapida e eficiente. Observei que e do seu in-
+teresse verificar se suas mensagens foram entregues ou nao, bem como
+se elas foram recebidas e lidas. Diante das minhas percepcoes eu criei
+o WhatsApp, um aplicativo de mensagens instantaneas. Por meio desse
+app voce podera conversar via texto, voz ou video com um unico amigo
+ou um grupo de amigos. Voce sera notificado quando a mensagem for
+enviada e lida. Alem disso, voce pode aplicar configuracoes de priva-
+cidade relacionadas a sua conta."
+
+A metamensagem esta codificada por meio de signos (i.e., qualquer coisa que
+possui algum significado para alguem [Peirce e Peirce 1992]) [de Souza 2005]. A Eng-
+Sem classifica os signos de uma tecnologia interativa como: metalinguisticos, estaticos
+e dinamicos [de Souza et al. 2006, de Souza e Leitao 2009]. Os signos metalinguisticos
+explicam outros signos da interface (e.g., manual do usuario e sistema de ajuda do What-
+sApp). Os signos estaticos expressam o estado do sistema e podem ser interpretados
+independentes de relacoes causais ou temporais (e.g., botoes habilitados ou desabilita-
+dos do WhatsApp). Por sua vez, os signos dinamicos expressam o comportamento do
+sistema, ou seja, estao relacionados aos aspectos temporais e causais da interface e so
+podem ser percebidos por meio da interacao (e.g., depois que o usuario digita um texto e
+clica em Enviar, O WhatsApp envia a mensagem para um contato do usuario).
+
+Durante a interacao, a comunicacao e bem-sucedida se os usuarios conseguem
+gerar interpretações compatíveis com as intenções e os significados que o projetista codi-
+ficou na interface. Portanto, a qualidade da metacomunicacao projetista-usuario impacta
+na qualidade da interacao (i.e., comunicacao) do usuario com a tecnologia [de Souza 2005].
+Dessa forma, a Comunicabilidade [Prates et al. 2000, de Souza e Leitao 2009] e a pro-
+priedade que qualifica esse tipo especial de comunicação entre projetistas e usuarios. Para
+a EngSem, a comunicabilidade e uma propriedade de tecnologias interativas que comu-
+nicam aos seus usuarios – de forma organizada e clara (eficiencia) as intencoes e os
+princípios que guiaram o seu design e, alem disso, essa comunicacao consegue atingir o
+resultado desejado (eficacia) [de Souza 2005, de Souza e Leitao 2009].
+
+Para apoiar os projetistas na concepcao de um artefato de metacomunicacao, a
+EngSem propoe que sejam disponibilizadas Ferramentas Epistemicas - i.e., ferramentas
+que permitam a uma pessoa levantar hipoteses sobre o problema, experimentar diferentes
+possibilidades de solucao e avaliar os resultados [de Souza 2005, Prates e Barbosa 2007,
+Prates 2017]. Assim, a EngSem oferece ferramentas epistemicas como, por exemplo, a
+Modeling Language for Interaction as Conversation (MoLIC) [Barbosa e de Paula 2003,
+da Silva e Barbosa 2007], cujo objetivo e auxiliar o projetista na modelagem das intera-
+coes de um sistema como uma conversa; modelos e frameworks conceituais para apoiar
+no projeto de sistemas colaborativos [Prates 2017]; e metodos que permitem a avaliacao
+da comunicabilidade de sistemas interativos [de Souza e Leitao 2009].
+
+Alem da sua familia de ferramentas epistemicas, a EngSem fornece uma ontolo-
+gia para auxiliar os profissionais e pesquisadores na exploracao, compreensao e expli-
+cacao dos fenomenos da IHC [de Souza 2005]. O arcabouco teorico da EngSem (i.e.,
+conceitos e ontologia) permite estruturar explicações para os fenomenos envolvidos no
+design, uso e na avaliacao de tecnologias interativas. Por meio desse arcabouco teorico
+e possivel derivar estruturas e modelos de casos particulares de IHC, independente do
+tipo de tecnologia [de Souza 2005]. Como a HInt e uma extensao da tradicional IHC, os
+conceitos e a ontologia da EngSem foram estendidos para abordar esse novo paradigma
+[Barbosa e Prates 2022, Barbosa e Prates 2023, Barbosa 2024].
+
+Arcabouco Teorico da Engenharia Semiotica para HInt
+A ontologia original da Teoria da EngSem define as categorias e os elementos que con-
+ceitualizam e caracterizam a interacao como um processo comunicativo. Essa ontologia
+e formada por quatro categorias: (1) Interlocutores; (2) Espaco de Design; (3) Processo
+de Comunicacao e (4) Processo de Significação. Para definir e caracterizar a HInt como
+uma extensao do processo comunicativo de IHC, foi necessario estender: 3 das 4 cate-
+gorias da ontologia; o template da metamensagem; e a definicao de comunicabilidade da
+EngSem [Barbosa e Prates 2022, Barbosa 2024].
+
+Originalmente, a categoria Interlocutores descreve os agentes que participam do
+processo comunicativo que ocorre durante a interacao. Sao eles: Projetista e Usuario
+(agentes humanos); e o Sistema (agente tecnologico) [de Souza 2005]. Do ponto de vista
+da EngSem, o projetista e um interlocutor tão importante quanto o usuario na interacao
+humano-computador. Isso porque, o projetista e o agente responsavel por criar a meta-
+mensagem transmitida ao usuario durante a interacao. O sistema tambem e um interlocu-
+tor porque corresponde a semiose (i.e., interpretacao) cristalizada do projetista sobre a
+solucao que está sendo oferecida aos usuarios [de Souza 2005]. Para melhor representar
+tanto o tipo de solucao tecnologica que atua como interlocutor no processo comunica-
+tivo da HInt, quanto os casos em que a tecnologia parceira multicomponentes (exclusivos
+ou nao) e projetada por mais de uma equipe, esse categoria foi estendida e passou a
+ser composta pelos seguintes elementos: Projetista ou Multiplos Projetistas; Usuario e
+Tecnologia de HInt. Assim e possivel definir e descrever os interlocutores envolvidos
+na comunicacao mediada pela tecnologia parceira projetada por uma unica ou multiplas
+equipes de design [Barbosa e Prates 2022].
+
+Vale ressaltar que a definicao de se sao um ou multiplos projetistas nao se refere
+ao numero de pessoas, ou mesmo equipes envolvidas no projeto da tecnologia. No caso, o
+projetista representa o projetista de cada solucao. Em outras palavras, se uma unica solu-
+cao e pensada de forma conjunta (mesmo que tenha multiplos componentes) considera-se
+um unico projetista. Se as solucoes integradas nao foram pensadas como unica, então se
+tem multiplos projetistas. Por exemplo, este e o caso quando um aplicativo e desenvolvido
+de forma que possa ser usado com diferentes dispositivos. Assim, se o aplicativo somado
+ao dispositivo juntos formam uma solucao de HInt, logo considera-se que têm multiplos
+projetistas.
+
+A categoria Espaco de Design descreve os elementos que o projetista deve consi-
+derar ao projetar uma solucao tecnologica centrada na comunicacao. Sao eles: Emissor;
+Receptor; Mensagem; Codigo; Canal; e Contexto. Esses elementos definem que, du-
+rante a interacao, uma mensagem (i.e., metamensagem) e codificada por meio de um
+codigo (i.e., signos da interface) e enviada de um emissor (i.e., projetista) para um re-
+ceptor (i.e., usuario), por meio de um canal (i.e., dispositivo fisico no qual a interface e
+acessada), e essa mensagem refere-se a um contexto de interacao [de Souza 2005]. Para
+melhor estruturar o espaço de design da HInt, essa categoria foi estendida e passou a ser
+composta pelos seguintes elementos: Emissor ou Multiplos Emissores; Receptor; Men-
+sagem (Metamensagem) Integrada; Codigo; Canal ou Multiplos Canais e Contexto.
+
+Alem disso, ainda na categoria de Espaco de Design, o template da Metamen-
+sagem Integrada foi estendido para melhor explicitar: a quem a tecnologia de HInt se
+destina; quais as expectativas do usuario em relacao a uma tecnologia parceira; qual e a
+Solucao de HInt proposta; e como atingir os propositos da integracao. Desse modo, a par-
+tir do template da metamensagem integrada, propoe-se que - por meio da(s) interface(s)
+da solucao de HInt - o projetista responda as seguintes questoes ao usuario:
+
+“(1) Quem e voce?; (2) O que eu entendi que voce quer ou precisa fazer?; (3) O
+que eu entendi que voce deseja que uma tecnologia parceira faca por voce?; (4) Eis a Solucao de HInt que eu criei para voce: (4a) Qual e a tecnologia parceira e seus
+componentes?; (4b) O que a tecnologia parceira vai fazer de forma autonoma por
+voce? (4c) Qual e a natureza da parceria que vocês estabelecem, em termos de:
+Nivel de Autonomia? Nivel da HInt? Tipo de HInt? e Como voces estao fisicamente
+acoplados?; (4d) Para atingir os propositos de integracao, com quantos e quais
+componentes voce precisa interagir diretamente? e, finalmente, (4e) Como voce e
+a tecnologia parceira podem e devem interagir e se integrar para que a parceria
+entre voces aconteca?
+
+Considerando o exposto, por meio da extensao da categoria Espaco de Design,
+a HInt pode ser explicada como um processo no qual uma mensagem (metamensagem)
+integrada e enviada de um ou multiplos emissores para um receptor. Essa metamensa-
+gem integrada: (a) refere-se a um contexto de parceria, (b) deve ser codificada por um
+codigo compartilhado entre emissor(es) e receptor e (c) transmitida por um ou multiplos
+canais. Assim, e possivel caracterizar os processos de design e comunicacao da HInt,
+considerando as especificidades desse novo paradigma .
+
+Por sua vez, a categoria Processo de Comunicacao caracteriza os tipos (i.e., ni-
+veis) de comunicacao que ocorrem durante a tradicional IHC. Os elementos dessa cate-
+goria sao: Metacomunicacao Projetista-Usuario; Comunicacao Usuario-Sistema; e
+Preposto do Projetista. Essa categoria descreve que a metacomunicacao (indireta e uni-
+direcional) projetista-usuario ocorre por meio da comunicacao (direta) usuario-sistema.
+Por esta razao, a interface e o preposto do projetista, porque ela “fala” (i.e., comunica
+a mensagem) em nome do projetista . Para melhor representar o tipo
+especial de comunicacao que ocorre na HInt, e os casos em que duas ou mais interfa-
+ces interativas (i.e., componentes interativos distintos) “falam”, em conjunto, em nome
+do(s) projetista(s), essa categoria foi estendida e passou a ser composta pelos seguintes
+elementos: Metacomunicacao Integrada Projetista(s)-Usuario; Comunicacao Usuario-
+Sistema e Preposto do Projetista ou Preposto Coletivo. Por meio desses elementos, sera
+possivel descrever o processo comunicativo que ocorre durante a HInt, independente da
+composicao da tecnologia parceira e do numero de prepostos envolvidos na transmissao
+da metamensagem integrada .
+
+Ja a categoria Processo de Significacao define que a intencao (i.e., o que se de-
+seja comunicar), o conteudo (i.e., o que esta sendo comunicado), a expressao (i.e., como
+escolhe se comunicar), os signos (i.e., elemento expressivo que possui significado para
+alguem) e a semiose (i.e., processo de interpretacao dos signos) sao os elementos que in-
+fluenciam na percepcao e interpretacao do que esta sendo comunicado durante a interacao
+. Isso porque, em um processo de comunicacao, os individuos utilizam
+processos de significacao para atingir seus propositos. Processo de Significacao corres-
+ponde ao processo no qual o conteudo e a expressao sao sistematicamente associados em
+funcao de determinacoes culturais. Por sua vez, os signos sao elementos expressivos,
+que possuem um significado para quem os produz e quem os interpreta, e essa interpre-
+tacao ocorre por meio da semiose humana. Portanto, como a intencao, o conteudo e a
+expressao influenciam na comunicacao, o design de interfaces deve focar no uso de sig-
+nos e sistemas de significacao que possam desencadear semioses convergentes (similares)
+entre o projetista e usuarios durante a interacao . Essa foi a unica cate-
+goria da ontologia original da EngSem que nao demandou por extensoes. Isso porque,
+esses 5 elementos tambem influenciam no processo de significacao que ocorre na HInt
+.
+
+Por fim, a definicao de Comunicabilidade Integrada foi proposta para qualificar
+a metacomunicacao integrada que ocorre durante a HInt. Comunicabilidade Integrada
+e o atributo de qualidade da tecnologia parceira que, por meio de sua unica ou multiplas
+interfaces, comunica ao usuario - de forma clara, organizada, coerente, consistente e coesa
+as intencoes e as decisoes que guiaram o seu design, de modo que o usuario e a solucao
+de HInt projetada possam estabelecer uma parceria benefica e atingir seus propositos de
+integracao .
+
+Note que, a partir dessa proposta, a Comunicabilidade Integrada deve ser utilizada
+para caracterizar a qualidade da metacomunicacao integrada de uma tecnologia parceira
+independente da natureza da parceria, inteligencia e composicao (i.e., se aplica para qua-
+lificar qualquer solucao de HInt). Porem, vale ressaltar que quando a tecnologia parceira
+e composta por multiplas interfaces, normalmente, a metamensagem integrada esta frag-
+mentada entre elas. Assim, e preciso que o usuario entenda o que cada interface esta
+comunicando e como cada parte da mensagem se relaciona com as demais para que possa
+fazer sentido do todo. Assim, a qualidade associada a metamensagem integrada composta
+pelas varias partes tambem e definida como Comunicabilidade Integrada.
+
+As Figura 1.3 e Figura 1.4 sumarizam como os novos conceitos e elementos pro-
+postos se relacionam e ampliam o escopo da EngSem para estruturar e descrever a HInt
+como uma paradigma que estende o processo comunicativo da IHC.
+
+Por meio da Figura 1.3 e possivel compreender que os conceitos e a ontologia
+da EngSem foram estendidos para descrever a HInt como um processo de comunicacao
+entre parceiros (i.e., uma extensao da tradicional IHC), no qual projetista(s), usuarios
+e a Tecnologia de Hint sao os interlocutores. Em tempo de design e durante a integra-
+cao, Projetistas (uma ou multiplas equipes de design) atuam como emissores (um ou
+multiplos) da mensagem. Por sua vez, os usuarios atuam como receptores da mensa-
+gem durante a integracao. A mensagem e transmita por meio de um ou multiplos ca-
+nais e essa quantidade e definida pelos componentes fisicos que compoem a tecnologia
+parceira. O processo de comunicacao ocorre em dois niveis: (1) comunicacao (direta)
+usuario-tecnologia de HInt e (2) metacomunicacao integrada (indireta) projetista(s)-
+usuario. Embora a Tecnologia HInt tenha autonomia e, em alguns casos, inteligencia,
+a metacomunicacao integrada e a cristalizacao da semiose do(s) projetista(s) sobre o
+que ele compreendeu das necessidades de integracao do usuario. O conteudo (i.e., me-
+tamensagem integrada) e codificado por signos que podem se compreendidos dentro de
+um ou multiplos sistemas de significacao. Por meio de seu conteudo e suas expressoes,
+a metacomunicacao integrada deve revelar as intencoes e decisoes do(s) emissor(es) de
+forma coesa. Como a metacomunicacao integrada projetista(s)-usuario e mediada pela in-
+terface, a solucao de HInt projetada e o preposto ou preposto coletivo do(s) projetista(s)
+no processo comunicativo da HInt. Em outras palavras, a tecnologia parceira “fala” (i.e.,
+transmite a metamensagem integrada) em nome do(s) projetista(s). A tecnologia de HInt
+projetada atendera o criterio de comunicabilidade integrada se, durante a integracao, os
+usuarios conseguirem gerar interpretacoes e significados (i.e., semioses) compativeis com
+as intencoes do(s) projetista(s).
+
+A Figura 1.4 fornece uma forma de registrar ou apresentar de forma resumida a
+caracterizacao de uma tecnologia de acordo com a ontologia da EngSem estendida para
+HInt. Vale ressalta que nessa figura foi definida uma coluna Tipo de <Elemento> para
+representar os elementos da ontologia (a saber, projetista, emissor, canal e preposto) que
+podem ser caracterizados como unico ou multiplos. Assim, a figura apresenta a caracte-
+rizacao dos exemplos: Drone DJI Mini 3 Pro, FingerReader 2.0, Smart Band Samsung
+Galaxy Fit2, VS Code e Waze. Conforme mencionado anteriormente, estas sao tecnolo-
+gias parceiras que promovem a HInt em dominios de aplicacao distintos; e note-se que
+apresentam diferencas em relacao ao tipo de projetista, tipo de emissor, tipo de canal e
+tipo de preposto envolvidos na integracao proposta. Contudo, os conceitos e elementos
+da ontologia da EngSem para HInt contemplam essas diferencas e se aplicam para definir
+e estruturar o processo comunicativo mediado por essas tecnologias, independente das
+decisoes de design da solucao de HInt proposta.
+
+Considerando o exposto, a ampliacao do escopo da EngSem apresentada nesta
+secao pode auxiliar na estruturacao, exploracao, caracterizacao e explicacao da HInt na
+perspectiva de IHC. A seguir, sao apresentados exemplos de uso da EngSem estendida
+para HInt para estruturar e descrever tecnologias parceiras.
+
+Existem outras iniciativas na literatura que estenderam os conceitos
+ou o template da metamensagem da EngSem para diferentes tipos de tecnologias ou
+contextos/dominios de uso distintos. Por exemplo, estudos anteriores estenderam os
+conceitos da EngSem para apoiar no design e na avaliacao de: (a) sistemas Multi-
+plataformas  e (b) tecnologias de IoT
+. Alem disso, e possivel encontrar trabalhos
+que adaptaram o conteudo da metacomunicacao projetista-usuario para contemplar as
+particularidades de sistemas (a) Colaborativos , de Souza ; (b) Cus-
+tomizaveis , de Souza ; e (c) Educacionais ,
+bem como uma iniciativa que estendeu a metacomunicacao para apoiar na con-
+cepcao de tecnologias digitais moralmente responsaveis e eticamente qualificada
+. Para saber mais, acesse estes trabalhos e conheca as diferentes
+extensoes da EngSem para contemplar casos particulares de IHC.
+
+Demonstracao de Aplicacao
+Nesta secao dois exemplos de aplicacao do arcabouco teorico da EngSem para HInt sao
+apresentados. O primeiro exemplo demonstra o uso da EngSem estendida para HInt para
+explorar, caracterizar e explicar uma solucao de HInt existente. Por sua vez, o segundo
+exemplo apresenta a proposta de uma futura tecnologia parceira (i.e., solucao de HInt
+em fase de concepcao) caracterizada e descrita a luz da EngSem para HInt. Para cada
+exemplo de tecnologia parceira, sao apresentadas: (1) uma descricao da metacomunica-
+cao integrada pretendida (i.e., visao geral do conteudo da metamensagem integrada); e
+(2) uma figura que caracteriza os elementos envolvidos (e.g., interlocutores e espaco de
+design) no processo comunicativo (i.e., parceria) mediado por essa solucao de HInt.
+
+Caracterizacao de uma Solucao de HInt Existente
+O primeiro exemplo de aplicacao consiste no uso do arcabouco teorico da EngSem esten-
+dido para HInt para caracterizar e descrever o FingerReader 2.0. Essa caracterizacao foi
+baseada na descricao dessa tecnologia parceira existente, disponibilizada pelo fornecedor.
+Em linhas gerais, utilizando o template da metamensagem integrada, a metacomunicacao
+integrada (pretendida) do FingerReader 2.0 pode ser descrita da seguinte forma:
+
+(1) Quem e voce? Usuario com deficiencia visual; (2) O que eu entendi que voce quer
+ou precisa fazer? Eu entendi que voce precisa de mais autonomia para fazer suas com-
+pras, sem depender totalmente de terceiros; (3) O que eu entendi que voce deseja que uma
+tecnologia parceira faca por voce? Entendi que voce precisa de uma solucao com autono-
+mia para te auxiliar na identificacao de produtos disponiveis para compra em lojas fisicas;
+(4) Eis a Solucao de HInt que eu criei para voce: (4a) Qual e a tecnologia parceira e
+seus componentes? FingerReader2.0, uma tecnologia autonoma e inteligente composta por
+multiplos componentes: (i) um anel com camera embutida, fisicamente conectado a uma
+pulseira e (ii) um fone de ouvido; (4b) O que a tecnologia parceira vai fazer de forma
+autonoma por voce? O FingerReader2.0 vai te auxiliar na identificacao de objetos, tex-
+tos e cores para que voce tenha uma maior independencia durante as suas compras; (4c) Qual e a natureza da parceria que voces estabelecem, em termos de: Nivel de Autono-
+mia? Controle majoritariamente tecnologico; Nivel da HInt? Individual; Tipo de HInt?
+Fusao e Simbiose simultaneamente, porque o FingerReader2.0 esta acoplado fisicamente
+ao seu corpo e voces cooperam como parceiros na tarefa de realizar compras; e Como vo-
+ces estao fisicamente acoplados? On-Body; (4d) Para atingir os propositos de integracao,
+com quantos e quais componentes voce precisa interagir diretamente? 01 Componente, o
+FingerReader2.0; e, finalmente, (4e) Como voce e a tecnologia parceira podem e devem
+interagir e se integrar para que a parceria entre voces aconteca? Ao chegar no local das
+compras, voce deve vestir o FingerReader2.0 em uma de suas maos e apontar o dedo com
+anel em direcao aos objetos que deseja identificar (e.g., produtos de compra ou cedulas de
+dinheiro). Por meio de uma camera embutida, o FingerReader2.0 reconhece o objeto e o
+descreve para voce via audio. Assim, o FingerReader2.0 te ajuda a identificar os produtos
+disponiveis para compra, descrevendo-os em termos de informacoes textuais e cores. Alem
+disso, essa solucao de HInt te ajuda a tomar decisoes relacionadas a compra (e.g., compara
+os precos de diferentes marcas do mesmo produto e te apresenta recomendacoes com base
+nessa comparacao).
+
+Para complementar essa descricao, a Figura 1.5 apresenta os interlocutores, o es-
+paco de design, os tipos de comunicacao e os aspectos que influenciam na qualidade da
+HInt proposta por meio do FingerReader 2.0.
+
+A partir do conteudo da metacomunicacao integrada e conforme ilustrado na Fi-
+gura 1.5, e possivel observar que o FingerReader 2.0 e uma solucao de HInt multicompo-
+nentes, projetada por uma unica equipe de design 13, cujo foco e estabelecer uma parceria
+(por fusao e simbiose) com pessoas cegas para realizar compras. Em tempo de design e
+durante a integracao, essa equipe unica de projetistas atua como emissor da metacomu-
+nicacao integrada do FingerReader 2.0. Por sua vez, o usuario com deficiencia visual e
+o receptor no processo comunicativo que ocorre nessa integracao. A metacomunicacao
+integrada ocorre por meio da comunicacao “pessoa cega-FingerReader 2.0” e seu con-
+teudo (i.e., metamensagem integrada) e transmitido por multiplos canais, o dispositivo
+vestivel e o fone de ouvido do FingerReader 2.0. Uma vez que a intencao, o conteudo e
+a expressao (i.e., signos e sistemas de significacao) influenciam na qualidade da parce-
+ria pretendida, o FingerReader 2.0 atendera o criterio de comunicabilidade integrada se,
+durante a integracao, os usuarios cegos conseguirem gerar interpretacoes e significados
+(i.e., semioses) compativeis com a semiose que o projetista cristalizou na interface dessa
+tecnologia parceira.
+
+Caracterizacao de uma Futura Solucao de HInt
+O segundo exemplo de aplicacao consiste na caracterizacao e descricao da proposta de
+uma futura tecnologia parceira, o Needy AI Office Copilot Ultra Plus, a luz da EngSem.
+O Needy AI Office Copilot Ultra Plus e uma solucao de HInt em fase de concepcao
+cujo objetivo e atuar como parceira do usuario na tomada de decisoes apos uma reuniao
+corporativa previamente gravada.
+
+A equipe de projetistas do Needy AI Office Copilot Ultra Plus utilizou o template
+da metamensagem integrada para explicitar suas respectivas intencoes e decisoes de de-
+sign sobre: (a) a quem a solucao se destina, (b) qual e a pareceria prevista e (c) como
+o usuario e a solucao proposta devem interagir para atingir os propositos da integracao.
+A metamensagem integrada pretendida da solucao Needy AI Office Copilot Ultra Plus e
+apresentada a seguir:
+
+(1) Quem e voce? Usuarios que realizam reunioes corporativas no modo online;
+(2) O que eu entendi que voce quer ou precisa fazer? Eu entendi que voce deseja
+realizar reunioes online e, posteriormente, ter acesso ao que foi abordado para registro e tomar as decisoes necessarias; (3) O que eu entendi que voce deseja que
+uma tecnologia parceira faca por voce? Entendi que voce deseja uma tecnologia
+com autonomia para registrar o que foi conversado em uma reuniao e te auxiliar
+nas acoes que devem ser realizadas apos essa conversa; (4) Eis a Solucao de HInt
+que eu criei para voce: (4a) Qual e a tecnologia parceira e seus componentes? Ne-
+edy AI Office Copilot Ultra Plus, uma solucao composta por multicomponentes: (a)
+Needy AI System, um sistema web de reunioes online e (b) Needy App, um aplicativo
+de smartphone para gestao e controle de acoes pos reuniao; (4b) O que a tecnolo-
+gia parceira vai fazer de forma autonoma por voce? Essa tecnologia parceira vai
+registrar, analisar e sumarizar o que foi conversado na reuniao, bem como identifi-
+car e sugerir acoes (durante e apos a reuniao) baseadas no conteudo da conversa.;
+(4c) Qual e a natureza da parceria que voces estabelecem, em termos de: Nivel
+de Autonomia? Controle igualmente compartilhado; Nivel da HInt? Individual
+e Coletivo; Tipo de HInt? Simbiose; e Como voces estao fisicamente acoplados?
+Off-Body; (4d) Para atingir os propositos de integracao, com quantos e quais com-
+ponentes voce precisa interagir diretamente? 02 componentes, o sistema web de
+reunioes e o aplicativo para smartphone do Needy AI Office Copilot Ultra Plus; e,
+finalmente, (4e) Como voce e a tecnologia parceira podem e devem interagir e se
+integrar para que a parceria entre voces aconteca? Voce e todos os membros da
+reuniao devem se conectar ao sistema “Needy AI System”. Uma vez conectados,
+voce pode iniciar o registro da reuniao ou o Needy AI System pode identificar (de
+forma autonoma) que uma conversa foi iniciada e sugerir a gravacao do que esta
+sendo conversado. Durante a conversa, o Needy AI System pode sugerir topicos a
+serem discutidos ou acoes a serem realizadas. Ao concluir a reuniao e gravacao, o
+Needy AI System transcreve, sumariza e gera relatorios do que foi conversado para
+posterior visualizacao e consulta via interface do sistema. Alem disso, o Needy AI
+System sugere acoes que podem ser realizadas apos a reuniao e envia essas suges-
+toes para o aplicativo de smartphone, Needy App. Por meio do Needy App voce
+pode: (a) consultar sua agenda de reunioes passadas e futuras, (b) visualizar o re-
+sumo das reunioes passadas, bem como (c) receber e consultar as acoes sugeridas
+pelo Needy AI System para te apoiar na tomada de decisao apos cada reuniao.
+
+De forma complementar, a Figura 1.6 ilustra como a equipe de projetistas estru-
+turou o Needy AI Office Copilot Ultra Plus a luz da ontologia e dos conceitos da EngSem
+para HInt. Essa figura indica os interlocutores, o espaco de design, os tipos de comunica-
+cao e outros aspectos que influenciam na qualidade da integracao pretendida com o Needy
+AI Office Copilot Ultra Plus.
+
+Por meio do conteudo da metacomunicacao integrada e conforme ilustrado na
+Figura 1.6, e possivel observar que o Needy AI Office Copilot Ultra Plus e uma futura so-
+lucao de HInt multicomponentes, projetada por uma unica equipe de design, cujo foco
+e estabelecer uma parceria (por simbiose) com o usuario para auxilia-lo na tomada de
+decisao apos uma reuniao. Em tempo de design e durante a integracao, o projetista atua
+como emissor da metacomunicacao integrada do Needy AI Office Copilot Ultra Plus. Por
+sua vez, o usuario e o receptor no processo comunicativo que ocorre nessa integracao.
+A metacomunicacao integrada ocorre por meio da comunicacao “usuario-Needy AI Of-
+fice Copilot Ultra Plus”, por isto, o Needy AI Office Copilot Ultra Plus e o preposto do coletivo e a metamensagem integrada e transmitida por multiplos canais, o computador
+pessoal e o smartphone nesse processo comunicativo entre parceiros. Uma vez que a
+intencao, o conteudo e a expressao (i.e., signos e sistemas de significacao) influenciam
+na qualidade da parceria pretendida, o Needy AI Office Copilot Ultra Plus atendera ao
+criterio de comunicabilidade integrada se, durante a integracao, os usuarios consegui-
+rem gerar interpretacoes e significados (i.e., semioses) compativeis com a semiose que o
+projetista cristalizou na interface dessa tecnologia parceira.
+
+Consideracoes Finais
+Este capitulo visa disseminar o conhecimento acerca da existencia do paradigma da HInt e
+fornecer uma base teorica para que seja possivel explorar, compreender e explicar os feno-
+menos da HInt como uma extensao da IHC. A HInt e um topico de interesse em ascensao
+que oferece diferentes oportunidades para a Comunidade de IHC. Portanto, e importante
+expandir o conhecimento acerca desse novo paradigma de IHC para que as pessoas in-
+teressadas possam conhecer e direcionar suas futuras iniciativas para a consolidacao da
+HInt como uma extensao da tradicional IHC.
+
+O arcabouco teorico da EngSem estendido para HInt fornece uma base teorica
+para que estudantes, profissionais e pesquisadores de IHC possam explorar, compreender
+e explicar os fenomenos envolvidos no design, uso e na avaliacao de solucoes que atuam
+ou poderao atuar como parceiras dos usuarios em diferentes dominios de aplicacao. A
+extensao deste arcabouco, em especial o template da metamensagem integrada, e util
+como ferramenta epistemica  para
+estimular reflexoes e apoiar no estudo, design e na avaliacao da HInt centrados na parceria
+benefica entre humanos e tecnologias que transcende a interacao.
+
+Os exemplos apresentados no capitulo, embora resumidos, tem por objetivo ilus-
+trar a aplicacao da ontologia, seja na caracterizacao e analise de tecnologias existes (i.e.
+por meio de engenharia reversa), seja na descricao da proposta de uma solucao de tecno-
+logia parceira (i.e., concepcao de uma futura tecnologia de HInt). E as praticas propostas
+tem por objetivo ajudar o leitor a aplicar os conceitos e arcabouco apresentado. A descri-
+cao de outros exemplos esta disponivel em [Barbosa 2024].
+
+Este capitulo apresenta a HInt, mas com foco na extensao da teoria da EngSem
+para este novo paradigma. Alem do arcabouco teorico da EngSem para HInt, existe
+tambem uma extensao do Metodo de Inspecao Semiotica para HInt, o MIS-HInt (ver
+. Assim, alem de capacitar o leitor a aplicar a ontologia da EngSem es-
+tendida para HInt, este capitulo abre espaco para outras iniciativas de pesquisa explorarem
+a HInt e seus desafios a luz da Teoria da EngSem. Por exemplo, e interessante investigar a
+possibilidade e proposta para estender ou propor outros modelos e metodos fundamenta-
+dos na EngSem (e.g., MoLIC  e MAC ) para
+apoiar no estudo, no design e na avaliacao da HInt. Para saber mais sobre os desafios da
+HInt e como eles podem ser explorados a luz da teoria da Engenharia Semiotica, recomen-
+damos a leitura das seguintes publicacoes:  [Barbosa et al. 2021a, Barbosa et al. 2023, Barbosa 2024].
+
+
+
+Resumo. Pesquisadores e profissionais de Interacao Humano-Computador (IHC)
+geralmente coletam dados qualitativos sobre as preferencias, necessidades e
+comportamentos dos usuarios que precisam ser explorados. Devido a natureza
+interpretativa dos dados qualitativos, podem surgir duvidas sobre como sistem-
+atizar a analise dos dados qualitativos para garantir o rigor dessa analise. Este
+capitulo tem como objetivo apoiar pesquisadores e profissionais de IHC na apli-
+cacao de tecnicas baseadas em codificacao para sustentar a analise de dados
+qualitativos. Apresenta o conteudo ministrado em minicurso realizado durante
+o XXII Simposio Brasileiro de Fatores Humanos em Sistemas Computacionais
+(IHC 2023).
+
+Introducao
+Os estudos com usuarios conduzidos na area de Interacao Humano-Computador (IHC)
+usualmente coletam diferentes tipos de dados qualitativos a partir de metodos como en-
+trevistas e observacoes. A analise de dados qualitativos combinada ou nao com analises
+de dados quantitativos, possibilitam que se obtenha uma visao em maior profundidade
+dos resultados . Contudo, pesquisadores e praticos
+da area de IHC usualmente possuem duvidas sobre como organizar e conduzir de forma
+sistematica uma analise sobre os dados qualitativos. Ao observar a natureza dos dados
+qualitativos, tem-se a visao de que nao e possivel aplicar metodos cientificos que aux-
+iliem na conducao de tais analises.
+
+Considerando a importancia do rigor cientifico ao se analisar dados, este capí-
+tulo apresenta metodos baseados em tecnicas de codificacao que dao suporte as analises
+de dados qualitativos. O principal objetivo e apresentar as tecnicas de codificacao em
+diferentes granularidades (denominadas de niveis de codificacao) e sua aplicacao atraves
+de exemplos praticos. Nao faz parte deste capitulo discutir abordagens qualitativas de
+pesquisa como como Teoria Fundamentada. Alem de discutir as diferentes tecnicas de
+codificacao, sao apresentadas formas de demonstrar os resultados visualmente e tambem
+aspectos relacionados a validade e confiabilidade da analise de dados qualitativos. O con-
+teudo deste capitulo foi aplicado em um minicurso de seis horas que ocorreu durante o
+XXII Simposio Brasileiro de Fatores Humanos em Sistemas Computacionais (IHC 2023).
+
+Fundamentos
+Esta secao aborda os fundamentos que precedem a analise de dados qualitativos, denom-
+inada a partir daqui de analise qualitativa. Sao discutidas as principais caracteristicas da
+pesquisa qualitativa, as metodologias existentes, as formas de coleta e os tipos de dados
+gerados. Alem disso, destaca as principais abordagens de analise de dados qualitativos
+que usualmente sao adotadas.
+
+Caracteristicas da pesquisa qualitativa
+A pesquisa qualitativa e um abordagem de pesquisa que busca compreender os aspectos
+subjetivos dos fenomenos sociais e das acoes humanas dentro de um contexto especifico
+. A pesquisa qualitativa e considerada uma atividade situada porque ela posi-
+ciona o pesquisador dentro do contexto social que esta sendo estudado. Com descricoes
+precisas e detalhadas, a pesquisa qualitativa permite ao pesquisador retratar a realidade,
+compreender processos, identificar padroes de comportamento e observar caracteristicas
+que muitas vezes estao ocultas e permanecem desconhecidas para os proprios usuarios
+em suas rotinas diarias .
+
+Em vez de buscar verdades universais e objetivas, a pesquisa qualitativa foca
+em entender como as pessoas percebem e interpretam o mundo ao seu redor. Con-
+siderando que a realidade social e construida pelos individuos atraves de suas experien-
+cias, atividades, interacoes e o contexto em que estao inseridos. Nesse escopo, pres-
+supostos construtivistas servem como base para discutir a validade da pesquisa qualita-
+tiva . Existem varias metodologias que podem ser utilizadas para conduzir
+uma pesquisa qualitativa, cada uma com suas caracteristicas e aplicacoes especificas.
+Entre essas metodologias destacam-se a teoria fundamentada
+, a etnografia , a feno-
+menologia , a pesquisa-acao , o estudo de caso  e a analise de
+conteudo . Este capitulo nao tem como objetivo discutir essas metodolo-
+gias devido suas complexas particularidades. Contudo, independente da metodologia,
+dados qualitativos sao gerados e coletados, e necessitam de analises sistematizadas.
+
+Formas de coleta e tipos de dados em pesquisa qualitativa
+Para uma compreensao profunda das interacoes e experiencias humanas, a pesquisa qual-
+itativa requer praticas interpretativas e metodos especificos para analise dos dados que sao registrados pelo pesquisador durante suas atividades de investigacao e coleta. Dados
+qualitativos sao gerados a partir de observacoes, entrevistas, grupos focais, documentos
+e demais meios envolvendo qualquer forma de comunicacao humana - escrita, auditiva ou
+visual. Assim, a pesquisa qualitativa pode gerar uma serie de representacoes, incluindo
+conversas, fotografias, gravacoes audiovisuais, documentos impressos, livros e revistas,
+arquivos de noticias, paginas da internet, e demais artefatos, registros ou conteudos gera-
+dos pelos individuos.
+
+O formato mais comum de dado qualitativo usado na analise e o de texto, tais
+como transcricoes de entrevistas, memorandos e notas de estudos etnograficos. Dados de
+audio e video frequentemente sao transcritos para facilitar a atividade de analise. Dados
+no formato de texto facilitam a rotulacao dos dados, a geracao de relatorios e permite
+que diferentes pesquisadores analisem os mesmos dados sob uma mesma perspectiva.
+Dados qualitativos devem ser significativos e gerar diversidade de visoes. Deve-se ter em
+mente que na pesquisa qualitativa a representatividade dos dados e mais importante que
+sua quantidade. Essa representatividade assegura que os resultados da pesquisa sejam
+aplicaveis a contextos mais amplos . A representatividade permite que os
+dados coletados reflitam de maneira precisa e abrangente as experiencias e perspectivas
+dos participantes do estudo.
+
+Analise de dados qualitativos e abordagens analiticas
+A analise de dados qualitativos e um processo de coleta, estruturacao e interpretacao de
+dados qualitativos para compreender o que eles representam dentro do contexto estudado
+. O objetivo da analise qualitativa e transformar os dados nao estruturados,
+encontrados em textos e outros artefatos, em uma descricao detalhada sobre os aspectos
+importantes da situacao ou problema que e alvo de estudo . A coleta de
+dados qualitativos frequentemente resulta em um grande volume de informacoes, o que
+torna essencial uma organizacao e estruturacao eficazes para facilitar a analise. A analise
+qualitativa compreende tres fluxos simultaneos de atividade segundo [Gibbs 2009]:
+Condensacao de dados: processo de sumarizacao dos dados a partir da selecao,
+simplificacao, abstracao e/ou transformacao dos dados que aparecem em notas de
+campo, transcricoes de entrevistas, documentos e outros materiais empiricos.
+Exibicao de dados: um conjunto organizado e compactado de informacoes que
+permite tirar conclusoes e passar para a proxima etapa de analise.
+Conclusao e verificacao: a analise dos dados ocorre desde o inicio da pesquisa; a
+cada etapa da coleta, os dados sao analisados observando-se padroes, explicações,
+fluxos causais e proposicoes.
+
+O ciclo de analise de dados qualitativos basicamente ocorre nas cinco fases con-
+forme apresentado na Figura 2.1. Essas fases auxiliam a estruturar o processo de analise
+qualitativa, garantindo uma abordagem sistematica e rigorosa [Yin 2016].
+
+A fase compilar base de dados (1) tem como objetivo reunir todos os dados qualitativos e organizar em um formato acessivel para analise. Esta fase envolve a ordenacao e
+classificacao dos dados coletados, como transcricoes de entrevistas, notas de campo e outros documentos. Na fase de decompor dados (2), os dados sao divididos em fragmentos
+ou elementos menores. Novos rotulos ou codigos que acrescentem significado podem ser atribuidos a estes fragmentos ou elementos. O objetivo dessa fase e facilitar a deteccao de
+padroes e relacoes. Na fase de recompor dados (3), os dados sao reorganizados e arranjados de maneira a formar uma nova estrutura que forneca uma compreensao mais clara e
+coesa dos dados. Na fase de interpretar dados (4), os dados reorganizados sao avaliados
+para identificar significados e implicacoes. Nesta fase, ao refletir sobre os padroes e temas
+emergentes o pesquisador busca entender o que os dados revelam sobre o fenomeno estudado. A fase de redigir relatorio (5) e a fase de concluir a analise com a sumarizacao dos
+principais achados, sintese das interpretacoes e discussao sobre as implicacoes do estudo.
+
+Alem das atividades anteriores, os pesquisadores podem criar memorandos (ou
+memos) durante o processo de coleta e analise de dados qualitativos para apoiar no processo de analise. Memos sao anotacoes reflexivas que os pesquisadores fazem com o objetivo de (i) registrar observacoes detalhadas e descricoes dos dados coletados, ajudando
+a capturar insights sobre o contexto e os detalhes importantes; (ii) gerar textos analiticos
+que ajudem a analisar e interpretar os dados, explorando padroes, temas e categorias que
+emergem durante a codificacao; (iii) conectar conceitos e identificar relacoes entre os dados focando no desenvolvimento de teorias emergentes fundamentada nos dados; e (iv)
+documentar decisoes e mudancas feitas durante o processo de pesquisa, registrando as
+escolhas e ajustes realizados [Saldaña 2021], [Friese 2019], [Charmaz 2006].
+
+Ha uma variedade de estrategias e metodos para se conduzir uma analise qualitativa [Miles et al. 2014]. Sao descritas a seguir, algumas das principais abordagens de
+analise de dados qualitativos e suas aplicacoes.
+Analise tematica: se concentra na identificacao, analise e interpretacao de padroes
+ou temas dentro dos dados; relevante para extrair temas em areas pouco exploradas.
+Analise de conteudo: envolve a analise sistematica e objetiva do conteudo de
+textos com o objetivo de identificar padroes, temas e significados subjacentes,
+quantificando a ocorrencia e a distribuicao de categorias especificas.
+Analise do discurso: para analisar como os dados possuem sentidos e significados
+ao se relacionar com outros dados sobre um determinado contexto social (politico,
+cultural, etc).
+Analise narrativa: concentra-se nas historias que as pessoas contam e na linguagem que usam para entende-las, buscando analisar a estrutura da narrativa, os
+personagens e os eventos presentes.
+
+Codificacao basica de dados qualitativos
+Codificacao e uma pratica amplamente utilizada em analise de dados qualitativos. A
+atividade de codificacao envolve a acao de olhar os dados de forma analitica, e entao,
+nomear o que cada grupo de extracoes representa. O processo de codificacao consiste em
+identificar trechos de texto nos dados que exemplifiquem ou identifiquem alguma ideia
+em comum que possam ser reunidos em um ou mais codigos [Gibbs 2009], [Hoda 2021].
+
+Codigos sao termos que atribuem significado interpretativo aos dados, com o objetivo de facilitar a deteccao de padroes, a categorizacao de dados, a construcao de teorias
+e outros processos analiticos subsequentes [Miles et al. 2014], [Saldaña 2021]. Representados por uma palavra ou frase curta, os codigos sao capazes de apresentar uma ideia,
+dimensao ou caracteristica dos dados. Geralmente, codigos sao atribuidos para agrupar
+varios trechos de texto que representam uma mesma ideia. Alguns exemplos do que pode
+ser codificado sao listados na Tabela 2.1.
+
+A codificacao de dados qualitativos pode ser executada de forma manual usando
+post-its, quadro branco, impressao dos dados brutos, canetas marca-texto e folhas ou um
+caderno para gerar anotacoes pessoais. Ou entao, usando um Software de Analise de
+Dados Qualitativos (SADQ). SADQ sao softwares especificos para a analise qualitativa
+que incluem recursos desde a codificacao ate a visualizacao de dados. Outra opcao e realizar a codificacao de forma mista, usando todos os materiais e estrategias do metodo
+manual, mas tambem softwares de planilha eletronica e processadores de texto para organizar e buscar dados [Saldaña 2021], [Gibbs 2009]. Alguns SADQs, como ATLAS.ti - MAXQDA - NVivo, possuem versoes em desktop e web, e trazem recursos atualizados
+com suporte para analise com apoio de IA, visualizacao de dados, transcricao automatica,
+codificacao colaborativa, filtros para buscar dados e gerenciador de codigos.
+
+Uma analise qualitativa bem organizada e documentada ajuda a compreender melhor os dados coletados, refletir mais claramente sobre eles, refinar os metodos adotados pelo pesquisador e tornar os achados mais adequados para serem usados por outros pesquisadores. Uma boa pratica para apoiar o processo de codificacao e a criacao de um
+livro de codigos, que serve como um guia detalhado que descreve a estrutura, o conteudo e a organizacao dos dados coletados. O livro de codigo e crucial para organizar e
+classificar grandes volumes de dados qualitativos, como transcricoes de entrevistas, em
+categorias e temas especificos. Alem disso, garante que outros pesquisadores possam
+usar os mesmos codigos de forma consistente e transparente, dando maior confiabilidade
+a analise. O livro de codigo pode ser criado e gerenciado a partir de ferramentas SADQs.
+No entanto, os livros de codigos podem ser elaborados em planilhas eletronicas, ferramentas de processamento de texto, ou ate mesmo manualmente em um caderno.
+
+Conforme mostrado na Tabela 2.2, o livro de codigos pode ser criado no formato
+de uma tabela que recebe nomes dos codigos, uma descricao e um exemplo de extracao.
+Essa tabela pode ser atualizada periodicamente. O livro de codigos apresentado como
+exemplo e respectivo a uma analise qualitativa que investigou quais eram as estrategias
+de ensino usadas por professores do Ensino Fundamental I ao conduzirem atividades de
+ensino sobre Pensamento Computacional [Martinelli 2019]. Portanto, os codigos caracterizam diferentes estrategias de ensino identificadas durante a codificacao dos dados.
+
+Abordagens e tecnicas de codificacao
+Na codificacao de dados qualitativos, ha duas abordagens que podem ser adotadas para
+encontrar padroes e reproduzir explicacoes: codificacao dedutiva e codificacao dedutiva
+[Gibbs 2009] [Elliott 2018]. A codificacao indutiva (ou emergente) refere-se as analises
+qualitativas ou tecnicas de codificacao conduzidas sem qualquer modelo, conceito ou
+codigo para orientar a analise. Considerada uma abordagem exploratoria, os codigos e suas definicoes emergem a medida que a analise e conduzida. Durante o processo de
+codificacao, o pesquisador e guiado por perguntas de pesquisa e por seu conhecimento
+sobre o assunto analisado. E especialmente util quando ha pouca teoria existente sobre o fenomeno estudado, pois permite que novas teorias sejam desenvolvidas com base
+nas observacoes. A codificacao dedutiva (ou a priori) refere-se as analises qualitativas
+ou tecnicas de codificacao conduzidas a partir de conceitos ou codigos pre-estabelecidos
+para orientar a analise. Nesta abordagem, a analise inicia com codigos e definicoes que ja
+foram explorados previamente por exemplo, de artigos cientificos ou de pesquisas anteriores do pesquisador. No processo de codificacao, as extracoes sao agrupadas com base no
+significado de cada codigo. A codificacao dedutiva ajuda a confirmar ou refutar hipoteses
+especificas e testar teorias pre-concebidas com os dados coletados.
+
+A codificacao de dados qualitativos usualmente e desenvolvida em dois niveis de
+conceituais [Gibbs 2009]. No primeiro nivel e conduzida uma codificacao inicial com
+o foco em comparar dados e atribuir codigos que consigam explicar cada conjunto de
+dados [Charmaz 2006] [Saldaña 2021]. Neste nivel, sao codificados fragmentos de transcricoes, agrupando extracoes que reflitam acoes, eventos, praticas ou atividades. A codificacao no segundo nivel se baseia em analisar as relacoes entre os codigos iniciais com
+objetivo de agrupa-los em categorias, temas ou construcoes significativas [Saldaña 2021],
+[Miles et al. 2014]. Em uma visao abrangente sobre como conduzir a codificacao, 29
+metodos sao apresentados por [Saldaña 2021], que podem ser combinados em cada um
+dos dois niveis de forma mais adequada para responder as perguntas de pesquisa. As
+proximas secoes apresentam metodos codificacao que sao mais utilizados em cada nivel.
+
+Codificacao de Primeiro Nivel
+Na codificacao inicial (de primeiro nivel) pode-se destacar duas tecnicas de codificacao:
+a codificacao aberta que e focada na abordagem indutiva, e codificacao fechada focada
+na abordagem dedutiva [Charmaz 2006] [Saldaña 2021].
+
+Na codificacao aberta (indutiva), o pesquisador se mantem aberto a todas as direcoes teoricas indicadas a partir dos dados. A analise se inicia sem se ter codigos ou conceitos previos. A codificacao aberta e conduzida em tres etapas principais. Na primeira
+etapa, o pesquisador grifa trechos nos dados e atribui um nome (codigo) para representar
+determinada extracao (trecho dos dados). Na segunda etapa, os codigos identificados recebem novas extracoes e seus nomes podem ser modificados a medida que o pesquisador
+se aprofunda na analise. Na etapa final da analise, elaboram-se definicoes aos codigos, a
+partir das extracoes relacionadas a cada um deles [Charmaz 2006].
+
+A Figura 2.2 apresenta um exemplo de codificacao aberta. No trabalho, foram
+entrevistados profissionais de startups de software para se analisar quais eram as necessidades enfrentadas no trabalho de design de UX. A primeira tecnica aplicada foi a
+codificacao aberta, conduzida por dois pesquisadores. Cada pesquisador fez uma leitura
+individual das entrevistas e grifou trechos significativos de serem armazenados como extracoes (coluna 1 do exemplo), nomeando codigos especificos para cada extracao (coluna
+2 do exemplo). A medida que novas extracoes foram identificadas para os codigos emergentes na analise, cada pesquisador pode elaborar definicoes para tais codigos (coluna 3
+do exemplo).
+
+Na codificacao fechada (dedutiva), o pesquisador organiza e define previamente
+os codigos antes de iniciar a codificacao. A analise dos dados e marcacao das extracoes e
+orientada (fechada) por um conteudo ja conhecido. Na primeira etapa, o pesquisador elabora uma lista de codigos com suas respectivas definicoes, sendo este material elaborado a
+partir de resultados de pesquisas anteriores do pesquisador, ou ainda, de trabalhos cientificos da literatura. Essa lista de codigos servira como um guia de consulta do pesquisador
+para executar a analise dos dados. Na segunda etapa, o pesquisador grifa trechos nos
+dados e atribui o codigo que melhor representa cada extracao. Ao final da analise, o
+pesquisador pode rever as extracoes separadas por codigo e confirmar se elas atendem ao
+significado do mesmo [Saldaña 2021].
+
+A Figura 2.3 apresenta um exemplo de codificacao fechada. A partir de uma revisao sistematica da literatura que selecionou 45 artigos, o objetivo da codificacao fechada
+foi identificar em quais momentos do Long-Term UX as praticas de UX Research eram
+realizadas pela industria de software. Portanto, definiu-se previamente os codigos (coluna
+1 do exemplo) e suas definicoes (coluna 2 do exemplo) relacionados a cada momento do
+Long-Term UX, baseado na literatura de [Roto et al. 2011]. A leitura das extracoes advindas dos artigos foi realizada e grifos em trechos identificaram a conexao com um dos
+codigos. O exemplo da Figura 2.3 (coluna 3) apresenta trechos de dois artigos.
+
+Um ponto importante na conducao da codificacao, e que o pesquisador pode, para
+uma mesma extracao, associar mais de um codigo. No entanto, isso depende do objetivo
+da analise qualitativa ou das necessidades do pesquisador [Saldaña 2021].
+
+A codificacao inicial produz um resultado que sera usado na codificacao de segundo nivel. Essa tem como objetivo desenvolver um senso de organizacao categorica,
+tematica, conceitual e/ou teorica a partir de um conjunto de codigos obtidos a partir da
+analise em primeiro nivel [Saldaña 2021]. Essa nova rodada de analise de dados exige
+que o pesquisador reorganize e reconfigure seus codigos iniciais para eventualmente desenvolver uma lista menor e mais seleta de categorias, temas, conceitos e/ou afirmacoes
+mais amplas, visando gerar uma sintese sobre os dados [Saldaña 2021]. As secoes 2.5
+e 2.6 exploram metodos para se desenvolver analise qualitativa. Contudo, neste capitulo
+focam em descrever conceitos e tecnicas respectivas a codificacao de segundo nivel.
+
+Analise de Conteudo
+A analise de conteudo e uma metodologia sistematica e replicavel de analise qualitativa
+que analisa os significados do conteudo, bem como os contextos e intencoes contidos
+nas mensagens [Lazar et al. 2017]. Ela permite ao pesquisador interpretar os dados de
+maneira diferenciada, compreender o contexto e como se da as complexidades do conteudo, com enfase na interpretacao de significados presentes em determinados codigos ou
+categorias [Hecker, J. and Kalpokas, N. 2024]. A analise de conteudo envolve a exploracao da comunicacao em suas diversas formas, como texto escrito, fala, imagens, fotos
+ou videos, sendo esse conteudo normalmente obtido por meio de observacoes, entrevistas
+e grupos focais [Lazar et al. 2017, Hecker, J. and Kalpokas, N. 2024].
+
+Para a codificacao de primeiro nivel, a analise de conteudo aceita a codificacao
+fechada, na qual os codigos iniciais sao estabelecidos e descritos antes do conteudo ser criado. Ou entao, pode-se desenvolver uma codificacao aberta, em que os codigos emergem
+durante a analise cuidadosa que e feita nos dados [Lazar et al. 2017]. Durante a codificacao de segundo nivel, o pesquisador trabalha no reconhecimento de padroes presentes
+nos dados, sendo isso caracterizado por reconhecer semelhancas, diferencas, frequencias,
+sequencias, correspondencias ou causalidades nas extracoes, codigos e grupos de codigos [Hoda 2021]. Outro trabalho necessario esta em identificar os codigos em um nivel
+de abstracao mais alto, reconhecendo categorias e subcategorias. Ou seja, identifica-se
+grupos de codigos que compartilham caracteristicas e conteudos comuns sobre um assunto ou achado [Charmaz 2006]. Para apoiar a pratica de codificacao de segundo nivel,
+pode-se iniciar o ciclo com a codificacao focalizada, e depois progredir para a codificacao
+axial [Saldaña 2021].
+
+Codificacao focalizada
+A codificacao focalizada e uma tecnica de codificacao que visa identificar os codigos
+mais frequentes ou significativos. Esses codigos permitem descrever as categorias mais
+emergentes e requer decisoes do pesquisador sobre quais codigos iniciais possuem mais
+sentido analitico para serem mantidos [Charmaz 2006]. Sendo assim, na codificacao focalizada busca-se gerar categorias que caracterizam resultados mais direcionados, seletivos e conceituais [Saldaña 2021]. Para conduzir a codificacao focalizada, recomenda-se
+executar as atividades a seguir conforme recomendacao de [Charmaz 2006, Saldaña 2021]:
+A) revisao de codigos para redefinir nomes ou definicoes que atendam de forma mais
+precisa o conteudo de cada codigo; B) mesclar codigos que se mostraram conceitualmente semelhantes, ou ainda, similares em relacao as extracoes agrupadas em diferentes
+codigos. A operacao de mesclagem e a ideia de transformar dois ou mais codigos em apenas um codigo; C) avaliar codigos infrequentes (com poucas extracoes) quanto a sua
+importancia para a analise e se podem ser descartados, ou ainda, serem mesclados com
+outros codigos; D) gerar a definicao das categorias a partir dos codigos e extracoes relacionados a cada categoria. Faca uma leitura de todos os codigos filhos da categoria para
+conceber uma definicao compativel e que represente o significado real daquele resultado;
+e E) reexaminar anotacoes de memos e extracoes de codigos que ajudem a explicar
+a elaboracao das categorias ou subcategorias, ou ainda, que auxiliem na fundamentacao
+desses achados de segundo nivel.
+
+A Figura 2.4 apresenta um exemplo de codificacao focalizada. O contexto e objeto
+de pesquisa sao os mesmos descritos sobre a Figura 2.2 (ver Secao 2.4). Uma codificacao
+de primeiro nivel com codificacao aberta resultou em 23 codigos consolidados entre dois
+pesquisadores, enquanto que, apos a codificacao focalizada no segundo nivel, resultou
+em 14 categorias. A Figura 2.4 apresenta apenas duas categorias, mas incluindo todos os
+codigos filhos relacionados (coluna 1), bem como a definicao gerada para cada categoria
+(coluna 3).
+
+Codificacao axial
+Ja na tecnica de codificacao axial foca-se em identificar relacionamentos logicos entre as
+categorias e subcategorias, ou ainda, entre codigos. O objetivo desses relacionamentos e
+gerar uma estrutura aos resultados que possibilitem explicar quais e como sao as conexoes
+entre os achados [Saldaña 2021]. Neste tipo de codificacao tambem e possivel especificar
+as propriedades e dimensoes de cada categoria. Propriedades (ou seja, caracteristicas ou
+atributos) e dimensoes (variacoes de uma propriedade em um "recorte" de dados) de uma
+categoria referem-se a componentes como contextos, condicoes, interacoes e consequencias de um processo – elementos que permitem ao pesquisador saber “se, quando, como
+e por que” algo acontece [Charmaz 2006], [Saldaña 2021].
+
+O principal trabalho em uma codificacao axial e estabelecer relacionamentos entre extracoes, codigos ou categorias para explicar a natureza das relacoes entre dados
+e gerar sentencas logicas [Gibbs 2009]. Para isso, alguns conhecimentos previos podem ajudar o pesquisador a pensar em como estruturar os relacionamentos nos dados
+analisados. Trabalhar com representacoes graficas como visualizacoes em rede ajudam na interpretacao e comunicacao eficaz dos resultados [Saldaña 2021], permitindo
+estabelecer links nomeados para expressar com mais clareza a natureza das relacoes
+[Friese 2019, Friese, S. 2023]. Um link (ou seja, uma relacao) possui um rotulo que
+apresenta como se da a leitura entre dois nos (ou seja, dois codigos). Esses links sao
+baseados em relacoes matematicas, sendo suas propriedades classificadas em tres tipos
+conforme apresentado em [Friese 2019, Friese, S. 2023]: Simetrica, quando a relacao for
+valida tanto de um codigo A para B, como de um codigo B para A, representando uma
+equivalencia entre ambos; Transitiva, quando existe uma relacao do codigo A para B e,
+consequentemente, o codigo B tem a mesma relacao com C, entao A tambem se relaciona
+com C, existindo uma equivalencia entre todos; e Assimetrica, quando um codigo A possui uma relacao com B, mas o codigo B nao possui a mesma relacao com A, sendo assim,
+apenas a relacao de A para B e verdadeira.
+
+A partir da compreensao das relacoes matematicas e em materializar tais relacionamentos usando visualizacoes em rede, a Tabela 2.3 apresenta um resumo com varias
+possibilidades de relacionamentos entre dados e seus tipos. O pesquisador pode consultar
+uma descricao sobre como deve ser interpretada a leitura do relacionamento (em italico)
+e como o relacionamento deve ser representado graficamente entre dois nos.
+
+A Figura 2.5 ilustra uma visualizacao em rede. Nesse trabalho, docentes criaram
+e aplicaram suas proprias atividades de ensino sobre Pensamento Computacional. Apos
+a coleta e analise dessas atividades de ensino, descobriu-se os relacionamentos entre os
+diferentes elementos que compoem uma atividade de ensino sobre o assunto investigado.
+Na visualizacao em rede existem sete codigos que caracterizam um meio de conducao
+da atividade de ensino (is a). Os meios de conducao fazem parte de uma atividade de ensino (is part of), ao mesmo tempo que estao vinculados com as areas do conhecimento
+e temas da Ciencia da Computacao (is associated with). Ainda na Figura 2.5, ao lado
+esquerdo, apresenta-se um exemplo de interpretacao entre codigos, permitindo a criacao
+de sentencas logicas para esclarecer os resultados na codificacao axial.
+
+As seguintes atividades sao recomendadas para se conduzir a codificacao axial
+[Saldaña 2021], [Charmaz 2006], [Strauss and Corbin 1998]:
+
+Identificar padroes de relacionamentos existentes nos dados a partir da releitura
+das extracoes presentes nos codigos, bem como das definicoes desenvolvidas para
+os codigos e categorias. Realizar uma leitura analitica que ajude a interpretar
+padroes sobre como diferentes codigos ou categorias "conversam entre si";
+
+Gerar visualizacoes em rede para documentar os relacionamentos consolidados entre codigos e categorias, capazes de explicar os principais resultados. O
+pesquisador pode tanto utilizar os relacionamentos apresentados na Tabela 2.3 (comumente encontrados em SADQ), bem como criar seus proprios relacionamentos
+usando novos rotulos que sejam apoiados nos tipos de propriedades presentes nas
+relacoes matematicas;
+
+Elaborar sentencas logicas ou afirmacoes que ajudem a justificar porque determinada relacao foi definida para uma dupla de codigos. A construcao dessas sentencas dependem do tipo de relacionamento aplicado, sendo possivel tambem expor recortes de extracoes dos dados que ajudem na defessa das sentencas logicas
+elaboradas e, se necessario;
+
+Explique as condicoes, acoes e consequencias sobre os resultados, a partir dos
+relacionamentos desenvolvidos entre codigos e categorias. Nas condicoes o pesquisador caracteriza as circunstancias ou situacoes as quais determinam o objeto
+de estudo; nas acoes ou interacoes o pesquisador esclarece a rotina ou estrategias dos participantes (por exemplo, entrevistados) sobre eventos ou problemas
+identificador; e nas consequencias, o pesquisador explica os efeitos das acoes ou
+interacoes realizadas pelos entrevistados. Enquanto as acoes ou interacoes ajudam
+o pesquisador a responder questoes do tipo “quem” e “como”, as consequencias
+respondem as perguntas sobre “o que ocorre” por causa dessas acoes ou interacoes.
+
+Analise Tematica
+A Analise Tematica e um metodo para identificar, analisar e relatar padroes existentes
+em dados qualitativos que concentram-se na descoberta de temas [Braun et al. 2019]. A
+aplicacao do metodo busca organizar e descrever um conjunto de dados em detalhes e
+as conexoes entre esses dados. Diferente de metodos como da Teoria Fundamentada, a
+Analise Tematica nao esta vinculada a nenhum framework teorico que seja determinante
+para sua conducao. E um metodo flexivel que permite que frameworks possam ser adotados, caso o pesquisador deseje [Braun et al. 2019].
+
+Um tema e uma descricao de uma crenca, uma pratica, uma necessidade ou outro
+fenomeno que e frequentemente identificado nos dados analisados [Braun et al. 2019,
+Saldaña 2021]. Um tema emerge quando descobertas que estao relacionadas aparecem
+varias vezes a partir de uma grande amostra de dados. Essa amostra pode representar, por
+exemplo, dados de participantes de entrevistas ou ainda ser proveniente de fontes diversas
+de dados complementares (por exemplo, dados de comportamentos de grupos de usuarios,
+eventos ocorridos durante a interacao com um artefato, dados de revisao da literatura, entre outros) [Saldaña 2021]. Ao conduzir uma Analise Tematica, e possivel identificar
+temas que sao classificados em dois niveis: nivel semantico ou explicito e nivel latente ou
+interpretativo. Usualmente, a analise tematica concentra-se em um nivel somente, mas e
+possivel fazer a combinacao de ambos caso desejado [Braun et al. 2019].
+
+No nivel semantico ou explicito, os temas sao identificados a partir dos significados explicitos ou superficiais dos dados. O pesquisador busca por temas que sao um
+reflexo dos proprios dados. Por exemplo, em uma Analise Tematica conduzida com dados
+de entrevistas, o tema e relacionado a falas de participantes ou do que foi descrito por eles
+sem haver interpretacao do pesquisador. Os dados sao organizados para mostrar padroes
+em conteudo semantico. [Zaina et al. 2022] identificaram temas a partir de uma analise
+da literatura cinza4 que descreveu barreiras de acessibilidade que ocorrem ao usar padroes
+de design de interface5 no design de aplicativos moveis. A partir da elaboracao dos temas
+foram propostas diretrizes para evitar os problemas relacionados a barreiras de acessibilidade. A Figura 2.6 apresenta o trecho onde a extracao ocorreu (a), os respectivos codigo
+(c) e tema (b) associados ao dado trecho, e todos os codigos associados aquele tema (d).
+Pode-se observar que o tema nada mais e do que o nome do padrao de design.
+
+O nivel latente ou interpretativo vai alem do conteudo semantico explicito nos
+dados. Nesse nivel de analise, identifica-se ou examina-se ideias, suposicoes e conceituacoes que estao implicitas a partir dos dados. O pesquisador define temas que descrevem
+uma informacao do conteudo semantico dos dados. Por exemplo, um conjunto de dados de observacao de diferentes usuarios podem descrever uma categoria de comportamento sem que o tipo de comportamento tenha sido mencionado explicitamente nos dados. [Garcia and Andujar 2023] aplicou a analise tematica em entrevistas realizadas
+com profissionais de UX para compreender requisitos relevantes para design de interfaces
+multimodais em aplicacoes de realidade estendida (XR – Extended Reality, que envolve
+realidade virtual, aumentada e mista). A Figura 2.7 apresenta um conjunto de codigos (a),
+o tema relacionado (b) e uma descricao sucinta do tema (c). A nominação do tema foi
+realizada a partir da interpretacao dos dados disponiveis nas entrevistas.
+
+A Analise Tematica e conduzida de forma semelhante ao processo de codificacao
+visto nas secoes anteriores. [Braun et al. 2019] sugere a execucao de seis etapas conforme
+apresentado na Figura 2.8. Primeiro, o pesquisador deve familizarizar-se com os dados
+(Etapa 1) qualitativos atraves de leituras e releituras dos dados. Para isto, os dados devem ser transcritos para texto (se necessario) antes do inicio das etapas. Esse tambem
+e momento em que o pesquisador faz anotacoes de ideias iniciais sobre codigos. Apos
+a familizarizacao, prossegue-se com a geracao dos codigos iniciais (Etapa 2). Nesse
+etapa o pesquisador codifica parte dos dados que sejam relevante ao foco da pesquisa de
+maneira sistematica; ele percorre todo o conjunto de dados, agrupando dados relevantes
+para cada codigo. Apos a geracao dos codigos, e o momento de procurar por temas
+(Etapa 3), agrupando os codigos em temas potenciais de maneira a reunir todos os dados relevantes para cada tema potencial. A partir do conjunto dos potenciais temas, o
+pesquisador faz a revisao de temas (Etapa 4) para verificar se os temas sao aderentes em
+relacao aos extratos codificados (codificacao em primeiro nivel) e a todo o conjunto de
+dados (codificacao em segundo nivel), gerando um mapa tematico da analise. As etapas 3
+e 4, sao executadas de forma ciclica e iterativa para que os codigos e temas sejam gradativamente refinados. Apos o refinamento, e o momento de definir e nomear os temas
+(Etapa 5). Nessa etapa e realizada a analise continua para refinar as especificidades de
+cada tema, gerando definicoes e rotulos claros para cada tema. Por fim, na ultima etapa, e
+feita a producao do artefato tematico (Etapa 6) que apresenta a descricao dos temas e
+de extratos que ilustram os temas.
+
+A geracao de agrupamentos ou composicao dos temas podem ser guiados pela
+experiencia dos pesquisadores. Alem disso, e relevante usar trechos do texto para mostrar
+evidencias da construcao de codigos e temas e realizar a discussao com foco nos dados e
+nao nas especulacoes que sao estimuladas pelos resultados. As visualizacoes auxiliam na
+comunicacao dos resultados.
+
+Um exemplo de Analise Tematica pode ser visto em [Saad et al. 2021]. Os autores
+conduziram uma analise tematica em 21 artigos selecionados a partir de um mapeamento
+sistematico da literatura. Os resultados revelaram sete temas que demonstram desafios
+e oportunidades sobre a pesquisa de trabalho de UX em startups de software. O artefato
+tematico do artigo e composto por um mapa mental que apresenta a relacao entre os temas,
+os codigos associados aos temas e os artigos de onde emergiram os temas identificados
+pela letra "P" (ver Figura 2.9); os codigos comuns a mais de uma tema sao apresentados
+em caixas cinzas; e as definicoes dos temas sao descritas no corpo do artigo.
+
+Visualizacao de Dados
+Resultados qualitativos permitem criar narrativas e contar historias sobre descobertas
+identificadas. Entretanto, assim como ocorre com dados quantitativos, os resultados qualitativos podem ser sumarizados [Schwabish 2021]. Portanto, ao representar resultados
+qualitativos, e possivel explorar visualizacoes com funcoes dedicadas a comparacao, visualizacao de conceito, correlacao, distribuicao e parte no todo (hierarquico) [Data Viz 2024].
+
+A escolha de uma ou mais funcoes para elaborar uma visualizacao dependera da informacao que se pretende passar ao leitor e do local onde os resultados serao publicados
+[Schwabish 2021]. Nesta secao, apresentamos uma introducao sobre a visualizacao de
+dados qualitativos, explicando cinco tipos comuns de visualizacoes que as autoras deste
+capitulo utilizaram em publicacoes.
+
+O diagrama de sankey e util para mostrar a distribuicao dos relacionamentos
+de uma categoria para os seus respectivos codigos e observar a frequencia de extracoes
+presentes em cada relacionamento [Schwabish 2021]. Ao utilizar o sankey para resultados qualitativos, cada fluxo do diagrama confirma um relacionamento existente entre um
+codigo A e B, ou ainda, um codigo que faz parte de uma categoria. A largura de cada fluxo
+indica a ocorrencia de extracoes que existem entre dois codigos, enquanto que a largura
+do no (que acompanha o nome do codigo) indica a quantidade de extracoes respectivas a
+um codigo ou categoria.
+
+A Figura 2.10 apresenta um exemplo do diagrama de sankey. Os dados apresentados pelo grafico e relacionado a um estudo em que profissionais de startups e empresas
+de software avaliaram um catalogo desenvolvido para orientar o uso de praticas de UX
+Research. A avaliacao foi baseada em respostas ao questionario Technology Assessment
+Model (TAM) [Dias et al. 2011]. O feedback dos participantes passou por uma codificacao aberta que resultou em 14 codigos (coluna a esquerda do sankey), sendo um codigo
+relacionado a um ou mais elementos do TAM (coluna a direita do sankey)
+
+Outro tipo de visualizacao e o mapa de calor (heatmap) que e apresentado a
+partir de uma tabela com celulas codificadas por cores. O mapa de calor usa saturacaoes de
+cores para representar variacoes de valores [Schwabish 2021] que, no caso dos resultados
+qualitativos, representam as ocorrencias de extracoes comuns entre dois ou mais codigos.
+Quanto mais escura a cor, mais extracoes existem entre determinados codigos.
+
+Um mapa de calor e ilustrado na Figura 2.11. Foram realizadas coletas com profissionais de startups e empresas de software para compreender os tipos de requisitos de UX
+que eles descrevem a partir da tecnica de Lean Persona, e como isso esta relacionado a
+atributos UX segundo [Hassenzahl 2018] (elementos why, what e how). Na Figura 2.11,
+as linhas representam os quadrantes da Lean Persona, enquanto que os labels verticais superiores sao os atributos de UX. Cada retangulo indica a quantidade de extracoes reunidas
+sobre os tres codigos.
+
+Ja o mapa de rede (ou rede de codigos) mostra hierarquias e conexoes que ocorrem entre codigos e categorias [Schwabish 2021]. Exemplos de redes de codigos podem ser encontras nas publicacoes de [Martinelli 2019] e [Martinelli and Zaina 2021]. O
+treemap fornece uma exibicao hierarquica dos dados e facilita a localizacao de padroes.
+Um exemplo de treemap pode ser consultado em [Martinelli et al. 2022]. Por fim, a nuvem de palavras e uma visualizacao que visa mostrar palavras, termos ou conceitos recorrentes de um conjunto de extracoes [Schwabish 2021]. Exemplos de nuvem de palavras
+podem ser vistos em [Martinelli 2019].
+
+Os SADQ como ATLAS.ti, MaxQDA ou NVivo, dependendo da versao usada
+(especialmente a paga), possuem recursos para construir as visualizacoes citadas anteriormente. Se outro software for usado para organizar a codificacao ou agrupar extracoes
+(como Microsoft Excel, Google Sheets ou Notion), sera necessario utilizar outras aplicacoes para gerar visualizacoes. Flourish
+, Datamic
+e Plotly
+sao plataformas dedicadas
+a gerar visualizacoes de dados, basta selecionar um tipo de grafico e submeter uma base de
+dados com as formatacoes necessarias. Outras plataformas como Infogram, Venngage
+e Canva1 tambem apresentam recursos que possibilitam gerar visualizacoes.
+
+Qualidade da Analise Qualitativa
+A validade na analise qualitativa relaciona-se ao uso de procedimentos bem estabelecidos
+e documentados que auxiliam na conducao e replicacao desse tipo de analise [Gibbs 2009].
+Durante o processo de codificacao de dados, uma serie de decisoes relativas a interpretacao de observacoes individuais sao tomadas por quem a conduz [Lazar et al. 2017].
+A confiabilidade e demonstrada quando se alcanca consistencia nos resultados mesmo
+com diferentes pesquisadores analisando os mesmos dados [Gibbs 2009]. Sao praticas
+recomendadas por [Lazar et al. 2017, Gibbs 2009] para fortalecer a validade da analise
+qualitativa:
+Organizacao dos dados: construcao de uma base de dados que inclui todos os
+materiais de coleta e analise.
+Triangulacao de fontes de dados: uso de multiplas fontes de dados advindas de
+diferentes instrumentos de coleta para apoiar uma interpretacao dos dados.
+Interpretacoes fundamentadas: realizadas com base na maior ocorrencia que justifiquem as categorias e codigos.
+Interpretacoes alternativas: apresentar justificativas que demonstrem que o modelo que esta sendo adotado e adequado em relacao a outros modelos que poderiam
+ser usados.
+Descricao do metodo seguido: apresentar em detalhes todos os passos do metodo
+seguido para analise e tambem informar o perfil dos pesquisadores envolvidos.
+
+A discussao sobre a validade da analise qualitativa e feita a partir das seguintes
+dimensoes [Gibbs 2009]: (a) validade de conteudo que refere-se a avaliar se o conteudo
+dos dados coletados esta relacionado com o que o pesquisador pretende medir (se atende
+ao objetivo); seu objetivo e garantir que as descobertas fazem sentido no escopo do estudo
+e apontar se necessitam de investigacao adicional; (b) validade de criterio possibilita
+avaliar quao precisa uma medida ou estrategia de analise adotada pode auxiliar na elaboracao de codigos e categorias; estimula a discussao do porque determinada estrategia
+de analise e adequada ao estudo; e (c) validade de construto que possibilita realizar o
+teste de validade de uma categoria ou codigo para examinar quais construtos explicam a
+variacao no desempenho do teste.
+
+A analise qualitativa possui alguns desafios relacionados a confiabilidade como
+uma mesma palavra pode ter significados diferentes em contextos diferentes; diferentes
+termos ou expressoes podem sugerir o mesmo significado; e o conjunto de dados e grande
+e varios codificadores podem codificar diferentes subconjuntos de dados [Gibbs 2009]. A
+estabilidade e a reprodutibilidade sao duas dimensoes importantes de serem tratadas na
+analise qualitativa. A estabilidade busca lidar com a confiabilidade intra-codificador, ou
+seja, examinar se o codificador (pesquisador) classifica os dados da mesma maneira durante todo o processo de codificacao. Ja a reprodutibilidade foca-se no inter-codificador
+ao verificar se codificadores diferentes codificam de maneira consistente; se diferentes
+pesquisadores chegam a conclusoes semelhantes que sao confiaveis [Gibbs 2009].
+
+As praticas a seguir sao sugeridas para fortalecer a confiabilidade da analise qualitativa [Lazar et al. 2017, Gibbs 2009]:
+Instrucoes de codificacao explicitas: elaborar um conjunto de instrucoes explicitas e treinar os codificadores para criar um conhecimento comum antes de se
+iniciar a codificacao.
+Verificacoes de confiabilidade frequentes: conduzir verificacoes durante todo o
+processo para que uma codificacao inconsistente possa ser detectada o mais cedo
+possivel. Uma maneira de verificar a consistencia da codificacao e calcular a
+porcentagem de concordancia entre codificadores, ou aplicar o coeficiente Kappa
+de Cohen, que avalia a confiabilidade entre avaliadores em uma escala de 0 a 1.
+Reagir as divergencias: em caso de divergencias e fundamental determinar um
+padrao unico para continuidade da codificacao, revisar o livro de codigos e as
+instrucoes de codificacao para chegar ao novo consenso.
+
+Consideracoes Finais
+Este capitulo apresentou os fundamentos sobre tecnicas de codificacao para serem aplicadas na analise de dados qualitativos.
+
+Tecnicas para analise de codificacao em dados brutos (primeiro nivel de codificacao) e para refinamento da codificacao (segundo nivel de codificacao) foram discutidas
+ao longo do capitulo. Procedimentos sobre como sistematizar a analise qualitativa e tambem sugestoes de representacoes graficas para demonstrar os resultados foram abordadas.
+Por fim, uma discussao sobre a qualidade da analise contemplando a confiabilidade e
+reprodubilidade da analise tambem fez parte do capitulo.
+
+
+
+Resumo
+Big Techs utilizam design manipulativo para atrair e monetizar a atencao de pessoas
+em suas plataformas de software, frequentemente em detrimento da protecao e
+bem-estar delas. As interfaces manipulativas variam conforme o publico, afetando de
+forma particular idosos e criancas, que enfrentam taticas de design como pressao de
+tempo e navegacao restrita. Este cenario tem gerado crescente escrutinio e esforcos
+transdisciplinares para combater tais praticas, promovendo legislações de protecao ao
+usuario. Neste artigo, abordamos a criacao de solucoes de software etica, utilizando o
+Instagram como estudo de caso. Ilustramos e refletimos sobre praticas de design justo e
+antietico em plataformas de midia social, contribuindo para a conscientização e
+melhores praticas na comunidade de design e informatica.
+
+Introducao
+As Big Techs (GAFAM – Google, Amazon, Facebook, Apple e Microsoft; somadas a
+ByteDance, proprietaria do TikTok) implementam estrategias para atrair um publico
+diverso e monetizar sua atencao. No entanto, tais artificios costumam negligenciar a
+protecao, seguranca e ate mesmo o bem-estar das pessoas que consomem ou produzem
+conteudo online. Em suas plataformas, estas empresas adotam padroes manipulativos de
+design para modificar o conjunto de escolhas de usuarios(as) e moldar seu fluxo de
+informacoes. Acima de tudo, tais padroes afetam a etica no desenvolvimento.
+
+Os prejuizos causados por esses padroes variam de acordo com o
+publico, como o uso de interfaces “fofas” (cuteness) em robos domesticos para idosos,
+que cria um forte apego emocional e promove uma “miopia de dados”. Criancas, por sua
+vez, sao expostas a aplicativos com design manipulativo, que incluem pressao de tempo
+artificial, restricoes de navegacao e estimulos para prolongar o tempo de jogo ou realizar
+compras (RADESKY, 2022). Essas praticas comprometem o bem-estar online,
+transferencia indevida de dados e violacoes de privacidade (SCHAFFNER et al., 2022).
+Esse cenario aumentou o escrutinio em relação ao bem-estar e autonomia dos usuarios,
+especialmente de criancas e pessoas com baixa literacia digital.
+
+Os esforcos para combater praticas injustas de design como padroes
+manipulativos sao cada vez mais transdisciplinares, com um nucleo de pesquisa em HCI
+e relatorios de varios orgaos regulatorios sendo usados para apoiar novas legislações de
+protecao aos usuarios e sancoes legais contra empresas de TI que minam a escolha e a
+autonomia de criancas via design antietico.
+
+Nesse contexto, o objetivo do minicurso foi incentivar a construcao de
+solucoes de software socialmente responsaveis e eticas, por meio de uma abordagem
+conceitual e pratica de reflexao sobre padroes obscuros de design na experiencia do
+usuario (UX). Para isso, realizamos uma apresentacao de conceitos ligados a padroes
+antieticos como tipologias de design manipulativo – bem como de padroes ou praticas
+eticas de design como o recem-lancado conceito de Fair Design (POTEL-SAVILLE e
+DA ROCHA, 2023). Aqui, inspirado pelos trabalhos conduzidos durante o minicurso,
+ilustramos como estes conceitos podem ser identificados em plataformas de midia
+social. Para isso, escolhemos, como estudo de caso, o Instagram, considerada a sua
+ampla base de pessoas usuarias (somente o Instagram, entre as plataformas governadas
+pela Meta, possui mais de 2 bilhoes de usuarios ativos) (O GLOBO, 2022) e relevancia
+no mercado de TI. Assim, esperamos contribuir para difusao dos conceitos e reflexao
+sobre praticas de construcao de tecnologia pelas comunidades de design e informatica.
+
+O texto a seguir esta estruturado da seguinte forma. Na secao 2, apresentamos
+um referencial conceitual sobre padroes enganosos e justos de design. A secao 3
+descreve o metodo empregado nesta pesquisa. Na secao 4, descrevemos, com imagens,
+como os padroes eticos de design, conhecidos aqui como design justo, foram ou nao
+identificados no Instagram, como caso em analise. Por fim, trazemos consideracoes
+finais da pesquisa, com destaque para questoes e pesquisas futuras.
+
+Referencial Conceitual
+Padroes enganosos e manipulativos de design
+
+Esse conceito surge do ingles, deceptive ou manipulative patterns. Traduzidos como
+padroes enganosos e manipulativos ou simples obscuros de design, eles sao artificios de
+design que estao em solucoes de software cujos desenvolvedores usam conhecimento
+sobre o comportamento humano (ex.: desejos das pessoas) para construir
+funcionalidades enganosas que nao sao do interesse delas para manipular decisoes. Um
+total de mais de vinte padroes de design manipulativo ja foi mapeado pela literatura de
+ciencia da computacao (em particular, pelo campo de IHC).
+
+Entre eles esta o padrao interferencia visual, ja considerando um classico em
+termos de mas praticas de design de solucoes. Este padrao, quase onipresente em
+solucoes de software, cria a chamada "friccao” na interface. Ou seja, aumenta a
+dificuldade em termos do numero de cliques ou telas a acessar, ocultando ou
+deliberadamente escondendo informacoes. Alguns exemplos sao textos pequenos ou de
+baixo contraste, interfaces caoticas ou inclusao de informacoes importantes (ex.:
+privacidade) em locais inesperados pela pessoa. A Meta, responsavel por plataformas
+com bilhoes de usuarios como Instagram, Facebook e WhatsApp, cria secoes como
+"dados pessoais", "senha e seguranca”, “informacoes e permissoes”, que nao trazem
+formas de gerenciar dados pessoais (recursos adequados sao escondidos noutras secoes).
+
+Em seu site, considerado uma referencia em termos de taxonomia sobre padroes
+de design enganoso, Harry Brignull lista padroes considerados “tradicionais” (ex.:
+confirmshaming, fake scarcity, disguised ads, forced action, etc.) desde o inicio do
+desenvolvimento deste conceito ha pouco mais de uma decada. No entanto, aqui, vamos
+alem, e nos concentramos em um mecanismo mais recente e que nao esta presente nesta
+listagem. Denominada captura de atencao (attention capture), esta categoria de padrao
+de manipulacao tanto ganhou forca com o recrudescimento das redes sociais como
+contribuiu para que elas se tornassem parte indispensavel da rotina de usuarios e
+usuarias (O GLOBO, 2022). Este circulo vicioso e então mantido por padroes ligados e
+facilitados por dispositivos como smartphones e tablets, como “reproducao automatica”
+(autoplay) e “puxar para atualizar” (pull-to-refresh). O primeiro padrao ativa o recurso
+“proximo video”, que e reproduzido automaticamente para manter usuarios assistindo a
+conteudos na plataforma, enquanto o segundo se traduz na funcionalidade de rolagem
+infinita, quando o usuario rola uma pagina para baixo e sempre carrega conteudo na
+parte inferior continuamente (MONGE ROFFARELLO e DE RUSSIS, 2022).
+
+Da categoria “captura de atencao”, selecionamos para analise o padrao
+investimento social (social investment), que retem usuarios diante de recompensas
+constantes e se configura como o pilar das plataformas de midia social. Metricas como o
+quantitativo de reacoes, comentarios, seguidores e visualizacoes tem o potencial de
+estabelecer uma especie de “ligacao” entre os usuarios e a plataforma em que possui
+perfil. Assim, tais funcionalidades incutem nos usuarios a percepcao de que e necessario
+continuar a utilizar a plataforma para evitar a perda dos avancos obtidos (MONGE
+ROFFARELLO e DE RUSSIS, 2022). Este padrao possui grande impacto na
+manipulacao de kidinfluencers a partir de um design voltado ao engajamento, que
+explora vulnerabilidades psicologicas de usuarios para maximizar o tempo gasto, as
+visitas diarias e/ou as interacoes com o servico digital contra a vontade da pessoa
+(LUKOFF, 2021). Assim, e possivel “prender” influencers na plataforma, numa clara
+estrategia de retencao de usuarios para aumento da producao de conteudo.
+
+Nas plataformas de midia social da Meta (Instagram e Facebook), Google
+(Youtube e Youtube Kids) e ByteDance (TikTok), o “investimento social” e
+implementado a partir de quatro recursos: visualizacoes, reacoes, comentarios e
+amigos / seguidores. Estas e outras estatisticas podem ser acessadas de forma proativa
+pelo usuario a partir de um painel de gestao de negocio, no caso de contas comerciais,
+com uma interface de gestao da conta ligada ao Instagram. Nela, vemos, da esquerda
+para a direita da tela, o total de visualizacoes, curtidas, comentarios, encaminhamentos e
+salvamentos de um determinado video.
+
+Consideremos, como cenario de ilustracao, a dinamica de adocao de tais
+recursos pelo Instagram, quando da producao de novos videos por uma kidinfluencer. A
+partir de contas oficiais (quando possuem mais de 13 anos, faixa etaria minima exigida
+pelas plataformas) ou oficiosas (quando possuem perfis com faixa etaria inferior a 13
+anos em decorrencia de recursos de verificacao de idade propositalmente frouxos),
+estas criancas recebem notificacoes quando do crescimento dos numeros (como quando
+surgem novas curtidas para um conteudo postado) ou ao atingirem o que a plataforma
+considera como meta numerica desejavel para os seus videos (ex.: 1500 visualizacoes).
+No ultimo caso, por se tratar do que se chama “interacao nao previsivel”, ha
+comentarios positivos associados ao resultado, do tipo “Parabens! O seu ultimo video
+foi o que alcancou mais visualizacoes nos ultimos 30 dias!”. O mesmo ocorre quando a
+plataforma identifica que novas pessoas passaram a seguir o perfil apos a veiculacao de
+um conteudo, por exemplo.
+
+A partir destas tecnicas de recompensa virtuais variaveis, sao exploradas
+vulnerabilidades psicologicas das criancas semelhantes as de pessoas que sao alvo de
+vicios em jogos de azar, como em maquinas caça-niqueis (MONGE ROFFARELLO e
+DE RUSSIS, 2022). Neste processo de reforco positivo, o padrao de design
+manipulativo investimento social retira a autonomia e influencia o bem-estar da
+kidinfluencer ao subverter a expectativa de controle racional sobre o (i) tempo que
+dispende na plataforma, (ii) tipo de conteudo produzido e (iii) frequencia com que ele e
+gerado.
+Seus recursos enganam estes usuarios para que sejam retidos na rede
+social, com seu processo de tomada de decisao dirigido por ela. Com maior tempo de
+permanencia e maior quantidade de dados sobre sua experiencia digital, a plataforma e
+capaz de tracar o perfil comportamental deste publico. Ou seja, esta telemetria e
+voltada a modelagem de funcionalidades com base em emocoes, valores, tracos de
+personalidade e opiniões para construir uma compreensão do estado psicologico de
+usuarios (CREPAX e MUHLBERG, 2022). Assim, criancas influenciadoras sao
+manipuladas para continuar nutrindo a plataforma pelo medo de perder recompensas ou
+ficar para tras em relação as outras (em principio, suas reais competidoras, dado que ha
+veiculacao de marcas, produtos e obtenção de beneficios, inclusive financeiros, por
+parte de anunciantes). Se estabelece então uma tipica situacao de Fear of Missing Out
+(FoMO), com o receio de se verem fora destas tecnologias ou nao se desenvolverem no
+mesmo ritmo que elas (SOUSA e OLIVEIRA, 2023).
+
+Padroes justos de design
+
+No contexto do design de interfaces digitais, a nocao de padroes justos ou fair design
+patterns surge como uma resposta necessaria aos dark patterns com suas interfaces
+enganosas ou manipulativas para induzir usuarios a tomar decisoes contra seus
+interesses. Os padroes justos, recem-propostos por Potel-Saville e Da Rocha (2023),
+procuram restaurar a autonomia do usuario, garantindo que existam interacoes digitais
+transparentes, informativas e respeitosas. Assim, se tornam praticas de design que visam
+proporcionar uma experiencia de usuario que respeita as intenções e escolhas dos
+usuarios, ao inves de manipula-los para obter vantagens comerciais.
+
+Este conjunto de sete padroes tem o potencial de construir confianca e promover
+uma interacao saudavel entre usuarios e plataformas de software, como midias sociais.
+A adocao de padroes justos esta alinhada com principios eticos e regulatorios, como leis
+de privacidade (como a Lei Geral de Protecao de Dados LGPD, no Brasil, e o
+Regulamento Geral de Protecao de Dados Europeu, o GDPR – General Data Protection
+Regulation), que enfatizam a protecao de dados por padrao e a minimizacao de dados.
+Na Figura 3.1, apresentamos estes padroes (em traducao livre), que sao descritos
+abaixo.
+
+Padrao Protetivo: busca evitar que usuarios sejam expostos a riscos
+desnecessarios ou que precisem de conhecimentos avancados para protegerem
+seus dados e privacidade. Por exemplo, em plataformas online, configuracoes de
+privacidade devem ser mantidas no nivel mais alto de protecao por padrao. Isso
+significa nao compartilhar informacoes pessoais com terceiros a menos que o
+usuario opte explicitamente por faze-lo (ou seja, nao permitir o rastreamento por
+parceiros de negocio e nao habilitar automaticamente notificacoes de
+marketing), entre outros casos.
+Informacao Adequada: padrao para que sejam fornecidas informacoes
+suficientes e claras no momento certo, permitindo que os usuarios compreendam
+plenamente as consequencias de suas escolhas. E importante evitar a sobrecarga
+de informacoes e identificar claramente sugestoes adicionais como tal.
+Caminho Fluido: padrao para facilitar tarefas, acesso a informacao,
+preferencias ou escolhas do usuario de maneira simples e direta. Isso inclui a
+equivalencia na saliencia de botoes e textos, o mesmo numero de cliques para
+acoes desejaveis tanto para o usuario quanto para a empresa, e o uso de
+linguagem clara e capacitadora.
+Informacao Nao-Intrusiva: remover estimulos que induzam comportamentos
+nao iniciados pelo usuario. Isso significa que a interface nao deve pressionar os
+usuarios a realizarem acoes que nao escolheram voluntariamente. No entanto,
+excecoes podem ser feitas quando a informacao fornecida trouxer resultados
+beneficos para os consumidores (como um plano de poupanca) ou para a
+sociedade (como informacoes sobre mudancas climaticas).
+Linguagem Clara e Empoderadora: usar uma linguagem tão clara que os
+usuarios possam entender facilmente o que precisam ao ler pela primeira vez e
+compreender as consequencias de suas escolhas. A linguagem deve ser projetada
+para acessibilidade e usabilidade, com porções pequenas de texto no momento
+certo da jornada do usuario. Quando termos legalistas são obrigatórios, uma
+explicação em linguagem simples deve ser fornecida.
+Ação Livre: capacitar os usuários a entender as consequências de suas escolhas,
+especialmente em termos de gastos ou compartilhamento de dados pessoais,
+enquanto se evita a sobrecarga de informações. É crucial que os usuários possam
+tomar decisões informadas sem pressões ou influências indevidas.
+Interface Justa: a interface visual deve respeitar as ações e escolhas pretendidas
+pelos usuários. Isso inclui posicionamento, forma, tamanho e destaque dos
+botões, além do significado deles e dos ícones.
+
+A criacao e manutencao de padroes justos de design requer um entendimento
+profundo das capacidades e limitações dos usuarios. Por exemplo, o impacto de uma
+estrategia de design manipulativo ou enganoso pode variar significativamente se o
+usuario for uma crianca ou um adulto bem informado. Alem disso, a prevalencia de
+padroes obscuros em dispositivos moveis e mais problematica devido ao tamanho
+reduzido da tela, o que facilita a ocultacao de informacoes. Portanto, e fundamental
+considerar todo o contexto da experiencia do usuario ao projetar padroes justos.
+
+Para que os padroes justos sejam eficazes, e necessario um esforco colaborativo
+entre designers, desenvolvedores, profissionais de marketing digital, reguladores e
+outros stakeholders. A criacao de uma taxonomia clara e utilizavel de padroes justos
+ajuda na identificacao e correcao de padroes manipulativos, promovendo a autonomia e
+a soberania do usuario. A avaliacao continua e a melhoria dos padroes justos atraves de
+testes com usuarios e revisões por especialistas independentes são cruciais para sua
+eficacia e aceitacao. Assim, a transicao de padroes obscuros para padroes justos
+representa um passo significativo em direção a uma experiencia de usuario mais etica e
+centrada no ser humano. Ao adotar praticas de design que respeitem as escolhas e
+intenções dos usuarios, as plataformas digitais não só promovem a confianca e a
+satisfacao dos usuarios, mas também cumprem suas obrigações eticas e regulatorias.
+
+Metodo
+O minicurso realizado durante a vigesima segunda edição do Simposio Brasileiro sobre
+Fatores Humanos em Sistemas Computacionais (IHC 2023) teve uma total de 3 horas,
+com atividades que foram definidas a luz das metodologias de Aprendizagem Baseada
+em Problemas (PBL) e Design por Não-Designers (IBARRA, 2016) para abordar o tema
+central: design manipulativo. A estrutura do minicurso foi dividida em tres partes.
+
+Na primeira parte, participantes receberam um contexto academico e pratico
+sobre o design manipulativo, com exemplos de praticas manipulativas e/ou enganosas.
+Em seguida, o grupo de participantes (composto por aproximadamente 15 pessoas de
+diferentes areas ou estagios profissionais – ex.: estudantes, professores, praticantes etc.)
+foi dividido, por criterio de afinidade ou proximidade, em subgrupos de 5 componentes.
+Essas pessoas analisaram as praticas de manipulacao introduzidas por diferentes
+empresas de tecnologia em suas plataformas de midia social, identificando pontos
+criticos de manipulacao e classificando-os quanto ao conjunto de padroes enganosos
+apresentados (taxonomia presente no site Deceptive Patterns) - Figura 3.2.
+
+Para isso, utilizaram um formulario desenvolvido no Google Forms (vide Figura
+3.3 a seguir), em que indicaram os padroes percebidos e esboçaram, a partir da sua
+experiencia (individual, como profissionais de TI ou em formacao), possiveis solucoes
+(como diretrizes, por exemplo) para a construcao de versões eticas e responsaveis das
+funcionalidades vistas. Apos esta fase, cada grupo apresentou as suas
+descobertas, destacando as questoes mais importantes e permitindo uma reflexao
+conjunta, em sala.
+
+Ao final, passada a discussao entre os grupos e com as pessoas a frente do
+minicurso, foi possivel introduzir boas praticas e recomendacoes ligadas aos conceitos
+de Design Decolonial, Design Reflexivo, Design Justo, Design Critico, Design Social e
+Design Justice. Esta reflexao em torno do design etico buscou promover, em ultima
+instancia, a ideia de bem-estar e autonomia de pessoas usuarias de tecnologia. Neste
+artigo, nos concentramos no conceito de design justo, empregado intuitivamente pelos
+grupos. Aqui, ele e empregado de forma sistematica, com tipos usados como base para
+uma avaliacao de uma das principais plataformas debatidas em sala, o Instagram.
+
+Padroes Justos – Uma Analise do Instagram
+Nesta secao, trazemos uma analise de quais padroes justos de design, de acordo com a
+taxonomia apresentada na secao 3.2.2, foram identificados no Instagram, plataforma
+governada pela Meta.
+
+Padrao Protetivo
+Buscando reduzir riscos (mas também aumentar a postagem de conteudos de natureza
+mais intima), o Instagram adota este padrao em sua plataforma a partir da
+funcionalidade Amigos Proximos (ou Close Friends). Conforme a Figura 3.4, ao acessar
+o menu “configuracoes e atividade” e, logo em seguida, a opção “amigos proximos”, e
+possivel garantir um filtro do publico desejado para um determinado conteudo a ser
+postado em outra importante funcionalidade, Stories.
+
+De forma equivalente, e possivel bloquear e ocultar Stories bem como
+transmissões, criando um filtro de contatos em que não havera visualização por pessoas
+especificas cadastradas na plataforma de um tipo de conteudo. Ha também uma
+evidencia do Padrao Protetivo na funcionalidade que indica como outras pessoas
+poderão interagir com você na plataforma, com status de atividade, confirmação de
+leitura, bem como controle de mensagens e respostas (algo fundamental para jovens,
+como pré-adolescentes), como apresentado na Figura 3.5.
+
+Informacao Adequada, Linguagem Clara e Empoderadora e Interface Justa
+Este padrao justo de design busca oferecer telas intuitivas e, de forma geral, legiveis,
+pode ser percebido no Instagram, por exemplo, em funcionalidades de controle de
+privacidade e protecao de dados. Na Figura 3.6, a seguir, temos informacoes sobre
+aumento da protecao da conta de forma clara e concisa, com imagens ilustrativas e
+poucas opções de menu, tornando o recurso mais acessivel para pessoas na plataforma.
+
+Caminho Fluido
+A proposta de remoção de fricção ou interferencia visual para acesso a funcionalidades
+que confiram maior autonomia e bem-estar (ex.: protecao de dados pessoais), bem como
+melhor tomada de decisão (ex.: facil cancelamento da conta) para as pessoas que estão
+na plataforma e a premissa deste padrão justo de design. Um contraexemplo se da em
+caminhos como o que recentemente foi apresentado para que uma pessoa evitasse que
+os seus dados gerais (de navegacao, pessoais, etc.) fossem usados pela Meta para
+treinamento de sua IA Generativa. Nas Figuras 3.7 e 3.8, vemos uma jornada de quase
+dez etapas para que isso fosse evitado (na tela de perfil, acessar o icone de menu; em
+seguida, a "Central de Privacidade” e a opção “Gerenciar suas Contas”; na sequencia,
+“Outras politicas e artigos”, para então acessar a pagina “Como a Meta usa informacoes
+para recursos e modelos de IA generativa" e ver a opção “Direito de se Opor",
+pressionar em “Oposição” e então em “Confirmação de envio”).
+
+Informacao Nao-Intrusiva
+Funcionalidades que buscam aumentar a retenção de quem utiliza a plataforma,
+mantendo a dinamica de economia da atencao e dependencia da tecnologia, vão de
+encontro ao que este padrao de design justo preconiza. No Instagram, o estimulo a
+interacao e frequente e constitui um pilar da plataforma. Por exemplo, anuncios sao
+apresentados com recorrencia a cada 3 a 4 stories (exemplo abaixo, na Figura 3.9),
+promovendo um comportamento de compra e estimulo ao consumismo, indo na
+contramão do bem-estar e auxilio a boa tomada de decisão por pessoas na plataforma.
+
+Para alem da publicidade, a busca por pessoas que movimentem a plataforma
+como produção de conteudo ou engajamento com o conteudo postado e frequente a
+partir de recursos como notificacoes, presentes na aba homonima (Figura 3.10). Entre os
+alertas, todos exibidos na tela inicial como um coracao vermelho (diante de novidades),
+estão a indicação de curtidas, comentarios e compartilhamentos, bem como a lembranca
+de que existem conteudos em forma de rascunho – induzindo a finalização e publicação.
+
+Acao Livre
+A proposta deste padrão e apoiar a tomada de decisão das pessoas na plataforma ou
+tecnologia de software em uso. Ou seja, faze-las entender as consequencias de suas
+escolhas naquele ambiente, de forma geral, do uso de dados a toxicidade de um
+conteudo. No ambiente pesquisado, percebemos a adocao deste padrao na oferta da
+funcionalidade “Alerta de descanso”, associada a outra, denominada “Tempo gasto”.
+
+Ao acessar a secao “Como você o Instagram”, checando o tempo total de uso
+por dia, uma pessoa vinculada a plataforma consegue verificar sua presença no
+aplicativo via graficos de barras e nomenclatura intuitiva (como os dias da semana e
+calculos como media diaria). Alem disso, como mostra a Figura 3.11 abaixo, e possivel
+definir lembretes de pausa, alem de indicar um modo silencioso (quando notificacoes
+não serão enviadas, mesmo que este tipo de alerta esteja ativado na plataforma).
+
+O lembrete de pausa e o limite diario podem então indicar apoiar quem estiver
+acessando o ambiente a gerir melhor o tempo gasto on-line. A Figura 3.12 demonstra o
+disparo de um alerta para alguem que ultrapassou um limite diario definido como de 25
+minutos, num claro enfoque na conscientização do usuario promovida por este padrão.
+
+Analogamente, como na Figura 3.13, ha telas se sobrepoem a conteudos sendo
+vistos (ou seja, algo de apelo ainda maior e, em principio, ainda mais efetivo do que a
+visualizacao em modo pop-up) para sugerir a quem estiver usando o Instagram que uma
+pausa e recomendada naquele instante dados parametros anteriormente definidos.
+
+Por fim, destacamos que conteudo delicado, envolvendo questões como imagens
+de cirurgias ou fotos explicitas de violencia, ganham um embacamento padrao, pelo
+Instagram, numa etapa de moderacao de conteudo apos a publicacao de uma postagem.
+Tais conteudos, tidos como improprios ou negativos, passam então a alertar a pessoa
+que utiliza a plataforma sobre o teor sensivel de uma imagem ou video, como
+apresentado na imagem 3.14. No entanto, cabe ressaltar que este mesmo conteudo se
+postado na ferramenta de Stories, possui livre promocao, sem alerta previo.
+
+Consideracoes finais
+A pesquisa descrita neste artigo aborda a ideia de um projeto de sistemas digitais para
+enganar e coagir diferentes pessoas usuarias, como criancas, a fazer coisas que, de outra
+forma, não fariam; expondo-as a riscos. Atualmente, estamos numa fase de mudanca de
+abordagem: partimos da caracterizacao deste design antietico e injusto (sob a otica de
+tipos, definicoes, danos e impactos, e disseminacao global) para a aplicacao dos
+resultados da pesquisa no mundo real (influenciar e informar mudancas nas praticas e
+regulamentacoes). Acreditamos que as descricoes do porque de padroes enganosos e
+outros aspectos do design preocuparem (i.e., efeitos sobre individuos e sociedade)
+também trazem uma visão maior do que a critica subjetiva ao design de interfaces. Em
+paralelo, as melhores praticas traduzidas no conceito de design justo demonstram
+caracteristicas das solucoes de software que as empresas de tecnologia devem garantir,
+presentes em leis de privacidade ou protecao de dados, por exemplo.
+
+Desta forma, apoiamos responsaveis pela formulacao de politicas em acoes
+legislativas e regulatorias. Por exemplo, em maio de 2024, o Marco Legal dos Jogos
+Eletronicos entrou em vigor no Brasil. No entanto, este normativo ainda traz definicoes
+vagas, como “devem ter como parametro o superior interesse da crianca e do
+adolescente, de acordo com a legislação vigente”. Aspectos como design de elementos
+de interface (ex.: loot boxes ou moedas em jogos que podem distorcer a tomada de
+decisão do consumidor) que preocupam a Comissao Europeia não sao abordados,
+embora estudos como este e outros no contexto do design etico possam amparar esta lei.
+Em estudos futuros pretendemos avaliar questoes como:
+
+Quais mecanismos precisamos desenvolver (e como) para construir linhas
+robustas de comunicação de pesquisadores de Interação Humano-Computador e
+ciencia da computacao com membros da comunidade legal e regulatoria?
+Como podemos avaliar o valor probatorio dos achados empiricos de estudos
+sobre, por exemplo, design enganoso e manipulativo para que sejam usados em
+politicas e procedimentos legais?
+
+Acreditamos que estudos derivados desses questionamentos podem apoiar
+agendas regulatorias responsivas, também identificando proativamente areas de tensão e
+fronteiras disciplinares que possam impactar a adocao da pesquisa no direito. Ou seja,
+resultados de avaliacoes na web (como trazido aqui) e avaliacoes juridicas podem se
+cruzar e enriquecer uns aos outros em prol do bem-estar das pessoas nas plataformas.

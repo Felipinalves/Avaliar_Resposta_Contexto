@@ -1,0 +1,267 @@
+**INTRODUCAO**
+
+Atualmente, formar profissionais para atuaçao em um mercado
+dinamico, e um grande desafio para os professores em geral. Alem
+dos conteudos especificos de cada area do conhecimento, e
+necessario que estes profissionais em formaçao desenvolvam
+competencias como a colaboraçao, a soluçao de problemas, a
+curiosidade e a imaginação e o pensamento critico, dentre outras
+[6].
+
+A fim de se desenvolver estas competencias e, tambem, motivar
+os alunos a se envolverem mais com o seu aprendizado, diferentes
+estrategias metodologicas tem sido experimentadas. Ouve-se
+muito falar em metodologias (inov)ativas [2][5][6][8], as quais
+tem, como principios essenciais, o protagonismo do aluno, a açao-
+reflexao e a colaboraçao [6]. Neste rol de metodologias,
+encontram-se a sala de aula invertida, a avaliaçao por pares, a
+aprendizagem baseada em problemas e em projetos, os jogos e a
+gamificaçao, dentre outros.
+
+Considerando-se a area de Computaçao, o movimento de
+computaçao desplugada (unplugged Computer Science) [3][4] se
+destaca neste sentido, ao estimular o aprender fazendo, a diversao,
+a inclusao e a cooperaçao, principios estes que promovem um
+maior envolvimento dos participantes. Para a area de Interaçao
+Humano-Computador (IHC), especificamente, encontram-se
+varias iniciativas neste contexto desplugado [1][3][7][11].
+
+Neste cenario, serao apresentadas atividades variadas que buscam
+dinamizar aulas teoricas de IHC. Apesar de ja terem sido
+utilizadas em diferentes disciplinas da area, neste artigo elas serao
+apresentadas no contexto de uma disciplina de IHC especifica, do
+curso de Bacharelado em Engenharia de Software da Pontificia
+Universidade Catolica do Rio Grande do Sul (PUCRS).
+
+As seçoes a seguir descrevem em maior detalhe a disciplina em si
+e uma serie de exemplos de atividades que tem sido ministradas
+na disciplina em questao, alem de consideraçoes finais e das
+referencias utilizadas para sua construçao.
+
+**A DISCIPLINA**
+
+Considerando o curso de Engenharia de Software da PUCRS, a
+area de IHC contempla duas disciplinas: Fundamentos de IHC,
+disciplina teorica de 4 creditos, de cunho obrigatorio, oferecida no
+3º semestre do curso, e Design de Interaçao, disciplina pratica, de
+2 creditos, tambem obrigatoria, oferecida no 4º semestre. Neste
+artigo, o foco esta na primeira disciplina: Fundamentos de IНС.
+
+Esta disciplina tem como objetivo introduzir a area de IHC, seus
+principais conceitos e teorias de base, bem como diferentes
+metodos de avaliaçao de qualidade de uso e os principios do
+processo de design de interaçao. Na Tabela 1 e visto um resumo
+dos principais topicos trabalhados na disciplina, organizados de
+acordo com cada uma de suas unidades programaticas.
+
+A fim de dinamizar o processo de ensino e de aprendizagem,
+variadas atividades praticas sao realizadas ao longo da disciplina,
+conforme sera discutido na proxima seçao.
+
+AS PRATICAS
+Conforme apresentado na Tabela 1 sao quatro as unidades
+programaticas desta disciplina especifica As duas primeiras sao
+inerentemente teoricas para as quais se comecou a buscar por
+atividades que promovessem um maior engajamento e
+participacao dos alunos
+Na parte inferior da Figura 1 temos indicados diferentes
+momentos da disciplina em que as atividades a serem aqui
+apresentadas ocorrem destacandose que esta imagem e
+ilustrativa nao correspondendo efetivamente a carga horaria
+destinada a cada Unidade
+As atividades serao discutidas nas proximas subsecoes
+organizadas de acordo com as diferentes unidades em que os
+conteudos relacionados sao trabalhados
+
+Atividades Contexto da Area de IHC
+Durante a primeira unidade referente ao contexto da area de IHC
+destacamse as seguintes atividades
+Evolucao para discussao da evolucao de IHC a turma
+e dividida em grupos para construcao de linhas do
+tempo Em um primeiro momento cada grupo se
+concentra em procurar informacoes sobre uma decada
+especifica e em um segundo momento toda a turma
+compartilha as informacoes coletadas para criacao das
+linhas do tempo uma por grupo Apos a finalizacao da
+tarefa os alunos sao estimulados a analisar as linhas
+criadas por todos os grupos e na aula seguinte uma
+discussao sobre esta evolucao e realizada
+Questoes eticas apos apresentacao e discussao sobre
+questoes eticas em geral e em IHC sao disponibilizados
+artigos curtos sobre diferentes assuntos relacionados ao
+tema dark patterns GDPR desafios eticos de design
+etc Primeiro os alunos leem o artigo de seu interesse e
+depois os discutem em grupos com colegas que
+analisaram artigos do mesmo assunto Por fim ha uma
+discussao geral em aula com sinteses pelos diferentes
+grupos do que foi por eles discutido
+Mercado na aula que trata sobre o perfil do
+profissional de IHC/UX e o mercado de trabalho os
+alunos analisam individualmente pesquisas que
+mostram o perfil do profissional da area e em grupos
+discutem pontos que lhe chamaram a atencao e elencam
+e analisam um subconjunto das atividades
+metodologias citadas nas pesquisas que lhes chamou a
+atencao
+
+Atividades Principios Basicos
+
+Durante a segunda unidade, referente aos principios basicos de
+IHC, destacam-se as seguintes atividades:
+
+Aspectos cognitivos: na aula sobre aspectos cognitivos,
+diferentes dinamicas sao realizadas, com mini jogos
+relacionados a cada um dos aspectos cognitivos, como
+atençao, memoria, etc. A cada nova atividade um
+subgrupo de alunos em diferentes configuraçoes
+(duplas, trios, etc) vai para "frente" da sala e executa a
+atividade indicada (por exemplo: jogo de memoria em
+que a partir de um topico selecionado pela turma
+cada participante (de um grupo de 6) deve citar as
+palavras que os anteriores falaram, sem pular ou repetir
+nenhuma). Os resultados sao discutidos a cada jogo
+realizado.
+
+Engenharia cognitiva:para discussao especifica da
+Teoria da Açao, os alunos, apos refletirem sobre a
+aplicaçao da teoria (e travessia dos golfos de execuçao e
+avaliaçao) a diferentes cenarios, devem criar seus
+proprios cenarios e compartilhar com a turma (que e
+convidada a executa-los).
+
+Engenharia semiotica: para discutir o conceito de
+comunicabilidade, e realizada uma dinamica ao estilo do
+jogo Imagem&Açao, na qual cada grupo deve projetar
+um icone (de acordo com a funcionalidade nao usual
+recebida) e os demais grupos devem adivinhar qual a
+funcionalidade representada (discutindo as questoes de
+baixa e alta comunicabilidade dos mesmos alem das
+dificuldades de representaçoes associadas). Alem disto,
+e feita a realizaçao de exercicios diversificados sobre a
+mensagem do designer e a analise de signos
+(metalinguisticos, estaticos e dinamicos) em diferentes
+aplicativos (escolhidos pelos alunos dentre os que eles
+tem disponiveis em seus smartphones).
+
+Processos de design: ao final desta unidade (de
+Principios Basicos), sao trabalhados os diferentes ciclos
+de vida de IHC, no contexto do processo de design. Para
+refletir sobre a questao de iteratividade, caracteristica
+principal do processo, primeiro e realizado uma
+dinamica na qual os grupos devem construir um
+determinado artefato, e, a cada etapa, sao recebidos
+novos requisitos, pela analise dos quais o artefato
+(construido com massinha de modelar) vai sendo
+refinado/modificado (um exemplo de requisitos e
+artefatos pode ser visto na Figura 2a). Alem disto, os
+integrantes de cada grupo recebem papeis diferentes
+(como desenvolvedor, UX designer, etc) e algumas
+equipes tem um integrante com papel de usuario e
+outras nao. Para a etapa final, as equipes recebem
+diferentes modelos de ciclo de vida e precisam analisalos, destacando seus pontos em comum. O foco
+principal de toda a atividade e a discussao da questao da
+iteratividade do processo e da importancia da inclusao
+do usuario no mesmo.
+
+Durante a terceira unidade, referente a avaliaçao em IHC,
+destacam-se as seguintes atividades:
+
+Observaçao de uso: para trabalhar conceitos e metodos
+relacionados a observaçao de uso, a turma e dividida em
+grupos. Cada grupo, de posse de um terminado topico
+(por exemplo: planejamento de um teste em laboratorio,
+testes de usabilidade, avaliaçao de comunicabilidade,
+etc), deve criar um jogo de tabuleiro que explore os
+conceitos relacionados. Cada grupo recebe um kit para
+criaçao (exemplos de tabuleiros impressos, peoes,
+dados, uma roleta e uma ampulheta), para servir de base
+ou de inspiraçao para sua construçao, alem dos slides de
+aula referentes ao topico e de livros trazidos por eles e
+consultas via Internet. Eles tem o tempo de uma aula (2
+periodos), e extra classe ate a proxima, para a
+construçao das regras do jogo e, na aula seguinte, a
+turma joga os diferentes jogos em formato de
+circuito/rodizio (exemplos podem ser vistos na Figura
+
+Acessibilidade: para trabalhar conceitos e metodos
+referentes a avaliaçao de acessibilidade e feita uma
+Gincana Virtual. Cada aluno, ao entrar na sala de aula,
+recebe um numero, o qual representa sua equipe, e lhe e
+solicitado a ler as instruçoes da atividade na area
+Moodle da disciplina. Dentre as instruçoes, encontram-
+se a forma de comunicaçao das equipes (apenas via sala
+de chat do Moodle identificada com o numero de sua
+equipe) e as regras de postagem das respostas. Ao
+iniciar a aula, as tarefas sao disponibilizadas e os alunos
+tem o tempo da aula (2 periodos) para se organizar,
+discutir as tarefas (via chat) e posta-las no Moodle.
+Destaca-se que todas as tarefas requerem um tempo de
+reflexao dos alunos, nao sendo possivel responder a
+maioria delas com apenas um copia e cola da Internet.
+
+Durante a ultima unidade, referente a principios de design de
+interaçao, destaca-se a seguinte atividade:
+
+Elicitaçao: uma das tecnicas de eliciaçao de dados
+trabalhadas e o card sorting (classificaçao de cartoes).
+A aula referente a este topico e dividida em tres
+momentos: em um primeiro, se discute como funciona a
+tecnica e suas possibilidades de aplicaçao; em um
+segundo momento, os alunos divididos em grupos
+recebem um conjunto de cartoes contendo elementos
+ludicos e necessitam classifica-los, de acordo com
+categorias criadas pelo grupo, e, depois, apresentar o
+resultado a turma, discutindo o porquê de sua
+categorizaçao; por fim, os alunos recebem uma serie de
+itens (originarios de menus de um conhecido site de
+entretenimento), devendo, tambem, classifica-los, agora
+de acordo com as categorias preexistentes no referido
+site, e apresentar e refletir com os colegas,
+principalmente, as diferenças entre sua classificaçao e a
+classificaçao original. Na Figura 2c vemos exemplos
+das duas etapas de classificacao de cartoes.
+
+
+**CONSIDERACOES FINAIS**
+
+As diferentes atividades realizadas ao longo do semestre tem
+auxiliado a motivar os alunos a refletir mais durante as aulas,
+participando mais das mesmas. Competencias como colaboraçao,
+soluçao de problemas, curiosidade, imaginação e pensamento
+critico foram trabalhadas e o engajamento foi grande em varias
+atividades, principalmente as de mais maos na massa, como as
+apresentadas na Figura 2.
+
+Destaca-se tambem que, alem das atividades apresentadas nas
+subseçoes anteriores, outros exercicios tambem tem sido
+realizados, como as micro atividades de Pontual Falcao  e
+varios inspirados em um dos livros texto da disciplina . Outro
+recurso que tem sido utilizado (ao final da segunda unidade e na
+aula anterior a prova) e a aplicaçao de um quiz, utilizando-se a
+ferramenta Kahoot, atividade esta que e bastante apreciada pelos
+alunos.
+
+As atividades e os exercicios apresentados tem sido realizados ao
+longo da disciplina, de acordo com o topico sendo trabalhado, mas
+sem fazer parte do processo avaliativo formal. Para avaliaçao,
+alem da prova final (ha apenas uma prova compondo a avaliaçao),
+a disciplina conta com um conjunto de projetos. Estes projetos,
+relacionados as unidades de Avaliaçao e de Principios de Design,
+tem sido aplicados em sua grande maioria alinhados as
+disciplinas de praticas de desenvolvimento de software, as quais
+atendem clientes reais. Desta forma, os alunos analisam casos
+reais, com a oportunidade de interagir com seus stakeholders, com
+sua equipe de projeto e desenvolvimento e, tambem, com seus
+futuros usuarios, alem de ter os resultados de seus trabalhos
+podendo ser usados como insumos para novas etapas de projeto e
+de desenvolvimento da disciplina parceira .
+
+Por fim, destaca-se que, durante o semestre de 2019/1, ao longo
+do semestre, uma serie de desafios foi lancada aos alunos, em uma
+abordagem de gamificacao da sala de aula, estando estes
+resultados ainda em fase de analise.
+
+
+**CONSIDERACOES FINAIS**
+
+Em resumo, o uso de atividades praticas no ensino de IHC tem se mostrado uma estrategia eficaz para dinamizar as aulas teoricas, motivar os alunos e desenvolver competencias importantes para sua atuaçao profissional. Ao integrar o conhecimento teorico com a aplicaçao pratica, a disciplina se torna mais relevante e significativa para os alunos, preparando-os para os desafios do mercado de trabalho.

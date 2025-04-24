@@ -1,0 +1,278 @@
+**INTRODUCAO**
+
+O acesso a informaçao por pessoas com deficiencia visual e
+algo fundamental para o exercicio de suas atividades cotidia-
+nas. O principal recurso de Tecnologia Assistiva utilizado por
+essas pessoas e o leitor de tela - software que faz a interpre-
+taçao do conteudo na tela e disponibiliza para o usuario por
+meio de sintetizador de voz.
+
+Atualmente existe um vasto leque de opçoes de leitores de telas
+com suporte para varios tipos de sistemas. Dentre estes e possi-
+vel citar, por exemplo, os leitores NVDA (NonVisual Desktop
+Access), JAWS (Job Access With Speech) e ChromeVox.
+Estes leitores sao amplamente utilizados no mercado para as
+mais variadas funçoes. Porem, mesmo que seu uso seja extre-
+mamente difundido e sejam capazes de auxiliar em inumeras
+tarefas, ainda assim existem limitaçoes consideraveis a serem
+estudadas e melhoradas. Uma dessas limitaçoes e relacionada
+a leitura e navegaçao conteudo matematico, particularmente
+com suporte para a lingua Portuguesa.
+
+A Matematica possui em seu escopo diversas notaçoes, formas
+de leitura e significados representativos distintos dependendo
+da area de estudo da mesma. Por essa razao, devido sua
+natureza abstrata e sua linguagem bastante simbolica, a com-
+preensao matematica nao se faz simplesmente atraves de uma
+analise nos elementos separadamente, mas apoiando-se numa
+analise geral do conteudo que esta sendo lido . Todo este
+processo neuro-visual, ainda que dificil e feito de forma natu-
+ral ao efetuar a leitura de uma formula matematica por pessoas
+sem deficiencia visual. Isto ocorre devido a utilizaçao da ma-
+cro visao do conteudo da formula. A macro visao, permite ao
+leitor inferir um significado a cada elemento da formula medi-
+ante a formula como um todo. Porem, para uma pessoa com
+deficiencia visual este processo pode apresentar dificuldades.
+Nos moldes atuais das Tecnologias Assistivas, os usuarios nao
+possuem condiçoes favoraveis para a realizaçao da visao geral
+da formula. Sendo obrigados a recorrer a leituras lineares e re-
+petitivas e a memorizaçao do conteudo buscando uma melhor
+compreensao. Esta repetiçao e a grande carga de informaçoes
+que precisam ser memorizadas podem impactar negativamente
+na compreensao do conteudo da formula.
+
+As paginas Web sao desenvolvidas atraves de marcaçoes pro-
+postas por elementos em HTML (HyperText Markup Lan-
+guage), que seguem estruturas do XML (eXtended Markup
+Language). Outros tipos de conteudo, como o matematico sao
+marcados por linguagens baseadas em XML como o MathML.
+Linguagens orientadas a marcaçao, como as descritas, favore-
+cem a implementaçao de recursos de navegaçao entre elemen-
+tos. Porem, ainda que a navegabilidade possa ser explorada,
+e importante realizar investigaçoes sobre estrategias de nave-
+gaçao. Atualmente, existem relatos na literatura a respeito de
+estrategias de navegaçao que pessoas com deficiencia visual
+usam na Web . No caso de navegaçao em formulas
+matematicas, a literatura e bastante limitada. Alem disso, no
+caso especifico do Brasil, existe um limitador serio que e a
+ausencia de suporte a leitura satisfatoria de formulas matema-
+ticas em lingua Portuguesa nos principais leitores disponiveis
+no mercado.
+
+Dessa forma, a proposta deste trabalho e um estudo visando
+o desenvolvimento de estrategias para auxiliar usuarios com
+deficiencia visual na navegaçao em conteudo matematico, de
+forma a obter uma compreensao melhor da estrutura de formu-
+las e das relaçoes entre seus componentes. O desenvolvimento
+das tecnicas sera realizado por meio de estudos na literatura,
+estudos com usuarios por meio de entrevistas, implementaçao
+de prototipo seguida de avaliaçao com usuarios.
+
+TRABALHOS RELACIONADOS
+Com a crescente tecnologica e avancos cientificos envolvendo
+pesquisas relacionadas ao desenvolvimento de recursos de
+Tecnologia Assistiva (TA), diversas propostas tem surgido de
+modo a melhorar a qualidade de vida e trazer a independencia
+a pessoas com deficiencia. Especificamente, voltando-se para
+o auxilio a pessoas com deficiencia visual, algumas tecnologias como leitores de tela e linhas braille foram estudadas,
+criadas e aprimoradas ao longo do tempo. Todavia, algumas
+limitacoes ainda necessitam de maior atencao e estudo, como
+o tratamento da interacao com formulas matematicas, por
+exemplo.
+Devido ao amplo uso de elementos visuais nas notacoes, complexidade dos conteudos e variacao de significados dos elementos de acordo com o contexto, a transmissao do conteudo
+matematico para meios nao visuais torna-se um grande desafio.
+Alguns estudos voltados ao uso de leitores de tela na interacao matematica foram desenvolvidos ao longo do tempo.
+Muitos deles abordaram uma proposta voltada a navegacao
+do conteudo matematico em forma de arvore de expressao.
+Esta abordagem e atualmente implementada
+pelos leitores de tela JAWS e ChromeVox. Porem, alguns
+trabalhos evidenciam a fragilidade da utilizacao deste modelo
+de navegacao, sendo um dos obstaculos enfrentados a
+necessidade de conhecimento previo sobre estruturas de arvore
+para uma boa interacao com este tipo de navegacao.
+Outros sistemas ainda voltam seus esforcos a uma navegacao
+linear. Dentre estes pode-se citar o NVDA. A navegacao
+linear feita pelo NVDA se da por meio da integracao com um
+plugin externo, de modo que alem de ser linear nao oferece
+qualquer tipo de interacao com o usuario. O plugin em questao
+e o MathPlayer. Apesar de o autor afirmar possuir
+varias formas de navegacao, na integracao com o NVDA,
+so e possivel navegar para frente e voltar para o texto anterior.
+Para pessoas sem deficiencia visual, a leitura de conteudo matematico permite contar com uma visualizacao global (overview)
+e estrategias para direcionar a atencao para elementos especificos. Porem, para pessoas com deficiencia visual que usam
+software de navegacao linear um esforco maior e necessario,
+ja que a audicao nao permite a obtencao da visao geral, e o
+conteudo e transmitido de maneira linear. Deste modo, por
+muitas vezes e necessario ao usuario ouvir repetidamente o
+conteudo ate ter uma compreensao consideravel daquilo que
+foi transmitido. O desgaste mental e frustracao causados pela
+necessidade de repeticao, aliado com o grande volume de dados que precisa ser armazenado mentalmente pelo usuario
+colaboram para que a compreensao matematica seja prejudicada. Ao analisar os resultados obtidos por Edwards et al.,
+e possivel notar uma possivel tendencia dos usuarios por
+preferirem abordagens munidas de alternativas diferentes em
+contraposicao as possibilidades puramente lineares.
+De fato, estudos anteriores mostraram que a utilizacao de recursos de navegacao baseados em elementos estruturais colabora
+com a melhoria de desempenho na Web. No estudo de Watanabe, por exemplo, foi verificado que o uso de navegacao
+por cabecalhos em paginas longas auxiliava de forma positiva
+a obtencao de nocao do conteudo das paginas para melhorar
+a navegacao. O estudo de Power et al., tambem reforca o
+beneficio trazido por este tipo de estrategia na navegacao.
+Existe ainda na literatura alguns estudos envolvendo analises comparativas dos metodos de navegacao propostos pelos
+principais leitores de tela do mercado. Atraves destas
+analises e possivel concluir que ainda existem aspectos possiveis de serem explorados para fornecer uma melhora no que
+diz respeito ao esforco de navegacao e consequentemente na
+experiencia dos usuarios atraves de uma evolucao nos metodos
+de navegacao matematica.
+Em um dos estudos anteriores, feito por membros do grupo
+de pesquisa do autor deste trabalho, foram feitas analises com
+modelos de tarefas com propostas preliminares para navegacao
+em elementos com raiz, fracao e somatorio. Apesar de ainda
+nao ter consolidado estrategias de navegacao, os resultados
+projetados foram positivos e contribuiram para sugerir uma
+primeira evidencia inicial da viabilidade da proposta deste
+projeto.
+
+**METODOLOGIA**
+
+O trabalho envolveu entrevistas realizadas com usuarios em
+potencial, visando levantar dificuldades enfrentadas no apren-
+dizado da matematica por pessoas com deficiencia visual nas
+escolas regulares e estrategias utilizadas para a transmissao
+de conteudo matematico nas aulas. Foram abordadas tam-
+bem questoes envolvendo o uso de leitores de tela para leitura
+matematica, pontos criticos e tambem sugestoes de melhorias.
+
+A entrevista contou com doze participantes de idades entre
+9 e 65 anos. Dentre eles participantes com cegueira conge-
+nita, cegueira nao congenita, baixa visao congenita e catarata
+congenita. Quanto a escolaridade participaram pessoas com
+ensino superior completo, ensino superior incompleto, ensino
+medio e fundamental.
+
+O modelo utilizado foi entrevista semi-estruturada, pela flexi-
+bilidade na obtençao de dados e possibilidade de enfoque nas
+questoes primordiais ao trabalho, como as ja citadas.
+
+As entrevistas foram precedidas da apresentaçao e assinatura
+de um termo de consentimento. No termo constava o projeto
+ao qual se destinava as questoes, o motivo da participaçao do
+entrevistado, entre outras informaçoes relevantes. O termo
+tambem tratava sobre o sigilo da entrevista. Alem disso, o
+entrevistado era instruido sobre sua liberdade de interrupçao da
+entrevista alem de possibilidade de esclarecimento de qualquer
+duvida a qualquer momento.
+
+Conforme descrito na seçao Trabalhos Relacionados, existem
+alguns estudos envolvendo tecnicas de navegaçao em conteudo
+matematico . Porem, ainda e necessario
+realizar mais pesquisas sobre o tema e verificar a adequaçao
+das tecnicas para navegaçao.
+
+Sendo assim, prentede-se realizar uma revisao sistematica da
+literatura a fim de evidenciar estrategias de navegaçao envol-
+vendo conteudo matematico e estrategias de navegaçao em
+paginas Web em geral. Pretende-se tambem levantar pontos
+fortes e fracos das estrategias atuais sobre conteudo matema-
+tico especificamente. Assim, atraves deste estudo objetiva-se
+analisar a possibilidade da aplicaçao de conceitos envolvendo
+a navegaçao voltada a outros aspectos para dentro do universo
+matematico dos leitores de tela. Alem disso, com os possiveis
+pontos fortes e fracos das estrategias de navegaçao matema-
+tica atuais, sera possivel selecionar aspectos que podem ser
+continuados e lacunas que precisam ser sanadas.
+
+Desse modo, a partir de todo este levantamento espera-se reali-
+zar a implementaçao de um prototipo de navegaçao utilizando
+o Chrome Vox.
+
+A partir de todo o estudo feito, espera-se aliar as informaçoes
+obtidas na revisao de literatura as evidenciadas nas entrevistas.
+Com isso, elaborar uma nova abordagem que seja capaz de
+minimizar ou eliminar as lacunas evidenciadas pelo estudo.
+Deste modo, espera-se ser possivel a implementaçao de um
+prototipo de navegaçao sobre o ChromeVox, a fim de validar a
+proposta de navegaçao levantada pelo trabalho.
+
+A escolha pelo ChromeVox se deu pelo fato de ser um leitor
+de telas de codigo aberto, alem de possibilitar a manipulaçao
+da forma com que e trabalhada a estrutura de uma pagina
+web. O leitor de telas NVDA, por exemplo, apesar de ser mais
+amplamente utilizado, faz leitura de formulas com plugin de
+terceiros que nao tem codigo disponibilizado abertamente.
+
+A implementaçao de leitura em Portugues esta em realizaçao,
+no contexto do projeto NavMatBR, no qual este projeto se
+insere. O projeto utiliza tecnicas de Processamento de Lingua
+Natural, com analise de leituras de formulas feitas por pro-
+fessores de matematica brasileiros que atuaram no ensino de
+estudantes com deficiencia visual.
+
+A linguagem de marcaçao que sera considerada para a imple-
+mentaçao do software e o MathML. A escolha pelo MathML
+deve-se ao fato de ser uma linguagem de marcaçao de padrao
+XML recomendada pelo W3C, cujo objetivo e exatamente a
+descriçao de notaçoes matematicas. Alem disso, os leitores de
+tela que tem suporte para leitura de formulas atualmente sao
+implementados com base em MathML.
+
+Testes de usabilidade com tarefas de navegacao em formulas com diferentes niveis de complexidade
+Uma vez que a implementacao do prototipo tenha sido feita,
+sera possivel aplica-lo a um cenario de testes controlado. Os
+testes deverao ser realizados utilizando metodologias bem
+fundamentadas na literatura para a avaliacao de usabilidade de
+sistemas computacionais.
+Para a realizacao dos testes deverao ser selecionadas pessoas
+com diferentes niveis de experiencia com leitores de tela, deficiencia visual e conhecimento matematico. Sendo assim,
+inserindo o sistema a um ambiente com multiplas variaveis
+consideradas possibilitara uma maior area de abrangencia na
+validacao da viabilidade do software. Alem da selecao dos
+participantes, serao elaboradas diversas tarefas envolvendo
+expressoes matematicas de diversos niveis de complexidade.
+Todos os testes deverao ser gravados a fim de ser possivel considerar nao somente questoes numericas como o tempo gasto
+para a execucao de uma tarefa, mas tambem aspectos comportamentais que indiquem conforto ou inquietacao quanto ao
+software testado.
+A aplicacao dos testes tambem contara com a coleta de dados
+envolvendo as reacoes emocionais dos usuarios utilizando um
+dispositivo de eletroencefalograma (EEG), o Emotiv EPOC+,
+de 14 canais. Espera-se verificar o impacto do uso das estrategias de navegacao nas tarefas do usuario e em aspectos
+hedonicos como frustracao, estresse e engajamento.
+Alem da coleta de reacoes emocionais, apos cada tarefa o
+pesquisador pedira que os usuarios indiquem o nivel de dificuldade encontrado na realizacao da tarefa utilizando uma escala
+pre-definida, como por exemplo de 1 a 5 onde 1 significa muito
+dificil e 5 muito facil.
+Analise com implicacoes para design de materiais interativos com formulas matematicas e implicacoes para desenvolvimento de sistemas leitores de tela
+Os dados dos testes de usabilidade serao analisados por meio
+de tecnicas de analise de conteudo de video gravados com conteudo da tela e do proprio usuario no momento da realizacao
+das tarefas. A partir disto, serao registrados problemas reportados diretamente pelos usuarios durante as sessoes e tambem
+registrados outros problemas de usabilidade e acessibilidade
+observados pelos pesquisadores que podem nao ter sido reportados diretamente pelos participantes. Serao analisadas
+tambem a completude das tarefas, a fim de levantar a taxa de
+sucesso na execucao das tarefas. Os dados sobre dificuldade de
+realizacao das tarefas e os dados do questionario de satisfacao
+serao usados para a geracao de estatisticas sobre satisfacao e
+possiveis consideracoes futuras passiveis de melhorias.
+A analise dos dados coletados pelo dispositivo de eletroencefalograma sera feita com software de analise do Emotiv EPOC+
+de 14 canais. O software disponibiliza medidas de niveis de
+engajamento, frustracao, empolgacao, tedio, stress e meditacao. Estes dados serao correlacionados com o desempenho
+das tarefas nos momentos indicados.
+CONTRIBUICOES ESPERADAS
+Espera-se obter atraves deste estudo o levantamento de dados
+sobre os metodos atuais de navegacao em formulas matematicas, seus pontos fortes e fracos. Atraves disso, espera-se como
+principal contribuicao ser possivel avaliar, elaborar e validar
+uma nova estrategia de navegacao matematica que se apoie nas
+estrategias convencionais de navegacao Web. Com essa nova
+estrategia espera-se ser capaz de minimizar ou ainda sanar as
+debilidades encontradas no estado da arte e fortalecer ainda
+mais os aspectos positivos daquilo que ja se tem atualmente.
+Como contribuicao tecnica, espera-se disponibilizar uma versao do leitor de telas ChromeVox com recursos de navegacao
+baseadas em elementos estruturais do MathML atraves da
+estrategia elaborada, com leitura em Portugues do Brasil.
+Do ponto de vista cientifico, espera-se contribuir com o entendimento sobre a relacao entre as formas de navegacao mais
+utilizadas por pessoas com deficiencia visual em paginas Web
+e na navegacao em conteudos matematicos com elementos estruturais. Espera-se ainda retratar como o uso desses recursos
+pode impactar na reducao de esforco e nas reacoes positivas e
+negativas na utilizacao de recursos matematicos.
+
+**CONSIDERAÇOES FINAIS**
+
+Este trabalho apresenta um estudo em andamento sobre o desenvolvimento de estrategias de navegaçao para pessoas com deficiencia visual em conteudos matematicos na Web. A proxima etapa consiste em realizar a revisao sistematica da literatura e implementar um prototipo no ChromeVox. Os resultados obtidos nesta pesquisa poderao contribuir para a criaçao de interfaces mais acessiveis e inclusivas, facilitando o acesso a informaçao e a aprendizagem da matematica por pessoas com deficiencia visual.

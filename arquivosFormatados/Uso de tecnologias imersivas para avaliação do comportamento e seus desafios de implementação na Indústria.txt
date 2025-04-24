@@ -1,0 +1,99 @@
+**INTRODUCAO**
+
+O treinamento de seguranca do trabalho e essencial para empresas em nivel mundial,
+pois visa prevenir acidentes e desastres, alem de promover o bem-estar dos colaborado-
+res que devem desenvolver suas habilidades para analisar riscos e tomar decisoes cor-
+retas. Neste contexto, tecnologias imersivas tem mostrado resulta-
+dos promissores, pois oferecem um mecanismo seguro para simular ambientes perigosos
+que sao dificeis de replicar no mundo real.  des-
+creve que tecnologias imersivas sao fundamentais para implementar a Industria 4.0 na
+pratica, especialmente quando combinadas com outras tecnologias emergentes. No en-
+tanto, ainda ha uma lacuna de estudos de tecnologias imersivas no nivel de mudança com-
+portamental , ou seja, que avaliem as mudanças de comportamento
+dos usuarios apos a utilizaçao de treinamentos imersivos. Destaca-se aqui a necessidade
+de pesquisas pioneiras nessa area. Desta forma, este trabalho propoe avaliar os desa-
+fios da implementaçao de sistemas de Realidade Virtual (RV) na industria, com foco em
+mudanças comportamentais e efeitos nos usuarios.
+
+**Revisao da Literatura**
+
+O termo Realidade Virtual (RV) surge no final da decada de 80, no trabalho de
+, atraves da proposta da fusao entre o real e o imaginario. Dentre
+os sistemas de RV mais famosos estao o Cave Automatic Virtual Environment (CAVE),
+que utiliza da projeçao em um ambiente fechado para inserir o usuario em um ambiente
+virtual, e o Head-Mounted Display (HMD), que funciona como um capacete vestivel,
+sendo este mais popular e com melhor custo-beneficio .
+
+Unity e uma plataforma para desenvolvimento de jogos, capaz de oferecer uma ex-
+periencia completa para o desenvolvedor como simulaçao de fisica, detecçao de colisao
+e utilizaçao de ferramentas imersivas como RV e Realidade Aumentada (RA), tendo su-
+porte para diversos dispositivos do mercado . Alem disso, conforme descrito
+por , o Unity e escolhido usualmente por sua comunidade ex-
+tensa, grande variedade de modelos disponiveis, utilizaçao de linguagens de programaçao
+populares (como C#, Javascript e Java) e principalmente como o motor de jogos mais
+conhecido e flexivel para desenvolvimento em RV.
+
+A Experience API (xAPI) e uma arquitetura de aprendizado, que busca capturar dados
+gerados pelo usuario por meio do registro de suas açoes e reações com um Learning
+Management System (LMS) ou uma aplicaçao em RV, por exemplo. Os dados gera-
+dos sao salvos dentro da arquitetura de banco de dados chamada Learning Record Store
+(LRS), que podera ser processada e analisada posteriormente com ferramentas e tecnicas
+de analise . Uma das vantagens da utilizaçao do padrao xAPI vem de
+sua facilidade de integraçao e interoperabilidade entre sistemas .
+
+O rastreamento ocular dentro dos hardwares de RV e feito por uma estimaçao da direçao
+de onde os olhos estao apontando (utilizando de sensores infravermelhos), sendo util para
+desenvolvimento de personificaçoes mais reais ou ate como forma de entrada de dados e
+movimentaçao do usuario dentro de um cenario em RV .
+
+Com a evoluçao da medicina e das tecnologias, aliada a necessidade de compreender e
+utilizar do complexo sistema que e o cerebro, surgiram as primeiras pesquisas na decada
+de 70 com um dispositivo capaz de extrair sinais cerebrais e envia-los para um dis-
+positivo externo, como um braço robotico . De acordo com
+, estes sinais podem ser medidos direta ou indiretamente do cerebro,
+sendo o Eletroencefalograma (EEG) uma forma de coleta tradicional das atividades cere-
+brais por meio do uso de eletrodos. Desta forma, surge o Brain-Computer Interface (BCI)
+como uma interface tecnologica entre as atividades cerebrais e um dispositivo externo.
+
+[Grabowski and Jankowski 2015] destacam a importancia de tecnicas de treinamento em
+RV na mineraçao, em especial, no treinamento de detonaçao de explosivos subterraneos.
+Eles comparam metodos altamente imersivos (luvas com feedback haptico) com metodos
+tradicionais (joysticks). Apesar do feedback positivo, nao houve uma analise profunda
+sobre as mudanças comportamentais dos participantes.  em sua
+meta-analise abordam os efeitos de cinetose (motion sickness) durante experiencias de
+RV, enfatizando os desafios e beneficios dessa tecnologia em cenarios de treinamento de
+dificil replicaçao. Por fim,  relacionam a cinetose a inabilidade do
+usuario de se estabilizar durante a experiencia em RV, apontando a falta de pesquisas
+experimentais para analisar empiricamente esses efeitos negativos.
+
+Metodologia
+Um diagrama do sistema proposto pode ser visualizado na Figura 1.
+
+Quanto as tecnologias utilizadas no sistema, o motor de jogos escolhido e o Unity,
+por sua diversa gama de ferramentas para desenvolvimento em RV, alem de uma co-
+munidade ativa e a possibilidade de integraçao com diversos dispositivos imersivos do
+mercado. Ja o hardware RV escolhido e o Meta Quest Pro, pois possui funcionalidade
+de rastreamento ocular, permitindo coleta de dados de atençao atraves do SDK nativo da
+Meta para o Unity. O BCI utilizado para coleta de dados cerebrais sera o da Unicorn, por
+ser um BCI nao invasivo com oito eletrodos que contem Application Programming Inter-
+face (API) e Software Development Kit (SDK) em diversas linguagens e integraçao com
+o Unity, oferecendo um conjunto de ambientes de software e ferramentas customizaveis.
+Por fim, a tecnologia de rastreio das açoes e tempo de resposta dos participantes sera a
+XAPI. Suas principais vantagens incluem a capacidade de capturar dados detalhados em
+atividades de aprendizagem, alem de plataformas tradicionais de e-learning. Com o sis-
+tema desenvolvido, sera formado um grupo de participantes voluntarios para a execuçao
+dos experimentos. Os testes e analises dos resultados serao realizados apos a definiçao e
+redaçao dos planos de testes e aceitaçao pelo Comite de Etica da Universidade.
+
+Ate o momento foram concluidos os creditos previstos para o termino do curso e o sis-
+tema virtual do caso de estudo da Mineraçao encontra-se desenvolvido, conforme descrito
+tambem no trabalho de . Nos proximos meses, busca-se finalizar a
+escrita do projeto para submissao ao Comite de Etica, alem de integrar as funcionalidades
+de rastreamento ocular e BCI ao projeto existente (Tabela 1).
+
+**CONCLUSAO**
+
+Este trabalho propoe uma discussao e avaliaçao sobre os desafios da implementaçao de
+sistemas de RV na industria, com foco em mudanças comportamentais e efeitos nos
+usuarios. Além disso, pretende-se contribuir com o desenvolvimento de soluçoes
+inovadoras para melhorar a experiencia do usuario em sistemas de RV.

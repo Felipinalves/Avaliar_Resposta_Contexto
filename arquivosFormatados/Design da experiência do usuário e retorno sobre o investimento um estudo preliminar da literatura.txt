@@ -1,0 +1,101 @@
+**INTRODUCAO**
+
+User Experience (UX) pode ser definida como "a percepçao completa de um usuario
+sobre a usabilidade, eficacia e valor de um produto ou sistema, incluindo aspectos
+emocionais, afetivos e psicologicos" . Ou seja, a UX se concentra em
+como os usuarios interagem e se relacionam com um produto ou serviço, e como essa
+experiencia pode ser projetada e melhorada para atender as suas necessidades e
+expectativas. A implementaçao do design da UX podem impactar positivamente ou
+negativamente na lucratividade da organizaçao, dessa forma, investir em melhorias na
+UX pode ser uma forma efetiva de aumentar a competitividade e o sucesso de uma
+empresa .
+
+De acordo com [Forrester Research 2015, Trendowicz et al. 2023], as empresas
+que priorizam a UX tendem a ter um desempenho financeiro superior em relaçao as que
+nao o fazem. Alem disso, o foco do design da UX pode levar a uma reduçao nos custos
+de suporte e manutençao, uma vez que os produtos sao projetados levando em
+consideraçao a usabilidade e a eficiencia do usuario . Outro beneficio da
+adoçao da UX e o aumento da fidelidade do cliente, uma vez que os usuarios tendem a
+preferir produtos que sao faceis de usar e proporcionam uma experiencia agradavel, o
+que diretamente afeta o cenario financeiro da instituiçao. . Por fim, a
+incorporaçao do design da UX pode ajudar a diferenciar a empresa no mercado, criando
+uma vantagem competitiva em relaçao aos concorrentes .
+
+Embora a incorporaçao do design de UX nos processos de desenvolvimento de
+sistemas ofereça diversos beneficios, a mensuraçao do retorno sobre o investimento
+(ROI – Return on Investiment) em UX tem se mostrado um desafio continuo para as
+organizaçoes . Esse desafio pode ser
+atribuido, em parte, ao fato de que os metodos tradicionais de mensuraçao do valor
+agregado pelos processos de design de UX ja nao sao mais suficientes para obter a
+adesao dos tomadores de decisao dentro de uma organizaçao. E essencial demonstrar o
+impacto do design de UX dentro do contexto da organizaçao [Turner 2011, Horvath
+2020]. Alem disso, alguns teoricos, como [Rosenberg 2004] e [Fedele et al. 2017],
+expressaram ceticismo em relaçao a precisao das metricas comumente utilizadas para
+medir o ROI do design de UX. [Rosenberg 2004] argumentou que nao ha evidencias
+empiricas suficientes para apoiar a afirmaçao de que uma melhor experiencia do
+usuario resulta em um ROI positivo. Ademais, ha uma tendencia para criar relaçoes
+causais entre as praticas de design de UX e as metricas de ROI, omitindo outros fatores
+que podem ter contribuido para o calculo do ROI, o que gera ceticismo sobre as
+medidas de ROI no design de UX.
+
+Sendo assim, foi realizado um estudo preliminar da literatura com o objetivo de
+identificar as principais intersecçoes existentes entre o design da experiencia do usuario
+e o retorno sobre investimento, bem como mapear as centrais limitaçoes existentes para
+a mediçao do ROI aplicado ao UX. Para isso foi conduzida uma revisao de artigos
+academicos que abordem o tema em principais bases cientificas, posteriormente foi feita
+uma analise dos principais materiais encontrados e um consequente compilado dos
+principais achados. Desta forma, tal estudo preliminar podera alimentar futuras
+pesquisas sobre o tema, sobre a otica de oportunidades e limitaçoes da mediçao do
+retorno sobre o investimento na area em questao.
+
+Metodo
+
+Esta pesquisa seguiu os principios de uma revisao sistematica da literatura academica, para tal foram feitas buscas em tres bases de dados bibliograficos ACM Digital Library, IEEE Xplore Digital e ScienceDirect, definidas a partir da prerrogativa de principais bancos de dados que tangenciam o tema [Buchinger et al. 2014]. Foram selecionados artigos publicados entre 2019 e 2023, considerado como recorte de artigos mais recentes sobre o tema em questao, alem disso, selecionados apenas artigos em ingles. As strings definidas para a busca foram: (user experience AND ROI), como termos geradores do objetivo de pesquisa. A busca foi conduzida entre Abril e Maio de 2023, por um pesquisador e com a validacao de um segundo, atraves da busca automatica e snowballing. A tecnica de snowballing foi aplicada em profundidade de primeiro nivel, buscando estudos adicionais a partir das referencias e citacoes dos artigos. Essa tecnica trabalha com um processo continuo de analise da lista de referencias dos artigos em busca de estudos adicionais e foi conduzida de duas formas: nas referencias de cada artigo (backward snowballing) e a partir das citacoes referentes ao artigo (forward snowballing) [Wohlin et al. 2012].
+
+Ao todo, 2.705 artigos foram retornados, sendo: ACM Digital Library (2.526), IEEE Xplore Digital (14), ScienceDirect (165). Para o artigo ser selecionado ele satisfez todos os criterios de inclusao, sendo eles: se tratar diretamente da relacao de experiencia do usuario com o retorno sobre o investimento, que sejam publicacoes cientificas realizadas em revistas, periodicos ou anais, ser datado no maximo dos ultimos 5 anos e estar disponivel em ingles. Alem disso, como criterio de exclusao, foram deletados artigos duplicados, sem correlacao direta com o tema, e que tenham mais de 5 anos da sua publicacao. Apos a extracao de todos os artigos, foi feito um armazenamento de todas as referencias recuperadas, para posterior triagem e verificacao da relacao com o tema fazendo uma leitura do resumo de todos os artigos. Com a correlacao positiva, foi feita a leitura completa do artigo, e identificacao qualitativa das principais oportunidades e limitacoes do estudo de UX e ROI. Nestes moldes, foram aceitos 36 artigos, porem, por limitacoes de espaco neste poster foram trazidos apenas 9 artigos que apresentam resultados mais recentes e que respondem sobre as principais oportunidades e limitacoes do presente estudo.
+
+Resultados
+
+A Tabela 1 apresenta os trabalhos selecionados e na sequencia a discussao dos artigos referenciados a partir de seu Id.
+importancia para o sucesso dos negocios e a maximizacao do ROI de UX, onde se ressalta os artigos A2, A3, A4 e A6 [Adebesin and Chawana 2021, Wang et al. 2021, Kefry 2021, Nielsen Norman Group 2020]. Alguns artigos apresentam estudos de caso especificos e mostram como as melhorias na UX podem afetar a satisfacao do usuario e, consequentemente, o ROI, como os artigos A8 e A9 [Kolbeinsson, A. et al. 2020, Hinderks et al. 2019], onde ha estudos de caso especificos aplicados no contexto de ROI. Outros artigos, como A1, A5 e A7 [Trendowicz et al. 2023, Aleryani 2020, Horvath 2020] discutem sobre a criacao de metricas e KPIs (Key Performance Indicador) para medir a UX e o ROI de UX em diferentes setores e produtos.
+
+O artigo A2 apresenta uma revisao sistematica da literatura sobre o estado atual da medicao do retorno sobre o investimento (ROI) em design de UX [Adebesin and Chawana 2021]. Os autores constataram que a maioria das organizacoes nao possui processos estabelecidos para medir o ROI em design de UX. As limitacoes incluem a falta de compreensao sobre o valor da UX, a dificuldade em medir seu impacto nos resultados de negocios e a falta de recursos e habilidades para conduzir avaliacoes de ROI com UX. Por outro lado, o artigo A7 aborda como as empresas podem alcancar um ROI mais elevado por meio do design de UX [Horvath 2020]. O autor argumenta que, para alcancar esse objetivo, e necessario considerar a UX em um nivel institucional, em vez de apenas focar em projetos isolados. Isso envolve incorporar o design de UX, A2, em todos os aspectos da empresa, desde o desenvolvimento de produtos ate a cultura organizacional [Adebesin and Chawana 2021].
+
+Algumas oportunidades de pesquisa podem ser notadas, a partir do compilado de aprendizados de cada artigo como por exemplo: explorar diferentes metodologias de medicao de ROI para UX e determinar sua eficacia em diferentes contextos de negocios A1, A3 e A9 [Trendowicz et al. 2023, Kefry et al. 2021, Hinderks et al. 2019], investigar a relacao entre o investimento em UX e o desempenho financeiro das empresas em diferentes setores A8 [Kolbeinsson, A. et al. 2020] e ate mesmo o artigo A5, onde se identifica os fatores que contribuem para o aumento do ROI em [Aleryani 2020] e avaliar sua importancia em diferentes cenarios de negocios A6, e A9 [Nielsen Norman Group 2020, Hinderks et al. 2019].
+
+E tambem apresentado as limitacoes existentes entre os artigos selecionados, que apesar de variar de acordo com o foco especifico de cada estudo, inclui peculiaridades, como: a falta de consenso sobre as metricas e metodos de medicao de ROI em design de UX [A7], dificuldades na coleta e analise de dados relevantes para a medicao do ROI em design de UX no artigo A4, quais sao as limitacoes na generalizacao dos resultados de estudos de caso devido a diferentes contextos e variaveis no artigo A5, bem como a necessidade de mais pesquisas empiricas para validar as relacoes entre design de UX e RO, no artigo A8 como constam nos desafios [Horvath 2020, Kefry 2021, Aleryani 2020].
+
+**CONCLUSAO**
+
+A partir da investigaçao preliminar da literatura conclui-se que correlaçao entre as
+metricas de negocio e as metricas de experiencia do usuario e uma questao crucial para
+avaliar o desempenho e a eficacia das estrategias de design UX em uma organizaçao. As
+metricas de negocio podem ser usadas para medir a efetividade do design de UX em
+termos de ROI, lucratividade, reduçao de custos, aumento da fidelidade do cliente e
+outras metas de negocio. Por outro lado, as metricas de experiencia do usuario podem
+fornecer insights valiosos sobre a satisfaçao do usuario, a eficiencia do sistema, a
+facilidade de uso, a usabilidade e outros aspectos da experiencia do usuario. A
+correlaçao entre essas duas metricas pode ajudar as organizaçoes a identificar como as
+melhorias na experiencia do usuario podem levar a melhores resultados de negocio,
+assim como avaliar o impacto das estrategias de UX na satisfaçao e fidelidade do
+cliente.
+
+Como principais resultados pode-se destacar a relevancia da correlaçao entre
+metricas de negocio e metricas de experiencia do usuario, alem dos efeitos de sua
+mediçao podem afetar diretamente a lucratividade, reduçao de custos e geraçao de
+receita para organizaçoes. E como limitaçoes observou-se a nao padronizaçao em sua
+forma de mediçao, o nao consenso entre autores sobre os efeitos da aplicaçao do design
+de UX nos negocios, bem como sua dificuldade em mediçao.
+
+Com isso, conclui-se que o artigo atingiu seu objetivo de objetivo de identificar
+as principais intersecçoes existentes entre o design da experiencia do usuario e o retorno
+sobre investimento, bem como mapeou as centrais limitaçoes existentes para a mediçao
+do ROI aplicado ao UX. Desta forma, tal estudo preliminar podera alimentar futuras
+pesquisas sobre o tema, sobre a otica de oportunidades e limitaçoes da mediçao do
+retorno sobre o investimento na area em questao, bem como seu aprofundamento
+atraves das praticas realizadas nas organizaçoes que possuem como desafio a correlaçao
+entre UX e ROI.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo preliminar da literatura evidencia a relevancia da correlaçao entre as metricas de negocio e as metricas de experiencia do usuario para avaliar o desempenho e a eficacia das estrategias de design UX. A mensuraçao do retorno sobre o investimento (ROI) em UX e um desafio continuo para as organizaçoes, mas a identificaçao das intersecçoes entre as metricas e a superaçao das limitaçoes existentes sao fundamentais para o sucesso e a lucratividade dos negocios.

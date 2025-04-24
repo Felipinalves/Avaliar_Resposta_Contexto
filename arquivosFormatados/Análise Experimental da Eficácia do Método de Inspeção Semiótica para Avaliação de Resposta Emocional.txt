@@ -1,0 +1,324 @@
+**RESUMO**
+
+Em Interaçao Humano-Computador (IHC), avaliaçoes ajudam a co-
+nhecer os desejos e problemas que usuarios enfrentam interagindo
+com interfaces. Podem ser executadas avaliaçoes empiricamente ob-
+servando usuarios e analiticamente com avaliadores inspecionando
+interfaces para encontrar problemas e sugerir melhorias. Avaliaçoes
+podem investigar usabilidade, acessibilidade, comunicabilidade de
+sistemas e a resposta emocional de usuarios. Na literatura existem
+alguns metodos para analisar emoçoes, como sinais fisiologicos.
+Eles sao responsaveis por regular sistemas do organismo que acom-
+panham emoçoes. A mediçao por sinais fisiologicos e cara e invasiva.
+O Metodo de Inspeçao Semiotica para avaliaçao de respostas Emo-
+cionais (MISE) e uma alternativa barata e menos trabalhosa para
+avaliar o estado emocional. O levantamento da literatura executado
+encontrou 31 trabalhos que aferiram a eficacia de metodos analiticos
+e nenhum avaliou o estado emocional. O objetivo dessa proposta
+e aferir se o MISE e eficaz para avaliar a resposta emocional de
+usuarios. Serao realizados dois experimentos, com usuarios reais de
+interfaces e seus sinais fisiologicos e estudiosos em IHC aplicando
+o MISE, seus resultados serao comparados e a eficacia do MISE sera
+aferida.
+
+**INTRODUÇAO**
+
+Dentro da area de Interaçao Humano-Computador (IHC) e investi-
+gado o design, a avaliaçao e a implementaçao de sistemas interativos
+. Avaliaçoes ajudam a conhecer os desejos e os problemas que
+os usuarios enfrentam na interaçao com interfaces. Existem varias
+tecnicas disponiveis para se coletar dados sobre interfaces e se fa-
+zer a analise da sua qualidade de uso. A analise da qualidade de
+Interfaces de Usuario (IU) pode ser realizada por meio de avaliaçoes
+empiricas e analiticas . As avaliaçoes empiricas sao aquelas que
+envolvem a observaçao de usuarios ao interagirem com interfaces
+
+
+As analiticas sao aquelas que avaliadores inspecionam aspectos
+das interfaces com a intençao de encontrar problemas, geralmente
+relacionados a usabilidade, e sugerir melhorias . A analise da
+qualidade de uso de IU, tambem pode avaliar aspectos como usa-
+bilidade, acessibilidade, comunicabilidade de sistemas e a resposta
+emocional de usuarios. Enquanto os usuarios interagem com uma
+IU podem ser despertados diferentes estados emocionais como, por
+exemplo, frustraçao por nao conseguir alcançar um objetivo.
+
+Para , emoçao e definida como um episodio de alteraçoes
+inter-relacionadas e sincronizadas por todos, ou quase todos, os
+subsistemas (componentes) do organismo em resposta a eventos
+de estimulo externo ou interno, para os principais interesses do
+organismo. Segundo , a avaliaçao emocional ideal avalia 5 com-
+ponentes: avaliaçao cognitiva, reaçoes fisiologicas, tendencias com-
+portamentais, expressao motora e sentimento subjetivo.
+
+As reaçoes fisiologicas (sinais fisiologicos) sao responsaveis pela
+regulaçao dos sistemas do organismo que acompanham as emoçoes.
+A maioria dos instrumentos para a mediçao dos sinais fisiologicos,
+possuem um alto custo, sao invasivos e necessitam de especialistas
+para a utilizaçao de equipamentos complexos .
+
+Os sinais fisiologicos podem ser medidos por meio de Resposta
+Galvanica (GSR) da pele, para a coleta da eletro condutividade da
+pele; Eletrocardiograma (ECG), para registrar batimentos cardiacos;
+Eletroencefalograma (EEG), para a coleta de atividade eletrica no
+cerebro, etc . O Metodo de Inspeçao Semiotica para avaliaçao de
+respostas Emocionais (MISE), foi criado como uma alternativa mais
+barata e menos trabalhosa, para a avaliaçao do estado emocional,
+pois, nao necessita da participaçao de usuarios para ser aplicado
+.
+
+Um levantamento da literatura foi executado para elencar tra-
+balhos que tinham como objetivo aferir a eficacia de metodos de
+avaliaçao de IU analiticos. Foram encontrados 31 trabalhos que rea-
+lizaram comparaçoes de metodos analiticos com empiricos, afim de
+aferir a eficacia. Em sua maioria os trabalhos analisaram metodos
+de usabilidade e nenhum deles analisou a resposta emocional de
+usuarios. Ate o momento a eficacia do MISE, nao foi aferida.
+
+A presente proposta de pesquisa, tem por objetivo realizar uma
+investigaçao experimental para aferir a eficacia do metodo MISE
+para avaliar a resposta emocional evocada por IU. Serao realizados
+dois experimentos, com usuarios reais de interfaces e seus sinais
+fisiologicos e especialistas em IHC aplicando o MISE, seus resultados
+serao comparados e a eficacia do MISE sera aferida.
+
+**CONCEITOS FUNDAMENTAIS**
+
+Segundo , a area de IHC estuda o design, a avaliaçao e a im-
+plementaçao de sistemas computacionais interativos para o uso
+humano, e os principais fenomenos associados a este uso. Os estu-
+dos que envolvem o design sao relacionados a construir interfaces
+por meio de metodos, modelos e diretrizes. Os estudos que en-
+volvem a avaliaçao sao relacionados a avaliar a qualidade de um
+projeto de interface . E os estudos relacionados a implemen-
+taçao envolvem o desenvolvimento do sistema computacional em
+si.
+
+Nessa proposta, o foco sera nos estudos de IHC relacionados
+as avaliaçoes de interfaces. Interface e interaçao sao termos muito
+utilizados quando o assunto e a avaliaçao de sistemas computa-
+cionais. Interface e toda parte do sistema com a qual o usuario
+mantem contato enquanto o utiliza, seja de forma fisica, perceptiva
+ou conceitual .
+
+A Interaçao e o processo de comunicaçao entre pessoas e siste-
+mas interativos . E como uma conversa, onde em alguns mo-
+mentos o usuario fala e o sistema ouve, interpreta e realiza uma
+açao, vice e versa. Em IHC, esse processo de comunicaçao e estu-
+dado principalmente do ponto de vista do usuario, observando suas
+açoes e interpretaçoes sobre as respostas do sistema por meio da
+interface .
+
+Os metodos de avaliaçao analiticos nao envolvem a participaçao
+direta do usuario, mas sim, experiencias de uso potenciais e nao
+reais. Para inspecionar uma interface, os avaliadores se colocam no
+lugar de um usuario com um determinado perfil, nivel de conheci-
+mento e experiencia. Entao, o avaliador tenta encontrar problemas
+que podem surgir quando os usuarios interagirem com o sistema, e
+de que formas o sistema ira ajuda-los a resolver tais problemas .
+
+Os metodos analiticos podem avaliar aspectos como: usabilidade,
+por meio da Avaliaçao Heuristica; acessibilidade, por meio da Ava-
+liaçao Simplificada de Acessibilidade (ASA); e a comunicabilidade
+de sistemas, por meio do Metodo de Inspeçao Semiotica (MIS).
+
+As emoçoes estao presentes em nosso cotidiano em açoes e pensa-
+mentos, mesmo que inconscientemente agimos segundo alguma
+emoçao. Elas podem nos ajudar a avaliar situaçoes como boas ou
+ruins , . Em IHC, as emoçoes estao relacionadas a experiên-
+cia do usuario e a avaliaçao da qualidade de produtos. Estimulos
+como cores, forma, multimidia, entre outros, podem evocar emo-
+çoes positivas ou negativas na interaçao do usuario com um sistema
+
+
+Na literatura e possivel encontrar alguns metodos para avaliaçao
+e classificaçao das emoçoes . Como, por exemplo, os metodos
+Think Aloud , Self-Assessment Manikin (SAM) , Emocards
+, Facial Action Coding System (FACS) , Dez Heuristicas da
+Emoçao  e a abordagem hibrida de .
+
+O Espaço Emocional Semantico (EES) de Scherer , e uma
+ferramenta para classificar emoçoes. Ele e dividido em quatro domi-
+nios emocionais que possuem polos positivos e negativos. Em cada
+dominio existem subdivisoes, denominadas oitantes, onde sao dis-
+tribuidas emoçoes que permitem uma representaçao grafica. Nessa
+pesquisa o EES sera utilizado para classificar o estado emocional
+que as interfaces selecionadas despertam.
+
+O MISE tem como base as dez classes de signos de . Por meio
+das definiçoes dessas dez classes e possivel classificar os elementos
+de interfaces. Na criaçao do MISE percebeu-se que algumas das clas-
+ses sao semelhantes. Com isso, o MISE as agrupa em tres grupos
+de signos: iconicos, indicativos e informativos. Considerando as ca-
+racteristicas de cada grupo, enquanto se inspecionam as interfaces,
+sao feitas questoes especificas que levam a associaçao de uma ou
+mais dimensoes do EES .
+
+Basicamente a aplicaçao do MISE consiste em selecionar IU e seus
+elementos para realizar uma analise semiotica e entender a funçao
+dos elementos em seu contexto. A seguir e explicado brevemente a
+execuçao das quatro etapas do MISE.
+
+Na primeira etapa, os avaliadores devem definir o perfil dos usuarios;
+descrever a tarefa principal, sub tarefas e a resposta do sistema a
+essas tarefas; selecionar as interfaces e os elementos ou eventos de
+interface, que sejam relevantes as tarefas.
+
+Na segunda etapa, e feita a categorizaçao dos elementos seleciona-
+dos de acordo com os tres grupos de signos: Iconicos, signos que
+apresentam similaridades com seu objeto; indicativos, signos que
+indicam uma causa e/ou consequencia sobre o objeto; e Informa-
+tivos: signos que representam uma ideia. A categorizaçao e feita
+por um diagrama, que possui perguntas, que ao serem respondidas
+levam a um grupo de signo que categoriza o elemento analisado.
+
+Na terceira etapa, cada grupo de signos possuem perguntas que
+foram elaboradas com base nas quatro dimensoes do EES e nas ca-
+racteristicas dos signos, com a intençao de associa-los aos oitantes.
+
+Na quarta e ultima etapa, e feita a analise de incidencias dos oitantes
+selecionados para cada elemento avaliado nas etapas anteriores, de
+acordo com o conjunto de questoes. As incidencias sao identificadas
+pelo calculo da moda para verificar qual oitante aparece com mais
+frequencia. A moda nao necessariamente ira resultar em apenas
+um oitante. Ao final da analise de incidencias, se houver mais de
+um avaliador, e feita a consolidaçao dos resultados de todos os
+avaliadores.
+
+**SOLUÇAO PROPOSTA**
+
+A partir do levantamento do estado da arte sobre a eficacia de
+metodos de avaliaçao de IU observou-se que a maioria dos trabalhos
+compararam metodos analiticos e empiricos analisando o aspecto de
+usabilidade. Essa proposta busca comparar metodos que analisem
+a resposta emocional de usuarios. O metodo empirico que infere
+o estado emocional por meio de sinais fisiologicos, adotado nessa
+pesquisa, foi escolhido por ser um dos componente 5 componentes
+propostos por  para uma avaliaçao emocional ideal.
+
+E por conta de que os sensores fisiologicos a serem utilizados,
+terem sidos estudados na proposta de  que por meio da criação de um data set classifica emocoes de acordo com o EES de Scherer.
+A escolha do MISE para a comparacao proposta, justifica-se pelo
+fato de ele ser um metodo relativamente novo e ainda nao ter sido
+investigada sua eficacia.
+Justifica-se tambem por ser uma alternativa mais barata para a
+inferencia da resposta emocional de usuarios. Ambos os metodos
+de avaliacao selecionados, resultarao em um conjunto de emocoes
+do EES de Scherer. Os metodos serao comparados afim de aferir
+a eficacia do MISE em relacao ao metodo empirico e serao feitas
+relacoes entre o custo e a eficiencia dos metodos.
+
+TRABALHOS RELACIONADOS
+O objetivo do Mapeamento Sistematico (MS) foi, encontrar o estado
+da arte sobre a comparacao da eficacia de metodos de avaliacao
+de IU. Os primeiros processos de MS, foram realizados no periodo
+de marco a maio de 2019. Nessa fase inicial, consideraram-se os
+passos propostos por [18], para sua execucao. Foram definidas e
+aprimoradas as seguintes strings de busca:
+("analytical method"OR "inspection method"OR "evaluation method
+"OR "interface evaluation"OR "empirical method"OR "empirical evaluation") AND ("experimental comparison"OR "experimental evaluation"OR "experimental analysis") AND ("human computer interaction"OR "computer human interaction")
+("inspection method"OR "analytical methods"OR "empirical evaluation"OR "empirical method"OR "evaluation method"OR "interface
+evaluation") AND ("comparison"OR "analysis"OR "assess"OR "comparative"OR "evaluate"OR "evaluation"OR "validation") AND ("user
+interface"OR "user test")
+Nas seguintes bases de dados: ACM Digital Library, IEEE Xplore
+Digital Library e SCOPUS Elsevier. A busca referente a primeira
+string, foi executada ate sua fase final e retornou um total de 248
+trabalhos. Apos realizar todo o processo de extracao de dados, que
+envolve: ler titulos e resumos, aplicar os criterios de inclusao e
+exclusao e analisar o trabalho completo. Foram aceitos apenas 2
+trabalhos. O que e um numero pequeno para um MS.
+Considerando o baixo numero de trabalhos retornados na primeira busca e a quantidade de trabalhos aceitos, a segunda string de
+busca foi executada. Foram retornados um total de 4.383 trabalhos.
+Logo no inicio do processo de analise dos trabalhos foi possivel
+notar que muitos dos ali presentes, nao se relacionavam com o objetivo do MS. Entao foi tomada a decisao de interromper o processo
+de busca.
+Apos varias mudancas nas strings de busca, alem das apresentadas, observou-se que mais da metade dos trabalhos retornados
+eram sobre a aplicacao de metodos de avaliacao em interfaces. E nao
+sobre a avaliacao de metodos de avaliacao de IU. Por esse motivo,
+foi estudado o procedimento Snowballing, de [30], para aplica-lo
+nesse projeto de pesquisa.
+O procedimento de MS Snowballing, ou em portugues "bola de
+neve", e realizado considerando a lista de referencias e citacoes de
+um artigo, inicialmente selecionado, para encontrar outros artigos
+que se relacionam com ele [30]. Para iniciar o procedimento e necessario selecionar um conjunto inicial de artigos que sao relacionados
+com o objetivo do MS. O procedimento foi realizado entre junho e
+julho de 2019.
+Para selecionar o conjunto inicial e indicado realizar buscas no
+Google Scholar, para nao ocorrer o vies de ter selecionado uma
+base de dados especifica. A string, deve ser formulada a partir das
+palavras-chave e questao de pesquisa. Para essa pesquisa foi definida
+a seguinte string de busca: (assessing AND inspection method AND
+HCI).
+Apos realizar os procedimentos de snowballing para tras, que
+consiste em encontrar novos artigos a partir da lista de referencias
+de um artigo ja aceito. E o snowballing para frente, que consiste
+em encontrar novos artigos a partir das citacoes de um artigo ja
+incluido. Foram selecionados 31 trabalhos relacionados ao objetivo
+do MS.
+Trinta dos 31 trabalhos incluidos realizaram comparacoes de
+metodos de avaliacao relacionados ao aspecto de usabilidade, como
+o de [9]. Outros trabalhos aos aspectos de acessibilidade, como o
+de [4] e comunicabilidade, como o de [23]. Nao foram encontrados
+trabalhos que comparassem metodos de avaliacao relacionados ao
+aspecto emocional.
+O trabalho de [12] realizou uma comparacao experimental da
+eficacia e eficiencia de dois metodos de usabilidade, o teste de usabilidade e a avaliacao heuristica. Na analise dos resultados, foram
+considerados como medidas de eficacia aspecto como: numero de
+problemas identificados; gravidade de problemas; tempo para encontrar problemas; e tipos de problemas.
+Trabalhos como os de [10, 13, 26, 29], de maneira semelhante
+ao trabalho de [12], comparam metodos de avaliacao relacionados
+ao aspecto de usabilidade. Grande parte dos trabalhos encontrados, realizaram a comparacao de metodos analiticos com empiricos.
+Alguns autores comentaram que a combinacao de metodos empiricos com analiticos podem gerar avaliacoes mais enriquecedoras e
+completas.
+Com a conclusao do MS realizado foi possivel identificar alguns
+criterios de comparacao de eficacia de metodos de avaliacao, de
+usabilidade, acessibilidade e comunicabilidade, que tambem podem
+ser utilizados para comparar metodos que avaliem a resposta emocional. Como por exemplo a eficiencia, o custo, a satisfacao e a
+confiabilidade dos metodos.
+
+METODOLOGIA
+Serao realizados dois experimentos, um com o metodo analitico
+MISE e outro com o metodo empirico que utiliza sensores fisiologicos. Atendendo ao rigor etico e cientifico o projeto de pesquisa foi
+encaminhado e aprovado pelo Comite de Etica em Pesquisa em Seres
+Humanos (CEP), da UFSCar, sob o CAAE: 16850419.6.0000.5504.
+O experimento com o MISE sera aplicado por um conjunto de
+12 estudiosos em IHC. Como o MISE e relativamente novo, ainda
+nao existem avaliadores especialistas em sua aplicacao. Com isso,
+sera oferecido um treinamento para sua aplicacao. Ao final do
+treinamento os estudiosos aplicarao o MISE em tres interfaces: um
+site de compras, um aplicativo de agenda e um jogo. O criterio de
+inclusao nesse experimento e: pessoas que tenham conhecimento
+na area de IHC.
+O experimento com o metodo empirico, sera realizado com 30
+usuarios comuns de interfaces. Enquanto os usuarios estiverem
+interagindo com as tres interfaces selecionadas, eles terao seus
+sinais fisiologicos e sentimentos subjetivos coletados. Os criterios
+de inclusao nesse experimento sao: idade maior que 18 anos, ensino
+medio completo e pessoas que possuam qualquer tipo de notebook
+e celular com sistema operacional Android em qualquer versao. Os
+criterios de exclusao sao: problemas cardiacos e hiperidrose. Os
+sinais fisiologicos serao coletados pelos sensores fisiologicos ECG,
+GSR, EEG.
+
+Analise dos dados
+Apos a coleta dos dados do metodo empirico, os sinais fisiologicos passarao por pre-processamento e normalizacao dos sinais. Os
+sinais fisiologicos classificados em emocoes, serao mapeados no
+Espaco Emocional Semantico de Scherer no oitante correspondente.
+Com a consolidacao dos resultados do MISE, aplicado por estudiosos
+em IHC, serao retornados um ou mais oitantes presentes no Espaco
+Emocional Semantico de Scherer. Considerando como metrica de
+eficacia o metodo empirico, se a aplicacao do MISE resultar em um
+conjunto de emocoes coincidentes ou semelhantes aos do metodo
+empirico, entao ele sera considerado eficaz para inferir o estado
+emocional evocado por uma IU.
+
+**CONTRIBUIÇOES ESPERADAS**
+
+Como resultado e contribuicao dessa proposta de pesquisa, pretende-se comprovar se o MISE e tao eficaz quanto os sensores fisiologicos
+para inferir um estado emocional despertado por IU. Tambem sera
+feita a comparacao dos metodos, empirico e analitico, na intencao
+de coletar informacoes de eficiencia e custo-beneficio, como, tempo
+para aplicacao dos metodos, recursos necessarios (como habilidades,
+local e participantes), gastos (com equipamentos) e dificuldades na
+aplicacao dos metodos. Depois de validados esses criterios de comparacao poderao contribuir com pesquisas que avaliem metodos de
+avaliacao de resposta emocional.

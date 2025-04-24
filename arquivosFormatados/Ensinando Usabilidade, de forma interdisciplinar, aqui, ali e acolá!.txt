@@ -1,0 +1,399 @@
+**RESUMO**
+
+Este artigo relata a experiencia de ensino de usabilidade
+como topico de tres diferentes disciplinas, ministradas em
+dois cursos de mestrado com enfases diferentes, para alunos
+majoritariamente com formaçao nao da area de
+Computaçao, entre os anos de 2014 e 2017. Alem do relato
+de como o tema e abordado, ha como resultado a avaliaçao
+dos egressos sobre o conteudo e sua abordagem.
+
+**INTRODUÇAO**
+
+Cada vez mais, em diferentes esferas da Educaçao, se fala
+em trabalho interdisciplinar, haja vista sua contribuiçao a
+aprendizagem significativa, alem de ser a forma como o
+mercado cada vez mais se apresenta aos egressos de todas
+as areas do conhecimento.
+
+De acordo com , a palavra Interdisciplinaridade tem sido
+utilizada para descrever a diluiçao das/nas fronteiras do
+conhecimento. E um conceito que pressupoe açao
+integradora.
+
+Neste sentido, nos professores buscamos em nossa pratica
+realizar experiencias que proporcionem aos nossos alunos a
+vivencia da interdisciplinaridade, seja por projetos
+integradores entre disciplinas, seja por trabalhos
+academicos que exijam o uso de diferentes conhecimentos,
+ou seja pelo inter-relacionamento de conteudos.
+
+O objetivo deste artigo e relatar a abordagem do conteudo
+Usabilidade em diferentes disciplinas de pos-graduaçao
+stricto sensu em cursos fora da area de Computaçao, de
+forma interdisciplinar, mostrando sua aplicabilidade e os
+beneficios em considera-la em diferentes dominios de
+aplicaçao.
+
+**EXPLICANDO O CONTEXTO**
+
+Na Universidade Estadual do Oeste do Parana (Unioeste),
+ha dois cursos de Ciencia da Computaçao, em campus
+diferentes, sendo que em apenas um deles consta uma
+disciplina de Interaçao Humano-Computador, de 68 horas,
+ofertada como disciplina optativa. Em um dos campi ha um
+programa de mestrado em Engenharia Eletrica e
+Computaçao, que tambem nao oferta tal disciplina.
+
+Embora lotado como docente no Curso de Ciencia da
+Computaçao do campus de Cascavel, o autor atua, de forma
+interdisciplinar, em dois programas de mestrado fora da
+area, sendo um deles academico na area de Ensino e outro
+profissional na area Interdisciplinar, ambos no campus de
+Foz do Iguaçu.
+
+O Programa de Mestrado em Ensino (PPGEn) foi
+implantado em 2014, com foco na formaçao do pesquisador
+na referida articulaçao entre Ciencia, Linguagem e
+Tecnologia e suas implicaçoes para o processo de
+disseminaçao do conhecimento, por meio da docencia e
+formaçao continuada de professores em contextos
+multietnicos e plurilinguisticos, organizado em duas linhas
+de pesquisa Ensino em Ciencias e Matematica e Ensino em
+Linguagens e Tecnologias. Neste Programa, o autor e
+docente permanente responsavel por duas disciplinas,
+ambas eletivas para a linha de Ensino em Linguagens e
+Tecnologias, as quais intercala a oferta durante o
+quadrienio, sendo elas Design Instrucional (DI) e
+Tecnologias, Educaçao e Praticas Pedagogicas (TEPP).
+
+O segundo curso e o Programa de Mestrado em
+Tecnologias, Gestao e Sustentabilidade (PPGTGS), nivel
+profissional, estruturado em duas linhas de pesquisa,
+Tecnologias e Sustentabilidade e Gestao e
+Desenvolvimento Regional Sustentavel, objetivando
+capacitar os egressos para atuar de forma inovadora,
+integradora e diferenciada na resoluçao de problemas nos
+diferentes ambientes de trabalho, sendo capaz de utilizar
+ferramentas ou recursos administrativos e tecnologias
+apropriadas para melhoria dos processos ou adoçao de
+produtos que contribuam para o desenvolvimento regional
+sustentavel.
+
+Nesse mestrado profissional o autor atua como professor
+colaborador, sendo responsavel por uma das disciplinas
+obrigatorias para a linha de pesquisa Tecnologias e
+Sustentabilidade, chamada de Tecnologia de Informaçao
+(TI).
+
+A disciplina de DI, de 60 horas, tem por objetivos gerais
+Apresentar conceitos, aplicaçoes e recursos para a
+elaboraçao de projetos para cursos de Educaçao a Distancia
+(EaD), salas de aulas virtuais e materiais didaticos para
+EaD, bem como para planejar o uso de ambientes virtuais
+de ensino e aprendizagem no ensino presencial.
+
+A disciplina de TEPP, de 60 horas, tem por objetivos
+Apresentar ao aluno os conceitos gerais associados a
+Informatica na Educaçao Fornecer subsidios para escolha e
+aplicaçao de forma adequada de software educacional, e,
+Avaliar criticamente a relaçao entre Educaçao e as Novas
+Tecnologias.
+
+A disciplina de TI, de 45 horas, objetiva Estudar os
+principios de gestao de TI, apresentar sistemas de
+informaçao e de apoio a decisao, prover conhecimentos
+sobre tecnologias de Business Intelligence Data
+Warehouse, OLAP e Mineraçao de Dados e introduzir
+Gestao do Conhecimento relacionada a Tecnologia de
+Informaçao.
+
+E neste contexto que conteudos de Usabilidade sao
+abordados, com enfoques diferentes, considerando as
+especificidades das disciplinas, dos cursos e de seu publico-
+alvo.
+
+**A ABORDAGEM DO CONTEUDO**
+
+A Usabilidade e considerada tanto como um campo de
+estudo como tambem um atributo usado para definir a
+facilidade de uso de um Sistema de Interaçao Humano-
+Computador.
+
+Para , a usabilidade esta relacionada com a facilidade de
+aprendizado e uso da interface, bem como com a satisfaçao
+do usuario em decorrencia desse uso. Para Nilsen, os
+seguintes fatores sao considerados para definir um criterio
+de usabilidade facilidade de aprendizado, facilidade de
+recordaçao, eficiencia, segurança no uso e satisfaçao do
+usuario. A norma ISO 9241-11 , define a usabilidade
+como a efetividade, a eficiencia e a satisfaçao com que
+usuarios especificos atingem objetivos especificos em
+ambientes particulares.
+
+Esses conceitos foram os adotados e as aulas foram
+elaboradas seguindo os conteudos dispostos nos capitulos 9
+e 10 de , que abordam, respectivamente, os conteudos de
+Planejamento de Avaliaçao de IHC e Metodos de Avaliaçao
+de IHC. Antes, porem, de introduzi-los, foi brevemente
+falado da area de Interaçao Humano-Computador, situando
+Usabilidade e sua avaliaçao como um dos conteudos
+estudados nessa area.
+
+Na disciplina de DI, o conteudo foi abordado em 6 aulas,
+alem de os alunos terem que considerar o conceito de
+usabilidade no trabalho final da disciplina que consistiu na
+elaboraçao de um Design Instrucional no ambiente Moodle
+acerca de uma proposta de um curso de extensao de
+formaçao continuada para professores, descrevendo no
+relatorio final como se deu a relaçao da aplicaçao do
+conceito na pratica de seu projeto. Procurou-se estabelecer
+relaçao entre o conceito de Usabilidade com o processo de
+um design instrucional, destacando a importancia da
+usabilidade para os alunos de ambientes virtuais de
+aprendizagem.
+
+Na disciplina TEPP, o conteudo tambem foi abordado em 6
+horas-aulas. Na primeira oferta da disciplina os alunos, em
+grupos, tiveram como uma das avaliaçoes que avaliar
+diferentes jogos digitais e objetos de aprendizagem quanto a
+sua usabilidade, alem de outros criterios para seleçao dessas
+ferramentas as aulas, avaliando o uso de um deles em sala
+de aula. Na segunda turma da disciplina, houve um
+momento de pratica no laboratorio de mais 4 horas-aulas,
+onde os alunos - todos professores de diferentes areas
+puderam avaliar diferentes softwares educacionais a luz da
+usabilidade.
+
+Em ambas as disciplinas, DI e TEEP, sao trabalhados os
+conceitos de usabilidade pedagogica, bastante discutido em
+, que, em linhas gerais, pode-se dizer que esta associada
+ao desenvolvimento do material didatico e como foi
+conduzida sua preparaçao pedagogica para favorecer a
+aprendizagem.
+
+Na disciplina de TI, o conteudo usabilidade foi abordado
+tambem em 6 horas-aulas, incluindo tambem aspectos de
+acessibilidade web, conduzindo a aula de forma a que os
+alunos relatassem experiencias de uso em sistemas de
+informaçao e e-commerce, destacando exemplos que
+julgavam com boa usabilidade e por quais motivos. Nestas
+aulas tambem foram discutidos o por que de usabilidade e
+acessibilidade nao serem requisitos considerados sempre
+em projetos de soluçoes computacionais e como isso
+impacta no uso de sistemas de informaçao, deixando esses
+sistemas, principalmente pelos aspectos de facilidade de
+aprendizado e memorizaçao, de serem, por vezes, utilizados
+na totalidade de seus recursos disponiveis.
+
+**COLETA DE FEEDBACKS**
+
+Para avaliar a percepçao dos alunos sobre a inserçao, de
+forma interdisciplinar, dos conteudos de Usabilidade, sua
+validade e de que forma o absorveram e se fizeram uso, um
+questionario foi elaborado no Google Forms e enviado
+por aos 51 alunos egressos das ofertadas das tres disciplinas
+ja mencionadas, dentre os quais, 21 foram respondentes da
+pesquisa. O questionario foi lançado no mes de junho de
+2018, tendo os alunos um prazo de 15 dias para responde-
+lo. Em seu cabeçalho, foi disponibilizado um Termo de
+Consentimento Livre e Esclarecido (TCLE), contendo uma
+descriçao da pesquisa, convidando os egressos a
+participaçao.
+
+A primeira questao (Q1) perguntava sobre qual(is) das tres
+disciplinas havia cursado, e em qual ano. Apos, vinham as
+seguintes questoes abertas:
+
+Q2. Antes desse curso, voce ja conhecia os conceitos de
+Usabilidade e de como avalia-la?
+Q3. O que voce poderia falar, livremente agora, sobre
+usabilidade?
+Q4. Voce considera que foi importante o conteudo
+Usabilidade em Sistemas Digitais no contexto da disciplina
+cursada? Acha que deve ser mantido?
+Q5. Voce utilizou, de alguma forma, esse conteudo apos a
+disciplina? Comente sua resposta, exemplifique sua
+experiencia.
+A Tabela 1 traz o numero de alunos egressos das ofertas das
+tres disciplinas. 21 dos ex-alunos responderam as questoes,
+que passam a ser relatadas abaixo.
+Sobre os alunos, convem destacar que apenas um do
+Mestrado Academico (onde estao alocadas as disciplinas de
+DI e TEPP), tem formacao na area da Computacao, e que
+fez a primeira oferta da disciplina de TEPP. Os demais
+alunos tem formacoes diversas, em sua grande maioria, em
+cursos da area de licenciatura. Na disciplina de TI, 5 dos
+alunos que passaram pelas duas ofertas, tem formacao em
+Computacao.
+A Figura 1 traz a distribuicao dos respondentes por
+disciplina cursada. Observando a figura, nota-se um total de
+22 alunos, sendo o total de respondentes de 21. Isso se da
+pelo fato de uma aluna ter cursado tanto a disciplina TEPP
+em 2014 quanto a de DI no ano de 2016.
+Ao serem indagados sobre o conhecimento previo sobre
+Usabilidade, Q2, nenhum aluno disse ter conhecimento
+aprofundado sobre o assunto, e a grande maioria relatou que
+nao conhecia o conteudo, como pode ser observado na
+Figura 2.
+A Q3 requereu que os alunos escrevessem o que lembravam
+sobre usabilidade, ou seja, o conceito apreendido. Nao era
+esperado aqui que os ex-alunos dessem os conceitos exatos,
+mas sim, o que recordassem a respeito. As respostas foram
+bastante satisfatorias, mostrando que os respondentes
+compreenderam, ainda que em diferentes graus, o
+significado de usabilidade. Abaixo, um recorte de algumas
+respostas para ilustrar a percepcao dos alunos, a partir das
+respostas dadas:
+
+Emprego de ferramentas para facilitar a realizacao das
+atividades.
+
+O termo usabilidade esta relacionado ao quanto um
+sistema esta apto ao uso, facilidades do uso da interface e
+adequacao ao proposito.
+
+A usabilidade esta ligada a facilidade de acesso do
+usuario nas interfaces.
+
+A facilidade para empregar uma ferramenta para uma
+tarefa especifica.
+
+Termo usado para definir ou mensurar a facilidade que
+as pessoas tem para usar ferramentas digitais.
+
+Sem ela os sistemas tornam-se ineficazes, por vezes
+desestimulando o usuario.
+
+Usabilidade em sistemas digitais seria a forma com que
+as pessoas empregam esse tipo de ferramenta em seu dia a
+dia como um facilitador.
+A Q4 indagava sobre o julgamento da importancia do
+conteudo na disciplina e sobre sua manutencao, podendo
+escolher entre as opcoes Sim, Nao, Nao sei opinar.
+Os respondentes foram todos unanimes em responder
+Sim, indicando que realmente gostaram de ter tido
+conhecimento sobre o tema.
+Na Q5, a ideia foi a de perguntar se os alunos utilizaram o
+conteudo acerca de Usabilidade, de alguma forma. 10 (dez)
+dos respondentes disseram que Nao, que nunca o
+utilizaram. Dois desses tentaram justificar o motivo por
+estarem fora da sala de aula (em licenca para qualificacao).
+Os demais afirmaram terem feito uso, de alguma maneira.
+Abaixo, algumas das respostas dadas pelos ex-alunos sobre
+como ja se utilizaram dos conteudos vistos:
+
+Os conceitos aprendidos estao sendo uteis no contexto
+profissional tanto para producao de conteudos digitais que
+sao utilizados com alunos como para organizacao de sites e
+ambientes utilizados para o mesmo fim. Embora a
+disciplina tenha abordado apenas uma introducao ao
+conteudo e ainda haja muito o que se estudar a respeito do
+assunto, ja forneceu a base necessaria para melhorar a
+pratica profissional e apontou caminhos sobre onde e como
+aprofundar o estudo sobre o tema.
+
+Sim. Para complementar minhas aulas de Tecnologia de
+Informacao e Sistemas de Informacao.
+
+Posso ter utilizado em outra area. Por exemplo, nos
+questionarios que apliquei como a pessoa que iria
+responder entenderia a pergunta.
+
+Sim, no meu trabalho como tutora auxiliou a avaliar e
+compreender como a usabilidade e importante no
+desenvolvimento de uma interface como os Ambientes
+Virtuais de Ensino e Aprendizagem, pois quanto mais dificil
+o acesso, mais perdidos os alunos ficam ao realizar as
+tarefas, podendo ate os desmotivar.
+
+Considero que o conteudo foi de extrema importancia,
+pois ajudou a compreender a importancia da usabilidade e
+sua influencia direta no desempenho do usuario
+especialmente em atividades educacionais e pedagogicas.
+Alem disso, contribuiu para esclarecer duvidas sobre
+usabilidade na pratica.
+
+Compreender melhor os conteudos da Interacao
+Humano-Computador.
+Cabe destaque sobre a resposta da professora que
+relacionou o conteudo com sua atividade de tutora em curso
+de Educacao a Distancia (EaD), bem como a que se colocou
+no lugar do usuario ao elaborar um questionario online, o
+que mostra que os alunos realmente levaram os conteudos
+para o seu cotidiano, na medida em que interagiram com
+sistemas computacionais.
+Na percepcao do autor, na disciplina TEEP o conteudo foi
+fixado pela avaliacao de objetos de aprendizagem como
+atividade extraclasse na primeira oferta do curso, bem como
+nas aulas de laboratorio onde fizeram uso de avaliacao
+heuristica para avaliacao de usabilidade, em duplas, de
+alguns jogos educacionais.
+Na disciplina de DI a apreensao do conteudo se deu numa
+abordagem de resolucao de problemas, uma vez que os
+alunos, em grupos, tiveram que propor um design
+instrucional para um curso no Moodle, sendo um criterio de
+avaliacao nao apenas considerar usabilidade no processo de
+criacao, como descrever no relatorio final da atividade
+quais foram as acoes tomadas em prol dela.
+Nas ofertas da disciplina de TI acredita-se que a fixacao dos
+conteudos teoricos expostos sobre o tema se deu quando os
+alunos comecaram a relatar experiencias ruins de uso de
+sistemas de informacao e a discutirem o que seria
+necessario para que esses problemas fossem evitados.
+
+
+**CONSIDERAÇOES FINAIS**
+
+Embora tenhamos clareza sobre a natureza da area de
+Interaçao Humano-Computador e de seus conteudos, ser
+interdisciplinar, geralmente a vemos ser ministrada como
+disciplina especifica, para cursos da area da Computaçao ou
+Design, sendo pouco comum sua oferta a alunos de outras
+areas.
+
+A ideia de abordar, ainda que brevemente IHC, e em
+particular de usabilidade, de uma forma util na realidade
+dos alunos de cursos fora da computaçao foi a de
+justamente mostrar que esse pode ser um conteudo de
+outras areas, aplicavel em seus conteudos a partir dos
+artefatos computacionais com que trabalham.
+
+Ficou evidente a importancia do tema a professores que
+possam vir selecionar tecnologias para uso em suas praticas
+pedagogicas, ou para aqueles que forem participar da
+construçao [ou mesmo tutoria], de cursos na modalidade
+EaD, bem como para profissionais de diferentes areas da
+industria que demandam requisitos para construçao de
+sistemas e os manuseiam em seu cotidiano de trabalho.
+
+E claro que essa experiencia realizada cinco vezes tem
+como problema a baixa carga horaria com que o conteudo e
+trabalhado, e que requeria mais tempo para poder abarcar
+de forma mais aprofundada e formal os metodos de
+avaliaçao de interface, contudo, julga-se importante que
+esses alunos tenham em mente o quesito usabilidade
+quando forem escolher sistemas computacionais diversos
+para seu uso, o que foi alcancado com a forma ora exposta
+de abordagem do conteudo.
+Como forma de contornar a pouca carga horaria para
+abordar esse conteudo, ha a alternativa de aplicacao como
+trabalhos avaliativos desses conceitos, o que foi realizado
+na ultima oferta da disciplina TEPP e em DI.
+A disciplina de DI sera novamente ofertada no segundo
+semestre de 2018, na qual no trabalho pratico no Moodle os
+alunos deverao justificar suas escolhas no design do curso a
+partir de elementos de usabilidade e usabilidade
+pedagogica, de forma que nao apenas considerem esses
+conceitos ao pensarem na elaboracao de um curso para
+EaD, relacionando Usabilidade ao Design Instrucional, mas
+reflitam sobre isso ao escrever sobre suas praticas.
+Como contribuicao adicional, acredita-se que ha neste
+relato elementos para que outros professores que atuam em
+programas de pos-graduacao em areas que nao a
+computacao e que queiram abordar o tema da usabilidade,
+possam obter inspiracao de como proceder.
+
+**CONSIDERACOES FINAIS**
+
+A experiencia de ensinar usabilidade de forma interdisciplinar em cursos fora da area de computaçao se mostrou proveitosa, evidenciando a relevancia do tema para diferentes areas do conhecimento. A abordagem interdisciplinar permitiu aos alunos compreender a aplicabilidade da usabilidade em seus respectivos contextos, contribuindo para a formaçao de profissionais mais capacitados e conscientes da importancia de sistemas computacionais acessiveis e eficientes.

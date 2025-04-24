@@ -1,0 +1,112 @@
+**RESUMO**
+
+Jogos terapeuticos visam apoiar os tratamentos de reabilitaçao e
+ajudar os pacientes a compreender, se motivar e persistir nas
+praticas terapeuticas. Este trabalho descreve uma plataforma para
+a autoria de jogos digitais configurados por profissionais de saude
+para conduzir atividades terapeuticas com seus pacientes e os
+respectivos cuidadores. A plataforma dispoe de uma interface
+Web para a autoria dos jogos e visualizaçao dos relatorios, bem
+como um aplicativo movel para exibir os jogos criados para os
+pacientes. Tecnicas do Design Participativo foram utilizadas
+durante 0 desenvolvimento para engajar todas as partes
+interessadas. Feedbacks iniciais apontam para a adesao dos
+profissionais a soluçao criada.
+
+**Introduçao**
+
+Jogos digitais sao sistemas de software interativos usados para o
+lazer, entretenimento e, cada vez mais, como ferramenta para a
+educaçao e para a saude . Mader et al. definem jogos
+digitais terapeuticos como sendo aqueles jogos digitais que
+produzem um efeito terapeutico direto e pretendido sobre os
+jogadores (pacientes), sendo que esse efeito terapeutico pode
+aliviar, melhorar ou ate mesmo curar a condiçao especifica dos
+pacientes. Os jogos digitais terapeuticos conseguem esconder a
+carga das tarefas terapeuticas em um mundo de fantasia,
+potencializando o poder motivacional e a adesao a terapia.
+
+Apesar do aumento no uso desse tipo de jogos nos ultimos anos
+, a pesquisa sobre o desenvolvimento desses sistemas na area
+da Computaçao ainda e incipiente. No Brasil, poucos jogos foram
+desenvolvidos e sem o apoio de profissionais da area da saude. O
+Jogo da Escolha  e Dermaplay  sao alguns exemplos de
+jogos digitais terapeuticos desenvolvidos por pesquisadores
+brasileiros. Ha, portanto, demanda por novos titulos, em particular,
+no contexto do cuidador e da criança com cancer.
+
+O cenario complexo, no qual o jogo terapeutico deste projeto
+esta inserido exige uma equipe multidisciplinar e uma visao
+abrangente para o desenvolvimento do mesmo. Neste sentido, o
+projeto contou com apoio de profissionais de saude de um hospital
+especializado no tratamento de cancer infantil. Com esse apoio foi
+possivel desenvolver uma plataforma Web que permite a autoria
+de jogos terapeuticos por parte dos profissionais e que sao
+posteriormente utilizados por crianças e seus cuidadores em seus
+dispositivos moveis durante o tratamento no hospital. Alem de
+entreter, os jogos tem os seguintes objetivos terapeuticos: a)
+esclarecer sobre a doença e o tratamento, b) estimular o otimismo
+e a esperança, c) minimizar efeitos superprotetores dos cuidadores.
+Esses objetivos foram identificados durante praticas participativas
+para clarificaçao do problema de design realizada em conjunto
+com os profissionais do hospital.
+
+Nas seçoes a seguir a metodologia adotada no projeto e descrita,
+bem como as interfaces produzidas e o andamento atual dos
+trabalhos.
+
+**Metodologia**
+
+A plataforma aqui descrita foi desenvolvida com o apoio de uma
+abordagem para o design de jogos digitais terapeuticos  que
+dispoe de 4 etapas: Clarificaçao do Problema de Design,
+Modelagem da Interaçao, Materializaçao do Design e Avaliaçao.
+Os profissionais do hospital participaram de todas as etapas, mas
+foram decisivos nas etapas de design e avaliaçao da plataforma
+que e composta por uma interface Web e um aplicativo movel
+para interaçao com o jogo.
+
+No sistema da Web, o profissional (e.g., terapeuta, pediatra,
+nutricionista) pode cadastrar seus pacientes e os familiares
+(cuidadores), e criar projetos de jogos, bem como configurar que
+tipo de conteudo (e.g. imagens, mensagens de feedback) deve ser
+incluido no jogo (vide recorte disponibilizado na Figura 1). E
+importante ressaltar que as midias podem ser escolhidas pelos
+profissionais no momento da autoria. Os objetivos terapeuticos
+(esperança, otimismo, esclarecimento da condiçao patologica)
+podem ser trabalhados por meio de tres mecanicas de jogo
+previamente disponibilizadas na interface Web: Puzzle (Encaixe),
+Quiz (Perguntas) e Plataforma (Comidas), conforme ilustrado na
+Figura 2.
+
+Os jogadores acessam o jogo por meio de um aplicativo mobile usando login e senha Enquanto criancas e cuidadores jogam as suas acoes sao capturadas armazenadas e enviadas ao sistema Web que ira gerar relatorios de desempenho dos jogadores para os profissionais e esses podem entao realizar procedimentos de intervencao durante o tratamento O jogo foi desenvolvido utilizando a Game Engine Unity e a linguagem de programacao C O sistema Web foi implementado utilizando a linguagem de programacao Python os frameworks Django e Angular 6 e o sistema de gerenciamento de banco de dados MySQL O jogo sera utilizado pelos profissionais da saude com as criancas do Hospital para avaliacao da resposta emocional e avaliacao dos resultados do jogo em relacao aos objetivos terapeuticos Essa proxima etapa aguarda autorizacao do Comite de Etica em Pesquisa para ser conduzida. 
+
+A Figura 3a ilustra uma das telas configuradas por um nutricionista com a mecanica Plataforma Nesse jogo a crianca deve escolher que alimentos ele pode comer durante o tratamento. 
+
+Ao fim de cada fase um feedback sonoro e com estrelas e disponibilizado como reforco positivo Na intencao de identificar como o jogador esta se sentindo apos jogar a fase e perguntado a ele como esta sendo que ele deve responder em uma escala de 5 estrelas (Figura 3b).
+
+**Conclusao**
+
+Este trabalho e fruto de projetos de extensao que tem buscado
+engajar a universidade e a comunidade, trazendo beneficios para
+ambas. A possibilidade de criar objetos de interaçao no formato
+de jogos permite que profissionais da saude possam criar soluçoes
+para seus pacientes a depender de cada necessidade, assim como
+permite a coleta de dados de forma remota e direcionada para
+cada individuo. Uma vez que e colaborativo, ou seja, familiares
+tambem podem ser inseridos no jogo, esses atores tambem sao
+instruidos e participam do processo terapeutico.
+
+Os autores desta proposta acreditam que os jogos podem trazer
+mais leveza ao tratamento, entretendo e fornecendo 0
+conhecimento que cada profissional deseja passar ao seu
+paciente/cuidador. O feedback dos profissionais que apoiaram as
+etapas de design e avaliaçao encorajam este grupo a realizar o
+constante aperfeiçoamento da plataforma, de modo que novas
+mecanicas possam ser inseridas e outras funcionalidades
+permitam aos profissionais realizar a autoria de jogos cada vez
+mais personalizados e efetivos aos tratamentos.
+
+**CONSIDERAÇOES FINAIS**
+
+Em resumo, esta plataforma para a criaçao de jogos digitais terapeuticos representa um avanço significativo no apoio ao tratamento de crianças com cancer. Ao capacitar profissionais de saude a personalizar jogos com base nas necessidades de cada paciente, promove-se um tratamento mais individualizado e eficaz, alem de fortalecer o vinculo entre profissionais, pacientes e cuidadores. A expectativa e que essa ferramenta contribua para melhorar a qualidade de vida das crianças durante o tratamento e estimular a adesao as praticas terapeuticas.

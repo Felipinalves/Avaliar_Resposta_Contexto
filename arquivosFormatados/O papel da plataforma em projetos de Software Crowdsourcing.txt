@@ -1,0 +1,267 @@
+**RESUMO**
+
+Este estudo reporta o papel da plataforma em projetos de
+software crowdsourcing (SW CS) atraves da analise dos
+foruns de comunicaçao em uma das maiores plataformas de
+competiçao em SW CS. Sao discutidos os aspectos de
+colaboraçao entre plataforma e a multidao de
+desenvolvedores bem como os desafios de interaçao homem-
+computador.
+
+**APRESENTACAO**
+
+E possivel identificar na abordagem de Crowdsourcing (CS)
+um potencial para lidar com uma força de trabalho flexivel e
+dinamica: a multidao de participantes. Esta abordagem
+atenua desafios como a escassez de mao de obra
+especializada ou limitaçoes geograficas. Varias areas de
+conhecimento estao utilizando CS para obter escalabilidade,
+promover inovaçao, reduzir custos e tempo .
+
+A Engenharia de Software (ES) tem explorado o modelo de
+CS para tarefas de desenvolvimento de software buscando
+soluçoes complementares e nao convencionais para
+resoluçao de problemas e criaçao de produtos de software
+. Mais especificamente, software Crowdsourcing (SW
+CS) deriva de CS e refere-se ao ato de transferir
+externamente qualquer tarefa da engenharia de software para
+a multidao de participantes atraves de uma chamada aberta.
+As chamadas sao disponibilizadas em plataformas online de
+SW CS tais como: TopCoder, uTest, entre outras . Tais
+plataformas geralmente exploram uma abordagem
+competitiva para realizaçao da tarefa: membros da multidao,
+independentemente, criam uma soluçao para a tarefa
+enquanto competem uns contra os outros em busca de uma
+premiaçao financeira ao final da tarefa entregue.
+
+Uma vez que a competiçao pode reduzir a colaboraçao,
+estudos recentes  tem focado em aspectos relacionados
+aos problemas de colaboraçao entre as partes envolvidas em
+projetos de SW CS. Estes estudos investigam aspectos
+relacionados ao impacto da colaboraçao no numero e na
+qualidade das soluçoes submetidas. No entanto, ainda
+existem muitos aspectos inexplorados sobre colaboraçao em
+ambientes competitivos de SW CS incluindo a comunicaçao
+e coordenaçao .
+
+Nesse contexto, surge a necessidade de compreender qual o
+papel da plataforma de SW CS no suporte a colaboraçao
+entre a multidao de competidores. No contexto especifico da
+TopCoder, a maior plataforma competitiva de SW CS ,
+este suporte e representado na figura de copilotos. Os
+copilotos sao individuos (que podem fazer parte da propria
+multidao ou nao) que acompanham a multidao durante o
+periodo do desafio de SW CS. Eles mediam a comunicaçao
+e coordenaçao que ocorre entre o cliente e a multidao e entre
+a propria multidao de competidores atraves de canais
+assincronos de comunicaçao como o forum. Assim, o
+objetivo inicial deste estudo e entender a colaboraçao entre a
+plataforma e a multidao em projetos de SW CS atraves da
+seguinte pergunta de pesquisa: Qual o papel do copiloto da
+plataforma durante uma competiçao em projetos de SW CS?
+Ao responder esta pergunta, espera-se auxiliar na
+caracterizaçao da colaboraçao entre a plataforma e a
+multidao de desenvolvedores durante os desafios de
+competiçao em SW CS.
+
+Este trabalho descreve, de maneira sucinta, os resultados de
+um estudo inicial realizado a partir (da analise) dos foruns de
+comunicaçao de 25 desafios de competiçao da plataforma
+TopCoder. Os foruns representam o principal mecanismo de
+comunicaçao e coordenaçao entre a plataforma e a multidao
+durante as competiçoes. Importante salientar que, ate onde
+sabemos, a analise do conteudo dos foruns da TopCoder e
+utilizada pela primeira vez como estrategia de coleta de
+dados em estudos empiricos na area de SW CS. Assim, este
+artigo visa descrever os aspectos de colaboraçao de nosso
+estudo na expectativa de receber feedback, e motivar
+pesquisadores, na area de interacao homem-computador
+sobre este trabalho.
+
+**CONTEXTUALIZACAO**
+
+Conforme mencionado, SW CS esta geralmente estruturado
+em torno de plataformas que exploram uma abordagem
+competitiva . Enquanto a competiçao reduz a colaboraçao
+, alguns estudos indicam que surpreendentemente existe
+colaboraçao em plataformas atraves da comunicaçao
+frequente e direta entre os participantes , . Em outras
+palavras, o trabalho conduzido pela multidao nao e isolado e
+autonomo como frequentemente pode-se assumir. Recentes
+estudos sugerem que a colaboraçao entre as partes
+envolvidas pode melhorar a qualidade e quantidade de
+submissoes de tarefas em projetos de SW CS ,  focando
+na perspectiva da multidao. Embora, as plataformas de SW
+CS tenham um papel fundamental em prover ou nao a
+colaboraçao , , percebe-se que na literatura existem
+poucos estudos explorando o papel da plataforma e como ela
+auxilia a multidao nas tarefas durantes as competiçoes de SW
+CS.
+
+A plataforma TopCoder pode ser entendida como sendo
+composta de 2 partes. A primeira, do ponto de vista
+computacional, e o software no qual tarefas sao cadastradas,
+a multidao interessada no desafio se registra e se candidata a
+participar de uma tarefa (desafio), o conjunto de soluçoes
+submetidas para cada tarefa e recebido, e onde visualizaçao
+do ranking de vencedores e disponibilizada. Alem disso, para
+cada desafio e criado e associado um forum de comunicaçao
+onde apenas os competidores que se registraram naquele
+desafio podem acessar e participar do forum. Cada forum e
+organizado em topicos, denominados threads. O forum,
+presente em cada tarefa aberta na plataforma, representa o
+local onde a multidao de participantes pode ter acesso a
+descriçao completa da tarefa, documentos, artefatos, etc.
+Alem disso, nos foruns de comunicaçao, a plataforma prove
+a atuaçao dos chamados copilotos, os individuos (que podem
+fazer parte da propria multidao ou nao) que irao acompanhar
+a multidao durante o periodo que o desafio de SW CS
+ocorrer. E justamente na parte do software da plataforma
+TopCoder que acreditamos que abordagens de interaçao
+homem-computador podem ser valiosos.
+
+A outra parte da plataforma TopCoder e composta por
+pessoas, neste caso os copilotos que sao os individuos que
+atuam como representantes do cliente e da multidao durante
+a execuçao das tarefas de SW CS. O copiloto, representa
+dessa forma, a interface entre plataforma e multidao onde via
+forum os competidores podem enviar mensagens para o
+copiloto ou demais participantes. A contribuiçao deste artigo
+e justamente analisar o papel do copiloto atraves da sua
+atuaçao nos foruns de comunicaçao da plataforma TopCoder.
+
+**OBJETIVOS DO TRABALHO**
+
+Este trabalho tem como objetivos: (i) analisar,
+qualitativamente, o papel do copiloto na plataforma
+TopCoder, atraves do registro nos desafios de
+desenvolvimento, em tarefas do tipo Code; (ii) entender qual
+o impacto da plataforma (copilotos) na quantidade de
+submissoes e na qualidade de soluçoes desenvolvidas pela
+multidao.
+
+**RESULTADOS INICIAIS**
+
+Os resultados sugerem que o papel e a atuaçao do copiloto
+durante as competiçoes tornam-se cruciais para o sucesso dos
+desafios atraves da colaboraçao entre copilotos e multidao e
+entre a propria multidao atraves das mensagens trocadas
+durante os foruns dos desafios. Considerando a alta
+diversidade e distribuiçao geografica da multidao (timezone,
+cultura, lingua), anonimidade dos competidores, entre outras
+caracteristicas do contexto de SW CS, o copiloto tem o
+importante papel de comunicar e coordenar as tarefas de SW
+CS junto a plataforma, multidao e cliente.
+
+Por outro lado, a multidao no desenvolvimento de suas
+soluçoes durante os desafios, complementa e estende o papel
+do copiloto compartilhando duvidas atraves dos pedidos de
+ajuda sobre todos os temas relacionados a tarefa, trocando
+recomendaçoes de ferramentas atraves de dicas sobre
+bibliotecas.
+
+O trecho para ilustrar a atuaçao do copiloto complementando
+a resposta da multidao sobre requisitos da tarefa, principal
+tema identificado nos dados coletados via forum, e
+apresentado:
+
+Competidor 1 (Multidao): "[...] isso deve dar uma direcao
+aos concorrentes para o desenvolvimento e aos revisores
+para verificar como uma submissao se encaixa nos
+requisitos da competicao."
+
+Competidor 2 (Multidao):"[...] ja temos um arquivo xlsx
+que contem o numero de tabelas para cada arquivo PDF.
+Isso deve dar uma direcao aos concorrentes para o
+desenvolvimento e aos revisores para verificar como
+submissao se encaixa com os requisitos da competicao"
+
+Copiloto (Plataforma): "De acordo. A planilha de excel e
+apenas uma referencia rapida e teremos mais pdfs para
+testar. Vamos garantir que os revisoress e os pdfs tambem
+estejam.."
+
+A partir dos resultados e possivel caracterizar o papel do
+copiloto (plataforma) no acompanhamento das tarefas
+durantes as competiçoes de SW CS para:
+
+Servir como um guia inicial para facilitar o
+entendimento da tarefa que precisa ser executada;
+Compartilhar informaçoes uteis e esclarecimentos
+sobre a tarefa (artefatos, documentaçao, etc);
+Manter os participantes cientes dos prazos de
+submissao das soluçoes;
+Coordenar ajustes e correçoes identificados na
+especificaçao da tarefa.
+
+A atuaçao do copiloto pode ser percebida atraves da
+coordenaçao de prazos, soluçoes submetidas e
+esclarecimentos na documentaçao e artefatos de cada tarefa.
+A coordenaçao de prazos e envio de soluçoes pode ser
+evidenciada pelas threads de mensagens enviadas para a
+multidao sobre o tema Deadline. Através dessas mensagens,
+o copiloto consegue visibilidade sobre o numero de
+competidores que esta trabalhando na tarefa e as possiveis
+soluçoes a serem submetidas no prazo definido. Baseado
+nestas estimativas, o copiloto tem condiçoes de tomar
+decisoes (em conjunto com o cliente) sobre manter, ou nao,
+o prazo de termino do desafio em virtude do numero baixo
+de soluçoes que seriam submetidas.
+
+Outra categoria e tema de mensagem em comum entre
+copiloto e multidao refere-se ao Pedido de confirmaçao da
+multidao para o tema requisitos e a Resposta de confirmaçao
+para esse mesmo tema fornecida pelo copiloto (66) .
+Conforme o grafico
+ilustrado na Figura 1 o copiloto responde (45) os Pedidos de
+ajuda sobre requisitos da multidao. 
+
+Outra categoria e tema de mensagem em comum entre
+copiloto e multidao refere-se ao Pedido de confirmacao da
+multidao para o tema requisitos e a Resposta de confirmacao
+para esse mesmo tema fornecida pelo copiloto (66) Figura 1.
+
+A primeira parte deste trabalho, descrita anteriormente,
+focou na interaçao dos copilotos enquanto mediadores da
+comunicaçao e coordenaçao que ocorre entre o cliente e a
+multidao e entre a propria multidao de competidores durante
+os desafios de SW CS. A segunda parte, ainda a ser realizada,
+enfocara na plataforma propriamente dita, ou seja, este
+estudo visa explorar e contribuir para o design de
+plataformas de SW CS considerando aspectos como
+usabilidade, experiencia dos usuarios e interaçao entre os
+envolvidos nos desafios. A participaçao da multidao e um
+dos fatores de sucesso em projetos de SW CS, assim, garantir
+que a experiencia de uso no contexto das plataformas de SW
+CS ofereça atributos eficientes e efetivos de usabilidade do
+produto e interaçao entre os usuarios torna-se extremamente
+relevante. Mais especificamente espera-se conduzir estudos
+empiricos com as plataformas de SW CS visando minimizar
+os desafios de colaboraçao destas plataformas, desta forma,
+fornecendo subsidios para melhorar os requisitos de software
+das plataformas de SW CS.
+
+**CONIDERAÇOES FINAIS**
+
+A comunicaçao pode ser considerada como um dos aspectos
+centrais no processo de desenvolvimento de software. Dessa
+forma, a analise dos foruns de comunicaçao da plataforma
+TopCoder possibilitaram extrair perspectivas contextuais
+sobre a colaboraçao entre copilotos e multidao e entre a
+propria multidao de competidores.
+
+Os resultados do estudo sugerem que a colaboraçao entre os
+envolvidos facilitou o entendimento das tarefas e a
+submissao das soluçoes desenvolvidas pela multidao durante
+os projetos de SW CS.
+
+**AGRADECIMENTOS**
+
+Os autores gostariam de agradecer ao CNPq pelo apoio
+financeiro atraves do Edital Universal processo
+420801/2016-2, bem como a CAPES, pela bolsa de pos
+doutorado da primeira autora.
+
+**CONIDERACOES FINAIS**
+
+Em conclusao, este estudo destaca o papel fundamental da plataforma, em particular dos copilotos, no suporte a colaboraçao em projetos de software crowdsourcing. Os resultados sugerem que a interaçao e a comunicaçao entre os participantes, facilitadas pela plataforma, contribuem para o sucesso dos desafios e a qualidade das soluçoes desenvolvidas.

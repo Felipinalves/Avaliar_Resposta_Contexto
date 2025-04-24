@@ -1,0 +1,147 @@
+**RESUMO**
+
+A Cardiomiopatia Periparto e uma doença rara que tem sido
+disseminada ao longo do tempo em paises subdesenvolvidos
+resultando no aumento da mortalidade materna e na reduçao da
+taxa de nascidos vivos. Por ser pouco conhecida pelos medicos, o
+diagnostico torna-se tardio ou inexistente. Assim sendo, o objetivo
+deste projeto e a criaçao de uma tecnologia da informaçao para
+prevençao, diagnostico e assitencia aos medicos especialistas das
+clinicas de Saude da Familia. A identificaçao de oportunidades
+para resolver o problemas segue o processo de design proposto
+pela Interaçao Humano-Computador (IHC): analise da situaçao
+atual, sintese de uma intervençao e avaliaçao da soluçao proposta.
+Atraves destas etapas, e possivel definir o escopo do projeto para
+a criaçao de um aplicativo movel capaz de otimizar o
+reconhecimento da doença e tratamento pelos medicos das
+clinicas de Saude da Familia.
+
+
+**1. INTRODUCAO**
+
+A Cardiomiopatia Periparto (CMPP) e uma doença negligenciada
+em seu tratamento por ser rara e carecer de conhecimento. A
+CMPP tem acometido em aumento da taxa de mortalidade
+materna e reduçao da taxa de nascidos vivos em paises
+subdesenvolvidos . Por meio deste fato, fora desenvolvido um
+aplicativo para apoiar os medicos no diagnostico como forma de
+antecipar o tratamento e prevençao do desenvolvimento da
+doença.
+
+Estudos tem sido realizados para definir como aplicativos
+utilizados na area da saude devem ser desenvolvidos de forma a
+respeitar a etica, adaptar-se a rotina medica, verificar possiveis
+dificuldades encontradas nas redes de saude entre outros dilemas
+associados a inserçao da tecnologia no ambiente medico . O
+processo de design em IHC visa atraves de suas etapas assegurar
+que algumas destas duvidas sejam sanadas ao viabilizar que as
+soluçoes desenvolvidas atendam a necessidade proposta de forma
+simples e objetiva .
+
+O aplicativo CardioMPP foi desenvolvido para disseminar as
+informaçoes sobre Cardiomiopatia Periparto e torna-la mais
+conhecida e acessivel aos medicos. Para iniciar a elaboraçao de
+um projeto capaz de lidar com esta realidade e necessidade,
+conduzimos um processo de design em IHC, com as clinicas de
+Saude da Familia de Niteroi (RJ) como referencia de pesquisa e
+aquisiçao de informaçoes. Apos as primeiras etapas de design
+serem realizadas, o desenvolvimento de um aplicativo movel que
+atende aos objetivos e dificuldades analisadas foi possivel.
+
+
+**2. PROCESSO DE DESIGN DA INTERACAO**
+
+O Processo de Design de IHC e fundamental para o
+desenvolvimento de um projeto de software com foco no usuario.
+O processo consiste em 3 etapas : (a) analise da situaçao atual;
+(b) sintese de uma intervençao; (c) avaliaçao da soluçao proposta.
+Estas etapas funcionam como refinamento e melhoria das analises
+e requisiçoes feitas a priori pelo medico pesquisador responsavel.
+
+A etapa de analise da situaçao atual (a) compreendeu as
+seguintes tarefas: (i) entrevista com medico pesquisador para
+aquisiçao de requisitos e necessidades que o projeto precisa
+atender; (ii) uma inspeçao de aplicaçoes similares existentes para
+obter um panorama do que e utilizado pelos medicos e quais sao
+as facilidades aprendidas; (iii) criaçao de cenario de problema e
+cenarios de interaçao para viabilizar uma analise das dificuldades,
+as quais podem ser encontradas numa rotina medica e organizaçao
+do espaço de problema.
+
+Na etapa da analise da situaçao atual (ii), a inspeçao de
+aplicativos como WhiteBook e o Medscape mostrou que tais
+aplicaçoes disponibilizam um conteudo vasto relacionado a
+pesquisa medica. Em relaçao a doença alvo neste projeto, havia
+informaçoes limitadas e gerais que nao possibilitam o auxilio
+diagnostico e o conhecimento completo da mesma. A etapa (iii)
+possibilitou enxergar que a rotina de um medico da Saude da
+Familia e de atendimentos diarios de aproximadamente 30
+gestantes. Este dado nos levou a definiçao de uma meta de design:
+tornar o conteudo e uso do aplicativo util e eficaz .
+
+A partir da descrição do sistema e definiçao da arvore de
+decisao com o protocolo de diagnostico da doença, um
+prototipo nao-funcional foi criado com o aplicativo Marvel,
+como sintese de uma intervençao para validaçao das informaçoes
+adquiridas (Figura 1). A elaboraçao do prototipo possibilitou uma
+avaliaçao feita por meio de observaçao e entrevista com um
+medico especialista da clinica de Saude da Familia.  mostra que
+IHC preocupa-se em diferenciar os stakeholders para garantir que
+o projeto atende de modo completo a ambos. Por isso, nesta etapa
+verificamos dificuldades que poderiam ser encontradas pelos
+medicos ao utilizar um aplicativo, garantindo levantamento de
+melhorias e adaptaçoes a serem feitas na aplicaçao. Alem disso,
+pode-se perceber a necessidade de uma aplicaçao, a qual funcione
+em modo offline, pois nao sao todas as clinicas que possuem uma
+rede local favoravel. Outros detalhes foram analisados como
+forma de garantir uma melhor interaçao do medico com o
+aplicativo , como, a otimizaçao da arvore de decisao utilizada
+na qualidade de fluxo e a preferencia pelo uso de um aplicativo
+em modo de consulta ao inves de modo de cadastro.
+
+**3. PROJETO DO SOFTWARE**
+
+Como descrito em , a colaboraçao entre as areas de IHC e
+Engenharia de Software sao imprescindiveis para a elaboraçao de
+um sistema que seja adequado em sua construçao, onde a
+Engenharia de Software atua e uso, area de IHC. Sendo assim,
+apos a primeira iteraçao das etapas do processo de design ter sido
+efetuada, o desenvolvimento da aplicaçao iniciou-se. A
+Engenharia do Software do aplicativo CardioMPP consistiu na
+adaptaçao do Scrum com a definiçao das metas e
+responsabilidades dos alunos, que participam do projeto, em uma
+reunião chamada planning. Alem disso, tambem foi estipulado um
+tempo em que essas metas devem ser alcançadas (prazo da
+Sprint), que varia de acordo com as responsabilidades nas
+materias que estao sendo cursadas.
+
+O desenvolvimento do produto minimo viavel foi concluido.
+Com isso o aplicativo ja contempla as funcionalidades de login,
+cadastro, recuperaçao de senha por e-mail e realizaçao da consulta
+apoiada pela arvore de decisao . Atraves de entrevistas e
+treinamentos realizados com os medicos identificamos que a
+aplicaçao movel facilitara a rotina diaria e potencialmente
+aumentara o entendimento dos medicos sobre o fluxo necessario
+de seguir para um diagnostico antecipado da doença. A proxima
+etapa do projeto preve o teste de usabilidade e atualizaçao nas
+plataformas Apple Store e Google Play.
+
+
+**4. CONCLUSAO**
+
+A rotina de uma clinica medica e muito intensa e, com isso, a
+elaboraçao de tecnologias que auxiliem a busca por diagnosticos
+eficientes de forma imediata e cada vez mais comum. Neste
+projeto vimos os beneficios da utilizaçao de metodos de IHC
+desde a fase inicial de um projeto, pois alem do entendimento do
+problema em profundidade, evitou retrabalhado na fase de
+implementaçao propriamente dita. A metodologia aplicada
+explorou alternativas de soluçoes de forma antecipada. Trabalhos
+futuros incluem a disponibilizaçao da tecnologia nas clinicas de
+Saude e o monitoramento do impacto na identificaçao da doença e
+na reduçao da mortalidade materna.
+
+**CONSIDERACOES FINAIS**
+
+O desenvolvimento do aplicativo CardioMPP, utilizando os principios do design de IHC, demonstrou ser uma abordagem promissora para auxiliar no diagnostico e tratamento da Cardiomiopatia Periparto. A enfase na experiencia do usuario e a colaboraçao com profissionais de saude permitiram criar uma ferramenta com potencial para melhorar a assistencia medica e reduzir os impactos negativos dessa doença rara.
+```

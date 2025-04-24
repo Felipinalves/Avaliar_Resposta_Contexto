@@ -1,0 +1,152 @@
+**INTRODUCAO**
+
+Musica e linguagem, e o proposito da educaçao de Musica
+consiste em desenvolver o letramento dos estudantes no
+discurso musical . O estudante de Musica deve aprender
+a apreciar, a executar e a compor musicas, capacitando-o a
+compreender e se expressar musicalmente.
+
+No entanto, uma pratica que se mantem e o ensino da musica
+pelo adestramento do aluno na habilidade tecnica de se tocar
+um instrumento musical tradicional. Esta pratica recebe
+criticas que remontam pelo menos desde o inicio do seculo
+XIX . O aprendizado tecnico de um instrumento acaba
+sendo privilegiado em detrimento ao aprendizado de
+conceitos musicais que possibilitem ao estudante apreciar e
+se expressar por meio da musica. O estudante, desejando
+tocar ou compor, precisa inicialmente despender esforço e
+tempo consideraveis para saber produzir sons num
+instrumento especifico e, assim, alcançar um resultado
+inicial que o satisfaça musicalmente.
+
+A difusao da Computaçao Ubiqua e da Internet das Coisas
+criou oportunidades para se explorar o uso de objetos do
+cotidiano no apoio a aprendizagem de Musica. Estes objetos,
+transformados em objetos inteligentes dao origem a
+instrumentos musicais nao tradicionais que oferecem
+alternativas diversas para o professor de Musica. Produzir
+som de forma facilitada, ampliar e diversificar a gama de
+sons que sao apresentadas aos estudantes e compartilhar com
+amigos as musicas produzidas sao exemplos do suporte a
+aprendizagem que estes objetos podem oferecer. O uso de
+artefatos computacionais na aprendizagem tambem tem o
+potencial de aproximar a escola do contexto tecnologico que
+o aluno vivencia fora dela, especialmente pelo uso
+disseminado de celulares.
+
+Paralelamente, a volta ao ensino obrigatorio de musica no
+Brasil foi estabelecida por lei em 2008. Esta lei trouxe o
+aumento da demanda por profissionais da educaçao musical
+e tambem por estrategias e ferramentas didaticas que
+respaldassem esse processo.
+
+Neste contexto, foram desenvolvidos os Tapetes Musicais
+Inteligentes, um objeto inteligente, a fim de apoiar a
+aprendizagem de musica no Ensino Fundamental, tendo
+como base os conceitos de Computaçao Ubiqua e Internet
+das Coisas. Este trabalho foi realizado com base na
+abordagem Design Science Research, tendo assim 2
+objetivos: o desenvolvimento de um artefato (Tapetes
+Musicais Inteligentes) para solucionar um problema pratico
+(ensino de musica com foco na aprendizagem tecnica de
+instrumentos); e a geraçao de novo conhecimento
+(investigaçao de conjecturas teoricas sobre o comportamento
+humano quanto ao uso de objetos inteligentes na
+aprendizagem de musica) [3][7].
+
+PROPOSTA E APLICACAO
+
+Tapetes Musicais Inteligentes foram projetados para diminuir as barreiras tecnicas na producao sonora em comparacao com as demandas exigidas para se tocar um instrumento tradicional (Figura 1). Os estudantes, ao se tocarem, e estando descalcos ou de meia sobre os tapetes conectados a um computador, fecham o circuito eletrico com seus proprios corpos, o que dispara o som previamente definido pelo professor para cada par de tapetes: cuica, piano, acordes, chuva, latido, entre outros.
+
+Este projeto inspira-se no Metodo Orff [4], em que sao usados instrumentos faceis de tocar para que mesmo criancas nao iniciadas possam rapidamente participar do discurso musical, interagindo com o professor e seus colegas.
+
+O artefato foi projetado para exigir o uso dos movimentos corporais na producao sonora. Este requisito se fundamenta nas ideias de Jacques-Dalcroze [5], que evidencia o corpo como meio do sujeito participar do discurso musical, um intermediador entre os sons e o pensamento. Ao utilizarem os tapetes, os estudantes realizam diferentes gestos que os apoiam na producao sonora e criam coreografias para conseguir executar as atividades propostas. O artefato tambem foi projetado para promover a colaboracao entre os estudantes, tendo como base o sociointeracionismo, que evidencia a importancia das interacoes sociais e da mediacao cultural no desenvolvimento intelectual infantil [6].
+
+Foi realizado um estudo empirico em 2 escolas municipais do Rio de Janeiro, onde foram feitas oficinas com o uso dos Tapetes Musicais Inteligentes em turmas do 7o ano do Ensino Fundamental. As fontes de dados utilizadas foram: observacao direta com filmagem, entrevistas com os professores e questionario e conversas com os alunos ao longo do estudo. Esse estudo serviu para realizar as avaliacoes esperadas nesta pesquisa: se o artefato funciona e operacionaliza as conjecturas teoricas, se o artefato resolve o problema, e se as conjecturas teoricas parecem validas.
+
+O artefato foi considerado valido para a pesquisa, pois satisfez as conjecturas teoricas: a producao sonora e bastante simplificada; os alunos utilizam o corpo na producao sonora; a colaboracao e necessaria; e foi possivel projetar um conjunto de atividades educacionais com o uso dos tapetes visando promover o letramento no discurso musical.
+
+Para avaliar se o artefato resolve o problema, foi investigado se os tapetes musicais inteligentes tem potencial para serem aceitos por alunos, professores e escolas. Com base nos constructos da Teoria Unificada de Aceitacao e Uso de Tecnologia (UTAUT) [8][9], foi observado que: o artefato funciona adequadamente (Expectativa de Performance), e facil de usar (Expectativa de Esforco), e prazeroso de usar (Motivacao Hedonica), e os alunos tem vontade de ter outras aulas com o uso do artefato (Intencao de Uso), provendo indicios de que o artefato e aceito pelos alunos. Ressaltando que o artefato e ainda um prototipo, foi observado que os professores das escolas mostraram-se hesitantes em adota-lo por sua instalacao parecer complexa e demandar muito tempo (Condicoes Facilitadoras). Alem disto, apesar do custo do prototipo ser relativamente baixo em comparacao a instrumentos musicais tradicionais (Custo), nao e possivel estimar o custo do produto final considerando producao, distribuicao e venda em larga escala.
+
+Finalmente, corroborando as conjecturas teoricas enunciadas, foi possivel concluir que o letramento no discurso musical foi apoiado pela diminuicao das barreiras tecnicas na producao do som, pelo uso do corpo e pela colaboracao.
+
+
+**INTERSEÇOES DO TRABALHO COM IHC**
+
+O desenvolvimento e utilizaçao de um objeto inteligente
+como artefato didatico para a aprendizagem musical suscita
+diferentes questoes relacionadas a IHC, como a usabilidade
+do artefato em si e o uso do proprio corpo e do corpo do
+outro. A seguir sao feitas consideraçoes acerca da interaçao
+com os Tapetes Musicais Inteligentes durante as oficinas.
+
+O artefato
+Computadores, tablets e celulares sao comumente
+disponibilizados na forma generica de um paralelepipedo
+que e dissociada das multiplas funçoes que ele executa. No
+cenario da Computaçao Ubiqua e da Internet das Coisas,
+lidamos com objetos do cotidiano com uma funçao bem
+definida e cuja forma ja oferece pistas de como utiliza-los:
+gira-se um volante, segura-se numa alça, abre-se um
+cadeado, senta-se numa cadeira e sobe-se num tapete.
+
+O artefato desenvolvido neste trabalho envolve tapetes EVA
+(objeto); um computador, uma caixa de som e uma placa
+Makey Makey (hardware); e o soundplant (software). Para
+realizar as atividades musicais, o estudante interage apenas
+com o tapete, sem precisar saber da existencia do hardware e
+do software. A adequaçao ao tamanho dos pes dos
+estudantes, o conforto ao pisar, a facilidade de aprendizagem
+do funcionamento, a durabilidade do artefato e a segurança
+de quem o utiliza, entre outras questoes, impactaram na
+escolha de parametros como material, tamanho, cor,
+posicionamento relativo e configuraçao dos pisos; material,
+tamanho e forma de fixar a area condutiva sobre o piso; e
+posicionamento dos cabos no chao e sua conexao aos pisos.
+
+Ja o professor e responsavel pela configuraçao do software
+para associar pares de tapetes aos sons a serem utilizados e a
+montagem do hardware e do objeto. Esta montagem foi
+identificada, sem treinamento, como dificil e demorada.
+Outra questao que a ser considerada no desenvolvimento
+deste objeto e quanto a seu armazenamento e transporte que,
+se mal resolvidos, podem levar o professor a nao utiliza-lo.
+
+Observando que o desenvolvimento de um objeto inteligente
+nao se restring à software, mas envolve a concepçao e
+desenvolvimento de um objeto fisico, ressaltamos aqui a
+importancia da inclusao de designers de produto e de
+interaçao nos projetos de objetos inteligentes.
+
+Uso do proprio corpo
+
+No artefato desenvolvido, o corpo daquele que usa os Tapetes Musicais Inteligentes e parte do circuito eletronico, ja que e necessario que uma corrente eletrica passe pelo proprio corpo do estudante para que o sistema funcione. Esta caracteristica e possibilitada pela placa MakeyMakey, que e relativamente nova no mercado e, portanto, seu uso ainda pouco explorado e estudado. Uma primeira questao que surge na interacao com os Tapetes Musicais Inteligentes, e que deve ser tratada, e quanto ao receio (infundado) do estudante de levar um choque e, por este motivo, reagir negativamente ao uso dos tapetes.
+
+Outra questao envolvendo a interacao com o artefato e que ele e acionado por diferentes partes do corpo, nao se restringindo ao uso dos dedos da mao. A placa MakeyMakey possibilita a passagem de corrente eletrica se, entre 2 tapetes, forem colocados materiais minimamente condutivos, como a pele humana. Um estudante consegue disparar um som se encostar uma parte de seu corpo em 2 tapetes. Em geral, eles colocam um pe em cada tapete, mas, aos poucos, descobrem que usar pe, mao e cotovelo tambem faz disparar um som. Andar, pular e dancar entre tapetes, sair e voltar aos tapetes tambem sao movimentos observados quando da exploracao das possibilidades de interacao com o artefato.
+
+Cabelo e partes do corpo cobertas pela maioria dos tecidos nao funcionam. E necessario tirar os sapatos para realizar as atividades propostas com os tapetes. Os alunos precisam ficar descalcos ou de meia, fato este que tambem deve ser considerado na interacao com os tapetes: o estudante pode nao se sentir confortavel em mostrar seus pes e meias.
+
+Foi observada alteracao no comportamento dos estudantes que, em vez de imobilizados na carteira num corpo docil [10], usou seu corpo livremente para aprender. Alem disto, o depoimento de um estudante que resume a surpresa inicial e o encantamento dos estudantes quando entendem o processo de geracao de som: Eu, [posso] fazer musica com as maos!. Para eles, parece magica e coisa de outro planeta a producao de som por meio do corpo.
+
+Uso do corpo do outro
+
+Embora possa ser utilizado individualmente, os Tapetes Musicais Inteligentes foram concebidos para uso em grupo. Como consequencia, e necessario que os estudantes toquem no corpo um dos outros para produzir um som. Quando a atividade e feita com os colegas, eles descobrem que e possivel produzir som usando partes do corpo menos usuais numa interacao com artefatos digitais, como o nariz e a orelha do colega; ou seus labios, por meio de um beijo.
+
+Afetividade, respeito ao corpo e aos limites particulares de cada colega, bem como violencia, sao questoes que surgem. Tocar no corpo do outro para interagir com um artefato envolve a escolha de que partes do corpo devem ser tocadas e a forma como o toque se da: posso tocar nos bracos, pes, pernas, tronco e rosto do outro? Vou dar um tapa, beslicar, cutucar, apenas encostar ou fazer um carinho?
+
+Esta foi uma das questoes surgidas com o uso do artefato na numa das escolas. onde foi observada uma diminuicao dos alunos ao longo das oficinas. O professor da turma sugeriu que esta dificuldade advinha do ambiente violento em que eles viviam e o consequente desconforto e desconfianca com o contato fisico no outro [9].
+
+
+**CONCLUSAO**
+
+O desenvolvimento dos Tapetes Muaicais Inteligentes foi
+realizado tendo como base a abordagem do Design Science
+Research, buscando resolver um problema pratico no ensino
+de Musica nas escolas e responder a conjecturas teoricas
+sobre a adoçao de objetos inteligentes na aprendizagem. E
+importante que no desenvolvimento e aplicaçao dos Tapetes
+Musicais Inteligentes sejam consideradas questoes
+relevantes de IHC na medida em que a interaçao com este
+artefato e baseada num objeto do cotidiano ao qual e
+adicionada uma inteligencia, no uso do proprio corpo e no
+uso do corpo do outro.

@@ -1,0 +1,170 @@
+**RESUMO**
+
+Buscando aprimorar a experiencia do usuario na operaçao de
+sistemas, no ambito da Camara dos Deputados (CD), foi
+implementado pela Diretoria de Inovaçao e Tecnologia da
+Informaçao (Ditec) o chamado Padrao de Interaçoes Ditec (PIC).
+Trata-se de um padrao de interaçao humano-computador que se
+integra aos produtos de software, e cuja adoçao tem promovido o
+desenvolvimento de interfaces de usuario consistentes,
+responsivas e acessiveis, contornando a questao do nivel de
+conhecimento heterogeneo entre as equipes de desenvolvimento
+da Ditec. O PIC vem paulatinamente sendo adotado pelas
+equipes. Existem desafios a superar quanto a sua adoçao. Os
+usuarios de sistemas tem sido beneficiados com as novas
+interfaces. A adoçao do padrao mostrou-se um meio eficaz para
+alcançar o aprimoramento almejado na experiencia do usuario.
+
+**DESCRICAO DO PROBLEMA**
+
+As dezenas de equipes de desenvolvimento da Ditec, responsavel
+pelos sistemas da CD, trabalham de forma autonoma, adotando
+definiçoes proprias para as interfaces de usuario e apresentando
+niveis de conhecimentos distintos para o desenvolvimento delas.
+Isso forma um cenario onde se observa diversos sistemas
+desenvolvidos com interfaces nem sempre: responsivas
+(adaptaveis a diferentes tamanhos de tela) acessiveis (utilizaveis
+por qualquer pessoa, independentemente de sua condiçao fisica);
+e consistentes (cujos elementos comuns apresentam aparencia e
+comportamento semelhantes nas diversas interfaces).
+
+A falta das tres caracteristicas citadas implica em prejuizo da
+experiencia dos usuarios, as cerca de 15 mil pessoas que
+trabalham na CD e que utilizam varios sistemas da organizaçao.
+O usuario esta sujeito a encontrar barreiras de acessibilidade,
+restriçoes quanto ao uso em dispositivos com telas pequenas, e
+dificuldades na operaçao dos sistemas pela falta de consistencia.
+
+**SOLUCAO**
+
+A estrategia escolhida para evitar que novos sistemas fossem
+desenvolvidos com as lacunas apontadas (interfaces nao
+responsivas, nao acessiveis e inconsistentes), contornando a
+heterogeneidade de nivel de conhecimento entre as equipes, foi a
+criaçao de um padrao corporativo para as interfaces de usuario
+dos sistemas. Esse padrao deveria contemplar os aspectos
+construtivos, visuais (de aparencia) e os de interaçao humano-
+computador das interfaces. Deveria tambem oferecer aos
+desenvolvedores, alem de templates e recomendaçoes de uso,
+codigo reutilizavel para ser integrado aos produtos de software.
+Essa integraçao faria com que os desenvolvedores fossem menos
+exigidos (em termos de conhecimento) no processo de
+implementaçao das interfaces com as caracteristicas almejadas.
+
+Foi criado, entao, em 2017, o Padrao de Interaçoes Ditec (PIC),
+para utilizaçao no desenvolvimento de novos sistemas da CD. O
+PIC foi projetado considerando a recomendaçao HTML5 do
+World Wide Web Consortium (W3C), as diretrizes para
+acessibilidade WCAG 2.0  e os padroes WAI-ARIA  para
+desenvolvimento de aplicaçoes web ricas e acessiveis.
+
+Percebeu-se, a epoca, que frameworks como Bootstrap  e
+Foundation  forneciam suporte a criaçao de paginas
+responsivas, mas delegavam ao desenvolvedor as decisoes a
+respeito de como a interface deveria ser apresentada em funçao
+do tamanho da tela. Alem disso, esses frameworks possuiam
+lacunas de acessibilidade por implementar somente em parte os
+padroes WAI-ARIA e as diretrizes WCAG. Por fim, embora
+estabelecessem definiçoes de aspectos visuais, eles davam
+liberdade ao desenvolvedor para alterar cores, tamanhos e
+posicionamento dos elementos de interface. A equipe
+responsavel pela concepçao do padrao considerou que, embora
+esses frameworks pudessem representar um bom ponto de
+partida, a simples adoçao de um deles nao seria suficiente para
+chegar ao resultado esperado. O PIC traz para si a
+responsabilidade de definir como uma pagina e seus
+componentes vao se apresentar nos diversos tamanhos de tela, e
+oferece componentes que atendem os padroes e diretrizes de
+acessibilidade, sem que o desenvolvedor back-end precise
+conhecer esses detalhes. Alem disso, o PIC procura limitar as
+possiveis definiçoes de aparencia e comportamento de elementos
+comuns de interface, visando manter a consistencia desejada.
+
+O PIC define como cada pagina (codigo HTML) do sistema
+deve ser estruturada e fornece um conjunto de componentes de
+interface (widgets) configuraveis e reutilizaveis. Possui tambem a
+documentaçao destinada aos projetistas de interfaces e
+desenvolvedores, que orienta sobre a construçao das paginas e o
+uso dos widgets, especificando inclusive em que situaçoes cada
+um deles deve ser utilizado.
+
+Cada sistema utiliza os widgets de acordo com sua
+necessidade. Sao exemplos: campo com sugestao de
+preenchimento; tabela com filtro; janela modal; formulario com
+validaçao de campos etc. Quanto a suas caracteristicas acessiveis
+e responsivas, por exemplo, para uma tabela que possua
+ordenaçao: o mecanismo de ordenaçao se comunica com a arvore
+de acessibilidade do navegador web, e pode ser acessado por
+teclado; quando exibida em um dispositivo de tela pequena, tera
+uma aparencia mais adequada ao espaço disponivel. Os widgets
+possuem uma identidade visual comum entre eles, caracteristica
+necessaria para a obtençao da consistencia desejada.
+
+A arquitetura do PIC e suas relacoes com o desenvolvedor,
+aplicacao e usuario pode ser vista na Figura 1.
+
+Ao adotar o padrao no desenvolvimento de um sistema, o
+desenvolvedor pode focar seus esforços no conteudo e
+funcionalidades de negocio. As caracteristicas dos elementos
+de interface sao providas pelo PIC.
+
+**RESULTADOS**
+
+O PIC ja foi adotado por ao menos uma dezena de sistemas em
+desenvolvimento ou ja em uso. Naqueles que o adotaram
+plenamente, observa-se que as caracteristicas almejadas estao
+incorporadas ao sistema, em beneficio do usuario final.
+
+Efetivamente, os resultados ate o momento estao aquem do
+esperado quando da concepçao do produto. Percebe-se que o
+ritmo de adoçao do PIC foi mais lento que o previsto.
+
+**REFLEXAO**
+
+Observa-se que os desenvolvedores encontram dificuldades
+especialmente em integrar o PIC a sistemas cuja arquitetura
+inclui frameworks de mercado que manipulam intensamente o
+HTML em client-side. Nesse cenario, existe uma concorrencia
+pela manipulaçao de HTML entre o PIC e o framework utilizado.
+Isso pode ser uma causa do ritmo de adoçao abaixo do esperado.
+
+Ainda que o produto tenha sido concebido de forma a nao
+exigir, do desenvolvedor, conhecimentos especializados para dar
+as interfaces as caracteristicas buscadas, nota-se que um minimo
+de conhecimento de HTML ainda e exigido. O codigo da pagina
+nao contemplado por templates, por ser especifico da aplicaçao,
+deve ser HTML bem escrito.
+
+Ha tambem o desafio de atender a necessidades especificas de
+cada sistema. Houve casos em que foi preciso criar elementos de
+interface nao previstos no PIC. Constatou-se que dificilmente um
+padrao podera antever todas as necessidades dos sistemas.
+
+**CONCLUSAO**
+
+Criar um padrao corporativo de interaçao homem-computador
+tem se mostrado algo desafiador, mas tambem uma decisao
+acertada. Destaca-se um projeto de evoluçao de um sistema que
+incluia a adoçao do PIC, caso em que os usuarios, nos primeiros
+contatos com as novas interfaces, relataram como a mudança
+facilitaria o seu uso. Em outro, que esta sendo desenvolvido no
+momento da redaçao desse artigo e tem como forte requisito a
+possibilidade de ser utilizado em smartphones, observa-se que a
+adoçao do PIC tem se mostrado adequada para telas pequenas.
+
+O PIC permite produzir sistemas com interfaces consistentes,
+responsivas e acessiveis, sem que seja necessario conhecimento
+especializado. Ele deve ser mantido e evoluido, buscando
+favorecer sua adoçao e, em consequencia, beneficiar cada vez
+mais usuarios. E preciso tambem criar recomendaçoes para que
+ele possa ser estendido sem prejuizo de suas caracteristicas,
+quando houver uma necessidade especifica de algum sistema.
+
+Vislumbra-se que criar projetos-modelo com o PIC integrado
+a algumas arquiteturas comuns na instituiçao, bem como a
+realizaçao de oficinas, ajudaria no sentido de ampliar essa
+adoçao.
+
+**CONCLUSAO**
+
+A implementaçao do Padrao de Interaçoes Ditec (PIC) na Camara dos Deputados representa um avanço significativo na busca por sistemas mais consistentes, acessiveis e responsivos. Embora a adoçao do padrao ainda apresente desafios, os resultados iniciais sao promissores e indicam que o PIC pode ser um meio eficaz para aprimorar a experiencia do usuario e garantir que os sistemas sejam acessiveis a todos, independentemente de suas habilidades ou limitaçoes.

@@ -1,0 +1,50 @@
+**INTRODUCAO**
+
+A comunicaçao e um elemento indispensavel para o convivio social e para a formaçao da
+cidadania dos individuos . Leis como a nº 10.436/2002, que reconhece a
+Libras como meio legal de comunicaçao e expressao, e a nº 13.146/2015, que estabelece
+o Plano Nacional de Inclusao de Surdos, promovem a igualdade de oportunidades e a
+inclusao social da pessoa com perda total de audição. No entanto, para as pessoas sur-
+das dependentes de Libras, a comunicaçao se torna um desafio consideravel em diferen-
+tes contextos, como em ambientes educacionais , coorporativos
+e sociais .
+
+Segundo o Instituto Brasileiro de Geografia e Estatistica (IBGE), a quantidade de
+pessoas surdas no Brasil ultrapassa as 10 milhoes de pessoas . Estudos
+como e analisaram o
+atendimento de pessoas surdas por profissionais de saude e relataram uma diversidade
+de experiencias negativas, devido a falta de comunicaçao adequada, falta de interpretes
+de Libras e recursos de acessibilidade. Alem disso, foram identificadas dificuldades de
+comunicaçao em uma variedade de situaçoes de atendimento, conforme demonstrado por
+. Essas barreiras podem incluir obstaculos linguisticos e falta de cla-
+reza nas informaçoes transmitidas.
+
+Esses resultados indicam que a falta de acessibilidade comunicacional e um dos
+principais obstaculos enfrentados por esta comunidade . Nessa pers-
+pectiva, na busca pela inclusao da comunidade surda, e essencial a adoçao de praticas e
+recursos que promovam a acessibilidade na comunicaçao entre usuarios da linguagem de
+sinais e do Portugues. Estudos realizados por demonstraram-
+ram que as Tecnologias Assistivas (TA) tem desempenhado um papel significativo nesse
+processo, devido o crescimento do uso da tecnologia e, assim, maior acesso das pessoas
+a essse meio. No contexto brasileiro, ferramentas como o Hand Talk e o VLibras ofe-
+recem sistemas de traduçao da linguagem escrita do Portugues para Libras, o que tem contribuıdo para a melhoria da comunicacao e a promocao da inclusao social.
+
+O HandTalk e o VLibras convertem texto para Libras, mas tem limitacoes, sendo unilaterais na comunicacao. O artigo apresenta a aplicacao web Khalibras, buscando promover a comunicacao bilateral entre surdos e nao surdos em diversos contextos do dia a dia. A ferramenta busca promover a inclusao e a acessibilidade ao utilizar recursos tecnologicos, tais como: (I) traducao em tempo real do alfabeto Libras para o portugues por meio da webcam, (II) traducao de texto escrito em portugues para Libras e (III) a integracao desses recursos em uma interface web de chat interativa e acessivel aos usuarios, buscando contribuir para amenizacao das barreiras de comunicacao, facilitando a troca de informacoes e ideias entre pessoas surdas e nao surdas.
+
+Procedimentos Metodologicos
+Para o metodo adotado neste artigo, primeiramente foi treinado um modelo de IA para o reconhecimento de gestos em tempo real do alfabeto em Libras. Em seguida, foi elaborada uma aplicacao web para encapsular a IA e viabiliza-la em um chat interativo entre os usuarios. A secao 3.1 descreve detalhadamente esses pontos.
+Para a tarefa de reconhecimento dos sinais do alfabeto em Libras, foi treinado um modelo de rede neural artificial utilizando o framework MediaPipe, desenvolvido pela Google. O MediaPipe e um framework de codigo aberto que fornece um conjunto abrangente de ferramentas e arquiteturas para a inferencia de visao computacional, dentre eles a deteccao das maos, que foi o ponto crucial para ser escolhido. O modelo foi desenvolvido utilizando o modelo HandGestureClassifier disponibilizado no framework MediaPipe, esse modelo baseia-se na tecnica de Gesture Recognition, detectando os pontos de referencia das maos em uma imagem, a fim de reconhecer a linguagem de sinais.
+Para o processo de treinamento, foi elaborado um conjunto de dados hibrido, unindo elementos do alfabeto na Lingua de Sinais Americana (ASL) e de Libras. Esta abordagem foi adotada devido a ausencia de algumas letras no conjunto de dados do alfabeto em Libras, cujos gestos correspondentes, eram identicos aos da ASL.
+
+Khalibras
+3.1. Arquitetura Proposta
+A arquitetura da ferramenta Khalibras esta representada na Figura 1. Inicialmente, a aplicacao Web foi desenvolvida utilizando o framework de front-end Vue, com o objetivo de encapsular o modelo e proporcionar uma interface de interacao amigavel entre usuarios surdos e nao surdos. A operacionalizacao do chat foi realizada atraves da biblioteca Socket.IO, utilizando o protocolo de comunicacao WebSockets. Este protocolo permite que o computador do cliente estabeleca e mantenha uma conexao aberta com o servidor ate que seja encerrada pelo cliente.
+A interface da aplicacao web (Figura 2) foi projetada em duas paginas principais: a pagina de identificacao e a pagina de chat para comunicacao. Pela pagina de identificacao, o usuario pode inserir seu nome. Apos a identificacao, o usuario inicia uma sessao, que e armazenada por 24 horas no banco de dados, garantindo a persistencia da sessao e conversa dos usuarios. Com a sessao iniciada, o usuario e redirecionado para a pagina de chat, onde pode iniciar um chat de mensagens diretas. O chat e composto por dois componentes principais: uma caixa de texto para insercao de mensagens e uma secao com webcam para captura de imagens em tempo real para a inferencia do modelo de reconhecimento.
+
+3.2. Demonstracao da aplicacao
+Para validar a ferramenta, foram realizados testes ponta a ponta e de aceitacao. A Figura 2 exibe os usuarios previamente identificados no lado esquerdo da tela, o que facilita a organizacao e o gerenciamento do sistema, especialmente quando ha multiplos atendentes ou pessoas surdas envolvidas. Para enviar mensagens de texto no chat, o usuario devera utilizar o botao "Enviar mensagem". Ainda, para traduzir o texto do portugues para Libras, a interface conta com um botao que aciona o widget do VLibras, que exibe a representacao em 3D de uma pessoa realizando a traducao em Libras correspondente ao texto digitado no chat. Isso permite que o atendente escreva uma mensagem de texto, e a pessoa surda receba a mesma mensagem traduzida para Libras.
+Adicionalmente, para realizar a traducao de Libras para o portugues, a interface oferece o botao "HABILITAR Khalibras". Ativando essa opcao, a camera do dispositivo e utilizada capturando os gestos realizados em Libras. As letras reconhecidas sao automaticamente escritas no chat, como ilustrado na Figura 2, dando ao atendente a compreensao da mensagem transmitida por meio dos sinais, sem a necessidade de dominar a linguagem de Libras.
+
+Consideracoes Finais
+As TAs digitais sao essenciais para melhorar acessibilidade e interacao. O artigo apresentou a aplicacao web Khalibras, visando aprimorar a comunicacao e inclusao de surdos. Com interface e a IA, a plataforma permite reconhecimento e traducao entre Libras e Portugues, facilitando a comunicacao bilateral da comunidade surda, que e um dos diferenciais da ferramenta. O projeto encontra-se em fase inicial, em que as traducoes sao feitas levando em conta que as palavras foram apresentadas via datilologia. Ainda, a ferramenta apresenta um grande potencial de escalabilidade, pois apresenta uma interface intuitiva, recursos de reconhecimento e traducao de Libras, capacidade de prover a interacao bilateral.
+Como perspectivas futuras, a ferramenta, sera disponibilizada na versao mobile e pretende-se tambem incorporar o reconhecimento de palavras e gestos completos de Libras, tambem sera inserido o padrao Web Content Accessibility Guidelines (WCAG), considerando que esse modo de comunicacao prevalece devido a riqueza e completude da lingua. Outro aspecto que devera ser desenvolvido futuramente sera o treinamento de um modelo capacitado para reconhecer expressoes faciais e corporais, tal que os usuarios de Libras utilizam dessas expressoes para se comunicar. Essa expansao possibilitara uma comunicacao ainda mais fluida e natural, aproveitando a expressividade e a eficacia dos gestos na transmissao das palavras. E esperado que este trabalho contribua futuramente para a area de Interacao Humano-Computador (IHC) atraves da melhora da comunicacao de usuarios de Libras.

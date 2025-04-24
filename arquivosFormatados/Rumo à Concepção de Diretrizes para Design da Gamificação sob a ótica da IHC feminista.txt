@@ -1,0 +1,130 @@
+**RESUMO**
+
+A gamificaçao e uso de elementos de jogos em contextos nao ludicos
+visando engajar um publico especifico e motivar comportamentos. Ao conside-
+rar a diversidade do desenvolvimento de soluçoes tecnologicas, percebe-se que
+a grande maioria das pessoas que se desenvolvem na area de gamificaçao sao
+homens, o que torna a gamificaçao um objeto de estudo interessante. Assim,
+este trabalho visa estabelecer um conjunto de diretrizes para auxiliar o design
+da gamificaçao sob a perspectiva da IHC feminista. Como resultado, espera-se
+que as soluçoes tenham maior diversidade criativa e que as pessoas se sintam
+mais incluidas no processo.
+
+**INTRODUÇAO**
+
+Em um periodo pos-pandemia, percebe-se ainda mais a importancia e a quantidade de
+relaçoes estabelecidas por meio da tecnologia, desde a utilizaçao de ferramentas tec-
+nologicas para conversar com os amigos e familiares, solicitar serviços como transporte
+e alimentaçao, ou ate mesmo para trabalhar e se comunicar remotamente com equipes
+de trabalho [Mitchell 2021]. Para que as ferramentas tecnologicas desenvolvidas sejam
+baseadas na comunicaçao entre pessoas, a area de Interaçao Humano-Computador (IHC)
+foca no design, implementaçao avaliaçao de sistemas interativos [Hewett et al. 1992].
+
+Aliado ao conceito de IHC, pode-se integrar teorias feministas que proporcionam
+um tratamento mais pessoal, principalmente no que tange as questoes de genero, denomi-
+nada como IHC Feminista [Bardzell 2010]. A IHC feminista começou a ganhar espaço
+a partir da segunda onda do feminismo, reconhecida pelas lutas das mulheres em busca
+de um espaço, em especial na politica, com movimentos sociais que trouxeram a tona
+debates em torno do papel da mulher na sociedade.
+
+Atualmente, na terceira onda do feminismo, o papel da mulher na ciencia e na
+tecnologia e visto como primordial, e mais teorias com embasamento no que elas pensam
+vem ganhando espaço [Moro et al. 2016].
+
+E importante citar que foram as lutas feministas, que ao longo de mais de dois
+seculos, propiciaram gradativa visibilidade as questoes de genero nas diferentes areas
+como politicas, economicas e sociais [Scavone 2008]. Com relaçao a participaçao das
+mulheres na computaçao, apesar de haver diversas contribuiçoes ja realizadas por mulhe-
+res na area, segundo o levantamento feito pelo World Economic Forum em 2016, ainda
+serao necessarios 118 anos para que a igualdade de genero seja uma realidade em nossa
+sociedade [Araujo and Frigo 2021]. De maneira geral, a IHC Feminista busca entender
+como as relaçoes de genero moldam o uso, a interaçao e o design de tecnologias e como
+podemos resolver questoes computacionais, sem perpetuarmos a marginalizaçao das mu-
+lheres ou de quaisquer outros grupos [Bardzell 2010].
+
+O conceito de genero traz o significado de “ser homem” e “ser mulher" e
+classifica os individuos com base na existencia de traços socialmente definidos como
+feminilidade e masculinidade, baseando-se na forma como as pessoas se expressam
+[Melo and Sobreira 2018]. E importante destacar que trata-se de um conceito dinamico e
+que esta sujeito a diversos usos e multiplas interpretaçoes, pois sao resultados dos dife-
+rentes contextos sociais e periodos historicos [Maciel and Viterbo 2020].
+
+Considerando a diversidade como um fator de extrema importancia nos projetos e
+desenvolvimentos de ferramentas tecnologicas, percebe-se que atualmente as pessoas de-
+senvolvedoras e pessoas autoras de maior referencia na area de gamificaçao sao na maioria
+das vezes homens, o que faz com que a gamificaçao seja um objeto de estudo interessante.
+A gamificaçao e uso de elementos de jogos em outros contextos [Caponetto et al. 2014],
+visando melhorar a experiencia das pessoas jogadoras. A gamificaçao vem sendo utilizada
+por diversas areas, como saude, educaçao, marketing e ate no meio empresarial. Ela e con-
+siderada uma opçao atrativa, pois a utilizaçao de elementos de jogos (e.g., pontuaçoes,
+rankings e recompensas) faz com que a pessoa jogadora sinta-se mais interessada no pro-
+cesso, seja em um treinamento corporativo, uma sala de aula, ou programa de fidelidade
+de um empresa.
+
+Atualmente, com todas as tecnologias existentes, a busca por engajar e motivar pessoas
+torna-se a cada dia algo mais valioso, e conhece-las e o fator chave para entender como
+motiva-las. Com base nisso, realizou-se algumas pesquisas na area de gamificaçao e
+nao foi possivel entender como o genero vem sendo considerado na criaçao de soluçoes
+gamificadas. Os trabalhos encontrados na literatura, apesar de apresentarem indicios de
+que questoes relacionadas a genero sao relevantes no estudo da gamificaçao, somente
+coletaram e utilizaram em seus resultados informaçoes sobre as pessoas jogadoras.
+
+O trabalho de [Oyibo et al. 2017] buscou analisar como as questoes culturais alia-
+das as questoes de genero poderiam ser interessantes para entender a influencia social em
+tecnologia persuasiva. Os autores coletaram informaçoes sobre cultura, genero e idade e
+utilizaram uma analise exploratoria. Com base nas conclusoes dos autores, as duas faixas
+etarias adotadas (entre 18 e 24 anos e maiores de 24 anos) e os dois generos considera-
+dos (masculino e feminino) se diferem mais nas culturas coletivistas do que nas culturas individualistas, e de forma resumida concluem que os homens sao mais motivados por
+competicao e recompensa do que as mulheres. As pessoas mais jovens sao mais persuasivas por competicao, comparacao social e aprendizagem social, independente da cultura.
+Ja a pesquisa de [Toda et al. 2019] analisou quais recomendacoes de elementos de jogos
+poderiam ser utilizadas baseando-se no genero de estudantes, coletando dados como faixa
+etaria, genero e como certos elementos de jogos eram relevantes no contexto de sistemas
+educacionais, e o processo de pesquisa deu-se atraves de entrevistas com 733 pessoas. A
+conclusao foi que ha preferencias relativamente semelhantes entre os generos.
+A proposta de [Denden et al. 2017] foi investigar como idade, genero e diferencas
+na frequencia de jogos influenciam na percepcao de estudantes sobre os elementos de
+jogos aplicados ao ambiente Moodle. O trabalho realizou um experimento em um curso
+de uma universidade da Tunisia com um total de 80 estudantes e utilizaram questionarios
+para entender suas percepcoes. Os autores concluem que o fator genero e frequencia na
+utilizacao de jogos nao afetam estudantes na percepcao da gamificacao, mas afetam na
+percepcao de como utilizar os elementos de jogos. Sendo assim, ainda nao foi possivel
+entender de maneira mais especifica como a gamificacao e genero podem trazer resultados
+relevantes para projetos de solucoes gamificadas, pesquisadores, desenvolvedores e afins.
+
+
+Este trabalho visa estabelecer um conjunto de diretrizes para auxiliar no design da
+gamificaçao sob a otica da IHC feminista. Para tal, o trabalho busca Identificar a
+inter-relaçao entre as areas (i.e., genero, IHC feminista e gamificaçao); Entender a
+percepçao de profissionais da area de jogos, especialistas em gamificaçao, especialistas
+em IHC, profissionais das areas sociais e populaçao em geral sobre o tema; Desen-
+volver prototipos de soluçoes gamificadas que considerem as diferentes preferencias da
+pessoa jogadora de acordo com seus generos; e por fim Realizar prova de conceito
+das analises realizadas e prototipos desenvolvidos. Esta pesquisa deseja explorar um en-
+tendimento tecnologico-social-cientifico sob as lentes feministas, fazendo com que os
+resultados da mesma possam ser utilizados tanto por profissionais da area de tecnologia
+atraves da gamificaçao, como na area social por meio de estudos que envolvem genero e
+feminismo, e cientifico atraves do metodo de pesquisa utilizado.
+
+Inicialmente, pretende-se realizar uma revisao sistematica da literatura para enten-
+der a relaçao entre as tres grandes areas que o escopo desta pesquisa, envolvendo genero,
+IHC feminista e gamificaçao. Com base nos resultados desta revisao, sera possivel iden-
+tificar e explorar lacunas com base em entrevistas com profissionais da area de jogos,
+especialistas em gamificaçao, especialistas em IHC e profissionais das areas sociais, alem
+de questionarios com a populaçao em geral, visando entender diferentes percepçoes sobre
+o tema. Apos a revisao sistematica, as entrevistas com especialistas e os questionarios
+com a populaçao, pretende-se realizar a triangulaçao dos dados para consolidar os re-
+sultados obtidos ate o momento e criar prototipos de possiveis soluçoes gamificadas que
+considerem as preferencias das pessoas jogadoras, levando em consideraçao seu genero.
+Por fim, o trabalho ira realizar prova de conceito das analises e conclusoes obtidas, bem
+como dos prototipos desenvolvidos, com o objetivo de entender a influencia da proposta
+na experiencia das pessoas jogadoras.
+
+Sobre as limitaçoes, entende-se que uma das principais limitaçoes a serem consideradas tratam-se de restricoes geograficas, pois a realizacao das entrevistas sera limitada 
+a pessoas no ambito nacional. Outra possıvel limitacao trata-se da dificuldade de replicar
+a proposta da pesquisa e conseguir alcancar um numero pequeno de pessoas. Como uma 
+forma de minimizar estes riscos pretende-se realizar parcerias com programas extensionistas e utilizar as redes sociais para divulgacao da pesquisa, na tentativa de romper as 
+fronteiras geograficas.
+
+**CONSIDERACOES FINAIS**
+
+Esta proposta de pesquisa busca contribuir para o design da gamificaçao sob a otica da IHC feminista. Ao considerar as questoes de genero e promover a inclusao de diferentes perspectivas, espera-se que os resultados deste trabalho possam auxiliar no desenvolvimento de soluçoes mais criativas, equitativas e relevantes para as pessoas jogadoras.

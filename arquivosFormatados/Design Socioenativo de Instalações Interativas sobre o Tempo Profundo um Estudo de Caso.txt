@@ -1,0 +1,132 @@
+**INTRODUCAO**
+
+Quando desenvolvimentos tecnologicos mudam a forma como en-
+tendemos, projetamos e interagimos com computadores, e novas
+praticas e metodos emergem desses desenvolvimentos, a propria
+area de Interaçao Humano-Computador (IHC) tende a evoluir junto.
+Enfatizamos "evoluir junto" pois a IHC pode desempenhar um papel
+ativo na visao e produçao de novas tecnologias e contextos sociotec-
+nicos. Esse papel ativo pode ser ilustrado com o design especulativo,
+que desafia pressupostos, preconceitos e noçoes estabelecidas sobre
+o papel que os produtos desempenham em nossa vida cotidiana.
+Dunne e Raby  descrevem o design especulativo como "mais
+uma atitude do que qualquer outra coisa, uma posiçao em vez de
+uma metodologia” (traduçoes livres).
+
+Em analogia com o trabalho de Kuhn  sobre paradigmas de
+pesquisa, o progresso no design de interaçao nao e necessariamente
+o resultado do acumulo de novas tecnologias e recursos. As mudan-
+ças atuais no design de interaçao (i.e., a reformulaçao sucessiva e
+sobreposta de ideias sobre como devemos projetar e avaliar sistemas
+interativos para novos contextos e com tecnologias mais recentes,
+e o novo papel pervasivo da tecnologia em nossas vidas), pode ser
+entendida como uma mudança de paradigma em IHC.
+Neste resumo expandido, investigamos aspectos dessa mudança
+de paradigma por meio do estudo de caso do projeto InsTime, no
+qual 45 alunos de graduaçao em Ciencia da Computaçao e Enge-
+nharia da Computaçao projetaram 9 instalaçoes interativas sobre o
+tema do tempo profundo. Nosso objetivo e investigar a atitude em
+relaçao ao design de sistemas interativos que pode surgir quando os
+designers se encontram com um tema aberto, tecnologias pervasi-
+vas e um processo de co-design. Alinhados com visoes alternativas
+sobre cogniçao que favorecem um engajamento fisico com o mundo,
+baseamos nossa analise em aspectos da filosofia da ciencia, design
+especulativo e conceitos de embodied cognition para caracteri-
+zar uma abordagem que denominamos design socioenativo.
+
+**O PROJETO INSTIME**
+
+O projeto InsTime foi conduzido no primeiro semestre de 2018 com
+N = 45 estudantes de graduaçao em Ciencia da Computaçao e
+Engenharia da Computaçao da Universidade Estadual de Campinas
+(Unicamp) cursando uma disciplina de IHC. Os alunos se organi-
+zaram em 9 equipes de aproximadamente 5 integrantes cada, com
+nomes inspirados no tema "tempo", incumbidos com a tarefa de
+criar uma instalaçao interativa que explorasse o conceito de tempo
+profundo. Apoiados por um processo de co-design, os alunos usu-
+fruiram de total liberdade criativa para decidir como abordar o tema
+e escolher seu publico-alvo.
+
+Estruturado de forma semelhante aos projetos InterArt  e
+InstInt , o InsTime contou com as seguintes atividades: (1) questi-
+onario introdutorio; (2) pesquisa sobre tempo profundo; (3) tutorial
+pratico do Pincello  (kit de eletronica); (4) geraçao de ideias; (5)
+prototipagem em papel; (6) apresentaçao de propostas iniciais; (7)
+prototipagem fisica e digital; (8) avaliaçao formativa por pares; e (9)
+apresentaçao final. Ao termino do projeto, as 9 equipes entregaram
+instalaçoes interativas que exploravam as tecnologias disponiveis
+de formas variadas e criativas, construidas com materiais acessiveis
+ou ate mesmo sucata prontamente disponivel, como latas e papelao.
+
+A Figura 1 ilustra tres instalacoes (CronoBit, General Purpose Timer
+e Looper)3
+. Os detalhes das atividades do processo de co-design,
+bem como figuras, conceito final e funcionamento das 9 instalacoes
+interativas sao apresentados em detalhes no artigo completo.
+
+**DESIGN SOCIOENATIVO**
+
+Analisamos o design das instalaçoes interativas considerando uma
+fundamentaçao que inclui aspectos paradigmaticos da filosofia da
+ciencia, a caracterizaçao de design afirmativo vs. especulativo e a
+teoria da embodied cognition. Para isso, enquadramos a lista "A/B”
+(discutivelmente design afirmativo/especulativo) de Dunne e Raby
+ com ancoras da filosofia da ciencia, produzindo uma categoria
+geral seguida de quatro mais especificas: (1) paradigma, (2) meto-
+dologia, (3) ontologia, (4) axiologia & retorica e (5) epistemologia.
+Essas categorias foram utilizadas para organizar os 22 pares de
+palavras-chave da lista "A/B".
+
+Por meio desta estrutura, que evidencia postura paradigmatica
+e atitude em relaçao ao design, notamos que o tipo de design ob-
+servado no InsTime nao pode ser descrito de forma apropriada em
+termos de design afirmativo ou especulativo. Por exemplo, o de-
+sign afirmativo apresenta uma enfase epistemologica no processo,
+enquanto o design especulativo enfatiza a autoria, e ambos sao
+inconciliaveis com o foco em coautoria observado no InsTime. Com
+a abertura deixada por Dunne e Raby para a proposiçao de outras
+atitudes em relaçao ao design como colunas subsequentes em sua
+lista "A/B", essa nao conformidade observada nos resultados do
+InsTime nos levou a sugestao de uma terceira coluna.
+
+Nesta terceira coluna, referente ao design observado no InsTime,
+observamos uma forte presença de aspectos relacionados a consci-
+encia social de Baranauskas na categorias de paradigma (e.g.,
+uma abordagem socioconstrutivista), metodologia (e.g., foco na clari-
+ficaçao de problemas e participaçao), e epistemologia (e.g., enfase na
+coautoria). Alem disso, a embodied cognition de Varela, Thompson
+e Rosch  esta fortemente presente na categoria definidora de
+ontologia (e.g., a postura de nao lidar com uma realidade completa-
+mente objetiva ou subjetiva, mas sim com uma realidade que emerge
+como resultado do acoplamento pessoa-mundo). Desta forma, as-
+sim como os aspectos sociais e enativos parecem inseparaveis na
+categoria axiologia & retorica (e.g., enfase em experiencia, explora-
+çao, afeto, envolvimento etc.), nomeamos a atitude em relaçao ao
+design que emergiu no projeto InsTime como design socioenativo.
+Uma analise completa de cada uma dessas categorias em relaçao ao
+InsTime, e a resultante lista "A/B/Design Socioenativo", podem ser
+consultadas no artigo completo .
+
+**CONCLUSAO**
+
+Designers de interaçao precisam nao apenas lidar com constantes
+mudanças sociais e tecnologicas, mas tambem encontrar maneiras
+de participar da compreensao, concepçao e desenvolvimento de
+novas tecnologias e praticas. Como exemplo pratico do tipo de
+design que esta surgindo atualmente a partir da disponibilidade de
+novas praticas e dispositivos, investigamos o processo de design
+e as 9 instalaçoes interativas resultantes do projeto InsTime. Em
+uma justaposiçao de teoria e pratica, notamos a emergencia de
+uma atitude diferente em relaçao ao design, com igual enfase nos
+aspectos sociais e enativos, que denominamos design socioenativo.
+
+Em resumo, o design socioenativo e caracterizado pela constru-
+çao social do conhecimento por meio da integraçao de experiencias
+individuais. Ao lado de uma visao de mundo enativa, a participaçao
+e a coautoria sao aspectos importantes em todo o processo de de-
+sign, ocasionando, entre outros valores, uma enfase na consciencia
+social, liberdade criativa, design situacional e afeto.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo de caso do projeto InsTime destaca a importancia de se considerar a dimensao social e a experiencia individual na concepçao de instalaçoes interativas. A atitude de design socioenativo, que emerge da integraçao entre aspectos sociais e enativos, oferece uma perspectiva valiosa para a criaçao de tecnologias mais significativas e engajadoras, capazes de promover a consciencia social, a liberdade criativa e o design situacional.

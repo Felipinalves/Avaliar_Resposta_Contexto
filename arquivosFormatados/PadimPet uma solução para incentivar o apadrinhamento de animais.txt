@@ -1,0 +1,375 @@
+**RESUMO**
+
+O abandono de animais e um problema presente em varios paises e
+de dificil soluçao. Dentre alternativas possiveis para contornar este
+problema, o apadrinhamento surge como opçao para quem nao
+pode criar animal em casa. Este projeto parte de uma pesquisa
+realizada atraves de um formulario online com 91 pessoas,
+realizando uma analise das respostas para identificar pontos que
+incentivem o apadrinhamento. Com base nas informaçoes obtidas,
+foi proposta uma soluçao que combina aplicativo e sistema
+embarcado para promover a interaçao entre abrigo e padrinho, alem
+do acompanhamento dos animais apadrinhados.
+
+**INTRODUCAO**
+
+De acordo com a Organizaçao Mundial de Saude (OMS), no Brasil
+temos pelo menos 30 milhoes de animais abandonados, divididos
+em 20 milhoes de cachorros e 10 milhoes de gatos . Esse
+problema e uma questao de saude publica e esta presente em
+diversas regioes do nosso pais.
+
+A Lei n° 9.605/98 (Lei de Crimes Ambientais) considera o
+abandono de animais como uma forma de agressao. Em seu artigo
+32, ela preve detençao de 3 meses a 1 ano e multa para quem pratica
+atos de abuso ou maus-tratos, fere ou mutila animais .
+
+Iniciativas com o intuito de promover a conscientizaçao sobre
+maus-tratos e o incentivo a adoçao de animais estao em expansao.
+Em Curitiba, um projeto de lei (PL) preve o incentivo a adoçao de
+animais de rua. A PL numero 102 de 2018 propoe que
+estabelecimentos que trabalhem com animais, como pet shops e
+ONGs, exponham em suas sedes cartazes de conscientizaçao, alem
+do incentivo para que as lojas de pets realizem campanhas de
+adoçao. A ideia destas campanhas e transmitir a informaçao para
+que as pessoas possam estar cientes e passem a aderir ao
+cadastramento dos animais, por meio de um programa realizado
+pela Prefeitura de Curitiba, alem de visar o incentivo da adoçao
+responsavel .
+
+Atraves de pesquisa de campo realizada, foi possivel verificar que
+existem pessoas interessadas em adotar, mas inviabilizadas por
+motivos pessoais ou financeiros. O apadrinhamento e uma
+alternativa para melhorar a qualidade de vida dos animais de
+abrigos que visa o aumento de doaçoes referentes a alimentaçao,
+medicaçao e serviço voluntario em atividades coletivas .
+
+Buscando-se estimular o apadrinhamento atraves da aproximaçao
+entre pessoas e instituiçoes de abrigo, foi projetada uma
+combinaçao de aplicativo e sistema embarcado para juntos
+formarem um sistema capaz de informar sobre as necessidades do
+abrigo, alem de permitir o acompanhamento dos animais
+apadrinhados.
+
+A soluçao desenvolvida consiste na combinaçao entre um
+aplicativo dividido em duas vertentes (abrigos e padrinhos) e um
+dispenser com hardware embarcado que armazena e despeja os
+alimentos dos animais. De modo geral, a soluçao apresenta
+informaçoes em tempo real sobre o animal e emite notificaçoes
+sobre controle do estoque e doaçoes online, alem de transparencia
+em relaçao ao fluxo de doaçoes.
+
+**METODOLOGIA**
+
+A organizaçao metodologica do trabalho se utiliza das etapas gerais
+do Processo de Design Digital Disruptivo (PD3) . O PD3 agrega
+duas abordagens metodologicas classicas de processos de design.
+A primeira organiza o processo de design em cinco etapas, que no
+PD3 denominam-se Sprints: (1) Definiçao do Problema, (2) Analise
+de Contexto, (3) Modelo Conceitual, (4) Projeto Detalhado, (5)
+Produçao/Divulgaçao. A segunda abordagem metodologica
+classica organiza o processo de design em tres etapas: analise,
+sintese e avaliaçao . Assim, no PD3 realizam-se analise-sintese-
+avaliaçao cinco vezes, de forma iterativa e incremental, uma vez
+para cada Sprint. Na Sprint 1, Definiçao do Problema, o tema geral
+de abandono de animais foi analisado em literatura, chegando-se ao
+problema especifico de apadrinhamento de animais.
+Adicionalmente, o tema foi avaliado atraves de conversas
+exploratorias, nao estruturadas, com tres pessoas que relataram ter
+dificuldade de oferecer lar temporario e preferirem o
+apadrinhamento. Como resultado desta etapa, temos o "briefing"
+de definiçao do problema .
+
+Na Sprint 2, Analise de Contexto, foi analisada a realidade de
+apadrinhamento nos abrigos e a opiniao das pessoas que se
+preocupam com a causa de abandono de animais, sobre
+apadrinhamento. Foram realizadas duas pesquisas online, sendo a
+primeira para pessoas em geral com o objetivo de explorar o
+historico de adoçoes, apadrinhamentos ou interesse pela causa,
+obtendo um total de 91 respostas. A segunda foi destinada a abrigos
+para se obter informaçoes sobre frequencia de doaçoes, estrutura do
+local de alimentaçao dos animais, comunicaçao os padrinhos e
+inclusao de tecnologia para ajudar no abrigo. A analise de dados foi
+sintetizada na forma de personas e cenarios de uso. A avaliaçao do
+contexto foi feita pela analise qualitativa e quantitativa das
+respostas dos dois questionarios.
+
+Na Sprint 3, elabora-se um modelo conceitual do projeto. Foram
+definidas a identidade visual do projeto, as funcionalidades e a
+navegaçao das duas versoes do aplicativo (abrigo e padrinhos), bem
+como a prototipaçao de telas. Adicionalmente, foi projetado um
+dispenser inteligente responsavel por armazenar e despejar o
+alimento. Foi definida sua arquitetura, funcionamento, sensores e
+forma de comunicaçao com o aplicativo. O detalhe desse projeto
+pode ser visto no PDP - Proposta de Desenvolvimento Projetual .
+Apos analise de alternativas, os detalhes do desenvolvimento foram
+definidos considerando a disponibilidade do uso de tecnologia por
+parte dos abrigos e dos padrinhos, alem da escolha de componentes
+eletronicos aplicaveis. Visando a avaliaçao da ideia, foi
+desenvolvido um prototipo do dispenser, o qual foi instalado na
+area de convivencia da Universidade Federal do Ceara - Campus
+Quixada onde se comportou como alimentador para os cachorros
+que circulam diariamente pelas redondezas. A instalaçao do
+dispenser inteligente na universidade foi um metodo utilizado como
+prova de conceito e para justificar a viabilidade. As duas ultimas
+sprints do PD3, Projeto Completo e Produçao/Divulgaçao, sao
+etapas futuras. Entretanto, como requisito da competiçao do IHC,
+foi antecipada uma peça de divulgaçao, produzindo-se um video
+ilustrativo da ideia .
+
+**JUSTIFICATIVA**
+
+A aplicaçao do formulario direcionado ao publico resultou na
+coleta de dados de 91 pessoas. Conforme os dados coletados,
+26,1% disseram ter duvidas se adotariam ou nao, por varios
+motivos: ter alergia a pelos de animais, viajar com frequencia e nao
+ter com quem deixar o animal, nao ter espaço em casa, nao ter
+tempo, ja ter outro animal e nao ter espaço para mais um, dentre
+outros. Teve ainda o caso de um participante que disse gostar da
+causa de defender os animais, mas "Acho que nao tenho muita
+habilidade pra cuidar". Estes pontos reforçam a ideia do
+apadrinhamento como uma alternativa, pois e uma forma de poder
+ajudar mesmo com essas questoes apresentadas. Alem disso,
+constatou-se que 85,7% das pessoas nunca apadrinharam, enquanto
+que 69,2% das pessoas estariam dispostas a apadrinhar um animal.
+Isto e um indicativo de que a ideia do apadrinhamento e bem aceita
+pelas pessoas, mas que ao mesmo tempo aparentemente e pouco
+difundida. Alem disso, 73,9% disseram que no caso de
+apadrinharem, eles gostariam de ser avisados quando faltasse
+comida no abrigo.
+
+Ja o formulario direcionado aos abrigos resultou na coleta de dados
+de 6 abrigos e revelou que tres deles nao possuem padrinhos para
+os animais. Apesar disto, notou-se que todos recebem doaçoes de
+comidas, medicamentos ou dinheiro. Dois deles recebem
+mensalmente, dois semanalmente, um diariamente, e um apenas
+quando as pessoas se comovem a ajudar. A necessidade de receber
+doaçoes, aliada a informaçao de que existem muitas pessoas com
+desejo de ajudar os animais de rua mas que nao teriam condiçoes
+de levar para sua casa, reforça a proposta de apadrinhamento. Aos
+3 abrigos com padrinhos, perguntou-se como e feito o controle das
+doaçoes. Um deles disse que espera os padrinhos avisarem e
+enviarem os comprovantes. Outro disse que "O padrinho se
+responsabiliza pelos custos do animal, entao toda necessidade e
+solicitada e o padrinho ajuda.". O terceiro disse que apenas
+"Anotamos o nome do animal e o que foi recebido, por quem e
+quando". Quando perguntamos se pensam em como a tecnologia
+digital poderia ajudar nesse processo, dois abrigos disseram que
+usam redes sociais (Facebook e Instagram) para pedir ajuda, tres
+disseram que poderiam ajudar, um deles sugeriu ser via aplicativo,
+e um deles nao havia pensado sobre isso.
+
+Notou-se, portanto, que os abrigos vivem de doaçoes e precisam se
+comunicar com os doadores, padrinhos ou nao. Estas sao demandas
+que reforçam a ideia de uma soluçao que promova a comunicaçao
+entre padrinhos e abrigos. Alem disso, percebemos a dificuldade do
+controle de estoque dos abrigos, justificando assim a ideia do uso
+de sensores avisando em tempo real sobre a quantidade de raçao
+consumida.
+
+**SOLUÇAO PROPOSTA**
+
+A proposta consiste de (i) um aplicativo que permite a interaçao
+entre pessoas e abrigos, e (ii) um dispenser de raçao
+contendo um dispositivo embarcado que atuara no
+controle em tempo real da raçao, enviando informaçoes para o
+aplicativo.
+
+O PadimPet consiste de dois modulos: um destinado aos abrigos e
+outro aos padrinhos. Eles se interligam com a troca de informaçoes
+necessarias e em tempo real sobre a quantidade de raçao
+consumida.
+
+O modulo dos abrigos permite o cadastro dos animais apadrinhados
+e contem informaçoes como quantidade de raçao necessaria por dia,
+frequencia e hora com que o animal come, registro de uso de
+medicamentos, aplicaçao de vacinas e vermifugos, idade, raça,
+dentre outros. Tambem possui funcionalidade de cadastrar os
+padrinhos. Alem disso, podem ser cadastrados animais resgatados
+para que fiquem a disposiçao para apadrinhamento.
+
+O modulo destinado aos padrinhos, por sua vez, permite a busca
+por um abrigo especifico e tambem oferece sugestoes de abrigos
+proximos a localizaçao do usuario. Atraves do aplicativo e possivel
+apadrinhar um animal e acompanhar sua alimentaçao e quesitos
+relacionados ao seu estado de saude (como vacinaçao e vermifugo),
+alem de facilitar o controle online de doaçoes.
+
+A Figura 1 mostra o prototipo PadimPet. Do lado esquerdo, pode
+ser vista a tela de escolha de animais para apadrinhar. Do lado
+direito, pode ser vista a tela de configuraçao do dispenser a ser
+usada pelo responsavel do abrigo para programar a hora ea
+frequencia com que deve ser despejada a raçao. A soluçao preve
+que o abrigo tenha inumeros dispensers. O prototipo interativo pode
+ser acessado de forma online .
+
+**O DISPENSER INTELIGENTE**
+
+Foi desenvolvido um prototipo de sistema de alimentaçao
+inteligente para os abrigos, ilustrado na Figura 2, o qual tem como
+principal funcionalidade o controle e automaçao do fornecimento
+de raçao.
+
+O dispositivo funciona de maneira a permitir que os usuarios
+tenham controle sobre a quantidade de raçao e estado do
+dispositivo. O sistema ira monitorar as informaçoes diarias com o
+auxilio de celulas de cargas que serao usadas como balança. Dessa
+forma, sera possivel liberar a raçao de uma forma automatizada
+para a alimentaçao dos animais, atraves de um horario pre-
+programado ou atraves de comandos no aplicativo.
+
+Para a concepçao do projeto foram feitos dois projetos, o do
+dispenser e o da arquitetura de componentes para o mesmo. O
+projeto do prototipo do dispenser consiste em um dosador de rosca
+impulsionado por um motor de passos para que seja realizado o
+despejamento do alimento. Embutido ao dispenser existem
+componentes de sensoriamento do peso para obtençao dos dados
+que serao enviados ao aplicativo. As peças necessarias para a
+formaçao do dispenser projetado sao oriundas de modelaçao 3D
+atraves da plataforma Tinkercad , visando moldar de forma
+mais especifica aos objetivos de aplicaçao. A figura 3 apresenta a
+modelagem:
+
+Os componentes (1) e (2) juntos formam o modelo do dispenser,
+sendo o primeiro o modulo mecanico do sistema e o segundo o
+modulo por onde sera despejado e armazenado o alimento. A
+aplicaçao do sistema sera em abrigos com quantidades diferentes
+de animais que irao utilizar o alimentador, portanto o projeto conta
+com a implementaçao de uma rosca dosadora (3) devido a dois
+aspectos: precisao e facilidade. A dosagem da rosca, alocada de
+forma vertical em (1) atraves das peças de suporte (6) e (7) e
+revestida pela peça (4) do dispenser, fomenta a precisao e assim
+assegura a pesagem certa. Alem disso, o processo de higienizaçao
+da rosca se torna facil ja que ha praticidade para remover e alocar
+ao dispenser. A rosca se atrela a engrenagem (5) atraves do
+rolamento (7) para que seja possivel a movimentaçao giratoria. A
+engrenagem citada se atrela a outra engrenagem externa que gira
+pelo impulsionamento de um motor de passo + driver que serao
+unidos ao dispenser, assim realizando o movimento desejado da
+rosca dosadora.
+
+Para o projeto da arquitetura de componentes do sistema, foram
+selecionados dispositivos eletronicos de baixo custo para que sua
+utilizaçao e implementaçao no sistema fosse simples para a
+aplicaçao desejada. A figura 4 apresenta a arquitetura de
+componentes do sistema.
+
+O prototipo desenvolvido e uma combinaçao entre recipiente
+eletronico, sensores de temperatura e peso junto ao aplicativo
+PadimPet. A placa utilizada para o processamento das variaveis
+ambientais foi o Arduino Uno, um projeto de Open Hardware de
+facil manuseio ideal para prototipaçao e validaçao de projetos [12-
+13]. Sua funcionalidade no sistema embarcado e dividida nos
+modulos: Recipiente Eletronico e Verificaçao da Raçao
+Armazenada.
+
+O dispenser inteligente contem um Recipiente Eletronico atrelado
+ao local de alimentaçao. O Recipiente Eletronico e responsavel por
+armazenar e realizar o despejamento da comida em um reservatorio
+acessivel ao animal. Para isso sera utilizado um motor de passos
+com caixa de reduçao, que ja possui o conector ideal para conexao
+no modulo driver para motor de passo ULN2003. A tensao de
+operaçao do Motor de Passo 5V 28BYJ-48 e 5V, o que lhe permite
+trabalhar em conjunto com as principais placas de desenvolvimento
+do mercado . Alem disso, o motor de passos sera utilizado em
+conjunto com um Driver ULN2003 que e capaz de controlar
+motores de passo do tipo unipolar que possuem saidas digitais que
+variam de 0 a 5V , e que sera configurado considerando a
+relaçao entre quantidade de raçao despejada e quantidade de passos
+dados pelo motor.
+
+O modulo verificaçao da raçao armazenada utilizara um sensor de
+peso/celula de carga que deve ser utilizado em conjunto com o
+modulo analogico digital de 24 bits HX711, ideal para celulas de
+carga para amplificaçao do sinal gerado pela celula. O sensor de
+peso e composto por uma meia-ponte resistiva, e quando aplicado
+um peso sobre o sensor, este gera uma tensao que e enviada ao
+microcontrolador . Juntamente ao sensor, encontra-se o
+amplificador de instrumentaçao Hx711, que foi projetado com a
+finalidade de proporcionar a conversao de alteraçoes de valor de
+resistencia em sensores, como por exemplo, uma balança, em dados
+digitais. Esta conversao e possivel atraves de um circuito AD de 24
+bits presente no modulo . Os sensores de peso existentes em
+balanças nao possuem precisao em seus dados, por isso se faz
+necessario o uso de um modulo desenvolvimento especificamente
+para uso com sensores de peso. Sua comunicaçao com os
+microcontroladores se da pelo padrao TTL 232, o qual possui
+facilidade de uso, estrutura descomplicada e desempenho estavel
+para o envio de dados de peso da raçao.
+
+Para a mediçao da temperatura da comida, foi empregado um
+sensor de temperatura NTC 10K Ohm, que possui uma alimentaçao
+de 5V, fornece uma saida analogica e possui uma faixa de operaçao
+que vai de -55 °C a +125°C .
+
+Sarah tem 20 anos e mora na cidade de Quixada com seus dois caes
+e um gato de estimaçao que resgatou das ruas. Sempre foi empatica
+com os animais e interessada em ajudar. Sendo novata na cidade,
+nao sabia como poderia atuar no cenario local de abandonos. Por
+meio de divulgaçao, conheceu o aplicativo PadimPet. No seu
+primeiro contato descobriu o abrigo 4Patas a apenas 2km de sua
+casa. Navegando no PadimPet encontrou uma lista de caes e
+simpatizou com um filhote chamado Thomas. Por ja ter animais de
+estimaçao em casa, Sarah considerou inviavel adota-lo, mas decidiu
+ajuda-lo. Sarah apadrinhou Thomas e, no mesmo instante, realizou
+uma doaçao online de 20 reais para medicamento do seu pet. No
+outro dia, indo para a faculdade, visitou o abrigo para ver seu novo
+afiliado. Atendida pela funcionaria Helena, realizou uma doaçao
+de 3kg de raçao. Apos a faculdade, via PadimPet, viu o registro de
+sua doaçao e um agradecimento do abrigo. Da parte do abrigo, ao
+receber a doaçao de raçao, Helena registrou-a no aplicativo para
+que as informaçoes de estoque fossem atualizadas, depositou a
+raçao no alimentador automatico de caes que estava programado
+para liberar comida a cada 6 horas. Dois dias depois, Sarah mostrou
+o aplicativo ao seu irmao Gabriel que morava na zona rural. Mesmo
+sem disponibilidade para visitar o abrigo, Gabriel ativou as
+notificaçoes do PadimPet para ser alertado quando tivesse pouca
+raçao no estoque do 4Patas. Alem disso, conseguia visualizar os
+eventos de banho coletivos e vacinaçao, incentivando-o a fazer
+doaçoes eventuais.
+
+**VIABILIDADE**
+
+Uma analise de viabilidade foi realizada atraves da implementaçao
+de um prototipo da soluçao. Uma das ameaças do projeto e o fato
+de ser multidisciplinar. Ele envolve conceitos de engenharia de
+software, design de interaçao, programaçao e sistemas embarcados.
+Um dos desafios foi uniformizar os conceitos e todos da equipe
+entenderem o funcionamento por completo da soluçao; a
+prototipaçao do dispenser e do aplicativo contribuiu bastante para
+isso. Alem disso, a implementaçao do dispenser nos levou a discutir
+sobre varios aspectos de como seria fisicamente o dispenser e como
+ele iria se comunicar com o usuario e com o aplicativo, aspectos os
+quais nao estavam bem definidos antes da prototipaçao.
+Identificamos a necessidade de termos elementos de feedback sobre
+o funcionamento e as marcaçoes dos sensores nao somente no
+aplicativo mas tambem no dispositivo fisico (dispenser). Por
+exemplo, percebeu-se a necessidade de um marcador visual da
+quantidade de raçao. Com isso surgiu a ideia de inserir uma fita de
+LED no repositorio de raçao para marcar o volume de raçao
+existente. Alem disso, sentimos necessidade de um display para
+marcar temperatura e peso da raçao, data e hora, e poder retornar
+alguma mensagem ao usuario. Este display tambem seria util caso
+a internet viesse a cair e a comunicaçao com o aplicativo fosse
+perdida. Outro ponto observado nessa avaliaçao foi identificar
+caracteristicas do projeto fisico do dispenser, como espaço para
+encaixar as peças do dispenser, barulho do motor de passos, etc. Ja
+a comunicaçao entre dispenser e smartphone nao foi avaliada pois
+utilizamos bluetooth e nao a internet, como esta previsto na
+proposta.
+
+Quanto a viabilidade dos recursos tecnologicos disponiveis para a
+implementaçao do PadimPet vimos que eles sao simples e de preço
+acessivel. O dispenser inteligente consiste de um circuito eletronico
+para receber e transmitir os comandos para liberar raçao e
+monitorar a balança. Com a experiencia da prototipaçao, percebeu-
+se que a soluçao e viavel. Os proximos passos sao: (i) programar o
+aplicativo. Sera utilizada a linguagem Java para o back-end e React
+para o front-end; (ii) imprimir um prototipo do dispenser utilizando
+uma impressora 3D e inserir os componentes eletronicos
+embarcados; e (iii) realizar avaliaçao envolvendo usuarios donos de
+abrigos e envolvendo a comunidade interessada em apadrinhar.
+
+**CONSIDERACOES FINAIS**
+
+O PadimPet se apresenta como uma soluçao promissora para o problema do abandono de animais, unindo tecnologia e engajamento social. Sua implementaçao pode trazer beneficios tanto para os abrigos, facilitando a gestao de recursos e o cuidado com os animais, quanto para os padrinhos, permitindo que contribuam ativamente para o bem-estar animal.

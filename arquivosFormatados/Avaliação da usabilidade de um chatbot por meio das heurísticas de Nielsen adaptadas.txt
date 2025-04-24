@@ -1,0 +1,95 @@
+**INTRODUCAO**
+
+Chatbots sao softwares projetados para atender usuarios por meio de interaçoes em um
+ambiente textual. A ideia de seu uso e trazer um comportamento similar ao de um agente
+humano, porem, em contextos mais simples. Dentre algumas vantagens de seu uso, pode-
+mos citar que sua construçao nao requer grandes esforços na parte de design de interface
+grafica e que a depender de sua elaboraçao pode trazer beneficios ao automatizar tarefas
+repetitivas e torna-las de uso facil e acessivel aos usuarios. A usabilidade e um aspecto
+critico nos sistemas interativos e, portanto e essencial incorporar a usabilidade em chat-
+bots, para melhorar a experiencia do usuario [Nguyen and Sidorova 2018]. Por sua sim-
+plicidade em sua forma de interaçao, um dos desafios na concepçao de chatbots e como
+podemos avaliar o quao bom e sua usabilidade.
+
+Ren et al. [Ren et al. 2019] conduziram um mapeamento sistematico para identi-
+ficar o estado da arte em usabilidade de chatbot. Os autores concluiram que a usabilidade
+de chatbot ainda e um campo de pesquisa muito incipiente, onde os estudos publicados
+sao principalmente pesquisas, testes de usabilidade, e estudos experimentais informais.
+Neste mapeamento, nao foram identificadas diretrizes ou heuristicas especificas para ava-
+liar a usabilidade de chatbot.
+
+Este artigo relata a adoçao de heuristicas de Nielsen adaptadas para avaliaçao do
+chatbot InfoRussas, o que possibilitou a melhoria de sua usabilidade. Esta experiencia
+ocorreu por meio da colaboraçao entre os times de dois projetos da Universidade Federal
+do Ceara do campus de Russas. O time do projeto A objetiva a criaçao do chatbot Info-
+Russas para auxiliar o retorno a atividade academica presencial. Durante quatro semestres
+a universidade teve que recorrer ao ensino remoto e muitos alunos, apesar de estarem cur-
+sando disciplinas do campus, nunca tiveram contato com a cidade. O chatbot InfoRussas
+surgiu como uma forma de tornar facil o acesso a informaçoes da cidade, como contatos
+de estabelecimentos, transportes e secretarias do municipio. O time do projeto B explora
+e desenvolve soluçoes de IHC para a melhoria da usabilidade no processo de desenvolvi-
+mento de sistemas interativos e neste relato e o time de inspeçao.
+
+**METODOLOGIA**
+
+A metodologia baseou-se nos passos envolvidos na conduçao de uma avaliaçao heuristica
+[Barbosa and Silva 2010].
+Apresentaçao do chatbot para o time de IHC: Durante uma reuniao remota
+entre os times, o time de desenvolvimento apresentou o chatbot InfoRussas, seu objetivo
+e principais possibilidades de interaçao.
+Preparaçao da inspeçao de usabilidade: Como Ren et al. [Ren et al. 2019]
+apontam que nao existem heuristicas especificas para chatbot publicadas. O time de
+inspeçao realizou pesquisas em sites sobre metodos de avaliaçao de chatbots para a
+seleçao do metodo a ser adotado. Existem algumas propostas de heuristicas de usabi-
+lidade adaptadas para chatbots em blogs de profissionais da area de UI/UX. Um conjunto
+de heuristicas de Nielsen adaptadas para chatbots disponivel em https://shre.ink/
+mn5q foi adotada.
+Visibilidade do status do chatbot: O sistema deve permitir que o usuario per-
+gunte sobre o status do sistema; Equivalencia entre o chatbot e o mundo real: Saber
+como o usuario se expressa naquele contexto em que o chatbot esta sendo utilizado, usar
+emojis que condizem com o mundo real; Liberdade e controle do usuario: permitir
+que o usuario pule diretamente para a tarefa que deseja realizar, avance para algum ponto
+da conversa ou volte e altere a sua resposta; Consistencia e Padroes: consistencia
+da linguagem que o chatbot usa para se comunicar e o tipo de chatbot, seja ele apenas
+navegavel por botoes, por processamento de linguagem natural ou uma uniao desses dois;
+Prevençao de erros: Pedir uma confirmaçao do usuario ou apresentar a oportunidade
+de refazer sua açao em todas tarefas criticas do chatbot; Reconhecimento ao inves
+de memorizaçao: Menus pertinentes e carrosseis com o tipo de mensagem estruturada
+tornam mais facil o usuario reconhecer as açoes que pode tomar; Flexibilidade e
+eficiencia de uso: O chatbot precisa reconhecer mensagens curtas e longas para agilizar o
+uso dos usuarios mais experientes; Estetica e Design minimalista: O conteudo deve
+ser sempre minimalista, porem a maneira que o chatbot exibe depende da sua persona;
+Auxiliar usuarios a reconhecer, diagnosticar e se recuperar de erros: Caso o usuario
+tenha inserido uma informaçao incorreta ou executado uma açao inexistente, o chatbot
+deve ajuda-lo a identificar o erro e principalmente a corrigi-lo; Ajuda e documentaçao:
+A documentaçao deve ser acessivel atraves do proprio chatbot.
+A lider da inspeçao preparou o material da inspeçao, que consistiu em conjunto
+de heuristicas de usabilidade e modelo de planilha para relatorio de defeitos. O material
+da inspeçao foi disponibilizado por meio do Google Drive.
+Coleta de dados: A inspeçao foi realizada por quatro inspetores de forma indi-
+vidual e remota. Todos possuiam conhecimento sobre usabilidade e ja haviam conduzido
+pelo menos uma avaliaçao heuristica. A inspeçao ocorreu no periodo de uma semana.
+Consolidaçao dos resultados: A lider da inspeçao realizou a coleçao dos defei-
+tos gerando uma lista unica. A identificaçao de duplicatas foi realizada com os inspetores
+durante uma reuniao.
+Relato dos resultados e melhorias no chatbot: O time de inspeçao apresentou
+para o time de desenvolvimento os problemas de usabilidade identificados no chatbot. Os
+problemas foram reproduzidos para garantir o entendimento de todos e foram priorizados
+para correçao. Foram discutidas estrategias para resoluçao dos problemas de usabilidade.
+O time de desenvolvimento implementou diversas melhorias no chatbot visando a melho-
+ria da qualidade de uso da aplicaçao.
+
+Como resultado da avaliacao, os inspetores identificaram um total de 28 defeitos. Apos analise de duplicatas, obteve-se um total de 17 diferentes defeitos. A Figura 1 ilustra a classificacao dos problemas de usabilidade identificados pelas heuristicas de usabilidade.
+
+Dentre as heuristicas inspecionadas, vale destacar aquelas em que mais defeitos foram encontrados: visibilidade do status do sistema, consistencia e padroes e reconhecer ao inves de lembrar. Na visibilidade do status do chatbot, os defeitos encontrados se resumiam a falta de informacoes com relacao ao ponto em que o usuario se localiza no fluxo da conversa e quanto ao que ocorre durante um longo periodo de espera.
+
+Quanto a heuristica de consistencia e padroes, os defeitos consistiam em descrever a falta de consistencia no padrao de comunicacao com o usuario. Por exemplo, em determinados pontos do chat uma lista de opcoes era exibida e em outras era pedido somente uma descricao do que era desejado, sem mostrar opcoes disponiveis.
+
+No quesito reconhecer ao inves de lembrar, foram observados pontos como a ausencia da exibicao de opcoes de escolha disponiveis em certos pontos do chat, sendo necessario lembrar ou voltar na conversa, alem da falta de emojis que ajudem no reconhecimento rapido das opcoes disponiveis nos botoes. A Figura 2 ilustra uma das melhorias realizadas, com a adotacao de botoes para acessar opcoes disponiveis em um determinado momento da interacao.
+
+Este artigo relata a avaliacao de usabilidade de um chatbot por meio das heuristicas de Nielsen adaptadas. Este metodo foi selecionado devido ao perfil das pessoas envolvidas na avaliacao e a lacuna existente na proposicao de diretrizes especificas para chatbots. Com a experiencia, observou-se a necessidade de fornecer diretrizes para deteccao de problemas de usabilidade, pois a adocao das heuristicas pode ter sido prejudicada pelo entendimento do time de inspecao, devido a falta de exemplos praticos de aplicacao das heuristicas em chatbots. Ainda assim, por meio desta avaliacao, foi possivel fornecer resultados que possibilitaram evoluir a usabilidade do chatbot. Com estes resultados, espera-se contribuir com experiencias praticas de melhoria da qualidade de uso de chatbots e incentivar a comunidade a conduzir pesquisas para a evolucao desta area.
+
+
+**CONCLUSAO**
+
+Este artigo apresenta um estudo sobre a avaliaçao da usabilidade de um chatbot usando heuristicas adaptadas de Nielsen. A experiencia demonstra a importancia de se considerar a usabilidade no desenvolvimento de chatbots, mesmo que ainda haja uma falta de diretrizes especificas para isso. Os resultados obtidos ajudam a melhorar a visibilidade, a consistencia, a liberdade do usuario e outros aspectos do chatbot avaliado, tornando-o mais amigavel e eficiente.

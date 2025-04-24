@@ -1,0 +1,131 @@
+**Introducao**
+
+Segundo dados Censo Escolar 2023, 53,7% das matriculas na educacao especial sao
+estudantes com deficiencia intelectual (DI) (952.904 pessoas) [BRASIL, INEP 2024],
+constituindo, assim, o principal tipo de deficiencia entre os alunos. De acordo
+com [Rodrigues 2021], 45,6% dos alunos com DI sao analfabetos. A alfabetizaçao de
+crianças com deficiencia e uma atividade desafiadora, que necessita estar apoiada por
+recursos de ensino e aprendizagem diferenciados.
+
+Um metodo amplamente utilizado no processo de alfabetizaçao de individuos com
+deficiencia intelectual e o ABACADA, desenvolvido por [Silva 2021]. E um metodo
+bastante utilizado em instituiçoes como a Associaçao de Pais e Amigos de Excepcionais
+(APAE). As atividades sao realizadas com o emprego de recursos como papel, cartolinas
+e tabuleiros.
+
+Com o objetivo de tornar as atividades mais atrativas e interativas, foi desenvol-
+vida a plataforma de software NinoEdu, relatada no presente artigo. Trata-se de uma pla-
+taforma de apoio a aplicaçao do metodo ABACADA, especialmente por meio de jogos.
+A utilizaçao de jogos e baseada no fato de que o metodo e fortemente apoiado por recur-
+sos visuais, com imagens fazendo referencia as silabas trabalhadas em cada momento da
+aprendizagem.
+
+**O metodo ABACADA**
+
+O ABACADA e uma estrategia de alfabetizaçao, elaborado pela professora Claudia Mara
+da Silva, baseado no ensino da silaba, em vez do nome de cada letra. Desta forma, cada
+letra e associada a vogal a ser trabalhada com a criança. Na imagem mostrada na Figura
+1 e exemplificada a vogal A. Todas as consoantes sao estudadas em conjunto com esta
+vogal, sempre associando a silaba a uma imagem.
+
+Com base neste metodo, a criança nao aprende a letra B, e sim o BA da BANANA.
+Apos o dominio das silabas, a criança avança para ao nivel de palavras, aprendendo que
+ao juntar o BA da BANANA com o LA do LAPIS forma-se a palavra BALA.
+
+**A Plataforma NinoEdu**
+
+A proposta de construçao da plataforma NinoEdu surgiu da hipotese de que a utilizaçao
+de jogos digitais poderia aumentar a eficacia do metodo ABACADA. No entanto, a plata-
+forma vai alem de apenas disponibilizar jogos. Ela permite que os docentes gerenciem o
+aprendizado de maneira individualizada para cada aluno. Por exemplo, se o aluno estiver
+no nivel silaba e na vogal a, e possivel selecionar os jogos deste nivel e vogal.
+
+**Concepçao e Construçao da Plataforma**
+
+Com o objetivo de tornar as atividades do metodo ABACADA mais dinamicas e ludicas,
+procurou-se a criaçao de um produto aderente as singularidades dos usuarios. Por isso,
+durante a construçao, diversas interaçoes com a equipe pedagogica da APAE parceira
+foram realizadas, a fim de se obter um produto final de qualidade.
+
+A partir das interaçoes, foram definidas algumas diretrizes para construçao dos
+jogos: a) usar cores solidas, evitando cores muito fortes ou uma quantidade muito grande
+de cores; b) utilizar fontes grandes e dar destaque as silabas; c) fornecer feedback positivo
+em caso de acerto e, em caso de erro, usar frases de incentivo amigaveis ; d) evidenciar o
+uso da silaba sempre associando a imagem (BA / BANANA); e e) adequar as atividades
+em papel para o meio digital, atentando-se as limitaçoes e possibilidades.
+
+Para a implementaçao da plataforma optou-se por uma arquitetura web, em que o
+back-end e hospedado em um servidor e os usuarios acessam por meio de um navegador.
+Foram utilizadas as seguintes tecnologias:
+Spring Boot: framework voltado para o desenvolvimento de aplicaçoes web, es-
+crito na linguagem Java, que e muito utilizado por sua agilidade na implementa-
+çao [Broadcom 2024].
+MongoDB: sistema de banco de dados nao relacional, que armazena as informa-
+çoes na forma de documentos flexiveis em vez de tabelas e linhas [IBM 2024].
+React: biblioteca Javascript que e utilizada para criar interfaces de usuario reutili-
+zaveis, dinamicas e interativas [Meta 2024].
+Godot: um software (game engine) para a criaçao de jogos. Entre os recursos da
+plataforma estao a possibilidade de se criar jogos 2D e 3D; construçao para mul-
+tiplas plataformas, como HTML5 e mobile; e linguagem de script personalizada
+(GDScript) inspirada em Python [Gestwicki 2021].
+
+**Funcionamento da Plataforma**
+
+A NinoEdu e uma plataforma de gerenciamento de aprendizagem dos alunos. Primeira-
+mente, os professores e alunos sao cadastrados na plataforma. Uma importante funcio-
+nalidade e associar o aluno a um super-heroi. Esta opçao foi sugerida pelos educadores
+da APAE, como um estimulo adicional, pois incentiva as crianças a participarem das ati-
+vidades. Na Figura 2 e mostrado um exemplo em que o aluno Thiago e associado ao
+Homem-Aranha e a aluna Tereza, a Mulher-Maravilha. Os herois sao escolhidos pelos
+alunos. A questao dos direitos autorais ainda esta sendo avaliada. Caso nao seja possivel
+utilizar personagens proprietarios, eles serao substituidos por outros criados pela equipe
+do projeto.
+
+A partir do cadastro do aluno, o professor pode atribuir atividades de acordo com
+o nivel em que o aluno se encontra e tambem a vogal sendo aprendida.
+
+**Os Jogos**
+
+Foram desenvolvidos 08 tipos jogos propostos pela equipe da APAE: (1) Acerte a silaba;
+(2) Jogo da Memoria; (3) Jogo da Trilha; (4) Jogo de Arrastar; (5) Jogo de Colorir (Clicar);
+(6) Jogo de Colorir (Pintar); (7) Jogo de Estourar baloes; (8) Jogo Encontre a silaba.
+
+Na Figura 3 e mostrada a tela do jogo “Encontre a silaba". No canto superior
+esquerdo esta a silaba que deve ser encontrada, no caso VA de VACA. Ao clicar no icone do alto falante, e possível ouvir a silaba. O aluno deve clicar sobre as tres figuras que
+contem a silaba VA. Sao apresentadas ao aluno tanto a silaba associada a figura, para
+reforcar a associacao, quanto a silaba isolada, para que ele saiba reconhece-la.
+
+**Resultados Preliminares**
+
+O desenvolvimento da plataforma seguiu um processo iterativo e incremental, sendo que
+as versoes eram apresentadas a equipe da APAE. A partir do feedback obtido, correçoes e
+adaptaçoes foram realizadas. Em resumo, foram apontadas os seguintes pontos positivos:
+a) A dinamica dos jogos reflete a realizada nos exercicios do ABACADA; b) Os jogos
+podem motivar os alunos; c) A utilizaçao de super herois e satisfatoria; d) O feedback
+sonoro e visual quando o aluno erra o motiva a tentar novamente; e) A combinaçao audio,
+silaba e imagem representativa ficou apropriada. Como pontos a melhorar, apontou-se:
+a) Criar um metodo de pontuaçao e recompensa com elementos visuais e desenhos em
+vez de numeros; e b) Introduçao de metricas para acompanhamento do desempenho dos
+estudantes.
+
+**Consideraçoes Finais**
+
+Neste artigo foi apresentada a plataforma NinoEdu, uma ferramenta para aplicaçao do
+metodo ABACADA na alfabetizaçao de pessoas com necessidades educacionais especi-
+ficas. A aplicaçao foi projetada a partir das necessidades apontadas pelos educadores da
+APAE parceira do projeto e avaliada por eles.
+
+Os resultados preliminares indicam que a ferramenta pode ser um complemento
+importante as atividades desenvolvidas e pode evoluir com a introduçao de novos elemen-
+tos de gamificaçao e inclusao de metricas para registro do desempenho dos alunos durante
+o uso.
+
+A proposta do aplicativo baseado em jogos para alfabetizaçao e justificada pelo
+fato de o metodo ABACADA ser predominantemente apoiado por recursos visuais, com
+imagens associadas as silabas trabalhadas em cada momento da aprendizagem. Acredita-
+se que, tornando o metodo mais ludico e dinamico, se possa ter um processo de alfabeti-
+zaçao mais eficaz.
+
+**CONSIDERACOES FINAIS**
+
+A plataforma NinoEdu apresenta um grande potencial para auxiliar no processo de alfabetizaçao de crianças com deficiencia intelectual. Ao combinar os principios do metodo ABACADA com elementos de gamificaçao e um design cuidadoso, a ferramenta se mostra promissora para tornar o aprendizado mais ludico, dinamico e eficaz. Os resultados preliminares obtidos junto aos educadores da APAE parceira do projeto sao encorajadores e apontam para a necessidade de dar continuidade ao desenvolvimento da plataforma, incorporando as sugestoes de melhoria e explorando novas funcionalidades que possam potencializar ainda mais seus beneficios.

@@ -1,0 +1,115 @@
+**INTRODUCAO**
+
+A produçao de alimentos organicos e um dos grandes movimentos globais dos ultimos
+anos em funçao de aspectos ambientais e de saude . Os sistemas de
+produçao organica se beneficiam quando ha conjuntos de organizaçoes que constituem
+ecossistemas de multiplos atores impulsionando tais praticas . Tais
+ecossistemas se fortalecem quando ha relaçoes de helice tripla, entre academia, industria
+e governo, reforçando atuaçoes inicialmente isoladas dos atores. Essas relaçoes tem cres-
+cido no Brasil nos ultimos anos .
+
+A atual regulamentaçao para apicultura organica no Brasil  estabe-
+lece criterios especificos para certificar que o mel produzido e organico, onde em um raio de 3 km do apiario/meliponario, a area deve: ser constituida essencialmente por culturas
+em manejo organico, ter vegetacao nativa ou espontanea; nao existir fontes potenciais de contaminacao, tais como zonas urbanas, industriais, aterros e depositos de lixo.
+
+Apesar da importancia dos criterios estabelecidos para regulamentaçao da apicul-
+tura organica, nem sempre os apicultores conseguem cumpri-los integralmente, criando-
+se assim uma demanda por suporte tanto na extensao rural quanto por ferramentas que au-
+xiliem na tomada de decisao. Nesse sentido, o objetivo do aplicativo a ser desenvolvido,
+base do estudo deste artigo, e utilizar deep learning  no
+processamento de imagens RGB  para ajudar a identificar areas
+que atendam as exigencias da regulamentaçao.
+
+O contexto apresentado destaca a relevancia do teste de usabilidade apresentado
+neste artigo, que visa assegurar um dos desafios do projeto, que e garantir que os produ-
+tores de mel possam acessar e compreender as informaçoes resultantes do processamento
+de imagem. Os testes foram realizados com prototipos do software para validar e dire-
+cionar a etapa de desenvolvimento, assegurando que o produto final seja mais intuitivo e
+alinhado as necessidades dos usuarios.
+
+**PROTOTIPO**
+
+O prototipo foi desenvolvido utilizando a ferramenta Figma [Figma 2023], que oferece
+todos os recursos que foram necessarios para o design e a prototipagem das telas, Figura 1.
+Alem disso, o Figma permite definir links e açoes para simular a navegaçao e a interaçao
+do usuario com a interface. Portanto, a ferramenta tambem foi adotada para o teste de
+usabilidade.
+
+A Figura 1 apresenta quatro exemplos de telas de prototipo desenvolvidas para o
+projeto. A tela (A) na figura e a tela de login, que exibe tambem a identidade visual do
+aplicativo. A tela (B) e utilizada para inserir a localizaçao das colmeias, onde o produtor
+podera selecionar no mapa o local desejado para realizar um registro, como o cadastro de
+uma nova produçao. A tela (C) e um exemplo de uma lista de produçoes cadastradas por
+um usuario, na qual ele podera acessar cada item individualmente para visualizar detalhes.
+Por fim, a tela (D) da figura mostra detalhes de uma produçao cadastrada, exibindo a
+localizaçao no mapa e as areas que precisam ser monitoradas.
+
+**METODOLOGIA**
+
+A abordagem de teste de usabilidade baseou-se em uma combinaçao de metodos qualita-
+tivos e quantitativos. Inicialmente, foi realizada uma revisao bibliografica para identificar
+as melhores praticas e diretrizes de usabilidade relevantes para o aplicativo em questao,
+na qual se optou por utilizar as metricas de eficacia e eficiencia da norma NBR 9241-11
+[Associaçao Brasileira de Normas Tecnicas 2021].
+
+O teste de usabilidade foi realizado durante um evento que contou com a presença
+de 8 produtores rurais parceiros do projeto. Todos com idade aproximada de 50 anos, os
+participantes possuem, em media, 3 anos e meio de experiencia como apicultores. Alem
+disso, trabalham com abelhas com e sem ferrao e possuem de 3 ate 60 colmeias em suas
+propriedades.
+
+O encontro começou com o professor coordenador do projeto apresentando o pro-
+jeto e fornecendo informaçoes sobre o progresso do desenvolvimento da proposta. Du-
+rante a apresentaçao, um video explicativo foi exibido para demonstrar o funcionamento
+do prototipo do aplicativo desenvolvido.
+
+Na sequencia foi aplicado um questionario com o intuito de saber mais sobre os
+produtores e suas respectivas produçoes. O questionario abordou informaçoes basicas
+sobre os produtores de abelhas, como nome, idade e genero, alem de investigar sua ex-
+periencia e tipos de abelhas criadas. Tambem explorou a quantidade e distribuiçao ge-
+ografica das colmeias, bem como as praticas de registro, escolha de locais e estimativa
+de colheita de mel. Alem disso, investiga o uso de tecnologia, incluindo a plataforma de
+celular, acesso a internet, aplicativos mais utilizados e interesse em recursos tecnologicos
+para aprimorar a produçao de abelhas.
+
+Apos completarem o questionario, os produtores foram convidados a participar de
+um teste pratico do aplicativo, onde cada um teve a oportunidade de utilizar o prototipo.
+Foram definidos cenarios de uso realistas e tarefas especificas para os participantes do
+teste, que incluiam: [1] Se Registrar e fazer o Login; [2] Visualizar seu perfil; [3] Adi-
+cionar uma nova Produçao, indicando sua localizaçao no mapa; [4] Alterar a Produçao
+“Apiario Fazenda X“ inserindo uma nova anotaçao para ela; [5] Visualizar suas produçoes
+no mapa. [6] No mapa, aplicar um filtro para visualizar apenas os meliponarios; [7] Visu-
+alizar os detalhes de um dos meliponarios selecionados.
+
+Antes de iniciar os testes, os produtores receberam instruçoes de que as telas eram
+apenas imagens ficticias, ou seja, nao era possivel inserir informaçoes reais. Alem disso,
+foram orientados a verbalizar em voz alta as açoes que realizavam no aplicativo. O obje-
+tivo desse teste foi avaliar o design visual, a navegaçao e as informaçoes disponiveis para
+os produtores, como dados sobre suas produçoes e informaçoes pessoais. O prototipo
+encontra-se disponivel em: https://figmashort.link/k4zjXx. O processo de interaçao de
+cada participante com o prototipo foi registrado em video, preservando a identidade do
+entrevistado, para assegurar revisao e analise do processo.
+
+**ANALISE DOS RESULTADOS**
+
+Apos a conclusao dos testes descritos na seçao anterior, todos os questionarios e videos
+foram analisados. E importante destacar que todos os produtores participantes afirmaram
+ter acesso a internet e demonstraram interesse em utilizar um aplicativo para auxiliar no gerenciamento de suas colmeias.
+
+O grafico apresentado na Figura 2 mostra uma coluna para cada uma das tarefas solicitadas aos participantes. As colunas, em cinza, representam o numero esperado de cliques por tarefa e em preto, a quantidade media de cliques realizados por tarefa. Durante o teste as tarefas 2 e 3 foram realizadas com o numero de cliques esperado, enquanto as tarefas 4, 5 e 6 tiveram apenas 1 clique a mais do que o previsto. As tarefas 1 e 7 em media foram executadas com 3 cliques a mais do que o previsto.
+
+Durante a analise das solicitacoes de tarefas feitas aos participantes, foi observado que 90% delas foram concluidas com sucesso. As tarefas 3 e 6 foram as unicas que nao atingiram 100% de execucao das vezes solicitadas. Ainda assim, essas tarefas apresentaram o numero de cliques igual ou muito proximo do esperado nos testes em que foram cumpridas.
+
+Nos comentarios do questionario, tivemos muitos relatos positivos, como: Maravilhoso e funcional; Otimo; Muito bom e Interessante. Um registro importante e que as dificuldades identificadas estavam relacionadas ao contexto do prototipo e a forma como o prototipo estava disponivel, por exemplo: O uso excessivo de rolagem nas telas devido ao prototipo estar disponivel como uma pagina web; A utilizacao frequente dos botoes de voltar do Android, localizados na parte inferior do navegador; Tentativas repetidas de clicar nos campos de formulario para preenchimento; Tentativa de dar zoom no mapa e arrastar o ponto de localizacao; A opcao Editar exibia a mesma tela de Nova producao, o que causou confusao.
+
+Pode-se observar que o fato de o prototipo rodar em um navegador e apresentar itens extras, como barra de rolagem e os botoes de navegacao acabou confundindo o participante. Ja o preenchimento dos formularios e zoom nao foram implementados no prototipo, mas estarao presentes no aplicativo, fazendo com que tais problemas nao venham se repetir na versao final. Como sugestao um dos participantes comentou que seria interessante constar tambem no app o numero de colmeias por apiario, bem como a data inicial e final da producao de mel.
+
+
+**CONCLUSAO**
+
+O teste de usabilidade foi conduzido em um ambiente controlado, utilizando tecnicas
+como observaçao direta, gravaçao de video, coleta de dados e questionarios de satisfaçao
+do usuario. A analise dos resultados permitiu identificar questoes especificas de usabili-
+dade do prototipo e fornecer insights para melhorias. Vale ressaltar, que os resultados da
+analise do teste de usabilidade apresentados no artigo foram predominantemente positi-
+vos, tanto em termos quantitativos quanto qualitativos.

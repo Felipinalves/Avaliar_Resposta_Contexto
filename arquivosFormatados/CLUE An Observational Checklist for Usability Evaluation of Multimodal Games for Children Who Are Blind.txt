@@ -1,0 +1,154 @@
+**RESUMO**
+
+Este artigo resume a proposta e validaçao de um
+Checklist para Avaliaçao de Usabilidade de Jogos
+Multimodais para Crianças Cegas (CLUE). O CLUE foi
+projetado para auxiliar pesquisadores e profissionais em
+estudos de campo de avaliaçao de usabilidade
+envolvendo pessoas cegas, abordando multiplos
+aspectos de jogabilidade e multimodalidade, incluindo
+audio, graficos e haptica. No geral, evidencias iniciais
+indicam que o uso do CLUE durante a observaçao do
+usuario ajuda a levantar um numero maior de questoes de
+usabilidade relevantes do que outros metodos, como
+entrevista e questionario.
+
+
+**INTRODUCAO**
+
+Quando pessoas cegas jogam videogames multimodais
+(baseados em estimulos sonoros e hapticos, por
+exemplo), e fundamental garantir a usabilidade e
+proporcionar uma interface adequada as tarefas e
+necessidades dos usuarios, alem de uma interaçao
+eficiente e confortavel. Esse aspecto e crucial nesse
+cenario porque jogos multimodais podem ser usados para
+desenvolver habilidades cognitivas em pessoas cegas.
+Assim, problemas de usabilidade se tornam um obstaculo
+nao somente para a interaçao, mas para o
+desenvolvimento cognitivo. Ao conduzir testes de
+usabilidade envolvendo pessoas cegas, os avaliadores
+devem ter em mente que os Metodos de Avaliaçao de
+Usabilidade (Usability Evaluation Methods UEM)
+tradicionais sao geralmente projetados para usuarios sem
+deficiencias e que seu uso generalizado em diferentes
+contextos e controverso. A multimodalidade adiciona
+mais complexidade a este cenario, uma vez que questoes
+especificas diferenciam a avaliaçao de usabilidade
+multimodal da avaliaçao de interfaces de usuario
+tradicionais, como GUIs. Alem disso, quando os usuarios
+cegos se tratam de crianças, a avaliaçao da usabilidade
+deve ser tratada com mais cuidado porque elas ainda
+estao construindo conceitos abstratos e nao percebem
+objetos e atividades das mesma forma que adultos na
+mesma condiçao. No entanto, a literatura pouco tem
+discutido sobre quais aspectos avaliar e como conduzir a
+avaliaçao de usabilidade de jogos multimodais
+envolvendo crianças cegas.
+
+Com o objetivo de fomentar o conhecimento e a pratica
+nessa area e compartilhar nossos achados com a
+comunidade brasileira, o presente artigo resume a pesquisa
+originalmente publicada em, que propoe uma ferramenta
+de observaçao para testes de usabilidade, o Checklist for
+Usability Evaluation of Multimodal Games for Children
+who are Blind (daqui em diante abreviado como CLUE).
+CLUE visa guiar a observaçao de crianças cegas
+interagindo com jogos multimodais, durante estudos de
+campo e testes em laboratorio, ajudando a identificar
+problemas na interface multimodal e na interaçao com
+tais videogames. Sua principal contribuiçao e o suporte
+a analise focada dos elementos da interface multimodal
+durante a interaçao, revelando questoes que podem
+afetar os objetivos de tais videogames para crianças
+cegas.
+
+
+**METODOLOGIA**
+
+A pesquisa exploratoria conduzida para propor CLUE foi
+adaptada das diretrizes de Stufflebeam (2000) para o
+desenvolvimento de checklists de avaliaçao. A
+metodologia consistiu em tres etapas principais: (i)
+Definiçao de Checkpoints; (ii) Categorizaçao de
+Checkpoints; e (iii) Avaliaçao do Checklist. Durante a
+primeira etapa, uma lista de checkpoints foi criada com
+base nos problemas de usabilidade mais comuns na
+interaçao de pessoas cegas com jogos multimodais
+(conforme Standard List of Usability Problems SLUP).
+Na segunda etapa, os checkpoints foram descritos e
+classificados de acordo com as modalidades
+normalmente presentes nesses jogos. 
+
+Finalmente, a
+terceira etapa ocorreu em duas fases principais. Primeiro,
+cinco especialistas analisaram os checkpoints e deram
+feedback por e-mails e entrevistas nao-estruturadas
+sobre a adequaçao e abrangencia dos checkpoints
+candidatos. A segunda fase consistiu em sessoes de
+testes de usabilidade, com o objetivo de obter impressoes
+de potenciais usuarios do checklist, ao envolve-los em
+um teste de campo utilizando o instrumento. Assim,
+quatro avaliadores independentes conduziram sessoes de
+avaliaçao com seis crianças com diagnosticos
+oftalmologicos diferentes (todos legalmente cegos), de 8
+a 14 anos de idade, frequentando de 2 a 7 series em
+escolas para alunos cegos.
+
+CLUE VISAO GERAL
+
+A versao mais recente do CLUE1 contem 40 checkpoints
+agrupados em 4 categorias Gameplay 14 itens Acoustics
+11 itens Haptics 12 itens e Graphics 3 itens Gameplay
+contem itens relacionados a aspectos gerais de usabilidade e
+jogabilidade Acoustics agrega itens relacionados a
+compreensibilidade e adequacao dos multiplos tipos de sons
+utilizados na interface do usuario Haptics contem
+checkpoints relacionados ao uso de tecnicas de interacao
+haptica e dispositivos com feedback tatil que podem afetar
+a interacao do usuario com as entradas e saidas do jogo
+Graphics contem itens relacionados aos aspectos visuais da
+interface do usuario
+Cada categoria contem ainda checkpoints relacionados ao
+sentimento e a satisfacao do usuario em relacao a aspectos
+especificos do jogo modalidades e tipos de feedback
+fornecidos por cada modalidade CLUE pode ser usado de
+forma modular de acordo com o contexto e modalidades do
+jogo pois as categorias sao independentes Por exemplo
+somente se uma pessoa com baixa visao estiver participando
+dos testes os avaliadores utilizarao a categoria Graphics
+Alem disso CLUE sugere um formato para preavaliar a
+severidade dos problemas encontrados bem como apontar
+em que tarefas ocorreram quais problemas de usabilidade.
+
+RESUMO DOS RESULTADOS DO ESTUDO DE CAMPO
+
+O estudo de campo visava engajar especialistas no teste do
+CLUE em um ambiente real para coletar feedback autentico
+o que foi util para refina-lo Utilizando exclusivamente o
+CLUE os avaliadores identificaram 66 dos problemas de
+usabilidade encontrados posteriormente pela analise de video
+da interacao que e mais dispendiosa CLUE identificou mais
+problemas que uma entrevista semiestruturada e um
+questionario posteste especializado principalmente no caso
+de problemas de interacao feedback e satisfacao do usuario
+A pesquisa original 7 discute em maiores detalhes a analise
+de dados e os tipos e subcategorias de problemas de
+usabilidade identificados por cada UEM.
+
+**CONCLUSAO**
+
+CLUE ajuda avaliadores a nao esquecer criterios
+importantes durante a avaliaçao de jogos multimodais
+envolvendo crianças cegas, alem de aumentar a
+objetividade e reprodutibilidade da avaliaçao.
+Encorajamos a comunidade a se unir aos nossos
+esforços, aplicando o CLUE em suas pesquisas e nos
+dando feedback para a evoluçao desse instrumento. Como
+trabalho futuro, CLUE sera testado com adultos cegos e
+expandido para uso em aplicaçoes diversas.
+
+**CONSIDERACOES FINAIS**
+
+O CLUE apresenta-se como uma ferramenta valiosa para a avaliaçao de usabilidade de jogos multimodais para crianças cegas, abordando aspectos especificos dessa interaçao e auxiliando na identificaçao de problemas que podem comprometer a experiencia do usuario. A participaçao de especialistas e usuarios na validaçao do checklist contribuiu para sua robustez e aplicabilidade. Estudos futuros com adultos cegos e a expansao do CLUE para outras aplicaçoes sao passos importantes para a evoluçao dessa ferramenta e para a promoçao de maior acessibilidade e inclusao no desenvolvimento de jogos e outras tecnologias.
+```

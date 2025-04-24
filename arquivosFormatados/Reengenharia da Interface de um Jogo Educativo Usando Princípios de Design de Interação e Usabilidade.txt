@@ -1,0 +1,118 @@
+**RESUMO**
+
+Jogos educativos sao cada vez mais utilizados em salas de aula.
+Entretanto, o desenvolvimento destes jogos nao segue etapas
+basicas requeridas pela industria de games, como os principios de
+Interaçao Humano-Computador (IHC). Este poster apresenta um
+estudo de caso da aplicaçao de principios de design de interaçao e
+usabilidade na reengenharia da interface do jogo ProComunique.
+Inicialmente, foi definido e aplicado um projeto de interface para
+reengenharia do jogo-alvo da pesquisa. Posteriormente, um grupo
+de seis especialistas avaliou a interface desse jogo de acordo com
+a norma ISO/IEC 9126. Espera-se que esta pesquisa possa
+incentivar a utilizaçao de principios de IHC no desenvolvimento
+de jogos educativos, a fim de que estes obtenham exito no apoio
+ao processo de ensino-aprendizagem.
+
+**CONTEXTO E PROBLEMATICA**
+
+Os jogos digitais sao utilizados nas mais diversas areas do
+conhecimento, como por exemplo, Portugues, Matematica,
+Historia e Geografia. Para a construçao de jogos voltados a
+educaçao, faz-se necessaria a utilizaçao de diversas tecnicas de
+desenvolvimento. Dentre essas tecnicas, e importante ressaltar a
+aplicaçao de principios da Interaçao Humano-Computador (IHC),
+para tornar os jogos ferramentas que auxiliem no aprendizado e
+nao dificulte a compreensao dos usuarios finais.
+
+No entanto, os principios de IHC acabam muitas vezes sendo
+negligenciadas, como foi o caso do ProComunique, um jogo
+educativo que permite ao usuario configurar os conteudos que
+deseja utilizar como objeto de aprendizagem, uma vez que, o
+usuario pode cadastrar e gerenciar as categorias (numerais, por
+exemplo) que deseja trabalhar.
+
+Mediante o contexto exposto, este poster apresenta um relato
+da reengenharia do jogo educativo ProComunique a fim de aplicar
+principios de IHC na criaçao da sua interface. A fim de validar
+essa nova interface, um grupo de seis especialistas realizou a
+avaliaçao do sistema, conforme os principios de Usabilidade
+presentes na norma ISO/IEC 9126.
+
+**SOLUCAO PROPOSTA REENGENHARIA DA INTERFACE**
+
+Tela Inicial. Possuia uma mensagem de boas-vindas em
+ingles, sendo que a linguagem padrao e portugues, e uma
+animaçao de um aviao, que chamava a atençao do usuario. A
+leitura do texto de boas-vindas, bem como dos icones no rodape,
+ficou prejudicada pela imagem de fundo, conforme a Figura 1-A.
+
+Para aplicar o principio de Apreensibilidade, foi proposta
+uma nova tela de boas-vindas, conforme mostra a Figura 1-B. Adicionalmente, o uso de icones familiares permite que o usuario
+associe o que ocorrera caso clique em determinada opçao. Um
+exemplo e o uso do icone de casa como analogia a pagina inicial.
+
+Configurar Jogo. Ao clicar em Jogar, o usuario era
+redirecionado para tela de configuraçao. O fundo escolhido para
+essa tela tambem prejudicou sobremaneira o menu apresentado,
+pois o excesso de cores acabou poluindo a aplicaçao e
+comprometendo a legibilidade das opçoes, conforme Figura 2-A.
+
+Foi proposta a reformulaçao do Estilo de Interaçao de Menus,
+que torna a aplicaçao mais simples de ser compreendida, pois os
+itens sao autoexplicativos. Assim, na Figura 2-B, utilizou-se
+botoes a fim de facilitar a navegaçao nas funçoes do aplicativo.
+
+Tela de Perguntas. Na tela de interaçao com os
+usuarios/alunos, o aplicativo exibia no fundo nuvens no topo e
+lapis no rodape, com cores bem vivas. Essas imagens e cores
+acabavam competindo tanto com a pergunta realizada quanto com
+as opçoes de respostas, conforme mostra a Figura 3-A.
+
+Para aplicar o principio de Operacionalidade, padronizou-se a
+cor de fundo, retirando-se a imagem que poderia
+atrapalhar a visualizaçao das opçoes de respostas. Alem disso,
+organizaram-se as informaçoes na tela: no
+canto superior esquerdo, tem-se nome e foto do jogador; a
+categoria a qual a pergunta pertence no canto superior direito; a
+pontuaçao atual do jogador na parte de baixo da tela; no centro, a
+pergunta (desafio) e suas respectivas opçoes de resposta.
+
+**AVALIACAO DA SOLUCAO**
+
+Para avaliaçao do jogo educativo ProComunique, antes da
+reengenharia, ou seja, avaliaçao Pre-Teste, utilizou-se um grupo
+composto por 6 (seis) discentes (com experiencia academica na
+avaliaçao de interfaces) que avaliaram o aplicativo a partir de
+perguntas derivadas dos principios de usabilidade da norma
+ISO/IEC 9126 e 4 opçoes de respostas na escala Likert. A
+avaliaçao, apos seguidos os principios de IHC sugeridas num
+documento de Projeto de Interface, deu-se atraves do mesmo
+questionario e avaliadores estabelecidos para o Pre-Teste.
+
+A partir da analise das medias de pontuaçao para cada
+caracteristica, observa-se que os avaliadores consideraram na
+avaliaçao pre-teste o ProComunique pouco aderente a norma
+ISO/IEC 9126. Em contrapartida, na avaliaçao pos-teste, os
+avaliadores consideraram o game largamente aderente aos
+principios de Usabilidade, conforme apresenta a Figura 4.
+
+**CONSIDERAÇOES FINAIS**
+
+A pesquisa apresentada neste poster, alem de abordar a relaçao
+entre as areas de IHC e jogos educativos, trata de um problema
+real: o nao seguimento de principios de IHC no desenvolvimento
+de jogos educativos. Este estudo de caso busca auxiliar
+desenvolvedores que queiram criar softwares educativos que
+sejam faceis de serem utilizados e agradaveis aos usuarios,
+atendendo assim seus objetivos de aprendizagem.
+
+A partir desta pesquisa, conclui-se que e necessario o
+seguimento desses principios desde a etapa inicial do processo de
+desenvolvimento de software, a fim de apoiar o processo de
+desenvolvimento de jogos educativos e, consequentemente,
+melhorar a experiencia de usuarios que fazem uso destes.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo de caso demonstra a importancia da aplicaçao dos principios de IHC no desenvolvimento de jogos educativos. A reengenharia da interface do ProComunique, baseada nos principios de design de interaçao e usabilidade, resultou em uma avaliaçao positiva por parte dos especialistas, indicando uma melhoria significativa na qualidade do jogo. Estes resultados reforçam a necessidade de integrar os principios de IHC no processo de desenvolvimento de jogos educativos, a fim de melhorar a experiencia do usuario e, consequentemente, maximizar o potencial de aprendizado dos jogos.

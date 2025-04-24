@@ -1,0 +1,77 @@
+**INTRODUCAO**
+
+A Politica Nacional de Irrigaçao foi criada pela Lei 12.787/2013. Um dos instrumentos
+previstos nesta politica e o Sistema Nacional de Informaçoes sobre Irrigaçao (SisNIR).
+Esse sistema deve permitir a coleta, armazenamento e recuperaçao de informaçoes refe-
+rentes a agricultura irrigada, alem de manter o cadastro nacional unico dos agricultores
+irrigantes. Os principais objetivos do SisNIR sao: fornecer subsidios para a elaboraçao de
+planos, programas e açoes de irrigaçao pela Uniao, Estados e Distrito Federal; permitir a
+avaliaçao e a classificaçao dos Projetos Publicos de Irrigaçao; e subsidiar o planejamento
+da expansao da agricultura irrigada.
+
+Como responsavel pela Politica Nacional de Irrigaçao, o Ministerio da Integraçao
+e do Desenvolvimento Regional (MIDR), entre outras iniciativas, estabeleceu com a Uni-
+versidade Federal de Lavras (UFLA) uma parceria para desenvolvimento de soluçoes tecnologicas para construcao do SisNIR. O sistema inclui diversos modulos para gerenciamento e analise de dados, assim como a gestao de dados georreferenciados. A modelagem e a prototipacao desses modulos envolveram muitos desafios. A prototipacao por meio da tecnica do storyboard foi adotada para superar dificuldades de compreensao e envolver
+os usuarios de forma mais efetiva no desenvolvimento do SisNIR. Essa abordagem visual permitiu demonstrar as funcionalidades e interacoes, facilitando a interacao dos usuarios
+e contribuindo para o refinamento do projeto com feedback mais rico.
+
+**PROTOTIPAÇAO E STORYBOARDING**
+
+A fase final do Design Thinking valida ideias geradas na fase de ideaçao por meio da
+criaçao de representaçoes simplificadas do produto, conhecidas como prototipos. Es-
+ses prototipos permitem a exploraçao de conceitos e a visualizaçao das ideias, desem-
+penhando um papel fundamental no processo continuo do design. Uma das princi-
+pais tecnicas de prototipaçao e o storyboard, uma representaçao visual de uma nar-
+rativa por meio de quadros estaticos, geralmente compostos por desenhos, com o ob-
+jetivo de facilitar a visualizaçao sequencial dos eventos de um processo. Segundo
+[Madsen and Aiken 1993], o uso de storyboard no desenvolvimento de software e uma
+maneira de esboçar antecipadamente o futuro sistema, em um esforço para verificar os
+requisitos e ilustrar uma visao orientada por tarefas do sistema proposto para o usuario.
+
+Essa tecnica e util quando as ferramentas de prototipaçao tradicionais sao insu-
+ficientes, pois auxilia na compreensao dos requisitos do sistema e a obter feedback por
+meio de elementos visuais. Sua capacidade de visualizaçao apoia a descoberta, especi-
+almente para usuarios com dificuldade em compreender documentos e modelos tecnicos.
+[Lloyd and Dykes 2011] argumentam que aplicaçoes de visualizaçao com dados geoloca-
+lizados podem apresentar novos desafios, pois sao variadas, complexas e desconhecidas
+para a maioria dos usuarios em potencial. Alem disso, de acordo com [Roth 2021], o de-
+sign cartografico pode ser abordado como uma forma de narrativa visual. Os storymaps
+personalizados permitem que os individuos contribuam com o conteudo de forma linear,
+reduzindo a distinçao entre designers e usuarios e promovendo o pluralismo.
+
+**PROTOTIPAÇAO DAS INTERFACES COM DADOS GEOREFERENCIADOS**
+
+As cenas do storyboard foram concebidas com base em outros sistemas, contudo, o obje-
+tivo primordial consistia em direcionar a atençao para cenas fundamentais que pudessem
+ser aproveitadas no contexto do projeto SisNIR. Essas cenas englobaram funcionalidades
+como: ajuste de zoom, aplicaçao de filtros, demarcaçao de pontos no mapa e geraçao de
+relatorios acompanhados de graficos.
+
+Com base nas funcionalidades estabelecidas, deu-se inicio a etapa inicial do pro-
+cesso de criaçao, que consistiu na seleçao da ferramenta a ser utilizada. Optou-se pelo
+software Figma, uma escolha respaldada por sua gratuidade, ampla gama de funcionali-
+dades e sistema com maior facilidade de aprendizado. O processo de criaçao teve inicio
+com a elaboraçao de uma cena neutra, na qual foi inserida uma imagem do mapa despro-
+vida de qualquer filtro. Tambem foi incluido um menu lateral que exibe todas as opçoes
+de filtros, bem como botoes de zoom. Na segunda cena, adicionou-se o cursor do mouse,
+conferindo uma conexao real e possibilitando a demonstraçao dos caminhos e cliques.
+
+Em uma cena especifica, o cursor do mouse foi posicionado sobre o filtro "Agua",
+e, na cena subsequente, as opcoes referentes aos filtros de agua foram abertas, direcionando o cursor para a opcao "Agua Irrigada". Consequentemente, na cena seguinte, o filtro selecionado foi aplicado, ocasionando demarcacoes no mapa. Assim, todos os processos foram executados no storyboard, estabelecendo uma narrativa visual que engloba a interacao do cursor do mouse e a aplicacao dos filtros no mapa.
+
+Outro exemplo destacavel foi a possibilidade de visualizar e ativar ou desativar os filtros para analise de dados e comparacoes. Em cada cena, o cursor do mouse indicava o percurso a ser seguido. Na primeira cena, o cursor se posicionava sobre a opcao "Aplicacoes de Filtros", e, na cena subsequente, os filtros aplicados eram exibidos, cada um acompanhado por um toggle (interruptor eletronico). Em tres cenas subsequentes, o cursor moveu-se ate o toggle, com ilustracao do filtro desativado, resultando na remocao das marcacoes, e em seguida, o filtro ativado novamente, fazendo com que as marcacoes retornassem, conforme ilustrado na Figura 1. A utilizacao do storyboard se revelou eficiente durante a exposicao do prototipo, permitindo a ilustracao clara e tangivel das interacoes com as diversas camadas presentes no mapa. Durante a apresentacao, o prototipo desempenhou um papel importante ao unificar as ideias dispersas da equipe, que agora puderam ser visualizadas de maneira centralizada. Alem disso, o prototipo deu origem a novas discussoes construtivas para aprimorar ainda mais o projeto.
+
+
+**CONCLUSAO E TRABALHOS FUTUROS**
+
+Com base na analise apresentada, e pertinente ressaltar que a adoçao do storyboard como
+uma abordagem inicial de prototipaçao foi capaz de proporcionar uma representaçao vi-
+sual concisa e acessivel, permitindo aos usuarios obter uma perspectiva mais nitida do
+sistema em fase de desenvolvimento. Alem disso, a utilizaçao do storyboard tambem
+possibilita a coleta de feedbacks, contribuindo para validar as ideias do projeto e promo-
+ver a compreensao das dinamicas e fluxos envolvidos no sistema. Nos proximos passos,
+a proxima versao do sistema tera uma plataforma para apoio a tomada decisao com base
+em dados geolocalizados e disponibilidade de infraestrutura e recursos hidricos.
+
+**CONSIDERACOES FINAIS**
+Este trabalho demonstrou a eficacia do uso do storyboarding como uma ferramenta valiosa na prototipaçao de aplicaçoes geolocalizadas, especialmente em projetos governamentais complexos. A abordagem visual e narrativa do storyboard facilitou a comunicaçao entre os desenvolvedores e os usuarios finais, permitindo uma melhor compreensao das funcionalidades do sistema e a coleta de feedback relevante para o seu aprimoramento.

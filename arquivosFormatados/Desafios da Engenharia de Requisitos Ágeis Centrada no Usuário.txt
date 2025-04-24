@@ -1,0 +1,119 @@
+**RESUMO**
+
+Nos ultimos anos, o interesse em desenvolver pesquisas sobre a
+integraçao de User centered design (UCD) e desenvolvimento de
+software agil vem aumentando, mas por mais que os metodos ageis
+tenham pontos de concordancia com o UCD, tambem existem
+diferenças e essas diferenças ainda sao um desafio em projetos de
+desenvolvimento. Ademais obter um entendimento completo dos
+requisitos do usuario e geralmente visto como incompativel com
+iteraçoes de desenvolvimento rapidas. O objetivo deste artigo e
+identificar os desafios mais importantes na industria e na academia
+referentes a ER agil integrada a UCD.
+
+
+**INTRODUCAO**
+
+O envolvimento dos stakeholders e dos usuarios e um fator critico,
+para que um sistema tenha sucesso . Consequentemente o
+aumento da popularizaçao dos metodos ageis, associado a pressao
+frequente por produtos que promovam uma melhor experiencia de
+uso, esta proporcionando uma troca entre as comunidades de
+interaçao humano-computador (IHC) e de desenvolvimento agil
+. A Engenharia de Requisitos (ER) e um processo fundamental
+para o sucesso dos projetos de software, pois fornece meios para
+descobrir, analisar e atender as necessidades dos usuarios .
+
+Realizar ER agil centrada no usuario pode levar a desafios com
+os quais as organizaçoes precisam lidar. No entanto, ainda ha a
+necessidade de se fornecer uma visao geral dos desafios. O objetivo
+principal deste trabalho e identificar os desafios mais importantes
+na industria e na academia referentes a ER agil integrada a UCD e
+assim construir uma compreensao compartilhada sobre esses
+desafios. A questao de pesquisa que foi colocada e "Quais os
+desafios e limitacoes da engenharia de requisitos adotada em
+projetos ageis integrados com UCD?".
+
+
+**REFERENCIAL TEORICO**
+
+O Design Centrado no Usuario (User Centered Design (UCD), em
+ingles) e uma abordagem que visa envolver os usuarios de maneira
+significativa e apropriada ao longo do desenvolvimento de um
+sistema, e a sua filosofia geral e colocar o usuario no centro do
+processo de design atraves do uso de metodos rigorosos . Ja os
+metodos ageis sao marcados por uma comunicaçao face-a-face,
+pela capacidade de se adaptar as mudanças e por um
+desenvolvimento de software incremental e iterativo . A
+engenharia de requisitos fornece o mecanismo apropriado para
+entender aquilo que o cliente deseja . Portanto, o envolvimento
+das stakeholders e do usuario final durante a ER agil e essencial
+para estabelecer um ambiente colaborativo com ciclos de feedback
+constantes.
+
+Para Caballero, Moreno e Seffah  os beneficios da UCD para
+o desenvolvimento agil de software sao inquestionaveis, logo a
+integraçao das abordagens Ageis e Centradas no usuario nao e
+apenas possivel, como benefica. Porem, e necessario aprofundar o
+conhecimento sobre a ER agil e sua integraçao com UCD para
+fornecer aos profissionais mais detalhes sobre esse processo para
+que possam tomar decisoes fundamentadas nessa direçao.
+
+**METODOLOGIA**
+
+Para conduzir este estudo, uma Revisao Sistematica da Literatura
+(RSL) foi realizada usando como referencia os trabalhos de
+Kitchenham e Charters , de Dias e Silva  e de Falbo .
+
+Para responder a questao da pesquisa deu-se inicio a execuçao
+da estrategia de pesquisa. Foram utilizadas fontes de busca
+automaticas na seleçao dos estudos, sendo elas: ACM, IEEE
+Explore, Scopus, Science Direct e Web of Science. A partir do
+objetivo da pesquisa foram considerados tres grupos de termos,
+para compor as palavras-chave, que sao: Metodos Ageis, Interaçao
+Humano-Computador e Engenharia de Requisitos. A seguir, e
+apresentado o termo de busca derivado: (( agile OR lean ) AND (
+"requirement engineering" OR ("human computer interaction" OR
+"human-centered" OR "user- centered" OR "user experience" OR
+usability))). Na seleçao dos estudos, a fim de aumentar a relevancia
+dos estudos selecionados, foram aplicados os criterios de inclusao
+e de exclusao.
+A selecao dos estudos foi realizada em 6 (seis) etapas (figura
+1). Inicialmente foram identificados 2111 artigos, sendo reduzidos
+para 14 artigos (Figura 1).
+
+Resultado e Discussao
+
+Os resultados da RSL fornecem informacoes importantes para pesquisadores e profissionais. Os resultados agora sao discutidos em relacao a pergunta da pesquisa.
+
+Apos a revisao e refinamentos sucessivos dos dados, foram identificadas categorias e subcategorias e seus respectivos desafios. Esta RSL apontou os desafios das atividades da engenharia de requisitos (ER) em projetos ageis integrados com UCD, tendo como subcategorias de desafios: Levantamento de Requisito, Priorizacao de Requisito, Gestao de Requisitos e Documentacao de Requisitos. Alem dos desafios da ER, este trabalho obteve tambem resultados adicionais, pois foram identificados desafios referentes a outras categorias, como: A colaboracao e cultura (onde as suas subcategorias de desafios identificadas foram: desafio referente a integracao entre individuos da equipe, desafios para integracao entre equipe ageis e de UCD, desafio referente a sobrecarga de trabalho, Luta pelo Poder e desafios referentes ao Processo de Desenvolvimento); O Envolvimento do usuario (as subcategorias de desafios identificadas usuario foram: Expectativa do Usuario e Participacao do Usuario); e Uso de Tecnicas/Praticas (com as seguintes subcategorias de desafios identificadas: Aplicacao das tecnicas e Periodo de Tempo para a utilizacao de tecnica/pratoca).
+
+Atraves desta revisao sistematica, notou-se que as estrategias para levantar requisitos em projetos que abordam a integracao do IHC e do Agil mais utilizadas foram: User Story (8 ocorrencias), Personas (7 ocorrencias), Usability Test (5 ocorrencias), Sprint Zero (5 ocorrencias) e Prototyping/Prototype (11 ocorrencias). Sendo tambem identificados alguns desafios presentes no uso dessas tecnicas/praticas. Desta forma, o estudo indicou que a maioria dos desafios sao decorrentes de problemas envolvendo a Colaboracao e Cultura, a Engenheira de Requisito, mais especificamente na etapa de Levantamento de Requisitos, o Envolvimento do Usuario, e o Uso de Tecnicas/Praticas. O estudo tambem indicou que algumas das tecnicas/praticas, por exemplo, User Story e Prototyping/Prototype, usados para elicitar requisitos podem reforcar alguns desafios enfrentados na ER, como e o caso da negligencia de RNF.
+
+**CONCLUSAO E TRABALHOS FUTUROS**
+
+Com os desafios levantados neste trabalho, pode-se perceber uma
+dificuldade inerente as organizaçoes referente ao incentivo a
+colaboraçao entre as equipes de UCD e Ageis. Por mais que o
+desenvolvimento hibrido torne o desenvolvimento mais centrado
+no usuario, ainda temos problemas com o envolvimento do usuario
+e do cliente, principalmente com a inclusao do usuario final no
+processo, e ainda existe a dificuldade em como utilizar o
+conhecimento adquirido atraves das tecnicas na elicitaçao dos
+requisitos. Diante do exposto, pode-se concluir que por mais que os
+metodos ageis possam ser combinados com UCD, e essa integraçao
+seja benefica e facilite o envolvimento do usuario no processo,
+ainda nao esta claro como incorporar de forma eficiente o usuario
+e as praticas de UCD no ciclo de vida de desenvolvimento de
+software agil, principalmente na ER agil. Como topicos de
+pesquisas futuras, e sugerido identificar formas de melhorar as
+praticas de comunicaçao e que permitam colaboraçao mais proxima
+entre profissionais de IHC, praticantes ageis, usuarios finais e
+cliente. Sugere-se ainda a realizaçao de estudos de caso para melhor
+entender como ocorre a integraçao de IHC com ER agil no
+ambiente real e verificar como a cultura da empresa pode
+influenciar o processo de desenvolvimento.
+
+**CONSIDERACOES FINAIS**
+
+Este estudo identificou desafios relevantes na integraçao da Engenharia de Requisitos (ER) agil com o Design Centrado no Usuario (UCD), destacando a necessidade de maior colaboraçao entre equipes e de um maior envolvimento do usuario durante todo o processo de desenvolvimento. Os resultados sugerem que, apesar dos beneficios da abordagem hibrida, ainda e preciso aprimorar as praticas de comunicaçao e encontrar formas mais eficazes de incorporar o usuario final nas atividades de ER, a fim de garantir o desenvolvimento de softwares que atendam plenamente as suas necessidades.

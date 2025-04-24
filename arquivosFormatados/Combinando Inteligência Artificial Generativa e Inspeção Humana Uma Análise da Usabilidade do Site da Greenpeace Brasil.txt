@@ -1,0 +1,107 @@
+
+A usabilidade de um site e um fator determinante para o sucesso de qualquer
+organizaçao, especialmente aquelas que dependem fortemente da participaçao e
+do apoio do publico, como a Greenpeace, uma das maiores e mais conhecidas
+organizaçoes ambientais do mundo. A usabilidade envolve diversos aspectos,
+incluindo a facilidade de navegaçao, a clareza das informaçoes apresentadas
+e a eficiencia dos processos internos, como formularios de doaçao e inscriçao em
+campanhas. O presente trabalho apresenta uma analise do site da Greenpeace,
+empregando duas abordagens distintas para fornecer uma visao holistica da
+usabilidade do site: inteligencias artificiais generativas e inspeçao humana.
+
+
+**INTRODUCAO**
+
+A usabilidade refere-se a medida em que um produto pode ser usado por usuarios
+especificos para alcançar objetivos desejados com eficacia, eficiencia e satisfaçao
+em um determinado contexto de uso . Em um site, este atributo e um fator critico
+para garantir que os usuarios possam navegar e encontrar informaçoes de forma
+eficiente e agradavel. A ISO 9241-210 fornece uma estrutura para avaliar e
+melhorar a usabilidade de sistemas interativos, incluindo websites .
+
+O site da Greenpeace Brasil e um meio de comunicaçao essencial para a
+organizaçao, utilizado para informar o publico sobre questoes ambientais,
+promover campanhas e incentivar a participaçao em açoes e doações. Para
+garantir que um site seja acessivel e facil de usar, e essencial adotar praticas
+de usabilidade e seguir diretrizes reconhecidas internacionalmente, como a ISO
+9241-210. A clareza e a simplicidade devem ser priorizadas, com uma interface
+intuitiva que permita uma navegaçao clara e consistente, facilitando a localizaçao
+das informaçoes. Garantir que essas necessidades sejam atendidas nao so melhora
+a experiencia do usuario, mas tambem amplia o alcance das campanhas da
+Greenpeace.
+
+
+**METODOLOGIA**
+
+Esta pesquisa visa realizar uma analise da usabilidade do site da Greenpeace
+Brasil, escolhido como objeto de estudo devido a sua relevancia como uma
+plataforma de engajamento sobre questoes ambientais como a atual crise
+climatica, e comparar os resultados obtidos por meio de dois metodos: (i) testes
+utilizando duas Inteligencias Artificiais Generativas (IAG's) ChatGPT, na versao
+3.5, e Gemini, na versao 1.5; e (ii) inspeçao humana por meio de analise de
+especialista, meio que envolve uma avaliaçao sistematica de um design, baseada
+em principios de usabilidade, como controle e liberdade do usuario, consistencia
+e padronizaçao, eficiencia e flexibilidade e linguagem clara . A avaliaçao foi
+realizada no periodo de 04 a 20/07/2024 e ambos os metodos seguem uma analise
+de acordo com os principios estabelecidos pela ISO 9241-210, norma
+internacional que fornece uma estrutura para o design centrado no ser humano de
+sistemas interativos.
+
+A escolha de utilizar dois metodos distintos para a avaliaçao do site e motivada
+por tres razoes principais: (i) vantagens distintas de cada mecanismo e (ii)
+verificar se as duas abordagens sao capazes de detectar os mesmos problemas (ou
+similares) e pontos positivos; (iii) comparar empiricamente as IAG's com a
+inspeçao humana feita por um especialista. As IAG's avaliam dados de forma
+rapida e automatizada, por outro lado, uma observaçao feita por um especialista
+engloba aspectos humanos que afetam na experiencia de uso, como fatores
+sociais, culturais e emocionais , oferecendo, por vezes, mais profundidade
+nos resultados.
+
+As IAG's receberam o comando Faça uma analise da usabilidade do site
+https://www.greenpeace.org/brasil/ conforme os requisitos da ISO 9241-210. A
+estrutura do prompt de entrada foi construida de modo a especificar a analise do
+site quanto a usabilidade seguindo as imposições da ISO 9241-210.
+
+Resultados
+Como resultado, a primeira avaliacao, feita pelo ChatGPT, apontou que o site apresenta um design atrativo e identidade visual alinhada com o tema da Greenpeace, boa organizacao de conteudo em secoes claras, ausencia de problemas de carregamento e, alem de analisar a usabilidade como descrito no prompt, avaliou a questao da acessibilidade, pratica fundamental para tornar o conteudo da web utilizavel por todos, independentemente de suas habilidades ou deficiencias Ara 2024. Nesse quesito, o ChatGPT apontou a compatibilidade com leitores de tela para pessoas com deficiencia visual (Figura 1), em contrapartida, destacou pontos negativos como organizacao complexa de informacoes em paginas mais profundas e falta de legendas em videos.
+A segunda analise, feita pelo Gemini, mostrou que o portal tem uma navegacao clara, tempo de carregamento satisfatorio e comunicacao eficaz da missao da Greenpeace. Porem, tambem evidenciou a falta de acessibilidade na ausencia de descricao de imagens para pessoas com deficiencia visual.
+Sobre a inspecao humana, feita por um especialista, destaca-se o bom tempo de carregamento das paginas, formularios para doacoes faceis de preencher, navegacao intuitiva, design simples e consistente e textos claros e informativos sobre a organizacao. Porem, algumas secoes possuem inconsistencias no layout e excesso de informacoes (Figura 2).
+Os achados de cada metodo de avaliacao foram organizados e comparados segundo os criterios de Adequacao a Tarefa, Adequacao a Individualizacao, Conformidade com Expectativas do Usuario e Controlabilidade. Esses criterios foram selecionados a partir da ISO 9241-210 e os resultados foram consolidados na Figura 3.
+
+**CONCLUSAO**
+
+Este artigo visa apresentar uma analise de usabilidade do site da Greenpeace,
+empregando duas abordagens distintas, sendo que as analises revelaram diversos
+pontos positivos e pontos que necessitam de melhorias para garantir uma
+experiencia de usuario inclusiva e eficiente.
+
+Sobre os objetivos alcançados, as (i) vantagens distintas de cada mecanismo,
+pode-se dizer que apesar das IAG's tornarem o processo mais agil, entretanto,
+nao tem tanta precisao quanto a inspeçao humana; sobre (ii) verificar se as duas
+abordagens sao capazes de detectar os mesmos problemas (ou similares) e pontos
+positivos, e possivel afirmar que o ChatGPT fez uma analise de aspectos muito
+gerais, enquanto o Gemini foi um pouco mais detalhista, nao chegando ao nivel
+de detalhamento da inspeçao humana. Alem disso, as duas IAG's abordaram a
+questao da acessibilidade no site, apesar do prompt enviado para a analise ter
+como objetivo avaliar exclusivamente a usabilidade. Essa situaçao destacou a
+importancia de direcionar claramente as IAGs para garantir que a analise
+permaneça dentro do escopo desejado; sobre a (iii) a comparação empirica entre
+as formas aplicadas no estudo, e possivel dizer que a combinação de ambas formas
+e o mais interessante, visando tornar o processo mais completo e detalhado,
+tomando cuidado pois as IAG's trouxeram respostas conflitantes ao que foi
+perguntado, assim, usuarios sem o entendimento dos conceitos corretos, poderiam
+confundir usabilidade e acessibilidade;
+
+De forma geral, as avaliações realizadas por IAG's, bem como a inspeçao
+humana, mostraram em seus resultados que o site da Greenpeace possui um design
+atrativo, boa organização de conteudo na maioria das paginas. Alem disso, o
+estudo mostra que as IAG's ainda precisam de uma maior precisao para analisar
+aspectos mais subjetivos sobre usabilidade.
+
+Para trabalhos futuros, espera-se realizar outras avaliacoes de sites ou aplicativos
+moveis aplicando inteligencia artificial generativa e inspecao humana, a fim de destacar
+pontos negativos e positivos. Tais estudos permitem a identificacao de problemas atuais
+de usabilidade, como tambem contribuem para o desenvolvimento de interfaces digitais
+mais acessiveis e agradaveis para os usuarios. Alem disso, outras plataformas inteligentes
+serao utilizadas, bem como outros requisitos de usabilidade serao avaliados.
+

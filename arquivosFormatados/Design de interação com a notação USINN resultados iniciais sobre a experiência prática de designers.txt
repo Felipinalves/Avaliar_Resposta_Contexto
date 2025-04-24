@@ -1,0 +1,115 @@
+**INTRODUCAO**
+
+Modelos podem ser adotados pelo time para representar diferentes perspectivas do soft-
+ware e apoiar a comunicaçao . E importante que os modelos permitam
+representar aspectos e elementos que impactem na qualidade do produto. O uso de mode-
+los de interaçao permite representar a interaçao do usuario com o sistema, com foco nos
+objetivos do usuario ao utilizar o sistema .
+
+Prototipos de interface podem ser desenvolvidos com base em modelos de
+interaçao . Uma das maneiras de melhorar a qualidade das
+interfaces de usuario e mudar o foco do design de interface para o design de interaçao,
+uma vez que a interface e o meio pelo qual a interaçao entre o usuario e o sistema ocorre.
+
+A notaçao USINN (USability-oriented INteraction and Navigation model) e desti-
+nada a modelagem de interaçao do usuario com o software, possibilitando melhora signifi-
+cativa no entendimento do projeto e na qualidade da prototipaçao .
+
+O diferencial do USINN em relacao a outras notacoes da area de IHC e que possui elementos que visam representar mecanismos de usabilidade que impactam na interacao do 
+usuario com o sistema, como cancelar e desfazer acoes, obter feedback sobre o progresso 
+de operacoes, entrada de texto estruturada [Marques et al. 2018a]. Estudos anteriores indicaram a viabilidade de adotar a notacao USINN em conjunto com praticas ageis na industria [Marques et al. 2018b], o que encoraja sua adocao em projetos de desenvolvimento de software. Contudo, nao foram exploradas as caracterısticas da notacao que auxiliam no processo de design e desenvolvimento de um sistema interativo do ponto de
+vista do time que realiza atividades de modelagem e prototipacao com base no modelo. 
+Este artigo apresenta os resultados iniciais de um estudo que investiga a experiencia de designers adotando a notacao USINN na construcao de um sistema interativo. 
+Os resultados contribuem com evidencias sobre o uso da notacao na pratica e abre novas 
+perspectivas para pesquisas futuras sobre a notacao. O artigo explora a experiencia de tres
+designers, realizando atividades de modelagem de interacao e prototipacao.
+
+**USO DO MODELO USINN NO PROJETO**
+
+A notaçao USINN esta sendo adotada em um projeto de desenvolvimento tecnologico
+conduzido em ambiente academico. O objetivo do projeto e desenvolver uma ferramenta
+de modelagem para a plataforma web. Durante a experiencia relatada neste artigo, o time
+era composto por cinco pessoas. Todas participaram da criaçao de protopersonas, levanta-
+mento das funcionalidades da ferramenta e escrita dos requisitos. Nas etapas posteriores,
+tres atuaram como designers e duas como desenvolvedoras.
+
+Para que o processo de design fosse iniciado, os artefatos previamente elaborados
+pelo time sobre o escopo, funcionalidades e usuarios da ferramenta foram organizados. Os
+artefatos utilizados foram seis protopersonas, 20 historias de usuario (user stories - US)
+e mecanismos de usabilidade a serem atendidos por cada US. Estas informaçoes foram
+necessarias para melhor proveito da notaçao USINN, que dispoe de elementos especificos
+para representar mecanismos de usabilidade.
+
+Para orientar o time no processo de design e uso da notaçao, foi elaborado um
+processo de design (Fig. 1). As US foram priorizadas para que pudessem ser selecionadas
+para os ciclos de design a serem conduzidos. O time conduzia ciclos de design com
+duraçao de um mes, durante o qual um conjunto de US eram projetadas.
+
+As US selecionadas tiveram seu diagrama USINN elaborado e posteriormente va-
+lidados. Caso algum erro ou melhoria fossem identificados no diagrama, o mesmo voltava
+para a etapa anterior e o processo se repetia ate ser considerado correto pelo time. Com os diagramas devidamente validados, iniciava-se a prototipacao de alta fidelidade de acordo com os diagramas, que por fim, seria apresentado e validado com o time. Caso alguma
+melhoria ou erro no prototipo fosse identificado, o prototipo voltava para a etapa anterior e todo o processo se repetia. O processo acabou quando todas as US tiveram seu
+design concluıdo. Durante os ciclos de design, as desenvolvedoras iniciaram o desenvolvimento de US e com base nos artefatos de design. Os artefatos estao disponıveis em
+https://bit.ly/usinn-diagramas.
+
+
+**PERCEPÇAO DO TIME**
+
+O uso da USINN no desenvolvimento de software pode auxiliar em varias etapas de
+percepçao e construçao do sistema. Nesta seçao, sera explorado diferentes formas de
+uso da notaçao.
+
+A percepçao de dois designers que criaram os modelos de interaçao da ferramenta utili-
+zando a notaçao USINN foi coletada por meio das seguintes questoes: Voce acredita que
+conseguiu atingir seu objetivo de modelagem Voce sentiu de alguma forma contribuiu
+para a evoluçao do trabalho do time?
+
+Em relaçao a eficacia na modelagem, P1 mencionou que "Em alguns casos senti
+que o objetivo foi concluido em outros casos eu me senti perdido e nao consegui identi-
+ficar se realmente o meu objetivo foi atingido ou entao nao sabia como proceder”. P2
+mencionou que "Eu acredito que sim, a notaçao no inicio e bem complicada de enten-
+der. Como e que funciona o diagrama como um todo. Mas com o tempo que a gente vai
+utilizando a gente consegue chegar no objetivo”.
+
+Sobre a contribuiçao dos diagramas USINN para o trabalho do time, P1 comenta
+que "Acredito que sim, porque se e usado para identificar a interaçao e navegaçao do
+sistema e se o prototipo estava tendo as interaçoes e navegaçoes direitinho, entao foi
+usado corretamente”. P2 comenta que "As vezes voce sente que aprendeu algo novo com
+as correçoes que eram feitas pelo time, mas poderia ser melhor. Tinha coisa que eu nao
+sabia que era mais facil ou que havia uma forma melhor de representar no diagrama”.
+
+No uso da notaçao durante a modelagem, os designers demonstram insegurança
+em relaçao ao seu resultado, talvez devido a pouca experiencia com a notaçao e a falta de
+materiais de apoio para auxiliar na modelagem. A criaçao de recursos educacionais para
+ensino da notaçao pode auxiliar neste sentido.
+
+A prototipaçao foi realizada pelo primeiro autor deste artigo. Por isso, nao serao utiliza-
+das citaçoes para explorar esta percepçao. Por existir uma documentaçao robusta e pela
+facilitaçao dos modelos gerados pelo metodo foi escolhido para o projeto a prototipaçao
+de alta fidelidade e como ferramenta o Figma. As atividades dessa etapa eram entender o
+modelo USINN alinhando seus objetivos as funcionalidades, criando prototipos coerentes
+ao planejado e mostrar para o time esses prototipos.
+
+Inicialmente, sem o uso dos diagramas USINN, havia duvida de como adotar um
+item de notificaçao ao usuario ou de como se daria o contato do individuo com a ferra-
+menta para questoes de login, cadastro e nas funcionalidades da tela de modelagem. O que sugeria uma solucao baseada em empirismo ou ideacao olhando sistemas similares, atividades que aumentam o tempo de prototipacao e correm o risco de se distanciar das especificidades do projeto.
+Com a adocao dos diagramas USINN, as questoes de usabilidade ficaram mais evidentes. As telas prototipadas tinham objetivos mais esclarecidos e um indicativo de itens
+que precisariam estar presentes para garantir uma maior qualidade do software. Alem
+de facilitar uma comunicacao com o time, ja que os modelos ficavam disponıveis e os
+prototipos eram assim melhores entendidos. 
+As dificuldades residiam na aprendizagem inicial da notac¸ao que foram solucionados com acesso a documentacao explicativa e esclarecimento do orientador. Juntamente, tem-se uma linguagem similar a padroes de outras notacoes ficando mais facil a adesao e entendimento.
+
+**CONCLUSAO**
+
+Este artigo explora a experiencia pratica de designers com o uso da notaçao USINN em
+um projeto de desenvolvimento tecnologico. A adoçao de tecnologias e metodos tem
+relaçao com a sua aceitaçao pelo time. Assim, e importante considerar a experiencia
+pratica do time para evoluir as tecnologias e promover uma maior aceitaçao na industria.
+Os resultados obtidos, embora iniciais, indicam a necessidade de recursos educacionais
+sobre a notaçao que possam fornecer maior segurança aos profissionais que decidem
+adota-la em seus projetos. A evoluçao de ferramentas de apoio tambem pode auxiliar
+na criaçao de artefatos de design com o USINN.
+
+**CONSIDERACOES FINAIS**
+
+A adoçao da notacao USINN, embora desafiadora inicialmente, demonstrou ser promissora para o design de sistemas interativos. A melhora na comunicaçao entre os membros da equipe e a facilidade na identificacao de requisitos de usabilidade sao pontos fortes que incentivam o uso da notaçao em projetos futuros. A criaçao de mais materiais de apoio e treinamento pode facilitar a adoçao da USINN por mais equipes, permitindo que seus beneficios sejam amplamente explorados.

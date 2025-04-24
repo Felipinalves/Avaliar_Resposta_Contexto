@@ -1,0 +1,90 @@
+**INTRODUCAO**
+
+A Realidade Virtual (RV), enquanto ambiente artificial que e experienciado atraves de
+estimulos sensoriais fornecidos por um computador e no qual as açoes de alguem determi-
+nam parcialmente o que acontece , tem passado por um renascimento nos ultimos anos.
+A comercializaçao de dispositivos imersivos de preço acessivel, os amplos investimentos
+em metaverso e a intensificaçao de teletrabalho estao entre os fatores que impulsionam a
+criaçao de novos ambientes de RV para pesquisa, lazer, trabalho etc.
+
+Tendo em vista que uma parte fundamental do desenvolvimento de sistemas in-
+terativos e a avaliaçao de Interaçao Humano-Computador (IHC) ,
+a RV exige a consideraçao de aspectos particulares que extrapolam a qualidade em uso
+como, por exemplo, a sensaçao de presença e VR sickness. Essa perspectiva mais ampla
+nos leva a noçao de Experiencia de Usuario (UX, do ingles User eXperience) que engloba
+todas as percepçoes e respostas do usuario que resultam do uso ou da expectativa de uso
+de um produto .
+
+Quantitativamente, a UX pode ser estimada por meio de questionarios e medi-
+das psicofisiologicas . Embora o debate
+sobre abordagens quantitativas e qualitativas seja intenso  e sua escolha de-
+penda dos objetivos e do contexto da avaliaçao , questionarios sao
+amplamente usados . Nesse sentido, fatores que fa-
+vorecem o uso de questionarios sao a maior dificuldade de analise de medidas quali-
+tativas , a necessidade de treinamento e experiencia por parte
+de entrevistadores e observadores , a imprecisao de medidas psi-
+cofisiologicas isoladas  e a possibilidade de avaliaçao da quali-
+dade psicometrica dos questionarios do ponto de vista de validade, fidedignidade e sen-
+sibilidade . Esse ultimo fator e particularmente determinante na
+criaçao de questionarios padronizados, ou seja, instrumentos projetados para uso recor-
+rente, com itens em ordem e formato especificos, incluindo instruçoes para aplicaçao e
+interpretaçao de resultados .
+
+Embora questionarios sejam uma ferramenta adequada para muitos cenarios de
+avaliaçao de UX, e possivel identificar tres problemas para profissionais e pesquisadores
+brasileiros que queiram utiliza-los na avaliaçao de aplicaçoes em RV a menor precisao
+nos resultados obtidos por meio de questionarios ad hoc ,
+a falta de questionarios padronizados de avaliaçao traduzidos para portugues brasileiro e
+adequadamente validados  e as fragilidades dos questionarios
+padronizados existentes para avaliar UX no contexto de RV de uma forma holistica (tema
+discutido na seçao 2).
+
+Dessa forma, o objetivo desse trabalho e desenvolver um questionario padronizado
+em portugues brasileiro para avaliaçao de Experiencia de Usuario em Realidade Virtual
+imersiva com base na Teoria Classica dos Testes.
+
+Trabalhos Relacionados
+Diversos questionarios padronizados utilizados nos processos de avaliacao ja foram mapeados na literatura cientifica de IHC e RV. Dentre os esforcos para identificacao de metodos e ferramentas para avaliacao de UX em um contexto geral destacam-se mapeamentos e revisoes sistematicas da area [Vermeeren et al. 2010, Rivero and Conte 2017, Pettersson et al. 2018]. No contexto de avaliacao de UX especificamente para ambientes de RV, destacam-se revisoes de UX em uma perspectiva holistica [Kim et al. 2020] e revisoes de componentes especificos de RV [Chang et al. 2020, Grassini and Laumann 2020].
+
+Considerando que a UX e composta por inumeros aspectos determinados pelo contexto [Schrepp and Thomaschewski 2019], o uso de questionarios padronizados de UX generica para avaliar experiencias em RV frequentemente e insuficiente. Questionarios como, por exemplo, o AttrakDiff [Hassenzahl et al. 2003] e o User Experience Questionnaire (UEQ) [Schrepp et al. 2017] sao bastante utilizados, contudo a interpretacao de resultados que os utilizem e limitada quando consideramos que nao abordam explicitamente fatores importantes da experiencia em RV. Nesses casos, assume-se que a influencia de componentes especificos de RV nos resultados e irrelevante ou que os componentes especificos de RV (nao medidos) tem correlacao significativa com outros componentes (medidos). Tendo em vista que nao ha consenso sobre as relacoes entre componentes de UX em RV [Cheng et al. 2014, Tcha-Tokey et al. 2018] e que a UX em diferentes tipos de software dependem de aspectos distintos [Schrepp and Thomaschewski 2019], qualquer um dos pressupostos pode gerar erros na interpretacao dos resultados.
+Outra abordagem comum na avaliacao de UX em RV e o uso de multiplos questionarios padronizados no processo de avaliacao, embora isso possa levar a outros problemas causados por formatos de item diferentes e incertezas sobre como um escore total de UX poderia ser calculado a partir de escores parciais [Schrepp and Thomaschewski 2019].
+Poucos questionarios padronizados para avaliacao de UX em RV foram identificados ao longo do desenvolvimento desse trabalho, sendo os mais abrangentes o Virtual Experience Test (VET) [Chertoff et al. 2010], o User Experience in Immersive Virtual Environments questionnaire (UXIVE) [Tcha-Tokey et al. 2016] e um questionario sem nome especifico [Cheng et al. 2014]. Contudo, ha algumas fragilidades nos processos de construcao e validacao desses instrumentos que incluem a falta de evidencias de validade no questionario UXIVE, a falta de estimativas de fidedignidade no VET, o uso de coeficientes de fidedignidade controversos no UXIVE, a investigacao de dimensionalidade por meio de tecnicas pouco adequadas (Analise de Componentes Principais) no VET e no questionario de Cheng et al., e a ausencia de instrucoes para calcular os escores no UXIVE e no questionario de Cheng et al.
+Ha ainda propostas de questionarios padronizados para avaliar UX em contextos especificos (e.g., reabilitacao, tecnicas de locomocao etc.), contudo eles nao serao discutidos por serem desenvolvidos a partir de modelos particulares de UX e por incluirem componentes que nao se aplicam a maioria dos cenarios de RV.
+Finalmente, cabe destacar que a quantidade de instrumentos de avaliacao de UX ou de seus componentes em portugues e bastante pequena [Melo and Darin 2019], tendo em vista que processos sistematicos de traducao e adaptacao precisam ser acompanhados de novas evidencias de validade e estimativas de fidedignidade que demonstrem que as propriedades do instrumento nao foram modificadas [AERA et al. 2014].
+
+Materiais e Metodos
+A Figura 1 apresenta uma visao geral desse estudo, dividida em atividades executadas em duas fases: antes e depois da defesa da proposta de tese. Essa pesquisa se caracteriza como um estudo correlacional, quantitativo e experimental [Sampieri et al. 2013].
+
+As pesquisas preliminares, a identificacao de modelos teoricos de UX e a identificacao de componentes de UX em RV ocorreram de forma exploratoria a partir de artigos de referencia [Blythe et al. 2007, Chertoff et al. 2010, Cheng et al. 2014, Tcha-Tokey et al. 2016, Tcha-Tokey et al. 2018, Minge et al. 2017] e revisoes sobre o tema [Vermeeren et al. 2010, Rivero and Conte 2017, Pettersson et al. 2018, Kim et al. 2020, Chang et al. 2020, Grassini and Laumann 2020].
+O modelo teorico proposto e uma adaptacao do modelo Components of User Experience (CUE) para UX [Mahlke 2008]. A Figura 2 apresenta o modelo (ainda nao confirmado) que introduz elementos de VR sickness e presenca. Mudancas adicionais incluem a reestruturacao de subfatores e a simplificacao de dimensoes. As adaptacoes foram fundamentadas em modelos de UX para RV e estudos sobre relacoes entre componentes da experiencia em RV.
+
+Um mapeamento sistematico de questionarios validados para avaliacao de UX em ambientes de RV envolveu cinco pesquisadores e a revisao das caracteristicas desses questionarios (dimensoes, formato dos itens, evidencias de validade e estimativas de fidedignidade, ambiente de RV nos experimentos etc.) guiou a investigacao e as decisoes metodologicas para a criacao de nosso questionario.
+Decisoes importantes sobre a abordagem psicometrica incluem: (a) fundamentacao clara do questionario na Teoria Classica dos Testes (TCT) [AERA et al. 2014, Hutz et al. 2015], (b) investigacao de validade em uma perspectiva de diferentes fontes de evidencia [AERA et al. 2014, Hutz et al. 2015], (c) adocao de estimativas de fidedignidade para um modelo estimado como multidimensional e congenerico [Cho 2016] e (d) estimativa do tamanho da amostra que considere aspectos dos modelos de medicao e estrutural [Knekta et al. 2018].
+A criacao do questionario parte de uma analise de conteudo dos principais instrumentos utilizados para avaliar UX (ou seus sub componentes) em RV. A escolha dos instrumentos se baseou no mapeamento realizado e nas revisoes de outros autores. Alem de serem incluidos os questionarios que avaliam UX em uma perspectiva holistica em RV, a analise de conteudo contem instrumentos de avaliacao populares e amplamente usados em experimentos de RV nas perspectivas de presenca, VR sickness, usabilidade, emocao/afeto, estetica visual, carga fisica e cognitiva, aceitacao e uso de tecnologia, motivacao e engajamento. A redacao dos itens preliminares segue as recomendacoes de Hutz, Bandeira e Trentini [Hutz et al. 2015].
+O questionario criado e composto por itens no estilo Likert: uma faixa de resposta simetrica, etiquetada e numerada na qual o usuario indica sua concordancia com uma afirmacao. A faixa de resposta contem 7 pontos para viabilizar etiquetas coerentes e nao ambiguas, sendo tambem equilibrada em relacao a facilidade de uso e a expressividade e possuindo caracteristicas psicometricas levemente melhores que faixas com menos pontos [Preston and Colman 2000].
+A avaliacao de juizes tem objetivo de identificar problemas de qualidade e pertinencia dos itens para medir aquela dimensao [Hutz et al. 2015]. A analise qualitativa das respostas, em vez de apenas um calculo de coeficiente de concordancia, permite o refinamento de itens com base nos comentarios dos juizes.
+Um experimento piloto e usado no lugar de grupos focais [Hutz et al. 2015], uma vez que entender as questoes do questionario depende do uso de RV (i.e., alguem que nunca experimentou RV pode nao entender efetivamente o que significa 'conseguir interagir com as coisas como se fossem reais'). Esses participantes, depois de utilizar aplicativos diferentes em RV imersiva por meio de um oculos de RV e responder o questionario apos cada uso, sao inquiridos sobre a clareza de cada item. O feedback desses participantes permite ajustes mais finos no questionario. Os aplicativos incluem um ambiente tutorial ludico, um jogo de ritmo e um aplicativo de pintura.
+O experimento principal e praticamente identico ao experimento piloto, embora nenhum feedback sobre a qualidade do questionario seja coletado. Alem disso, questionarios adicionais [de Carvalho et al. 2011, Martins et al. 2015, Silva et al. 2016] sao respondidos por cada participante. Os questionarios sao impressos, pois sao mais flexiveis para replicacao dos formatos originais. A tecnica latin squares e usada para que os participantes utilizem aplicativos e respondam questionarios em diferentes ordens.
+A analise da qualidade psicometrica se concentra em estimativas de fidedignidade congenerica (coeficientes omega hierarquico e total) e evidencias de validade baseadas no conteudo do teste (argumentacao sobre itens baseada em modelos teoricos e questionarios existes, avaliacao por juizes, avaliacao em estudo piloto), na estrutura interna (analises fatoriais, correlacao intraclasse, correlacao item-total, analise de invariancia da medida) e em relacoes com outras variaveis (correlacao entre dimensoes do questionario e outros questionarios existentes).
+A analise do modelo de medicao e feita atraves de Analise Fatorial Confirmatoria (AFC) [Knekta et al. 2018] e a comparacao de modelos com diferentes organizacoes (multifator, fator de segunda ordem e bifator) e realizada por meio de indices de adequacao absolutos e incrementais. No caso da obtencao de indices de baixa qualidade em todos os modelos e sem uma explicacao clara, uma Analise Fatorial Exploratoria (AFE) [Knekta et al. 2018] e utilizada para identificar o modelo de medicao mais adequado para os dados. A quantidade de fatores no modelo e determinada pela analise do grafico de escarpa (scree plot) dos eigenvalues e pela analise paralela de Horn.
+Duas analises de invariancia da medida sao consideradas: uma relacionada aos aplicativos usados e outra relacionada a experiencia dos participantes com ambientes de RV. Finalmente, a investigacao sobre o modelo estrutural e realizada atraves de analise de caminhos (path analysis).
+Um protocolo de biosseguranca relacionado a Covid-19 foi adotado, assim como um processo de triagem que visa identificar condicoes que possam colocar os participantes em risco pela utilizacao de RV. Esse estudo foi autorizado pelo Comite de Etica em Pesquisa da Universidade Federal do Rio Grande do Sul por meio da Plataforma Brasil sob numero 53245721.1.0000.5347.
+
+**CONSIDERACOES FINAIS**
+
+Atualmente, essa pesquisa encontra-se na fase de Fundamentaçao e Planejamento (Figura
+1) e as atividades concluidas sao pesquisas preliminares, identificaçao de modelos e
+componentes de UX, criaçao de modelo teorico, mapeamento de questionarios e revisao
+de suas caracteristicas, definiçao de tecnicas psicometricas, analise de conteudo, criaçao
+do questionario e avaliaçao de juizes.
+
+A principal contribuiçao desse trabalho para desenvolvedores de aplicaçoes em
+RV no Brasil e o questionario padronizado que permite uma estimaçao da experiencia
+subjetiva dos usuarios dessas aplicaçoes. Adicionalmente, espera-se oferecer para pes-
+quisadores brasileiros um modelo teorico de UX em RV que viabilize novas investigaçoes
+(incluindo a extensao do questionario desenvolvido) e, tambem, descrever um processo
+detalhado de criaçao e avaliaçao psicometrica de um questionario padronizado.
+
+**CONSIDERACOES FINAIS**
+
+Em suma, este trabalho propoe o desenvolvimento de um questionario padronizado em portugues brasileiro para avaliaçao de Experiencia do Usuario em Realidade Virtual imersiva, visando aprimorar a precisao e a consistencia das avaliaçoes nesse contexto. Espera-se que este esforço contribua para o avanço da pesquisa e o aprimoramento do design de aplicaçoes de RV no Brasil.

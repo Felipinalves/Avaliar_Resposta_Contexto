@@ -1,0 +1,216 @@
+**INTRODUCAO**
+
+Jogos eletronicos sao uma experiencia altamente interativa.
+Ser interativo significa que o sistema de computador deve
+processar uma serie de entradas enviadas pelo jogador
+(inputs), fornecendo-lhes, como resposta, as saidas que
+estes jogadores precisam decodificar para avançar no jogo
+(outputs). Ao dar entrada e decodificar as respostas dadas
+pelo sistema, o jogador desenvolve sua experiencia de jogo.
+Essa experiencia constroe-se a partir da sequencia dos
+eventos que dao significado para todas suas açoes dentro do
+jogo. Caso essa sequencia de eventos seja satisfatoria, a
+experiencia decorrente pode criar uma profunda imersao do
+jogador no jogo. Essa imersao e capaz de desencadear
+fortes emoçoes sociais. Assim, enquanto o jogador avança
+no jogo, e possivel que os eventos desdobrados produzam
+raiva, felicidade, tristeza ou mesmo um sentimento de
+pertencimento .
+
+O genero do jogo e um aspecto fundamental para a imersao
+e evoluçao do jogador dentro da experiencia. A depender do
+tipo de jogo, a ligaçao emocional entre o jogador e os
+personagens podem ser mais fortes, favorecendo a imersao.
+Nesse sentido, os jogos do genero walking simulator
+("simulador de caminhada" em ingles), sao um bom
+exemplo. Os walking simulators, em geral, nao apresentam
+aspectos tradicionais de um jogo (como um objetivo claro,
+condiçoes de vitoria / derrota, rankings, etc). Nesse tipo de
+jogo, o jogador se depara com uma narrativa de ritmo lento,
+cobrindo topicos sobre contemplaçao e exploraçao com
+algum nivel de evoluçao emocional .
+
+E ponto pacifico na industria de tecnologia que um dos
+pontos fortes da realidade virtual (RV) e sua capacidade de
+criar experiencias a partir da imersao e sensaçao de
+presença . No contexto de jogos em RV essas
+caracteristicas se intensificam quando se trata de jogos do
+tipo walking simulator. Evidentemente, walking simulator e
+jogos em Realidade Virtual tem muitas caracteristicas
+comuns e complementares. Algumas dessas semelhanças
+entre o genero e a plataforma sao: ritmo lento, experiencias
+imersivas e forte vinculo emocional . Estes elementos
+sao decididos pelo Designer do jogo, o profissional
+responsavel por definir todos os elementos centrais da
+experiencia do jogador e quao bem o jogo suporta e fornece
+o tipo de diversao que os jogadores querem ter . Juntos e
+bem combinados, walking simulators e RV sao recursos
+fortes para que os Designers de jogos desenvolvam
+experiencias satisfatorias para os jogadores.
+
+Angest e Dead Body Falls sao walking simulators em RV
+desenvolvidos pela Black River Studios, setor de jogos do
+SIDIA (Samsung Instituto de Desenvolvimento para a
+Informatica na Amazonia). Os jogos foram
+desenvolvidos para a plataforma Gear VR, dispositivo de
+realidade virtual da Samsung, pertencente a categoria dos
+chamados Head Mounted Display (HMD), onde o usuario
+precisa conectar um smartphone ao aparelho para ter acesso
+ao conteudo em RV.
+
+Em ambos os jogos, o jogador e guiado por uma narrativa
+envolta em misterio, os objetivos nao sao claros e cabe ao
+jogador explorar o cenario para interagir com objetos que
+podem ajuda-lo a entender melhor a historia dos jogos,
+onde a narrativa e usada como um recurso do gameplay.
+Assim, ambos os jogos carecem, intencionalmente, de
+muitos elementos que normalmente compoem a experiencia
+do jogador como "diversao em vencer obstaculos",
+"recompensa intrinseca", "aumento da carga de trabalho" e
+a premissa de que "humanos precisam ser desafiados"[2].
+
+Essas particularidades despertam algumas questoes
+interessantes. Já que "escolhas significativas" sao um pilar
+bem conhecido do bom design de jogos [9], uma vez que as
+escolhas não estao disponiveis para o jogador, as outras
+decisoes no design do jogo compensam essa falta? Se a
+condicao vencedora e um paradigma amplamente usado na
+industria do jogo, que tal a experiencia do jogador em um
+jogo que nao e possível ganhar ou perder? ... e para a
+perspectiva de pesquisa, qual e a definição de sucesso em
+jogos com essa caracteristica?
+
+**ABORDAGEM ADOTADA**
+
+Nos dois jogos aqui citados, a maioria das perguntas e
+duvidas da pesquisa estavam diretamente relacionadas a
+satisfaçao do jogador e a percepçao subjetiva da trama e da
+experiencia geral. Dessa forma, optou-se por uma
+abordagem qualitativa, compartilhada do ferramental
+metodologico das ciencias sociais. Assim, como na maioria
+das pesquisas de ciencias sociais, a metodologia utilizada
+para avaliar nosso objeto (satisfaçao do jogador de jogos
+walking simulator em VR) foi construida com base em
+questoes de pesquisa identificadas junto ao time que
+desenvolveu o jogo.
+
+Depois que as questoes de pesquisa foram identificadas, o
+proximo desafio foi escolher as tecnicas de pesquisa que
+pudessem lidar com todas essas questoes.
+
+A experiencia de jogar um jogo de RV mais profundo
+fornece emoçoes complexas nos jogadores o que permite
+que cada um construa sua propria perspectiva dessa
+experiencia. Para selecionar as ferramentas, lembramos que
+as abordagens subjetivas funcionam melhor para identificar
+as atitudes e preferencias dos jogadores, portanto, era
+esperado que a entrevista apos o teste (debrifing) fosse o
+principal instrumento para responder as questoes de
+pesquisa. Como nao ha categorias claras, especificas e
+dedicadas para avaliar jogos walking simulators, perguntas
+abertas sao mais indicadas do que perguntas fechadas.
+Dessa forma, a sessao de debriefing foi um ponto chave e o
+design de perguntas abertas direcionadas para a proposta do
+jogo funcionou bem com os jogadores. Com isso, o
+feedback foi natural e rico.
+
+Recrutar participantes foi um aspecto central para o sucesso
+dos testes, um pequeno questionario foi desenvolvido para
+garantir que o perfil de participantes corresponde aquele
+que o jogo almejava alcançar. Alem das questoes
+sociodemograficas, a questao principal era sobre o estilo de
+jogo preferido do participante. Os walking simulators sao,
+em outras palavras, fortes vieses, ou as pessoas odeiam ou
+as pessoas o amam . Dessa forma, o questionario de
+recrutamento perguntava os jogos favoritos do potencial
+participante e se ele ela ja tinha jogado algum jogo do
+genero em questao. So participaram da pesquisa jogadores
+que apreciavam esse tipo de jogo. Essas perguntas
+mostraram-se apropriadas para validar o perfil do jogador.
+
+Os testes dos jogos seguiram a estrutura geral da maioria
+dos testes de validaçao com o usuario: um moderador e um
+facilitador deram as boas-vindas aos participantes; eles
+foram solicitados a assinar um formulario de acordo de
+confidencialidade; as instruçoes foram apresentadas para os
+participantes; eles jogaram o jogo; houve o debriefing e, em
+seguida, cada participante foi agradecido recompensado
+pela sua participaçao.
+
+O planejamento, a execuçao e o relatorio dos resultados
+levaram quatro semanas ao todo. O passo a passo
+metodologico foi: i) compreender o desafio e definir
+questoes de pesquisa; ii) definir o perfil do jogador; iii)
+selecionar metodologias; iv) definir um cronograma; v)
+recrutar participantes; vi) configurar a localizaçao,
+documentaçao e dispositivos do playtest; vii) rodar o
+playtest; viii) coletar os dados; ix) analisar os dados; x)
+relatorio parcial; xi) relatorio final e apresentaçao de
+resultados.
+
+Nesse sentido, o uso de um documento de pesquisa para
+organizar o teste, detalhar sua estrutura e resultados
+mostrou-se uma ferramenta relevante para manter o foco e
+o contexto sempre claros ao longo das quatro semanas.
+
+RESULTADOS
+
+Os desafios de testar jogos desenvolvidos para tecnologias emergentes como a Realidade Virtual sao muitos, sendo o primeiro deles, a busca por usuarios com alguma experiencia de uso e que nao se mostrem tao “encantados” com a tecnologia. Para contornar esse problema, costumamos testar nossos jogos em Arcades de Realidade Virtual, ja bastante comuns na cidade de Sao Paulo. Nesses lugares, conseguimos encontrar um publico familiarizado com essa tecnologia, que costuma jogar jogos RV com certa regularidade e que ja experimentou varios jogos nessa plataforma. Por conta disso, esse publico tende a ser bastante critico quanto a qualidade dos jogos, fornecendo opinioes e sugestoes que tem ajudado a equipe de desenvolvimento a melhorar os jogos que sao testados.
+
+Um outro desafio diz respeito a usabilidade em jogos, uma vez que existe uma fina linha que separam os problemas de usabilidade e a dificuldade inerente ao desafio que o jogador deve enfrentar para dominar o jogo. De forma geral, nossa experiencia tem mostrado que os problemas de usabilidade (como falta de consistencia ou uso de modelos mentais que desconsideram a bagagem cultural do jogador) costumam interferir na curva de aprendizado do jogador, tornando a experiencia de jogo penosa e, por vezes, desengajadora. Para lidar com questoes como essa, o profissional que planeja e executa os testes precisa trabalhar alinhado com o Designer de jogos. Em nossas pesquisas de satisfacao de jogos, costumamos envolver esses profissionais em todas as fases da pesquisa, desde a definicao das questoes de pesquisa e hipoteses, ate a conducao dos testes. Nossa experiencia tem mostrado que essa abordagem tem servido para melhorar o engajamento desse profissional e do time como um todo em torno de questoes relacionadas a experiencia do jogador.
+
+A configuracao de teste para jogos de RV e outro desafio tecnico, especialmente quando executado em um dispositivo HMD como o Samsung Gear VR. Dispositivos como esses costumam superaquecer, algo que pode acabar perturbando a experiencia de jogo e o teste. Nos testes realizados este problema e evitado gracas a qualidade do software. Todos os jogos passam pelo setor de QA (quality assurance) para garantir que o dispositivo nao va travar ou desligar por conta de um problema de performance.
+
+O Samsung Gear VR permite compartilhar a tela do jogador com uma smartTV durante a sessao do jogo. Contudo, apos um teste piloto, percebeu-se que esse recurso apresentava uma configuracao dificil e demorada, alem de impactar o desempenho do hardware e da bateria do celular. Assim, optou-se por abandonar essa possibilidade para reduzir o atrito na experiencia.
+
+Em geral, o feedback da equipe de desenvolvimento do jogo sobre os testes tem sido positivo. Na avaliacao do jogo Angest, por exemplo, muitas das supocisoes e hipoteses levantadas puderam ser confirmadas e o relatorio foi usado para justificar algumas decisoes de mercado e promocao. A primeira vista, desenvolver um walking simulator para RV, tinha se mostrado uma escolha de enorme risco uma vez que se trata de um tipo de jogo de nicho. Todavia a avaliacao subjetiva dos jogadores confirmou que essa escolha poderia se tornar uma boa decisao estrategica. Os comentarios sobre a loja Oculus e outras revistas especializadas 10 foram muito semelhantes e aos coletados durante as avaliacoes com os jogadores, o que acabou reforcando os resultados e a metodologia da pesquisa. A pesquisa tambem ajudou a definir a expectativa de sucesso do jogo para a alta gerencia da empresa.
+
+**CONCLUSAO**
+
+Avaliar a experiencia do jogador em jogos de RV do tipo
+walking simulator trata-se de um tipo de pesquisa que exige
+planejamento, organizaçao e principalmente alinhamento
+entre o time de desenvolvimento e a equipe de pesquisa. E
+extremamente necessario que a equipe de pesquisa
+compreenda a proposta do jogo, a mecanica e as intençoes
+de seus criadores (Designer de jogos). A realidade virtual
+nao e tao familiar quanto muitas outras plataformas, como
+desktop e dispositivos moveis, mas esta crescendo
+rapidamente em muitas areas diferentes, nao apenas em
+jogos. Assim, e importante que os jogos e as pesquisas
+sobre UX estejam preparados para lidar com as
+especificidades dessa tecnologia, de modo que esperamos
+que esse trabalho ajude a novos pesquisadores e
+interessados em RV a estarem preparadas para esse desafio.
+
+Nossa percepçao e que, quando o objeto de pesquisa e um
+novo desafio em um dado campo, o primeiro procedimento
+e retornar a base do campo, rever seus fundamentos e
+verificar quao relevantes eles permanecem. Em nossas
+pesquisas costumamos selecionar tecnicas de Experiencia
+do Usuario (UX) e da area de Design de jogos. Ha um
+ganho duplo com essa estrategia, i) primeiro, embora a base
+de um campo as vezes nao seja suficiente para esgotar todas
+as duvidas em uma pesquisa, elas sao abertas e genericas o
+suficiente para permitir que a pesquisa comece a abordar o
+problema; ii) segundo, e possivel esclarecer o quanto o
+objeto da pesquisa ainda pertence aquele dado campo de
+conhecimento. Caso essa relacao entre conhecimento do
+campo e pertencimento do objeto ao campo seja muito
+fraca, torna-se evidente a necessidade de buscar novas
+abordagens e metodos de outros campos do conhecimento.
+O corpus teorico da Interacao Humano-Computador ainda
+se mostra como o ponto de partida que oferece o
+ferramental teorico para os pesquisadores de tecnologias
+emergentes. Contudo, seu arcabouço nao e suficiente para
+resolver todos os desafios que tem surgido. Dessa forma,
+espera-se que em um futuro proximo, a avaliacao de jogos
+de RV tenha seus proprios metodos e aparatos. Ate la, para
+ajudar nessa construcao, faz-se necessaria a aplicacao e
+depuracao dos metodos ja legitimados em campos
+correlatos.
+
+
+**CONSIDERACOES FINAIS**
+
+Em conclusao, a avaliaçao de UX em jogos de realidade virtual apresenta desafios especificos que exigem abordagens metodologicas adaptadas e um forte alinhamento entre as equipes de desenvolvimento e pesquisa. Ao retornar aos fundamentos da area e aplicar tecnicas de UX e design de jogos, e possivel obter insights valiosos sobre a satisfaçao do jogador e a qualidade da experiencia em RV, contribuindo para o aprimoramento e sucesso desses jogos.

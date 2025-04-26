@@ -26,7 +26,7 @@ from langchain_google_genai import ChatGoogleGenerativeAI
 # Configurações
 # -----------------------
 
-GOOGLE_API_KEY = "AIzaSyA9-k3Zr9cZTJCHrAwA9wQKNJgQB4stfGI" 
+GOOGLE_API_KEY = "" 
 
 Settings.embed_model = HuggingFaceEmbedding(
     model_name="sentence-transformers/paraphrase-multilingual-mpnet-base-v2",
